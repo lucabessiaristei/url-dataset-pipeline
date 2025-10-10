@@ -9,8 +9,8 @@ from urllib3.util.retry import Retry
 
 # Configurazione
 INPUT_WARC = "CC-MAIN-20220116093137-20220116123137-00029.warc"
-OUTPUT_FILE = "working_urls.json"
-SAMPLE_SIZE = 1000
+OUTPUT_FILE = "working.json"
+SAMPLE_SIZE = 5000
 TIMEOUT = 1
 MAX_WORKERS = 20  # numero di thread paralleli
 BATCH_SAVE = 10   # salva ogni N URL trovati
