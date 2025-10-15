@@ -128,7 +128,7 @@ def update_readme_with_tree(tree_string):
         content = f.read()
 
     start_marker = "## Complete Directory Structure"
-    end_marker = "*Directory structure generated automatically"
+    end_marker = "*END"
 
     start_idx = content.find(start_marker)
     if start_idx == -1:
@@ -148,7 +148,6 @@ def update_readme_with_tree(tree_string):
 
     new_section = (
         f"{start_marker}\n\n```\n{tree_string}```\n\n"
-        "*Directory structure generated automatically by `directory_structure_printer.py`*\n```"
     )
 
     new_content = content[:start_idx] + new_section + content[end_line_idx:]
