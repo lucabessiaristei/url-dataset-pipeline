@@ -148,6 +148,7 @@ def update_readme_with_tree(tree_string):
 
     new_section = (
         f"{start_marker}\n\n```\n{tree_string}```\n\n"
+        "*END"
     )
 
     new_content = content[:start_idx] + new_section + content[end_line_idx:]
