@@ -82,7 +82,7 @@ def main():
         url = item.get("url", "")
         title = clean_text(item.get("title", ""))
         desc = clean_text(item.get("description", ""))
-        body = clean_text(item.get("body_preview", ""))
+        body = clean_text(item.get("preview", ""))
 
         combined = " ".join([title, desc, body]).strip()
         lang = detect_language(combined)
@@ -110,8 +110,7 @@ def main():
             "url": url,
             "title": title,
             "description": desc,
-            "body_preview": body,
-            "lang": lang
+            "preview": body,
         })
 
         stats[lang] = stats.get(lang, 0) + 1

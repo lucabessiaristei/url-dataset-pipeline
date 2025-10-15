@@ -7,7 +7,7 @@ from urllib3.util.retry import Retry
 import time
 
 # Configurazione
-INPUT_FILE = "bookmark_urls_all.json"
+INPUT_FILE = "bookmark_json_batch.json"
 OUTPUT_FILE = "working.json"
 TIMEOUT = 1
 MAX_WORKERS = 30  # thread paralleli

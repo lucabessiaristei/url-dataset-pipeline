@@ -2,8 +2,8 @@ import json
 import re
 import os
 
-INPUT_FILE = "working_expanded.json"
-OUTPUT_FILE = "working_expanded_clean.json"
+INPUT_FILE = "working_expanded_eu.json"
+OUTPUT_FILE = "working_expanded_eu2.json"
 
 
 # ==============================================================
@@ -94,7 +94,7 @@ def main():
         url = item.get("url", "")
         title = clean_text(item.get("title", ""))
         desc = clean_text(item.get("description", ""))
-        body = clean_text(item.get("body_preview", ""))
+        body = clean_text(item.get("preview", ""))
 
         # Filtra se contiene errori
         if contains_error_content(title, desc, body):
@@ -107,11 +107,17 @@ def main():
         desc = desc if desc else "void"
         body = body if body else "void"
 
+        # Nuova regola: rimuovi se title è "void" e preview < 50 caratteri
+        if title == "void" and len(body) < 50:
+            removed += 1
+            print(f"  ⚠️  Rimossa: {url} (title void + preview troppo corto)")
+            continue
+
         cleaned_data.append({
             "url": url,
             "title": title,
             "description": desc,
-            "body_preview": body
+            "preview": body
         })
 
     # Pulizia finale del JSON

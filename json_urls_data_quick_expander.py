@@ -138,7 +138,7 @@ def scrape_url(url):
             'url': url,
             'title': title,
             'description': description,
-            'body_preview': body_text
+            'preview': body_text
         }
 
     except Exception as e:
