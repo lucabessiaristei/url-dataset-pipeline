@@ -1,6 +1,84 @@
 {
   "folders": [
     {
+      "name": "non-profit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://aicho.org/#/",
+          "title": "AICHO - Home"
+        },
+        {
+          "url": "https://c4ads.org/about-us",
+          "title": "About Us - C4ADS"
+        },
+        {
+          "url": "https://bridgecollaborativeglobal.org/solutions/cross-sector-stories/bridge-spark-fund-2020",
+          "title": "The Bridge Collaborative | The Nicholas Institute for Energy, Environment & Sustainability"
+        },
+        {
+          "url": "https://nativestartup.org/",
+          "title": "Change Labs"
+        },
+        {
+          "url": "https://ellenmacarthurfoundation.org/our-work/activities/new-plastics-economy/global-commitment",
+          "title": "The Global Commitment | Ellen MacArthur Foundation"
+        },
+        {
+          "url": "https://multivu.com/players/English/8717251-kellie-pickler-wilmer-valderrama-named-uso-global-ambassadors",
+          "title": "Kellie Pickler, Wilmer Valderrama Named USO Global Ambassadors"
+        },
+        {
+          "url": "https://ledcmn.org/",
+          "title": "Latino Economic Development Center - LEDC - An association of Latino entrepreneurs and leaders in the state of Minnesota"
+        },
+        {
+          "url": "https://hocmn.org/",
+          "title": "Minnesota Homeownership Center"
+        },
+        {
+          "url": "https://oceans5.org/",
+          "title": "Dedicated to protecting the world's five oceans | Oceans 5"
+        },
+        {
+          "url": "https://tamar.org.br/",
+          "title": "PROJETO TAMAR"
+        },
+        {
+          "url": "https://shiftcities.org/",
+          "title": "Transforming cities for people and planet | UrbanShift"
+        },
+        {
+          "url": "https://socialworkschi.org/",
+          "title": "Chicago's Youth Charity - Donate & Volunteer | SocialWorks"
+        },
+        {
+          "url": "https://solid-ground.org/",
+          "title": "Home Page - Solid Ground"
+        },
+        {
+          "url": "https://allstatefoundation.org/",
+          "title": "The Allstate Foundation | Allstate Corporation"
+        },
+        {
+          "url": "https://tbf.org/news-and-insights/press-releases/2022/july/q4-fy22-grants-announcement-20220707",
+          "title": "The Boston Foundation announces nearly $4.2 million in grants - TBF"
+        },
+        {
+          "url": "https://online.foundationsource.com/public/home/marisla",
+          "title": "The Marisla Foundation"
+        },
+        {
+          "url": "https://weconnectinternational.org/",
+          "title": "weconnectinternational.org"
+        },
+        {
+          "url": "https://ywcagp.org/",
+          "title": "YWCA Glendale & Pasadena | Peace | Justice | Freedom"
+        }
+      ],
+      "count": 18
+    },
+    {
       "name": "education",
       "bookmarks": [
         {
@@ -8,134 +86,146 @@
           "title": "African American Male Teacher Initiative « Huston-Tillotson"
         },
         {
-          "url": "http://www.trentu.ca/archaeology/",
-          "title": "Archaeology - Trent University"
+          "url": "https://bibliometria.us.es/prisma/publicacion/buscar/fuente/4296",
+          "title": "Búsqueda de Publicación - Prisma - Unidad de Bibliometría"
         },
         {
-          "url": "https://www.thesecularparent.com/2019/04/02/free-classroom-newsletter-templates-for-microsoft-word/",
+          "url": "https://thesecularparent.com/2019/04/02/free-classroom-newsletter-templates-for-microsoft-word",
           "title": "Free Classroom Newsletter Templates For Microsoft Word Templates-1 : Resume Examples"
-        },
-        {
-          "url": "http://www.ucsf.edu/",
-          "title": "Home | UC San Francisco"
-        },
-        {
-          "url": "https://intercom.help/merit-america/en/articles/5691241-how-much-do-your-programs-cost",
-          "title": "How much does Merit America cost? | Merit America Help Center"
         },
         {
           "url": "https://shop.hueber.de/de/sprache-unterrichten/deutsch-als-fremdsprache-daf-daz/kategorien/17146/niveaustufen/a2.html",
           "title": "Hueber | Deutsch als Fremdsprache (DaF/DaZ) - Sprache unterrichten: A2 and 17146 Shop"
         },
         {
-          "url": "https://www.codecademy.com/learn/learn-sql",
+          "url": "https://intercom.help/merit-america/en/articles/5691241-how-much-do-your-programs-cost",
+          "title": "How much does Merit America cost? | Merit America Help Center"
+        },
+        {
+          "url": "https://codecademy.com/learn/learn-sql",
           "title": "Learn SQL | Codecademy"
         },
         {
-          "url": "https://www.kauffman.org/currents/2019/09/new-survey-highlights-disconnect-between-high-school-and-real-world",
+          "url": "https://kauffman.org/currents/2019/09/new-survey-highlights-disconnect-between-high-school-and-real-world",
           "title": "New survey highlights disconnect between high school and the real world - Ewing Marion Kauffman Foundation | Kauffman.org"
         },
         {
-          "url": "http://www.unisi.it/",
+          "url": "https://trentu.ca/archaeology",
+          "title": "Archaeology - Trent University"
+        },
+        {
+          "url": "https://ucsf.edu/",
+          "title": "Home | UC San Francisco"
+        },
+        {
+          "url": "https://unisi.it/",
           "title": "Università degli Studi di Siena"
         }
       ],
-      "count": 9
+      "count": 10
     },
     {
-      "name": "orgs-environment",
+      "name": "news-media",
       "bookmarks": [
         {
-          "url": "https://bridgecollaborativeglobal.org/solutions/cross-sector-stories/bridge-spark-fund-2020/",
-          "title": "The Bridge Collaborative | The Nicholas Institute for Energy, Environment & Sustainability"
+          "url": "https://commonsensemedia.org/",
+          "title": "Common Sense Media: Age-Based Media Reviews for Families | Common Sense Media"
         },
         {
-          "url": "https://greendot.com.cy/",
-          "title": "Αρχική - Green Dot Cyprus"
+          "url": "https://wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
+          "title": "Despite job openings, gap remains between labor pool and needed skills"
         },
         {
-          "url": "https://rev-log.com/us/consumer-electronics-recycling-opportunities/hawaii/",
-          "title": "Hawaii - Reverse Logistics Group"
+          "url": "https://nfl.com/news/packers-aaron-rodgers-finishes-retreat-addresses-future-i-don-t-want-to-drag-any",
+          "title": "Packers' Aaron Rodgers finishes retreat, addresses future: 'I don't want to drag anybody around'"
         },
         {
-          "url": "https://oceans5.org/",
-          "title": "Dedicated to protecting the world's five oceans | Oceans 5"
+          "url": "https://reviewed.usatoday.com/",
+          "title": "Product Reviews, Features, and Deals - Reviewed"
         },
         {
-          "url": "https://www.tamar.org.br/",
-          "title": "PROJETO TAMAR"
+          "url": "https://today.com/popculture/savannah-guthrie-shares-how-she-prepared-guest-host-jeopardy-t221916",
+          "title": "Savannah Guthrie shares how she prepared to guest host 'Jeopardy!'"
         },
         {
-          "url": "https://www.ellenmacarthurfoundation.org/our-work/activities/new-plastics-economy/global-commitment",
-          "title": "The Global Commitment | Ellen MacArthur Foundation"
+          "url": "https://hollywoodreporter.com/news/selena-gomez-to-host-multi-network-global-citizen-concert-supporting-covid-19-vaccine-push",
+          "title": "Selena Gomez to Host Global Citizen COVID-19 Vaccine Concert"
         },
         {
-          "url": "https://www.shiftcities.org/",
-          "title": "Transforming cities for people and planet | UrbanShift"
+          "url": "https://msnlatino.telemundo.com/contact_us",
+          "title": "Telemundo | Noticias, Shows, Entretenimiento, Series y Novelas | Telemundo"
+        },
+        {
+          "url": "https://uncut.co.uk/news/arctic-monkeys-alex-turner-i-want-to-start-writing-follow-up-to-suck-it-and-see-31195",
+          "title": "Arctic Monkeys' Alex Turner: 'I want to start writing follow-up to 'Suck It And See'' - UNCUT"
         }
       ],
-      "count": 7
+      "count": 8
     },
     {
-      "name": "orgs-social-justice",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "https://www.aicho.org/#/",
-          "title": "AICHO - Home"
+          "url": "https://qvc.com/qvc.product.A422232.html",
+          "title": "Benefit Cosmetics They're Real LengtheningMascara - QVC.com"
         },
         {
-          "url": "https://c4ads.org/about-us/",
-          "title": "About Us - C4ADS"
+          "url": "https://demoshop.billie.io/lebensmittel/fisch/12/bio-seelachs",
+          "title": "Bio Seelachs | Fisch | Lebensmittel | Demoshop Billie"
         },
         {
-          "url": "https://www.hocmn.org/",
-          "title": "Minnesota Homeownership Center"
+          "url": "https://perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms",
+          "title": "Cremes efeito lifting Estée Lauder online | Perfume's Club"
         },
         {
-          "url": "https://www.socialworkschi.org/",
-          "title": "Chicago's Youth Charity - Donate & Volunteer | SocialWorks"
+          "url": "https://ubeauty.com/products/the-mantle-skin-conditioning-wash?variant=40855746412644",
+          "title": "Nourishing Double Cleanser - U Beauty the MANTLE"
         },
         {
-          "url": "https://www.solid-ground.org/",
-          "title": "Home Page - Solid Ground"
+          "url": "https://technika-stroje.cz/dilna-zahrada-les/eshop/99-1-nove-produkty/520-3-Sedak",
+          "title": "Nářadí a stroje pro dům, dílnu, zahradu a stavbu"
         },
         {
-          "url": "https://ywcaaustin.org/fightinginsolidarity/",
-          "title": "Supporters - YWCA Austin | Mental Health | Volunteer | Counseling"
+          "url": "https://dia.com/",
+          "title": "Plus Size Clothing and Personal Styling for Women | Dia & Co"
         },
         {
-          "url": "https://www.ywcagp.org/",
-          "title": "YWCA Glendale & Pasadena | Peace | Justice | Freedom"
+          "url": "https://pjtra.com/t/8-9711-131940-104709?sid=PEOSarahJessicaParkerWoreThisEverydayLayeringPieceWhileontheSetofAndJustLikeThatssavoyFasAff13960716202302I&url=https%3A%2F%2Fwww.everlane.com%2Fproducts%2Fwomens-way-long-shirt-light-blue",
+          "title": "The Way Long Oxford Shirt | Light Blue - Everlane"
+        },
+        {
+          "url": "https://vacation.inc/products/classic-whip-spf-30",
+          "title": "Vacation® Classic Whip | SPF 30 Sunscreen"
         }
       ],
-      "count": 7
+      "count": 8
     },
     {
-      "name": "web-dev-and-tools",
+      "name": "tech-tools",
       "bookmarks": [
         {
-          "url": "https://mozilla.github.io/hackweek-avatar-maker/",
+          "url": "https://beautiful.ai/",
+          "title": "Best AI Presentation Maker for Professional Decks | Beautiful.ai - Generate High-Quality Slides With the #1 Artificial Intelligence Powered Presentation Tool Available"
+        },
+        {
+          "url": "https://cleverbot.com/app",
+          "title": "Cleverbot app - talk to an intelligent app"
+        },
+        {
+          "url": "https://mozilla.github.io/hackweek-avatar-maker",
           "title": "Hackweek Avatar Maker"
         },
         {
-          "url": "https://developer.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "MDN Web Docs"
-        },
-        {
-          "url": "https://bcc.wordpress.org/plugins/tags/user-profile/",
-          "title": "Plugins categorized as user profile | WordPress.org بلوچی"
-        },
-        {
-          "url": "https://www.random.org/lists/",
+          "url": "https://random.org/lists",
           "title": "RANDOM.ORG - List Randomizer"
         },
         {
-          "url": "https://help.github.com/en",
-          "title": "Sign in for Software Support and Product Help - GitHub Support"
+          "url": "https://squarespace.com/",
+          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
         },
         {
-          "url": "https://www.squarespace.com/",
-          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
+          "url": "https://palitra.app/",
+          "title": "The easiest way to find a color palette - Palitra App"
         },
         {
           "url": "https://studio.youtube.com/",
@@ -145,36 +235,126 @@
       "count": 7
     },
     {
-      "name": "art-and-museums",
+      "name": "civic-environment",
       "bookmarks": [
         {
-          "url": "https://www.tate.org.uk/art/art-terms/c/cubism",
+          "url": "https://greendot.com.cy/",
+          "title": "Αρχική - Green Dot Cyprus"
+        },
+        {
+          "url": "https://ce.naco.org/?dset=Poverty&ind=Number%20of%20Children%20in%20Poverty",
+          "title": "NACo County Explorer"
+        },
+        {
+          "url": "https://doc.govt.nz/",
+          "title": "Department of Conservation"
+        },
+        {
+          "url": "https://rev-log.com/us/consumer-electronics-recycling-opportunities/hawaii",
+          "title": "Hawaii - Reverse Logistics Group"
+        },
+        {
+          "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XII-7&chapter=12&clang=_en",
+          "title": "UNTC"
+        },
+        {
+          "url": "https://fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
+          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "media-content",
+      "bookmarks": [
+        {
+          "url": "https://charlyreynolds.com/",
+          "title": "Charly Reynolds"
+        },
+        {
+          "url": "https://blogs.esa.int/",
+          "title": "ESA Blog Navigator - Navigator page for active ESA blogs"
+        },
+        {
+          "url": "https://history.com/shows/historys-greatest-of-all-time-with-peyton-manning/season-1",
+          "title": "Homepage | HISTORY CHANNEL ITALIA"
+        },
+        {
+          "url": "https://reidjon.tumblr.com/",
+          "title": "Jon Reid Tumbling"
+        },
+        {
+          "url": "https://phoenixintheembers.tumblr.com/post/144208350051",
+          "title": "From Spark To Flame - Computing occupations are the largest category of..."
+        },
+        {
+          "url": "https://ramblingsofadaydreamer.com/2014/05/2014-historic-fiction-reading-challenge.html",
+          "title": "Ramblings of a Daydreamer: 2014 Historic Fiction Reading Challenge - May Review Link-Up"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "science-oceanography",
+      "bookmarks": [
+        {
+          "url": "https://worldbank.org/en/programs/africa-program-for-fisheries",
+          "title": "Africa Program for Fisheries"
+        },
+        {
+          "url": "https://ukargo.net/southern_ocean_argo_regional_centre/foam_plots/potential_temperature/2009-01-01",
+          "title": "FOAM 1/4 Degree Antarctic Model Potential Temperature Output on 01 January 2009"
+        },
+        {
+          "url": "https://fra.affrc.go.jp/english/eindex.html",
+          "title": "FRA"
+        },
+        {
+          "url": "https://iode.org/index.php?option=com_content&view=article&id=724&Itemid=100434",
+          "title": "IODE - International Oceanographic Data and Information Exchange"
+        },
+        {
+          "url": "https://oceanbestpractices.org/",
+          "title": "Ocean Best Practices System"
+        },
+        {
+          "url": "https://oceansatlas.org/",
+          "title": "UN Atlas of the Oceans: Home"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "art-museums",
+      "bookmarks": [
+        {
+          "url": "https://tate.org.uk/art/art-terms/c/cubism",
           "title": "Cubism | Tate"
         },
         {
-          "url": "https://www.magicum-berlin.de/museum/",
+          "url": "https://magicum-berlin.de/museum",
           "title": "Museum - Magicum Berlin Magic Museum"
         },
         {
-          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino.html",
+          "url": "https://museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino.html",
           "title": "Pio Clementino Museum"
         },
         {
-          "url": "https://www.metmuseum.org/art/collection/search?showOnly=withImage%7CopenAccess",
+          "url": "https://metmuseum.org/art/collection/search?showOnly=withImage%7CopenAccess",
           "title": "Search The Collection - The Metropolitan Museum of Art"
         },
         {
-          "url": "https://www.uffizi.it/en/online-tickets",
+          "url": "https://uffizi.it/en/online-tickets",
           "title": "void"
         }
       ],
       "count": 5
     },
     {
-      "name": "business-tool",
+      "name": "business-services-tools",
       "bookmarks": [
         {
-          "url": "https://assessment.connectedcouncil.org",
+          "url": "https://assessment.connectedcouncil.org/",
           "title": "Digitally Driven Assessment - Grow your business with digital tools"
         },
         {
@@ -182,159 +362,55 @@
           "title": "Gyft Corporate"
         },
         {
-          "url": "http://recruiterbox.com/",
+          "url": "https://recruiterbox.com/",
           "title": "Recruitment Software and Applicant Tracking System | Trakstar Hire"
         },
         {
-          "url": "https://rechargepayments.com/subscribe-with-recharge/",
+          "url": "https://rechargepayments.com/subscribe-with-recharge",
           "title": "Subscribe with Recharge - Recharge"
         },
         {
-          "url": "https://www.yourvone.com/",
+          "url": "https://yourvone.com/",
           "title": "v one"
         }
       ],
       "count": 5
     },
     {
-      "name": "government",
+      "name": "corporate-homepages",
       "bookmarks": [
         {
-          "url": "https://ce.naco.org/?dset=Poverty&ind=Number%20of%20Children%20in%20Poverty",
-          "title": "NACo County Explorer"
+          "url": "https://airnewzealand.co.nz/homepage",
+          "title": "Air New Zealand - Book Flights & Earn Airpoints™"
         },
         {
           "url": "https://danvilleutilities.com/nDanville/nDanville.html",
           "title": "nDanville Welcome | Danville Utilities"
         },
         {
-          "url": "http://doc.govt.nz",
-          "title": "Department of Conservation"
+          "url": "https://lg.com/us",
+          "title": "LG Electronics & Home Appliances | Shop Now | LG USA"
         },
         {
-          "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XII-7&chapter=12&clang=_en",
-          "title": "UNTC"
+          "url": "https://oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
+          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
         },
         {
-          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
-          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
+          "url": "https://stantec.com/en/ideas/topic/covid-19/covid-19-recovery-strategies-for-downtowns",
+          "title": "COVID-19 Recovery Strategies for Downtowns"
         }
       ],
       "count": 5
-    },
-    {
-      "name": "legal-and-policy",
-      "bookmarks": [
-        {
-          "url": "https://www.nyclu.org/en/news/historic-police-accountability-case-turns-50",
-          "title": "An Historic Police Accountability Case Turns 50 - NYCLU"
-        },
-        {
-          "url": "http://endjusticefees.org",
-          "title": "End Justice Fees"
-        },
-        {
-          "url": "http://www.myplayhomeapp.com/privacy.html",
-          "title": "My PlayHome Privacy Policy"
-        },
-        {
-          "url": "https://accounts.nintendo.com/term_chooser/privacy_policy",
-          "title": "Nintendo Account"
-        },
-        {
-          "url": "http://shavedham.blogspot.com/p/shaved-labs-privacy-policy.html",
-          "title": "Shaved Labs - iPhone Apps: Privacy Policy"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "orgs-business",
-      "bookmarks": [
-        {
-          "url": "https://www.madisonblackchamber.com/",
-          "title": "BLACK CHAMBER"
-        },
-        {
-          "url": "http://www.nativestartup.org/",
-          "title": "Change Labs"
-        },
-        {
-          "url": "https://www.coloradoblackchamber.org/",
-          "title": "Colorado Black Chamber of Commerce | Minority Entrepreneurs | Denver, CO"
-        },
-        {
-          "url": "https://www.ledcmn.org/",
-          "title": "Latino Economic Development Center - LEDC - An association of Latino entrepreneurs and leaders in the state of Minnesota"
-        },
-        {
-          "url": "https://www.blackchamber.com/",
-          "title": "Silicon Valley Black Chamber of Commerce"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "beauty-product",
-      "bookmarks": [
-        {
-          "url": "https://www.qvc.com/qvc.product.A422232.html",
-          "title": "Benefit Cosmetics They're Real LengtheningMascara - QVC.com"
-        },
-        {
-          "url": "https://www.perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms/",
-          "title": "Cremes efeito lifting Estée Lauder online | Perfume's Club"
-        },
-        {
-          "url": "https://ubeauty.com/products/the-mantle-skin-conditioning-wash?variant=40855746412644",
-          "title": "Nourishing Double Cleanser - U Beauty the MANTLE"
-        },
-        {
-          "url": "https://www.vacation.inc/products/classic-whip-spf-30",
-          "title": "Vacation® Classic Whip | SPF 30 Sunscreen"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment",
-      "bookmarks": [
-        {
-          "url": "http://blogs.esa.int/",
-          "title": "ESA Blog Navigator - Navigator page for active ESA blogs"
-        },
-        {
-          "url": "https://www.history.com/shows/historys-greatest-of-all-time-with-peyton-manning/season-1",
-          "title": "Homepage | HISTORY CHANNEL ITALIA"
-        },
-        {
-          "url": "https://www.multivu.com/players/English/8717251-kellie-pickler-wilmer-valderrama-named-uso-global-ambassadors/",
-          "title": "Kellie Pickler, Wilmer Valderrama Named USO Global Ambassadors"
-        },
-        {
-          "url": "https://www.nfl.com/news/packers-aaron-rodgers-finishes-retreat-addresses-future-i-don-t-want-to-drag-any",
-          "title": "Packers' Aaron Rodgers finishes retreat, addresses future: 'I don't want to drag anybody around'"
-        },
-        {
-          "url": "https://www.today.com/popculture/savannah-guthrie-shares-how-she-prepared-guest-host-jeopardy-t221916",
-          "title": "Savannah Guthrie shares how she prepared to guest host 'Jeopardy!'"
-        },
-        {
-          "url": "https://www.hollywoodreporter.com/news/selena-gomez-to-host-multi-network-global-citizen-concert-supporting-covid-19-vaccine-push",
-          "title": "Selena Gomez to Host Global Citizen COVID-19 Vaccine Concert"
-        },
-        {
-          "url": "http://msnlatino.telemundo.com/contact_us",
-          "title": "Telemundo | Noticias, Shows, Entretenimiento, Series y Novelas | Telemundo"
-        }
-      ],
-      "count": 7
     },
     {
       "name": "finance",
       "bookmarks": [
         {
-          "url": "https://www.columbiabank.com/",
+          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
+          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
+        },
+        {
+          "url": "https://columbiabank.com/",
           "title": "Columbia Bank | ColumbiaBank.com"
         },
         {
@@ -342,383 +418,199 @@
           "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (GS10) | FRED | St. Louis Fed"
         },
         {
-          "url": "https://lfca.earth/sustainability-clause/",
+          "url": "https://lfca.earth/sustainability-clause",
           "title": "VC Sustainability Clause"
         },
         {
-          "url": "https://www.safermade.net/?_sm_vck=jNJ30nTJf741NvVvVZnDD2cB4sQjqqsV23RDNFM1Q720nHJB2NTP",
+          "url": "https://safermade.net/?_sm_vck=jNJ30nTJf741NvVvVZnDD2cB4sQjqqsV23RDNFM1Q720nHJB2NTP",
           "title": "Venture Capital | Safer Made"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "social-advocacy-issues",
+      "bookmarks": [
+        {
+          "url": "https://nyclu.org/en/news/historic-police-accountability-case-turns-50",
+          "title": "An Historic Police Accountability Case Turns 50 - NYCLU"
+        },
+        {
+          "url": "https://endjusticefees.org/",
+          "title": "End Justice Fees"
+        },
+        {
+          "url": "https://unfpa.org/gender-equality",
+          "title": "Gender equality | United Nations Population Fund"
+        },
+        {
+          "url": "https://military.com/veteran-jobs/goodwill-industries-has-answer-new-survey-found-job-seekers-still-lack-critical-skills.html",
+          "title": "Goodwill Industries Has an Answer to New Survey That Found Job Seekers Still Lack Critical Skills | Military.com"
+        },
+        {
+          "url": "https://glaad.org/transgender",
+          "title": "Transgender Media | GLAAD"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "food-culinary",
+      "bookmarks": [
+        {
+          "url": "https://barbero.com/",
+          "title": "Delizie Bakery - Un mondo di cose buone"
+        },
+        {
+          "url": "https://easybistro.com/",
+          "title": "Classic Bistro & Seafood Restaurants In Chattanooga - Easy Bistro"
+        },
+        {
+          "url": "https://giorgiotave.it/ricette_cucina",
+          "title": "Host - Hosting sicuro e professionale dedicato alle imprese"
+        },
+        {
+          "url": "https://directaccessrecipes.com/index.jsp?recId=85937",
+          "title": "Searchable Recipe Database - Spinach Salad w/ Orange Sesame Dressing"
         }
       ],
       "count": 4
     },
     {
-      "name": "health",
+      "name": "health-services",
       "bookmarks": [
         {
           "url": "https://umc.edu/news/News_Articles/2023/02/Ladner-quintuplets.html",
           "title": "Ladner family welcomes quintuplets at UMMC - University of Mississippi Medical Center"
         },
         {
-          "url": "https://www.schweigerderm.com/providers/michele-farber-md/",
+          "url": "https://schweigerderm.com/providers/michele-farber-md",
           "title": "Michele Farber, MD | Schweiger Dermatology Group"
         },
         {
-          "url": "http://www.sharp.com/",
+          "url": "https://sharp.com/",
           "title": "Top San Diego Hospitals and Doctors | Sharp HealthCare"
         },
         {
-          "url": "https://www.uhccommunityplan.com/grow",
+          "url": "https://uhccommunityplan.com/grow",
           "title": "UnitedHealthcare Community Plan"
         }
       ],
       "count": 4
     },
     {
-      "name": "oceanography",
-      "bookmarks": [
-        {
-          "url": "https://www.ukargo.net/southern_ocean_argo_regional_centre/foam_plots/potential_temperature/2009-01-01/",
-          "title": "FOAM 1/4 Degree Antarctic Model Potential Temperature Output on 01 January 2009"
-        },
-        {
-          "url": "https://iode.org/index.php?option=com_content&view=article&id=724&Itemid=100434",
-          "title": "IODE - International Oceanographic Data and Information Exchange"
-        },
-        {
-          "url": "http://www.oceanbestpractices.org",
-          "title": "Ocean Best Practices System"
-        },
-        {
-          "url": "http://www.oceansatlas.org",
-          "title": "UN Atlas of the Oceans: Home"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "career-dev",
-      "bookmarks": [
-        {
-          "url": "https://www.wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
-          "title": "Despite job openings, gap remains between labor pool and needed skills"
-        },
-        {
-          "url": "https://phoenixintheembers.tumblr.com/post/144208350051",
-          "title": "From Spark To Flame - Computing occupations are the largest category of..."
-        },
-        {
-          "url": "https://www.military.com/veteran-jobs/goodwill-industries-has-answer-new-survey-found-job-seekers-still-lack-critical-skills.html",
-          "title": "Goodwill Industries Has an Answer to New Survey That Found Job Seekers Still Lack Critical Skills | Military.com"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "design-resource",
+      "name": "reference-resources",
       "bookmarks": [
         {
           "url": "https://nappy.co/",
           "title": "Nappy | Beautifully Diverse Stock Photos"
         },
         {
-          "url": "https://palitra.app/",
-          "title": "The easiest way to find a color palette - Palitra App"
+          "url": "https://rps.org/",
+          "title": "The Royal Photographic Society - Home - RPS"
         },
         {
-          "url": "https://weconnectinternational.org/",
-          "title": "weconnectinternational.org"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "food-and-recipes",
-      "bookmarks": [
-        {
-          "url": "https://demoshop.billie.io/lebensmittel/fisch/12/bio-seelachs",
-          "title": "Bio Seelachs | Fisch | Lebensmittel | Demoshop Billie"
-        },
-        {
-          "url": "http://www.barbero.com/",
-          "title": "Delizie Bakery - Un mondo di cose buone"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85937",
-          "title": "Searchable Recipe Database - Spinach Salad w/ Orange Sesame Dressing"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "orgs-foundation",
-      "bookmarks": [
-        {
-          "url": "https://allstatefoundation.org/",
-          "title": "The Allstate Foundation | Allstate Corporation"
-        },
-        {
-          "url": "https://www.tbf.org/news-and-insights/press-releases/2022/july/q4-fy22-grants-announcement-20220707",
-          "title": "The Boston Foundation announces nearly $4.2 million in grants - TBF"
-        },
-        {
-          "url": "https://online.foundationsource.com/public/home/marisla",
-          "title": "The Marisla Foundation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "reference",
-      "bookmarks": [
-        {
-          "url": "https://bibliometria.us.es/prisma/publicacion/buscar/fuente/4296",
-          "title": "Búsqueda de Publicación - Prisma - Unidad de Bibliometría"
-        },
-        {
-          "url": "https://www.treccani.it/vocabolario/tecnologia/",
+          "url": "https://treccani.it/vocabolario/tecnologia",
           "title": "Tecnologìa - Significato ed etimologia - Vocabolario - Treccani"
         },
         {
-          "url": "http://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
+          "url": "https://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
           "title": "Theodor Derendorf - ZonsWiki"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "science-and-research",
+      "name": "business-organizations",
       "bookmarks": [
         {
-          "url": "https://www.worldbank.org/en/programs/africa-program-for-fisheries",
-          "title": "Africa Program for Fisheries"
+          "url": "https://madisonblackchamber.com/",
+          "title": "BLACK CHAMBER"
         },
         {
-          "url": "https://www.fra.affrc.go.jp/english/eindex.html",
-          "title": "FRA"
+          "url": "https://blackchamber.com/",
+          "title": "Silicon Valley Black Chamber of Commerce"
         },
         {
-          "url": "https://info.cell.com/one-earth-registration",
-          "title": "One Earth - Register"
+          "url": "https://coloradoblackchamber.org/",
+          "title": "Colorado Black Chamber of Commerce | Minority Entrepreneurs | Denver, CO"
         }
       ],
       "count": 3
     },
     {
-      "name": "social-issues",
+      "name": "legal-documents",
       "bookmarks": [
         {
-          "url": "https://www.stantec.com/en/ideas/topic/covid-19/covid-19-recovery-strategies-for-downtowns",
-          "title": "COVID-19 Recovery Strategies for Downtowns"
+          "url": "https://myplayhomeapp.com/privacy.html",
+          "title": "My PlayHome Privacy Policy"
         },
         {
-          "url": "http://www.unfpa.org/gender-equality",
-          "title": "Gender equality | United Nations Population Fund"
+          "url": "https://accounts.nintendo.com/term_chooser/privacy_policy",
+          "title": "Nintendo Account"
         },
         {
-          "url": "https://www.glaad.org/transgender",
-          "title": "Transgender Media | GLAAD"
+          "url": "https://shavedham.blogspot.com/p/shaved-labs-privacy-policy.html",
+          "title": "Shaved Labs - iPhone Apps: Privacy Policy"
         }
       ],
       "count": 3
     },
     {
-      "name": "tech-forum",
+      "name": "tech-forums-communities",
       "bookmarks": [
         {
-          "url": "https://arstechnica.com/civis/",
+          "url": "https://arstechnica.com/civis",
           "title": "Ars OpenForum"
+        },
+        {
+          "url": "https://filmvorfuehrer.de/topic/26002-samsung-cinema-screen/?do=editlogComment&comment=287769",
+          "title": "Änderungshistorie - Filmvorführer.de"
         },
         {
           "url": "https://gixen.com/forum/viewtopic.php?t=9453&view=previous&sid=0d0eb7686a43c9d07743422c116e883c",
           "title": "GIXEN Forum - View topic - Auction Ended - Gixen Didn't Make Bid"
-        },
-        {
-          "url": "https://www.filmvorfuehrer.de/topic/26002-samsung-cinema-screen/?do=editlogComment&comment=287769",
-          "title": "Änderungshistorie - Filmvorführer.de"
         }
       ],
       "count": 3
     },
     {
-      "name": "ai-tool",
+      "name": "tech-misc",
       "bookmarks": [
         {
-          "url": "https://www.beautiful.ai/",
-          "title": "Best AI Presentation Maker for Professional Decks | Beautiful.ai - Generate High-Quality Slides With the #1 Artificial Intelligence Powered Presentation Tool Available"
-        },
-        {
-          "url": "http://www.cleverbot.com/app",
-          "title": "Cleverbot app - talk to an intelligent app"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "domains-for-sale",
-      "bookmarks": [
-        {
-          "url": "http://www.giorgiotave.it/ricette_cucina/",
-          "title": "Host - Hosting sicuro e professionale dedicato alle imprese"
-        },
-        {
-          "url": "http://www.onlinegratis.it/ricette-gratis.html",
-          "title": "Onlinegratis.it - dominio premium in vendita"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "fashion-product",
-      "bookmarks": [
-        {
-          "url": "https://www.dia.com/",
-          "title": "Plus Size Clothing and Personal Styling for Women | Dia & Co"
-        },
-        {
-          "url": "https://www.pjtra.com/t/8-9711-131940-104709?sid=PEOSarahJessicaParkerWoreThisEverydayLayeringPieceWhileontheSetofAndJustLikeThatssavoyFasAff13960716202302I&url=https%3A%2F%2Fwww.everlane.com%2Fproducts%2Fwomens-way-long-shirt-light-blue",
-          "title": "The Way Long Oxford Shirt | Light Blue - Everlane"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "hobbies",
-      "bookmarks": [
-        {
-          "url": "http://www.ramblingsofadaydreamer.com/2014/05/2014-historic-fiction-reading-challenge.html",
-          "title": "Ramblings of a Daydreamer: 2014 Historic Fiction Reading Challenge - May Review Link-Up"
-        },
-        {
-          "url": "https://rps.org/",
-          "title": "The Royal Photographic Society - Home - RPS"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "music",
-      "bookmarks": [
-        {
-          "url": "https://www.uncut.co.uk/news/arctic-monkeys-alex-turner-i-want-to-start-writing-follow-up-to-suck-it-and-see-31195/",
-          "title": "Arctic Monkeys' Alex Turner: 'I want to start writing follow-up to 'Suck It And See'' - UNCUT"
-        },
-        {
-          "url": "https://www.charlyreynolds.com/",
-          "title": "Charly Reynolds"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "product-reviews",
-      "bookmarks": [
-        {
-          "url": "https://www.commonsensemedia.org/",
-          "title": "Common Sense Media: Age-Based Media Reviews for Families | Common Sense Media"
-        },
-        {
-          "url": "https://reviewed.usatoday.com",
-          "title": "Product Reviews, Features, and Deals - Reviewed"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://www.airnewzealand.co.nz/homepage",
-          "title": "Air New Zealand - Book Flights & Earn Airpoints™"
-        },
-        {
-          "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
-          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "brand-lg",
-      "bookmarks": [
-        {
-          "url": "https://www.lg.com/us",
-          "title": "LG Electronics & Home Appliances | Shop Now | LG USA"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "crypto-tracker",
-      "bookmarks": [
-        {
-          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
-          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "e-commerce",
-      "bookmarks": [
-        {
-          "url": "https://www.technika-stroje.cz/dilna-zahrada-les/eshop/99-1-nove-produkty/520-3-Sedak",
-          "title": "Nářadí a stroje pro dům, dílnu, zahradu a stavbu"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "maritime-tech",
-      "bookmarks": [
-        {
-          "url": "https://insights.spire.com/maritime/dark-shipping-detection/",
+          "url": "https://insights.spire.com/maritime/dark-shipping-detection",
           "title": "Dark Shipping Detection | Spire Maritime"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-blog",
-      "bookmarks": [
+        },
         {
-          "url": "https://reidjon.tumblr.com/",
-          "title": "Jon Reid Tumbling"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-business",
-      "bookmarks": [
+          "url": "https://onlinegratis.it/ricette-gratis.html",
+          "title": "Onlinegratis.it - dominio premium in vendita"
+        },
         {
-          "url": "https://www.tonetranslate.com/",
+          "url": "https://tonetranslate.com/",
           "title": "Home - Tone Translate"
         }
       ],
-      "count": 1
+      "count": 3
     },
     {
-      "name": "politics-article",
+      "name": "web-dev-resources",
       "bookmarks": [
         {
-          "url": "https://www.thenewsolutions.org/nevzhe-prypeklo/",
-          "title": "Невже припекло? | Центр нових рішень"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "restaurants",
-      "bookmarks": [
+          "url": "https://bcc.wordpress.org/plugins/tags/user-profile",
+          "title": "Plugins categorized as user profile | WordPress.org بلوچی"
+        },
         {
-          "url": "http://www.easybistro.com/",
-          "title": "Classic Bistro & Seafood Restaurants In Chattanooga - Easy Bistro"
+          "url": "https://developer.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
+          "title": "MDN Web Docs"
+        },
+        {
+          "url": "https://help.github.com/en",
+          "title": "Sign in for Software Support and Product Help - GitHub Support"
         }
       ],
-      "count": 1
+      "count": 3
     }
   ],
   "total_bookmarks": 124,
-  "num_folders": 37
+  "num_folders": 21
 }

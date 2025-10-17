@@ -1,174 +1,506 @@
 {
   "folders": [
     {
-      "name": "civic-engagement",
+      "name": "business-industry-news",
       "bookmarks": [
         {
-          "url": "https://ballot.gamvp.org",
+          "url": "https://accountservices.com/",
+          "title": "ACCOUNT SERVICES INC"
+        },
+        {
+          "url": "https://bavc.org/",
+          "title": "Home - BAVC Media"
+        },
+        {
+          "url": "https://bytedance.com/",
+          "title": "ByteDance - Inspire Creativity, Enrich Life"
+        },
+        {
+          "url": "https://contentfulstatus.com/",
+          "title": "Contentful Status"
+        },
+        {
+          "url": "https://erp-recycling.ie/",
+          "title": "Home • About European Recycling Platform • ERP Global"
+        },
+        {
+          "url": "https://esv.info/query/Tobias+Lange/section/news/pageProducts/1/sortProducts/date/pageNews/1/suche.html",
+          "title": "Suche im Gesamtverzeichnis - Erich Schmidt Verlag (ESV)"
+        },
+        {
+          "url": "https://freudeforever.com/",
+          "title": "Freude Forever"
+        },
+        {
+          "url": "https://finance.yahoo.com/video/job-skill-requirements-ratcheting-goodwill-150900114.html",
+          "title": "Job skill requirements are 'ratcheting up,' Goodwill CEO says"
+        },
+        {
+          "url": "https://karybou.com/",
+          "title": "karybou.com"
+        },
+        {
+          "url": "https://leakytechpipeline.com/",
+          "title": "The Leaky Tech Pipeline - TRANSFORM TECH. IMPROVE OUR FUTURE."
+        },
+        {
+          "url": "https://meredith.com/",
+          "title": "People Inc. - America's Largest Digital & Print Publisher"
+        },
+        {
+          "url": "https://newsroom.deatch.paypal-corp.com/Startseite",
+          "title": "PayPal Newsroom: Offizielle News, Pressemitteilungen, Kontakt"
+        },
+        {
+          "url": "https://planetgain.com/",
+          "title": "Planet Gain - Home"
+        },
+        {
+          "url": "https://theacsi.org/",
+          "title": "The American Customer Satisfaction Index (ACSI) - National Cross-Industry Measure of Customer Satisfaction"
+        },
+        {
+          "url": "https://theesa.com/resource/2022-essential-facts-about-the-video-game-industry/",
+          "title": "2024 Essential Facts About the U.S. Video Game Industry - the ESA"
+        },
+        {
+          "url": "https://ti.com/",
+          "title": "Analog | Embedded processing | Semiconductor company | TI.com"
+        }
+      ],
+      "count": 16
+    },
+    {
+      "name": "civic-government-resources",
+      "bookmarks": [
+        {
+          "url": "https://votervoice.net/GOODWILL/home",
+          "title": "Action Center"
+        },
+        {
+          "url": "https://mgap.gub.uy/Siadocautoconsulta/autoconsultasiadoc.aspx",
+          "title": "Autoconsultasiadoc"
+        },
+        {
+          "url": "https://ballot.gamvp.org/",
           "title": "Find what's on your ballot | Vote informed with GAMVP Ballot Look-up"
         },
         {
-          "url": "https://www.votervoice.net/GOODWILL/home",
-          "title": "Action Center"
+          "url": "https://vero.fi/henkiloasiakkaat/",
+          "title": "Henkilöasiakkaat - vero.fi"
+        },
+        {
+          "url": "https://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2010rs/billfile/hb0529.htm",
+          "title": "Search - Legislation"
+        },
+        {
+          "url": "https://gocoastguard.com/max",
+          "title": "Max | United States Coast Guard"
+        },
+        {
+          "url": "https://misau.gov.mz/",
+          "title": "MINISTÉRIO DA SAÚDE"
+        },
+        {
+          "url": "https://noaa.gov/",
+          "title": "National Oceanic and Atmospheric Administration"
+        },
+        {
+          "url": "https://nrcan.gc.ca/",
+          "title": "Natural Resources Canada"
+        },
+        {
+          "url": "https://reform.un.org/content/development-reform",
+          "title": "Development Reform | United to Reform"
+        },
+        {
+          "url": "https://ywomenvote.org/",
+          "title": "ywomenvote"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "community-social-support",
+      "bookmarks": [
+        {
+          "url": "https://bwwa-us.com/",
+          "title": "Black Women's Wealth Alliance"
+        },
+        {
+          "url": "https://thehotline.org/",
+          "title": "Domestic Violence Support | National Domestic Violence Hotline"
+        },
+        {
+          "url": "https://frogtownmn.org/",
+          "title": "Frogtown Neighborhood Association"
+        },
+        {
+          "url": "https://gmhchousing.org/",
+          "title": "GMHC | Minneapolis, MN"
+        },
+        {
+          "url": "https://houstonendowment.org/",
+          "title": "Houston Endowment | Building a Thriving Houston"
+        },
+        {
+          "url": "https://clclt.org/",
+          "title": "Homeownership | CLCLT | Minneapolis"
+        },
+        {
+          "url": "https://near.ngo/",
+          "title": "NEAR"
+        },
+        {
+          "url": "https://ywcanashville.com/",
+          "title": "YWCA Nashville & Middle Tennessee | Domestic Violence Services"
         },
         {
           "url": "https://ywca.quorum.us/actioncenter/",
           "title": "YWCA | Action Center"
-        },
-        {
-          "url": "http://www.ywomenvote.org/",
-          "title": "ywomenvote"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "government-world",
-      "bookmarks": [
-        {
-          "url": "http://www.misau.gov.mz/index.php",
-          "title": "MINISTÉRIO DA SAÚDE"
-        },
-        {
-          "url": "http://www.mgap.gub.uy/Siadocautoconsulta/autoconsultasiadoc.aspx",
-          "title": "Autoconsultasiadoc"
-        },
-        {
-          "url": "http://www.nrcan.gc.ca/",
-          "title": "Natural Resources Canada"
-        },
-        {
-          "url": "https://www.vero.fi/henkiloasiakkaat/",
-          "title": "Henkilöasiakkaat - vero.fi"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "non-profit-services",
-      "bookmarks": [
-        {
-          "url": "https://www.bwwa-us.com/",
-          "title": "Black Women's Wealth Alliance"
-        },
-        {
-          "url": "https://www.clclt.org/",
-          "title": "Homeownership | CLCLT | Minneapolis"
-        },
-        {
-          "url": "http://www.frogtownmn.org/",
-          "title": "Frogtown Neighborhood Association"
-        },
-        {
-          "url": "http://www.gmhchousing.org/",
-          "title": "GMHC | Minneapolis, MN"
-        },
-        {
-          "url": "https://www.houstonendowment.org/",
-          "title": "Houston Endowment | Building a Thriving Houston"
-        },
-        {
-          "url": "https://www.porterleath.org/preschool",
-          "title": "Porter-Leath Focus Areas | Preschool"
-        },
-        {
-          "url": "http://thehotline.org/",
-          "title": "Domestic Violence Support | National Domestic Violence Hotline"
-        },
-        {
-          "url": "https://www.ywcanashville.com/",
-          "title": "YWCA Nashville & Middle Tennessee | Domestic Violence Services"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "company-corporate",
-      "bookmarks": [
-        {
-          "url": "http://www.accountservices.com/",
-          "title": "ACCOUNT SERVICES INC"
-        },
-        {
-          "url": "https://www.bytedance.com/",
-          "title": "ByteDance - Inspire Creativity, Enrich Life"
-        },
-        {
-          "url": "http://www.erp-recycling.ie",
-          "title": "Home • About European Recycling Platform • ERP Global"
-        },
-        {
-          "url": "https://www.geobiental.com/consultoria-ambiental-puerto-real/autorizacion-ambiental-unificada-puerto-real/",
-          "title": "Autorización Ambiental Unificada (AAU) en Puerto Real » Geobiental"
-        },
-        {
-          "url": "http://www.meredith.com/",
-          "title": "People Inc. - America's Largest Digital & Print Publisher"
-        },
-        {
-          "url": "https://www.planetgain.com/",
-          "title": "Planet Gain - Home"
-        },
-        {
-          "url": "https://relianceretail.com/reliance-smart.html",
-          "title": "Reliance Retail"
-        },
-        {
-          "url": "http://www.ti.com/",
-          "title": "Analog | Embedded processing | Semiconductor company | TI.com"
-        },
-        {
-          "url": "https://www.vr.fi/fi/asiakaspalvelu",
-          "title": "Asiakaspalvelu - VR"
         }
       ],
       "count": 9
     },
     {
-      "name": "dev-tools",
+      "name": "developer-software-tools",
       "bookmarks": [
         {
           "url": "https://carbon.now.sh/",
           "title": "Carbon | Create and share beautiful images of your source code"
         },
         {
-          "url": "https://www.contentfulstatus.com",
-          "title": "Contentful Status"
-        },
-        {
-          "url": "https://studio.mapbox.com/",
+          "url": "https://mapbox.com/",
           "title": "Console | Mapbox"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "government-us",
-      "bookmarks": [
-        {
-          "url": "https://www.gocoastguard.com/max",
-          "title": "Max | United States Coast Guard"
         },
         {
-          "url": "https://www.noaa.gov/",
-          "title": "National Oceanic and Atmospheric Administration"
+          "url": "https://react.dev/learn/start-a-new-react-project",
+          "title": "Creating a React App - React"
         },
         {
-          "url": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2010rs/billfile/hb0529.htm",
-          "title": "Search - Legislation"
+          "url": "https://devblogs.microsoft.com/",
+          "title": "Home - Microsoft Developer Blogs"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Mighty-Networks-Build-Communities-Courses-Memberships-df74a4633c32421c9242b0f773771c29",
+          "title": "Notion"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/No-code-headless-commerce-and-websites-Unstack-Inc-41f1daebe140443386901f7dd8fed2aa",
+          "title": "Notion"
+        },
+        {
+          "url": "https://react.dev/learn",
+          "title": "Quick Start - React"
+        },
+        {
+          "url": "https://wiki.freepbx.org/label/calling+canada+international+locations+profile+top-up",
+          "title": "Sangoma Documentation"
+        },
+        {
+          "url": "https://vanceai.com/",
+          "title": "VanceAI | AI Photo Enhancement, Generation & Editing Tools Provider"
         }
       ],
-      "count": 3
+      "count": 9
     },
     {
-      "name": "legal-privacy-policy",
+      "name": "professional-business-services",
       "bookmarks": [
         {
-          "url": "http://outfit7.com/privacy/",
+          "url": "https://digitalreservations.microsoft.com/en-us/appointment/create/",
+          "title": "Book an appointment - Customer Self Service"
+        },
+        {
+          "url": "https://placeanad.chicagotribune.com/whos-who",
+          "title": "Chicago Tribune"
+        },
+        {
+          "url": "https://dabdeveloper.wixsite.com/dabdeveloper/contact",
+          "title": "Contact | dabdeveloper"
+        },
+        {
+          "url": "https://equippedbrewer.com/sales-and-distribution/topic/website-design",
+          "title": "The Equipped Brewer"
+        },
+        {
+          "url": "https://withjoy.com/",
+          "title": "Joy - Wedding Planning, Redesigned"
+        },
+        {
+          "url": "https://hlasovy-prekladac-anobic-vtf.ectaco.cz/kontakt.html",
+          "title": "Kontakt - Překladač Anobic VTF"
+        },
+        {
+          "url": "https://fairmountpetservice.com/Blog/pet-services-blog/losing-a-pet-having-to-put-my-dog-to-sleep/",
+          "title": "Losing A Pet: Having To Put My Dog To Sleep - Fairmount Pet Service"
+        },
+        {
+          "url": "https://whitefuneralhomes.com/obituary/marrshall-luppke",
+          "title": "Obituary | Marshall Alex Luppke of Lakeville, Minnesota | White Funeral Homes"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "e-commerce-shopping",
+      "bookmarks": [
+        {
+          "url": "https://blumen-tauber.at/p1290126-2/",
+          "title": "P1290126 - Blumen Tauber"
+        },
+        {
+          "url": "https://laylasleep.com/product/layla-shredded-memory-foam-pillow/",
+          "title": "Cooling Shredded Memory Foam Pillow | Layla Sleep®"
+        },
+        {
+          "url": "https://flowers4iceland.com/alftanes",
+          "title": "Establishing a secure connection ..."
+        },
+        {
+          "url": "https://instacart.com/",
+          "title": "Instacart | Grocery Delivery or Pickup from Local Stores Near You"
+        },
+        {
+          "url": "https://metalltechnik-dermbach.eshop.t-online.de/epages/Shop42414.sf/de_AT/?ObjectPath=/Shops/Shop42414/Products/61040-5",
+          "title": "Kaminholzregal Metall 1,9 m x 0,6 m x 0,35 m Oberfläche feuerverzinkt ohne Dekor"
+        },
+        {
+          "url": "https://emag.hu/mobiltelefonok/c",
+          "title": "Mobiltelefon - eMAG.hu"
+        },
+        {
+          "url": "https://relianceretail.com/reliance-smart.html",
+          "title": "Reliance Retail"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "academic-research-resources",
+      "bookmarks": [
+        {
+          "url": "https://eeb.ucsc.edu/",
+          "title": "Ecology & Evolutionary Biology"
+        },
+        {
+          "url": "https://sfemt.fr/lecturer-in-buddhist-studies-at-soas%E2%80%8F/",
+          "title": "Lecturer in Buddhist Studies at SOAS‏ - Société Française d'Études du Monde Tibétain"
+        },
+        {
+          "url": "https://sabiyamalbari11.tumblr.com/post/143008375724",
+          "title": "Sabiya malbari - Computer science: the impact of K-12 on university..."
+        },
+        {
+          "url": "https://aqwatec.mines.edu/",
+          "title": "Sustainable WE2ST - ConocoPhillips Center for a Sustainable WE2ST"
+        },
+        {
+          "url": "https://jax.readthedocs.io/en/latest/notebooks/neural_network_with_tfds_data.html",
+          "title": "Training a simple neural network, with tensorflow/datasets data loading - JAX documentation"
+        },
+        {
+          "url": "https://quantum-chemistry-history.com/",
+          "title": "Udo Anders : Early Ideas in the History of Quantum Chemistry."
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "cultural-arts-events",
+      "bookmarks": [
+        {
+          "url": "https://iyil2019.org/",
+          "title": "2019 - International Year of Indigenous Language"
+        },
+        {
+          "url": "https://varesefansbasket.it/forums/topic/1892-10-febbraio-2006",
+          "title": "10 febbraio 2006 - Divertiti col gruppo di Vfb.it - Varesefansbasket"
+        },
+        {
+          "url": "https://esuus.org/esu/",
+          "title": "ESU 2024 Patron Trip: A Private View of Italy - ESU"
+        },
+        {
+          "url": "https://ladiesdrawingclub.com/",
+          "title": "LADIES DRAWING CLÜB"
+        },
+        {
+          "url": "https://lamilano.it/eventi/un-canto-per-milano-e-per-la-ripresa/",
+          "title": "Un canto per Milano e per la ripresa"
+        },
+        {
+          "url": "https://grandafrika.cz/zajezd/stopovani-simpanzu-v-kibale",
+          "title": "safari v Ugandě | CK Grand Afrika"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-current-events",
+      "bookmarks": [
+        {
+          "url": "https://enkofootball.com/2014/06/hodgson-we-just-want-to-give-good.html",
+          "title": "Enko-football: Hodgson: We Just Want To Give A Good Performance"
+        },
+        {
+          "url": "https://dazeddigital.com/music/article/54765/1/harry-styles-pleasing-brand-cover-2021-interview",
+          "title": "Harry Styles talks Pleasing: a brand built on small joys | Dazed"
+        },
+        {
+          "url": "https://khon2.com/local-news/passengers-shaken-by-turbulence-floating-off-of-our-chairs/",
+          "title": "Passengers shaken by turbulence 'Floating off of our chairs' | KHON2"
+        },
+        {
+          "url": "https://chasha.su/grafik-zarybleniya-nashego-vodoyoma/news_post/zapusk-karpa-naveska-1-0-1-7-kg-600-kg",
+          "title": "Запуск карпа. Навеска 1,0-1,7 кг 600 кг"
+        },
+        {
+          "url": "https://today.com/accounts/newsletters",
+          "title": "TODAY Newsletters | TODAY"
+        },
+        {
+          "url": "https://wgme.com/news/local/winner-of-135-billion-mega-millions-jackpot-comes-forward",
+          "title": "Winner of $1.35 billion Mega Millions jackpot comes forward"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "website-utilities-tools",
+      "bookmarks": [
+        {
+          "url": "https://vr.fi/fi/asiakaspalvelu",
+          "title": "Asiakaspalvelu - VR"
+        },
+        {
+          "url": "https://educanet.educad.pe/login",
+          "title": "Portaleducanet"
+        },
+        {
+          "url": "https://asp.schoolmessenger.com/novicsd/quicktip/",
+          "title": "Quick Tip - Submit an Anonymous Tip - Powered by SchoolMessenger"
+        },
+        {
+          "url": "https://glued-laminated-timber.com/monitoring-characters-bs-holz-german-only/mn_44344",
+          "title": "Monitoring characters BS-Holz (German only) - brettschichtholz.de"
+        },
+        {
+          "url": "https://wordhippo.com/",
+          "title": "Thesaurus and Word Tools | WordHippo"
+        },
+        {
+          "url": "https://wpr.org/donate",
+          "title": "WPR | Donate Now"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "environmental-conservation",
+      "bookmarks": [
+        {
+          "url": "https://geobiental.com/consultoria-ambiental-puerto-real/autorizacion-ambiental-unificada-puerto-real/",
+          "title": "Autorización Ambiental Unificada (AAU) en Puerto Real » Geobiental"
+        },
+        {
+          "url": "https://cbd.int/",
+          "title": "Home | Convention on Biological Diversity"
+        },
+        {
+          "url": "https://mpa-guide.protectedplanet.net/",
+          "title": "The MPA Guide"
+        },
+        {
+          "url": "https://es.mongabay.com/2022/06/panama-una-bandera-de-conveniencia-para-la-pesca-ilegal-oceanos/",
+          "title": "Panamá, una bandera de conveniencia para la pesca ilegal y el descontrol en altamar"
+        },
+        {
+          "url": "https://aqwatec.mines.edu/",
+          "title": "Sustainable WE2ST - ConocoPhillips Center for a Sustainable WE2ST"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "design-creative-tools",
+      "bookmarks": [
+        {
+          "url": "https://underconsideration.com/brandnew/",
+          "title": "Brand New"
+        },
+        {
+          "url": "https://craftwork.design/catalog/",
+          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
+        },
+        {
+          "url": "https://irishcountrymagazine.ie/tag/interiors/page/7/",
+          "title": "Interiors - Page 7 of 8 - Irish Country Magazine"
+        },
+        {
+          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
+          "title": "ginko taklampa | Trendspanarna.nu"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "https://serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
+          "title": "COVID-19: More Testing to be Done in Canada"
+        },
+        {
+          "url": "https://fitness.apple.com/subscribe",
+          "title": "‎Getting Started with Fitness+"
+        },
+        {
+          "url": "https://popsugar.com/fitness/photo-gallery/43655065/image/47786114/Wheat-Bran",
+          "title": "Foods That Cause Anxiety | PS Fitness"
+        },
+        {
+          "url": "https://yogabasics.com/practice/",
+          "title": "The Practice of Yoga • Yoga Basics: Yoga Poses, Meditation, History, Philosophy & More"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "hobbies-leisure",
+      "bookmarks": [
+        {
+          "url": "https://arrl.org/getting-licensed",
+          "title": "Getting Licensed"
+        },
+        {
+          "url": "https://goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
+          "title": "Loading..."
+        },
+        {
+          "url": "https://perspectivebookseries.com/tag/amazon-canada/",
+          "title": "amazon canada | Official Website of the Perspective Book Series"
+        },
+        {
+          "url": "https://vw-audi.oemdtc.com/",
+          "title": "VolksWagen & Audi - OEMDTC"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "online-security-privacy",
+      "bookmarks": [
+        {
+          "url": "https://safety.google/",
+          "title": "Google Safety Center - Stay Safer Online"
+        },
+        {
+          "url": "https://outfit7.com/privacy/",
           "title": "PRIVACY POLICY FOR GAMES"
         },
         {
-          "url": "https://www.sesameworkshop.org/privacy-policy",
+          "url": "https://sesameworkshop.org/privacy-policy",
           "title": "Privacy Policy - Sesame Workshop"
         },
         {
@@ -176,697 +508,95 @@
           "title": "Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws."
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "media-publications",
+      "name": "cooking-recipes",
       "bookmarks": [
         {
-          "url": "https://www.dazeddigital.com/music/article/54765/1/harry-styles-pleasing-brand-cover-2021-interview",
-          "title": "Harry Styles talks Pleasing: a brand built on small joys | Dazed"
+          "url": "https://dbricette.it/altri_programmi.htm",
+          "title": "DBRicette: Altri programmi"
         },
         {
-          "url": "https://irishcountrymagazine.ie/tag/interiors/page/7/",
-          "title": "Interiors - Page 7 of 8 - Irish Country Magazine"
+          "url": "https://ricettedalmondo.blogspot.com/",
+          "title": "Ricette dal Mondo"
         },
         {
-          "url": "https://secure.today.com/_tps/accounts/newsletters",
-          "title": "TODAY Newsletters | TODAY"
+          "url": "https://ricette.hopfrog.it/",
+          "title": "Success!"
         }
       ],
       "count": 3
     },
     {
-      "name": "media-streaming",
+      "name": "kids-family-resources",
       "bookmarks": [
         {
-          "url": "https://www.cbs.com/all-access/",
+          "url": "https://appt.ly/privacy-policy/",
+          "title": "How to Improve your Baby Photos | HeyBaby.sg"
+        },
+        {
+          "url": "https://porterleath.org/preschool",
+          "title": "Porter-Leath Focus Areas | Preschool"
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/youtube-kids/id936971630",
+          "title": "‎YouTube Kids on the App Store"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "streaming-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://cbs.com/all-access/",
           "title": "Paramount+ Italia | Guarda i film e le serie TV online"
         },
         {
-          "url": "https://www.sho.com/",
+          "url": "https://sho.com/",
           "title": "Paramount+ with Showtime Official Site"
         },
         {
-          "url": "https://stirr.com",
+          "url": "https://stirr.com/",
           "title": "STIRR - Stream Free Movies, TV Shows & Series"
         }
       ],
       "count": 3
     },
     {
-      "name": "non-profit-development",
+      "name": "urban-planning-development",
       "bookmarks": [
         {
-          "url": "https://www.near.ngo/",
-          "title": "NEAR"
+          "url": "https://siriusxm.com/clips/clip/65cfb29a-195e-4b44-91fb-9e855ad51e03/1bb40a1e-1920-4ab0-a756-9d95a7e2b7fb",
+          "title": "David Downey on Revitalizing America's Downtowns | Julie Mason - Julie Mason Mornings undefined | undefined : '' | Listen on SiriusXM"
+        },
+        {
+          "url": "https://downtowndavenport.com/downtown-davenport-master-plan",
+          "title": "Downtown Davenport Master Plan | Downtown Davenport Partnership"
         },
         {
           "url": "https://unhabitat.org/over-135000-handwashes-at-un-habitat-supported-facilities-in-nairobi%E2%80%99s-informal-settlements",
           "title": "Over 135,000 handwashes at UN-Habitat-supported facilities in Nairobi's informal settlements | UN-Habitat"
-        },
-        {
-          "url": "https://reform.un.org/content/development-reform",
-          "title": "Development Reform | United to Reform"
         }
       ],
       "count": 3
     },
     {
-      "name": "blog-design",
+      "name": "personal-blogs",
       "bookmarks": [
-        {
-          "url": "https://www.underconsideration.com/brandnew/",
-          "title": "Brand New"
-        },
-        {
-          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
-          "title": "ginko taklampa | Trendspanarna.nu"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-react",
-      "bookmarks": [
-        {
-          "url": "https://react.dev/learn/start-a-new-react-project",
-          "title": "Creating a React App - React"
-        },
-        {
-          "url": "https://react.dev/learn",
-          "title": "Quick Start - React"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "education-university",
-      "bookmarks": [
-        {
-          "url": "http://aqwatec.mines.edu/",
-          "title": "Conoco Phillips Center for a Sustainable WE2ST - ConocoPhillips Center for a Sustainable WE2ST"
-        },
-        {
-          "url": "http://www.eeb.ucsc.edu",
-          "title": "Ecology & Evolutionary Biology"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "environment",
-      "bookmarks": [
-        {
-          "url": "http://www.cbd.int/",
-          "title": "Home | Convention on Biological Diversity"
-        },
-        {
-          "url": "https://mpa-guide.protectedplanet.net/",
-          "title": "The MPA Guide"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-recipes",
-      "bookmarks": [
-        {
-          "url": "https://www.dbricette.it/altri_programmi.htm",
-          "title": "DBRicette: Altri programmi"
-        },
-        {
-          "url": "http://ricettedalmondo.blogspot.com/",
-          "title": "Ricette dal Mondo"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "general-uncategorized",
-      "bookmarks": [
-        {
-          "url": "http://ricette.hopfrog.it/",
-          "title": "Success!"
-        },
-        {
-          "url": "https://tahadiwasla.app.link/s/b84483f2b3497a6e6ad99549e226317ee6d3863404ebfb2430d8eecd1a688b97",
-          "title": "karybou.com"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health-news",
-      "bookmarks": [
-        {
-          "url": "https://www.popsugar.com/fitness/photo-gallery/43655065/image/47786114/Wheat-Bran?stream_view=1",
-          "title": "Foods That Cause Anxiety | PS Fitness"
-        },
-        {
-          "url": "https://www.serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
-          "title": "COVID-19: More Testing to be Done in Canada"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "media-news",
-      "bookmarks": [
-        {
-          "url": "https://finance.yahoo.com/video/job-skill-requirements-ratcheting-goodwill-150900114.html?contentType=VIDEO",
-          "title": "Job skill requirements are 'ratcheting up,' Goodwill CEO says"
-        },
-        {
-          "url": "https://www.khon2.com/local-news/passengers-shaken-by-turbulence-floating-off-of-our-chairs/",
-          "title": "Passengers shaken by turbulence 'Floating off of our chairs' | KHON2"
-        },
-        {
-          "url": "https://es.mongabay.com/2022/06/panama-una-bandera-de-conveniencia-para-la-pesca-ilegal-oceanos/",
-          "title": "Panamá, una bandera de conveniencia para la pesca ilegal y el descontrol en altamar"
-        },
-        {
-          "url": "https://wgme.com/news/local/winner-of-135-billion-mega-millions-jackpot-comes-forward-hometown-gas-grill-lebanon-fred-cotreau-prize-cash-payout-annuity-gambling-grand-prize-drawing-numbers-money-cash-odds-tickets-maine-lottery",
-          "title": "Winner of $1.35 billion Mega Millions jackpot comes forward"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "non-profit-media",
-      "bookmarks": [
-        {
-          "url": "https://bavc.org",
-          "title": "Home - BAVC Media"
-        },
-        {
-          "url": "https://www.wpr.org/donate",
-          "title": "WPR | Donate Now"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "reading-books",
-      "bookmarks": [
-        {
-          "url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
-          "title": "Loading..."
-        },
-        {
-          "url": "https://perspectivebookseries.com/tag/amazon-canada/",
-          "title": "amazon canada | Official Website of the Perspective Book Series"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "reference-notes",
-      "bookmarks": [
-        {
-          "url": "https://kotilabdulkadir.notion.site/Mighty-Networks-Build-Communities-Courses-Memberships-df74a4633c32421c9242b0f773771c29?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/No-code-headless-commerce-and-websites-Unstack-Inc-41f1daebe140443386901f7dd8fed2aa?pvs=25",
-          "title": "Notion"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-flowers",
-      "bookmarks": [
-        {
-          "url": "https://www.flowers4iceland.com/alftanes",
-          "title": "Establishing a secure connection ..."
-        },
-        {
-          "url": "https://www.blumen-tauber.at/p1290126-2/",
-          "title": "P1290126 - Blumen Tauber"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-homegoods",
-      "bookmarks": [
-        {
-          "url": "https://laylasleep.com/product/layla-shredded-memory-foam-pillow/",
-          "title": "Cooling Shredded Memory Foam Pillow | Layla Sleep®"
-        },
-        {
-          "url": "https://metalltechnik-dermbach.eshop.t-online.de/epages/Shop42414.sf/de_AT/?ObjectPath=/Shops/Shop42414/Products/61040-5",
-          "title": "Kaminholzregal Metall 1,9 m x 0,6 m x 0,35 m Oberfläche feuerverzinkt ohne Dekor"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "app-store",
-      "bookmarks": [
-        {
-          "url": "https://itunes.apple.com/us/app/youtube-kids/id936971630?mt=8",
-          "title": "‎YouTube Kids on the App Store"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "art-illustration",
-      "bookmarks": [
-        {
-          "url": "https://ladiesdrawingclub.com/",
-          "title": "LADIES DRAWING CLÜB"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "automotive-repair",
-      "bookmarks": [
-        {
-          "url": "https://vw-audi.oemdtc.com",
-          "title": "VolksWagen & Audi - OEMDTC"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "blog-personal",
-      "bookmarks": [
-        {
-          "url": "https://siellasuntaalla.blogspot.com/2014/",
-          "title": "Siellä sun täällä: 2014"
-        },
         {
           "url": "https://whomstplantdaddy.tumblr.com/",
           "title": "Oh hai :3"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "blog-writing",
-      "bookmarks": [
-        {
-          "url": "https://www.freudeforever.com/",
-          "title": "Freude Forever"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "business-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.equippedbrewer.com/sales-and-distribution/topic/website-design",
-          "title": "The Equipped Brewer"
         },
         {
-          "url": "https://www.theacsi.org/",
-          "title": "The American Customer Satisfaction Index (ACSI) - National Cross-Industry Measure of Customer Satisfaction"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "civic-planning",
-      "bookmarks": [
-        {
-          "url": "https://www.downtowndavenport.com/downtown-davenport-master-plan",
-          "title": "Downtown Davenport Master Plan | Downtown Davenport Partnership"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "company-newsroom",
-      "bookmarks": [
-        {
-          "url": "https://newsroom.deatch.paypal-corp.com/Startseite",
-          "title": "PayPal Newsroom: Offizielle News, Pressemitteilungen, Kontakt"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "culture-language",
-      "bookmarks": [
-        {
-          "url": "https://en.iyil2019.org/",
-          "title": "2019 - International Year of Indigenous Language"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-blog",
-      "bookmarks": [
-        {
-          "url": "https://devblogs.microsoft.com/?utm_source=developermscom",
-          "title": "Home - Microsoft Developer Blogs"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-documentation",
-      "bookmarks": [
-        {
-          "url": "https://wiki.freepbx.org/label/calling+canada+international+locations+profile+top-up",
-          "title": "Sangoma Documentation"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-ml-guide",
-      "bookmarks": [
-        {
-          "url": "https://jax.readthedocs.io/en/latest/notebooks/neural_network_with_tfds_data.html",
-          "title": "Training a simple neural network, with tensorflow/datasets data loading - JAX documentation"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "education-portal",
-      "bookmarks": [
-        {
-          "url": "https://educanet.educad.pe/login",
-          "title": "Portaleducanet"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "education-tech",
-      "bookmarks": [
-        {
-          "url": "https://sabiyamalbari11.tumblr.com/post/143008375724",
-          "title": "Sabiya malbari - Computer science: the impact of K-12 on university..."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "events-local",
-      "bookmarks": [
-        {
-          "url": "https://lamilano.it/eventi/un-canto-per-milano-e-per-la-ripresa/",
-          "title": "Un canto per Milano e per la ripresa"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "gaming-industry",
-      "bookmarks": [
-        {
-          "url": "https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/",
-          "title": "2024 Essential Facts About the U.S. Video Game Industry - the ESA"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-pets",
-      "bookmarks": [
-        {
-          "url": "https://fairmountpetservice.com/Blog/pet-services-blog/losing-a-pet-having-to-put-my-dog-to-sleep/",
-          "title": "Losing A Pet: Having To Put My Dog To Sleep - Fairmount Pet Service"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-yoga-guide",
-      "bookmarks": [
-        {
-          "url": "https://www.yogabasics.com/practice/",
-          "title": "The Practice of Yoga • Yoga Basics: Yoga Poses, Meditation, History, Philosophy & More"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-amateur-radio",
-      "bookmarks": [
-        {
-          "url": "https://www.arrl.org/getting-licensed",
-          "title": "Getting Licensed"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-fishing",
-      "bookmarks": [
-        {
-          "url": "https://chasha.su/grafik-zarybleniya-nashego-vodoyoma/news_post/zapusk-karpa-naveska-1-0-1-7-kg-600-kg",
-          "title": "Запуск карпа. Навеска 1,0-1,7 кг 600 кг"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-history",
-      "bookmarks": [
-        {
-          "url": "https://www.thearma.org/essays.htm",
-          "title": "Essays - Swords & Swordsmanship"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-photography-guide",
-      "bookmarks": [
-        {
-          "url": "http://www.appt.ly/privacy-policy/",
-          "title": "How to Improve your Baby Photos | HeyBaby.sg"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "jobs-academia",
-      "bookmarks": [
-        {
-          "url": "https://www.sfemt.fr/lecturer-in-buddhist-studies-at-soas%E2%80%8F/",
-          "title": "Lecturer in Buddhist Studies at SOAS‏ - Société Française d'Études du Monde Tibétain"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "media-audio",
-      "bookmarks": [
-        {
-          "url": "https://www.siriusxm.com/clips/clip/65cfb29a-195e-4b44-91fb-9e855ad51e03/1bb40a1e-1920-4ab0-a756-9d95a7e2b7fb",
-          "title": "David Downey on Revitalizing America's Downtowns | Julie Mason - Julie Mason Mornings undefined | undefined : '' | Listen on SiriusXM"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-portfolio",
-      "bookmarks": [
-        {
-          "url": "http://dabdeveloper.wixsite.com/dabdeveloper/contact",
-          "title": "Contact | dabdeveloper"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "product-tech",
-      "bookmarks": [
-        {
-          "url": "http://hlasovy-prekladac-anobic-vtf.ectaco.cz/kontakt.html",
-          "title": "Kontakt - Překladač Anobic VTF"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-construction",
-      "bookmarks": [
-        {
-          "url": "https://www.glued-laminated-timber.com/monitoring-characters-bs-holz-german-only/mn_44344",
-          "title": "Monitoring characters BS-Holz (German only) - brettschichtholz.de"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-design",
-      "bookmarks": [
-        {
-          "url": "https://craftwork.design/catalog/?_sft_download_category=freebies",
-          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-internet-safety",
-      "bookmarks": [
-        {
-          "url": "https://safety.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav",
-          "title": "Google Safety Center - Stay Safer Online"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-obituary",
-      "bookmarks": [
-        {
-          "url": "https://www.whitefuneralhomes.com/obituary/marrshall-luppke",
-          "title": "Obituary | Marshall Alex Luppke of Lakeville, Minnesota | White Funeral Homes"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-publishing",
-      "bookmarks": [
-        {
-          "url": "https://esv.info/query/Tobias+Lange/section/news/pageProducts/1/sortProducts/date/pageNews/1/suche.html",
-          "title": "Suche im Gesamtverzeichnis - Erich Schmidt Verlag (ESV)"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-science",
-      "bookmarks": [
-        {
-          "url": "http://www.quantum-chemistry-history.com/",
-          "title": "Udo Anders : Early Ideas in the History of Quantum Chemistry."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "service-apps",
-      "bookmarks": [
-        {
-          "url": "https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-iph_fp-apl-avl-201111",
-          "title": "‎Getting Started with Fitness+"
-        },
-        {
-          "url": "https://digitalreservations.microsoft.com/en-us/appointment/create/?storeid=923bf8b8-c8a3-ec11-b3fe-000d3a10148a&serviceid=c465e686-f1a3-ec11-b3fe-000d3a10148a",
-          "title": "Book an appointment - Customer Self Service"
-        },
-        {
-          "url": "https://www.instacart.com/",
-          "title": "Instacart | Grocery Delivery or Pickup from Local Stores Near You"
-        },
-        {
-          "url": "https://withjoy.com/",
-          "title": "Joy - Wedding Planning, Redesigned"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "shopping-electronics",
-      "bookmarks": [
-        {
-          "url": "https://www.emag.hu/mobiltelefonok/c",
-          "title": "Mobiltelefon - eMAG.hu"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "software-desktop",
-      "bookmarks": [
-        {
-          "url": "https://placeanad.chicagotribune.com/whos-who#nt=secondarynavbar",
-          "title": "Chicago Tribune"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "sports-forums",
-      "bookmarks": [
-        {
-          "url": "https://www.varesefansbasket.it/forums/topic/1892-10-febbraio-2006/",
-          "title": "10 febbraio 2006 - Divertiti col gruppo di Vfb.it - Varesefansbasket"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "sports-news",
-      "bookmarks": [
-        {
-          "url": "https://www.enko-football.com/2014/06/hodgson-we-just-want-to-give-good.html",
-          "title": "Enko-football: Hodgson: We Just Want To Give A Good Performance"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-industry",
-      "bookmarks": [
-        {
-          "url": "http://leakytechpipeline.com",
-          "title": "The Leaky Tech Pipeline - TRANSFORM TECH. IMPROVE OUR FUTURE."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tool-education",
-      "bookmarks": [
-        {
-          "url": "https://asp.schoolmessenger.com/novicsd/quicktip/",
-          "title": "Quick Tip - Submit an Anonymous Tip - Powered by SchoolMessenger"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tool-photo-ai",
-      "bookmarks": [
-        {
-          "url": "https://vanceai.com/",
-          "title": "VanceAI | AI Photo Enhancement, Generation & Editing Tools Provider"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tool-writing",
-      "bookmarks": [
-        {
-          "url": "https://www.wordhippo.com/",
-          "title": "Thesaurus and Word Tools | WordHippo"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "travel-guide",
-      "bookmarks": [
-        {
-          "url": "https://www.esuus.org/esu/",
-          "title": "ESU 2024 Patron Trip: A Private View of Italy - ESU"
-        },
-        {
-          "url": "https://www.grandafrika.cz/zajezd/stopovani-simpanzu-v-kibale",
-          "title": "safari v Ugandě | CK Grand Afrika"
+          "url": "https://siellasuntaalla.blogspot.com/2014/",
+          "title": "Siellä sun täällä: 2014"
         }
       ],
       "count": 2
     }
   ],
   "total_bookmarks": 119,
-  "num_folders": 65
+  "num_folders": 20
 }

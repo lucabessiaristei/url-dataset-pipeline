@@ -1,60 +1,132 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://buildcommonwealth.org/",
+          "url": "https://bbc.com/news/business",
+          "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news"
+        },
+        {
+          "url": "https://deltadental.com/us/en/tooth-fairy/press-release.html",
+          "title": "How Much Does The Tooth Fairy Pay For A Tooth | Delta Dental"
+        },
+        {
+          "url": "https://energate-messenger.at/news/219257/klagen-gegen-erdgasleitung-opal-abgelehnt",
+          "title": "Klagen gegen Erdgasleitung Opal abgelehnt | energate messenger⁺"
+        },
+        {
+          "url": "https://ft.com/world/europe",
+          "title": "Europe | Financial Times"
+        },
+        {
+          "url": "https://laist.com/news/food/the-city-of-la-just-extended-al-fresco-dining-for-at-least-a-year",
+          "title": "The City Of LA Just Extended Al Fresco Dining For At Least A Year | LAist"
+        },
+        {
+          "url": "https://aldopiombino.blogspot.com/2010/11/il-disegno-di-legge-3687-sulla-riforma.html",
+          "title": "scienzeedintorni: Il disegno di legge 3687 sulla riforma dei dipartimenti: un provvedimento centrato sulle grandi facoltà e non sulle piccole (specialmente scientifiche)"
+        },
+        {
+          "url": "https://thehindu.com/news/international/south-korean-president-meets-special-envoy-bts-ahead-of-un-general-assembly/article36450795.ece",
+          "title": "South Korean President meets special envoy BTS ahead of UN General Assembly - The Hindu"
+        },
+        {
+          "url": "https://wjla.com/news/local/amtrak-train-derailment-northern-virginia-cars-collision-stranded-passengers-nonstop-trip-pets-sanford-florida-south-carolina-csx-freight-replacement-crew-food-meals-lorton-washington-dc-dmv-travel",
+          "title": "Delayed Amtrak train carrying northern Va. passengers arrives after 37-hour trip"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "education-academic-resources",
+      "bookmarks": [
+        {
+          "url": "https://allschoolsinindia.in/category/cut-off-mark-calculator",
+          "title": "Cut Off Mark Calculator"
+        },
+        {
+          "url": "https://benedict.ch/informatik/luzern/kurs/digital-marketing-specialist-bvs",
+          "title": "Digital Marketing Specialist - Weiterbildung Schweiz"
+        },
+        {
+          "url": "https://cs.mak.ac.ug",
+          "title": "Department Of Computer Science | Makerere University"
+        },
+        {
+          "url": "https://mathworld.wolfram.com/topics/LinearAlgebra.html",
+          "title": "Linear Algebra -- from Wolfram MathWorld"
+        },
+        {
+          "url": "https://students.packetbomb.com/login",
+          "title": "Login - PacketBomb Students"
+        },
+        {
+          "url": "https://psu.edu/visitors-and-neighbors",
+          "title": "Visit Penn State | Tours | Penn State"
+        },
+        {
+          "url": "https://iris.unipa.it/cris/rp/rp11244",
+          "title": "LA ROSA, Alfonso"
+        },
+        {
+          "url": "https://tinytypemuseum.com/what-is-letterpress",
+          "title": "The Tiny Type Museum & Time Capsule"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://accaglobal.com/us/en.html",
+          "title": "Home | ACCA Global"
+        },
+        {
+          "url": "https://buildcommonwealth.org",
           "title": "Commonwealth - Making Wealth Possible For All"
+        },
+        {
+          "url": "https://cochrane.org/about-us",
+          "title": "About us | Cochrane"
         },
         {
           "url": "https://secure.donorschoose.org/donors/giving_history.html",
           "title": "DonorsChoose Sign In | Public School Donations"
         },
         {
-          "url": "https://pflag.org/",
-          "title": "Homepage - PFLAG"
+          "url": "https://exoduslending.org",
+          "title": "What We Do - Exodus Lending - Exodus Lending"
         },
         {
-          "url": "https://www.lssmn.org/lifetrack",
+          "url": "https://lssmn.org/lifetrack",
           "title": "Lifetrack | Lutheran Social Service of Minnesota"
         },
         {
-          "url": "https://mulagofoundation.org/",
+          "url": "https://mulagofoundation.org",
           "title": "Mulago Foundation"
         },
         {
-          "url": "http://www.responsiblemineralsinitiative.org/",
-          "title": "Responsible Minerals Initiative"
+          "url": "https://pflag.org",
+          "title": "Homepage - PFLAG"
         },
         {
-          "url": "https://exoduslending.org/",
-          "title": "What We Do - Exodus Lending - Exodus Lending"
+          "url": "https://responsiblemineralsinitiative.org",
+          "title": "Responsible Minerals Initiative"
         }
       ],
-      "count": 7
+      "count": 9
     },
     {
-      "name": "software-development",
+      "name": "programming-learning-resources",
       "bookmarks": [
-        {
-          "url": "http://www.textuality.com/xml/",
-          "title": "Extensible Markup Language (XML)"
-        },
-        {
-          "url": "https://stars.github.com",
-          "title": "GitHub Stars: inspire, educate & influence developer communities"
-        },
-        {
-          "url": "https://pytorch.org/get-started/locally/",
-          "title": "Get Started"
-        },
         {
           "url": "https://lists.blender.org/pipermail/bf-committers/2013-September/041751.html",
           "title": "[Bf-committers] Game Properties - do we need that?"
         },
         {
-          "url": "https://www.codecademy.com/learn/learn-python-3",
+          "url": "https://codecademy.com/learn/learn-python-3",
           "title": "Learn Python 3 | Codecademy"
         },
         {
@@ -62,139 +134,187 @@
           "title": "qmk_firmware/docs/newbs_getting_started.md at master · qmk/qmk_firmware · GitHub"
         },
         {
+          "url": "https://stars.github.com",
+          "title": "GitHub Stars: inspire, educate & influence developer communities"
+        },
+        {
           "url": "https://jax.readthedocs.io/en/latest/notebooks/neural_network_with_tfds_data.html",
           "title": "Training a simple neural network, with tensorflow/datasets data loading - JAX documentation"
+        },
+        {
+          "url": "https://es.ccm.net/forum/affich-1014784-olvide-mi-contrasena-macbook-intento-no-sale",
+          "title": "Olvide mi contraseña macbook intento no sale - Foro de Mac OS"
+        },
+        {
+          "url": "https://pytorch.org/get-started/locally",
+          "title": "Get Started"
+        },
+        {
+          "url": "https://textuality.com/xml",
+          "title": "Extensible Markup Language (XML)"
         }
       ],
-      "count": 7
+      "count": 8
     },
     {
-      "name": "misc-webpages",
+      "name": "company-profiles-products",
       "bookmarks": [
         {
-          "url": "http://britishnewsflash.org/warnhinweise-sollen-vor-massenvernichtungs-waffen-warnen/",
-          "title": "British Newsflash Magazine - Liberty and Peace NOW - IBS Television Liberty - British Newsflash Magazine - Liberty and Peace NOW - IBS Television Liberty - radiotvinfo medianetwork - BRITISHNEWSFLASH.ORG"
+          "url": "https://bignosekate.co",
+          "title": "Big Nose Kate® - Western Whiskey"
         },
         {
-          "url": "http://lokcerto.com.br/contato/",
-          "title": "Central de Atendimento - LokCerto"
+          "url": "https://elmnt13.com",
+          "title": "Elmnt13 - Marketing | Management"
         },
         {
-          "url": "https://students.packetbomb.com/login/?redirect_to=https%3A%2F%2Fstudents.packetbomb.com%2Flesson%2Fverifying-the-data-exercise-answers%2F",
-          "title": "Login - PacketBomb Students"
+          "url": "https://mastermachineryllc.com/listings/47965-1300mm-coiltech-complete-servo-feedline-space-saver-new",
+          "title": "New 1300mm CoilTech Complete Servo Feedline - Space Saver (NEW) for..."
         },
         {
-          "url": "https://uso.6connex.com/event/virtual/womens-empowerment-summit/login",
-          "title": "Resources for Retired Events Links | 6Connex Event Tech"
-        },
-        {
-          "url": "https://securustech.net/contact-us",
-          "title": "Contact Us - Securus Technologies"
+          "url": "https://visko.se/klubb-visko/herr-3/valontano",
+          "title": "Valontano - Visko"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "news-general",
+      "name": "cooking-recipes",
       "bookmarks": [
         {
-          "url": "https://www.bbc.com/news/business",
-          "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news"
+          "url": "https://brainfoodstudio.com/tag/vacuum-flask",
+          "title": "vacuum flask Archives - Brain Food Studio"
         },
         {
-          "url": "https://www.ft.com/world/europe",
-          "title": "Europe | Financial Times"
+          "url": "https://fleischerei-keller.de/wochenkarte/speiseplan/speiseplan-1-2-5-2-2021",
+          "title": "Speiseplan 1.2. - 5.2.2021 - Metzgerei Fleischerei Rodgau"
         },
         {
-          "url": "https://www.energate-messenger.at/news/219257/klagen-gegen-erdgasleitung-opal-abgelehnt",
-          "title": "Klagen gegen Erdgasleitung Opal abgelehnt | energate messenger⁺"
+          "url": "https://neltuosito.it/Servizi-Web/Cucina/Archivio-Ricette-Cucina.asp",
+          "title": "Archivio di 24000 ricette di cucina"
         },
         {
-          "url": "https://www.thehindu.com/news/international/south-korean-president-meets-special-envoy-bts-ahead-of-un-general-assembly/article36450795.ece",
-          "title": "South Korean President meets special envoy BTS ahead of UN General Assembly - The Hindu"
-        },
-        {
-          "url": "https://www.vettimes.co.uk/",
-          "title": "Vet Times: Latest Veterinary News, Jobs & Clinical Resources"
+          "url": "https://sanjeevkapoor.com",
+          "title": "Masterchef Sanjeev Kapoor Recipes - Taste the Tradition of Indian Cuisine & Innovative Dishes"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "tool-general",
+      "name": "general-web-services",
       "bookmarks": [
         {
-          "url": "https://allschoolsinindia.in/category/cut-off-mark-calculator/",
-          "title": "Cut Off Mark Calculator"
+          "url": "https://store.apple.com/us/help/shopping_experience",
+          "title": "Shopping Experience - Shopping Help - Apple"
         },
         {
-          "url": "https://www.fonearena.com/price.php",
+          "url": "https://link.nbcnews.com/join/5cj/think-signup",
+          "title": "Sign up for the THINK newsletter | NBC News"
+        },
+        {
+          "url": "https://peacocktv.com",
+          "title": "Home | NBCUNIVERSAL MEDIA"
+        },
+        {
+          "url": "https://spectrum.net/SpectrumTVApp",
+          "title": "Spectrum.net"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "shopping-e-commerce",
+      "bookmarks": [
+        {
+          "url": "https://butcherbox.com",
+          "title": "ButcherBox | Meat Delivery Subscription | ButcherBox"
+        },
+        {
+          "url": "https://eazydiner.com/mumbai",
+          "title": "List of Best Restaurants in Mumbai | Get Up to 50% Off"
+        },
+        {
+          "url": "https://fonearena.com/price.php",
           "title": "Price Search & Price Finder |FoneArena.com"
         },
         {
-          "url": "https://pungenerator.org/",
+          "url": "https://gobble.com",
+          "title": "Upcoming Menus | Gobble"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "sports-hobbies",
+      "bookmarks": [
+        {
+          "url": "https://esrbratings.org",
+          "title": "Entertainment Software Rating Board"
+        },
+        {
+          "url": "https://sc-ug.de/index.php/26-firmen-olympiade-donnerstag-den-04-07-2019",
+          "title": "Firmen-Olympiade - Donnerstag den 04.07.2019"
+        },
+        {
+          "url": "https://pagat.com/rummy/ginrummy.html",
+          "title": "Gin Rummy - Card Game Rules"
+        },
+        {
+          "url": "https://pevans.co.uk/Reviews/BigCheese.html",
+          "title": "Review of The Big Cheese"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "ai-tools-utilities",
+      "bookmarks": [
+        {
+          "url": "https://pungenerator.org",
           "title": "Pun Generator | Generate tons of puns!"
         },
         {
-          "url": "https://reverseimagesear.ch/",
+          "url": "https://reverseimagesear.ch",
           "title": "Reverse Image Search: Find similar images on Internet"
         },
         {
-          "url": "https://vanceai.com/",
+          "url": "https://vanceai.com",
           "title": "VanceAI | AI Photo Enhancement, Generation & Editing Tools Provider"
         }
       ],
-      "count": 5
+      "count": 3
     },
     {
-      "name": "art-and-design",
+      "name": "art-design-creative",
       "bookmarks": [
         {
           "url": "https://cassandraladru.com",
           "title": "Cassandra Ladru Photography - A journalistic style wedding and lifestyle photographer"
         },
         {
-          "url": "http://www.elledecor.com/design-decorate/house-interiors/g2510/house-tour-mossimo-giannulli-lori-loughlin-los-angeles-home/",
+          "url": "https://craftwork.design/catalog",
+          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
+        },
+        {
+          "url": "https://elledecor.com/design-decorate/house-interiors/g2510/house-tour-mossimo-giannulli-lori-loughlin-los-angeles-home",
           "title": "HOUSE TOUR: Inside Lori Loughlin And Mossimo Giannulli's Renovated LA Mansion"
         },
         {
-          "url": "https://latino.si.edu/about/national-museum-american-latino",
-          "title": "Leadership | National Museum of the American Latino"
-        },
-        {
-          "url": "https://www.tate.org.uk/art/art-terms/m/minimalism",
+          "url": "https://tate.org.uk/art/art-terms/m/minimalism",
           "title": "Minimalism | Tate"
         }
       ],
       "count": 4
     },
     {
-      "name": "blogs",
-      "bookmarks": [
-        {
-          "url": "https://wtfdidyoujust.tumblr.com/",
-          "title": "@wtfdidyoujust on Tumblr"
-        },
-        {
-          "url": "https://noelautnerstory.blogspot.com/2021/09/resena-minerva-en-las-nubes-de-pintina.html?showComment=1632515426397",
-          "title": "Reseña: Minerva en las nubes de Pintina Cuneo - Entre páginas y letras"
-        },
-        {
-          "url": "https://aldopiombino.blogspot.com/2010/11/il-disegno-di-legge-3687-sulla-riforma.html",
-          "title": "scienzeedintorni: Il disegno di legge 3687 sulla riforma dei dipartimenti: un provvedimento centrato sulle grandi facoltà e non sulle piccole (specialmente scientifiche)"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "cars-and-vehicles",
+      "name": "automotive-resources-hobbies",
       "bookmarks": [
         {
           "url": "https://astonmartin.oemdtc.com",
           "title": "Aston Martin - OEMDTC"
         },
         {
-          "url": "https://forums.corvetteactioncenter.com/threads/in-jail-or-not-in-jail-that-is-the-question.93002/",
+          "url": "https://forums.corvetteactioncenter.com/threads/in-jail-or-not-in-jail-that-is-the-question.93002",
           "title": "In Jail or Not in Jail? That is the Question | Corvette Forum - Corvette Action Center"
         },
         {
@@ -205,123 +325,69 @@
       "count": 3
     },
     {
-      "name": "corporate-pages",
+      "name": "business-contact-information",
       "bookmarks": [
         {
-          "url": "https://bignosekate.co/",
-          "title": "Big Nose Kate® - Western Whiskey"
+          "url": "https://lokcerto.com.br/contato",
+          "title": "Central de Atendimento - LokCerto"
         },
         {
-          "url": "http://store.apple.com/us/help/shopping_experience",
-          "title": "Shopping Experience - Shopping Help - Apple"
+          "url": "https://securustech.net/contact-us",
+          "title": "Contact Us - Securus Technologies"
         },
         {
-          "url": "http://www.Spectrum.net/SpectrumTVApp",
-          "title": "Spectrum.net"
+          "url": "https://elmnt13.com",
+          "title": "Elmnt13 - Marketing | Management"
         }
       ],
       "count": 3
     },
     {
-      "name": "education-university",
+      "name": "business-resources-directories",
       "bookmarks": [
         {
-          "url": "https://cs.mak.ac.ug/",
-          "title": "Department Of Computer Science | Makerere University"
+          "url": "https://jobs.accaglobal.com",
+          "title": "ACCA Careers | jobs | Choose from 26,089 live vacancies"
         },
         {
-          "url": "https://iris.unipa.it/cris/rp/rp11244",
-          "title": "LA ROSA, Alfonso"
+          "url": "https://britishnewsflash.org/warnhinweise-sollen-vor-massenvernichtungs-waffen-warnen",
+          "title": "British Newsflash Magazine - Liberty and Peace NOW - IBS Television Liberty - British Newsflash Magazine - Liberty and Peace NOW - IBS Television Liberty - radiotvinfo medianetwork - BRITISHNEWSFLASH.ORG"
         },
         {
-          "url": "http://www.psu.edu/visitors-and-neighbors",
-          "title": "Visit Penn State | Tours | Penn State"
+          "url": "https://byblack.us",
+          "title": "ByBlack - National Certification & Directory for Black Business"
         }
       ],
       "count": 3
     },
     {
-      "name": "events",
+      "name": "career-development-jobs",
       "bookmarks": [
         {
-          "url": "https://book.passkey.com/event/50337801/owner/16066798/home",
-          "title": "ByBlack Conference - Learn about the event and search for hotels"
+          "url": "https://jobs.accaglobal.com",
+          "title": "ACCA Careers | jobs | Choose from 26,089 live vacancies"
         },
         {
-          "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre/",
-          "title": "Festa del cioccolato artigianale sui Navigli Milanesi - MILANOEVENTS.IT | News 2.0 ed Eventi a Milano"
+          "url": "https://app.altrulabs.com/7-eleven/careers",
+          "title": "Video Studio"
         },
         {
-          "url": "https://sc-ug.de/index.php/26-firmen-olympiade-donnerstag-den-04-07-2019",
-          "title": "Firmen-Olympiade - Donnerstag den 04.07.2019"
+          "url": "https://benedict.ch/informatik/luzern/kurs/digital-marketing-specialist-bvs",
+          "title": "Digital Marketing Specialist - Weiterbildung Schweiz"
         }
       ],
       "count": 3
     },
     {
-      "name": "food-resources",
+      "name": "cultural-historical-institutions",
       "bookmarks": [
         {
-          "url": "https://www.eazydiner.com/mumbai?loc=mumbai",
-          "title": "List of Best Restaurants in Mumbai | Get Up to 50% Off"
-        },
-        {
-          "url": "https://fleischerei-keller.de/wochenkarte/speiseplan/speiseplan-1-2-5-2-2021/",
-          "title": "Speiseplan 1.2. - 5.2.2021 - Metzgerei Fleischerei Rodgau"
-        },
-        {
-          "url": "https://brainfoodstudio.com/tag/vacuum-flask/",
-          "title": "vacuum flask Archives - Brain Food Studio"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "games",
-      "bookmarks": [
-        {
-          "url": "https://www.esrbratings.org",
-          "title": "Entertainment Software Rating Board"
-        },
-        {
-          "url": "https://www.pagat.com/rummy/ginrummy.html",
-          "title": "Gin Rummy - Card Game Rules"
-        },
-        {
-          "url": "http://www.pevans.co.uk/Reviews/BigCheese.html",
-          "title": "Review of The Big Cheese"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "legal-privacy-policy",
-      "bookmarks": [
-        {
-          "url": "https://www.joemerrill.com/privacy-policy",
-          "title": "Privacy Policy - Joe Merrill"
-        },
-        {
-          "url": "https://www.angel.com/legal/privacy",
-          "title": "Watch Free Compelling Movies & TV Shows Online | Angel"
-        },
-        {
-          "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
-          "title": "void"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "reference-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.bergungsstelle.de/facetten-archivalien-index?f%5B0%5D=field_schlagwort%3A282&f%5B1%5D=field_schlagwort%3A186&f%5B2%5D=field_schlagwort%3A264&f%5B3%5D=field_ort%3A271&f%5B4%5D=field_schlagwort%3A286&f%5B5%5D=field_schlagwort%3A279&f%5B6%5D=field_ort%3A266&f%5B7%5D=field_schlagwort%3A281&f%5B8%5D=field_schlagwort%3A280",
+          "url": "https://bergungsstelle.de/facetten-archivalien-index",
           "title": "Facets Archivalien Index | BERGUNGSSTELLE"
         },
         {
-          "url": "https://www.jotscroll.com/nanven-nimfel",
-          "title": "Nanven Nimfel - Biography and Profile - Jotscroll"
+          "url": "https://latino.si.edu/about/national-museum-american-latino",
+          "title": "Leadership | National Museum of the American Latino"
         },
         {
           "url": "https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00021283",
@@ -331,254 +397,150 @@
       "count": 3
     },
     {
-      "name": "sports",
+      "name": "environmental-conservation-resources",
+      "bookmarks": [
+        {
+          "url": "https://iucnredlist.org",
+          "title": "IUCN Red List of Threatened Species"
+        },
+        {
+          "url": "https://livereport.protectedplanet.net/chapter-2",
+          "title": "Introduction | Protected Planet Report 2020"
+        },
+        {
+          "url": "https://tceq.texas.gov/p2/recycle/electronics",
+          "title": "Electronics Recycling - Texas Commission on Environmental Quality - www.tceq.texas.gov"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "event-planning-resources",
+      "bookmarks": [
+        {
+          "url": "https://book.passkey.com/event/50337801/owner/16066798/home",
+          "title": "ByBlack Conference - Learn about the event and search for hotels"
+        },
+        {
+          "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre",
+          "title": "Festa del cioccolato artigianale sui Navigli Milanesi - MILANOEVENTS.IT | News 2.0 ed Eventi a Milano"
+        },
+        {
+          "url": "https://uso.6connex.com/event/virtual/womens-empowerment-summit/login",
+          "title": "Resources for Retired Events Links | 6Connex Event Tech"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://icsid.worldbank.org",
+          "title": "International Centre for Settlement of Investment Disputes"
+        },
+        {
+          "url": "https://imf.org/en/Data",
+          "title": "IMF Data"
+        },
+        {
+          "url": "https://medicaid.utah.gov/apply-medicaid",
+          "title": "Apply for Medicaid - Medicaid: Utah Department of Health and Human Services - Integrated Healthcare"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-content-blogs",
+      "bookmarks": [
+        {
+          "url": "https://jotscroll.com/nanven-nimfel",
+          "title": "Nanven Nimfel - Biography and Profile - Jotscroll"
+        },
+        {
+          "url": "https://noelautnerstory.blogspot.com/2021/09/resena-minerva-en-las-nubes-de-pintina.html",
+          "title": "Reseña: Minerva en las nubes de Pintina Cuneo - Entre páginas y letras"
+        },
+        {
+          "url": "https://wtfdidyoujust.tumblr.com",
+          "title": "@wtfdidyoujust on Tumblr"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "privacy-policies",
+      "bookmarks": [
+        {
+          "url": "https://angel.com/legal/privacy",
+          "title": "Watch Free Compelling Movies & TV Shows Online | Angel"
+        },
+        {
+          "url": "https://joemerrill.com/privacy-policy",
+          "title": "Privacy Policy - Joe Merrill"
+        },
+        {
+          "url": "https://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
+          "title": "void"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "sports-statistics-fixtures",
       "bookmarks": [
         {
           "url": "https://kwcpanthers.com/sports/baseball/roster/matt-pobereyko/2588",
           "title": "Matt Pobereyko - Baseball - Kentucky Wesleyan College Athletics"
         },
         {
-          "url": "https://www.nba.com/game/okc-vs-lal-0022200821/box-score",
+          "url": "https://nba.com/game/okc-vs-lal-0022200821/box-score",
           "title": "Oklahoma City Thunder vs Los Angeles Lakers Feb 7, 2023 Box Scores | NBA.com"
         },
         {
-          "url": "https://www.premierleague.com/fixtures",
+          "url": "https://premierleague.com/fixtures",
           "title": "Premier League Fixtures & Live Matches on TV Season 2025/26"
         }
       ],
       "count": 3
     },
     {
-      "name": "business-services",
-      "bookmarks": [
-        {
-          "url": "https://byblack.us/",
-          "title": "ByBlack - National Certification & Directory for Black Business"
-        },
-        {
-          "url": "https://elmnt13.com/",
-          "title": "Elmnt13 - Marketing | Management"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "design-resources",
-      "bookmarks": [
-        {
-          "url": "https://craftwork.design/catalog/?_sft_download_category=freebies",
-          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
-        },
-        {
-          "url": "https://www.tinytypemuseum.com/what-is-letterpress",
-          "title": "The Tiny Type Museum & Time Capsule"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "education-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.benedict.ch/informatik/luzern/kurs/digital-marketing-specialist-bvs/",
-          "title": "Digital Marketing Specialist - Weiterbildung Schweiz"
-        },
-        {
-          "url": "http://mathworld.wolfram.com/topics/LinearAlgebra.html",
-          "title": "Linear Algebra -- from Wolfram MathWorld"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "environment-conservation",
-      "bookmarks": [
-        {
-          "url": "https://livereport.protectedplanet.net/chapter-2",
-          "title": "Introduction | Protected Planet Report 2020"
-        },
-        {
-          "url": "https://www.iucnredlist.org/",
-          "title": "IUCN Red List of Threatened Species"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-delivery",
-      "bookmarks": [
-        {
-          "url": "https://butcherbox.pxf.io/c/3408212/1578351/16419?subid3=people",
-          "title": "ButcherBox | Meat Delivery Subscription | ButcherBox"
-        },
-        {
-          "url": "https://gobble.sjv.io/c/3408212/1339313/5084?subid3=people",
-          "title": "Upcoming Menus | Gobble"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-recipes",
-      "bookmarks": [
-        {
-          "url": "http://www.neltuosito.it/Servizi-Web/Cucina/Archivio-Ricette-Cucina.asp",
-          "title": "Archivio di 24000 ricette di cucina"
-        },
-        {
-          "url": "https://www.sanjeevkapoor.com/",
-          "title": "Masterchef Sanjeev Kapoor Recipes - Taste the Tradition of Indian Cuisine & Innovative Dishes"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government-us",
-      "bookmarks": [
-        {
-          "url": "https://medicaid.utah.gov/apply-medicaid/?elqTrackId=2c0975612e11410e95dd5b57d602348e&elqaid=93&elqat=2",
-          "title": "Apply for Medicaid - Medicaid: Utah Department of Health and Human Services - Integrated Healthcare"
-        },
-        {
-          "url": "https://www.tceq.texas.gov/p2/recycle/electronics",
-          "title": "Electronics Recycling - Texas Commission on Environmental Quality - www.tceq.texas.gov"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "jobs",
-      "bookmarks": [
-        {
-          "url": "https://jobs.accaglobal.com/?utm_source=ACCAglobal&utm_medium=referral&utm_campaign=footer",
-          "title": "ACCA Careers | jobs | Choose from 26,089 live vacancies"
-        },
-        {
-          "url": "https://app.altrulabs.com/7-eleven/careers?cachebust=1628694962179",
-          "title": "Video Studio"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news-local",
-      "bookmarks": [
-        {
-          "url": "https://wjla.com/news/local/amtrak-train-derailment-northern-virginia-cars-collision-stranded-passengers-nonstop-trip-pets-sanford-florida-south-carolina-csx-freight-replacement-crew-food-meals-lorton-washington-dc-dmv-travel",
-          "title": "Delayed Amtrak train carrying northern Va. passengers arrives after 37-hour trip"
-        },
-        {
-          "url": "https://laist.com/news/food/the-city-of-la-just-extended-al-fresco-dining-for-at-least-a-year",
-          "title": "The City Of LA Just Extended Al Fresco Dining For At Least A Year | LAist"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "organizations-international",
-      "bookmarks": [
-        {
-          "url": "https://www.imf.org/en/Data",
-          "title": "IMF Data"
-        },
-        {
-          "url": "https://icsid.worldbank.org/",
-          "title": "International Centre for Settlement of Investment Disputes"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "organizations-professional",
-      "bookmarks": [
-        {
-          "url": "https://www.cochrane.org/about-us",
-          "title": "About us | Cochrane"
-        },
-        {
-          "url": "https://www.accaglobal.com/us/en.html",
-          "title": "Home | ACCA Global"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "radio-reference",
+      "name": "technology-guides-resources",
       "bookmarks": [
         {
           "url": "https://ratzer.at/archive/2018-December/044492.html",
           "title": "Ratzer.at Kurzwellenempfang"
         },
         {
-          "url": "https://www.sigidwiki.com/wiki/Signal_Identification_Guide",
+          "url": "https://sigidwiki.com/wiki/Signal_Identification_Guide",
           "title": "Signal Identification Wiki"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://www.mastermachineryllc.com/listings/47965-1300mm-coiltech-complete-servo-feedline-space-saver-new",
-          "title": "New 1300mm CoilTech Complete Servo Feedline - Space Saver (NEW) for..."
         },
         {
-          "url": "https://www.visko.se/klubb-visko/herr-3/valontano/",
-          "title": "Valontano - Visko"
+          "url": "https://vettimes.co.uk",
+          "title": "Vet Times: Latest Veterinary News, Jobs & Clinical Resources"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "streaming-services",
+      "name": "travel-events-planning",
       "bookmarks": [
         {
-          "url": "https://www.peacocktv.com/",
-          "title": "Home | NBCUNIVERSAL MEDIA"
-        },
-        {
-          "url": "https://link.nbcnews.com/join/5cj/think-signup",
-          "title": "Sign up for the THINK newsletter | NBC News"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://www.finn.no/reise",
+          "url": "https://finn.no/reise",
           "title": "Billige flybilletter, finn og bestill | FINN reise"
         },
         {
-          "url": "https://www.tripindigo.com/fly/guide/airlines/airkenya-express/",
+          "url": "https://tripindigo.com/fly/guide/airlines/airkenya-express",
           "title": "Easyota - Loading..."
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-data",
-      "bookmarks": [
+        },
         {
-          "url": "https://www.deltadental.com/us/en/tooth-fairy/press-release.html#2023",
-          "title": "How Much Does The Tooth Fairy Pay For A Tooth | Delta Dental"
+          "url": "https://uso.6connex.com/event/virtual/womens-empowerment-summit/login",
+          "title": "Resources for Retired Events Links | 6Connex Event Tech"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "tech-support",
-      "bookmarks": [
-        {
-          "url": "https://es.ccm.net/forum/affich-1014784-olvide-mi-contrasena-macbook-intento-no-sale",
-          "title": "Olvide mi contraseña macbook intento no sale - Foro de Mac OS"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
-  "total_bookmarks": 95,
-  "num_folders": 33
+  "total_bookmarks": 69,
+  "num_folders": 22
 }

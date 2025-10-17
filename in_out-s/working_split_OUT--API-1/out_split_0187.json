@@ -1,68 +1,114 @@
 {
   "folders": [
     {
-      "name": "articles",
+      "name": "business-finance",
+      "bookmarks": [
+        {
+          "url": "https://boehms-dax-strategie.de/geldanlagetipps/finanzen/umweltsuender-bitcoin.html",
+          "title": "Umweltsünder Bitcoin? Böhms DAX-Strategie"
+        },
+        {
+          "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/contact-form/PROJECT/948463091/612269",
+          "title": "EU Funding & Tenders Portal"
+        },
+        {
+          "url": "https://lachamberfoundation.org/",
+          "title": "Home - Louisiana Chamber of Commerce Foundation, Inc"
+        },
+        {
+          "url": "https://medium-rare.com/",
+          "title": "Medium Rare"
+        },
+        {
+          "url": "https://moneystation.gr/",
+          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
+        },
+        {
+          "url": "https://newsroom.china.paypal-corp.com/home",
+          "title": "PayPal Newsroom - 首页"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "articles-lifestyle",
       "bookmarks": [
         {
           "url": "https://blog.sonicbids.com/3-surefire-ways-to-stay-healthy-on-tour",
           "title": "3 Surefire Ways to Stay Healthy on Tour"
         },
         {
-          "url": "http://www.wwfmmi.org/what_we_do/fisheries/transforming_small_scale_fisheries/impact_of_covid_on_mediterranean_fisheries/",
+          "url": "https://optionb.org/about",
+          "title": "About OptionB.Org | Building resilience in the face of adversity | Option B"
+        },
+        {
+          "url": "https://wwfmmi.org/what_we_do/fisheries/transforming_small_scale_fisheries/impact_of_covid_on_mediterranean_fisheries",
           "title": "Impact of COVID on Mediterranean fisheries | WWF"
         },
         {
-          "url": "https://www.today.com/popculture/jill-martin-we-re-engaged-again-why-time-around-different-t239511",
+          "url": "https://today.com/popculture/jill-martin-we-re-engaged-again-why-time-around-different-t239511",
           "title": "Jill Martin: We're engaged ... again! Why this time around is different"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "finance",
-      "bookmarks": [
-        {
-          "url": "https://newsroom.china.paypal-corp.com/home",
-          "title": "PayPal Newsroom - 首页"
         },
         {
-          "url": "https://www.boehms-dax-strategie.de/geldanlagetipps/finanzen/umweltsuender-bitcoin.html",
-          "title": "Umweltsünder Bitcoin? Böhms DAX-Strategie"
-        },
-        {
-          "url": "http://www.moneystation.gr",
-          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
+          "url": "https://ourspiritualquest.com/category/zeitgeist/",
+          "title": "Zeitgeist | Our Spiritual Quest"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "shopping",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "https://www.rossmann.de/de/kosmetik/make-up/c/0700",
+          "url": "https://castlesales.com/castle-x-teaser-4/",
+          "title": "Castle X Castle X Teaser 4!"
+        },
+        {
+          "url": "https://rossmann.de/de/kosmetik/make-up/c/0700",
           "title": "Client Challenge"
         },
         {
-          "url": "https://www.mochu.com.tw/products/%E8%B2%B4%E6%97%8F%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%A5%97%E8%A3%9D",
+          "url": "https://mochu.com.tw/products/%E8%B2%B4%E6%97%8F%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%A5%97%E8%A3%9D",
           "title": "Mochu童裝"
         },
         {
-          "url": "https://www.aldoshoes.com/us/en_US/women/avedax-red/p/13491542",
+          "url": "https://ritavinieris.com/",
+          "title": "Rita Vinieris"
+        },
+        {
+          "url": "https://aldoshoes.com/us/en_US/women/avedax-red/p/13491542",
           "title": "Women's Top Handle Bags - ALDO"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "general-misc",
+      "bookmarks": [
+        {
+          "url": "https://youvisit.com/tour/montgomerycollege/131694",
+          "title": "Experience Rockville Campus in Virtual Reality. Press Alt plus A for accessibility version."
+        },
+        {
+          "url": "https://mclanecnc.com/Uux0lgl-Thicker/R3cwxu-Thicker/Penis/",
+          "title": "Redirecting..."
+        },
+        {
+          "url": "https://flsenate.gov/laws/constitution",
+          "title": "The Florida Constitution - The Florida Senate"
         }
       ],
       "count": 3
     },
     {
-      "name": "tech",
+      "name": "tech-software",
       "bookmarks": [
         {
-          "url": "http://www.idecad.com/",
+          "url": "https://idecad.com/",
           "title": "AEC Software for Architecture & Structural Engineering"
         },
         {
-          "url": "https://www.debian-fr.org/t/pulseaudio-probleme-de-definition-de-la-sortie-son/85541",
+          "url": "https://debian-fr.org/t/pulseaudio-probleme-de-definition-de-la-sortie-son/85541",
           "title": "Pulseaudio problème de définition de la sortie son - Support Debian - debian-fr.org"
         },
         {
@@ -71,90 +117,8 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "business-corporate",
-      "bookmarks": [
-        {
-          "url": "https://www.lachamberfoundation.org/",
-          "title": "Home - Louisiana Chamber of Commerce Foundation, Inc"
-        },
-        {
-          "url": "https://medium-rare.com/",
-          "title": "Medium Rare"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "fashion-apparel",
-      "bookmarks": [
-        {
-          "url": "https://www.castlesales.com/castle-x-teaser-4/",
-          "title": "Castle X Castle X Teaser 4!"
-        },
-        {
-          "url": "https://ritavinieris.com/",
-          "title": "Rita Vinieris"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government",
-      "bookmarks": [
-        {
-          "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/contact-form/PROJECT/948463091/612269",
-          "title": "EU Funding & Tenders Portal"
-        },
-        {
-          "url": "https://www.flsenate.gov/laws/constitution",
-          "title": "The Florida Constitution - The Florida Senate"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://www.youvisit.com/tour/montgomerycollege/131694?pl=v&tourid=tour1",
-          "title": "Experience Rockville Campus in Virtual Reality. Press Alt plus A for accessibility version."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "general-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://mclanecnc.com/Uux0lgl-Thicker/R3cwxu-Thicker/Penis/",
-          "title": "Redirecting..."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-wellness",
-      "bookmarks": [
-        {
-          "url": "https://optionb.org/about",
-          "title": "About OptionB.Org | Building resilience in the face of adversity | Option B"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "spirituality",
-      "bookmarks": [
-        {
-          "url": "https://ourspiritualquest.com/category/zeitgeist/",
-          "title": "Zeitgeist | Our Spiritual Quest"
-        }
-      ],
-      "count": 1
     }
   ],
   "total_bookmarks": 22,
-  "num_folders": 11
+  "num_folders": 5
 }

@@ -1,19 +1,365 @@
 {
   "folders": [
     {
-      "name": "legal-policy",
+      "name": "ai-and-software-development",
+      "bookmarks": [
+        {
+          "url": "https://getaawp.com",
+          "title": "AAWP | The Amazon Affiliate WordPress Plugin"
+        },
+        {
+          "url": "https://emmafcownie.medium.com/ai-and-art-what-you-need-to-know-a1fd76311b8b",
+          "title": "AI and Art:What You Need to Know. The Robots are coming for our Art... | by Emma Cownie | Medium"
+        },
+        {
+          "url": "https://getgenie.ai",
+          "title": "GetGenie: Write, Optimize & Track Content with AI"
+        },
+        {
+          "url": "https://wordpress.org/plugins/gdpr-cookie-compliance",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Venezuela"
+        },
+        {
+          "url": "https://kaggle.com/learn",
+          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
+        },
+        {
+          "url": "https://developer.microsoft.com",
+          "title": "Microsoft Developer"
+        },
+        {
+          "url": "https://sailthru.com",
+          "title": "Sailthru by Marigold | Deliver dynamic, data-driven customer journeys"
+        },
+        {
+          "url": "https://technologyreview.com",
+          "title": "MIT Technology Review"
+        },
+        {
+          "url": "https://vidyard.com",
+          "title": "Vidyard - Video Tools for Virtual Sales and Marketing Teams"
+        },
+        {
+          "url": "https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61",
+          "title": "We're Finally Starting to Understand How AI Works | by The PyCoach | Artificial Corner | Medium"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "e-commerce-and-consumer-products",
+      "bookmarks": [
+        {
+          "url": "https://art.com",
+          "title": "Art.com | Wall Art, Framed Prints, Canvas, Paintings, Posters & More! - Buy Wall Art Online"
+        },
+        {
+          "url": "https://backcountry.com/patagonia-nano-puff-insulated-jacket-womens",
+          "title": "Backcountry is not available"
+        },
+        {
+          "url": "https://bergdorfgoodman.com/p/dyson-special-edition-airwrap-multi-styler-gift-set-prod176550015",
+          "title": "Dyson Special Edition Airwrap Multi-Styler Gift Set - Bergdorf Goodman"
+        },
+        {
+          "url": "https://cwdressings.com",
+          "title": "CW Dressings™"
+        },
+        {
+          "url": "https://eatrobs.com",
+          "title": "Rob's Backstage Popcorn - Rob's Popcorn"
+        },
+        {
+          "url": "https://hudabeauty.com",
+          "title": "Huda Beauty | Now Shipping to Italy"
+        },
+        {
+          "url": "https://mirraw.com/designers/varanga-17756/designs/women-magenta-golden-paisley-printed-a-line-kurta-kurtas-and-kurtis",
+          "title": "Women Magenta & Golden Paisley Printed A Line Kurta - Varanga - 3536568"
+        },
+        {
+          "url": "https://punkcase.com.au/products/iphone-8-plus-case-ghostek-cloak-2-0-series-for-apple-iphone-8+plus-slim-protective-armor-case-cover-explosion-proof-screen-protector-aluminum-frame-tpu-shell-warranty-ultra-fit-black",
+          "title": "iPhone 8+ Plus Case, Ghostek® Cloak 2.0 Series Ultra Fit (Black) - PunkCase® AU"
+        },
+        {
+          "url": "https://samsclub.com/locator",
+          "title": "Club Finder - Sam's Club"
+        },
+        {
+          "url": "https://skinstore.com/u-beauty-the-mantle-skin-conditioning-wash-150ml/14006740.html",
+          "title": "Shop SkinStore Favorites Now at Dermstore | Dermstore"
+        },
+        {
+          "url": "https://terminalbstore.com",
+          "title": "TERMINAL B | Luxury Candles & Niche Fragrances Inspired by Travel"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "government-and-public-administration",
+      "bookmarks": [
+        {
+          "url": "https://apec.org/meeting-papers/annual-ministerial-meetings/2019/2019_amm/annex-c",
+          "title": "APEC Roadmap on Combatting Illegal, Unreported and Unregulated Fishing | 2019 APEC Ministerial Documents | APEC"
+        },
+        {
+          "url": "https://buergerinfo.ebersdorf.de/si0046.php",
+          "title": "SessionNet | Gemeinsamer Jugendausschuss - Termine 2023"
+        },
+        {
+          "url": "https://cdcr.ca.gov",
+          "title": "California Department of Corrections and Rehabilitation - CDCR"
+        },
+        {
+          "url": "https://rivm.nl/coronavirus-covid-19",
+          "title": "Corona | RIVM"
+        },
+        {
+          "url": "https://gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
+          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
+        },
+        {
+          "url": "https://fiskeridir.no/english",
+          "title": "Directorate of Fisheries"
+        },
+        {
+          "url": "https://shenandoahtx.us/214/emergency-management",
+          "title": "Emergency Management | Shenandoah, TX"
+        },
+        {
+          "url": "https://esrbratings.org",
+          "title": "Entertainment Software Rating Board"
+        },
+        {
+          "url": "https://gadebate.un.org",
+          "title": "General Debate of the 80th Session | General Debate"
+        },
+        {
+          "url": "https://ohchr.org/english/issues/millenium-development",
+          "title": "Millennium Development Goals and Human Rights"
+        },
+        {
+          "url": "https://mzcr.cz/aktuality",
+          "title": "Stránka nebyla nalezena - Ministerstvo zdravotnictví"
+        },
+        {
+          "url": "https://sba.gov",
+          "title": "Small Business Administration"
+        },
+        {
+          "url": "https://sernapesca.cl",
+          "title": "sernapesca"
+        },
+        {
+          "url": "https://treasury.worldbank.org",
+          "title": "Treasury"
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "social-advocacy-and-community",
+      "bookmarks": [
+        {
+          "url": "https://algore.com/about.html",
+          "title": "About Al Gore - Al Gore"
+        },
+        {
+          "url": "https://ebresearch.org",
+          "title": "EB Research Partnership - EB Research Partnership"
+        },
+        {
+          "url": "https://endjusticefees.org/fee-surveys",
+          "title": "End Justice Fees"
+        },
+        {
+          "url": "https://gettingout.com",
+          "title": "GettingOut"
+        },
+        {
+          "url": "https://iaacc.com",
+          "title": "Idlewild African American Chamber of Commerce"
+        },
+        {
+          "url": "https://industree.org.in",
+          "title": "Home | Industree Foundation"
+        },
+        {
+          "url": "https://leakytechpipeline.com",
+          "title": "The Leaky Tech Pipeline - TRANSFORM TECH. IMPROVE OUR FUTURE."
+        },
+        {
+          "url": "https://linkedin.com/company/imcsnet",
+          "title": "IMCS Network | LinkedIn"
+        },
+        {
+          "url": "https://map.peoplepower.org",
+          "title": "Take Action | American Civil Liberties Union"
+        },
+        {
+          "url": "https://repak.ie",
+          "title": "Repak: Ireland's leading environmental not for profit organisation"
+        },
+        {
+          "url": "https://ywcasouthflorida.org",
+          "title": "YWCA South Florida | Eliminating racial and gender inequality"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "academic-science-and-environmental",
+      "bookmarks": [
+        {
+          "url": "https://geonames.org/about.html",
+          "title": "About GeoNames"
+        },
+        {
+          "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide",
+          "title": "Carbon Dioxide - Earth Indicator - NASA Science"
+        },
+        {
+          "url": "https://cool.culturalheritage.org",
+          "title": "Conservation OnLine - CoOL"
+        },
+        {
+          "url": "https://cs.washington.edu/people/faculty/lazowska",
+          "title": "Ed Lazowska, Professor - Paul G. Allen School of Computer Science & Engineering"
+        },
+        {
+          "url": "https://iucnredlist.org/species/19488/2365291",
+          "title": "IUCN Red List of Threatened Species"
+        },
+        {
+          "url": "https://news.ucsb.edu/2018/019222/true-sanctuary",
+          "title": "True Sanctuary | The Current"
+        },
+        {
+          "url": "https://online.flipbuilder.com/wool/gsun/mobile/index.html",
+          "title": "Penn State Civil and Environmental Engineering 2021 Annual Report"
+        },
+        {
+          "url": "https://snf.fra.affrc.go.jp/index_eng.html",
+          "title": "Seikai National Fisheries Research Institute, Fra"
+        },
+        {
+          "url": "https://woods.stanford.edu",
+          "title": "Stanford Woods Institute for the Environment"
+        },
+        {
+          "url": "https://earthdata.nasa.gov/learn/backgrounders/what-is-sar",
+          "title": "Synthetic Aperture Radar (SAR) | NASA Earthdata"
+        },
+        {
+          "url": "https://uwreadilab.com",
+          "title": "UW READi Lab - Research in Early Autism Detection and Intervention"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "hobbies-arts-and-culture",
+      "bookmarks": [
+        {
+          "url": "https://deviantart.com",
+          "title": "DeviantArt - The Largest Online Art Gallery and Community"
+        },
+        {
+          "url": "https://guggenheim.org/exhibitions",
+          "title": "Exhibitions | The Guggenheim Museums and Foundation"
+        },
+        {
+          "url": "https://larkinthemorning.com/collections/books-dvds-cds/products/bok006",
+          "title": "Have Fun Playing Hand Drums - Lark in the Morning"
+        },
+        {
+          "url": "https://homemodelenginemachinist.com/forums",
+          "title": "Home Model Engine Machinist Forum"
+        },
+        {
+          "url": "https://klyricsforyou.com/2021/01/iu-celebrity.html",
+          "title": "IU - Celebrity Lyrics - K-Lyrics For You"
+        },
+        {
+          "url": "https://nationalmarblestournament.org",
+          "title": "National Marble Tournament | Wildwood, NJ"
+        },
+        {
+          "url": "https://pagat.com/invented/cribbage_solitaire.html",
+          "title": "Rules of Card Games: Cribbage Solitaire"
+        },
+        {
+          "url": "https://randomgifgirlwrites.tumblr.com",
+          "title": "Random Gif Girl Writes"
+        },
+        {
+          "url": "https://vaultofevil.wordpress.com/tag/guy-boothby",
+          "title": "Guy Boothby « Vault Of Evil"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "news-and-current-events",
+      "bookmarks": [
+        {
+          "url": "https://wwmt.com/news/local/jack-snyder-battle-creek-shooting-killing-central-high-school-teenager-police-department-arrest-memorial-arraigned-charged",
+          "title": "14-year-old charged in deadly shooting of Battle Creek Central High School student"
+        },
+        {
+          "url": "https://click2houston.com/news/local/2023/02/07/we-will-not-tolerate-theft-or-endangerment-of-our-animals-keepers-find-fence-cut-at-houston-zoo",
+          "title": "'We will not tolerate theft or endangerment of our animals': Keepers find fence cut at Houston Zoo"
+        },
+        {
+          "url": "https://buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap",
+          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
+        },
+        {
+          "url": "https://mpr.org",
+          "title": "Home | Minnesota Public Radio"
+        },
+        {
+          "url": "https://blog.mozilla.com/addons",
+          "title": "Mozilla Add-ons Community Blog -"
+        },
+        {
+          "url": "https://blog.getpocket.com",
+          "title": "Pocket inside"
+        },
+        {
+          "url": "https://prospect.org/article/can-california-fixed",
+          "title": "Can California Be Fixed? - The American Prospect"
+        },
+        {
+          "url": "https://hellomagazine.com/healthandbeauty/mother-and-baby/20230226165346/prince-william-kate-middleton-rare-comment-prince-george-princess-charlotte",
+          "title": "Prince William and Princess Kate make extremely rare comment about Prince George | HELLO!"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "privacy-and-legal-information",
       "bookmarks": [
         {
           "url": "https://allenai.org/business-code-of-conduct",
           "title": "Business partner code of conduct | Ai2"
         },
         {
-          "url": "https://www.bymanu.de/index.php/datenschutz",
+          "url": "https://bymanu.de/datenschutz",
           "title": "by Manu"
+        },
+        {
+          "url": "https://wiki.creativecommons.org/faq",
+          "title": "Frequently Asked Questions - Creative Commons"
         },
         {
           "url": "https://i-doser.com/privacy.html",
           "title": "iDoser Privacy Policy and Disclaimer"
+        },
+        {
+          "url": "https://iso.org/standard/54534.html",
+          "title": "ISO/IEC 27001:2022 - Information security management systems"
         },
         {
           "url": "https://policy.medium.com/medium-privacy-policy-f03bf92035c9",
@@ -24,689 +370,115 @@
           "title": "Privacy - Securus Technologies"
         },
         {
-          "url": "https://www.southafrica.net/gl/en/trade/page/terms-and-conditions",
+          "url": "https://southafrica.net/gl/en/trade/page/terms-and-conditions",
           "title": "Terms and conditions (GL)"
         }
       ],
-      "count": 6
+      "count": 8
     },
     {
-      "name": "blog",
+      "name": "business-and-professional-services",
       "bookmarks": [
         {
-          "url": "https://blog.mozilla.com/addons?utm_content=footer-link&utm_medium=referral&utm_source=addons.mozilla.org",
-          "title": "Mozilla Add-ons Community Blog -"
+          "url": "https://facilitiesnet.com/designconstruction/article/allowing-for-varying-employee-ages-preferences-in-workplace-style--16099",
+          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
         },
         {
-          "url": "https://blog.orbcomm.com",
-          "title": "IoT Blog | ORBCOMM"
+          "url": "https://getbasic.com",
+          "title": "..."
         },
         {
-          "url": "https://blog.getpocket.com/",
-          "title": "Pocket inside"
+          "url": "https://hiringourheroes.org/career-services/education-networking/career-forward",
+          "title": "Career Forward - Hiring Our Heroes"
         },
         {
-          "url": "https://randomgifgirlwrites.tumblr.com/",
-          "title": "Random Gif Girl Writes"
+          "url": "https://punchmark.com",
+          "title": "Punchmark Jewelry Website Design: Websites for Jewelers & Vendors"
         },
         {
-          "url": "https://vaultofevil.wordpress.com/tag/guy-boothby/",
-          "title": "Guy Boothby « Vault Of Evil"
+          "url": "https://thedesignerstoolbox.com",
+          "title": "The Designer's Toolbox - Helping you get hired in UI, UX, and Product Design"
         }
       ],
       "count": 5
     },
     {
-      "name": "gov-fisheries",
+      "name": "guides-how-to-and-tutorials",
       "bookmarks": [
         {
-          "url": "https://www.apec.org/Meeting-Papers/Annual-Ministerial-Meetings/2019/2019_AMM/Annex-C",
-          "title": "APEC Roadmap on Combatting Illegal, Unreported and Unregulated Fishing | 2019 APEC Ministerial Documents | APEC"
-        },
-        {
-          "url": "https://www.fiskeridir.no/English",
-          "title": "Directorate of Fisheries"
-        },
-        {
-          "url": "https://linkedin.com/company/imcsnet",
-          "title": "IMCS Network | LinkedIn"
-        },
-        {
-          "url": "http://snf.fra.affrc.go.jp/index_eng.html",
-          "title": "Seikai National Fisheries Research Institute, Fra"
-        },
-        {
-          "url": "http://www.sernapesca.cl/",
-          "title": "sernapesca"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "hobby",
-      "bookmarks": [
-        {
-          "url": "https://www.esrbratings.org",
-          "title": "Entertainment Software Rating Board"
-        },
-        {
-          "url": "https://www.homemodelenginemachinist.com/forums/",
-          "title": "Home Model Engine Machinist Forum"
-        },
-        {
-          "url": "http://nationalmarblestournament.org/",
-          "title": "National Marble Tournament | Wildwood, NJ"
-        },
-        {
-          "url": "http://www.pagat.com/invented/cribbage_solitaire.html",
-          "title": "Rules of Card Games: Cribbage Solitaire"
-        },
-        {
-          "url": "http://appt.ly",
+          "url": "https://appt.ly",
           "title": "How to Improve your Baby Photos | HeyBaby.sg"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "academia-resource",
-      "bookmarks": [
-        {
-          "url": "http://www.cs.washington.edu/people/faculty/lazowska/",
-          "title": "Ed Lazowska, Professor - Paul G. Allen School of Computer Science & Engineering"
-        },
-        {
-          "url": "https://help.zenodo.org/#citations",
-          "title": "Help | Zenodo"
-        },
-        {
-          "url": "https://online.flipbuilder.com/wool/gsun/mobile/index.html",
-          "title": "Penn State Civil and Environmental Engineering 2021 Annual Report"
-        },
-        {
-          "url": "https://woods.stanford.edu",
-          "title": "Stanford Woods Institute for the Environment"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://backcountry.tnu8.net/c/249354/358742/5311?subId1=PEOTheBestChristmasSalestoShopfromOurFavoriteStoresmsapozhnikovLifAff13830521202212I&u=https%3A%2F%2Fwww.backcountry.com%2Fpatagonia-nano-puff-insulated-jacket-womens",
-          "title": "Backcountry is not available"
-        },
-        {
-          "url": "https://api.mirraw.com/designers/varanga-17756/designs/women-magenta-golden-paisley-printed-a-line-kurta-kurtas-and-kurtis",
-          "title": "Women Magenta & Golden Paisley Printed A Line Kurta - Varanga - 3536568"
-        },
-        {
-          "url": "https://punkcase.com.au/products/iphone-8-plus-case-ghostek-cloak-2-0-series-for-apple-iphone-8-plus-slim-protective-armor-case-cover-explosion-proof-screen-protector-aluminum-frame-tpu-shell-warranty-ultra-fit-black",
-          "title": "iPhone 8+ Plus Case, Ghostek® Cloak 2.0 Series Ultra Fit (Black) - PunkCase® AU"
-        },
-        {
-          "url": "https://terminalbstore.com/",
-          "title": "TERMINAL B | Luxury Candles & Niche Fragrances Inspired by Travel"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "art-resource",
-      "bookmarks": [
-        {
-          "url": "https://www.art.com/",
-          "title": "Art.com | Wall Art, Framed Prints, Canvas, Paintings, Posters & More! - Buy Wall Art Online"
-        },
-        {
-          "url": "https://www.deviantart.com/",
-          "title": "DeviantArt - The Largest Online Art Gallery and Community"
-        },
-        {
-          "url": "https://www.guggenheim.org/exhibitions",
-          "title": "Exhibitions | The Guggenheim Museums and Foundation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "food",
-      "bookmarks": [
-        {
-          "url": "https://cwdressings.com/",
-          "title": "CW Dressings™"
-        },
-        {
-          "url": "https://eatrobs.com/",
-          "title": "Rob's Backstage Popcorn - Rob's Popcorn"
         },
         {
           "url": "https://nchfp.uga.edu/how/can_06/sauerkraut.html",
           "title": "| National Center for Home Food Preservation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "general-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://www.getbasic.com/",
-          "title": "..."
         },
         {
-          "url": "https://images.google.com.cy/url?sa=t&url=http://ocenkadoma24.ru",
-          "title": "Avviso di reindirizzamento"
+          "url": "https://oeko-tex.com/en/our-standards/oeko-tex-standard-100",
+          "title": "OEKO-TEX® STANDARD 100"
         },
-        {
-          "url": "https://hubpages.com/signin/?s=high&url=https%3A%2F%2Fhubpages.com%2Fforum%2Fpost%2Freply%2F3979922",
-          "title": "Sign In | HubPages"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-article",
-      "bookmarks": [
-        {
-          "url": "https://prospect.org/article/can-california-fixed/",
-          "title": "Can California Be Fixed? - The American Prospect"
-        },
-        {
-          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.kdV4lB5ya",
-          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
-        },
-        {
-          "url": "https://www.hellomagazine.com/healthandbeauty/mother-and-baby/20230226165346/prince-william-kate-middleton-rare-comment-prince-george-princess-charlotte/?utm_medium=social_media&campaign=hellouk&utm_source=Twitter#Echobox=1677443237",
-          "title": "Prince William and Princess Kate make extremely rare comment about Prince George | HELLO!"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "organization-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://industree.org.in/",
-          "title": "Home | Industree Foundation"
-        },
-        {
-          "url": "http://map.peoplepower.org/",
-          "title": "Take Action | American Civil Liberties Union"
-        },
-        {
-          "url": "https://www.ywcasouthflorida.org/",
-          "title": "YWCA South Florida | Eliminating racial and gender inequality"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "product-beauty",
-      "bookmarks": [
-        {
-          "url": "https://www.bergdorfgoodman.com/p/dyson-special-edition-airwrap-multi-styler-gift-set-prod176550015?slfpid=3",
-          "title": "Dyson Special Edition Airwrap Multi-Styler Gift Set - Bergdorf Goodman"
-        },
-        {
-          "url": "https://hudabeauty.com/",
-          "title": "Huda Beauty | Now Shipping to Italy"
-        },
-        {
-          "url": "https://www.skinstore.com/u-beauty-the-mantle-skin-conditioning-wash-150ml/14006740.html?switchcurrency=USD&shippingcountry=US&utm_source=AWin-%21%21%21affid%21%21%21&utm_medium=affiliate&utm_campaign=AffiliateWin%7CFeed&slfpid=3",
-          "title": "Shop SkinStore Favorites Now at Dermstore | Dermstore"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "science-conservation",
-      "bookmarks": [
-        {
-          "url": "https://cool.culturalheritage.org/",
-          "title": "Conservation OnLine - CoOL"
-        },
-        {
-          "url": "https://www.iucnredlist.org/species/19488/2365291",
-          "title": "IUCN Red List of Threatened Species"
-        },
-        {
-          "url": "http://www.news.ucsb.edu/2018/019222/true-sanctuary",
-          "title": "True Sanctuary | The Current"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-resource",
-      "bookmarks": [
-        {
-          "url": "https://developer.microsoft.com/en-us/",
-          "title": "Microsoft Developer"
-        },
-        {
-          "url": "https://support.mail.com/index.html",
-          "title": "Help Center"
-        },
-        {
-          "url": "https://wikitech-static.wikimedia.org/w/index.php?title=Special:WhatLinksHere/Server_Admin_Log/Archive_30&hidelinks=1",
-          "title": "Pages that link to \"Server Admin Log/Archive 30\" - Wikitech-static"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "ai-ml-article",
-      "bookmarks": [
-        {
-          "url": "https://emmafcownie.medium.com/ai-and-art-what-you-need-to-know-a1fd76311b8b",
-          "title": "AI and Art:What You Need to Know. The Robots are coming for our Art... | by Emma Cownie | Medium"
-        },
-        {
-          "url": "https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61",
-          "title": "We're Finally Starting to Understand How AI Works | by The PyCoach | Artificial Corner | Medium"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-resource",
-      "bookmarks": [
-        {
-          "url": "http://www.iaacc.com/",
-          "title": "Idlewild African American Chamber of Commerce"
-        },
-        {
-          "url": "https://www.sba.gov/",
-          "title": "Small Business Administration"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "career-resource",
-      "bookmarks": [
-        {
-          "url": "https://www.hiringourheroes.org/career-services/education-networking/career-forward/?utm_source=GwG&utm_medium=web&utm_id=Career+Forward",
-          "title": "Career Forward - Hiring Our Heroes"
-        },
-        {
-          "url": "https://www.thedesignerstoolbox.com/",
-          "title": "The Designer's Toolbox - Helping you get hired in UI, UX, and Product Design"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "data-resource",
-      "bookmarks": [
-        {
-          "url": "http://www.geonames.org/about.html",
-          "title": "About GeoNames"
-        },
-        {
-          "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
-          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "finance-banking",
-      "bookmarks": [
-        {
-          "url": "https://www.capitalone.com/credit-cards/",
-          "title": "Capital One Credit Cards"
-        },
-        {
-          "url": "https://south-africa.financialadvisory.com/savings-accounts/nedbank/",
-          "title": "Nedbank Savings Account Interest Rates"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gov-corrections",
-      "bookmarks": [
-        {
-          "url": "https://www.cdcr.ca.gov/",
-          "title": "California Department of Corrections and Rehabilitation - CDCR"
-        },
-        {
-          "url": "http://www.gettingout.com/",
-          "title": "GettingOut"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gov-health",
-      "bookmarks": [
-        {
-          "url": "https://www.rivm.nl/coronavirus-covid-19",
-          "title": "Corona | RIVM"
-        },
-        {
-          "url": "https://www.mzcr.cz/aktuality/",
-          "title": "Stránka nebyla nalezena - Ministerstvo zdravotnictví"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gov-local",
-      "bookmarks": [
-        {
-          "url": "https://buergerinfo.ebersdorf.de/si0046.php?__cjahr=2023&__cmonat=10&__canz=3&smccont=85&__osidat=d&__ksigrnr=9&__cselect=131072",
-          "title": "SessionNet | Gemeinsamer Jugendausschuss - Termine 2023"
-        },
-        {
-          "url": "https://shenandoahtx.us/214/Emergency-Management",
-          "title": "Emergency Management | Shenandoah, TX"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "learning-resource",
-      "bookmarks": [
-        {
-          "url": "https://larkinthemorning.com/collections/books-dvds-cds/products/bok006",
-          "title": "Have Fun Playing Hand Drums - Lark in the Morning"
-        },
-        {
-          "url": "https://www.kaggle.com/learn",
-          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "legal-resource",
-      "bookmarks": [
-        {
-          "url": "https://endjusticefees.org/fee-surveys/",
-          "title": "End Justice Fees"
-        },
-        {
-          "url": "http://wiki.creativecommons.org/FAQ",
-          "title": "Frequently Asked Questions - Creative Commons"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "media-newsletter-signup",
-      "bookmarks": [
         {
           "url": "https://subscriptions.kansascitypbs.org/subscribe.php",
           "title": "Newsletters"
-        },
-        {
-          "url": "https://secure.today.com/_tps/accounts/newsletters",
-          "title": "TODAY Newsletters | TODAY"
         }
       ],
-      "count": 2
+      "count": 4
     },
     {
-      "name": "news-local",
+      "name": "financial-and-banking",
       "bookmarks": [
         {
-          "url": "https://wwmt.com/news/local/jack-snyder-battle-creek-shooting-killing-central-high-school-teenager-police-department-arrest-memorial-arraigned-charged",
-          "title": "14-year-old charged in deadly shooting of Battle Creek Central High School student"
+          "url": "https://capitalone.com/credit-cards",
+          "title": "Capital One Credit Cards"
         },
         {
-          "url": "https://www.click2houston.com/news/local/2023/02/07/we-will-not-tolerate-theft-or-endangerment-of-our-animals-keepers-find-fence-cut-at-houston-zoo/",
-          "title": "'We will not tolerate theft or endangerment of our animals': Keepers find fence cut at Houston Zoo"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "organization-medical-research",
-      "bookmarks": [
-        {
-          "url": "https://www.ebresearch.org",
-          "title": "EB Research Partnership - EB Research Partnership"
+          "url": "https://ocenkadoma24.ru",
+          "title": "Avviso di reindirizzamento"
         },
         {
-          "url": "http://uwreadilab.com",
-          "title": "UW READi Lab - Research in Early Autism Detection and Intervention"
+          "url": "https://south-africa.financialadvisory.com/savings-accounts/nedbank",
+          "title": "Nedbank Savings Account Interest Rates"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "organization-un",
+      "name": "online-tools-and-platforms",
       "bookmarks": [
         {
-          "url": "https://gadebate.un.org/en",
-          "title": "General Debate of the 80th Session | General Debate"
-        },
-        {
-          "url": "http://www2.ohchr.org/english/issues/millenium-development/",
-          "title": "Millennium Development Goals and Human Rights"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "science-nasa",
-      "bookmarks": [
-        {
-          "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
-          "title": "Carbon Dioxide - Earth Indicator - NASA Science"
-        },
-        {
-          "url": "https://earthdata.nasa.gov/learn/backgrounders/what-is-sar",
-          "title": "Synthetic Aperture Radar (SAR) | NASA Earthdata"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "service-transportation",
-      "bookmarks": [
-        {
-          "url": "https://www.cambio-carsharing.de/cms/carsharing/de/1/cms_f2_128/cms_f8_1/cms?cms_knschluessel=FAHRZEUGE&cms_Feurocode=LBG&cms_Fname=Uelzen&cms_Fregionid=626",
-          "title": "Welche Autos gibt es bei cambio? | cambio CarSharing"
-        },
-        {
-          "url": "https://www.interstateparkingdowntown.com",
-          "title": "Interstate Parking Downtown"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "standards-documentation",
-      "bookmarks": [
-        {
-          "url": "https://www.iso.org/standard/54534.html",
-          "title": "ISO/IEC 27001:2022 - Information security management systems"
-        },
-        {
-          "url": "https://www.oeko-tex.com/en/our-standards/oeko-tex-standard-100",
-          "title": "OEKO-TEX® STANDARD 100"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tool-mobile-app",
-      "bookmarks": [
-        {
-          "url": "https://decidenow-app.com/",
+          "url": "https://decidenow-app.com",
           "title": "Decide Now!"
         },
         {
-          "url": "http://www.spiritstorybox.com",
-          "title": "Spirit Story Box - iPhone Paranormal Ghost Hunting App"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tool-saas-marketing",
-      "bookmarks": [
-        {
-          "url": "https://www.sailthru.com/",
-          "title": "Sailthru by Marigold | Deliver dynamic, data-driven customer journeys"
+          "url": "https://support.mail.com",
+          "title": "Help Center"
         },
         {
-          "url": "https://www.vidyard.com/",
-          "title": "Vidyard - Video Tools for Virtual Sales and Marketing Teams"
+          "url": "https://help.zenodo.org",
+          "title": "Help | Zenodo"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "tool-wordpress-plugin",
-      "bookmarks": [
-        {
-          "url": "https://getaawp.com/?ref=624",
-          "title": "AAWP | The Amazon Affiliate WordPress Plugin"
-        },
-        {
-          "url": "https://ve.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Venezuela"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "learning-data-science",
-      "bookmarks": [
-        {
-          "url": "https://www.kaggle.com/learn",
-          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "media-public-radio",
-      "bookmarks": [
-        {
-          "url": "http://mpr.org/",
-          "title": "Home | Minnesota Public Radio"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-business",
-      "bookmarks": [
-        {
-          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
-          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "music-lyrics",
-      "bookmarks": [
-        {
-          "url": "https://www.klyricsforyou.com/2021/01/iu-celebrity.html",
-          "title": "IU - Celebrity Lyrics - K-Lyrics For You"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "organization-environment",
-      "bookmarks": [
-        {
-          "url": "http://www.repak.ie",
-          "title": "Repak: Ireland's leading environmental not for profit organisation"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "organization-finance",
-      "bookmarks": [
-        {
-          "url": "https://treasury.worldbank.org/",
-          "title": "Treasury"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "people-profile",
-      "bookmarks": [
-        {
-          "url": "https://www.algore.com/about.html",
-          "title": "About Al Gore - Al Gore"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "resource-automotive",
+      "name": "transportation-and-automotive",
       "bookmarks": [
         {
           "url": "https://astonmartin.oemdtc.com",
           "title": "Aston Martin - OEMDTC"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "service-web-design",
-      "bookmarks": [
+        },
         {
-          "url": "http://www.punchmark.com?ref=webclient",
-          "title": "Punchmark Jewelry Website Design: Websites for Jewelers & Vendors"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-diversity",
-      "bookmarks": [
+          "url": "https://cambio-carsharing.de/cms/carsharing/de/1/cms_f2_128/cms_f8_1/cms",
+          "title": "Welche Autos gibt es bei cambio? | cambio CarSharing"
+        },
         {
-          "url": "http://leakytechpipeline.com",
-          "title": "The Leaky Tech Pipeline - TRANSFORM TECH. IMPROVE OUR FUTURE."
+          "url": "https://interstateparkingdowntown.com",
+          "title": "Interstate Parking Downtown"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "tech-news",
-      "bookmarks": [
-        {
-          "url": "https://www.technologyreview.com/",
-          "title": "MIT Technology Review"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tool-ai",
-      "bookmarks": [
-        {
-          "url": "https://getgenie.ai/",
-          "title": "GetGenie: Write, Optimize & Track Content with AI"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tool-store-locator",
-      "bookmarks": [
-        {
-          "url": "https://www.samsclub.com/locator",
-          "title": "Club Finder - Sam's Club"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
-  "total_bookmarks": 106,
-  "num_folders": 47
+  "total_bookmarks": 69,
+  "num_folders": 13
 }

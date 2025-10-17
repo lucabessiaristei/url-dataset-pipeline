@@ -12,7 +12,7 @@ from collections import defaultdict
 
 # ---------- CONFIG ----------
 INPUT_FILE = "./json_lists/working_expanded_eu.json"
-OUTPUT_DIR = "./in_out-s/working_split_IN--1"
+OUTPUT_DIR = "./in_out-s/working_split_IN--2"
 BASE_NAME = "split"
 NUM_FILES = 1000
 MIN_ITEMS = 10

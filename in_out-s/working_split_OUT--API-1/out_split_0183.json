@@ -1,23 +1,15 @@
 {
   "folders": [
     {
-      "name": "nonprofit-foundation",
+      "name": "nonprofit-charity-resources",
       "bookmarks": [
         {
           "url": "https://2020annualreport.bloomberg.org/",
           "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://chesapeakeclimate.org/",
-          "title": "Home - Chesapeake Climate Action Network"
-        },
-        {
-          "url": "https://www.falfoundation.org/",
-          "title": "The Francine A. LeFrak Foundation"
-        },
-        {
-          "url": "https://www.familyleague.org/",
-          "title": "You are being redirected..."
+          "url": "https://www.sare.org/publications/smart-water-use-on-your-farm-or-ranch/soil-management/conservation-tillage/",
+          "title": "Conservation Tillage - SARE"
         },
         {
           "url": "https://www.gatesfoundation.org/",
@@ -32,22 +24,80 @@
           "title": "Home :: Goodwill Easter Seals"
         },
         {
+          "url": "https://chesapeakeclimate.org/",
+          "title": "Home - Chesapeake Climate Action Network"
+        },
+        {
+          "url": "https://www.unccd.int/",
+          "title": "Home | UNCCD"
+        },
+        {
           "url": "https://plannedgiving.feedingamerica.org/",
           "title": "Planned Giving | Feeding America"
+        },
+        {
+          "url": "https://www.falfoundation.org/",
+          "title": "The Francine A. LeFrak Foundation"
         },
         {
           "url": "https://tiltify.com/international-rescue-committee",
           "title": "Tiltify - Made for Fundraisers"
         },
         {
-          "url": "https://www.unccd.int/",
-          "title": "Home | UNCCD"
+          "url": "https://www.familyleague.org/",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "software-development-tech",
+      "bookmarks": [
+        {
+          "url": "https://twinr.dev/",
+          "title": "Best No Code App Builder | Convert Your Website To App"
+        },
+        {
+          "url": "http://cadingandcoding.blogspot.com/",
+          "title": "CADing and Coding"
+        },
+        {
+          "url": "https://www.fedscoop.com/diux-releases-giant-overhead-imagery-data-set-computer-vision-challenge/",
+          "title": "DIUx releases a giant overhead imagery data set for computer vision challenge | FedScoop"
+        },
+        {
+          "url": "https://earlybird.im/",
+          "title": "EarlyBird: Your landing page builder for effective lead capture"
+        },
+        {
+          "url": "https://blog.johnmark.org/2014/02/03/gluster-cloud-night-amsterdam/",
+          "title": "Gluster Cloud Night Amsterdam - JohnMark.Org"
+        },
+        {
+          "url": "https://www.infopackets.com/news/archive/2016",
+          "title": "News archive: 2016 | www.infopackets.com"
+        },
+        {
+          "url": "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/",
+          "title": "StatefulSets | Kubernetes"
+        },
+        {
+          "url": "http://sticknodes.com",
+          "title": "StickNodes.com | Stickfigure Animator for Android and IOS!"
+        },
+        {
+          "url": "https://docs.python.org/3/tutorial/index.html",
+          "title": "The Python Tutorial - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://vms.drweb.com/virus/?i=2405948",
+          "title": "Trojan.DownLoader8.31367 - Dr.Web Malware description library"
         }
       ],
       "count": 10
     },
     {
-      "name": "media-entertainment",
+      "name": "entertainment-media-news",
       "bookmarks": [
         {
           "url": "https://www.20minutes.fr/cinema/4013493-20221210-avatar-voie-eau-film-rien-acteurs-estime-james-cameron",
@@ -66,10 +116,6 @@
           "title": "Entertainment Weekly: Entertainment News for Pop Culture Fans"
         },
         {
-          "url": "http://voyagetampa.com/interview/inspiring-conversations-with-stephanie-brown-of-the-rosie-network/",
-          "title": "Inspiring Conversations with Stephanie Brown of The Rosie Network - VoyageTampa"
-        },
-        {
           "url": "https://deadline.com/tag/investigation-discovery/",
           "title": "Investigation Discovery"
         },
@@ -86,26 +132,14 @@
           "title": "ViX: Cine y TV Gratis en Español"
         }
       ],
-      "count": 9
+      "count": 8
     },
     {
-      "name": "companies",
+      "name": "business-company-profiles",
       "bookmarks": [
-        {
-          "url": "http://www.aprilia.com/",
-          "title": "Moto e Scooter: Urban e Adventure Experience | Aprilia IT"
-        },
         {
           "url": "https://btseventmanagement.com/",
           "title": "Home - BTS Event Management"
-        },
-        {
-          "url": "https://cpowerenergymanagement.com/who-we-are/newsandhappenings/cpower-customers-avoided-280000-metric-tons-of-co2-in-2021/",
-          "title": "CPower Customers Avoided 286,000 metric tons of CO2 in 2021 - CPower Energy"
-        },
-        {
-          "url": "https://www2.deloitte.com/uk/en.html",
-          "title": "Deloitte UK | Audit, Consulting, Financial, Risk Management, Tax Services"
         },
         {
           "url": "https://www.idrissderm.com/",
@@ -116,18 +150,248 @@
           "title": "Investor Relations :: Skillsoft Corporation (SKIL)"
         },
         {
-          "url": "https://line.me/en/",
-          "title": "LINE｜always at your side."
-        },
-        {
           "url": "https://www.ten35.com/",
           "title": "void"
+        },
+        {
+          "url": "https://careers.7-eleven.com/",
+          "title": "Working at 7-ELEVEN"
+        },
+        {
+          "url": "https://www2.deloitte.com/uk/en.html",
+          "title": "Deloitte UK | Audit, Consulting, Financial, Risk Management, Tax Services"
         }
       ],
-      "count": 8
+      "count": 6
     },
     {
-      "name": "ecommerce-fashion-beauty",
+      "name": "consumer-products-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://allswellhome.com/collections/use-all-less-toppers-and-allswell-mattress/products/the-supreme-pillow",
+          "title": "Robot or human?"
+        },
+        {
+          "url": "https://www.rewjido.com/product/hp-250-g7-intel-core-i3-1tb-hdd-8gb-ram/",
+          "title": "Hp 250 G7, Intel Core I3, 8GB Ram - Rewjido Phones"
+        },
+        {
+          "url": "https://www.photo.walgreens.com/store/welcome",
+          "title": "Photo Prints, Custom Cards, and Posters | Walgreens Photo"
+        },
+        {
+          "url": "https://sell.amazon.com/programs/black-business-accelerator",
+          "title": "Amazon selling programs | Sell on Amazon"
+        },
+        {
+          "url": "https://vitaminpatchclub.com/products/total-package-bundle",
+          "title": "Total Package Bundle - Vitamin Patch Club"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-learning-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.education.microsoft.com/",
+          "title": "Educator Center Overview - Microsoft Learn Educator Center | Microsoft Learn"
+        },
+        {
+          "url": "https://www.harvard.edu/",
+          "title": "Harvard University"
+        },
+        {
+          "url": "https://help.chi.ac.uk/help-search/for/guests/category/files-and-online-storage/for/alumni/device/desktop/for/students/product/microsoft-teams/category/online-learning/category/software-and-apps",
+          "title": "Search results | Support and Information Zone"
+        },
+        {
+          "url": "https://www.kenkenkikki.jp/qa/answer/e_a11-003.html",
+          "title": "Q&A: Construction Equipment | Kikki's Workshop"
+        },
+        {
+          "url": "http://talkingpts.org/",
+          "title": "Home - TalkingPoints"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "health-wellness-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.bbc.com/news/health",
+          "title": "Health | Latest News & Updates | BBC News"
+        },
+        {
+          "url": "http://bodyfit.tips/abnehmen-training-ernaehrung/",
+          "title": "Abnehmen - So musst du trainieren und dich ernähren » bodyfit.tips"
+        },
+        {
+          "url": "https://cvshealth.com/covid-19/vaccine-information",
+          "title": "Our COVID-19 Response | CVS Health"
+        },
+        {
+          "url": "https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/paleo-diet/",
+          "title": "Diet Review: Paleo Diet for Weight Loss • The Nutrition Source"
+        },
+        {
+          "url": "https://www.ptsd.va.gov/understand/common/common_veterans.asp#:~:text=The%20number%20of%20Veterans%20with,PTSD%20in%20a%20given%20year.",
+          "title": "How Common is PTSD in Veterans? - PTSD: National Center for PTSD"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "legal-rights-privacy",
+      "bookmarks": [
+        {
+          "url": "https://aclupa.org/en/cases/js-v-blue-mountain-school-district",
+          "title": "J.S. v. Blue Mountain School District - ACLU of Pennsylvania"
+        },
+        {
+          "url": "http://www.foxandsheep.com/privacy-policy/",
+          "title": "Privacy Policy Apps | Fox and Sheep"
+        },
+        {
+          "url": "https://www.fractalabogados.com/terminos-y-condiciones2/",
+          "title": "Términos y Condiciones :: Fractalabogados"
+        },
+        {
+          "url": "http://madscientist.pl/policy/policy_adfree.html",
+          "title": "Mad Scientist"
+        },
+        {
+          "url": "http://www.nborg.com/privacy.html",
+          "title": "nB0rg - Privacy Policy"
+        },
+        {
+          "url": "https://privacyinternational.org/search?keywords=&f%5B0%5D=learn_more%3ALocation%20Surveillance%20Technology&f%5B1%5D=learn_more%3APrivacy&f%5B2%5D=learn_more%3AProtest%20Surveillance&f%5B3%5D=learn_more%3ASmart%20Cities",
+          "title": "Privacy International | Search"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "miscellaneous-web",
+      "bookmarks": [
+        {
+          "url": "http://www.aprilia.com/",
+          "title": "Moto e Scooter: Urban e Adventure Experience | Aprilia IT"
+        },
+        {
+          "url": "https://borrisokane.com/freer/1mas7sf22.html",
+          "title": "-"
+        },
+        {
+          "url": "https://definition.org/define/inspection/",
+          "title": "Definition of inspection - Definition.org"
+        },
+        {
+          "url": "https://medicin24.se/malexandermordaren-far-sitt-straff-provat/",
+          "title": "medicin24.se - Parked"
+        },
+        {
+          "url": "http://www.onlinegratis.it/ricette-gratis.html",
+          "title": "Onlinegratis.it - dominio premium in vendita"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "travel-planning-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.eurocars.ro/de/mietwagen-Arad/SUV/Opel/Opel-Antara_107",
+          "title": "Autovermietung Arad | SUV Klasse"
+        },
+        {
+          "url": "https://loveseatown.com/",
+          "title": "Love SeaTown: Explore all that's happening in Downtown Seattle"
+        },
+        {
+          "url": "https://www.sentres.com/en/mountain-hikes/schwaz/mountain-hikes-in-schwaz/1431387/",
+          "title": "The most beautiful mountain hikes on the Schwaz District » Sentres"
+        },
+        {
+          "url": "https://www.thehousecollective.com/en/the-middle-house/",
+          "title": "The Middle House | Artistic hotel in Dazhongli Shanghai | The House Collective"
+        },
+        {
+          "url": "http://voyagetampa.com/interview/inspiring-conversations-with-stephanie-brown-of-the-rosie-network/",
+          "title": "Inspiring Conversations with Stephanie Brown of The Rosie Network - VoyageTampa"
+        },
+        {
+          "url": "https://www.wyndhamhotels.com/ramada/kiev-ukraine/ramada-encore-kyiv/overview?CID=LC:RA::GGL:RIO:National:45388&amp;iata=00093796",
+          "title": "Ramada Encore by Wyndham Kyiv | Kiev, UA Hotels"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "civic-government-services",
+      "bookmarks": [
+        {
+          "url": "http://enigma.athensclarkecounty.com/photo/detailsNEW.asp?id=-1163680&bid=2023-00001273&pg=2&curr=no",
+          "title": "Athens-Clarke County, GA - Official Website - Sheriff"
+        },
+        {
+          "url": "http://opendata.ayto-caceres.es/dataset/barrios-caceres",
+          "title": "Barrios Cáceres - Datasets - OpenData Cáceres"
+        },
+        {
+          "url": "https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml",
+          "title": "NYC DOT - Open Streets"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "cooking-food-recipes",
+      "bookmarks": [
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85916",
+          "title": "Searchable Recipe Database - ASPIC DI FRAGOLA E PISTACCHI"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85937",
+          "title": "Searchable Recipe Database - Spinach Salad w/ Orange Sesame Dressing"
+        },
+        {
+          "url": "https://www.loveandlemons.com/",
+          "title": "Love and Lemons - Healthy, whole food, vegan and vegetarian recipes"
+        },
+        {
+          "url": "http://www.ricettepercucinare.com/",
+          "title": "Blog di cucina e ricette italiane | Ricettepercucinare.com | HOME"
+        },
+        {
+          "url": "https://world.openfoodfacts.org/product/3700096610783/moules-de-corde-bio-sans-marque",
+          "title": "Moules de corde bio - Cultimer - 2 L"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "digital-marketing-tools-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
+          "title": "Como sites lentos impactam meu negócio? - GoCache"
+        },
+        {
+          "url": "https://www.objectiveproductions.net/tag/obtain/",
+          "title": "obtain Archives - My Blog"
+        },
+        {
+          "url": "https://ads.tiktok.com",
+          "title": "TikTok for Business | Marketing & Advertising on TikTok"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "fashion-beauty-products",
       "bookmarks": [
         {
           "url": "http://www.fashionheaven.com/",
@@ -140,86 +404,130 @@
         {
           "url": "https://lacelock.net/products/lace-lock-melting-spray-pre-order",
           "title": "Lace Lock Melting Spray - Fingaz Beauty"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "history-technology-art-resources",
+      "bookmarks": [
+        {
+          "url": "https://lathes.co.uk/atlas/",
+          "title": "Atlas lathes"
         },
         {
-          "url": "https://returns.kosas.com/",
-          "title": "Returns"
+          "url": "https://www.nedcc.org/free-resources/preservation-leaflets/overview",
+          "title": "NEDCC Preservation Leaflets - NEDCC"
+        },
+        {
+          "url": "https://site.xavier.edu/polt/typewriters/tw-manuals.html",
+          "title": "Typewriter Manuals"
+        },
+        {
+          "url": "https://www.tate.org.uk/art/art-terms/l/lithography",
+          "title": "Lithography | Tate"
         }
       ],
       "count": 4
     },
     {
-      "name": "legal-policy",
+      "name": "local-community-events-features",
       "bookmarks": [
         {
-          "url": "http://madscientist.pl/policy/policy_adfree.html",
-          "title": "Mad Scientist"
+          "url": "https://www.belfastlive.co.uk/news/belfast-news/uber-belfast-give-date-launch-10547227",
+          "title": "Uber Belfast give date for launch in the city | Belfast Live"
         },
         {
-          "url": "http://www.nborg.com/privacy.html",
-          "title": "nB0rg - Privacy Policy"
+          "url": "https://www.capitalone.co.uk/",
+          "title": "Capital One Credit Cards UK | Apply For A Credit Card Online | Capital One"
         },
         {
-          "url": "http://www.foxandsheep.com/privacy-policy/",
-          "title": "Privacy Policy Apps | Fox and Sheep"
+          "url": "https://www.castelloninformacion.com/tag/estadio-castalia/",
+          "title": "estadio Castàlia - Castellon Información"
         },
         {
-          "url": "https://www.fractalabogados.com/terminos-y-condiciones2/",
-          "title": "Términos y Condiciones :: Fractalabogados"
+          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
+          "title": "Como sites lentos impactam meu negócio? - GoCache"
+        },
+        {
+          "url": "https://www.myfox8.com/remarkable-women-of-the-piedmont-triad-2021/",
+          "title": "Remarkable Women of the Piedmont Triad | FOX8 WGHP"
+        },
+        {
+          "url": "https://sc-ug.de/index.php/26-firmen-olympiade-donnerstag-den-04-07-2019",
+          "title": "Firmen-Olympiade - Donnerstag den 04.07.2019"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "mobile-apps-digital-services",
+      "bookmarks": [
+        {
+          "url": "https://apps.apple.com/us/developer/google-llc/id281956209",
+          "title": "‎Google Apps on the App Store"
+        },
+        {
+          "url": "https://fitness.apple.com/us/subscribe?itscg=10000&itsct=pod-services-fitness-apl-tvhm-21_1019",
+          "title": "‎Getting Started with Fitness+"
+        },
+        {
+          "url": "https://families.google/",
+          "title": "Google Families - Helping Make Technology Work For Your Family"
+        },
+        {
+          "url": "https://line.me/en/",
+          "title": "LINE｜always at your side."
         }
       ],
       "count": 4
     },
     {
-      "name": "recipes",
+      "name": "personal-blogs",
       "bookmarks": [
         {
-          "url": "http://www.ricettepercucinare.com/",
-          "title": "Blog di cucina e ricette italiane | Ricettepercucinare.com | HOME"
+          "url": "https://arthropleuridea.tumblr.com/",
+          "title": "viaduct"
         },
         {
-          "url": "https://www.loveandlemons.com/",
-          "title": "Love and Lemons - Healthy, whole food, vegan and vegetarian recipes"
+          "url": "https://sageprints-blog.tumblr.com/",
+          "title": "sage"
         },
         {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85916",
-          "title": "Searchable Recipe Database - ASPIC DI FRAGOLA E PISTACCHI"
+          "url": "https://sk-itty.tumblr.com/",
+          "title": "sk"
         },
         {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85916",
-          "title": "Searchable Recipe Database - ASPIC DI FRAGOLA E PISTACCHI"
+          "url": "https://thathousekilledmasterchauncy.tumblr.com/",
+          "title": "manifestwealthsuccess.com"
         }
       ],
       "count": 4
     },
     {
-      "name": "travel-planning",
+      "name": "science-data-references",
       "bookmarks": [
         {
-          "url": "https://www.eurocars.ro/de/mietwagen-Arad/SUV/Opel/Opel-Antara_107",
-          "title": "Autovermietung Arad | SUV Klasse"
+          "url": "https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni",
+          "title": "Nino SST Indices (Nino 1+2, 3, 3.4, 4; ONI and TNI) | Climate Data Guide"
         },
         {
-          "url": "https://loveseatown.com/",
-          "title": "Love SeaTown: Explore all that's happening in Downtown Seattle"
+          "url": "https://odis.org",
+          "title": "Ocean Data Information System"
         },
         {
-          "url": "https://www.wyndhamhotels.com/ramada/kiev-ukraine/ramada-encore-kyiv/overview?CID=LC:RA::GGL:RIO:National:45388&amp;iata=00093796",
-          "title": "Ramada Encore by Wyndham Kyiv | Kiev, UA Hotels"
+          "url": "https://www.omnicalculator.com/physics/escape-velocity",
+          "title": "Escape Velocity Calculator"
         },
         {
-          "url": "https://www.thehousecollective.com/en/the-middle-house/",
-          "title": "The Middle House | Artistic hotel in Dazhongli Shanghai | The House Collective"
-        },
-        {
-          "url": "https://www.sentres.com/en/mountain-hikes/schwaz/mountain-hikes-in-schwaz/1431387/",
-          "title": "The most beautiful mountain hikes on the Schwaz District » Sentres"
+          "url": "http://planetarynames.wr.usgs.gov/",
+          "title": "Planetary Names"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "webdev-tool",
+      "name": "web-development-resources",
       "bookmarks": [
         {
           "url": "https://fontawesome.com/",
@@ -235,462 +543,8 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "apps-software",
-      "bookmarks": [
-        {
-          "url": "https://apps.apple.com/us/developer/google-llc/id281956209",
-          "title": "‎Google Apps on the App Store"
-        },
-        {
-          "url": "https://fitness.apple.com/us/subscribe?itscg=10000&itsct=pod-services-fitness-apl-tvhm-21_1019",
-          "title": "‎Getting Started with Fitness+"
-        },
-        {
-          "url": "http://sticknodes.com",
-          "title": "StickNodes.com | Stickfigure Animator for Android and IOS!"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "blog-personal",
-      "bookmarks": [
-        {
-          "url": "https://thathousekilledmasterchauncy.tumblr.com/",
-          "title": "manifestwealthsuccess.com"
-        },
-        {
-          "url": "https://sageprints-blog.tumblr.com/",
-          "title": "sage"
-        },
-        {
-          "url": "https://sk-itty.tumblr.com/",
-          "title": "sk"
-        },
-        {
-          "url": "https://arthropleuridea.tumblr.com/",
-          "title": "viaduct"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "ecommerce-product",
-      "bookmarks": [
-        {
-          "url": "https://www.rewjido.com/product/hp-250-g7-intel-core-i3-1tb-hdd-8gb-ram/",
-          "title": "Hp 250 G7, Intel Core I3, 8GB Ram - Rewjido Phones"
-        },
-        {
-          "url": "https://allswellhome.com/collections/use-all-less-toppers-and-allswell-mattress/products/the-supreme-pillow",
-          "title": "Robot or human?"
-        },
-        {
-          "url": "https://vitaminpatchclub.com/products/total-package-bundle",
-          "title": "Total Package Bundle - Vitamin Patch Club"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "education-resource",
-      "bookmarks": [
-        {
-          "url": "https://education.microsoft.com/",
-          "title": "Educator Center Overview - Microsoft Learn Educator Center | Microsoft Learn"
-        },
-        {
-          "url": "https://www.harvard.edu/",
-          "title": "Harvard University"
-        },
-        {
-          "url": "http://talkingpts.org/",
-          "title": "Home - TalkingPoints"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "health-info",
-      "bookmarks": [
-        {
-          "url": "https://cvshealth.com/covid-19/vaccine-information",
-          "title": "Our COVID-19 Response | CVS Health"
-        },
-        {
-          "url": "https://www.bbc.com/news/health",
-          "title": "Health | Latest News & Updates | BBC News"
-        },
-        {
-          "url": "https://www.ptsd.va.gov/understand/common/common_veterans.asp#:~:text=The%20number%20of%20Veterans%20with,PTSD%20in%20a%20given%20year.",
-          "title": "How Common is PTSD in Veterans? - PTSD: National Center for PTSD"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "misc-unusable",
-      "bookmarks": [
-        {
-          "url": "https://borrisokane.com/freer/1mas7sf22.html",
-          "title": "-"
-        },
-        {
-          "url": "https://medicin24.se/malexandermordaren-far-sitt-straff-provat/",
-          "title": "medicin24.se - Parked"
-        },
-        {
-          "url": "https://www.objectiveproductions.net/tag/obtain/",
-          "title": "obtain Archives - My Blog"
-        },
-        {
-          "url": "http://www.onlinegratis.it/ricette-gratis.html",
-          "title": "Onlinegratis.it - dominio premium in vendita"
-        },
-        {
-          "url": "https://help.chi.ac.uk/help-search/for/guests/category/files-and-online-storage/for/alumni/device/desktop/for/students/product/microsoft-teams/category/online-learning/category/software-and-apps",
-          "title": "Search results | Support and Information Zone"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "news-local",
-      "bookmarks": [
-        {
-          "url": "https://www.castelloninformacion.com/tag/estadio-castalia/",
-          "title": "estadio Castàlia - Castellon Información"
-        },
-        {
-          "url": "https://myfox8.com/remarkable-women-of-the-piedmont-triad-2021/",
-          "title": "Remarkable Women of the Piedmont Triad | FOX8 WGHP"
-        },
-        {
-          "url": "https://www.belfastlive.co.uk/news/belfast-news/uber-belfast-give-date-launch-10547227",
-          "title": "Uber Belfast give date for launch in the city | Belfast Live"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-resource",
-      "bookmarks": [
-        {
-          "url": "https://docs.python.org/3/tutorial/index.html",
-          "title": "The Python Tutorial - Python 3.14.0 documentation"
-        },
-        {
-          "url": "https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/",
-          "title": "StatefulSets | Kubernetes"
-        },
-        {
-          "url": "https://vms.drweb.com/virus/?i=2405948",
-          "title": "Trojan.DownLoader8.31367 - Dr.Web Malware description library"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "diet-health",
-      "bookmarks": [
-        {
-          "url": "http://bodyfit.tips/abnehmen-training-ernaehrung/",
-          "title": "Abnehmen - So musst du trainieren und dich ernähren » bodyfit.tips"
-        },
-        {
-          "url": "https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/paleo-diet/",
-          "title": "Diet Review: Paleo Diet for Weight Loss • The Nutrition Source"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gov-civic",
-      "bookmarks": [
-        {
-          "url": "http://enigma.athensclarkecounty.com/photo/detailsNEW.asp?id=-1163680&bid=2023-00001273&pg=2&curr=no",
-          "title": "Athens-Clarke County, GA - Official Website - Sheriff"
-        },
-        {
-          "url": "https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml",
-          "title": "NYC DOT - Open Streets"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gov-data",
-      "bookmarks": [
-        {
-          "url": "http://opendata.ayto-caceres.es/dataset/barrios-caceres",
-          "title": "Barrios Cáceres - Datasets - OpenData Cáceres"
-        },
-        {
-          "url": "http://planetarynames.wr.usgs.gov/",
-          "title": "Planetary Names"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "hobby-machinery",
-      "bookmarks": [
-        {
-          "url": "https://lathes.co.uk/atlas/",
-          "title": "Atlas lathes"
-        },
-        {
-          "url": "https://www.kenkenkikki.jp/qa/answer/e_a11-003.html",
-          "title": "Q&A: Construction Equipment | Kikki's Workshop"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "hobby-tech",
-      "bookmarks": [
-        {
-          "url": "http://wiki.fablab-kali.de/doku.php?id=documentation:electronics:start&do=backlink",
-          "title": "documentation:electronics:start - Backlinks [FabLab Kamp-Lintfort]"
-        },
-        {
-          "url": "https://site.xavier.edu/polt/typewriters/tw-manuals.html",
-          "title": "Typewriter Manuals"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "legal-advocacy",
-      "bookmarks": [
-        {
-          "url": "https://aclupa.org/en/cases/js-v-blue-mountain-school-district",
-          "title": "J.S. v. Blue Mountain School District - ACLU of Pennsylvania"
-        },
-        {
-          "url": "https://privacyinternational.org/search?keywords=&f%5B0%5D=learn_more%3ALocation%20Surveillance%20Technology&f%5B1%5D=learn_more%3APrivacy&f%5B2%5D=learn_more%3AProtest%20Surveillance&f%5B3%5D=learn_more%3ASmart%20Cities",
-          "title": "Privacy International | Search"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "nocode-tool",
-      "bookmarks": [
-        {
-          "url": "https://twinr.dev/",
-          "title": "Best No Code App Builder | Convert Your Website To App"
-        },
-        {
-          "url": "https://earlybird.im/",
-          "title": "EarlyBird: Your landing page builder for effective lead capture"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "resource-preservation",
-      "bookmarks": [
-        {
-          "url": "https://www.tate.org.uk/art/art-terms/l/lithography",
-          "title": "Lithography | Tate"
-        },
-        {
-          "url": "https://www.nedcc.org/free-resources/preservation-leaflets/overview",
-          "title": "NEDCC Preservation Leaflets - NEDCC"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "science-data",
-      "bookmarks": [
-        {
-          "url": "https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni",
-          "title": "Nino SST Indices (Nino 1+2, 3, 3.4, 4; ONI and TNI) | Climate Data Guide"
-        },
-        {
-          "url": "https://odis.org",
-          "title": "Ocean Data Information System"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "webdev-guides",
-      "bookmarks": [
-        {
-          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
-          "title": "Como sites lentos impactam meu negócio? - GoCache"
-        },
-        {
-          "url": "https://www.a11yproject.com/",
-          "title": "Home - The A11Y Project"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-finance",
-      "bookmarks": [
-        {
-          "url": "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
-          "title": "Apple Card Application"
-        },
-        {
-          "url": "https://www.capitalone.co.uk/",
-          "title": "Capital One Credit Cards UK | Apply For A Credit Card Online | Capital One"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-resources",
-      "bookmarks": [
-        {
-          "url": "https://sell.amazon.com/programs/black-business-accelerator",
-          "title": "Amazon selling programs | Sell on Amazon"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-crafts",
-      "bookmarks": [
-        {
-          "url": "http://www.lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
-          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "jobs-careers",
-      "bookmarks": [
-        {
-          "url": "https://careers.7-eleven.com/",
-          "title": "Working at 7-ELEVEN"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "marketing-advertising",
-      "bookmarks": [
-        {
-          "url": "https://ads.tiktok.com",
-          "title": "TikTok for Business | Marketing & Advertising on TikTok"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "physics-tool",
-      "bookmarks": [
-        {
-          "url": "https://www.omnicalculator.com/physics/escape-velocity",
-          "title": "Escape Velocity Calculator"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "programming-blog",
-      "bookmarks": [
-        {
-          "url": "http://cadingandcoding.blogspot.com/",
-          "title": "CADing and Coding"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference",
-      "bookmarks": [
-        {
-          "url": "https://definition.org/define/inspection/",
-          "title": "Definition of inspection - Definition.org"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "resource-agriculture",
-      "bookmarks": [
-        {
-          "url": "https://www.sare.org/publications/smart-water-use-on-your-farm-or-ranch/soil-management/conservation-tillage/",
-          "title": "Conservation Tillage - SARE"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "resource-parenting",
-      "bookmarks": [
-        {
-          "url": "https://families.google/",
-          "title": "Google Families - Helping Make Technology Work For Your Family"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-photo",
-      "bookmarks": [
-        {
-          "url": "https://photo.walgreens.com/store/welcome",
-          "title": "Photo Prints, Custom Cards, and Posters | Walgreens Photo"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "sports",
-      "bookmarks": [
-        {
-          "url": "https://sc-ug.de/index.php/26-firmen-olympiade-donnerstag-den-04-07-2019",
-          "title": "Firmen-Olympiade - Donnerstag den 04.07.2019"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-news",
-      "bookmarks": [
-        {
-          "url": "https://www.fedscoop.com/diux-releases-giant-overhead-imagery-data-set-computer-vision-challenge/",
-          "title": "DIUx releases a giant overhead imagery data set for computer vision challenge | FedScoop"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-news-archive",
-      "bookmarks": [
-        {
-          "url": "https://blog.johnmark.org/2014/02/03/gluster-cloud-night-amsterdam/",
-          "title": "Gluster Cloud Night Amsterdam - JohnMark.Org"
-        },
-        {
-          "url": "https://infopackets.com/news/archive/2016",
-          "title": "News archive: 2016 | www.infopackets.com"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-database",
-      "bookmarks": [
-        {
-          "url": "https://world.openfoodfacts.org/product/3700096610783/moules-de-corde-bio-sans-marque",
-          "title": "Moules de corde bio - Cultimer - 2 L"
-        }
-      ],
-      "count": 1
     }
   ],
-  "total_bookmarks": 111,
-  "num_folders": 41
+  "total_bookmarks": 70,
+  "num_folders": 19
 }

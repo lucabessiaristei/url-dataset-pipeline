@@ -1,852 +1,490 @@
 {
   "folders": [
     {
-      "name": "orgs-nonprofit",
+      "name": "documentation-programming",
       "bookmarks": [
         {
-          "url": "https://www.a-b-c.org/",
-          "title": "Association to Benefit Children | A champion for all children"
+          "url": "https://devblogs.microsoft.com/visualstudio",
+          "title": "Visual Studio Blog"
         },
-        {
-          "url": "https://cookiecart.org/",
-          "title": "Cookie Cart - Baking Bright Futures"
-        },
-        {
-          "url": "https://nul.org/",
-          "title": "Home | National Urban League"
-        },
-        {
-          "url": "https://overdeck.org/portfolios/",
-          "title": "Portfolios | Overdeck Family Foundation"
-        },
-        {
-          "url": "https://www.lisc.org/twin-cities/",
-          "title": "Twin Cities | LISC Twin Cities"
-        },
-        {
-          "url": "https://www.youngaudiences.org/",
-          "title": "Young Audiences | Arts for Learning - National Organization"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://daluckdragon26.tumblr.com/",
-          "title": "@daluckdragon26 on Tumblr"
-        },
-        {
-          "url": "https://sirenalpha.tumblr.com/",
-          "title": "SirenAlpha"
-        },
-        {
-          "url": "https://jerrybrice.wordpress.com/tag/ybt/",
-          "title": "ybt | Jerrybrice's Blog"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "dev-docs-misc",
-      "bookmarks": [
         {
           "url": "https://docs.github.com",
           "title": "GitHub Docs"
         },
         {
-          "url": "https://www.postgresql.org/docs/current/indexes.html",
-          "title": "PostgreSQL: Documentation: 18: Chapter 11. Indexes"
-        },
-        {
-          "url": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/h-whyhexagons.htm#:~:text=Hexagons%20are%20the%20most%20circular-shaped%20polygon%20that%20can,of%20your%20data%20more%20naturally%20than%20square%20grids.",
-          "title": "Why hexagons?-ArcGIS Pro | Documentation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://acs782.tumblr.com/post/144450686127",
-          "title": "Maryland moves to increase diversity in computer... - Stuff"
-        },
-        {
-          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
-          "title": "Staff Directory | Unitec"
-        },
-        {
-          "url": "http://agentschoiceonline.com/",
-          "title": "The Agent's Choice"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "environment-oceans",
-      "bookmarks": [
-        {
-          "url": "https://www.un.org/sustainabledevelopment/oceans/",
-          "title": "Goal 14: Oceans - United Nations Sustainable Development"
-        },
-        {
-          "url": "https://oceana.org/",
-          "title": "Oceana | Protecting the World's Oceans"
-        },
-        {
-          "url": "https://flotillafoundation.org/",
-          "title": "The Flotilla Foundation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "logins",
-      "bookmarks": [
-        {
-          "url": "https://www.eurekalert.org/jrnls/sciadvances/",
-          "title": "Log in | EurekAlert Display"
-        },
-        {
-          "url": "https://login.adp.com/welcome",
-          "title": "Sign in | ADP Products"
-        },
-        {
-          "url": "https://atrl.net/",
-          "title": "Sign In - ATRL"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://cse.google.ki/url?q=https://outsons.com/",
-          "title": "Avviso di reindirizzamento"
-        },
-        {
-          "url": "https://www.caf.fr/allocataires/droits-et-prestations",
-          "title": "Radware Block Page"
-        },
-        {
-          "url": "https://user.providencejournal.com/user/enewspaper/",
-          "title": "Unsupported EU page"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "research-history",
-      "bookmarks": [
-        {
-          "url": "https://www.freebmd.org.uk/",
-          "title": "FreeBMD Home Page"
-        },
-        {
-          "url": "https://www.farmequip.org/news/kirby-brings-piece-of-aviation-history-to-museum/",
-          "title": "Kirby Brings Piece of Aviation History to Museum - Farm Equipment Manufacturers Association"
-        },
-        {
-          "url": "https://archive.vaclavhavel-library.org/Archive/BookCatalogue?author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Ji%C5%99%C3%AD%20Dienstbier&author=Krystyna%20Krauzeauthor=Pavel%20Landovsk%C3%BD&author=Ji%C5%99%C3%AD%20Dienstbierauthor=V%C3%A1clav%20Havel&author=Pavel%20Landovsk%C3%BDsort=2&lang=cs",
-          "title": "Knihovna Václava Havla"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "shopping-fashion",
-      "bookmarks": [
-        {
-          "url": "https://www.claires.com/",
-          "title": "Claire's | Ear piercing - gentle safe and fun for all ages"
-        },
-        {
-          "url": "https://michelleleaverjewellery.co.uk/product-tag/horseridingjewellery/",
-          "title": "horseridingjewellery - Michelle Leaver Jewellery"
-        },
-        {
-          "url": "https://www.instyle.com/oprah-nydj-denim-amazon-prime-early-access-sale-6746654",
-          "title": "Oprah's Favorite Things List Includes On-Sale Cozy Fashion"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "design-inspiration",
-      "bookmarks": [
-        {
-          "url": "https://www.behance.net/galleries/photography",
-          "title": "Behance"
-        },
-        {
-          "url": "https://www.popupexamples.com/",
-          "title": "The Top 100+ Pop Up Design Examples 2021"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-ai-ml",
-      "bookmarks": [
-        {
           "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
           "title": "OpenCV: OpenCV-Python Tutorials"
         },
         {
-          "url": "https://spacy.io/usage/training",
-          "title": "Training Pipelines & Models · spaCy Usage Documentation"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-blog",
-      "bookmarks": [
-        {
-          "url": "https://technet.microsoft.com/scriptcenter",
-          "title": "Scripting Blog [archived] - Formerly known as the \"Hey, Scripting Guy!\" blog"
+          "url": "https://hal.inrae.fr/hal-02605416v1/html_references",
+          "title": "void"
         },
         {
-          "url": "https://devblogs.microsoft.com/visualstudio/",
-          "title": "Visual Studio Blog"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-docs-js",
-      "bookmarks": [
+          "url": "https://hg.mozilla.org/mozilla-central/pushloghtml?changeset=f8f94f19e05b9cda0f5c81178094c2f2cc581fc5",
+          "title": "Client Challenge"
+        },
         {
           "url": "https://nodejs.org/api/worker_threads.html",
           "title": "Worker threads | Node.js v24.10.0 Documentation"
+        },
+        {
+          "url": "https://postgresql.org/docs/current/indexes.html",
+          "title": "PostgreSQL: Documentation: 18: Chapter 11. Indexes"
+        },
+        {
+          "url": "https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/h-whyhexagons.htm",
+          "title": "Why hexagons?-ArcGIS Pro | Documentation"
+        },
+        {
+          "url": "https://spacy.io/usage/training",
+          "title": "Training Pipelines & Models · spaCy Usage Documentation"
+        },
+        {
+          "url": "https://technet.microsoft.com/scriptcenter",
+          "title": "Scripting Blog [archived] - Formerly known as the \"Hey, Scripting Guy!\" blog"
         },
         {
           "url": "https://vuejs.org/guide/quick-start.html",
           "title": "Quick Start | Vue.js"
         }
       ],
-      "count": 2
+      "count": 11
     },
     {
-      "name": "dev-learning",
+      "name": "organizations-nonprofit",
       "bookmarks": [
         {
-          "url": "https://training.linuxfoundation.org/training/kubernetes-fundamentals/",
-          "title": "Kubernetes Fundamentals (LFS258) - Linux Foundation - Education"
+          "url": "https://www.a-b-c.org",
+          "title": "Association to Benefit Children | A champion for all children"
         },
-        {
-          "url": "https://www.codecademy.com/learn/learn-sql",
-          "title": "Learn SQL | Codecademy"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-sql",
-      "bookmarks": [
-        {
-          "url": "https://www.postgresql.org/docs/current/indexes.html",
-          "title": "PostgreSQL: Documentation: 18: Chapter 11. Indexes"
-        },
-        {
-          "url": "https://www.codecademy.com/learn/learn-sql",
-          "title": "Learn SQL | Codecademy"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "events",
-      "bookmarks": [
-        {
-          "url": "https://www.heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
-          "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
-        },
-        {
-          "url": "https://gckgrebow.pl/2018/04/zajecia-dla-as-w-kwietniu/",
-          "title": "Zajęcia dla AS w kwietniu - Gminne Centrum Kultury w Grębowie"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-dining",
-      "bookmarks": [
-        {
-          "url": "https://www.providencejournal.com/entertainment/dining/",
-          "title": "Food and Dining in Providence, RI | The Providence Journal"
-        },
-        {
-          "url": "https://creperie-letybillic.fr/operation-cheques-evasion-50/",
-          "title": "Opération Chèques Evasion 50 - Crêperie Le Ty-BillicCrêperie Le Ty-Billic"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government-services",
-      "bookmarks": [
-        {
-          "url": "https://dhs.iowa.gov/how-to-apply?elqTrackId=eaf4fa61ecdc4da0a0dec3b31cf4f273&elqaid=93&elqat=2",
-          "title": "Apply for Services | Health & Human Services"
-        },
-        {
-          "url": "https://mde.maryland.gov/programs/Land/RecyclingandOperationsprogram/Pages/ecycling.aspx",
-          "title": "eCycling Home Page"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "hobby-crafts",
-      "bookmarks": [
-        {
-          "url": "https://www.singer.com/support/machine-support",
-          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
-        },
-        {
-          "url": "https://karmahjalmarstal.com/2011/11/29/same-same-but-different-etsy-tiger/",
-          "title": "Same same but different #etsy #tiger/ | You can't start a fire without a spark"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "legal",
-      "bookmarks": [
         {
           "url": "https://aclupa.org/en/cases/layshock-v-hermitage-school-district",
           "title": "Layshock v. Hermitage School District - ACLU of Pennsylvania"
         },
         {
-          "url": "https://www.sesameworkshop.org/privacy-policy",
-          "title": "Privacy Policy - Sesame Workshop"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news-world",
-      "bookmarks": [
-        {
-          "url": "https://www.standardmedia.co.ke/topic/cultural-ties",
-          "title": "Cultural Ties - The Standard"
+          "url": "https://cookiecart.org",
+          "title": "Cookie Cart - Baking Bright Futures"
         },
         {
-          "url": "https://dav2012.over-blog.com/2017/05/la-police-tchetchene-demande-aux-parents-de-tuer-leurs-enfants-gays.html",
-          "title": "La police tchétchène demande aux parents de tuer leurs enfants gays - Le Nouveau Paradigme"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-books",
-      "bookmarks": [
-        {
-          "url": "https://wernerjanssen.nl/shop/boek-bewust-improviseren-plus-plus-pakket/",
-          "title": "Boek Bewust Improviseren plus voor plus pakket - Werner Janssen"
+          "url": "https://ifc.org",
+          "title": "International Finance Corporation (IFC)"
         },
         {
-          "url": "https://www.libreriadelsanto.it/libri/9788899005726/la-celebrazione-delleucaristia.html?utm_source=internal&utm_medium=link&utm_campaign=related_products&utm_content=auto",
-          "title": "La celebrazione dell'eucaristia - Le Catechesi di papa Francesco libro, Francesco (Jorge Mario Bergoglio), Centro Eucaristico, settembre 2018, Eucaristia/Messa - LibreriadelSanto.it"
+          "url": "https://lisc.org/twin-cities",
+          "title": "Twin Cities | LISC Twin Cities"
+        },
+        {
+          "url": "https://nul.org",
+          "title": "Home | National Urban League"
+        },
+        {
+          "url": "https://overdeck.org/portfolios",
+          "title": "Portfolios | Overdeck Family Foundation"
+        },
+        {
+          "url": "https://secure.uso.org/1812_wishbook_evergreen",
+          "title": "USO Wishbook | USO.org"
+        },
+        {
+          "url": "https://youngaudiences.org",
+          "title": "Young Audiences | Arts for Learning - National Organization"
         }
       ],
-      "count": 2
+      "count": 9
     },
     {
-      "name": "shopping-home-goods",
+      "name": "travel-leisure-guides",
       "bookmarks": [
+        {
+          "url": "https://bowlingcentrum-krnov.cz/news/en-skola-bowlingu",
+          "title": "Škola Bowlingu :: Bowlingové centrum Krnov"
+        },
+        {
+          "url": "https://campaniaagriturismo.it",
+          "title": "Campania Agriturismo - Il portale dell'agriturismo in Campania"
+        },
+        {
+          "url": "https://creperie-letybillic.fr/operation-cheques-evasion-50",
+          "title": "Opération Chèques Evasion 50 - Crêperie Le Ty-BillicCrêperie Le Ty-Billic"
+        },
+        {
+          "url": "https://dignois.fr/saint-pons/target63.html",
+          "title": "saint_pons_63.jpg"
+        },
+        {
+          "url": "https://flaquarium.org",
+          "title": "Explore The Florida Aquarium | Home of Marine Wonders"
+        },
+        {
+          "url": "https://heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
+          "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
+        },
+        {
+          "url": "https://providencejournal.com/entertainment/dining",
+          "title": "Food and Dining in Providence, RI | The Providence Journal"
+        },
+        {
+          "url": "https://samantha-brown.com",
+          "title": "Samantha Brown - Places to Love - World Traveler and TV Host"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "community-social-platforms",
+      "bookmarks": [
+        {
+          "url": "https://atrl.net",
+          "title": "Sign In - ATRL"
+        },
+        {
+          "url": "https://daluckdragon26.tumblr.com",
+          "title": "@daluckdragon26 on Tumblr"
+        },
+        {
+          "url": "https://enterchatroom.com",
+          "title": "Enter Chatroom - Free Online Chat Rooms"
+        },
+        {
+          "url": "https://guitarra.artepulsado.com/foros/showthread.php?24180-guitarra-miguel-moya-almer%C3%ADa",
+          "title": "Guitarra Miguel Moya Almería | Guitarra Artepulsado"
+        },
+        {
+          "url": "https://jerrybrice.wordpress.com/tag/ybt",
+          "title": "ybt | Jerrybrice's Blog"
+        },
+        {
+          "url": "https://karmahjalmarstal.com/2011/11/29/same-same-but-different-etsy-tiger",
+          "title": "Same same but different #etsy #tiger/ | You can't start a fire without a spark"
+        },
+        {
+          "url": "https://paltalk.com",
+          "title": "Video Chat | Paltalk"
+        },
+        {
+          "url": "https://sirenalpha.tumblr.com",
+          "title": "SirenAlpha"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "e-commerce-home-hobbies",
+      "bookmarks": [
+        {
+          "url": "https://fallsculinary.com/product/the-samurai-15-x-15-x-14-dough-joe-pizza-steel-baking-sheet",
+          "title": "The Samurai™ - 15\" x 15\" x 1/4\" - Dough-Joe® Pizza Steel Baking Sheet - Dough-Joe"
+        },
+        {
+          "url": "https://foolsdog.com/classic1910",
+          "title": "The Classic 1910 Tarot - The Fools Dog"
+        },
+        {
+          "url": "https://galaxus.ch/de/s1/producttype/staubsauger-76",
+          "title": "Kopierpapier · Druckerpapier - kaufen bei Galaxus"
+        },
         {
           "url": "https://luxome.com/products/bamboo-sheets",
           "title": "The Best Bamboo Sheets | 10,000+ Reviews | LUXOME"
         },
         {
-          "url": "https://shop.yohofate.com/SalePage/Index/7212950",
-          "title": "文殊健康-居家除障香組(環香)（限海外直購）Incense"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "social-chat",
-      "bookmarks": [
-        {
-          "url": "https://enterchatroom.com/",
-          "title": "Enter Chatroom - Free Online Chat Rooms"
+          "url": "https://michelleleaverjewellery.co.uk/product-tag/horseridingjewellery",
+          "title": "horseridingjewellery - Michelle Leaver Jewellery"
         },
         {
-          "url": "http://www.paltalk.com/",
-          "title": "Video Chat | Paltalk"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "sustainability",
-      "bookmarks": [
-        {
-          "url": "https://sciencebasedtargets.org/",
-          "title": "Ambitious corporate climate action - Science Based Targets Initiative"
+          "url": "https://singer.com/support/machine-support",
+          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
         },
         {
-          "url": "https://www.worldwaterday.org/",
-          "title": "World Water Day | United Nations"
+          "url": "https://wernerjanssen.nl/shop/boek-bewust-improviseren-plus-plus-pakket",
+          "title": "Boek Bewust Improviseren plus voor plus pakket - Werner Janssen"
         }
       ],
-      "count": 2
+      "count": 7
     },
     {
-      "name": "tools-writing",
+      "name": "tools-resources",
       "bookmarks": [
         {
-          "url": "https://www.rhymezone.com/",
+          "url": "https://behance.net/galleries/photography",
+          "title": "Behance"
+        },
+        {
+          "url": "https://freebmd.org.uk",
+          "title": "FreeBMD Home Page"
+        },
+        {
+          "url": "https://jobversity.upwardlyglobal.org/resource-library",
+          "title": "Career Resources for Immigrants & Refugees | Jobversity"
+        },
+        {
+          "url": "https://popupexamples.com",
+          "title": "The Top 100+ Pop Up Design Examples 2021"
+        },
+        {
+          "url": "https://rhymezone.com",
           "title": "RhymeZone rhyming dictionary and thesaurus"
         },
         {
-          "url": "https://www.wordtune.com/",
+          "url": "https://skilllabdesk.zendesk.com",
+          "title": "Help Center"
+        },
+        {
+          "url": "https://wordtune.com",
           "title": "Wordtune - Express yourself with confidence"
         }
       ],
-      "count": 2
+      "count": 7
     },
     {
-      "name": "travel",
+      "name": "environmental-conservation",
       "bookmarks": [
         {
-          "url": "http://www.campaniaagriturismo.it/",
-          "title": "Campania Agriturismo - Il portale dell'agriturismo in Campania"
+          "url": "https://epaalumni.com",
+          "title": "EPA Alumni Association"
         },
         {
-          "url": "https://samantha-brown.com/",
-          "title": "Samantha Brown - Places to Love - World Traveler and TV Host"
+          "url": "https://flotillafoundation.org",
+          "title": "The Flotilla Foundation"
+        },
+        {
+          "url": "https://oceana.org",
+          "title": "Oceana | Protecting the World's Oceans"
+        },
+        {
+          "url": "https://sciencebasedtargets.org",
+          "title": "Ambitious corporate climate action - Science Based Targets Initiative"
+        },
+        {
+          "url": "https://un.org/sustainabledevelopment/oceans",
+          "title": "Goal 14: Oceans - United Nations Sustainable Development"
+        },
+        {
+          "url": "https://worldwaterday.org",
+          "title": "World Water Day | United Nations"
         }
       ],
-      "count": 2
+      "count": 6
     },
     {
-      "name": "agriculture-products",
+      "name": "news-current-events",
+      "bookmarks": [
+        {
+          "url": "https://acs782.tumblr.com/post/144450686127",
+          "title": "Maryland moves to increase diversity in computer... - Stuff"
+        },
+        {
+          "url": "https://dav2012.over-blog.com/2017/05/la-police-tchetchene-demande-aux-parents-de-tuer-leurs-enfants-gays.html",
+          "title": "La police tchétchène demande aux parents de tuer leurs enfants gays - Le Nouveau Paradigme"
+        },
+        {
+          "url": "https://dazeddigital.com/music/article/54765/1/harry-styles-pleasing-brand-cover-2021-interview",
+          "title": "Harry Styles talks Pleasing: a brand built on small joys | Dazed"
+        },
+        {
+          "url": "https://farmequip.org/news/kirby-brings-piece-of-aviation-history-to-museum",
+          "title": "Kirby Brings Piece of Aviation History to Museum - Farm Equipment Manufacturers Association"
+        },
+        {
+          "url": "https://newsroom.latam.paypal-corp.com/inicio",
+          "title": "PayPal Newsroom - Inicio"
+        },
+        {
+          "url": "https://standardmedia.co.ke/topic/cultural-ties",
+          "title": "Cultural Ties - The Standard"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "system-utility-pages",
+      "bookmarks": [
+        {
+          "url": "https://caf.fr/allocataires/droits-et-prestations",
+          "title": "Radware Block Page"
+        },
+        {
+          "url": "https://eurekalert.org/jrnls/sciadvances",
+          "title": "Log in | EurekAlert Display"
+        },
+        {
+          "url": "https://hiquaso.de",
+          "title": "The domain name hiquaso.de is for sale."
+        },
+        {
+          "url": "https://login.adp.com/welcome",
+          "title": "Sign in | ADP Products"
+        },
+        {
+          "url": "https://user.providencejournal.com/user/enewspaper",
+          "title": "Unsupported EU page"
+        },
+        {
+          "url": "https://w3.org",
+          "title": "W3C"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "education-training",
+      "bookmarks": [
+        {
+          "url": "https://agentschoiceonline.com",
+          "title": "The Agent's Choice"
+        },
+        {
+          "url": "https://archive.vaclavhavel-library.org/archive/bookcatalogue",
+          "title": "Knihovna Václava Havla"
+        },
+        {
+          "url": "https://codecademy.com/learn/learn-sql",
+          "title": "Learn SQL | Codecademy"
+        },
+        {
+          "url": "https://training.linuxfoundation.org/training/kubernetes-fundamentals",
+          "title": "Kubernetes Fundamentals (LFS258) - Linux Foundation - Education"
+        },
+        {
+          "url": "https://unitec.ac.nz/about-us/contact-us/staff-directory",
+          "title": "Staff Directory | Unitec"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
+          "title": "Benefits that Last: Long-Term Impact and Cost-Benefit Findings for Year Up | The Administration for Children and Families"
+        },
+        {
+          "url": "https://crisisresponse.google",
+          "title": "Crisis Response Homepage"
+        },
+        {
+          "url": "https://dhs.iowa.gov/how-to-apply",
+          "title": "Apply for Services | Health & Human Services"
+        },
+        {
+          "url": "https://mde.maryland.gov/programs/land/recyclingandoperationsprogram/pages/ecycling.aspx",
+          "title": "eCycling Home Page"
+        },
+        {
+          "url": "https://sesameworkshop.org/privacy-policy",
+          "title": "Privacy Policy - Sesame Workshop"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "companies-brands",
+      "bookmarks": [
+        {
+          "url": "https://bmw-oman.com",
+          "title": "BMW Dealer | Muscat | BMW Oman"
+        },
+        {
+          "url": "https://futurefunds.com.au",
+          "title": "Financial advice planning | Future Funds Pty Ltd"
+        },
+        {
+          "url": "https://mondadori.com",
+          "title": "Home | Mondadori Group"
+        },
+        {
+          "url": "https://vicair.net",
+          "title": "Victoria Air Maintenance Ltd - Full-Service AMO at YYJ"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "e-commerce-general",
       "bookmarks": [
         {
           "url": "https://agrobolder.com/products/bobina-50",
           "title": "Agrobolder | Tienda Oficial"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "attractions-museums",
-      "bookmarks": [
+        },
         {
-          "url": "https://www.flaquarium.org/",
-          "title": "Explore The Florida Aquarium | Home of Marine Wonders"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "automotive",
-      "bookmarks": [
+          "url": "https://bigsmall.in",
+          "title": "Gifts Online | Send Unique Gifts Online | Best Gift Shop - Bigsmall.in"
+        },
         {
-          "url": "https://www.bmw-oman.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Dealer | Muscat | BMW Oman"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "blogs-publication",
-      "bookmarks": [
+          "url": "https://close.com/pricing",
+          "title": "Close CRM Pricing, Plans, and Reviews"
+        },
         {
-          "url": "https://level.medium.com/",
-          "title": "LEVEL"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "career-resources",
-      "bookmarks": [
-        {
-          "url": "https://jobversity.upwardlyglobal.org/resource-library/",
-          "title": "Career Resources for Immigrants & Refugees | Jobversity"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "charity-donations",
-      "bookmarks": [
-        {
-          "url": "https://secure.uso.org/1812_wishbook_evergreen/?sc=WS18PHCHM1",
-          "title": "USO Wishbook | USO.org"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "company-media",
-      "bookmarks": [
-        {
-          "url": "http://www.mondadori.com/",
-          "title": "Home | Mondadori Group"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "community-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.thefamilyplacenc.com/",
-          "title": "The Family Place | Family resources in Transylvania County"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "corporate-news",
-      "bookmarks": [
-        {
-          "url": "https://newsroom.latam.paypal-corp.com/inicio",
-          "title": "PayPal Newsroom - Inicio"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-source-code",
-      "bookmarks": [
-        {
-          "url": "https://hg.mozilla.org/mozilla-central/pushloghtml?changeset=f8f94f19e05b9cda0f5c81178094c2f2cc581fc5",
-          "title": "Client Challenge"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-web-standards",
-      "bookmarks": [
-        {
-          "url": "http://www.w3.org/",
-          "title": "W3C"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-wordpress-plugins",
-      "bookmarks": [
-        {
-          "url": "https://wordpress.org/plugins/donorbox-donation-form",
-          "title": "Donorbox - Free Recurring Donation Plugin and Fundraising Platform - WordPress plugin | WordPress.org"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "entertainment-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.dazeddigital.com/music/article/54765/1/harry-styles-pleasing-brand-cover-2021-interview",
-          "title": "Harry Styles talks Pleasing: a brand built on small joys | Dazed"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "entertainment-streaming",
-      "bookmarks": [
-        {
-          "url": "https://www.hulu.com",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "government-reports",
-      "bookmarks": [
-        {
-          "url": "https://www.acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
-          "title": "Benefits that Last: Long-Term Impact and Cost-Benefit Findings for Year Up | The Administration for Children and Families"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-mental",
-      "bookmarks": [
-        {
-          "url": "https://kidshelpphone.ca/text/",
-          "title": "Need help now? Text our texting service. - Kids Help Phone"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-esoteric",
-      "bookmarks": [
-        {
-          "url": "http://www.foolsdog.com/Classic1910/",
-          "title": "The Classic 1910 Tarot - The Fools Dog"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-music",
-      "bookmarks": [
-        {
-          "url": "https://guitarra.artepulsado.com/foros/showthread.php?24180-Guitarra-Miguel-Moya-Almer%EF%BF%BD%EF%BF%BDa&s=4e83db1cd5646ee7121e76e3a1edfe2a",
-          "title": "Guitarra Miguel Moya Almería | Guitarra Artepulsado"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "hobby-recreation",
-      "bookmarks": [
-        {
-          "url": "https://www.bowlingcentrum-krnov.cz/news/en-skola-bowlingu/",
-          "title": "Škola Bowlingu :: Bowlingové centrum Krnov"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-domain-for-sale",
-      "bookmarks": [
-        {
-          "url": "http://hiquaso.de/",
-          "title": "The domain name hiquaso.de is for sale."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-images",
-      "bookmarks": [
-        {
-          "url": "http://dignois.fr/Saint-Pons/target63.html",
-          "title": "saint_pons_63.jpg"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-support-docs",
-      "bookmarks": [
-        {
-          "url": "https://skilllabdesk.zendesk.com",
-          "title": "Help Center"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-tech",
-      "bookmarks": [
-        {
-          "url": "http://hackr.de/2021/12/20/1473035551297183749",
-          "title": "hackr worldwide: 1473035551297183749"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "orgs-alumni",
-      "bookmarks": [
-        {
-          "url": "https://www.epaalumni.com/",
-          "title": "EPA Alumni Association"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "orgs-finance",
-      "bookmarks": [
-        {
-          "url": "https://www.ifc.org/",
-          "title": "International Finance Corporation (IFC)"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "research-papers",
-      "bookmarks": [
-        {
-          "url": "https://hal.inrae.fr/hal-02605416v1/html_references",
-          "title": "void"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "science-tech-articles",
-      "bookmarks": [
-        {
-          "url": "https://stiintasitehnica.com/interviu/",
-          "title": "Interviurile S&T - Știință & Tehnică"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-aviation",
-      "bookmarks": [
-        {
-          "url": "http://www.vicair.net/",
-          "title": "Victoria Air Maintenance Ltd - Full-Service AMO at YYJ"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-finance",
-      "bookmarks": [
-        {
-          "url": "http://www.futurefunds.com.au/",
-          "title": "Financial advice planning | Future Funds Pty Ltd"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-it-support",
-      "bookmarks": [
-        {
-          "url": "http://www.flpcdr.com/",
-          "title": "Florida PC Doctor | Remote Support Services"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-photography",
-      "bookmarks": [
-        {
-          "url": "https://www.bulbcreative.co/",
-          "title": "Bulb"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-writing",
-      "bookmarks": [
-        {
-          "url": "https://authorservices.springernature.com/language-editing/",
-          "title": "Language Editing | Author Services from Springer Nature EN"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping-electronics",
-      "bookmarks": [
-        {
-          "url": "https://www.rewjido.com/product/hp-250-g7-intel-core-i3-1tb-hdd-8gb-ram/",
+          "url": "https://rewjido.com/product/hp-250-g7-intel-core-i3-1tb-hdd-8gb-ram",
           "title": "Hp 250 G7, Intel Core I3, 8GB Ram - Rewjido Phones"
         }
       ],
-      "count": 1
+      "count": 4
     },
     {
-      "name": "shopping-gifts",
+      "name": "fashion-books-retail",
       "bookmarks": [
         {
-          "url": "https://www.bigsmall.in/",
-          "title": "Gifts Online | Send Unique Gifts Online | Best Gift Shop - Bigsmall.in"
+          "url": "https://claires.com",
+          "title": "Claire's | Ear piercing - gentle safe and fun for all ages"
+        },
+        {
+          "url": "https://instyle.com/oprah-nydj-denim-amazon-prime-early-access-sale-6746654",
+          "title": "Oprah's Favorite Things List Includes On-Sale Cozy Fashion"
+        },
+        {
+          "url": "https://libreriadelsanto.it/libri/9788899005726/la-celebrazione-delleucaristia.html",
+          "title": "La celebrazione dell'eucaristia - Le Catechesi di papa Francesco libro, Francesco (Jorge Mario Bergoglio), Centro Eucaristico, settembre 2018, Eucaristia/Messa - LibreriadelSanto.it"
+        },
+        {
+          "url": "https://outsons.com",
+          "title": "Avviso di reindirizzamento"
         }
       ],
-      "count": 1
+      "count": 4
     },
     {
-      "name": "shopping-health-beauty",
+      "name": "media-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://hulu.com",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://level.medium.com",
+          "title": "LEVEL"
+        },
+        {
+          "url": "https://nba.com/stats/teams",
+          "title": "Teams | Stats | NBA.com"
+        },
+        {
+          "url": "https://stiintasitehnica.com/interviu",
+          "title": "Interviurile S&T - Știință & Tehnică"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "health-wellness-products",
       "bookmarks": [
         {
           "url": "https://drwhitneybowebeauty.com/products/relaxation-sleep-skin-capsules",
           "title": "Night Mode- Restorative Sleep + Skin Capsules - Dr. Whitney Bowe Beauty"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping-kitchenware",
-      "bookmarks": [
+        },
         {
-          "url": "https://fallsculinary.com/product/the-samurai-15-x-15-x-14-dough-joe-pizza-steel-baking-sheet/",
-          "title": "The Samurai™ - 15\" x 15\" x 1/4\" - Dough-Joe® Pizza Steel Baking Sheet - Dough-Joe"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping-medical",
-      "bookmarks": [
+          "url": "https://shop.yohofate.com/salepage/index/7212950",
+          "title": "文殊健康-居家除障香組(環香)（限海外直購）Incense"
+        },
         {
-          "url": "http://store.infinita.bg/bg/99-stres-test",
+          "url": "https://store.infinita.bg/bg/99-stres-test",
           "title": "Home | Infinita_BG"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "shopping-office-supplies",
-      "bookmarks": [
-        {
-          "url": "https://www.galaxus.ch/de/s1/producttype/staubsauger-76",
-          "title": "Kopierpapier · Druckerpapier - kaufen bei Galaxus"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "sports-stats",
-      "bookmarks": [
-        {
-          "url": "https://www.nba.com/stats/teams/",
-          "title": "Teams | Stats | NBA.com"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tools-crisis-response",
-      "bookmarks": [
-        {
-          "url": "https://crisisresponse.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav",
-          "title": "Crisis Response Homepage"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tools-privacy",
-      "bookmarks": [
-        {
-          "url": "https://www.startpage.com/",
-          "title": "Startpage - Private Search Engine. No Tracking. No Search History."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tools-saas",
-      "bookmarks": [
-        {
-          "url": "https://www.close.com/pricing",
-          "title": "Close CRM Pricing, Plans, and Reviews"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
-  "total_bookmarks": 108,
-  "num_folders": 69
+  "total_bookmarks": 73,
+  "num_folders": 17
 }

@@ -1,26 +1,42 @@
 {
   "folders": [
     {
-      "name": "non-profits",
+      "name": "organizations-non-profits",
       "bookmarks": [
         {
           "url": "https://c4ads.org/about-us/",
           "title": "About Us - C4ADS"
         },
         {
-          "url": "http://www.nativestartup.org/",
+          "url": "https://nativestartup.org/",
           "title": "Change Labs"
+        },
+        {
+          "url": "https://icj-cij.org/",
+          "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
         },
         {
           "url": "https://donabertarelli.com/dona-bertarelli/",
           "title": "Our Founder - Dona Bertarelli Philanthropy"
         },
         {
-          "url": "http://pmangellfamfound.org/",
-          "title": "Paul M. Angell Family Foundation - Supporting Conservation, Performing Arts, Social Impact"
+          "url": "https://fairtradeusa.org/",
+          "title": "Fair Trade Certified - Sourcing Program from Fair Trade USA"
         },
         {
-          "url": "https://www.wilder.org/community-impact/saint-paul-promise-neighborhood",
+          "url": "https://marpatagonico.org/",
+          "title": "Foro para la Conservación del Mar Patagónico y Áreas de Influencia - Foro para la Conservación del Mar Patagónico"
+        },
+        {
+          "url": "https://iis.fhg.de/",
+          "title": "Fraunhofer IIS (DE)"
+        },
+        {
+          "url": "https://taaacc.org/",
+          "title": "Home - Texas Association of African American Chamber of Commerce"
+        },
+        {
+          "url": "https://wilder.org/community-impact/saint-paul-promise-neighborhood",
           "title": "Impact & Annual Report | Wilder | St. Paul MN"
         },
         {
@@ -28,93 +44,467 @@
           "title": "NALCAB"
         },
         {
-          "url": "https://www.wpr.org/donate",
+          "url": "https://nationalgeographicpartners.com/about/",
+          "title": "National Geographic - National Geographic"
+        },
+        {
+          "url": "https://latino.si.edu/",
+          "title": "National Museum of the American Latino | Home"
+        },
+        {
+          "url": "https://pmangellfamfound.org/",
+          "title": "Paul M. Angell Family Foundation - Supporting Conservation, Performing Arts, Social Impact"
+        },
+        {
+          "url": "https://pewtrusts.org/en/projects/pew-bertarelli-ocean-legacy",
+          "title": "Pew Bertarelli Ocean Legacy | The Pew Charitable Trusts"
+        },
+        {
+          "url": "https://stichting-open.org/en/",
+          "title": "Stichting OPEN - Stichting OPEN"
+        },
+        {
+          "url": "https://unwater.org/",
+          "title": "UN-Water | Coordinating the UN's work on water and sanitation"
+        },
+        {
+          "url": "https://visitlakestreet.com/",
+          "title": "Visit Lake Street - Lake Street Council"
+        },
+        {
+          "url": "https://wbenc.org/",
+          "title": "WBENC Women's Business Enterprise National Council - WBENC.org : WBENC"
+        },
+        {
+          "url": "https://wpr.org/donate",
           "title": "WPR | Donate Now"
         }
       ],
-      "count": 7
+      "count": 19
     },
     {
-      "name": "education",
+      "name": "news-current-affairs",
       "bookmarks": [
         {
-          "url": "https://scfindingaids.uvm.edu/repositories/2/resources?q%5B%5D=%2A&op%5B%5D=&field%5B%5D=title&from_year%5B%5D=&to_year%5B%5D=&limit=resource&filter_fields%5B%5D=langcode&filter_values%5B%5D=eng&sort=title_sort%20asc&page=8",
-          "title": "Collections | Finding Aids"
+          "url": "https://www.twincities.com/2015/09/06/at-least-3-minnesota-motorcyclists-killed-over-holiday-weekend/",
+          "title": "At least 3 Minnesota motorcyclists killed over holiday weekend - Twin Cities"
         },
         {
-          "url": "https://en.unesco.org/covid19/educationresponse",
-          "title": "Education: From COVID-19 school closures to recovery | UNESCO"
+          "url": "https://www.bbc.co.uk/programmes/m001j9yy",
+          "title": "BBC Radio 2 - Zoe Ball, Vernon Kay and Ariana DeBose pop in"
         },
         {
-          "url": "https://www.eou.edu/?s=ebk5867.cn",
-          "title": "ebk5867.cn | Search Results | Eastern Oregon University"
+          "url": "https://www.theguardian.com/environment/2021/oct/31/cop26-literally-the-last-chance-saloon-to-save-planet-prince-charles",
+          "title": "Cop26 'literally the last chance saloon' to save planet - Prince Charles | Cop26 | The Guardian"
         },
         {
           "url": "https://www.insidehighered.com/news/2022/02/10/how-k-12-book-bans-affect-higher-education",
           "title": "How K-12 book bans affect higher education"
         },
         {
-          "url": "https://www.topuniversities.com/university-rankings/world-university-rankings/2023",
-          "title": "QS World University Rankings 2023: Top Global Universities | TopUniversities"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "environmental-conservation",
-      "bookmarks": [
-        {
-          "url": "http://marpatagonico.org/",
-          "title": "Foro para la Conservación del Mar Patagónico y Áreas de Influencia - Foro para la Conservación del Mar Patagónico"
-        },
-        {
           "url": "https://oceanpanel.org/oa2030-new-members-caf_sdrhub/",
           "title": "New Members Boost Ocean Action 2030's Mission for Sustainability"
         },
         {
-          "url": "https://www.pewtrusts.org/en/projects/pew-bertarelli-ocean-legacy",
-          "title": "Pew Bertarelli Ocean Legacy | The Pew Charitable Trusts"
+          "url": "https://www.ksat.com/",
+          "title": "San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More"
         },
         {
-          "url": "http://archives.nereusprogram.org/event/preparatory-committe-for-marine-biological-diversity-of-areas-beyond-national-jurisdiction/?lang=en",
-          "title": "Second Session of the Preparatory Committee for Marine Biological Diversity of Areas Beyond National Jurisdiction | Nereus Program"
+          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
+          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
         },
         {
-          "url": "http://unwater.org",
-          "title": "UN-Water | Coordinating the UN's work on water and sanitation"
+          "url": "https://www.hollywoodreporter.com/tip-line",
+          "title": "Tip Line | The Hollywood Reporter"
+        },
+        {
+          "url": "https://www.satcentrum.com/clanky/3316/tv-nova-a-nova-sport-vysilaji-moto-gp-a-formuli-1/",
+          "title": "TV NOVA a NOVA Sport vysílají MOTO GP a Formuli 1 - Články | satCentrum"
+        },
+        {
+          "url": "https://www.exergue.com/h/2016-07/tt/brexit.html",
+          "title": "Exergue - Un Brexit pour rien, Ou pas"
+        },
+        {
+          "url": "https://www.gettyimages.com/detail/news-photo/russian-t-72-tank-destroyed-in-ukraine-is-installed-in-news-photo/1247431813?phrase=landmark%20ukraine%20anniversary&adppopup=true",
+          "title": "A Russian T-72 tank destroyed in Ukraine is installed in front of... Foto di attualità - Getty Images"
+        },
+        {
+          "url": "https://www.gq.com/story/what-ever-happened-to-brendan-fraser",
+          "title": "What Ever Happened To Brendan Fraser? | GQ"
         }
       ],
-      "count": 5
+      "count": 12
     },
     {
-      "name": "legal",
+      "name": "e-commerce-products",
       "bookmarks": [
+        {
+          "url": "https://www.tnpaccessories.com/products/tnp-accessories-ab-mat-black-blue",
+          "title": "Ab Mat - Black/Blue | TnP Accessories"
+        },
+        {
+          "url": "https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100018",
+          "title": "Apple Card Application"
+        },
+        {
+          "url": "https://www.fitbit.com/",
+          "title": "Avant de continuer"
+        },
+        {
+          "url": "https://www.balsamhill.com/p/bh-fraser-fir-artificial-christmas-tree?sku=2808946",
+          "title": "BH Fraser Fir® Artificial Christmas Tree | Balsam Hill"
+        },
+        {
+          "url": "https://www.sephora.sg/products/espressoh-glassy-blush-by-the-glass/v/default",
+          "title": "Buy Makeup, Cosmetics and Skincare | Sephora Singapore"
+        },
+        {
+          "url": "https://www.clarinsusa.com/en/lip-comfort-oil/CS00555678.html",
+          "title": "Lip Comfort Oil Best Plumping Hydrating & Conditioning Lip Oil | CLARINS®"
+        },
+        {
+          "url": "https://decadecounter.com/",
+          "title": "MASTER38 Slot gacor untuk para master slotter dimanapun berada"
+        },
+        {
+          "url": "https://aprilia.com/",
+          "title": "Moto e Scooter: Urban e Adventure Experience | Aprilia IT"
+        },
+        {
+          "url": "https://magiadivino.it/e-commerce/105_poggio-le-volpi",
+          "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
+        },
+        {
+          "url": "https://www.redcorp.com/fr/product/services-garanties/lexmark/warranty-1-year-onsite-nbd-2349444--2349444/08626025",
+          "title": "LEXMARK Warranty 1 Year Onsite Nbd (2349444) - 2349444 - Redcorp.com/fr"
+        },
+        {
+          "url": "https://www.partsworldshop.com/de/2~205~motorrad/BMW/K-1300-R-S",
+          "title": "Sortiment / BMW / K 1300 R / S - Parts World Shop"
+        },
+        {
+          "url": "https://www.sony.com/electronics/cameras",
+          "title": "Sony Cameras | Digital Cameras & Lenses"
+        },
+        {
+          "url": "https://www.traeger.com/pellet-grills/timberline",
+          "title": "Traeger Timberline WiFi Pellet Grill - Traeger®"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "software-development-tools",
+      "bookmarks": [
+        {
+          "url": "https://cadingandcoding.blogspot.com/",
+          "title": "CADing and Coding"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
+          "title": "MutationObserver - Web APIs | MDN"
+        },
+        {
+          "url": "https://www.omni.us/",
+          "title": "Omni Channel Outreach System | Omni.us"
+        },
+        {
+          "url": "https://www.janestreet.com/puzzles/",
+          "title": "Puzzles :: Jane Street"
+        },
+        {
+          "url": "https://www.race-technology.com/wiki/index.php/InstallingTheSystem/MountingThePeliCase",
+          "title": "Race Technology Knowledge Base | InstallingTheSystem / MountingThePeliCase"
+        },
+        {
+          "url": "https://www.supa-palette.com/",
+          "title": "Supa Palette - The ultimate color palette generator for Figma!"
+        },
+        {
+          "url": "https://iics.medium.com/tech-support-scammers-use-xss-vulnerability-to-show-fake-malware-infection-7e56138ed186",
+          "title": "Tech support scammers use XSS vulnerability to show fake malware infection | by Eli Cyber Security | Medium"
+        },
+        {
+          "url": "https://tech.bakkenbaeck.com/post/training-a-language-model-in-spacy-v3",
+          "title": "Training a language model in spaCy v3 - Bakken & Baeck"
+        },
+        {
+          "url": "https://visualstudio.microsoft.com/",
+          "title": "Visual Studio: IDE and Code Editor for Software Development"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "business-professional-services",
+      "bookmarks": [
+        {
+          "url": "https://alex-warner.com/",
+          "title": "Alex Warner"
+        },
+        {
+          "url": "https://marketingkit.withgoogle.com/",
+          "title": "Before you continue"
+        },
+        {
+          "url": "https://partner.microsoft.com/en-US/",
+          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
+        },
+        {
+          "url": "https://jalhay-commerces.be/commune/Engis/4480/",
+          "title": "Communes-Commerces.be"
+        },
         {
           "url": "https://forms.accaglobal.com/contact-us",
           "title": "Contact us"
         },
         {
+          "url": "https://espiralinterativa.com/",
+          "title": "Espiral Interativa | Home"
+        },
+        {
+          "url": "https://labs.mozilla.org/",
+          "title": "Home | Mozilla New Products"
+        },
+        {
+          "url": "https://risk.lexisnexis.com/",
+          "title": "LexisNexis Risk Solutions | Transform Your Risk Decision Making"
+        },
+        {
+          "url": "https://mpkelley.com/",
+          "title": "Mike Kelley: Architectural Photographer"
+        },
+        {
+          "url": "https://www.maxar.com/one-maxar",
+          "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
+        },
+        {
+          "url": "https://www.accenture.cn/cn-zh",
+          "title": "应变于新 启运未来 | 埃森哲"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "environmental-science-research",
+      "bookmarks": [
+        {
+          "url": "https://www.certifiedsoya.com/crs/",
+          "title": "Cefetra Certified Soya | CRS"
+        },
+        {
+          "url": "https://www.ipcc.ch/report/ar6/wg2/",
+          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
+        },
+        {
+          "url": "https://fra.affrc.go.jp/english/eindex.html",
+          "title": "FRA"
+        },
+        {
+          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
+          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
+        },
+        {
+          "url": "https://map.imcsnet.org/",
+          "title": "Map of maritime regions | IMCS"
+        },
+        {
+          "url": "https://archives.nereusprogram.org/event/preparatory-committe-for-marine-biological-diversity-of-areas-beyond-national-jurisdiction/?lang=en",
+          "title": "Second Session of the Preparatory Committee for Marine Biological Diversity of Areas Beyond National Jurisdiction | Nereus Program"
+        },
+        {
+          "url": "https://seafoodslaveryrisk.org/",
+          "title": "Seafood Slavery Risk Tool"
+        },
+        {
+          "url": "https://mrag.co.uk/",
+          "title": "Sustainable Management of Natural Resources | MRAG"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "government-public-policy",
+      "bookmarks": [
+        {
+          "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/steuern.html",
+          "title": "Bundesfinanzministerium - Steuern"
+        },
+        {
+          "url": "https://doee.dc.gov/ecycle",
+          "title": "Electronics Recycling | doee"
+        },
+        {
+          "url": "https://endjusticefees.org/fee-surveys/",
+          "title": "End Justice Fees"
+        },
+        {
+          "url": "https://identitytheft.gov/",
+          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
+        },
+        {
+          "url": "https://bip.marcinowice.pl/?id=1332",
+          "title": "Start - DANE PODSTAWOWE, menu 25 - BIP - Gmina Marcinowice"
+        },
+        {
+          "url": "https://www.nj.gov/dep/get-past-plastic/#reusable_bags",
+          "title": "NJDEP"
+        },
+        {
+          "url": "https://www.archivesfoundation.org/documents/refugee-act-1980/",
+          "title": "Refugee Act of 1980"
+        },
+        {
+          "url": "https://sf.gov/shared-spaces",
+          "title": "Shared Spaces | SF.gov"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "privacy-legal-standards",
+      "bookmarks": [
+        {
           "url": "https://creativecommons.org/licenses/by-nc/4.0/",
           "title": "Deed - Attribution-NonCommercial 4.0 International - Creative Commons"
+        },
+        {
+          "url": "https://optout.networkadvertising.org/",
+          "title": "How to Opt Out - NAI: Network Advertising Initiative"
+        },
+        {
+          "url": "https://iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625",
+          "title": "ISO/IEC 40500:2012 - Information technology - W3C Web Content Accessibility Guidelines (WCAG) 2.0"
         },
         {
           "url": "https://www.playstation.com/en-us/legal/terms-of-use/op-privacy-policy/",
           "title": "Privacy Policy (US)"
         },
         {
-          "url": "https://www.whatsapp.com/privacy",
-          "title": "WhatsApp Privacy | Secure and Private Messaging"
+          "url": "https://watchworthy.app/privacy.html",
+          "title": "Watchworthy Privacy Policy"
         },
         {
           "url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
           "title": "Welcome to the Yahoo Privacy Policy | Yahoo"
+        },
+        {
+          "url": "https://www.whatsapp.com/privacy",
+          "title": "WhatsApp Privacy | Secure and Private Messaging"
         }
       ],
-      "count": 5
+      "count": 7
     },
     {
-      "name": "design-resources",
+      "name": "education-resources",
       "bookmarks": [
+        {
+          "url": "https://scfindingaids.uvm.edu/repositories/2/resources?q%5B%5D=%2A&op%5B%5D=&field%5B%5D=title&from_year%5B%5D=&to_year%5B%5D=&limit=resource&filter_fields%5B%5D=langcode&filter_values%5B%5D=eng&sort=title_sort%20asc&page=8",
+          "title": "Collections | Finding Aids"
+        },
+        {
+          "url": "https://www.etymonline.com/",
+          "title": "Online Etymology Dictionary"
+        },
+        {
+          "url": "https://en.unesco.org/covid19/educationresponse",
+          "title": "Education: From COVID-19 school closures to recovery | UNESCO"
+        },
+        {
+          "url": "https://www.belgiumwwii.be/belgique-en-guerre/articles/propagande-radiophonique.html",
+          "title": "Propagande radiophonique"
+        },
+        {
+          "url": "https://www.topuniversities.com/university-rankings/world-university-rankings/2023",
+          "title": "QS World University Rankings 2023: Top Global Universities | TopUniversities"
+        },
+        {
+          "url": "https://slideme.org/fr/node/20110178/reviews",
+          "title": "SLIDEME-end"
+        },
+        {
+          "url": "https://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
+          "title": "Theodor Derendorf - ZonsWiki"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
+          "title": "116 Quick & Healthy Recipes | Good Food"
+        },
+        {
+          "url": "https://acordeilinda.com/2014/05/a-acne-na-mulher-adulta.html",
+          "title": "! Acordei Linda !: A ACNE NA MULHER ADULTA"
+        },
+        {
+          "url": "https://www.hopitalveterinairetaschereau.com/en/general/prevention-and-treatment-of-parasites/",
+          "title": "Cat and Dog Parasite Control & Prevention - Hôpital Vétérinaire Taschereau"
+        },
+        {
+          "url": "https://cucinare.meglio.it/",
+          "title": "Cucinare meglio - ricette, buon cibo, sicurezza alimentare"
+        },
+        {
+          "url": "https://blog.koraorganics.com/how-to-order-kora-organics-skincare/",
+          "title": "How to Order An Organic Skincare Routine - KORA Organics"
+        },
+        {
+          "url": "https://www.reddit.com/r/AskVet/",
+          "title": "Reddit - The heart of the internet"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "entertainment-streaming",
+      "bookmarks": [
+        {
+          "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
+          "title": "Amuse"
+        },
+        {
+          "url": "https://nacionlibre.net/track/1044/furiosa-aullidos",
+          "title": "Aullidos por Furiosa (Furiosa) | Nación Libre Records"
+        },
+        {
+          "url": "https://www.bbc.co.uk/programmes/m001j9yy",
+          "title": "BBC Radio 2 - Zoe Ball, Vernon Kay and Ariana DeBose pop in"
+        },
+        {
+          "url": "https://www.hulu.com/",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://www.hbomax.com/series/urn:hbo:series:GYyjGGgyuCoOEtAEAAAGQ",
+          "title": "Watch Who's Talking to Chris Wallace? | HBO Max"
+        },
+        {
+          "url": "https://www.twitch.tv/",
+          "title": "Twitch"
+        },
+        {
+          "url": "https://upfaithandfamily.com/",
+          "title": "UP Faith & Family Your Streaming Home for Uplifting Entertainment"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "design-ux-resources",
+      "bookmarks": [
+        {
+          "url": "https://baymard.com/blog",
+          "title": "Ecommerce UX Research Articles - Baymard Institute"
+        },
+        {
+          "url": "https://themes.shopify.com/",
+          "title": "Ecommerce Website Templates - Free and Premium Themes for Your Online Store."
+        },
         {
           "url": "https://www.fontpair.co/",
           "title": "Fontpair - Free, beautiful fonts and font pairings curated just for you"
@@ -124,661 +514,67 @@
           "title": "Learn Mobile Design | A curated list of mobile design resources"
         },
         {
-          "url": "https://www.supa-palette.com/",
-          "title": "Supa Palette - The ultimate color palette generator for Figma!"
-        },
-        {
           "url": "https://typography-daily.com/",
           "title": "Typography Daily"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "government",
-      "bookmarks": [
-        {
-          "url": "https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/steuern.html",
-          "title": "Bundesfinanzministerium - Steuern"
-        },
-        {
-          "url": "https://www.identitytheft.gov/",
-          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
-        },
-        {
-          "url": "https://sf.gov/shared-spaces",
-          "title": "Shared Spaces | SF.gov"
-        },
-        {
-          "url": "https://bip.marcinowice.pl/?id=1332",
-          "title": "Start - DANE PODSTAWOWE, menu 25 - BIP - Gmina Marcinowice"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "media-streaming-services",
-      "bookmarks": [
-        {
-          "url": "https://www.hulu.com/",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        },
-        {
-          "url": "https://www.twitch.tv",
-          "title": "Twitch"
-        },
-        {
-          "url": "https://upfaithandfamily.com",
-          "title": "UP Faith & Family Your Streaming Home for Uplifting Entertainment"
-        },
-        {
-          "url": "https://www.hbomax.com/series/urn:hbo:series:GYyjGGgyuCoOEtAEAAAGQ",
-          "title": "Watch Who's Talking to Chris Wallace? | HBO Max"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "misc-utility-pages",
-      "bookmarks": [
-        {
-          "url": "https://marketingkit.withgoogle.com",
-          "title": "Before you continue"
-        },
-        {
-          "url": "https://www.watchworthy.app/privacy.html",
-          "title": "Watchworthy Privacy Policy"
-        },
-        {
-          "url": "http://slideme.org/fr/node/20110178/reviews",
-          "title": "SLIDEME-end"
-        },
-        {
-          "url": "https://zakladgazowy.pl/12-21+29983.html",
-          "title": "Strona domeny zakladgazowy.pl"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "online-tools",
+      "name": "travel-leisure",
       "bookmarks": [
         {
           "url": "https://www.distancesfrom.com/in/how-far-is-Dankuni-from-Indore-via-Ranchi/HowFarHistory/43878018.aspx",
           "title": "How far is Dankuni from Indore via Ranchi"
         },
         {
-          "url": "https://map.imcsnet.org",
-          "title": "Map of maritime regions | IMCS"
+          "url": "https://mothersruinchi.com/",
+          "title": "Mother's Ruin Chicago"
         },
         {
-          "url": "https://www.etymonline.com/",
-          "title": "Online Etymology Dictionary"
+          "url": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/",
+          "title": "Pantheon - Multi-Launch Coaster | Busch Gardens Williamsburg"
         },
         {
-          "url": "https://www.ventusky.com/",
+          "url": "https://ventusky.com/",
           "title": "Ventusky - Weather Forecast, Radar and Wind Maps | Ventusky"
         }
       ],
       "count": 4
     },
     {
-      "name": "sustainability-initiatives",
-      "bookmarks": [
-        {
-          "url": "https://www.certifiedsoya.com/crs/",
-          "title": "Cefetra Certified Soya | CRS"
-        },
-        {
-          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
-          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
-        },
-        {
-          "url": "https://mrag.co.uk/",
-          "title": "Sustainable Management of Natural Resources | MRAG"
-        },
-        {
-          "url": "http://fairtradeusa.org/",
-          "title": "Fair Trade Certified - Sourcing Program from Fair Trade USA"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "b2b-services",
-      "bookmarks": [
-        {
-          "url": "https://risk.lexisnexis.com/",
-          "title": "LexisNexis Risk Solutions | Transform Your Risk Decision Making"
-        },
-        {
-          "url": "https://www.omni.us/",
-          "title": "Omni Channel Outreach System | Omni.us"
-        },
-        {
-          "url": "https://www.maxar.com/one-maxar",
-          "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "history",
-      "bookmarks": [
-        {
-          "url": "https://www.exergue.com/h/2016-07/tt/brexit.html",
-          "title": "Exergue - Un Brexit pour rien, Ou pas"
-        },
-        {
-          "url": "https://www.belgiumwwii.be/belgique-en-guerre/articles/propagande-radiophonique.html",
-          "title": "Propagande radiophonique"
-        },
-        {
-          "url": "https://www.archivesfoundation.org/documents/refugee-act-1980/",
-          "title": "Refugee Act of 1980"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "local-businesses",
-      "bookmarks": [
-        {
-          "url": "https://jalhay-commerces.be/commune/Engis/4480/",
-          "title": "Communes-Commerces.be"
-        },
-        {
-          "url": "http://www.mothersruinchi.com",
-          "title": "Mother's Ruin Chicago"
-        },
-        {
-          "url": "https://www.visitlakestreet.com/",
-          "title": "Visit Lake Street - Lake Street Council"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.twincities.com/2015/09/06/at-least-3-minnesota-motorcyclists-killed-over-holiday-weekend/",
-          "title": "At least 3 Minnesota motorcyclists killed over holiday weekend - Twin Cities"
-        },
-        {
-          "url": "https://www.ksat.com/",
-          "title": "San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More"
-        },
-        {
-          "url": "https://www.gq.com/story/what-ever-happened-to-brendan-fraser",
-          "title": "What Ever Happened To Brendan Fraser? | GQ"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "sustainability-recycling",
-      "bookmarks": [
-        {
-          "url": "https://doee.dc.gov/ecycle",
-          "title": "Electronics Recycling | doee"
-        },
-        {
-          "url": "https://www.nj.gov/dep/get-past-plastic/#reusable_bags",
-          "title": "NJDEP"
-        },
-        {
-          "url": "https://www.stichting-open.org/en/",
-          "title": "Stichting OPEN - Stichting OPEN"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-articles",
+      "name": "career-economic-data",
       "bookmarks": [
         {
           "url": "https://know4life.tumblr.com/post/143086526763",
           "title": "16% of all new wages in the U.S. are in computer... - Know4LIFE"
         },
         {
-          "url": "https://dumspirospero023-blog.tumblr.com/post/145495712593",
-          "title": "Computing occupations are now the #1 source of new wages in America - @dumspirospero023-blog on Tumblr"
-        },
-        {
-          "url": "https://iics.medium.com/tech-support-scammers-use-xss-vulnerability-to-show-fake-malware-infection-7e56138ed186",
-          "title": "Tech support scammers use XSS vulnerability to show fake malware infection | by Eli Cyber Security | Medium"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-guides",
-      "bookmarks": [
-        {
-          "url": "https://flask.palletsprojects.com/en/latest/quickstart/",
-          "title": "Quickstart - Flask Documentation (3.2.x)"
-        },
-        {
-          "url": "https://www.race-technology.com/wiki/index.php/InstallingTheSystem/MountingThePeliCase",
-          "title": "Race Technology Knowledge Base | InstallingTheSystem / MountingThePeliCase"
-        },
-        {
-          "url": "https://tech.bakkenbaeck.com/post/training-a-language-model-in-spacy-v3",
-          "title": "Training a language model in spaCy v3 - Bakken & Baeck"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "advocacy-social-issues",
-      "bookmarks": [
-        {
-          "url": "https://endjusticefees.org/fee-surveys/",
-          "title": "End Justice Fees"
-        },
-        {
-          "url": "http://www.seafoodslaveryrisk.org/",
-          "title": "Seafood Slavery Risk Tool"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "animal-health",
-      "bookmarks": [
-        {
-          "url": "https://www.hopitalveterinairetaschereau.com/en/general/prevention-and-treatment-of-parasites/",
-          "title": "Cat and Dog Parasite Control & Prevention - Hôpital Vétérinaire Taschereau"
-        },
-        {
-          "url": "https://www.reddit.com/r/AskVet/",
-          "title": "Reddit - The heart of the internet"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "automotive-motorcycles",
-      "bookmarks": [
-        {
-          "url": "http://www.aprilia.com/",
-          "title": "Moto e Scooter: Urban e Adventure Experience | Aprilia IT"
-        },
-        {
-          "url": "https://www.partsworldshop.com/de/2~205~motorrad/BMW/K-1300-R-S",
-          "title": "Sortiment / BMW / K 1300 R / S - Parts World Shop"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-organizations",
-      "bookmarks": [
-        {
-          "url": "http://taaacc.org/",
-          "title": "Home - Texas Association of African American Chamber of Commerce"
-        },
-        {
-          "url": "https://www.wbenc.org/",
-          "title": "WBENC Women's Business Enterprise National Council - WBENC.org : WBENC"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-professional-services",
-      "bookmarks": [
-        {
-          "url": "https://espiralinterativa.com/",
-          "title": "Espiral Interativa | Home"
-        },
-        {
-          "url": "https://www.accenture.cn/cn-zh",
-          "title": "应变于新 启运未来 | 埃森哲"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "climate-change",
-      "bookmarks": [
-        {
-          "url": "https://www.ipcc.ch/report/ar6/wg2/",
-          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
-        },
-        {
-          "url": "https://www.theguardian.com/environment/2021/oct/31/cop26-literally-the-last-chance-saloon-to-save-planet-prince-charles",
-          "title": "Cop26 'literally the last chance saloon' to save planet - Prince Charles | Cop26 | The Guardian"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "ecommerce-resources",
-      "bookmarks": [
-        {
-          "url": "https://baymard.com/blog",
-          "title": "Ecommerce UX Research Articles - Baymard Institute"
-        },
-        {
-          "url": "https://themes.shopify.com/?locale=en",
-          "title": "Ecommerce Website Templates - Free and Premium Themes for Your Online Store."
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "ecommerce-stores",
-      "bookmarks": [
-        {
-          "url": "http://www.decadecounter.com/",
-          "title": "MASTER38 Slot gacor untuk para master slotter dimanapun berada"
-        },
-        {
-          "url": "http://www.magiadivino.it/e-commerce/105_poggio-le-volpi",
-          "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "financial-products",
-      "bookmarks": [
-        {
-          "url": "https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-200-100018",
-          "title": "Apple Card Application"
-        },
-        {
-          "url": "http://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
-          "title": "Theodor Derendorf - ZonsWiki"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-recipes",
-      "bookmarks": [
-        {
-          "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
-          "title": "116 Quick & Healthy Recipes | Good Food"
-        },
-        {
-          "url": "http://www.cucinare.meglio.it/",
-          "title": "Cucinare meglio - ricette, buon cibo, sicurezza alimentare"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health-fitness-products",
-      "bookmarks": [
-        {
-          "url": "https://www.tnpaccessories.com/products/tnp-accessories-ab-mat-black-blue",
-          "title": "Ab Mat - Black/Blue | TnP Accessories"
-        },
-        {
-          "url": "https://www.fitbit.com/",
-          "title": "Avant de continuer"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "international-affairs",
-      "bookmarks": [
-        {
-          "url": "http://www.icj-cij.org/",
-          "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "media-broadcast",
-      "bookmarks": [
-        {
-          "url": "https://www.bbc.co.uk/programmes/m001j9yy",
-          "title": "BBC Radio 2 - Zoe Ball, Vernon Kay and Ariana DeBose pop in"
-        },
-        {
-          "url": "https://www.satcentrum.com/clanky/3316/tv-nova-a-nova-sport-vysilaji-moto-gp-a-formuli-1/",
-          "title": "TV NOVA a NOVA Sport vysílají MOTO GP a Formuli 1 - Články | satCentrum"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "media-organizations",
-      "bookmarks": [
-        {
-          "url": "https://www.nationalgeographicpartners.com/about/",
-          "title": "National Geographic - National Geographic"
-        },
-        {
-          "url": "https://www.hollywoodreporter.com/tip-line",
-          "title": "Tip Line | The Hollywood Reporter"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "music",
-      "bookmarks": [
-        {
-          "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
-          "title": "Amuse"
-        },
-        {
-          "url": "http://www.nacionlibre.net/track/1044/furiosa-aullidos",
-          "title": "Aullidos por Furiosa (Furiosa) | Nación Libre Records"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "photography-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.gettyimages.com/detail/news-photo/russian-t-72-tank-destroyed-in-ukraine-is-installed-in-news-photo/1247431813?phrase=landmark%20ukraine%20anniversary&adppopup=true",
-          "title": "A Russian T-72 tank destroyed in Ukraine is installed in front of... Foto di attualità - Getty Images"
-        },
-        {
-          "url": "https://www.mpkelley.com",
-          "title": "Mike Kelley: Architectural Photographer"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "products-cosmetics",
-      "bookmarks": [
-        {
-          "url": "https://www.sephora.sg/products/espressoh-glassy-blush-by-the-glass/v/default",
-          "title": "Buy Makeup, Cosmetics and Skincare | Sephora Singapore"
-        },
-        {
-          "url": "https://www.clarinsusa.com/en/lip-comfort-oil/CS00555678.html",
-          "title": "Lip Comfort Oil Best Plumping Hydrating & Conditioning Lip Oil | CLARINS®"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "products-electronics",
-      "bookmarks": [
-        {
-          "url": "https://www.redcorp.com/fr/product/services-garanties/lexmark/warranty-1-year-onsite-nbd-2349444--2349444/08626025",
-          "title": "LEXMARK Warranty 1 Year Onsite Nbd (2349444) - 2349444 - Redcorp.com/fr"
-        },
-        {
-          "url": "https://www.sony.com/electronics/cameras",
-          "title": "Sony Cameras | Digital Cameras & Lenses"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "products-home",
-      "bookmarks": [
-        {
-          "url": "https://www.balsamhill.com/p/bh-fraser-fir-artificial-christmas-tree?sku=2808946",
-          "title": "BH Fraser Fir® Artificial Christmas Tree | Balsam Hill"
-        },
-        {
-          "url": "https://www.traeger.com/pellet-grills/timberline",
-          "title": "Traeger Timberline WiFi Pellet Grill - Traeger®"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "research-institutes",
-      "bookmarks": [
-        {
-          "url": "https://www.fra.affrc.go.jp/english/eindex.html",
-          "title": "FRA"
-        },
-        {
-          "url": "http://www.iis.fhg.de/",
-          "title": "Fraunhofer IIS (DE)"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "skincare-guides",
-      "bookmarks": [
-        {
-          "url": "http://www.acordeilinda.com/2014/05/a-acne-na-mulher-adulta.html",
-          "title": "! Acordei Linda !: A ACNE NA MULHER ADULTA"
-        },
-        {
-          "url": "https://blog.koraorganics.com/how-to-order-kora-organics-skincare/",
-          "title": "How to Order An Organic Skincare Routine - KORA Organics"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "software-development",
-      "bookmarks": [
-        {
-          "url": "http://cadingandcoding.blogspot.com/",
-          "title": "CADing and Coding"
-        },
-        {
-          "url": "https://visualstudio.microsoft.com/",
-          "title": "Visual Studio: IDE and Code Editor for Software Development"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "web-development-documentation",
-      "bookmarks": [
-        {
-          "url": "http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625",
-          "title": "ISO/IEC 40500:2012 - Information technology - W3C Web Content Accessibility Guidelines (WCAG) 2.0"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
-          "title": "MutationObserver - Web APIs | MDN"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-resources",
-      "bookmarks": [
-        {
-          "url": "https://partner.microsoft.com/en-US/",
-          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "career-resources",
-      "bookmarks": [
-        {
           "url": "https://diverseabilitymagazine.com/recognition-lists/",
           "title": "Careers | ConnectComm"
+        },
+        {
+          "url": "https://dumspirospero023-blog.tumblr.com/post/145495712593",
+          "title": "Computing occupations are now the #1 source of new wages in America - @dumspirospero023-blog on Tumblr"
         }
       ],
-      "count": 1
+      "count": 3
     },
     {
-      "name": "entertainment-leisure",
+      "name": "misc-web-pages",
       "bookmarks": [
         {
-          "url": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/",
-          "title": "Pantheon - Multi-Launch Coaster | Busch Gardens Williamsburg"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-resources",
-      "bookmarks": [
+          "url": "https://eou.edu/?s=ebk5867.cn",
+          "title": "ebk5867.cn | Search Results | Eastern Oregon University"
+        },
         {
-          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
-          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
+          "url": "https://zakladgazowy.pl/12-21+29983.html",
+          "title": "Strona domeny zakladgazowy.pl"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "museums-cultural-institutions",
-      "bookmarks": [
-        {
-          "url": "https://latino.si.edu/",
-          "title": "National Museum of the American Latino | Home"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "personal-websites",
-      "bookmarks": [
-        {
-          "url": "https://alex-warner.com/",
-          "title": "Alex Warner"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "privacy-tools",
-      "bookmarks": [
-        {
-          "url": "https://optout.networkadvertising.org/",
-          "title": "How to Opt Out - NAI: Network Advertising Initiative"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "puzzles-challenges",
-      "bookmarks": [
-        {
-          "url": "https://www.janestreet.com/puzzles/",
-          "title": "Puzzles :: Jane Street"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-innovation",
-      "bookmarks": [
-        {
-          "url": "https://labs.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "Home | Mozilla New Products"
-        }
-      ],
-      "count": 1
+      "count": 2
     }
   ],
-  "total_bookmarks": 121,
-  "num_folders": 49
+  "total_bookmarks": 75,
+  "num_folders": 15
 }

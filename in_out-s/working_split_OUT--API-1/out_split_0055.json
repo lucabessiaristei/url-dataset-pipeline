@@ -1,38 +1,256 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "software-development-tech",
       "bookmarks": [
+        {
+          "url": "https://ai-writer.com/",
+          "title": "AI-Writer.com - Trustworthy AI Writing for Academia & Marketing"
+        },
+        {
+          "url": "https://askubuntu.com/users/311931/jitendra",
+          "title": "User Jitendra - Ask Ubuntu"
+        },
+        {
+          "url": "https://www.cvent.com/d/bjqgzd",
+          "title": "Redirect page for inactive events"
+        },
+        {
+          "url": "https://documentation.spire.com",
+          "title": "Documentation & knowledge base | Kpler AIS"
+        },
+        {
+          "url": "https://github.co/hiddenchars",
+          "title": "Warning about bidirectional Unicode text - GitHub Changelog"
+        },
+        {
+          "url": "https://gurdiga.com/blog/2021/03/05/angular-tip-of-the-week-parametrized-templates/",
+          "title": "Angular tip of the week: parametrized templates"
+        },
+        {
+          "url": "https://www.handtalk.me/",
+          "title": "Hand Talk: your website accessible in ASL"
+        },
+        {
+          "url": "https://impactchallenge.withgoogle.com/ai2018?p=YXJjaGl2ZQ==&v=NjA5Y2NjNDAxOTk4MGQ4N2NiYzk2OTdjZjYyYmVjYTRmYmRlM2Q1MA==",
+          "title": "Google AI Impact Challenge 2018"
+        },
+        {
+          "url": "https://learn.microsoft.com/",
+          "title": "Microsoft Learn: Build skills that open doors in your career"
+        },
+        {
+          "url": "https://lists.xenproject.org/archives/html/xen-users/2005-11/msg00205.html",
+          "title": "Xen project Mailing List"
+        },
+        {
+          "url": "https://marketplace.stripe.com/",
+          "title": "Stripe App Marketplace"
+        },
+        {
+          "url": "https://maze.co/guides/usability-testing/",
+          "title": "What is Usability Testing? How to Evaluate the User Experience | Maze"
+        },
+        {
+          "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+          "title": "Node.js - Introduction to Node.js"
+        },
+        {
+          "url": "https://primefaces.org/diamond/chronoline.xhtml;jsessionid=node0b4eckd93hrrg1qxulymmqkzkv6577254.node0",
+          "title": "CHRONOLINE"
+        },
+        {
+          "url": "https://regexplanet.com/advanced/java/index.html",
+          "title": "Java regex testing - RegexPlanet"
+        },
+        {
+          "url": "https://www.startpage.com/",
+          "title": "Startpage - Private Search Engine. No Tracking. No Search History."
+        }
+      ],
+      "count": 16
+    },
+    {
+      "name": "e-commerce-shopping-products",
+      "bookmarks": [
+        {
+          "url": "http://www.aeropostale.com/",
+          "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
+        },
+        {
+          "url": "https://www.amazon.com/Google-Play-Gift-Code-mail/dp/B074T91QTZ/ref=sr_1_1?ie=UTF8&qid=1509394211&sr=8-1&keywords=google+play+gift+card+digital+code",
+          "title": "Amazon.com"
+        },
+        {
+          "url": "https://www.bb-shop.ro/bijuterie-vida_colored_diamonds-100934.html?utm_source=splendor.ro&utm_campaign=Bijuterii&utm_medium=referral&utm_content=PaginaProdus",
+          "title": "Inele de logodna Vida Colored Diamonds 43983R-LD8WP | Bijuterii dama | B&B SHOP Magazin online de bijuterii si accesorii"
+        },
+        {
+          "url": "https://www.buyprimeaccount.com/product/one-service-medal-100win/?add_to_wishlist=3838&_wpnonce=5f0b1c7097",
+          "title": "CS2 Prime Account | 100 + Wins | 2020 Service Medal | Faceit Enable"
+        },
+        {
+          "url": "https://www.charlottetilbury.com/us/product/instant-eyeshadow-palette-pillow-talk",
+          "title": "Pillow Talk - Instant Eyeshadow Palette - Pink Eyeshadow | Charlotte Tilbury"
+        },
+        {
+          "url": "https://www.dillards.com/p/samsonite-x-sjp-just-right-collection-standard-backpack/514260801",
+          "title": "Samsonite X Sjp Just Right Collection Standard Backpack | Dillard's"
+        },
+        {
+          "url": "https://www.harrods.com/en-us/shopping/dolce-gabbana-tulle-pleated-wrap-dress-15176005",
+          "title": "Dolce & Gabbana | Harrods US"
+        },
+        {
+          "url": "http://www.hotfingersgloves.com/",
+          "title": "Hotfingers Gloves"
+        },
+        {
+          "url": "https://www.indian-markt.com/products/8901701103101",
+          "title": "Please Log In"
+        },
+        {
+          "url": "https://kendamabulgaria.bg/en/shop/ezoterika/page/6/?orderby=price",
+          "title": "Езотерика и гадателски карти"
+        },
+        {
+          "url": "https://www.kemenygyarto-balatonlelle.hu/de/hirek/kepgaleria/fustcsovek/dickwandigen-rohr/",
+          "title": "Dickwandigen rohr :: Kéménytechnikai Szaküzlet"
+        },
+        {
+          "url": "https://www.LGpremiumcare.com",
+          "title": "LG Premium Care"
+        },
+        {
+          "url": "https://luxome.com/products/bamboo-sheets",
+          "title": "The Best Bamboo Sheets | 10,000+ Reviews | LUXOME"
+        },
+        {
+          "url": "http://www.magiadivino.it/e-commerce/105_poggio-le-volpi",
+          "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
+        },
+        {
+          "url": "https://qvc.uikc.net/c/249354/565130/9368?subId1=PEOTheseSculptingJeansOnceGracedOprahsFavoriteThingsListandTheyreonSaleforJustaLittleLongermsapozhnikovFasAff13922534202302I&u=https%3A%2F%2Fwww.qvc.com%2FNYDJ-Sculpt-Her-Denim-Pull-On-Straight-Jeans--Marvelous.product.A564778.html",
+          "title": "NYDJ Sculpt Her Denim Pull-On Straight Jeans- Marvelous - QVC.com"
+        },
+        {
+          "url": "https://www.rajhracky.cz/bezpecnostni-prvky-c8729",
+          "title": "Bezpečnostní prvky | RajHracky.cz"
+        },
+        {
+          "url": "https://salondesarcanes.fr/",
+          "title": "Salon des Arcanes | Boutique de tarots et oracles indépendants"
+        },
+        {
+          "url": "https://www.spacenk.com/us/bath-body/body-moisturiser-oils/body-oil/stretch-mark-oil-MUK200020396.html",
+          "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
+        },
+        {
+          "url": "https://www.thomann.de/gb/electric_guitars.html",
+          "title": "Buy Electric Guitars at Thomann - Thomann UK"
+        }
+      ],
+      "count": 19
+    },
+    {
+      "name": "arts-media-culture",
+      "bookmarks": [
+        {
+          "url": "https://www.apple.com/in/apple-music/",
+          "title": "Apple Music - Apple (IN)"
+        },
+        {
+          "url": "https://www.angel.com/",
+          "title": "Angel: Stream Original, Uplifting Shows for the Whole Family"
+        },
+        {
+          "url": "http://www.claudinsky.com?trk=organization_guest_main-feed-card-text",
+          "title": "Claudia Chinyere Akole"
+        },
+        {
+          "url": "https://dollyjessy.com/2020/05/10/",
+          "title": "10/05/2020 - Dollyjessy"
+        },
+        {
+          "url": "https://www.flowmagazine.com/",
+          "title": "Flow - Magazine for Paper Lovers"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
+          "title": "Loading..."
+        },
+        {
+          "url": "https://hardy.lnk.to/themockingbirdandthecrow",
+          "title": "HARDY - the mockingbird & THE CROW"
+        },
+        {
+          "url": "https://www.howardstern.com/show/",
+          "title": "Show | Howard Stern"
+        },
+        {
+          "url": "https://www.lasrespuestas.org/juego-de-palabras-vip-11-paquete-dos/",
+          "title": "Juego De Palabras VIP 11 Paquete Dos [ Todos Los Niveles ] - Alejandro"
+        },
+        {
+          "url": "http://www.laparola.net/ricerca.php?frase=Politica+sulla+privacy&versione=C.E.I.",
+          "title": "La Sacra Bibbia"
+        },
+        {
+          "url": "https://level.medium.com/",
+          "title": "LEVEL"
+        },
+        {
+          "url": "https://piotrzawada.pl/kasia-michal-palac-mala-wies/20210813_041/",
+          "title": "20210813_041 | Piotr Zawada - Fotografia Ślubna"
+        },
+        {
+          "url": "http://pinkfong.com",
+          "title": "Pinkfong Official Website"
+        },
+        {
+          "url": "https://www.bookriot.com/the-hate-u-give-banned/",
+          "title": "THE HATE U GIVE Banned by Texas School District"
+        },
+        {
+          "url": "https://telademoda.com/moda/francisco-lopez-guarnicionero-de-diseno/?replytocom=9690",
+          "title": "Francisco López, guarnicionero de diseño - Telademoda.com"
+        },
+        {
+          "url": "https://uploads.knightlab.com/storymapjs/857f1335b5790bba701ae445533b2c8e/racial-violence-in-wichita/index.html",
+          "title": "StoryMapJS: Racial Violence in Wichita"
+        },
+        {
+          "url": "https://www.vam.ac.uk/collections/metalwork",
+          "title": "Metalwork - Explore the Collections · V&A"
+        },
+        {
+          "url": "http://weavesilk.com",
+          "title": "Silk - Interactive Generative Art"
+        }
+      ],
+      "count": 18
+    },
+    {
+      "name": "social-community-impact",
+      "bookmarks": [
+        {
+          "url": "https://www.iowaaces360.org",
+          "title": "ACES 360 - Iowa ACEs 360"
+        },
         {
           "url": "https://aeds-mn.org/",
           "title": "HOME | African Economic Development Solutions | AEDS-MN | Saint Paul"
-        },
-        {
-          "url": "https://3-sided-cube.hivebrite.com/",
-          "title": "Home | The Ocean Decade"
-        },
-        {
-          "url": "http://northsideachievement.org/",
-          "title": "Home | Northside Achievement Zone"
-        },
-        {
-          "url": "http://tsne.org/",
-          "title": "Home | TSNE"
-        },
-        {
-          "url": "https://www.asc-aqua.org/",
-          "title": "ASC International - Aquaculture Stewardship Council"
         },
         {
           "url": "https://appetiteforchangemn.org/",
           "title": "AFCMN"
         },
         {
-          "url": "https://www.iowaaces360.org",
-          "title": "ACES 360 - Iowa ACEs 360"
+          "url": "https://www.businessforvotingrights.com/",
+          "title": "Business for Voting Rights"
         },
         {
-          "url": "https://girlup.org/",
+          "url": "https://www.girlup.org/",
           "title": "Girl Up | Uniting Girls to Change the World"
         },
         {
@@ -48,195 +266,317 @@
           "title": "National CAPACD"
         },
         {
-          "url": "https://passk12.org/",
-          "title": "PASS: Partner Alliance for Safer Schools | PASSK12"
+          "url": "http://northsideachievement.org/",
+          "title": "Home | Northside Achievement Zone"
         },
         {
-          "url": "https://www.sealegacy.org/",
-          "title": "SeaLegacy | Ocean Nonprofit Protecting the Power of the Sea"
+          "url": "https://passk12.org/",
+          "title": "PASS: Partner Alliance for Safer Schools | PASSK12"
         },
         {
           "url": "https://www.shredfoundation.org/",
           "title": "SHRED Foundation - Home"
         },
         {
-          "url": "https://www.jff.org/subscribe/",
-          "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
+          "url": "http://tsne.org/",
+          "title": "Home | TSNE"
+        },
+        {
+          "url": "https://866ourvote.org/",
+          "title": "Homepage - Election Protection"
         }
       ],
-      "count": 15
+      "count": 13
     },
     {
-      "name": "government-international",
+      "name": "government-public-resources",
       "bookmarks": [
-        {
-          "url": "https://www.npfc.int/about_npfc/convention_and_npfc_area_of_application",
-          "title": "Convention & NPFC Area of Application | NPFC"
-        },
-        {
-          "url": "https://sustainabledevelopment.un.org/sdg14",
-          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
-        },
         {
           "url": "https://www.mha.gov.in",
           "title": "Home | Ministry of Home Affairs"
         },
         {
-          "url": "http://www.tesoro.it/euro-sm.htm",
-          "title": "Home Page - Ministero dell'Economia e delle Finanze"
-        },
-        {
-          "url": "http://feis.fra.affrc.go.jp/english_index.html",
-          "title": "National Research Institute of Fisheries and Environment of Inland Sea, Fra"
+          "url": "https://public.govdelivery.com/accounts/USFSIS/subscriber/new",
+          "title": "USDA Food Safety and Inspection Service"
         },
         {
           "url": "https://www.rijksoverheid.nl/onderwerpen/paspoort-en-identiteitskaart",
           "title": "Paspoort en identiteitskaart | Rijksoverheid.nl"
         },
         {
+          "url": "http://www.tesoro.it/euro-sm.htm",
+          "title": "Home Page - Ministero dell'Economia e delle Finanze"
+        },
+        {
+          "url": "https://www.texaslottery.com/opencms/About_Us/Agency_Directory/Email_Form.jsp",
+          "title": "Texas Lottery | Send an email to Texas Lottery Commission Customer Service"
+        },
+        {
           "url": "https://projects.worldbank.org/en/projects-operations/project-country?lang=en&page=",
           "title": "Projects By Country / Area"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
-      "name": "media",
+      "name": "news-media-updates",
       "bookmarks": [
         {
-          "url": "http://pinkfong.com",
-          "title": "Pinkfong Official Website"
+          "url": "https://apnews.com/hub/europe",
+          "title": "Europe News | Breaking European News Today | AP News"
         },
         {
-          "url": "https://www.flowmagazine.com/",
-          "title": "Flow - Magazine for Paper Lovers"
-        },
-        {
-          "url": "https://level.medium.com/",
-          "title": "LEVEL"
-        },
-        {
-          "url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
-          "title": "Loading..."
+          "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22",
+          "title": "October 24, 2022 Russia-Ukraine news | CNN"
         },
         {
           "url": "https://forms.dotdashmeredith.com/people-news-inline",
           "title": "People News Newsletter Subscription Form"
         },
         {
-          "url": "https://dollyjessy.com/2020/05/10/",
-          "title": "10/05/2020 - Dollyjessy"
+          "url": "https://www.nettavisen.no/okonomi/historisk-lave-priser-fikk-penger-for-a-bruke-strom/s/12-95-3423991510",
+          "title": "Strøm, strømpriser | Historisk lave priser: Fikk penger for å bruke strøm"
+        },
+        {
+          "url": "https://sbcountyda.org/2023/02/28/two-brothers-convicted-of-murdering-groom-on-wedding-day/",
+          "title": "Two Brothers Convicted of Murdering Groom on Wedding Day - San Bernardino County District Attorney"
+        },
+        {
+          "url": "https://www.theguardian.com/science",
+          "title": "Science | The Guardian"
         }
       ],
       "count": 6
     },
     {
-      "name": "blogs",
+      "name": "science-health-research",
       "bookmarks": [
         {
-          "url": "https://kozlu.tumblr.com/",
-          "title": "@kozlu on Tumblr"
+          "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+          "title": "Diabetes - Symptoms and causes - Mayo Clinic"
         },
         {
-          "url": "https://binepippilotta.com/page/2/",
-          "title": "Bine Pippilotta - Seite 2 - Reisen macht glücklich"
+          "url": "http://feis.fra.affrc.go.jp/english_index.html",
+          "title": "National Research Institute of Fisheries and Environment of Inland Sea, Fra"
+        },
+        {
+          "url": "https://www.nimh.nih.gov/index.shtml",
+          "title": "National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses"
+        },
+        {
+          "url": "https://www.nps.gov/subjects/fossils/index.htm",
+          "title": "Fossils and Paleontology (U.S. National Park Service)"
+        },
+        {
+          "url": "https://mrag.co.uk",
+          "title": "Sustainable Management of Natural Resources | MRAG"
+        },
+        {
+          "url": "https://forum.doctissimo.fr/psychologie/amour/rencontrer-fille-sujet_198491_1.htm",
+          "title": "Comment rencontrer une fille? - Relations amoureuses - FORUM psychologie - Club.doctissimo.fr"
         },
         {
           "url": "https://www.yogabycandace.com/blog",
           "title": "Blog - YOGABYCANDACE"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "environmental-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://www.asc-aqua.org/",
+          "title": "ASC International - Aquaculture Stewardship Council"
+        },
+        {
+          "url": "https://www.geospatialworld.net/prime/climate-trace/",
+          "title": "Climate TRACE"
+        },
+        {
+          "url": "http://www.eltechresource.com",
+          "title": "ELTECH Resource | Рециклирай, бъди отговорен!"
+        },
+        {
+          "url": "https://www.kew.org/",
+          "title": "Royal Botanic Gardens, Kew | Kew"
+        },
+        {
+          "url": "https://www.npfc.int/about_npfc/convention_and_npfc_area_of_application",
+          "title": "Convention & NPFC Area of Application | NPFC"
+        },
+        {
+          "url": "https://www.sealegacy.org/",
+          "title": "SeaLegacy | Ocean Nonprofit Protecting the Power of the Sea"
+        },
+        {
+          "url": "https://sustainabledevelopment.un.org/sdg14",
+          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
+        },
+        {
+          "url": "https://3-sided-cube.hivebrite.com/",
+          "title": "Home | The Ocean Decade"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "food-drink-hospitality",
+      "bookmarks": [
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
+          "title": "116 Quick & Healthy Recipes | Good Food"
+        },
+        {
+          "url": "https://www.biotyfoule.org/project_patrick-lambert/",
+          "title": "Patrick Lambert | Biotyfoule"
         },
         {
           "url": "http://www.girllovesfood.net/",
           "title": "Girl Loves Food"
         },
         {
-          "url": "https://kathysbee.tumblr.com/",
-          "title": "toss and tumbl"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://mickeykilloran.tumblr.com/post/143019225768",
-          "title": "Computer science: the impact of K-12 on university... - Miss Killoran"
+          "url": "http://www.mothersruinnyc.com",
+          "title": "Mother's Ruin NYC"
         },
         {
-          "url": "https://portaleinfach.org/tag/d%C2%B7a%C2%B7ch/",
-          "title": "D·A·CH - Infoportal Einfache Sprache"
+          "url": "https://www.quesecueceenbcn.com/2020/02/06/buenisima-cocteleria-en-barcelona-mamaine/",
+          "title": "Buenísima coctelería en Barcelona Mamainé en el Born"
+        },
+        {
+          "url": "https://www.risotteriamelottinyc.com/",
+          "title": "home risotteria melotti nyc"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "education-learning-resources",
+      "bookmarks": [
+        {
+          "url": "https://doc.themosaurus.com/creating-galleries/",
+          "title": "Creating Galleries • Themosaurus Documentation"
+        },
+        {
+          "url": "https://education.economist.com",
+          "title": "void"
         },
         {
           "url": "https://shop.hueber.de/de/sprache-unterrichten/deutsch-als-fremdsprache-daf-daz/kategorien/17146/niveaustufen/a2.html",
           "title": "Hueber | Deutsch als Fremdsprache (DaF/DaZ) - Sprache unterrichten: A2 and 17146 Shop"
         },
         {
-          "url": "https://code.msdn.microsoft.com/",
-          "title": "Microsoft Learn: Build skills that open doors in your career"
-        },
-        {
-          "url": "https://education.economist.com",
-          "title": "void"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "shopping-clothing",
-      "bookmarks": [
-        {
-          "url": "https://www.harrods.com/en-us/shopping/dolce-gabbana-tulle-pleated-wrap-dress-15176005",
-          "title": "Dolce & Gabbana | Harrods US"
-        },
-        {
-          "url": "https://telademoda.com/moda/francisco-lopez-guarnicionero-de-diseno/?replytocom=9690",
-          "title": "Francisco López, guarnicionero de diseño - Telademoda.com"
-        },
-        {
-          "url": "http://www.hotfingersgloves.com/",
-          "title": "Hotfingers Gloves"
-        },
-        {
-          "url": "http://www.aeropostale.com/",
-          "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
-        },
-        {
-          "url": "https://qvc.uikc.net/c/249354/565130/9368?subId1=PEOTheseSculptingJeansOnceGracedOprahsFavoriteThingsListandTheyreonSaleforJustaLittleLongermsapozhnikovFasAff13922534202302I&u=https%3A%2F%2Fwww.qvc.com%2FNYDJ-Sculpt-Her-Denim-Pull-On-Straight-Jeans--Marvelous.product.A564778.html",
-          "title": "NYDJ Sculpt Her Denim Pull-On Straight Jeans- Marvelous - QVC.com"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "tech-guides",
-      "bookmarks": [
-        {
-          "url": "https://gurdiga.com/blog/2021/03/05/angular-tip-of-the-week-parametrized-templates/",
-          "title": "Angular tip of the week: parametrized templates"
+          "url": "https://mickeykilloran.tumblr.com/post/143019225768",
+          "title": "Computer science: the impact of K-12 on university... - Miss Killoran"
         },
         {
           "url": "https://www.overleaf.com/learn/latex/Glossaries",
           "title": "Glossaries - Overleaf, Online LaTeX Editor"
         },
         {
-          "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
-          "title": "Node.js - Introduction to Node.js"
+          "url": "https://portaleinfach.org/tag/d%C2%B7a%C2%B7ch/",
+          "title": "D·A·CH - Infoportal Einfache Sprache"
         },
         {
-          "url": "https://winreality.com/win-reality-vr/",
-          "title": "VR + AI Baseball & Softball Training"
-        },
-        {
-          "url": "https://maze.co/guides/usability-testing/",
-          "title": "What is Usability Testing? How to Evaluate the User Experience | Maze"
+          "url": "https://www.reddit.com/r/wicked_edge/wiki/index",
+          "title": "Reddit - The heart of the internet"
         }
       ],
-      "count": 5
+      "count": 7
     },
     {
-      "name": "business-management",
+      "name": "arts-media-culture",
       "bookmarks": [
+        {
+          "url": "https://www.apple.com/in/apple-music/",
+          "title": "Apple Music - Apple (IN)"
+        },
+        {
+          "url": "https://www.angel.com/",
+          "title": "Angel: Stream Original, Uplifting Shows for the Whole Family"
+        },
+        {
+          "url": "https://www.bookriot.com/the-hate-u-give-banned/",
+          "title": "THE HATE U GIVE Banned by Texas School District"
+        },
+        {
+          "url": "http://www.claudinsky.com?trk=organization_guest_main-feed-card-text",
+          "title": "Claudia Chinyere Akole"
+        },
+        {
+          "url": "https://dollyjessy.com/2020/05/10/",
+          "title": "10/05/2020 - Dollyjessy"
+        },
+        {
+          "url": "https://www.flowmagazine.com/",
+          "title": "Flow - Magazine for Paper Lovers"
+        },
+        {
+          "url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
+          "title": "Loading..."
+        },
+        {
+          "url": "https://hardy.lnk.to/themockingbirdandthecrow",
+          "title": "HARDY - the mockingbird & THE CROW"
+        },
+        {
+          "url": "https://www.howardstern.com/show/",
+          "title": "Show | Howard Stern"
+        },
+        {
+          "url": "https://www.lasrespuestas.org/juego-de-palabras-vip-11-paquete-dos/",
+          "title": "Juego De Palabras VIP 11 Paquete Dos [ Todos Los Niveles ] - Alejandro"
+        },
+        {
+          "url": "http://www.laparola.net/ricerca.php?frase=Politica+sulla+privacy&versione=C.E.I.",
+          "title": "La Sacra Bibbia"
+        },
+        {
+          "url": "https://level.medium.com/",
+          "title": "LEVEL"
+        },
+        {
+          "url": "https://piotrzawada.pl/kasia-michal-palac-mala-wies/20210813_041/",
+          "title": "20210813_041 | Piotr Zawada - Fotografia Ślubna"
+        },
+        {
+          "url": "http://pinkfong.com",
+          "title": "Pinkfong Official Website"
+        },
+        {
+          "url": "https://telademoda.com/moda/francisco-lopez-guarnicionero-de-diseno/?replytocom=9690",
+          "title": "Francisco López, guarnicionero de diseño - Telademoda.com"
+        },
+        {
+          "url": "https://uploads.knightlab.com/storymapjs/857f1335b5790bba701ae445533b2c8e/racial-violence-in-wichita/index.html",
+          "title": "StoryMapJS: Racial Violence in Wichita"
+        },
+        {
+          "url": "https://www.vam.ac.uk/collections/metalwork",
+          "title": "Metalwork - Explore the Collections · V&A"
+        },
+        {
+          "url": "http://weavesilk.com",
+          "title": "Silk - Interactive Generative Art"
+        }
+      ],
+      "count": 18
+    },
+    {
+      "name": "business-industry-insights",
+      "bookmarks": [
+        {
+          "url": "https://www.aer.org.ar/marcelo-krynski-lideres-para-una-gestion-inteligente/",
+          "title": "Marcelo Krynski: Líderes para una gestión inteligente - AER | Asociación Empresaria de Rosario"
+        },
+        {
+          "url": "https://www.burnabyheights.com/listing-category/esthetics-spa-services/",
+          "title": "Esthetics & Spa Services - Heights Merchants Association"
+        },
+        {
+          "url": "https://www.chase.com/business/minority-businesses",
+          "title": "void"
+        },
         {
           "url": "https://impact.economist.com/",
           "title": "Economist Impact"
@@ -246,19 +586,27 @@
           "title": "ITEX"
         },
         {
-          "url": "https://www.aer.org.ar/marcelo-krynski-lideres-para-una-gestion-inteligente/",
-          "title": "Marcelo Krynski: Líderes para una gestión inteligente - AER | Asociación Empresaria de Rosario"
+          "url": "https://www.moneygram.com/replacement",
+          "title": "Get a Money Order Fast with MoneyGram | MoneyGram"
         },
         {
-          "url": "https://www.chase.com/business/minority-businesses",
-          "title": "void"
+          "url": "https://www.studiopress.com/",
+          "title": "WordPress Themes by StudioPress"
+        },
+        {
+          "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=pmc.com",
+          "title": "WordPress VIP - The leading enterprise content platform"
         }
       ],
-      "count": 4
+      "count": 8
     },
     {
       "name": "events-conferences",
       "bookmarks": [
+        {
+          "url": "https://book.passkey.com/go/IDA69thAnnualConference",
+          "title": "IDA 69th Annual Conference & Marketplace - Learn about the event and search for hotels"
+        },
         {
           "url": "http://www.ec2002.tue.nl/",
           "title": "Eurocrypt 2002"
@@ -268,146 +616,96 @@
           "title": "GitHub Universe 2025"
         },
         {
-          "url": "https://book.passkey.com/go/IDA69thAnnualConference",
-          "title": "IDA 69th Annual Conference & Marketplace - Learn about the event and search for hotels"
+          "url": "https://www.hullhrc.com/events-calendar/",
+          "title": "Events Calendar - Heritage Reformed Congregation of Hull Iowa"
         },
         {
           "url": "https://blog.louroe.com/en/louroe-isc-2023",
           "title": "Louroe is at ISC 2023"
+        },
+        {
+          "url": "https://www.montana.edu/calendar/events/35017",
+          "title": "MSU Calendar | Montana State University"
+        },
+        {
+          "url": "http://assets.punchbowl.com/signin?return_to=https%3A%2F%2Fwww.punchbowl.com%2Fvendors%2Fga-georgia%2Ftucker%2F6787459%2Fall-event-rentals",
+          "title": "Sign In | Punchbowl"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "sports-media",
+      "bookmarks": [
+        {
+          "url": "https://elitesportsny.com/2020/10/07/new-york-yankees-suzyn-waldmans-natl-anthem-will-open-up-game-3/",
+          "title": "New York Yankees: Suzyn Waldman's Nat'l Anthem will open up Game 3"
+        },
+        {
+          "url": "https://lionofviennasuite.sbnation.com/users/kidsearncash77",
+          "title": "kidsearncash77 Profile and Activity - Lion Of Vienna Suite"
+        },
+        {
+          "url": "https://www.nfl.com/standings",
+          "title": "2025 NFL Division Standings"
+        },
+        {
+          "url": "https://tv.youtube.com/learn/nflsundayticket",
+          "title": "The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV"
+        },
+        {
+          "url": "https://winreality.com/win-reality-vr/",
+          "title": "VR + AI Baseball & Softball Training"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "travel-recreation-leisure",
+      "bookmarks": [
+        {
+          "url": "https://binepippilotta.com/page/2/",
+          "title": "Bine Pippilotta - Seite 2 - Reisen macht glücklich"
+        },
+        {
+          "url": "http://www.high-seas.org/",
+          "title": "Hotel Search - HotelFinder - HotelFinder"
+        },
+        {
+          "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
+          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
+        },
+        {
+          "url": "https://www.piste-ciclabili.com/forum/app.php/help/faq?sid=17e10923eb733137aba4a9166abc4ef9",
+          "title": "PisteCiclabili.com - FAQ (Domande Frequenti)"
         }
       ],
       "count": 4
     },
     {
-      "name": "food-dining",
+      "name": "jobs-career-listings",
       "bookmarks": [
         {
-          "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
-          "title": "116 Quick & Healthy Recipes | Good Food"
+          "url": "https://www.jff.org/subscribe/",
+          "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
         },
-        {
-          "url": "https://www.quesecueceenbcn.com/2020/02/06/buenisima-cocteleria-en-barcelona-mamaine/",
-          "title": "Buenísima coctelería en Barcelona Mamainé en el Born"
-        },
-        {
-          "url": "https://www.risotteriamelottinyc.com/",
-          "title": "home risotteria melotti nyc"
-        },
-        {
-          "url": "http://www.mothersruinnyc.com",
-          "title": "Mother's Ruin NYC"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "news",
-      "bookmarks": [
-        {
-          "url": "https://github.co/hiddenchars",
-          "title": "Warning about bidirectional Unicode text - GitHub Changelog"
-        },
-        {
-          "url": "https://sbcountyda.org/2023/02/28/two-brothers-convicted-of-murdering-groom-on-wedding-day/",
-          "title": "Two Brothers Convicted of Murdering Groom on Wedding Day - San Bernardino County District Attorney"
-        },
-        {
-          "url": "https://www.nettavisen.no/okonomi/historisk-lave-priser-fikk-penger-for-a-bruke-strom/s/12-95-3423991510",
-          "title": "Strøm, strømpriser | Historisk lave priser: Fikk penger for å bruke strøm"
-        },
-        {
-          "url": "https://bookriot.com/the-hate-u-give-banned/",
-          "title": "THE HATE U GIVE Banned by Texas School District"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-nature",
-      "bookmarks": [
-        {
-          "url": "https://www.geospatialworld.net/prime/climate-trace/",
-          "title": "Climate TRACE"
-        },
-        {
-          "url": "https://www.nps.gov/subjects/fossils/index.htm",
-          "title": "Fossils and Paleontology (U.S. National Park Service)"
-        },
-        {
-          "url": "https://www.kew.org/",
-          "title": "Royal Botanic Gardens, Kew | Kew"
-        },
-        {
-          "url": "https://www.theguardian.com/science",
-          "title": "Science | The Guardian"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "services-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.burnabyheights.com/listing-category/esthetics-spa-services/",
-          "title": "Esthetics & Spa Services - Heights Merchants Association"
-        },
-        {
-          "url": "http://www.eltechresource.com",
-          "title": "ELTECH Resource | Рециклирай, бъди отговорен!"
-        },
-        {
-          "url": "https://www.moneygram.com/replacement",
-          "title": "Get a Money Order Fast with MoneyGram | MoneyGram"
-        },
-        {
-          "url": "https://www.LGpremiumcare.com",
-          "title": "LG Premium Care"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "shopping-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.amazon.com/Google-Play-Gift-Code-mail/dp/B074T91QTZ/ref=sr_1_1?ie=UTF8&qid=1509394211&sr=8-1&keywords=google+play+gift+card+digital+code",
-          "title": "Amazon.com"
-        },
-        {
-          "url": "https://www.thomann.de/gb/electric_guitars.html",
-          "title": "Buy Electric Guitars at Thomann - Thomann UK"
-        },
-        {
-          "url": "https://kendamabulgaria.bg/en/shop/ezoterika/page/6/?orderby=price",
-          "title": "Езотерика и гадателски карти"
-        },
-        {
-          "url": "https://salondesarcanes.fr/",
-          "title": "Salon des Arcanes | Boutique de tarots et oracles indépendants"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "career-job-listings",
-      "bookmarks": [
         {
           "url": "https://www.jobcity.at/job.php?aid=49975&mobile=true",
           "title": "jobcity.at - Das Jobportal in Wien"
         },
         {
-          "url": "https://www.olx.com.pk/islamabad-capital-territory_g2003003/sales_c62?filter=classified_type_eq_offer%2Cjob_type_eq_temporary",
-          "title": "Sales Jobs in Islamabad Capital Territory"
-        },
-        {
           "url": "https://jobs.mv-online.de/jobs/gesundheitswesen/gesundheits-und-sozialwesen/europa/teilzeit/langjaehrige-berufserfahrung-7-jahre-/",
           "title": "Startseite - Stellenportal Münsterländische Volkszeitung"
+        },
+        {
+          "url": "https://www.olx.com.pk/islamabad-capital-territory_g2003003/sales_c62?filter=classified_type_eq_offer%2Cjob_type_eq_temporary",
+          "title": "Sales Jobs in Islamabad Capital Territory"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "legal-docs",
+      "name": "legal-policies-terms",
       "bookmarks": [
         {
           "url": "https://discussions.apple.com/terms",
@@ -425,409 +723,25 @@
       "count": 3
     },
     {
-      "name": "media-music",
-      "bookmarks": [
-        {
-          "url": "https://www.apple.com/in/apple-music/",
-          "title": "Apple Music - Apple (IN)"
-        },
-        {
-          "url": "https://hardy.lnk.to/themockingbirdandthecrow",
-          "title": "HARDY - the mockingbird & THE CROW"
-        },
-        {
-          "url": "https://www.howardstern.com/show/",
-          "title": "Show | Howard Stern"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "reference-docs",
-      "bookmarks": [
-        {
-          "url": "https://forum.doctissimo.fr/psychologie/amour/rencontrer-fille-sujet_198491_1.htm",
-          "title": "Comment rencontrer une fille? - Relations amoureuses - FORUM psychologie - Club.doctissimo.fr"
-        },
-        {
-          "url": "http://www.laparola.net/ricerca.php?frase=Politica+sulla+privacy&versione=C.E.I.",
-          "title": "La Sacra Bibbia"
-        },
-        {
-          "url": "https://www.piste-ciclabili.com/forum/app.php/help/faq?sid=17e10923eb733137aba4a9166abc4ef9",
-          "title": "PisteCiclabili.com - FAQ (Domande Frequenti)"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "shopping-homegoods",
-      "bookmarks": [
-        {
-          "url": "https://www.rajhracky.cz/bezpecnostni-prvky-c8729",
-          "title": "Bezpečnostní prvky | RajHracky.cz"
-        },
-        {
-          "url": "https://www.kemenygyarto-balatonlelle.hu/de/hirek/kepgaleria/fustcsovek/dickwandigen-rohr/",
-          "title": "Dickwandigen rohr :: Kéménytechnikai Szaküzlet"
-        },
-        {
-          "url": "https://luxome.com/products/bamboo-sheets",
-          "title": "The Best Bamboo Sheets | 10,000+ Reviews | LUXOME"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "sports",
-      "bookmarks": [
-        {
-          "url": "https://www.nfl.com/standings",
-          "title": "2025 NFL Division Standings"
-        },
-        {
-          "url": "https://elitesportsny.com/2020/10/07/new-york-yankees-suzyn-waldmans-natl-anthem-will-open-up-game-3/",
-          "title": "New York Yankees: Suzyn Waldman's Nat'l Anthem will open up Game 3"
-        },
-        {
-          "url": "https://www.reddit.com/r/wicked_edge/wiki/index",
-          "title": "Reddit - The heart of the internet"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tools-web",
-      "bookmarks": [
-        {
-          "url": "https://www.handtalk.me/",
-          "title": "Hand Talk: your website accessible in ASL"
-        },
-        {
-          "url": "https://www.startpage.com/",
-          "title": "Startpage - Private Search Engine. No Tracking. No Search History."
-        },
-        {
-          "url": "https://marketplace.stripe.com/",
-          "title": "Stripe App Marketplace"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "webdev-wordpress",
-      "bookmarks": [
-        {
-          "url": "https://doc.themosaurus.com/creating-galleries/",
-          "title": "Creating Galleries • Themosaurus Documentation"
-        },
-        {
-          "url": "https://www.studiopress.com/",
-          "title": "WordPress Themes by StudioPress"
-        },
-        {
-          "url": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=pmc.com",
-          "title": "WordPress VIP - The leading enterprise content platform"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "arts-culture",
-      "bookmarks": [
-        {
-          "url": "https://www.vam.ac.uk/collections/metalwork",
-          "title": "Metalwork - Explore the Collections · V&A"
-        },
-        {
-          "url": "https://uploads.knightlab.com/storymapjs/857f1335b5790bba701ae445533b2c8e/racial-violence-in-wichita/index.html",
-          "title": "StoryMapJS: Racial Violence in Wichita"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-consulting",
-      "bookmarks": [
-        {
-          "url": "https://mrag.co.uk",
-          "title": "Sustainable Management of Natural Resources | MRAG"
-        },
-        {
-          "url": "https://www.businessforvotingrights.com/",
-          "title": "Business for Voting Rights"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "events-calendar",
-      "bookmarks": [
-        {
-          "url": "https://hullhrc.com/events-calendar/",
-          "title": "Events Calendar - Heritage Reformed Congregation of Hull Iowa"
-        },
-        {
-          "url": "https://www.montana.edu/calendar/events/35017",
-          "title": "MSU Calendar | Montana State University"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-wine",
-      "bookmarks": [
-        {
-          "url": "https://www.biotyfoule.org/project_patrick-lambert/",
-          "title": "Patrick Lambert | Biotyfoule"
-        },
-        {
-          "url": "http://www.magiadivino.it/e-commerce/105_poggio-le-volpi",
-          "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gaming",
-      "bookmarks": [
-        {
-          "url": "https://www.buyprimeaccount.com/product/one-service-medal-100win/?add_to_wishlist=3838&_wpnonce=5f0b1c7097",
-          "title": "CS2 Prime Account | 100 + Wins | 2020 Service Medal | Faceit Enable"
-        },
-        {
-          "url": "https://www.lasrespuestas.org/juego-de-palabras-vip-11-paquete-dos/",
-          "title": "Juego De Palabras VIP 11 Paquete Dos [ Todos Los Niveles ] - Alejandro"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government-us",
-      "bookmarks": [
-        {
-          "url": "https://www.texaslottery.com/opencms/About_Us/Agency_Directory/Email_Form.jsp",
-          "title": "Texas Lottery | Send an email to Texas Lottery Commission Customer Service"
-        },
-        {
-          "url": "https://public.govdelivery.com/accounts/USFSIS/subscriber/new",
-          "title": "USDA Food Safety and Inspection Service"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health",
-      "bookmarks": [
-        {
-          "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
-          "title": "Diabetes - Symptoms and causes - Mayo Clinic"
-        },
-        {
-          "url": "https://www.nimh.nih.gov/index.shtml",
-          "title": "National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-deleted-pages",
+      "name": "personal-blogs-profiles",
       "bookmarks": [
         {
           "url": "https://herbiv-whore.tumblr.com/",
           "title": "Blog Deleted."
         },
         {
-          "url": "https://www.cvent.com/d/bjqgzd",
-          "title": "Redirect page for inactive events"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-login-pages",
-      "bookmarks": [
-        {
-          "url": "https://www.indian-markt.com/products/8901701103101",
-          "title": "Please Log In"
+          "url": "https://kathysbee.tumblr.com/",
+          "title": "toss and tumbl"
         },
         {
-          "url": "http://assets.punchbowl.com/signin?return_to=https%3A%2F%2Fwww.punchbowl.com%2Fvendors%2Fga-georgia%2Ftucker%2F6787459%2Fall-event-rentals",
-          "title": "Sign In | Punchbowl"
+          "url": "https://kozlu.tumblr.com/",
+          "title": "@kozlu on Tumblr"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "news-world",
-      "bookmarks": [
-        {
-          "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22",
-          "title": "October 24, 2022 Russia-Ukraine news | CNN"
-        },
-        {
-          "url": "https://apnews.com/hub/europe",
-          "title": "Europe News | Breaking European News Today | AP News"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "organizations-advocacy",
-      "bookmarks": [
-        {
-          "url": "https://866ourvote.org/",
-          "title": "Homepage - Election Protection"
-        },
-        {
-          "url": "https://www.businessforvotingrights.com/",
-          "title": "Business for Voting Rights"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "portfolios",
-      "bookmarks": [
-        {
-          "url": "https://piotrzawada.pl/kasia-michal-palac-mala-wies/20210813_041/",
-          "title": "20210813_041 | Piotr Zawada - Fotografia Ślubna"
-        },
-        {
-          "url": "http://www.claudinsky.com?trk=organization_guest_main-feed-card-text",
-          "title": "Claudia Chinyere Akole"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "profiles-user",
-      "bookmarks": [
-        {
-          "url": "https://lionofviennasuite.sbnation.com/users/kidsearncash77",
-          "title": "kidsearncash77 Profile and Activity - Lion Of Vienna Suite"
-        },
-        {
-          "url": "https://askubuntu.com/users/311931/jitendra",
-          "title": "User Jitendra - Ask Ubuntu"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "programming-docs",
-      "bookmarks": [
-        {
-          "url": "https://documentation.spire.com",
-          "title": "Documentation & knowledge base | Kpler AIS"
-        },
-        {
-          "url": "https://lists.xenproject.org/archives/html/xen-users/2005-11/msg00205.html",
-          "title": "Xen project Mailing List"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "services-streaming",
-      "bookmarks": [
-        {
-          "url": "https://www.angel.com/",
-          "title": "Angel: Stream Original, Uplifting Shows for the Whole Family"
-        },
-        {
-          "url": "https://tv.youtube.com/learn/nflsundayticket",
-          "title": "The Exclusive Home of NFL Sunday Ticket - YouTube & YouTube TV"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-accessories",
-      "bookmarks": [
-        {
-          "url": "https://www.bb-shop.ro/bijuterie-vida_colored_diamonds-100934.html?utm_source=splendor.ro&utm_campaign=Bijuterii&utm_medium=referral&utm_content=PaginaProdus",
-          "title": "Inele de logodna Vida Colored Diamonds 43983R-LD8WP | Bijuterii dama | B&B SHOP Magazin online de bijuterii si accesorii"
-        },
-        {
-          "url": "https://www.dillards.com/p/samsonite-x-sjp-just-right-collection-standard-backpack/514260801",
-          "title": "Samsonite X Sjp Just Right Collection Standard Backpack | Dillard's"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-cosmetics",
-      "bookmarks": [
-        {
-          "url": "https://www.charlottetilbury.com/us/product/instant-eyeshadow-palette-pillow-talk",
-          "title": "Pillow Talk - Instant Eyeshadow Palette - Pink Eyeshadow | Charlotte Tilbury"
-        },
-        {
-          "url": "https://www.spacenk.com/us/bath-body/body-moisturiser-oils/body-oil/stretch-mark-oil-MUK200020396.html",
-          "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tech-ai",
-      "bookmarks": [
-        {
-          "url": "https://ai-writer.com/",
-          "title": "AI-Writer.com - Trustworthy AI Writing for Academia & Marketing"
-        },
-        {
-          "url": "https://impactchallenge.withgoogle.com/ai2018?p=YXJjaGl2ZQ==&v=NjA5Y2NjNDAxOTk4MGQ4N2NiYzk2OTdjZjYyYmVjYTRmYmRlM2Q1MA==",
-          "title": "Google AI Impact Challenge 2018"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tools-creative",
-      "bookmarks": [
-        {
-          "url": "http://weavesilk.com",
-          "title": "Silk - Interactive Generative Art"
-        },
-        {
-          "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
-          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tools-programming",
-      "bookmarks": [
-        {
-          "url": "https://primefaces.org/diamond/chronoline.xhtml;jsessionid=node0b4eckd93hrrg1qxulymmqkzkv6577254.node0",
-          "title": "CHRONOLINE"
-        },
-        {
-          "url": "https://regexplanet.com/advanced/java/index.html",
-          "title": "Java regex testing - RegexPlanet"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "http://www.high-seas.org/",
-          "title": "Hotel Search - HotelFinder - HotelFinder"
-        },
-        {
-          "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
-          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-adult",
+      "name": "adult-content",
       "bookmarks": [
         {
           "url": "https://besthindisex.com/indian/?link=category_thumb",
@@ -837,6 +751,6 @@
       "count": 1
     }
   ],
-  "total_bookmarks": 143,
-  "num_folders": 44
+  "total_bookmarks": 76,
+  "num_folders": 16
 }

@@ -1,14 +1,26 @@
 {
   "folders": [
     {
-      "name": "dev-resources",
+      "name": "software-development-tools",
       "bookmarks": [
         {
-          "url": "https://cssgradient.io/gradient-backgrounds/",
+          "url": "https://blog.chromium.org",
+          "title": "Chromium Blog"
+        },
+        {
+          "url": "https://powervirtualagents.microsoft.com",
+          "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
+        },
+        {
+          "url": "https://cssgradient.io/gradient-backgrounds",
           "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
         },
         {
-          "url": "https://kubernetes.io/",
+          "url": "https://workato.com/integrations/quip+kissmetrics",
+          "title": "Kissmetrics and Quip integration | Workato"
+        },
+        {
+          "url": "https://kubernetes.io",
           "title": "Kubernetes"
         },
         {
@@ -24,145 +36,155 @@
           "title": "TinyPNG - Optimize AVIF, WebP, JPEG and PNG Images with TinyPNG API"
         }
       ],
-      "count": 5
+      "count": 8
     },
     {
-      "name": "government-legal-politics",
+      "name": "academic-education-resources",
       "bookmarks": [
         {
-          "url": "https://www.stadt.bamberg.de/Schnellnavigation/Seiten%C3%BCbersicht/index.php?NavID=2730.542.1",
+          "url": "https://beta.springernature.com/pre-submission",
+          "title": "Get your manuscript ready for journal editors | Springer Nature"
+        },
+        {
+          "url": "https://nctsn.org/resources/helping-children-with-traumatic-separation-or-traumatic-grief-related-to-covid-19",
+          "title": "Helping Children with Traumatic Separation or Traumatic Grief Related to COVID-19 | The National Child Traumatic Stress Network"
+        },
+        {
+          "url": "https://research.google/pubs",
+          "title": "Publications - Google Research"
+        },
+        {
+          "url": "https://springernature.com/gp/authors/research-data",
+          "title": "Research data | Publish your research | Springer Nature"
+        },
+        {
+          "url": "https://health.gov/healthypeople/priority-areas/social-determinants-health",
+          "title": "Social Determinants of Health - Healthy People 2030 | odphp.health.gov"
+        },
+        {
+          "url": "https://stanford.edu",
+          "title": "Stanford University"
+        },
+        {
+          "url": "https://zsmi.pl/tag/zasady-ortografii",
+          "title": "Zasady Ortografii | Zespół Szkół Mechaniczno - Informatycznych"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "government-legal-documents",
+      "bookmarks": [
+        {
+          "url": "https://stadt.bamberg.de/Schnellnavigation/Seiten%C3%BCbersicht/index.php",
           "title": "Baustellen-Info / Stadt Bamberg"
         },
         {
-          "url": "https://supreme.justia.com/cases/federal/us/237/309/",
+          "url": "https://supreme.justia.com/cases/federal/us/237/309",
           "title": "Frank v. Mangum | 237 U.S. 309 (1915) | Justia U.S. Supreme Court Center"
         },
         {
-          "url": "https://www.joemerrill.com/privacy-policy",
+          "url": "https://progressiverailroading.com/keywords/keywords.aspx?id=0&keywords=LAX&year=2014",
+          "title": "LAX: Coverage from 2014 - Railroad industry topic page listing articles, news and coverage about LAX. For Railroading Professionals"
+        },
+        {
+          "url": "https://joemerrill.com/privacy-policy",
           "title": "Privacy Policy - Joe Merrill"
         },
         {
-          "url": "http://www.shaheen.senate.gov/news/press/release/?id=014ebb9a-85fc-4bf8-8894-7c5df8d863c4",
+          "url": "https://geodaten.sachsen.de/rechtsgrundlagen-und-nutzungsbedingungen-4509.html",
+          "title": "Rechtsgrundlagen und Nutzungsbedingungen - Offene Geodaten - sachsen.de"
+        },
+        {
+          "url": "https://shaheen.senate.gov/news/press/release",
           "title": "SHAHEEN AMENDMENT SIGNED INTO LAW | U.S. Senator Jeanne Shaheen"
         },
         {
-          "url": "https://patriotpost.us/articles/81010-the-lefts-covert-war-on-the-suburbs-2021-07-01/print",
+          "url": "https://patriotpost.us/articles/81010-the-lefts-covert-war-on-the-suburbs",
           "title": "The Left's Covert War on the Suburbs - The Patriot Post"
         }
       ],
-      "count": 5
+      "count": 7
     },
     {
-      "name": "brand-homepage",
+      "name": "web-utility-notices",
       "bookmarks": [
         {
-          "url": "http://www.accountservices.com/",
-          "title": "ACCOUNT SERVICES INC"
+          "url": "https://tiempo26.com/si-hubo-ataque-quimico-en-siria",
+          "title": "Account Suspended"
         },
         {
-          "url": "https://www.alkami.com/",
-          "title": "The Platform built for Anticipatory Banking"
+          "url": "https://langolodeisogni.altervista.org/phpBB3/ucp.php",
+          "title": "L'Angolo dei Sogni - Pannello di Controllo Utente - Cancella cookie"
         },
         {
-          "url": "https://joyofbeautybrand.com/",
-          "title": "Home | Joy of Beauty®"
+          "url": "https://br.my.vccs.edu",
+          "title": "Redirecting to Login..."
         },
         {
-          "url": "https://www.northeastanimalhospital.com/",
-          "title": "Northeast Animal Hospital | St. Petersburg"
+          "url": "https://slideme.org/fr/node/20110178/reviews",
+          "title": "SLIDEME-end"
+        },
+        {
+          "url": "https://surveymonkey.com/r/JFC9TVN",
+          "title": "SurveyMonkey - Survey Closed"
+        },
+        {
+          "url": "https://siemplifycommunity.slack.com",
+          "title": "Workspace Suspended | Slack"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "entertainment-media",
+      "name": "entertainment-news-reviews",
       "bookmarks": [
         {
-          "url": "http://www.marieclaire.co.uk/news/celebrity-news/inside-the-glamorous-world-of-grace-jones-8312",
-          "title": "Grace Jones - Biography, Life Story & Pictures | Marie Claire UK"
+          "url": "https://fangsforthefantasy.com/2014/10/the-walking-dead-season-five-episode_27.html",
+          "title": "Fangs For The Fantasy: The Walking Dead, Season Five, Episode Three: Four Walls and a Roof"
         },
         {
-          "url": "https://www.ktnnonline.com",
-          "title": "KTNN 660 AM 101.5 FM - The Voice of the Navajo Nation"
+          "url": "https://travelandleisure.com/maggie-wheeler-janice-friends-international-delight-7105735",
+          "title": "Janice From 'Friends' Tells Us Where She and Chandler Would Have Honeymooned If They'd Stay Together"
         },
         {
-          "url": "https://www.iheart.com/podcast/1119-people-every-day-76003809/",
+          "url": "https://iheart.com/podcast/1119-people-every-day-76003809",
           "title": "PEOPLE Every Day | iHeart"
         },
         {
-          "url": "http://www.alternativenation.net/porno-pyros-drop-new-album-bombshell/",
+          "url": "https://alternativenation.net/porno-pyros-drop-new-album-bombshell",
           "title": "Porno for Pyros Drop New Album Bombshell - Alternative Nation"
         }
       ],
       "count": 4
     },
     {
-      "name": "misc-defunct-sites",
+      "name": "home-lifestyle-goods",
       "bookmarks": [
         {
-          "url": "https://tiempo26.com/si-hubo-ataque-quimico-en-siria/",
-          "title": "Account Suspended"
+          "url": "https://joyofbeautybrand.com",
+          "title": "Home | Joy of Beauty®"
         },
         {
-          "url": "http://slideme.org/fr/node/20110178/reviews",
-          "title": "SLIDEME-end"
+          "url": "https://periodico24.com/la-importancia-de-contar-con-una-buena-climatizacion-en-el-hogar",
+          "title": "La importancia de contar con una buena climatización en el hogar - Periodico24"
         },
         {
-          "url": "https://www.surveymonkey.com/r/JFC9TVN",
-          "title": "void"
+          "url": "https://jaxbags.com.au/products/new-fashion-water-repellent-messenger-bag",
+          "title": "New Fashion Water Repellent Cross Body Bag - Jax Bags"
         },
         {
-          "url": "http://siemplifycommunity.slack.com/",
-          "title": "Workspace Suspended | Slack"
+          "url": "https://northeastanimalhospital.com",
+          "title": "Northeast Animal Hospital | St. Petersburg"
         }
       ],
       "count": 4
     },
     {
-      "name": "science-open-data",
+      "name": "music-audio-resources",
       "bookmarks": [
         {
-          "url": "https://www.esa.int/Science_Exploration",
-          "title": "ESA - Science & Exploration"
-        },
-        {
-          "url": "https://www.geodaten.sachsen.de/rechtsgrundlagen-und-nutzungsbedingungen-4509.html",
-          "title": "Rechtsgrundlagen und Nutzungsbedingungen - Offene Geodaten - sachsen.de"
-        },
-        {
-          "url": "https://ueaglider.uea.ac.uk/mission39/glider502/dive0085",
-          "title": "SG502 Dive 85 Mission 39"
-        },
-        {
-          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
-          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "academic-research",
-      "bookmarks": [
-        {
-          "url": "https://beta.springernature.com/pre-submission?journalId=11625",
-          "title": "Get your manuscript ready for journal editors | Springer Nature"
-        },
-        {
-          "url": "https://research.google/pubs/",
-          "title": "Publications - Google Research"
-        },
-        {
-          "url": "https://www.springernature.com/gp/authors/research-data",
-          "title": "Research data | Publish your research | Springer Nature"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "hobby-music",
-      "bookmarks": [
-        {
-          "url": "https://www.stef.be/bassoontracker/",
+          "url": "https://stef.be/bassoontracker",
           "title": "BassoonTracker - Amiga music tracker - By Steffest"
         },
         {
@@ -170,255 +192,143 @@
           "title": "ElectroSmash - Boss DS1 Distortion Analysis"
         },
         {
-          "url": "https://guitarra.artepulsado.com/foros/showthread.php?24180-Guitarra-Miguel-Moya-Almer%EF%BF%BD%EF%BF%BDa&s=4e83db1cd5646ee7121e76e3a1edfe2a",
+          "url": "https://guitarra.artepulsado.com/foros/showthread.php?24180-Guitarra-Miguel-Moya-Almer%EF%BF%BD%EF%BF%BDa",
           "title": "Guitarra Miguel Moya Almería | Guitarra Artepulsado"
+        },
+        {
+          "url": "https://ktnnonline.com",
+          "title": "KTNN 660 AM 101.5 FM - The Voice of the Navajo Nation"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "art-culture-museums",
+      "bookmarks": [
+        {
+          "url": "https://metmuseum.org/art/collection/search/436121",
+          "title": "Edgar Degas - A Woman Seated beside a Vase of Flowers (Madame Paul Valpinçon?) - The Metropolitan Museum of Art"
+        },
+        {
+          "url": "https://marieclaire.co.uk/news/celebrity-news/inside-the-glamorous-world-of-grace-jones-8312",
+          "title": "Grace Jones - Biography, Life Story & Pictures | Marie Claire UK"
+        },
+        {
+          "url": "https://nmwa.org",
+          "title": "National Museum of Women in the Arts | Home"
         }
       ],
       "count": 3
     },
     {
-      "name": "non-profit",
+      "name": "business-finance-services",
       "bookmarks": [
         {
-          "url": "https://www.votervoice.net/GOODWILL/home",
-          "title": "Action Center"
+          "url": "https://accountservices.com",
+          "title": "ACCOUNT SERVICES INC"
         },
         {
-          "url": "https://www.moorecharitable.org",
+          "url": "https://card.apple.com/apply/application",
+          "title": "Apple Card Application"
+        },
+        {
+          "url": "https://alkami.com",
+          "title": "The Platform built for Anticipatory Banking"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "environmental-organizations-news",
+      "bookmarks": [
+        {
+          "url": "https://moorecharitable.org",
           "title": "Home - The Moore Charitable Foundation"
         },
         {
-          "url": "https://www.iucn.org/news/marine-and-polar/202203/unea-resolution-end-plastic-pollution-and-iucn-role-implementation-treaty",
+          "url": "https://id.linkedin.com/company/octopus-ina",
+          "title": "Octopus Indonesia | LinkedIn"
+        },
+        {
+          "url": "https://iucn.org/news/marine-and-polar/202203/unea-resolution-end-plastic-pollution-and-iucn-role-implementation-treaty",
           "title": "UNEA Resolution - 'End Plastic Pollution' - and IUCN role in implementation of the Treaty | IUCN"
         }
       ],
       "count": 3
     },
     {
-      "name": "sports",
+      "name": "online-services-social",
       "bookmarks": [
         {
-          "url": "https://www.nba.com/schedule",
+          "url": "https://offers.applearcade.apple",
+          "title": "Apple Arcade - Three Month Offer - Apple"
+        },
+        {
+          "url": "https://elitesingles.com",
+          "title": "EliteSingles | One of the best dating sites for educated singles"
+        },
+        {
+          "url": "https://du.ilsole24ore.com/utenti/Registrazione.aspx",
+          "title": "Il Sole 24 ORE - Registrazione"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "science-space-research",
+      "bookmarks": [
+        {
+          "url": "https://esa.int/Science_Exploration",
+          "title": "ESA - Science & Exploration"
+        },
+        {
+          "url": "https://omnicalculator.com/physics/escape-velocity",
+          "title": "Escape Velocity Calculator"
+        },
+        {
+          "url": "https://ueaglider.uea.ac.uk/mission39/glider502/dive0085",
+          "title": "SG502 Dive 85 Mission 39"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "sports-news-statistics",
+      "bookmarks": [
+        {
+          "url": "https://nba.com/schedule",
           "title": "NBA Schedule - NBA Games & Events | NBA.com"
         },
         {
-          "url": "https://sportslens.com/",
+          "url": "https://sportslens.com",
           "title": "Sportslens.com - NFL, NBA, NHL, MLB News, Rumors & Betting Picks"
         },
         {
-          "url": "https://www.tennisexplorer.com/",
+          "url": "https://tennisexplorer.com",
           "title": "Tennis Explorer: Tennis Stats, WTA & ATP Tennis Betting"
         }
       ],
       "count": 3
     },
     {
-      "name": "art-museum",
+      "name": "technology-products-reviews",
       "bookmarks": [
         {
-          "url": "https://www.metmuseum.org/art/collection/search/436121",
-          "title": "Edgar Degas - A Woman Seated beside a Vase of Flowers (Madame Paul Valpinçon?) - The Metropolitan Museum of Art"
+          "url": "https://samsung.com/us/watches/galaxy-watch5",
+          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
         },
         {
-          "url": "http://www.nmwa.org/",
-          "title": "National Museum of Women in the Arts | Home"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://stanford.edu",
-          "title": "Stanford University"
-        },
-        {
-          "url": "https://zsmi.pl/tag/zasady-ortografii/",
-          "title": "Zasady Ortografii | Zespół Szkół Mechaniczno - Informatycznych"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "entertainment-tv",
-      "bookmarks": [
-        {
-          "url": "http://www.fangsforthefantasy.com/2014/10/the-walking-dead-season-five-episode_27.html",
-          "title": "Fangs For The Fantasy: The Walking Dead, Season Five, Episode Three: Four Walls and a Roof"
-        },
-        {
-          "url": "https://www.travelandleisure.com/maggie-wheeler-janice-friends-international-delight-7105735",
-          "title": "Janice From 'Friends' Tells Us Where She and Chandler Would Have Honeymooned If They'd Stayed Together"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gaming",
-      "bookmarks": [
-        {
-          "url": "https://offers.applearcade.apple/?itscg=10000&itsct=arc-0-arc_ovp-hw_prop-apl-ref-220412",
-          "title": "Apple Arcade - Three Month Offer - Apple"
+          "url": "https://cleantechnica.com/2022/04/29/optiwatt-launches-new-save-the-planet-tool-and-announces-4-3m-in-seed-funding",
+          "title": "Optiwatt Launches New \"Save the Planet\" Tool And Announces $4.3M In Seed Funding - CleanTechnica"
         },
         {
           "url": "https://xboxdesignlab.xbox.com",
           "title": "Xbox Design Lab | Xbox"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "misc-login-pages",
-      "bookmarks": [
-        {
-          "url": "https://du.ilsole24ore.com/utenti/Registrazione.aspx?schema=Reg2013&Pers=home2013&Newsletters=DURegCO&sc_motivo=N24%3aspontaneo&SiteCode=CN&RURL=https%3a%2f%2fst.ilsole24ore.com%2fart%2fnorme-e-tributi%2f2016-01-26%2fprima-casa-benefici-allargati-074924.shtml%3fuuid%3dACCuvNHC",
-          "title": "Il Sole 24 ORE - Registrazione"
-        },
-        {
-          "url": "https://br.my.vccs.edu/",
-          "title": "Redirecting to Login..."
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "product-accessories",
-      "bookmarks": [
-        {
-          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
-          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
-        },
-        {
-          "url": "https://jaxbags.com.au/products/new-fashion-water-repellent-messenger-bag",
-          "title": "New Fashion Water Repellent Cross Body Bag - Jax Bags"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "public-health",
-      "bookmarks": [
-        {
-          "url": "https://www.nctsn.org/resources/helping-children-with-traumatic-separation-or-traumatic-grief-related-to-covid-19",
-          "title": "Helping Children with Traumatic Separation or Traumatic Grief Related to COVID-19 | The National Child Traumatic Stress Network"
-        },
-        {
-          "url": "https://health.gov/healthypeople/priority-areas/social-determinants-health",
-          "title": "Social Determinants of Health - Healthy People 2030 | odphp.health.gov"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "saas-tools",
-      "bookmarks": [
-        {
-          "url": "https://powervirtualagents.microsoft.com",
-          "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
-        },
-        {
-          "url": "https://www.workato.com/integrations/quip+kissmetrics",
-          "title": "Kissmetrics and Quip integration | Workato"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tech-news-blogs",
-      "bookmarks": [
-        {
-          "url": "https://blog.chromium.org/",
-          "title": "Chromium Blog"
-        },
-        {
-          "url": "https://cleantechnica.com/2022/04/29/optiwatt-launches-new-save-the-planet-tool-and-announces-4-3m-in-seed-funding/",
-          "title": "Optiwatt Launches New \"Save the Planet\" Tool And Announces $4.3M In Seed Funding - CleanTechnica"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "company-profile",
-      "bookmarks": [
-        {
-          "url": "https://id.linkedin.com/company/octopus-ina?trk=organization_guest_main-feed-card-text",
-          "title": "Octopus Indonesia | LinkedIn"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "finance",
-      "bookmarks": [
-        {
-          "url": "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
-          "title": "Apple Card Application"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "home-improvement",
-      "bookmarks": [
-        {
-          "url": "https://www.periodico24.com/la-importancia-de-contar-con-una-buena-climatizacion-en-el-hogar/",
-          "title": "La importancia de contar con una buena climatización en el hogar - Periodico24"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "industry-transportation",
-      "bookmarks": [
-        {
-          "url": "https://www.progressiverailroading.com/keywords/keywords.aspx?id=0&keywords=LAX&year=2014",
-          "title": "LAX: Coverage from 2014 - Railroad industry topic page listing articles, news and coverage about LAX. For Railroading Professionals"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-utility-links",
-      "bookmarks": [
-        {
-          "url": "https://langolodeisogni.altervista.org/phpBB3/ucp.php?mode=delete_cookies&sid=6697ba62c5f927e1221355ff3b98be8b",
-          "title": "L'Angolo dei Sogni - Pannello di Controllo Utente - Cancella cookie"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "recipes",
-      "bookmarks": [
-        {
-          "url": "https://ricetta.buoneforchette.com/celestino.php",
-          "title": "Ricetta celestino"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "social-dating",
-      "bookmarks": [
-        {
-          "url": "https://www.elitesingles.com/",
-          "title": "EliteSingles | One of the best dating sites for educated singles"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tool-calculators",
-      "bookmarks": [
-        {
-          "url": "https://www.omnicalculator.com/physics/escape-velocity",
-          "title": "Escape Velocity Calculator"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
   "total_bookmarks": 64,
-  "num_folders": 27
+  "num_folders": 14
 }

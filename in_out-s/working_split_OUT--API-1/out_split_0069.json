@@ -1,8 +1,20 @@
 {
   "folders": [
     {
-      "name": "nonprofit-organizations",
+      "name": "organizations-nonprofit-advocacy",
       "bookmarks": [
+        {
+          "url": "https://aafca.squarespace.com/meet-the-cofounders",
+          "title": "Meet The Co-Founders - AAFCA"
+        },
+        {
+          "url": "https://50stateblueprint.aclu.org/",
+          "title": "50 State Blueprint | ACLU"
+        },
+        {
+          "url": "https://www.blackchamber.com/",
+          "title": "Silicon Valley Black Chamber of Commerce"
+        },
         {
           "url": "https://disasterphilanthropy.org/cdp-fund/cdp-covid-19-response-fund/",
           "title": "COVID-19 Response Fund - Center for Disaster Philanthropy"
@@ -12,12 +24,32 @@
           "title": "EPA Alumni Association"
         },
         {
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3",
+          "title": "ESA - Sentinel-3"
+        },
+        {
           "url": "https://www.houstonendowment.org/programs/",
           "title": "Houston Endowment | Programs"
         },
         {
+          "url": "https://www.jff.org/subscribe/",
+          "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
+        },
+        {
+          "url": "https://www.miga.org/",
+          "title": "Homepage | World Bank Group Guarantees | MIGA"
+        },
+        {
+          "url": "https://nationallanding.org/people-before-cars",
+          "title": "People Before Cars | National Landing"
+        },
+        {
           "url": "http://www.nationalcapacd.org/",
           "title": "National CAPACD"
+        },
+        {
+          "url": "https://www.missingkids.org/netsmartz",
+          "title": "NetSmartz Home"
         },
         {
           "url": "https://newwf.org/",
@@ -36,6 +68,14 @@
           "title": "Home - Trans Lifeline"
         },
         {
+          "url": "https://www.ukibc.com/",
+          "title": "UK India Business Council"
+        },
+        {
+          "url": "https://digital.archives.unesco.org/en/",
+          "title": "UNESCO archives | UNESCO"
+        },
+        {
           "url": "https://www.vera.org/",
           "title": "Vera Institute"
         },
@@ -44,224 +84,10 @@
           "title": "Wilson Sheehan Foundation"
         }
       ],
-      "count": 10
+      "count": 20
     },
     {
-      "name": "company-pages",
-      "bookmarks": [
-        {
-          "url": "https://forums.att.com/",
-          "title": "AT&T Digital Resources & Answers - Community Forums has Sunset"
-        },
-        {
-          "url": "http://dabdeveloper.wixsite.com/dabdeveloper/contact",
-          "title": "Contact | dabdeveloper"
-        },
-        {
-          "url": "https://aafca.squarespace.com/meet-the-cofounders",
-          "title": "Meet The Co-Founders - AAFCA"
-        },
-        {
-          "url": "https://www.jff.org/subscribe/",
-          "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
-        },
-        {
-          "url": "http://www.washington.edu/news/about",
-          "title": "Welcome to the UW News office | UW News"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education-resources",
-      "bookmarks": [
-        {
-          "url": "https://earthday.org/earth-day-quizzes/",
-          "title": "Earth Day Quiz | Official Earth Day Website | earthday.org"
-        },
-        {
-          "url": "http://www.edscuola.com/",
-          "title": "Educazione&Scuola© by Dario Cillo - La Rivista telematica della Scuola e della Formazione"
-        },
-        {
-          "url": "http://horilab.jp/publications/style/refereed-intl-article/2021/international-trends-in-k-12computer-science-curricula-through-comparative-analysis-implications-for-the-primary-curricula",
-          "title": "International Trends in K-12 Computer Science Curricula Through Comparative Analysis: Implications for the Primary Curricula - メディア教育論ゼミ"
-        },
-        {
-          "url": "https://www.khanacademy.org/math/statistics-probability",
-          "title": "Khan Academy"
-        },
-        {
-          "url": "http://www.lasers.org.uk/Courses/msc.htm",
-          "title": "Masters MSc (Eng) Programme | Laser Group at Liverpool"
-        },
-        {
-          "url": "http://newsletter.truman.edu/issue.asp?id=1553&command=CurrIssue",
-          "title": "Truman Today | Features - Vol. 21 No. 6 - September 26, 2016"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "articles-news",
-      "bookmarks": [
-        {
-          "url": "https://www.huffingtonpost.com/entry/kelly-marie-tran-racists-last-jedi_us_5a4400fee4b06d1621b6b2bb",
-          "title": "Kelly Marie Tran Of 'Last Jedi' Facing Racist, Sexist Comments Online | HuffPost Entertainment"
-        },
-        {
-          "url": "https://www.wdbj7.com/2023/02/27/owners-find-missing-dog-shelter-right-before-new-family-adopts-her/",
-          "title": "Owners find missing dog in shelter right before new family adopts her"
-        },
-        {
-          "url": "http://www.radioampm.com.ar/2017/10/direcotora-de-turismo.html",
-          "title": "Direcotora de Turismo"
-        },
-        {
-          "url": "https://laist.com/news/food/the-city-of-la-just-extended-al-fresco-dining-for-at-least-a-year",
-          "title": "The City Of LA Just Extended Al Fresco Dining For At Least A Year | LAist"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://metaphoricalnerd.tumblr.com/",
-          "title": "@metaphoricalnerd on Tumblr"
-        },
-        {
-          "url": "https://angusmon.tumblr.com/",
-          "title": "Angusmon"
-        },
-        {
-          "url": "https://rainbowdash0223.tumblr.com/",
-          "title": "Rainbowdash0223 Design"
-        },
-        {
-          "url": "https://kathysbee.tumblr.com/",
-          "title": "toss and tumbl"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "legal-privacy-policy",
-      "bookmarks": [
-        {
-          "url": "http://www.fandango.com/PrivacyPolicy.aspx",
-          "title": "Fandango | A Message To Our Fans"
-        },
-        {
-          "url": "https://www.crunchyroll.com/privacy",
-          "title": "PRIVACY AND COOKIES POLICY | Sony Pictures International"
-        },
-        {
-          "url": "http://www.smartstudy.co.kr/privacy/",
-          "title": "Pinkfong Account"
-        },
-        {
-          "url": "https://skinseedapp.com/privacy-policy.html",
-          "title": "Privacy Policy"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "shopping-fashion",
-      "bookmarks": [
-        {
-          "url": "https://www.cnd.com/",
-          "title": "Beauty Supply | Nail Polish | Shellac | Nail Care - Creative Nail Design"
-        },
-        {
-          "url": "https://www.joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
-          "title": "Rolling Facial Massager - Joanna Czech"
-        },
-        {
-          "url": "https://statebags.com/",
-          "title": "STATE Bags - Backpacks, Totes and Bags for Women, Men & Kids"
-        },
-        {
-          "url": "https://www.dia.com/",
-          "title": "Plus Size Clothing and Personal Styling for Women | Dia & Co"
-        },
-        {
-          "url": "https://www.ae.com/us/en/p/aerie/dresses-skirts/jumpsuits-rompers/aerie-ruched-romper/0713_1356_231",
-          "title": "Jumpsuits for Women | Aerie"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "tech-b2b-services",
-      "bookmarks": [
-        {
-          "url": "http://elsmediakits.com",
-          "title": "Elsevier Pharma Solutions"
-        },
-        {
-          "url": "https://www.infosysequinox.com/",
-          "title": "Enterprise Digital Commerce Platform | Infosys Equinox"
-        },
-        {
-          "url": "https://marketplace.stripe.com/",
-          "title": "Stripe App Marketplace"
-        },
-        {
-          "url": "http://www.panaya.com/",
-          "title": "The Change Intelligence Platform for ERP & CRM"
-        },
-        {
-          "url": "https://nextebiz.com/2020/11/07/all-about-form-in-great-design-and-development/",
-          "title": "Next eBiz - Enterprise Software Development Services - Next eBiz"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "tech-software",
-      "bookmarks": [
-        {
-          "url": "https://buddypress.org/",
-          "title": "BuddyPress.org"
-        },
-        {
-          "url": "https://whispersystems.org/",
-          "title": "Signal >> Home"
-        },
-        {
-          "url": "http://www.tgrmn.com/",
-          "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
-        },
-        {
-          "url": "https://visualstudio.microsoft.com/?utm_source=developermscom",
-          "title": "Visual Studio: IDE and Code Editor for Software Development"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "activism-resources",
-      "bookmarks": [
-        {
-          "url": "https://50stateblueprint.aclu.org/",
-          "title": "50 State Blueprint | ACLU"
-        },
-        {
-          "url": "https://nationallanding.org/people-before-cars",
-          "title": "People Before Cars | National Landing"
-        },
-        {
-          "url": "http://www.ywomenvote.org/",
-          "title": "ywomenvote"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "articles-tech",
+      "name": "articles-news-commentary",
       "bookmarks": [
         {
           "url": "https://www.nextbigfuture.com/2011/01/beyond-flash-memory.html",
@@ -272,95 +98,521 @@
           "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
         },
         {
-          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
-          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
+          "url": "https://www.psicologiaclinicamsf.com/2021/07/dibujando-tu-futuro.html",
+          "title": "DIBUJANDO TU FUTURO"
+        },
+        {
+          "url": "http://www.radioampm.com.ar/2017/10/direcotora-de-turismo.html",
+          "title": "Direcotora de Turismo"
+        },
+        {
+          "url": "https://fantasticmoviemusings.com/2021/05/11/education-for-death-the-making-of-a-nazi-1943/",
+          "title": "Education for Death: The Making of a Nazi (1943) | Fantastic Movie Musings and Ramblings"
+        },
+        {
+          "url": "https://www.aljazeera.com/economy/",
+          "title": "Economy | Today's latest from Al Jazeera"
+        },
+        {
+          "url": "https://www.history.com/topics/1960s/watts-riots",
+          "title": "Homepage | HISTORY CHANNEL ITALIA"
+        },
+        {
+          "url": "https://voyagetampa.com/interview/inspiring-conversations-with-stephanie-brown-of-the-rosie-network/",
+          "title": "Inspiring Conversations with Stephanie Brown of The Rosie Network - VoyageTampa"
+        },
+        {
+          "url": "https://stiintasitehnica.com/interviu/",
+          "title": "Interviurile S&T - Știință & Tehnică"
+        },
+        {
+          "url": "https://www.huffingtonpost.com/entry/kelly-marie-tran-racists-last-jedi_us_5a4400fee4b06d1621b6b2bb",
+          "title": "Kelly Marie Tran Of 'Last Jedi' Facing Racist, Sexist Comments Online | HuffPost Entertainment"
+        },
+        {
+          "url": "https://www.wdbj7.com/2023/02/27/owners-find-missing-dog-shelter-right-before-new-family-adopts-her/",
+          "title": "Owners find missing dog in shelter right before new family adopts her"
+        },
+        {
+          "url": "https://linnemagazine.com/2021/07/28/si-tu-amigue-te-pide-mas-lofi-y-dream-pop-pasale-lo-nuevo-de-classic-park-paula-pera-y-moriras-lejos/",
+          "title": "Si tu amigue te pide más lofi y dream pop, pásale lo nuevo de Classic Park, Paula Pera y Morirás Lejos | LINNE"
+        },
+        {
+          "url": "https://avodaf.org/2018/11/23/storia-della-sessualita-michel-foucault/",
+          "title": "Storia della sessualità- Michel Foucault - AvoDaf"
+        },
+        {
+          "url": "https://laist.com/news/food/the-city-of-la-just-extended-al-fresco-dining-for-at-least-a-year",
+          "title": "The City Of LA Just Extended Al Fresco Dining For At Least A Year | LAist"
+        },
+        {
+          "url": "http://www.cosmopolitan.co.uk/entertainment/news/a34598/idris-elba-dad-quotes-winston-isan/",
+          "title": "What Idris Elba has to say about being a dad will melt your heart"
         }
       ],
-      "count": 3
+      "count": 15
     },
     {
-      "name": "business-services",
+      "name": "business-corporate",
       "bookmarks": [
         {
-          "url": "https://baroulmehedinti.ro/avocati/stancu-dimitrie-lucian",
-          "title": "Baroul Mehedinţi"
+          "url": "https://www.ihrimmobilienmaklerheidelberg.com/nationale-und-internationale-immobilienbewertung-grundlagen-und-vergleiche",
+          "title": "300 Multiple Choices"
+        },
+        {
+          "url": "https://sell.amazon.com/programs/black-business-accelerator",
+          "title": "Amazon selling programs | Sell on Amazon"
+        },
+        {
+          "url": "https://www.dotdashmeredith.com/careers/",
+          "title": "Career Opportunties | People Inc"
+        },
+        {
+          "url": "https://clearloop.us/2021/03/02/watttime-partnership/",
+          "title": "Clearloop Partners with WattTime to Verify Avoided Carbon Emissions"
+        },
+        {
+          "url": "https://www.jbr.nl/begrippen/debt-advisory/",
+          "title": "Debt Advisory - JBR"
+        },
+        {
+          "url": "http://elsmediakits.com",
+          "title": "Elsevier Pharma Solutions"
+        },
+        {
+          "url": "https://traininginelectrical.co.uk/blog/ever-considered-a-career-as-an-electrical-installation-testing-engineer",
+          "title": "Ever considered a career as an Electrical Installation Testing Engineer? : Training in Electrical"
         },
         {
           "url": "http://howtofreelance.com/",
           "title": "Home - PersonalBrand.com"
         },
         {
-          "url": "https://www.ihrimmobilienmaklerheidelberg.com/nationale-und-internationale-immobilienbewertung-grundlagen-und-vergleiche",
-          "title": "300 Multiple Choices"
+          "url": "https://www.infosysequinox.com/",
+          "title": "Enterprise Digital Commerce Platform | Infosys Equinox"
+        },
+        {
+          "url": "https://nextebiz.com/2020/11/07/all-about-form-in-great-design-and-development/",
+          "title": "Next eBiz - Enterprise Software Development Services - Next eBiz"
         },
         {
           "url": "https://www.themodelhm.com",
           "title": "Professional Organizer Washington DC | The Model Home"
+        },
+        {
+          "url": "https://marketplace.stripe.com/",
+          "title": "Stripe App Marketplace"
+        },
+        {
+          "url": "http://www.panaya.com/",
+          "title": "The Change Intelligence Platform for ERP & CRM"
+        },
+        {
+          "url": "https://www.walmartsustainabilityhub.com/project-gigaton/forests",
+          "title": "Walmart Sustainability Hub"
         }
       ],
-      "count": 4
+      "count": 14
     },
     {
-      "name": "data-resources",
+      "name": "education-learning",
       "bookmarks": [
         {
-          "url": "https://covid-19-response.unstatshub.org/data-solutions/",
-          "title": "Data solutions | COVID-19 response"
+          "url": "https://www.behindtheshutter.com",
+          "title": "Behind the Shutter - Free Photography Training and Education"
         },
         {
-          "url": "http://www.marineregions.org",
-          "title": "Marine Regions"
+          "url": "https://earthday.org/earth-day-quizzes/",
+          "title": "Earth Day Quiz | Official Earth Day Website | earthday.org"
         },
         {
-          "url": "https://poweroutage.us/area/state/michigan",
-          "title": "Michigan Power Outage Map, October 2025"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "digital-archives",
-      "bookmarks": [
-        {
-          "url": "http://hog-heltau.de/index.php/bilder-archiv-heltau/2-grabsteine/detail/130-bonfert-michael-1869-1938-schachinger-katharina-1878-1948-grabstein?tmpl=component",
-          "title": "Bilder Archiv Heltau"
+          "url": "http://www.edscuola.com/",
+          "title": "Educazione&Scuola© by Dario Cillo - La Rivista telematica della Scuola e della Formazione"
         },
         {
-          "url": "https://digital.archives.unesco.org/en/",
-          "title": "UNESCO archives | UNESCO"
+          "url": "https://www.metrokids.com/education-shifts-at-ages-3-5/",
+          "title": "IDEA Creates Transition from Early Intervention to Schools at Age 3"
+        },
+        {
+          "url": "http://horilab.jp/publications/style/refereed-intl-article/2021/international-trends-in-k-12computer-science-curricula-through-comparative-analysis-implications-for-the-primary-curricula",
+          "title": "International Trends in K-12 Computer Science Curricula Through Comparative Analysis: Implications for the Primary Curricula - メディア教育論ゼミ"
+        },
+        {
+          "url": "https://www.khanacademy.org/math/statistics-probability",
+          "title": "Khan Academy"
+        },
+        {
+          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
+          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
+        },
+        {
+          "url": "https://g2ul0.app.link/GL?trk=organization_guest_main-feed-card_reshare-text",
+          "title": "Learn with Steven Bartlett - YouTube"
+        },
+        {
+          "url": "http://www.lasers.org.uk/Courses/msc.htm",
+          "title": "Masters MSc (Eng) Programme | Laser Group at Liverpool"
+        },
+        {
+          "url": "https://webassessor.com/googlecloud",
+          "title": "Ready to start?"
+        },
+        {
+          "url": "https://www.ted.com/talks/enric_sala_let_s_turn_the_high_seas_into_the_world_s_largest_nature_reserve?rss",
+          "title": "Enric Sala: Let's turn the high seas into the world's largest nature reserve | TED Talk"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/training/azure/",
+          "title": "Training for Azure | Microsoft Learn"
+        },
+        {
+          "url": "http://newsletter.truman.edu/issue.asp?id=1553&command=CurrIssue",
+          "title": "Truman Today | Features - Vol. 21 No. 6 - September 26, 2016"
         },
         {
           "url": "https://ceya.udesa.edu.ar/index.php/informationobject/browse?sf_culture=en&view=table&sort=referenceCode&subjects=1199&topLod=0&sortDir=asc&onlyMedia=1",
           "title": "UdeSA Ceya"
+        },
+        {
+          "url": "http://www.washington.edu/news/about",
+          "title": "Welcome to the UW News office | UW News"
         }
       ],
-      "count": 3
+      "count": 15
     },
     {
-      "name": "hobby-resources",
+      "name": "tech-development",
+      "bookmarks": [
+        {
+          "url": "https://buddypress.org/",
+          "title": "BuddyPress.org"
+        },
+        {
+          "url": "https://www.diffchecker.com/",
+          "title": "Compare text and find differences online or offline - Diffchecker"
+        },
+        {
+          "url": "https://crontab.guru/",
+          "title": "Crontab.guru - The cron schedule expression generator"
+        },
+        {
+          "url": "https://mirror.ufam.edu.br/archlinux/core/?C=D;O=A",
+          "title": "Index of /archlinux/core"
+        },
+        {
+          "url": "https://officialandroid.blogspot.com/",
+          "title": "Official Android news and updates | Google Blog"
+        },
+        {
+          "url": "react.dev/learn/referencing-values-with-refs",
+          "title": "Referencing Values with Refs - React"
+        },
+        {
+          "url": "https://www.sketchappsources.com/",
+          "title": "Sketch App Sources - New free design resources - Icons, UI Kits, Wireframes, iOS, Android Templates"
+        },
+        {
+          "url": "https://super.so/",
+          "title": "Super - Create Custom Websites with Notion"
+        },
+        {
+          "url": "https://www.optimizely.com/legal/opt-out/",
+          "title": "Using query parameters - Optimizely Web Experimentation"
+        },
+        {
+          "url": "https://v-fonts.com/",
+          "title": "Variable Fonts"
+        },
+        {
+          "url": "http://www.tgrmn.com/",
+          "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
+        },
+        {
+          "url": "https://visualstudio.microsoft.com/?utm_source=developermscom",
+          "title": "Visual Studio: IDE and Code Editor for Software Development"
+        },
+        {
+          "url": "https://whispersystems.org/",
+          "title": "Signal >> Home"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "shopping-ecommerce",
+      "bookmarks": [
+        {
+          "url": "http://www.amazon.com/",
+          "title": "Amazon.com"
+        },
+        {
+          "url": "https://www.cnd.com/",
+          "title": "Beauty Supply | Nail Polish | Shellac | Nail Care - Creative Nail Design"
+        },
+        {
+          "url": "https://alfa-lampy.pl/product-pol-18365-Druciana-lampa-kratka-PEKA-miedz-drewno-sr-24cm.html",
+          "title": "Druciana lampa kratka PEKA miedź/drewno śr. 24cm 60419 - marka Alfa Sosnowscy - Phenomena Light"
+        },
+        {
+          "url": "https://www.ae.com/us/en/p/aerie/dresses-skirts/jumpsuits-rompers/aerie-ruched-romper/0713_1356_231",
+          "title": "Jumpsuits for Women | Aerie"
+        },
+        {
+          "url": "https://www.weareknitters.com/knitting-kits",
+          "title": "Knitting kits - We Are Knitters"
+        },
+        {
+          "url": "http://www.magiadivino.it/e-commerce/105_poggio-le-volpi",
+          "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
+        },
+        {
+          "url": "https://lampenhuis.nl/product/367308/",
+          "title": "Plafonnière Luxe School Small Helder Moonlight kopen? Groot assortiment!"
+        },
+        {
+          "url": "https://www.dia.com/",
+          "title": "Plus Size Clothing and Personal Styling for Women | Dia & Co"
+        },
+        {
+          "url": "https://stojizato.sme.sk/s/biggie+smalls+tricko+crown+zena+biela+xxl/",
+          "title": "Recenzie a testy produktov"
+        },
+        {
+          "url": "https://www.joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
+          "title": "Rolling Facial Massager - Joanna Czech"
+        },
+        {
+          "url": "http://samsclub.com/",
+          "title": "Sam's Club - Wholesale Prices on Top Brands"
+        },
+        {
+          "url": "https://shop.samsonite.com/luggage/carry-on-luggage/spinner-underseater-with-usb-port/112934XXXX.html",
+          "title": "Spinner Underseater with USB Port | Luggage | Samsonite"
+        },
+        {
+          "url": "https://statebags.com/",
+          "title": "STATE Bags - Backpacks, Totes and Bags for Women, Men & Kids"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "media-entertainment-personal",
+      "bookmarks": [
+        {
+          "url": "https://cdn.sesamedigital.net/cdn.sesamestreetincommunities.org/SSICStory083_AbbysBrokenWand/index.html",
+          "title": "Abby's Broken Wand"
+        },
+        {
+          "url": "https://angusmon.tumblr.com/",
+          "title": "Angusmon"
+        },
+        {
+          "url": "http://www.beithallelocala.org/rebbitzens-blog/archives/09-2020",
+          "title": "Blog Archives"
+        },
+        {
+          "url": "https://studio-catch.com/category/hollywood-star-fail/",
+          "title": "Hollywood Star Fail - Studio Catch!"
+        },
+        {
+          "url": "https://metaphoricalnerd.tumblr.com/",
+          "title": "@metaphoricalnerd on Tumblr"
+        },
+        {
+          "url": "https://rainbowdash0223.tumblr.com/",
+          "title": "Rainbowdash0223 Design"
+        },
+        {
+          "url": "https://www.splitshire.com/",
+          "title": "SplitShire - Free Stock Photos & Videos"
+        },
+        {
+          "url": "https://kosturanov.com/books/a-star-called-slavica",
+          "title": "A Star Called Slavica - Book Illustrated by Vane Kosturanov"
+        },
+        {
+          "url": "https://gallery.theredmstudio.com/selfie",
+          "title": "The Red M Studio | First Let Me Take a Selfie"
+        },
+        {
+          "url": "https://kathysbee.tumblr.com/",
+          "title": "toss and tumbl"
+        },
+        {
+          "url": "https://www.onkelpoppi.de/vollgepumpt-mit-blei-playerunknowns-battlegrounds-pubg/",
+          "title": "VOLLGEPUMPT mit Blei - PLAYERUNKNOWN'S BATTLEGROUNDS , PUBG - OnkelPoppi"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "legal-policy",
+      "bookmarks": [
+        {
+          "url": "https://allaboutdnt.com/",
+          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
+        },
+        {
+          "url": "https://eur-lex.europa.eu/eli/dir/2009/136/2020-12-21",
+          "title": "EUR-Lex - 02009L0136-20201221 - EN - EUR-Lex"
+        },
+        {
+          "url": "http://www.fandango.com/PrivacyPolicy.aspx",
+          "title": "Fandango | A Message To Our Fans"
+        },
+        {
+          "url": "https://oceanpanel.org/sites/default/files/2020-02/HLP%20Blue%20Paper%20on%20IUU%20Fishing%20and%20Associated%20Drivers.pdf",
+          "title": "High Level Panel for a Sustainable Ocean Economy"
+        },
+        {
+          "url": "https://www.crunchyroll.com/privacy",
+          "title": "PRIVACY AND COOKIES POLICY | Sony Pictures International"
+        },
+        {
+          "url": "http://www.smartstudy.co.kr/privacy/",
+          "title": "Pinkfong Account"
+        },
+        {
+          "url": "https://creativecommons.org/policies#license",
+          "title": "Policies - Creative Commons"
+        },
+        {
+          "url": "https://skinseedapp.com/privacy-policy.html",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "https://www.imo.org/en/OurWork/Legal/Pages/Registration-of-ships-and-fraudulent-registration-matters.aspx",
+          "title": "Registration of ships and fraudulent registration matters"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "travel-hobbies",
       "bookmarks": [
         {
           "url": "https://www.nfl.dfo-mpo.gc.ca/NL/AG/anglersguide",
           "title": "Anglers' Guide 2025-2026"
         },
         {
-          "url": "http://support.groundspeak.com",
-          "title": "Knowledge Books"
+          "url": "https://www.flaquarium.org/",
+          "title": "Explore The Florida Aquarium | Home of Marine Wonders"
+        },
+        {
+          "url": "https://www.bvg.de/de/fahrinfo",
+          "title": "Fahrinfo Berlin - Pläne & Störungen des ÖPNV | BVG"
+        },
+        {
+          "url": "http://haus-anna.eu/Haus-Anna-Ferienwohnung_pid,11489,N,12,y,2021,m,1,type,fbcal.html",
+          "title": "Ferienwohnung - Haus Anna - Kössen in Tirol"
+        },
+        {
+          "url": "https://www.nps.gov/grca/planyourvisit/grand-canyon-national-park-public-health-update.htm",
+          "title": "Grand Canyon National Park Operations Update - Grand Canyon National Park (U.S. National Park Service)"
         },
         {
           "url": "http://pttk.swidnica.pl/kolo-lista.html",
           "title": "Oddział PTTK w Świdnica"
         },
         {
+          "url": "https://www.totallyspain.com/",
+          "title": "Spain & Portugal Travel Agent: Customised Tours | Totally Spain"
+        },
+        {
+          "url": "https://www.ottovo-nakladatelstvi.cz/produkt/stopy-zvere/",
+          "title": "Stopy zvěře |"
+        },
+        {
           "url": "https://modelshipworld.com/topic/13196-beginners-guide-to-rigging/",
           "title": "You are being redirected..."
         }
       ],
-      "count": 4
+      "count": 9
     },
     {
-      "name": "restaurants",
+      "name": "science-research",
       "bookmarks": [
+        {
+          "url": "http://hog-heltau.de/index.php/bilder-archiv-heltau/2-grabsteine/detail/130-bonfert-michael-1869-1938-schachinger-katharina-1878-1948-grabstein?tmpl=component",
+          "title": "Bilder Archiv Heltau"
+        },
+        {
+          "url": "https://www.sare.org/publications/smart-water-use-on-your-farm-or-ranch/soil-management/conservation-tillage/",
+          "title": "Conservation Tillage - SARE"
+        },
+        {
+          "url": "https://northcentral.sare.org/resources/crop-rotation/",
+          "title": "Crop Rotation - SARE North Central"
+        },
+        {
+          "url": "http://www.curavet.com/",
+          "title": "Curavet by Curatronic | PEMF Therapy for Horses"
+        },
+        {
+          "url": "https://covid-19-response.unstatshub.org/data-solutions/",
+          "title": "Data solutions | COVID-19 response"
+        },
+        {
+          "url": "https://payneinstitute.mines.edu/eog/",
+          "title": "Earth Observation Group - Payne Institute for Public Policy"
+        },
+        {
+          "url": "http://www.marineregions.org",
+          "title": "Marine Regions"
+        },
+        {
+          "url": "https://sandiegozoowildlifealliance.org/pr/PPMWorldRecord",
+          "title": "Endangered Mouse Raised by San Diego Zoo Wildlife Alliance Certified by GUINNESS WORLD RECORDS as Oldest Living Mouse in Human Care | San Diego Zoo Wildlife Alliance"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "corporate-brands-services",
+      "bookmarks": [
+        {
+          "url": "https://www.bmw-jordan.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Dealer | Amman | BMW Jordan"
+        },
+        {
+          "url": "https://www.callherdaddy.com/",
+          "title": "Call Her Daddy"
+        },
+        {
+          "url": "https://www.hidive.com",
+          "title": "HIDIVE: Watch Anime Anywhere"
+        },
+        {
+          "url": "https://www.tiktok.com/@people",
+          "title": "Log in | TikTok"
+        },
+        {
+          "url": "http://www.orkut.com/",
+          "title": "orkut"
+        },
+        {
+          "url": "https://www.cbs.com/all-access/?gclsrc=aw.ds&ds_rl=1275739&ref=__iv_p_1_g_15527027287_w_kwd-170170800007_h_9031948_ii__d_c_v__n_g_c_247169935664_l__t__e__r__vi__&ftag=AAM03c5ced&vndid=google$null$null$cbs%20all-access&gclid=Cj0KCQjw-O35BRDVARIsAJU5mQVTLCK4icRnkjUKEZ-C93c1wWu7jikuWBP8wn7UzOUmLKkQM5BH4HsaAqhMEALw_wcB&gclsrc=aw.ds&_ivgu=72a63366-aa5e-4e4d-af63-d7edd32e8fbf",
+          "title": "Paramount+ Italia | Guarda i film e le serie TV online"
+        },
+        {
+          "url": "https://tesla.oemdtc.com/category/recalls",
+          "title": "Recalls | Tesla - OEMDTC"
+        },
+        {
+          "url": "https://news.apple.com/subscription?app=news&at=1010lNxC&ct=JanNewsCommerce23&campaign_id=aff_1010lNxC&itscg=30200&itsct=meredithnews_news",
+          "title": "Subscribe to Apple News+"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "food-dining",
+      "bookmarks": [
+        {
+          "url": "https://www.dbricette.it/links_siti.htm",
+          "title": "DBRicette: Links siti"
+        },
         {
           "url": "https://www.boostjuice.com.au/home_promo/new-nothing-but-passion/",
           "title": "Gabby's Dollhouse - Boost Juice"
@@ -372,671 +624,67 @@
         {
           "url": "https://www.gopapaya.co.in/",
           "title": "PA PA YA test"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-learning-docs",
-      "bookmarks": [
-        {
-          "url": "https://react.dev/learn/referencing-values-with-refs",
-          "title": "Referencing Values with Refs - React"
         },
-        {
-          "url": "https://learn.microsoft.com/en-us/training/azure/",
-          "title": "Training for Azure | Microsoft Learn"
-        },
-        {
-          "url": "https://www.optimizely.com/legal/opt-out/",
-          "title": "Using query parameters - Optimizely Web Experimentation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-tools",
-      "bookmarks": [
-        {
-          "url": "https://crontab.guru/",
-          "title": "Crontab.guru - The cron schedule expression generator"
-        },
-        {
-          "url": "https://www.diffchecker.com/",
-          "title": "Compare text and find differences online or offline - Diffchecker"
-        },
-        {
-          "url": "https://super.so/",
-          "title": "Super - Create Custom Websites with Notion"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "travel-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.bvg.de/de/fahrinfo",
-          "title": "Fahrinfo Berlin - Pläne & Störungen des ÖPNV | BVG"
-        },
-        {
-          "url": "https://www.flaquarium.org/",
-          "title": "Explore The Florida Aquarium | Home of Marine Wonders"
-        },
-        {
-          "url": "https://www.nps.gov/grca/planyourvisit/grand-canyon-national-park-public-health-update.htm",
-          "title": "Grand Canyon National Park Operations Update - Grand Canyon National Park (U.S. National Park Service)"
-        },
-        {
-          "url": "https://www.totallyspain.com/",
-          "title": "Spain & Portugal Travel Agent: Customised Tours | Totally Spain"
-        },
-        {
-          "url": "http://haus-anna.eu/Haus-Anna-Ferienwohnung_pid,11489,N,12,y,2021,m,1,type,fbcal.html",
-          "title": "Ferienwohnung - Haus Anna - Kössen in Tirol"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "agriculture-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.sare.org/publications/smart-water-use-on-your-farm-or-ranch/soil-management/conservation-tillage/",
-          "title": "Conservation Tillage - SARE"
-        },
-        {
-          "url": "https://northcentral.sare.org/resources/crop-rotation/",
-          "title": "Crop Rotation - SARE North Central"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "articles-interviews",
-      "bookmarks": [
-        {
-          "url": "http://voyagetampa.com/interview/inspiring-conversations-with-stephanie-brown-of-the-rosie-network/",
-          "title": "Inspiring Conversations with Stephanie Brown of The Rosie Network - VoyageTampa"
-        },
-        {
-          "url": "https://stiintasitehnica.com/interviu/",
-          "title": "Interviurile S&T - Știință & Tehnică"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "arts-books",
-      "bookmarks": [
-        {
-          "url": "https://kosturanov.com/books/a-star-called-slavica",
-          "title": "A Star Called Slavica - Book Illustrated by Vane Kosturanov"
-        },
-        {
-          "url": "https://www.ottovo-nakladatelstvi.cz/produkt/stopy-zvere/",
-          "title": "Stopy zvěře |"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-organizations",
-      "bookmarks": [
-        {
-          "url": "https://www.blackchamber.com/",
-          "title": "Silicon Valley Black Chamber of Commerce"
-        },
-        {
-          "url": "https://www.ukibc.com/",
-          "title": "UK India Business Council"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "career-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.dotdashmeredith.com/careers/",
-          "title": "Career Opportunties | People Inc"
-        },
-        {
-          "url": "https://traininginelectrical.co.uk/blog/ever-considered-a-career-as-an-electrical-installation-testing-engineer",
-          "title": "Ever considered a career as an Electrical Installation Testing Engineer? : Training in Electrical"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "design-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.sketchappsources.com/",
-          "title": "Sketch App Sources - New free design resources - Icons, UI Kits, Wireframes, iOS, Android Templates"
-        },
-        {
-          "url": "https://v-fonts.com/",
-          "title": "Variable Fonts"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "forums-music",
-      "bookmarks": [
-        {
-          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
-          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "forums-tech",
-      "bookmarks": [
-        {
-          "url": "http://forums.mozillazine.org/memberlist.php?mode=viewprofile&u=2810765&sid=7cac7c39176ab83cff183912786ae84d",
-          "title": "Making sure you're not a bot!"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "legal-resources",
-      "bookmarks": [
-        {
-          "url": "https://creativecommons.org/policies#license",
-          "title": "Policies - Creative Commons"
-        },
-        {
-          "url": "https://eur-lex.europa.eu/eli/dir/2009/136/2020-12-21",
-          "title": "EUR-Lex - 02009L0136-20201221 - EN - EUR-Lex"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "photography",
-      "bookmarks": [
-        {
-          "url": "https://www.behindtheshutter.com",
-          "title": "Behind the Shutter - Free Photography Training and Education"
-        },
-        {
-          "url": "https://www.splitshire.com/",
-          "title": "SplitShire - Free Stock Photos & Videos"
-        },
-        {
-          "url": "https://gallery.theredmstudio.com/selfie",
-          "title": "The Red M Studio | First Let Me Take a Selfie"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "science-resources",
-      "bookmarks": [
-        {
-          "url": "https://payneinstitute.mines.edu/eog/",
-          "title": "Earth Observation Group - Payne Institute for Public Policy"
-        },
-        {
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3",
-          "title": "ESA - Sentinel-3"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-ecommerce",
-      "bookmarks": [
-        {
-          "url": "http://www.amazon.com/",
-          "title": "Amazon.com"
-        },
-        {
-          "url": "http://samsclub.com/",
-          "title": "Sam's Club - Wholesale Prices on Top Brands"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-home",
-      "bookmarks": [
-        {
-          "url": "https://alfa-lampy.pl/product-pol-18365-Druciana-lampa-kratka-PEKA-miedz-drewno-sr-24cm.html",
-          "title": "Druciana lampa kratka PEKA miedź/drewno śr. 24cm 60419 - marka Alfa Sosnowscy - Phenomena Light"
-        },
-        {
-          "url": "https://lampenhuis.nl/product/367308/",
-          "title": "Plafonnière Luxe School Small Helder Moonlight kopen? Groot assortiment!"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "social-media-profiles",
-      "bookmarks": [
-        {
-          "url": "https://www.tiktok.com/@people",
-          "title": "Log in | TikTok"
-        },
-        {
-          "url": "https://profiles.wordpress.org/mediabahez/",
-          "title": "mediabahez (@mediabahez) - WordPress user profile | WordPress.org"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "streaming-services",
-      "bookmarks": [
-        {
-          "url": "https://www.hidive.com",
-          "title": "HIDIVE: Watch Anime Anywhere"
-        },
-        {
-          "url": "https://www.cbs.com/all-access/?gclsrc=aw.ds&ds_rl=1275739&ref=__iv_p_1_g_15527027287_w_kwd-170170800007_h_9031948_ii__d_c_v__n_g_c_247169935664_l__t__e__r__vi__&ftag=AAM03c5ced&vndid=google$null$null$cbs%20all-access&gclid=Cj0KCQjw-O35BRDVARIsAJU5mQVTLCK4icRnkjUKEZ-C93c1wWu7jikuWBP8wn7UzOUmLKkQM5BH4HsaAqhMEALw_wcB&gclsrc=aw.ds&_ivgu=72a63366-aa5e-4e4d-af63-d7edd32e8fbf",
-          "title": "Paramount+ Italia | Guarda i film e le serie TV online"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "sustainability-resources",
-      "bookmarks": [
-        {
-          "url": "https://clearloop.us/2021/03/02/watttime-partnership/",
-          "title": "Clearloop Partners with WattTime to Verify Avoided Carbon Emissions"
-        },
-        {
-          "url": "https://oceanpanel.org/sites/default/files/2020-02/HLP%20Blue%20Paper%20on%20IUU%20Fishing%20and%20Associated%20Drivers.pdf",
-          "title": "High Level Panel for a Sustainable Ocean Economy"
-        },
-        {
-          "url": "https://www.walmartsustainabilityhub.com/project-gigaton/forests",
-          "title": "Walmart Sustainability Hub"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "video-talks",
-      "bookmarks": [
-        {
-          "url": "https://www.ted.com/talks/enric_sala_let_s_turn_the_high_seas_into_the_world_s_largest_nature_reserve?rss",
-          "title": "Enric Sala: Let's turn the high seas into the world's largest nature reserve | TED Talk"
-        },
-        {
-          "url": "https://g2ul0.app.link/GL?trk=organization_guest_main-feed-card_reshare-text",
-          "title": "Learn with Steven Bartlett - YouTube"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "animal-health",
-      "bookmarks": [
-        {
-          "url": "http://www.curavet.com/",
-          "title": "Curavet by Curatronic | PEMF Therapy for Horses"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "art-portfolio",
-      "bookmarks": [
-        {
-          "url": "https://studio-catch.com/category/hollywood-star-fail/",
-          "title": "Hollywood Star Fail - Studio Catch!"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "articles-entertainment",
-      "bookmarks": [
-        {
-          "url": "http://www.cosmopolitan.co.uk/entertainment/news/a34598/idris-elba-dad-quotes-winston-isan/",
-          "title": "What Idris Elba has to say about being a dad will melt your heart"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "brand-automotive",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-jordan.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Dealer | Amman | BMW Jordan"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "ecommerce-resources",
-      "bookmarks": [
-        {
-          "url": "https://sell.amazon.com/programs/black-business-accelerator",
-          "title": "Amazon selling programs | Sell on Amazon"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "film-reviews",
-      "bookmarks": [
-        {
-          "url": "https://fantasticmoviemusings.com/2021/05/11/education-for-death-the-making-of-a-nazi-1943/",
-          "title": "Education for Death: The Making of a Nazi (1943) | Fantastic Movie Musings and Ramblings"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "finance-organizations",
-      "bookmarks": [
-        {
-          "url": "https://www.miga.org/",
-          "title": "Homepage | World Bank Group Guarantees | MIGA"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "finance-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.jbr.nl/begrippen/debt-advisory/",
-          "title": "Debt Advisory - JBR"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "food-blogs",
-      "bookmarks": [
         {
           "url": "http://www.grandvoyageitaly.com/piazza/pizza-emergency-kit-hey-you-never-know",
           "title": "Pizza Emergency Kit: Hey, You Never Know... - GRAND VOYAGE ITALY"
         }
       ],
-      "count": 1
+      "count": 5
     },
     {
-      "name": "food-resources",
+      "name": "support-forums",
       "bookmarks": [
         {
-          "url": "https://www.dbricette.it/links_siti.htm",
-          "title": "DBRicette: Links siti"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "gaming-content",
-      "bookmarks": [
+          "url": "https://forums.att.com/",
+          "title": "AT&T Digital Resources & Answers - Community Forums has Sunset"
+        },
         {
-          "url": "https://www.onkelpoppi.de/vollgepumpt-mit-blei-playerunknowns-battlegrounds-pubg/",
-          "title": "VOLLGEPUMPT mit Blei - PLAYERUNKNOWN'S BATTLEGROUNDS , PUBG - OnkelPoppi"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "history-articles",
-      "bookmarks": [
+          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
+          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
+        },
         {
-          "url": "https://www.history.com/topics/1960s/watts-riots",
-          "title": "Homepage | HISTORY CHANNEL ITALIA"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "kids-entertainment",
-      "bookmarks": [
+          "url": "http://support.groundspeak.com",
+          "title": "Knowledge Books"
+        },
         {
-          "url": "https://cdn.sesamedigital.net/cdn.sesamestreetincommunities.org/SSICStory083_AbbysBrokenWand/index.html",
-          "title": "Abby's Broken Wand"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "music-reviews",
-      "bookmarks": [
-        {
-          "url": "https://linnemagazine.com/2021/07/28/si-tu-amigue-te-pide-mas-lofi-y-dream-pop-pasale-lo-nuevo-de-classic-park-paula-pera-y-moriras-lejos/",
-          "title": "Si tu amigue te pide más lofi y dream pop, pásale lo nuevo de Classic Park, Paula Pera y Morirás Lejos | LINNE"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "news-sources",
-      "bookmarks": [
-        {
-          "url": "https://www.aljazeera.com/economy/",
-          "title": "Economy | Today's latest from Al Jazeera"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "online-safety",
-      "bookmarks": [
-        {
-          "url": "https://www.missingkids.org/netsmartz",
-          "title": "NetSmartz Home"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "parenting-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.metrokids.com/education-shifts-at-ages-3-5/",
-          "title": "IDEA Creates Transition from Early Intervention to Schools at Age 3"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "philosophy-literature",
-      "bookmarks": [
-        {
-          "url": "https://avodaf.org/2018/11/23/storia-della-sessualita-michel-foucault/",
-          "title": "Storia della sessualità- Michel Foucault - AvoDaf"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "podcasts",
-      "bookmarks": [
-        {
-          "url": "https://www.callherdaddy.com/",
-          "title": "Call Her Daddy"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "psychology-selfhelp",
-      "bookmarks": [
-        {
-          "url": "https://www.psicologiaclinicamsf.com/2021/07/dibujando-tu-futuro.html",
-          "title": "DIBUJANDO TU FUTURO"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-automotive",
-      "bookmarks": [
-        {
-          "url": "https://tesla.oemdtc.com/category/recalls",
-          "title": "Recalls | Tesla - OEMDTC"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-biography",
-      "bookmarks": [
-        {
-          "url": "https://www.imdb.com/name/nm0115202/bio",
-          "title": "Ricou Browning - Biography - IMDb"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-maritime",
-      "bookmarks": [
-        {
-          "url": "https://www.imo.org/en/OurWork/Legal/Pages/Registration-of-ships-and-fraudulent-registration-matters.aspx",
-          "title": "Registration of ships and fraudulent registration matters"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "religion-spirituality",
-      "bookmarks": [
-        {
-          "url": "http://www.beithallelocala.org/rebbitzens-blog/archives/09-2020",
-          "title": "Blog Archives"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping-crafts",
-      "bookmarks": [
-        {
-          "url": "https://www.weareknitters.com/knitting-kits",
-          "title": "Knitting kits - We Are Knitters"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping-food-drink",
-      "bookmarks": [
-        {
-          "url": "http://www.magiadivino.it/e-commerce/105_poggio-le-volpi",
-          "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping-travel",
-      "bookmarks": [
-        {
-          "url": "https://shop.samsonite.com/luggage/carry-on-luggage/spinner-underseater-with-usb-port/112934XXXX.html",
-          "title": "Spinner Underseater with USB Port | Luggage | Samsonite"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "subscription-services",
-      "bookmarks": [
-        {
-          "url": "https://news.apple.com/subscription?app=news&at=1010lNxC&ct=JanNewsCommerce23&campaign_id=aff_1010lNxC&itscg=30200&itsct=meredithnews_news",
-          "title": "Subscribe to Apple News+"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-blogs",
-      "bookmarks": [
-        {
-          "url": "https://officialandroid.blogspot.com/",
-          "title": "Official Android news and updates | Google Blog"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-certification",
-      "bookmarks": [
-        {
-          "url": "https://webassessor.com/googlecloud",
-          "title": "Ready to start?"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-privacy",
-      "bookmarks": [
-        {
-          "url": "https://allaboutdnt.com/",
-          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-repositories",
-      "bookmarks": [
-        {
-          "url": "https://mirror.ufam.edu.br/archlinux/core/?C=D;O=A",
-          "title": "Index of /archlinux/core"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-reviews",
-      "bookmarks": [
-        {
-          "url": "https://stojizato.sme.sk/s/biggie+smalls+tricko+crown+zena+biela+xxl/",
-          "title": "Recenzie a testy produktov"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-status-pages",
-      "bookmarks": [
+          "url": "http://forums.mozillazine.org/memberlist.php?mode=viewprofile&u=2810765&sid=7cac7c39176ab83cff183912786ae84d",
+          "title": "Making sure you're not a bot!"
+        },
         {
           "url": "https://medium.statuspage.io/?source=home-------------------------------------",
           "title": "Medium Status"
         }
       ],
-      "count": 1
+      "count": 5
     },
     {
-      "name": "web-history",
+      "name": "misc-general",
       "bookmarks": [
         {
-          "url": "http://www.orkut.com/",
-          "title": "orkut"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "wildlife-conservation",
-      "bookmarks": [
+          "url": "https://baroulmehedinti.ro/avocati/stancu-dimitrie-lucian",
+          "title": "Baroul Mehedinţi"
+        },
         {
-          "url": "https://sandiegozoowildlifealliance.org/pr/PPMWorldRecord",
-          "title": "Endangered Mouse Raised by San Diego Zoo Wildlife Alliance Certified by GUINNESS WORLD RECORDS as Oldest Living Mouse in Human Care | San Diego Zoo Wildlife Alliance"
+          "url": "http://dabdeveloper.wixsite.com/dabdeveloper/contact",
+          "title": "Contact | dabdeveloper"
+        },
+        {
+          "url": "https://poweroutage.us/area/state/michigan",
+          "title": "Michigan Power Outage Map, October 2025"
+        },
+        {
+          "url": "https://profiles.wordpress.org/mediabahez/",
+          "title": "mediabahez (@mediabahez) - WordPress user profile | WordPress.org"
+        },
+        {
+          "url": "https://www.imdb.com/name/nm0115202/bio",
+          "title": "Ricou Browning - Biography - IMDb"
         }
       ],
-      "count": 1
+      "count": 5
     }
   ],
   "total_bookmarks": 151,
-  "num_folders": 72
+  "num_folders": 14
 }

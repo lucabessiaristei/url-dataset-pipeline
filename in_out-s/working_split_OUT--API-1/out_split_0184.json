@@ -1,26 +1,586 @@
 {
   "folders": [
     {
-      "name": "misc-utility",
+      "name": "non-profit-community-advocacy",
       "bookmarks": [
+        {
+          "url": "https://aabdc.com",
+          "title": "Home | AABDC"
+        },
+        {
+          "url": "https://achelisbodman.org",
+          "title": "Achelis & Bodman Foundation"
+        },
+        {
+          "url": "https://aicho.org",
+          "title": "AICHO - Home"
+        },
+        {
+          "url": "https://amendtogether.org",
+          "title": "AMEND Together"
+        },
+        {
+          "url": "https://cansouthasia.net",
+          "title": "CANSA | Home - Climate Action Network South Asia"
+        },
+        {
+          "url": "https://coloradoblackchamber.org",
+          "title": "Colorado Black Chamber of Commerce | Minority Entrepreneurs | Denver, CO"
+        },
+        {
+          "url": "https://teamfeed.feedingamerica.org/index.cfm?fuseaction=cms.page&id=1041",
+          "title": "Fundraise to Fight Hunger"
+        },
+        {
+          "url": "https://fishwise.org",
+          "title": "Home - Fishwise"
+        },
+        {
+          "url": "https://fundtexaschoice.org",
+          "title": "Fund Texas Choice | Funding Texans' Travel to Abortion Clinics"
+        },
         {
           "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
           "title": "Stay in Touch"
         },
         {
-          "url": "https://help.samsclub.com/app/answers/detail/a_id/354?xid=ftr:shipping-faqs",
+          "url": "https://minnesotanonprofits.org",
+          "title": "Minnesota Council of Nonprofits"
+        },
+        {
+          "url": "https://foundation.mozilla.org",
+          "title": "Welcome to Mozilla Foundation - Mozilla Foundation"
+        },
+        {
+          "url": "https://naacp.org/act-so",
+          "title": "ACT-SO Achievement Program"
+        },
+        {
+          "url": "https://oaacc.org",
+          "title": "HOME -"
+        },
+        {
+          "url": "https://unitedforwildlife.org",
+          "title": "United for Wildlife - Ending the Illegal Wildlife Trade - United for Wildlife"
+        }
+      ],
+      "count": 15
+    },
+    {
+      "name": "e-commerce-fashion-beauty",
+      "bookmarks": [
+        {
+          "url": "https://aeropostale.com",
+          "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
+        },
+        {
+          "url": "https://sell.amazon.com/programs/black-business-accelerator",
+          "title": "Amazon selling programs | Sell on Amazon"
+        },
+        {
+          "url": "https://backcountry.com/helly-hansen-powderqueen-bib-pant-womens",
+          "title": "Backcountry is not available"
+        },
+        {
+          "url": "https://clarinsusa.com/en/instant-eye-make-up-remover/01183100.html",
+          "title": "Clarins Eye Makeup Removers | CLARINS®"
+        },
+        {
+          "url": "https://honest.com/beauty-products/makeup/extreme-length-mascara-and-lash-primer/B02MASV3NOFLS.html",
+          "title": "Extreme Length Mascara & Lash Primer - 1 Pack"
+        },
+        {
+          "url": "https://kosas.com/products/lipfuel",
+          "title": "LipFuel Lip Balm | Kosas Cosmetics"
+        },
+        {
+          "url": "https://mochu.com.tw/products/%E8%B2%B4%E6%97%8F%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%A5%97%E8%A3%99",
+          "title": "Mochu童裝"
+        },
+        {
+          "url": "https://help.samsclub.com/app/answers/detail/a_id/354",
           "title": "Shipping FAQ"
         },
         {
-          "url": "https://service.elsevier.com/app/overview/cell-press/",
-          "title": "Cell Press Support Center"
+          "url": "https://stevemadden.in",
+          "title": "Steve Madden India | Shoes, Boots, Handbags & More"
         },
         {
-          "url": "https://www.investormeetcompany.com/kodal-minerals-plc/register-investor",
+          "url": "https://vrai.com/how-to-buy-diamonds",
+          "title": "How to Buy Diamonds | VRAI created diamonds"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "entertainment-media-culture",
+      "bookmarks": [
+        {
+          "url": "https://cinemablend.com/news/1660840/the-craft-remake-is-getting-off-the-ground",
+          "title": "The Craft Remake Is Getting Off The Ground | Cinemablend"
+        },
+        {
+          "url": "https://dailymail.co.uk/tvshowbiz/fb-10596755/Selma-Blair-Dating-History.html",
+          "title": "Selma Blair Dating History | Daily Mail Online"
+        },
+        {
+          "url": "https://dollyave.com",
+          "title": "Dolly Ave"
+        },
+        {
+          "url": "https://adweek.com/media/you-better-drink-the-team-behind-rupauls-drag-race-launches-canned-cocktails/",
+          "title": "Team Behind RuPaul's Drag Race Launches Canned Cocktails"
+        },
+        {
+          "url": "https://fandango.com/mobilemovietickets",
+          "title": "Fandango | A Message To Our Fans"
+        },
+        {
+          "url": "https://hollywoodreporter.com",
+          "title": "The Hollywood Reporter - Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter."
+        },
+        {
+          "url": "https://spr.ly/IMDbApp_iOS",
+          "title": "‎IMDb App: iPhone & iPad | IMDb Community Forums"
+        },
+        {
+          "url": "https://marvel.com/articles/tv-shows/loki-he-who-remains-jonathan-majors",
+          "title": "'Loki': Meet the Man Behind the Curtain, He Who Remains | Marvel"
+        },
+        {
+          "url": "https://nickjr.com/appsupport",
+          "title": "Nickelodeon Italia | Homepage"
+        },
+        {
+          "url": "https://blog.sonicbids.com/3-surefire-ways-to-stay-healthy-on-tour",
+          "title": "3 Surefire Ways to Stay Healthy on Tour"
+        },
+        {
+          "url": "https://spotify.com",
+          "title": "Spotify - Web Player: Music for everyone"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "ai-ml-software-tools",
+      "bookmarks": [
+        {
+          "url": "https://appypie.com",
+          "title": "Best AI No-Code Development Platform for Apps and Websites"
+        },
+        {
+          "url": "https://rulequest.com/Personal",
+          "title": "Ross Quinlan's personal homepage"
+        },
+        {
+          "url": "https://designs.ai",
+          "title": "Designs AI - Free Online Logo, Image, AI Chat Videos & Voice Generator"
+        },
+        {
+          "url": "https://mathworld.wolfram.com/FastFourierTransform.html",
+          "title": "Fast Fourier Transform -- from Wolfram MathWorld"
+        },
+        {
+          "url": "https://glideapps.com",
+          "title": "No Code App Builder: Create Custom, AI-Powered Apps | Glide"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Mockup-Plugin-4d94d59a10b14d30ba4e76fc8d307501",
+          "title": "Notion"
+        },
+        {
+          "url": "https://docs.llamaindex.ai/en/stable",
+          "title": "Welcome to LlamaIndex 🦙 ! | LlamaIndex Python Documentation"
+        },
+        {
+          "url": "https://optuna.readthedocs.io/en/stable/reference/generated/optuna.study.Study.html",
+          "title": "optuna.study.Study - Optuna 4.5.0 documentation"
+        },
+        {
+          "url": "https://winreality.com/win-reality-vr",
+          "title": "VR + AI Baseball & Softball Training"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "business-finance-corporate",
+      "bookmarks": [
+        {
+          "url": "https://books.apple.com/book-series/id1469981073",
+          "title": "‎Enterprise Blueprint - Book Series on Apple Books"
+        },
+        {
+          "url": "https://ca.linkedin.com/company/capitalg",
+          "title": "CapitalG | LinkedIn"
+        },
+        {
+          "url": "https://investormeetcompany.com/kodal-minerals-plc/register-investor",
           "title": "Investor Meet Company"
         },
         {
+          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
+          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
+        },
+        {
+          "url": "https://novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=92023",
+          "title": "News Details"
+        },
+        {
+          "url": "https://nobelprize.org/prizes/economic-sciences/2019/duflo/facts",
+          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-reports-analysis",
+      "bookmarks": [
+        {
+          "url": "https://adage.com",
+          "title": "Advertising, Marketing, Media and Tech News - Ad Age"
+        },
+        {
+          "url": "https://city-data.com/poverty/poverty-Camden-New-Jersey.html",
+          "title": "Camden, New Jersey (NJ) poverty rate data - information about poor and low-income residents living in this city"
+        },
+        {
+          "url": "https://eltiempo.com/archivo/documento/CMS-16590901",
+          "title": "Influencia del entorno urbano en la salud del hombre"
+        },
+        {
+          "url": "https://trends.google.com/trends",
+          "title": "Google Trends"
+        },
+        {
+          "url": "https://lemonde.fr/politique",
+          "title": "Politique - Actualités, vidéos et infos en direct"
+        },
+        {
+          "url": "https://blog.ted.com",
+          "title": "TED Blog: Further reading on ideas worth spreading"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "automotive-vehicles-parts",
+      "bookmarks": [
+        {
+          "url": "https://bmw.com.co/es/index.html",
+          "title": "Tienda BMW Colombia: Carros y Accesorios - BMW Shop Colombia"
+        },
+        {
+          "url": "https://isuzu.oemdtc.com",
+          "title": "Isuzu - OEMDTC"
+        },
+        {
+          "url": "https://kiwicarparts.co.nz/products/volkswagen-golf-mk5-left-side-clip-on-mirror-glass",
+          "title": "Mirror Glass For VW Golf MK5 2005 - 2009 LEFT Convex With Blind Spot Z - KIWI CAR PARTS"
+        },
+        {
+          "url": "https://oemdtc.com/category/recalls",
+          "title": "Recall - Unknown Manufacturer"
+        },
+        {
+          "url": "https://ponyclassic.com/brand/12-total-control-products",
+          "title": "TOTAL CONTROL PRODUCTS"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "creative-arts-design",
+      "bookmarks": [
+        {
+          "url": "https://darkhouroftokyo.tumblr.com",
+          "title": "@darkhouroftokyo on Tumblr"
+        },
+        {
+          "url": "https://monsterone.com",
+          "title": "MonsterONE - Download 548000+ Digital Products Unlimited"
+        },
+        {
+          "url": "https://foro.novenadimension.com/threads/mark-brook-recopilacion-de-su-arte-x-men-1-parte.46620",
+          "title": "Mark Brook recopilacion de su arte X-Men 1 parte | La Novena Dimensión"
+        },
+        {
+          "url": "https://theartguy.tumblr.com",
+          "title": "The Art Guy"
+        },
+        {
+          "url": "https://undraw.co",
+          "title": "unDraw - Open source illustrations for any idea"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://doee.dc.gov/service/battery-stewardship-producers",
+          "title": "Battery Stewardship: Producers | doee"
+        },
+        {
+          "url": "https://networkadvertising.org",
+          "title": "Home - NAI: Network Advertising Initiative"
+        },
+        {
+          "url": "https://opendata.paris.fr",
+          "title": "Home - Paris Data"
+        },
+        {
+          "url": "https://privacyinternational.org/search",
+          "title": "Privacy International | Search"
+        },
+        {
+          "url": "https://sba.gov",
+          "title": "Small Business Administration"
+        },
+        {
+          "url": "https://vaccines.gov/search",
+          "title": "Find pharmacies near you"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "science-earth-environment",
+      "bookmarks": [
+        {
+          "url": "https://es.mongabay.com/2022/06/panama-una-bandera-de-conveniencia-para-la-pesca-ilegal-oceanos/",
+          "title": "Panamá, una bandera de conveniencia para la pesca ilegal y el descontrol en altamar"
+        },
+        {
+          "url": "https://hubocean.earth/press/news/kjell-inge-takes-on-a-high-level-role-to-support-the-un-decade-of-ocean-science",
+          "title": "Norwegian industry builder Kjell Inge Røkke takes on a high-level role to support the UN Decade of Ocean Science and unlock industrial ocean data - HUB Ocean | Dedicated to Unlocking Ocean Data"
+        },
+        {
+          "url": "https://landsat.gsfc.nasa.gov",
+          "title": "Landsat Science"
+        },
+        {
+          "url": "https://woods.stanford.edu",
+          "title": "Stanford Woods Institute for the Environment"
+        },
+        {
+          "url": "https://viirsland.gsfc.nasa.gov",
+          "title": "VIIRS Land Team"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-stem-resources",
+      "bookmarks": [
+        {
+          "url": "https://afrotech.com/spelman-college-smash-cohort-program",
+          "title": "Spelman College Teams Up With SMASH To Increase The Number Of WOC In STEM - AfroTech"
+        },
+        {
+          "url": "https://all-science-fair-projects.com",
+          "title": "1000+ Science Fair Projects with Videos for All Grades"
+        },
+        {
+          "url": "https://cite-sciences.fr/home_flash/index.html",
+          "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
+        },
+        {
+          "url": "https://webqc.org",
+          "title": "Chemical Portal - Chemistry Online Education"
+        },
+        {
+          "url": "https://service.elsevier.com/app/overview/cell-press",
+          "title": "Cell Press Support Center"
+        },
+        {
+          "url": "https://academicaffairs.ucsc.edu/accreditation",
+          "title": "Accreditation - Academic Affairs"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "gaming-modding-platforms",
+      "bookmarks": [
+        {
+          "url": "https://forums.empiresmod.com/index.php?threads/test-please-ignore.17006",
+          "title": "test please ignore | Empires Mod"
+        },
+        {
+          "url": "https://interordi.com/en/apps/mc_plugins.php",
+          "title": "Minecraft plugins - Interordi"
+        },
+        {
+          "url": "https://shuajota.com/2021/11/nba-2k22-space-jam-new-legacy-100-free.html",
+          "title": "NBA 2K22 Space Jam: A New Legacy (100% Free Mods) by AGP2K"
+        },
+        {
+          "url": "https://xbox.com",
+          "title": "Sito ufficiale Xbox: console, giochi e community | Xbox"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "hobbies-crafts-diy",
+      "bookmarks": [
+        {
+          "url": "https://aquaticplantcentral.com/forumapc",
+          "title": "Aquatic Plant Forum"
+        },
+        {
+          "url": "https://dakkadakka.com/wiki/en/Painting_Guide",
+          "title": "Painting Guide - Articles - DakkaDakka"
+        },
+        {
+          "url": "https://ravelry.com/patterns/sources/the-crochet-project",
+          "title": "Ravelry: The Crochet Project - patterns"
+        },
+        {
+          "url": "https://sprayer-outlet.com/Landscapers-Select-48-oz-Handheld-Pump-Sprayer.htm",
+          "title": "Landscapers Select 1 1/2 Quart Handheld Garden Sprayer - Insecticide Sprayer | Sprayer Outlet"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "photography-resources-portfolios",
+      "bookmarks": [
+        {
+          "url": "https://du-ciel.com/wordpress/wpg2?g2_itemId=3979",
+          "title": "Thomas Sagory »"
+        },
+        {
+          "url": "https://lumix-forum.de/search.php",
+          "title": "Lumix-Forum - der Treffpunkt für Lumix-Nutzer - Unbeantwortete Themen"
+        },
+        {
+          "url": "https://popphoto.com",
+          "title": "Popular Photography: Techniques and How-Tos, Camera Reviews"
+        },
+        {
+          "url": "https://tomhull.co.uk",
+          "title": "Tom Hull - photographic artist"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "travel-tourism-hospitality",
+      "bookmarks": [
+        {
+          "url": "https://hilton.com/en/hotels/laxbhhh-the-beverly-hilton",
+          "title": "Luxury Rooms & Suites | Beverly Hilton Hotel - Official Site"
+        },
+        {
+          "url": "https://stephane-gavoye.fr/tag/rhones-alpes",
+          "title": "Rhônes-Alpes - Stéphane Gavoye"
+        },
+        {
+          "url": "https://trainline.eu",
+          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
+        },
+        {
+          "url": "https://whatsupcams.com/fr/webcams/italie/frioul-venetie-julienne/gorizia-fr/borgo-antica-contea-gusti-di-frontiera",
+          "title": "Borgo Antica Contea - Gusti di Frontiera - WhatsUpCams - LIVE webcams"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "general-reference-misc",
+      "bookmarks": [
+        {
+          "url": "https://bitcoinwisdom.io/markets/bitstamp/xrpusdt",
+          "title": "Bitstamp XRP/USDT - XRP to Tether Charts."
+        },
+        {
+          "url": "https://celebrityvoicechanger.com/privacy",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "https://claytoncobb.com",
+          "title": "Clayton's SharePoint Madness"
+        },
+        {
+          "url": "https://grandfamilies.org/State-Fact-Sheets",
+          "title": "GrandFacts Fact Sheets"
+        },
+        {
+          "url": "https://howwemakemoney.withgoogle.com",
+          "title": "How Google Makes Money with Advertising | Google Public Policy"
+        },
+        {
+          "url": "https://investormeetcompany.com/kodal-minerals-plc/register-investor",
+          "title": "Investor Meet Company"
+        },
+        {
+          "url": "https://maderasdesudamerica.com/album/fotogaleria-maderasudamerica-oficina-de-comercio-internacional-en-maderas-tropicales/a2-jpg",
+          "title": "2.jpg :: COEX SUDAMERICA TRADING"
+        },
+        {
+          "url": "https://ma.tt",
+          "title": "Matt Mullenweg | Unlucky in Cards"
+        },
+        {
+          "url": "https://milb.com/player/matt-pobereyko-670946",
+          "title": "Matt Pobereyko Stats, Age, Position, Height, Weight, Fantasy & News | MiLB.com"
+        },
+        {
+          "url": "https://api.whatsapp.com/send",
+          "title": "Share on WhatsApp"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "home-services-diy",
+      "bookmarks": [
+        {
+          "url": "https://kostentuinonderhoud.nl/zeeland/grijpskerke",
+          "title": "Kosten Tuinonderhoud Grijpskerke"
+        },
+        {
+          "url": "https://relocationmoverservices.com",
+          "title": "RMS Third Party Moving Services"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "legal-privacy-guidelines",
+      "bookmarks": [
+        {
+          "url": "https://celebrityvoicechanger.com/privacy",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "https://law.cornell.edu/supct/html/90-1014.ZO.html",
+          "title": "Lee v. Weisman, 505 U.S. 577 (1992)."
+        },
+        {
+          "url": "https://nasa.gov/multimedia/guidelines/index.html",
+          "title": "Guidelines for using NASA Images and Media Guidelines"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "online-info-reference",
+      "bookmarks": [
+        {
           "url": "https://go.pardot.com/l/946233/2021-10-01/9b9rx",
+          "title": "void"
+        },
+        {
+          "url": "https://sacred-texts.com/tarot/pkt/index.htm",
+          "title": "The Pictorial Key to the Tarot Index | Sacred Texts Archive"
+        },
+        {
+          "url": "https://ten35.com",
           "title": "void"
         },
         {
@@ -28,809 +588,37 @@
           "title": "Working..."
         }
       ],
-      "count": 6
-    },
-    {
-      "name": "org-business",
-      "bookmarks": [
-        {
-          "url": "https://aabdc.com/",
-          "title": "Home | AABDC"
-        },
-        {
-          "url": "https://www.coloradoblackchamber.org/",
-          "title": "Colorado Black Chamber of Commerce | Minority Entrepreneurs | Denver, CO"
-        },
-        {
-          "url": "https://www.networkadvertising.org",
-          "title": "Home - NAI: Network Advertising Initiative"
-        },
-        {
-          "url": "https://www.minnesotanonprofits.org/",
-          "title": "Minnesota Council of Nonprofits"
-        },
-        {
-          "url": "https://oaacc.org/",
-          "title": "HOME -"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "people-blogs-portfolio",
-      "bookmarks": [
-        {
-          "url": "https://darkhouroftokyo.tumblr.com/",
-          "title": "@darkhouroftokyo on Tumblr"
-        },
-        {
-          "url": "https://claytoncobb.com/?replytocom=591",
-          "title": "Clayton's SharePoint Madness"
-        },
-        {
-          "url": "https://ma.tt/",
-          "title": "Matt Mullenweg | Unlucky in Cards"
-        },
-        {
-          "url": "http://www.rulequest.com/Personal/",
-          "title": "Ross Quinlan's personal homepage"
-        },
-        {
-          "url": "https://blog.ted.com",
-          "title": "TED Blog: Further reading on ideas worth spreading"
-        },
-        {
-          "url": "https://tomhull.co.uk",
-          "title": "Tom Hull - photographic artist"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "shopping-apparel-beauty",
-      "bookmarks": [
-        {
-          "url": "https://www.clarinsusa.com/en/instant-eye-make-up-remover/01183100.html",
-          "title": "Clarins Eye Makeup Removers | CLARINS®"
-        },
-        {
-          "url": "https://www.honest.com/beauty-products/makeup/extreme-length-mascara-and-lash-primer/B02MASV3NOFLS.html",
-          "title": "Extreme Length Mascara & Lash Primer - 1 Pack"
-        },
-        {
-          "url": "https://kosas.com/products/lipfuel?variant=32907926995001",
-          "title": "LipFuel Lip Balm | Kosas Cosmetics"
-        },
-        {
-          "url": "http://www.aeropostale.com/",
-          "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
-        },
-        {
-          "url": "https://www.stevemadden.in/",
-          "title": "Steve Madden India | Shoes, Boots, Handbags & More"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "business-marketing-ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://sell.amazon.com/programs/black-business-accelerator",
-          "title": "Amazon selling programs | Sell on Amazon"
-        },
-        {
-          "url": "https://howwemakemoney.withgoogle.com/",
-          "title": "How Google Makes Money with Advertising | Google Public Policy"
-        },
-        {
-          "url": "https://www.agencyjr.com/post/i-audited-351-klaviyo-accounts-here-are-my-11-takeaways-to-help-you-sell-more",
-          "title": "I Audited 351+ Klaviyo Accounts, Here Are My 11 Takeaways To Help You Sell More | agencyJR"
-        },
-        {
-          "url": "https://www.ten35.com/",
-          "title": "void"
-        }
-      ],
       "count": 4
     },
     {
-      "name": "hobby",
+      "name": "sports-betting-odds",
       "bookmarks": [
         {
-          "url": "https://www.aquaticplantcentral.com/forumapc/",
-          "title": "Aquatic Plant Forum"
+          "url": "https://crosstownfitness.com",
+          "title": "Chicago Gym | Chicago HIIT Group Fitness | Chicago Personal Training"
         },
         {
-          "url": "https://www.jcwoodworking.com/to-jeremy-with-love-your-sister-sarah/",
-          "title": "To Jeremy, With Love, your sister Sarah - JC Woodworking"
-        },
-        {
-          "url": "https://www.dakkadakka.com/wiki/en/Painting_Guide",
-          "title": "Painting Guide - Articles - DakkaDakka"
-        },
-        {
-          "url": "https://www.ravelry.com/patterns/sources/the-crochet-project",
-          "title": "Ravelry: The Crochet Project - patterns"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "news-business-tech",
-      "bookmarks": [
-        {
-          "url": "https://adage.com/",
-          "title": "Advertising, Marketing, Media and Tech News - Ad Age"
-        },
-        {
-          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
-          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
-        },
-        {
-          "url": "https://afrotech.com/spelman-college-smash-cohort-program",
-          "title": "Spelman College Teams Up With SMASH To Increase The Number Of WOC In STEM - AfroTech"
-        },
-        {
-          "url": "https://www.adweek.com/media/you-better-drink-the-team-behind-rupauls-drag-race-launches-canned-cocktails/",
-          "title": "Team Behind RuPaul's Drag Race Launches Canned Cocktails"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "news-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.cinemablend.com/news/1660840/the-craft-remake-is-getting-off-the-ground",
-          "title": "The Craft Remake Is Getting Off The Ground | Cinemablend"
-        },
-        {
-          "url": "https://hollywoodreporter.com/",
-          "title": "The Hollywood Reporter - Movie news, TV news, awards news, lifestyle news, business news and more from The Hollywood Reporter."
-        },
-        {
-          "url": "https://www.marvel.com/articles/tv-shows/loki-he-who-remains-jonathan-majors",
-          "title": "'Loki': Meet the Man Behind the Curtain, He Who Remains | Marvel"
-        },
-        {
-          "url": "https://www.dailymail.co.uk/tvshowbiz/fb-10596755/Selma-Blair-Dating-History.html",
-          "title": "Selma Blair Dating History | Daily Mail Online"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "reference",
-      "bookmarks": [
-        {
-          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
-          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
-        },
-        {
-          "url": "http://mathworld.wolfram.com/FastFourierTransform.html",
-          "title": "Fast Fourier Transform -- from Wolfram MathWorld"
-        },
-        {
-          "url": "https://ohms.libs.uga.edu/viewer.php?cachefile=russell/RBRL220ROGP-036.xml",
-          "title": "Interview with James Earl \"Chip\" Carter III, June 23, 2008"
-        },
-        {
-          "url": "http://www.nasa.gov/multimedia/guidelines/index.html",
-          "title": "Guidelines for using NASA Images and Media Guidelines"
-        },
-        {
-          "url": "https://www.sacred-texts.com/tarot/pkt/index.htm",
-          "title": "The Pictorial Key to the Tarot Index | Sacred Texts Archive"
-        },
-        {
-          "url": "http://www.webqc.org/",
-          "title": "Chemical Portal - Chemistry Online Education"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://www.nps.gov/grca/planyourvisit/grand-canyon-national-park-public-health-update.htm",
-          "title": "Grand Canyon National Park Operations Update - Grand Canyon National Park (U.S. National Park Service)"
-        },
-        {
-          "url": "https://www.hilton.com/en/hotels/laxbhhh-the-beverly-hilton/",
-          "title": "Luxury Rooms & Suites | Beverly Hilton Hotel - Official Site"
-        },
-        {
-          "url": "http://stephane-gavoye.fr/tag/rhones-alpes/",
-          "title": "Rhônes-Alpes - Stéphane Gavoye"
-        },
-        {
-          "url": "https://www.trainline.eu/",
-          "title": "Trainline : Search, Compare & Buy Cheap Train Tickets"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "gaming-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.interordi.com/en/apps/mc_plugins.php",
-          "title": "Minecraft plugins - Interordi"
-        },
-        {
-          "url": "https://www.shuajota.com/2021/11/nba-2k22-space-jam-new-legacy-100-free.html",
-          "title": "NBA 2K22 Space Jam: A New Legacy (100% Free Mods) by AGP2K"
-        },
-        {
-          "url": "https://forums.empiresmod.com/index.php?threads/test-please-ignore.17006/",
-          "title": "test please ignore | Empires Mod"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "gov-resources",
-      "bookmarks": [
-        {
-          "url": "https://doee.dc.gov/service/battery-stewardship-producers?msclkid=3fb9e4afcfcb11ecab305496d3c71b89",
-          "title": "Battery Stewardship: Producers | doee"
-        },
-        {
-          "url": "https://www.vaccines.gov/search/",
-          "title": "Find pharmacies near you"
-        },
-        {
-          "url": "https://sba.gov/",
-          "title": "Small Business Administration"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "music-resources",
-      "bookmarks": [
-        {
-          "url": "https://blog.sonicbids.com/3-surefire-ways-to-stay-healthy-on-tour",
-          "title": "3 Surefire Ways to Stay Healthy on Tour"
-        },
-        {
-          "url": "http://www.dollyave.com",
-          "title": "Dolly Ave"
-        },
-        {
-          "url": "https://www.spotify.com/",
-          "title": "Spotify - Web Player: Music for everyone"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-general",
-      "bookmarks": [
-        {
-          "url": "https://www.eltiempo.com/archivo/documento/CMS-16590901",
-          "title": "Influencia del entorno urbano en la salud del hombre"
-        },
-        {
-          "url": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=92023",
-          "title": "News Details"
-        },
-        {
-          "url": "https://www.lemonde.fr/politique/",
-          "title": "Politique - Actualités, vidéos et infos en direct"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-advocacy",
-      "bookmarks": [
-        {
-          "url": "https://www.naacp.org/act-so/",
-          "title": "ACT-SO Achievement Program"
-        },
-        {
-          "url": "https://fundtexaschoice.org/",
-          "title": "Fund Texas Choice | Funding Texans' Travel to Abortion Clinics"
-        },
-        {
-          "url": "http://www.grandfamilies.org/State-Fact-Sheets",
-          "title": "GrandFacts Fact Sheets"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-charity",
-      "bookmarks": [
-        {
-          "url": "https://achelisbodman.org/",
-          "title": "Achelis & Bodman Foundation"
-        },
-        {
-          "url": "https://teamfeed.feedingamerica.org/index.cfm?fuseaction=cms.page&id=1041",
-          "title": "Fundraise to Fight Hunger"
-        },
-        {
-          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
-          "title": "Stay in Touch"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-community-support",
-      "bookmarks": [
-        {
-          "url": "https://www.aicho.org/#/",
-          "title": "AICHO - Home"
-        },
-        {
-          "url": "https://www.amendtogether.org/",
-          "title": "AMEND Together"
-        },
-        {
-          "url": "http://www.ujamaaplace.org/",
-          "title": "Ujamaa Place"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-environmental",
-      "bookmarks": [
-        {
-          "url": "https://cansouthasia.net/",
-          "title": "CANSA | Home - Climate Action Network South Asia"
-        },
-        {
-          "url": "https://fishwise.org/",
-          "title": "Home - Fishwise"
-        },
-        {
-          "url": "https://unitedforwildlife.org/",
-          "title": "United for Wildlife - Ending the Illegal Wildlife Trade - United for Wildlife"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-tech-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://network.creativecommons.org/?ref=global-affiliate-network",
-          "title": "CC Global Network Community Site"
-        },
-        {
-          "url": "https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=who-we-are",
-          "title": "Welcome to Mozilla Foundation - Mozilla Foundation"
-        },
-        {
-          "url": "https://privacyinternational.org/search?keywords=&f%5B0%5D=learn_more%3ALocation%20Surveillance%20Technology&f%5B1%5D=learn_more%3APrivacy&f%5B2%5D=learn_more%3AProtest%20Surveillance&f%5B3%5D=learn_more%3ASmart%20Cities",
-          "title": "Privacy International | Search"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "shopping-products",
-      "bookmarks": [
-        {
-          "url": "https://www.backcountry.com/helly-hansen-powderqueen-bib-pant-womens",
-          "title": "Backcountry is not available"
-        },
-        {
-          "url": "https://www.vrai.com/how-to-buy-diamonds",
-          "title": "How to Buy Diamonds | VRAI created diamonds"
-        },
-        {
-          "url": "https://www.mochu.com.tw/products/%E8%B2%B4%E6%97%8F%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%A5%97%E8%A3%9D",
-          "title": "Mochu童裝"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tools-design-ai",
-      "bookmarks": [
-        {
-          "url": "https://designs.ai/",
-          "title": "Designs AI - Free Online Logo, Image, AI Chat Videos & Voice Generator"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/Mockup-Plugin-4d94d59a10b14d30ba4e76fc8d307501?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://undraw.co/",
-          "title": "unDraw - Open source illustrations for any idea"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "apps",
-      "bookmarks": [
-        {
-          "url": "https://api.whatsapp.com/send/?phone=14437877678&text=HOME&app_absent=0",
-          "title": "Share on WhatsApp"
-        },
-        {
-          "url": "http://spr.ly/IMDbApp_iOS",
-          "title": "‎IMDb App: iPhone & iPad | IMDb Community Forums"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "art-community",
-      "bookmarks": [
-        {
-          "url": "https://foro.novenadimension.com/threads/mark-brook-recopilacion-de-su-arte-x-men-1-parte.46620/",
-          "title": "Mark Brook recopilacion de su arte X-Men 1 parte | La Novena Dimensión"
-        },
-        {
-          "url": "https://theartguy.tumblr.com/",
-          "title": "The Art Guy"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "auto-recalls",
-      "bookmarks": [
-        {
-          "url": "https://isuzu.oemdtc.com",
-          "title": "Isuzu - OEMDTC"
-        },
-        {
-          "url": "https://oemdtc.com/category/recalls",
-          "title": "Recall - Unknown Manufacturer"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "brands",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw.com.co/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "Tienda BMW Colombia: Carros y Accesorios - BMW Shop Colombia"
-        },
-        {
-          "url": "https://www.xbox.com/",
-          "title": "Sito ufficiale Xbox: console, giochi e community | Xbox"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-finance",
-      "bookmarks": [
-        {
-          "url": "https://bitcoinwisdom.io/markets/bitstamp/xrpusdt",
-          "title": "Bitstamp XRP/USDT - XRP to Tether Charts."
-        },
-        {
-          "url": "https://ca.linkedin.com/company/capitalg?trk=affiliated-pages",
-          "title": "CapitalG | LinkedIn"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "culture-science",
-      "bookmarks": [
-        {
-          "url": "http://www.cite-sciences.fr/home_flash/index.html",
-          "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
-        },
-        {
-          "url": "http://www.du-ciel.com/wordpress/wpg2?g2_itemId=3979",
-          "title": "Thomas Sagory »"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "data-portal",
-      "bookmarks": [
-        {
-          "url": "http://www.city-data.com/poverty/poverty-Camden-New-Jersey.html",
-          "title": "Camden, New Jersey (NJ) poverty rate data - information about poor and low-income residents living in this city"
-        },
-        {
-          "url": "https://opendata.paris.fr/",
-          "title": "Home - Paris Data"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-ai-ml-docs",
-      "bookmarks": [
-        {
-          "url": "https://optuna.readthedocs.io/en/stable/reference/generated/optuna.study.Study.html",
-          "title": "optuna.study.Study - Optuna 4.5.0 documentation"
-        },
-        {
-          "url": "https://docs.llamaindex.ai/en/stable/",
-          "title": "Welcome to LlamaIndex 🦙 ! | LlamaIndex Python Documentation"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-no-code",
-      "bookmarks": [
-        {
-          "url": "https://www.appypie.com/",
-          "title": "Best AI No-Code Development Platform for Apps and Websites"
-        },
-        {
-          "url": "https://www.glideapps.com/",
-          "title": "No Code App Builder: Create Custom, AI-Powered Apps | Glide"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-web",
-      "bookmarks": [
-        {
-          "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
-        },
-        {
-          "url": "https://infinite.mirrors.phpclasses.org/discuss/blog/PHP-Classes-blog/post/97/thread/1/",
-          "title": "web design award - Comments on PHP Classes blog post \"10th anniversary anno...\" - PHP Classes"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "education-university",
-      "bookmarks": [
-        {
-          "url": "https://academicaffairs.ucsc.edu/accreditation/",
-          "title": "Accreditation - Academic Affairs"
-        },
-        {
-          "url": "https://woods.stanford.edu",
-          "title": "Stanford Woods Institute for the Environment"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "media-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.fandango.com/mobilemovietickets",
-          "title": "Fandango | A Message To Our Fans"
-        },
-        {
-          "url": "http://www.nickjr.com/appsupport",
-          "title": "Nickelodeon Italia | Homepage"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news-environment",
-      "bookmarks": [
-        {
-          "url": "https://www.hubocean.earth/press/news/kjell-inge-takes-on-a-high-level-role-to-support-the-un-decade-of-ocean-science",
-          "title": "Norwegian industry builder Kjell Inge Røkke takes on a high-level role to support the UN Decade of Ocean Science and unlock industrial ocean data - HUB Ocean | Dedicated to Unlocking Ocean Data"
-        },
-        {
-          "url": "https://es.mongabay.com/2022/06/panama-una-bandera-de-conveniencia-para-la-pesca-ilegal-oceanos/",
-          "title": "Panamá, una bandera de conveniencia para la pesca ilegal y el descontrol en altamar"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "photography-community",
-      "bookmarks": [
-        {
-          "url": "https://www.lumix-forum.de/search.php?search_id=unanswered&sid=c15f96fc47e304bb20d60f138a2ead78",
-          "title": "Lumix-Forum - der Treffpunkt für Lumix-Nutzer - Unbeantwortete Themen"
-        },
-        {
-          "url": "https://www.popphoto.com",
-          "title": "Popular Photography: Techniques and How-Tos, Camera Reviews"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "reference-legal",
-      "bookmarks": [
-        {
-          "url": "https://www.law.cornell.edu/supct/html/90-1014.ZO.html",
-          "title": "Lee v. Weisman, 505 U.S. 577 (1992)."
-        },
-        {
-          "url": "https://celebrityvoicechanger.com/privacy",
-          "title": "Privacy Policy"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "science-nasa",
-      "bookmarks": [
-        {
-          "url": "https://landsat.gsfc.nasa.gov/",
-          "title": "Landsat Science"
-        },
-        {
-          "url": "https://viirsland.gsfc.nasa.gov/index.html",
-          "title": "VIIRS Land Team"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "services-home",
-      "bookmarks": [
-        {
-          "url": "https://kostentuinonderhoud.nl/zeeland/grijpskerke/",
-          "title": "Kosten Tuinonderhoud Grijpskerke"
-        },
-        {
-          "url": "http://www.relocationmoverservices.com/",
-          "title": "RMS Third Party Moving Services"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-auto",
-      "bookmarks": [
-        {
-          "url": "https://www.kiwicarparts.co.nz/products/volkswagen-golf-mk5-left-side-clip-on-mirror-glass",
-          "title": "Mirror Glass For VW Golf MK5 2005 - 2009 LEFT Convex With Blind Spot Z - KIWI CAR PARTS"
-        },
-        {
-          "url": "https://ponyclassic.com/brand/12-total-control-products",
-          "title": "TOTAL CONTROL PRODUCTS"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-home-garden",
-      "bookmarks": [
-        {
-          "url": "https://special-led.de/led-leuchtmittell-lamps-light-retrofit.html?led_material=1383",
-          "title": "LED Leuchtmittel Retrofit (austauschbar)"
-        },
-        {
-          "url": "https://www.sprayer-outlet.com/Landscapers-Select-48-oz-Handheld-Pump-Sprayer.htm",
-          "title": "Landscapers Select 1 1/2 Quart Handheld Garden Sprayer - Insecticide Sprayer | Sprayer Outlet"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tools-tech",
-      "bookmarks": [
-        {
-          "url": "https://trends.google.com/trends/?geo=US",
-          "title": "Google Trends"
-        },
-        {
-          "url": "https://winreality.com/win-reality-vr/",
-          "title": "VR + AI Baseball & Softball Training"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "media-misc",
-      "bookmarks": [
-        {
-          "url": "https://books.apple.com/book-series/id1469981073/",
-          "title": "‎Enterprise Blueprint - Book Series on Apple Books"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-events",
-      "bookmarks": [
-        {
-          "url": "https://spaceoneers.io/events/obpdc-2020/",
-          "title": "UPDATED: 7th International Workshop on On-Board Payload Data Compression - ONLINE - Spaceoneers.io"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-gallery",
-      "bookmarks": [
-        {
-          "url": "https://www.maderasdesudamerica.com/album/fotogaleria-maderasudamerica-oficina-de-comercio-internacional-en-maderas-tropicales/a2-jpg/",
-          "title": "2.jpg :: COEX SUDAMERICA TRADING"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-gambling",
-      "bookmarks": [
-        {
-          "url": "https://www.top10wettenerfahrungen.com/wettquoten/fussball/",
+          "url": "https://top10wettenerfahrungen.com/wettquoten/fussball",
           "title": "Fussball Quotenvergleich 2025 ᐅ [TOP10] Fußball Wettquoten Heute"
         }
       ],
-      "count": 1
+      "count": 2
     },
     {
-      "name": "misc-health-fitness",
+      "name": "web-dev-community-blogs",
       "bookmarks": [
         {
-          "url": "https://crosstownfitness.com/",
-          "title": "Chicago Gym | Chicago HIIT Group Fitness | Chicago Personal Training"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-sports",
-      "bookmarks": [
+          "url": "https://infinite.mirrors.phpclasses.org/discuss/blog/PHP-Classes-blog/post/97/thread/1",
+          "title": "web design award - Comments on PHP Classes blog post \"10th anniversary anno...\" - PHP Classes"
+        },
         {
-          "url": "https://www.milb.com/player/matt-pobereyko-670946",
-          "title": "Matt Pobereyko Stats, Age, Position, Height, Weight, Fantasy & News | MiLB.com"
+          "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "misc-webcam",
-      "bookmarks": [
-        {
-          "url": "https://www.whatsupcams.com/fr/webcams/italie/frioul-venetie-julienne/gorizia-fr/borgo-antica-contea-gusti-di-frontiera/",
-          "title": "Borgo Antica Contea - Gusti di Frontiera - WhatsUpCams - LIVE webcams"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "people-author",
-      "bookmarks": [
-        {
-          "url": "https://dogzine.eu/nl/auteurs/andreheuzer",
-          "title": "Andre Heuzer | DogZine"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "resource-assets",
-      "bookmarks": [
-        {
-          "url": "https://monsterone.com/",
-          "title": "MonsterONE - Download 548000+ Digital Products Unlimited"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "resource-education",
-      "bookmarks": [
-        {
-          "url": "http://www.all-science-fair-projects.com/",
-          "title": "1000+ Science Fair Projects with Videos for All Grades"
-        }
-      ],
-      "count": 1
+      "count": 2
     }
   ],
-  "total_bookmarks": 131,
-  "num_folders": 51
+  "total_bookmarks": 65,
+  "num_folders": 21
 }

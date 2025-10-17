@@ -1,58 +1,146 @@
 {
   "folders": [
     {
-      "name": "organizations",
+      "name": "tech-and-software-resources",
       "bookmarks": [
         {
-          "url": "https://www.bancomundial.org/es/country/argentina",
-          "title": "Banco Mundial en Argentina: Proyectos, investigación y datos para el desarrollo"
+          "url": "https://forum.openoffice.org/it/forum/ucp.php",
+          "title": "Apache OpenOffice: forum della comunità - Pannello di Controllo Utente - Apache OpenOffice: forum della comunità"
         },
         {
-          "url": "https://secure.vera.org/a/signup",
-          "title": "Join our movement today: - Vera Institute of Justice"
+          "url": "https://developer.mozilla.org/en-us/docs/web/css/css_grid_layout",
+          "title": "CSS grid layout - CSS | MDN"
         },
         {
-          "url": "https://www.policylink.org/",
-          "title": "PolicyLink | PolicyLink"
+          "url": "https://material.io/blog/digital-wellbeing-ux-principles",
+          "title": "Design Principles for Digital Wellbeing"
         },
         {
-          "url": "http://un.org/sdgmediazone",
-          "title": "SDG Media Zone | United Nations"
+          "url": "https://geeksforgeeks.org/java/",
+          "title": "Java Tutorial - GeeksforGeeks"
+        },
+        {
+          "url": "https://tagspaces.org/",
+          "title": "Organize your files and folders with tags | TagSpaces"
+        },
+        {
+          "url": "https://r95th.com/terms.html",
+          "title": "r95th.com"
+        },
+        {
+          "url": "https://elementor.com/",
+          "title": "Website Builder - Create a Website Now | Elementor"
         }
       ],
-      "count": 4
+      "count": 7
     },
     {
-      "name": "travel-destinations",
+      "name": "travel-and-local-guides",
       "bookmarks": [
         {
-          "url": "https://www.quesecueceenbcn.com/2020/02/06/buenisima-cocteleria-en-barcelona-mamaine/",
+          "url": "https://airbnb.com/rooms/817501972769927091",
+          "title": "Home of Phantom of the Opera in Paris, Île-de-France, France - Airbnb"
+        },
+        {
+          "url": "https://booking.com/help.en-gb.html",
+          "title": "void"
+        },
+        {
+          "url": "https://quesecueceenbcn.com/2020/02/06/buenisima-cocteleria-en-barcelona-mamaine",
           "title": "Buenísima coctelería en Barcelona Mamainé en el Born"
         },
         {
-          "url": "https://www.airbnb.com/rooms/817501972769927091?source_impression_id=p3_1676344653_1cIvBhqvh9EVkvF%2B",
-          "title": "Home of Phantom of the Opera in Paris, Île-de-France, France - Airbnb"
+          "url": "https://justcruisinplus.com/",
+          "title": "Home - Just Cruisin' Plus"
         },
         {
           "url": "https://palacesouthbeach.com/",
           "title": "Iconic Drag Brunch & Rooftop Bar in South Beach, Miami | Palace"
         },
         {
-          "url": "https://www.downtownboston.org/",
+          "url": "https://orbitz.com/",
+          "title": "Orbitz Hotel Deals, Flights, Cheap Vacations & Rental Cars"
+        },
+        {
+          "url": "https://downtownboston.org/",
           "title": "The Official Downtown Boston Alliance Website - Things to do"
         }
       ],
-      "count": 4
+      "count": 7
     },
     {
-      "name": "careers-jobs",
+      "name": "government-and-policy-resources",
       "bookmarks": [
         {
-          "url": "http://www.nbcunicareers.com",
+          "url": "https://ams.usda.gov/rules-regulations/be",
+          "title": "BE Disclosure | Agricultural Marketing Service"
+        },
+        {
+          "url": "https://bancomundial.org/es/country/argentina",
+          "title": "Banco Mundial en Argentina: Proyectos, investigación y datos para el desarrollo"
+        },
+        {
+          "url": "https://springernature.com/ccpa",
+          "title": "California Privacy Rights Act | Springer Nature | Legal information | Springer Nature"
+        },
+        {
+          "url": "https://crisisresponse.google/",
+          "title": "Crisis Response Homepage"
+        },
+        {
+          "url": "https://mpatlas.org/zones",
+          "title": "Loading... | Marine Protection Atlas"
+        },
+        {
+          "url": "https://un.org/sdgmediazone",
+          "title": "SDG Media Zone | United Nations"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "arts-entertainment-and-lifestyle",
+      "bookmarks": [
+        {
+          "url": "https://mojekuchennerewelacje.pl/2016/01/saatka-z-kurczakiem-mango-awokado-i.html",
+          "title": "Moje Kuchenne Rewelacje : Sałatka z kurczakiem, mango, awokado i pomarańczą"
+        },
+        {
+          "url": "https://nga.gov/",
+          "title": "National Gallery of Art"
+        },
+        {
+          "url": "https://northeastanimalhospital.com/",
+          "title": "Northeast Animal Hospital | St. Petersburg"
+        },
+        {
+          "url": "https://joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
+          "title": "Rolling Facial Massager - Joanna Czech"
+        },
+        {
+          "url": "https://ugcleague.com/players_page.cfm",
+          "title": "UGC League-Player Page"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "careers-and-corporate-information",
+      "bookmarks": [
+        {
+          "url": "https://gallup.com/corporate/212117/global-offices.aspx",
+          "title": "Global Offices"
+        },
+        {
+          "url": "https://nbcunicareers.com/",
           "title": "Home | NBCUnicareers"
         },
         {
-          "url": "https://www.capitalonecareers.com/",
+          "url": "https://loomis.us/",
+          "title": "Loomis US | The Future of Cash Management"
+        },
+        {
+          "url": "https://capitalonecareers.com/",
           "title": "Search Jobs and Careers at Capital One"
         },
         {
@@ -60,293 +148,115 @@
           "title": "UpTogether - Career Page"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "guides",
+      "name": "community-and-advocacy",
       "bookmarks": [
         {
-          "url": "https://material.io/blog/digital-wellbeing-ux-principles",
-          "title": "Design Principles for Digital Wellbeing"
-        },
-        {
-          "url": "https://www.consumer.ftc.gov/articles/0060-10-things-you-can-do-avoid-fraud",
-          "title": "How To Avoid a Scam | Consumer Advice"
-        },
-        {
-          "url": "https://www.popsugar.com/family/How-Stop-Kid-From-Whining-37548338",
-          "title": "How to Stop a Kid From Whining | PS Family"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "hobbies",
-      "bookmarks": [
-        {
-          "url": "http://www.chessvideos.tv/",
-          "title": "Chess Videos TV - The Largest Chess Video Site on the Web!"
-        },
-        {
-          "url": "http://www.lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
-          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
-        },
-        {
-          "url": "https://shop.perfumersapprentice.com/t-PerfumersCorner.aspx",
-          "title": "PerfumersCorner"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "misc",
-      "bookmarks": [
-        {
-          "url": "http://lavetten.se/foreningen/board",
+          "url": "https://lavetten.se/foreningen/board",
           "title": "Brf Lavetten i Varberg - Styrelsen"
         },
         {
-          "url": "https://www.coe.uh.edu/dir/coedirectory/faculty_template.cfm?id=908&CFID=974647&CFTOKEN=ea62c124bb0cdc36-FB89575D-BB92-9ABD-3CECEB794CEC1466",
-          "title": "COE Faculty - Allison Master"
-        },
-        {
-          "url": "https://www.booking.com/help.en-gb.html",
-          "title": "void"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "articles",
-      "bookmarks": [
-        {
-          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
-          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
-        },
-        {
-          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
-          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business",
-      "bookmarks": [
-        {
-          "url": "https://www.gallup.com/corporate/212117/global-offices.aspx",
-          "title": "Global Offices"
-        },
-        {
-          "url": "https://www.loomis.us/",
-          "title": "Loomis US | The Future of Cash Management"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-organizations",
-      "bookmarks": [
-        {
-          "url": "http://www.scbcc.us/",
+          "url": "https://scbcc.us/",
           "title": "Chamber of Commerce | Bridgeport, CT"
         },
         {
-          "url": "https://www.southfieldchamber.com/",
+          "url": "https://vera.org/a/signup",
+          "title": "Join our movement today: - Vera Institute of Justice"
+        },
+        {
+          "url": "https://policylink.org/",
+          "title": "PolicyLink | PolicyLink"
+        },
+        {
+          "url": "https://southfieldchamber.com/",
           "title": "Southfield Area Chamber of Commerce"
         }
       ],
-      "count": 2
+      "count": 5
     },
     {
-      "name": "computer-science",
+      "name": "news-and-social-issues",
       "bookmarks": [
         {
-          "url": "https://www.cril.univ-artois.fr/PB07/results/trace.php?idev=9&idjob=352831",
-          "title": "PB'07 evaluation competition: execution trace"
+          "url": "https://huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
+          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
         },
-        {
-          "url": "https://wiki.ufal.ms.mff.cuni.cz/start?image=latex%3Aefc64ef0db45cc8e9f05343b2e397494.png&tab_details=view&do=media&tab_files=files&ns=user%3Azeman%3Atreebanks",
-          "title": "start [ufal wiki]"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-web",
-      "bookmarks": [
-        {
-          "url": "https://forum.openoffice.org/it/forum/ucp.php?mode=delete_cookies&sid=c7ebb141d68569166048e415e842d0f2",
-          "title": "Apache OpenOffice: forum della comunità - Pannello di Controllo Utente - Apache OpenOffice: forum della comunità"
-        },
-        {
-          "url": "http://r95th.com/terms.html",
-          "title": "r95th.com"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news",
-      "bookmarks": [
         {
           "url": "https://philippines.mongabay.com/",
           "title": "Conservation and environmental science news - Mongabay"
         },
         {
-          "url": "https://www.pentictonwesternnews.com/news/shuswap-search-and-rescue-crew-responds-to-missing-sledders-injury-hypothermia/",
-          "title": "News | Penticton Western News"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "science-marine-biology",
-      "bookmarks": [
+          "url": "https://washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows",
+          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
+        },
         {
-          "url": "https://mpatlas.org/zones/",
-          "title": "Loading... | Marine Protection Atlas"
+          "url": "https://pentictonwesternnews.com/news/shuswap-search-and-rescue-crew-responds-to-missing-sledders-injury-hypothermia",
+          "title": "News | Penticton Western News"
         },
         {
           "url": "https://news.ucsc.edu/2023/01/humpback-whale-pregnancies.html",
           "title": "Study reveals influence of krill availability on humpback whale pregnancies - News"
         }
       ],
-      "count": 2
+      "count": 5
     },
     {
-      "name": "tools",
+      "name": "academic-resources-and-research",
       "bookmarks": [
         {
-          "url": "https://crisisresponse.google/",
-          "title": "Crisis Response Homepage"
+          "url": "https://coe.uh.edu/dir/coedirectory/faculty_template.cfm",
+          "title": "COE Faculty - Allison Master"
         },
         {
-          "url": "http://www.tagspaces.org/",
-          "title": "Organize your files and folders with tags | TagSpaces"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel-planning",
-      "bookmarks": [
-        {
-          "url": "http://www.justcruisinplus.com/",
-          "title": "Home - Just Cruisin' Plus"
+          "url": "https://cril.univ-artois.fr/PB07/results/trace.php",
+          "title": "PB'07 evaluation competition: execution trace"
         },
         {
-          "url": "https://www.orbitz.com/",
-          "title": "Orbitz Hotel Deals, Flights, Cheap Vacations & Rental Cars"
+          "url": "https://wiki.ufal.ms.mff.cuni.cz/start",
+          "title": "start [ufal wiki]"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "web-dev",
+      "name": "consumer-and-wellbeing-guides",
       "bookmarks": [
         {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
-          "title": "CSS grid layout - CSS | MDN"
+          "url": "https://popsugar.com/family/how-stop-kid-from-whining-37548338",
+          "title": "How to Stop a Kid From Whining | PS Family"
         },
         {
-          "url": "https://elementor.com/",
-          "title": "Website Builder - Create a Website Now | Elementor"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "culture-art",
-      "bookmarks": [
+          "url": "https://consumer.ftc.gov/articles/0060-10-things-you-can-do-avoid-fraud",
+          "title": "How To Avoid a Scam | Consumer Advice"
+        },
         {
-          "url": "http://www.nga.gov/",
-          "title": "National Gallery of Art"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "gaming",
-      "bookmarks": [
-        {
-          "url": "https://www.ugcleague.com/players_page.cfm?player_id=76561198071802587",
-          "title": "UGC League-Player Page"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "government",
-      "bookmarks": [
-        {
-          "url": "https://www.ams.usda.gov/rules-regulations/be",
-          "title": "BE Disclosure | Agricultural Marketing Service"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health",
-      "bookmarks": [
-        {
-          "url": "https://www.cochrane.org/evidence",
+          "url": "https://cochrane.org/evidence",
           "title": "Our evidence | Cochrane"
         }
       ],
-      "count": 1
+      "count": 3
     },
     {
-      "name": "legal",
+      "name": "personal-hobbies-and-interests",
       "bookmarks": [
         {
-          "url": "https://www.springernature.com/ccpa",
-          "title": "California Privacy Rights Act | Springer Nature | Legal information | Springer Nature"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "local-services",
-      "bookmarks": [
+          "url": "https://chessvideos.tv/",
+          "title": "Chess Videos TV - The Largest Chess Video Site on the Web!"
+        },
         {
-          "url": "https://www.northeastanimalhospital.com/",
-          "title": "Northeast Animal Hospital | St. Petersburg"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "programming",
-      "bookmarks": [
+          "url": "https://shop.perfumersapprentice.com/t-perfumerscorner.aspx",
+          "title": "PerfumersCorner"
+        },
         {
-          "url": "https://www.geeksforgeeks.org/java/",
-          "title": "Java Tutorial - GeeksforGeeks"
+          "url": "https://lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
+          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "recipes",
-      "bookmarks": [
-        {
-          "url": "https://www.mojekuchennerewelacje.pl/2016/01/saatka-z-kurczakiem-mango-awokado-i.html?m=0",
-          "title": "Moje Kuchenne Rewelacje : Sałatka z kurczakiem, mango, awokado i pomarańczą"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://www.joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
-          "title": "Rolling Facial Massager - Joanna Czech"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
   "total_bookmarks": 49,
-  "num_folders": 25
+  "num_folders": 10
 }

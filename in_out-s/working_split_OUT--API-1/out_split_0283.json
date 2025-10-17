@@ -1,8 +1,104 @@
 {
   "folders": [
     {
-      "name": "blogs-personal",
+      "name": "software-development-tools-guides",
       "bookmarks": [
+        {
+          "url": "https://globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/",
+          "title": "20 Necessary IT Certifications + Salaries I Skillsoft"
+        },
+        {
+          "url": "https://training.apple.com/us/en/appdeveloper",
+          "title": "App Developer Training"
+        },
+        {
+          "url": "https://flipcode.com/archives/",
+          "title": "flipcode Archives"
+        },
+        {
+          "url": "https://www.overleaf.com/learn/latex/Glossaries",
+          "title": "Glossaries - Overleaf, Online LaTeX Editor"
+        },
+        {
+          "url": "https://hydrogen.shopify.dev",
+          "title": "Hydrogen: Shopify's headless commerce framework"
+        },
+        {
+          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
+          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
+        },
+        {
+          "url": "https://learntocodewithme.tumblr.com/",
+          "title": "Learn to Code With Me"
+        },
+        {
+          "url": "https://greensoftware.foundation/articles/meet-gsf-org-leads-henry-richardson-of-watttime",
+          "title": "Meet GSF Org Leads: Henry Richardson of WattTime | GSF"
+        },
+        {
+          "url": "https://msdn.microsoft.com/en-us/microsoft-sdks",
+          "title": "Microsoft Developer"
+        },
+        {
+          "url": "https://visualstudio.microsoft.com/",
+          "title": "Visual Studio: IDE and Code Editor for Software Development"
+        },
+        {
+          "url": "https://webcourseworks.com/customers-we-serve/",
+          "title": "Web Courseworks is now Forj LMS | Forj"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "government-nonprofit-public-services",
+      "bookmarks": [
+        {
+          "url": "https://www.aclu-il.org/en/cases/aclu-v-alvarez",
+          "title": "ACLU v. Alvarez | ACLU of Illinois"
+        },
+        {
+          "url": "https://feuerwehr-sipplingen.de/?page_id=1697",
+          "title": "Brand - Freiwillige Feuerwehr Sipplingen"
+        },
+        {
+          "url": "https://www.dakotawoodlands.org/",
+          "title": "Dakota Woodlands | Homeless Shelter | Wescott Woodlands, Eagan, MN, USA"
+        },
+        {
+          "url": "https://fao.org/documents/card/en/c/ca7012en",
+          "title": "FAO Knowledge Repository"
+        },
+        {
+          "url": "https://ed.gov/",
+          "title": "Home | U.S. Department of Education"
+        },
+        {
+          "url": "https://data.linz.govt.nz/",
+          "title": "LINZ Data Service"
+        },
+        {
+          "url": "https://projects.worldbank.org",
+          "title": "Projects & Operations | The World Bank"
+        },
+        {
+          "url": "https://livereport.protectedplanet.net",
+          "title": "Protected Planet Report 2020"
+        },
+        {
+          "url": "https://ioc-unesco.org/",
+          "title": "UNESCO archives | UNESCO"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "news-media-social-blogs",
+      "bookmarks": [
+        {
+          "url": "https://www.allesoverboekenenschrijvers.nl/tag/2011/",
+          "title": "2011 Archieven - Alles over boeken en schrijvers"
+        },
         {
           "url": "https://dolceforever-blog.tumblr.com/",
           "title": "@dolceforever-blog on Tumblr"
@@ -18,13 +114,29 @@
         {
           "url": "https://metaphoricalnerd.tumblr.com/",
           "title": "@metaphoricalnerd on Tumblr"
+        },
+        {
+          "url": "https://vimeo.com/480073852",
+          "title": "How and When to Use an Eraser"
+        },
+        {
+          "url": "https://filmtoro.cz/film/hydra",
+          "title": "Hydra (2009) ▶️ Kde sledovat"
+        },
+        {
+          "url": "https://www.foxnews.com/us/pennsylvania-woman-killed-police-pittsburgh-having-mental-breakdown-cousin",
+          "title": "Pennsylvania woman killed by police in Pittsburgh was having 'mental breakdown': Cousin | Fox News"
         }
       ],
-      "count": 4
+      "count": 8
     },
     {
-      "name": "finance",
+      "name": "business-finance-e-commerce",
       "bookmarks": [
+        {
+          "url": "https://sell.amazon.com/programs/black-business-accelerator",
+          "title": "Amazon selling programs | Sell on Amazon"
+        },
         {
           "url": "https://verified.capitalone.com/auth/signin",
           "title": "Capital One Sign In: Log in to access your account(s)"
@@ -34,365 +146,91 @@
           "title": "CEE in focus: the future of capital markets - OMFIF"
         },
         {
-          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
-          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
+          "url": "https://impact.economist.com/",
+          "title": "Economist Impact"
         },
         {
-          "url": "http://www.firstdata.com/en_us/products/merchants/prepaid/gift-card-solutions.html?utm_source=gyftbusiness&utm_medium=referral&utm_campaign=gyft_product_promotion",
+          "url": "https://www.agencyjr.com/post/i-audited-351-klaviyo-accounts-here-are-my-11-takeaways-to-help-you-sell-more",
+          "title": "I Audited 351+ Klaviyo Accounts, Here Are My 11 Takeaways To Help You Sell More | agencyJR"
+        },
+        {
+          "url": "https://eductors.net/jet-pump-application-sheet/",
+          "title": "Jet Pump Application Sheet"
+        },
+        {
+          "url": "https://firstdata.com/en_us/products/merchants/prepaid/gift-card-solutions.html",
           "title": "Stored Value and Loyalty | Carat U.S. | Fiserv"
         }
       ],
-      "count": 4
+      "count": 7
     },
     {
-      "name": "orgs-intergovernmental",
-      "bookmarks": [
-        {
-          "url": "http://www.fao.org/documents/card/en/c/ca7012en",
-          "title": "FAO Knowledge Repository"
-        },
-        {
-          "url": "https://projects.worldbank.org",
-          "title": "Projects & Operations | The World Bank"
-        },
-        {
-          "url": "http://www.ioc-unesco.org/",
-          "title": "UNESCO archives | UNESCO"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "dev-learning",
-      "bookmarks": [
-        {
-          "url": "https://training.apple.com/us/en/appdeveloper",
-          "title": "App Developer Training"
-        },
-        {
-          "url": "https://learntocodewithme.tumblr.com/",
-          "title": "Learn to Code With Me"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "microsoft-dev",
-      "bookmarks": [
-        {
-          "url": "https://msdn.microsoft.com/en-us/microsoft-sdks-msdn",
-          "title": "Microsoft Developer"
-        },
-        {
-          "url": "https://visualstudio.microsoft.com/?utm_source=developermscom",
-          "title": "Visual Studio: IDE and Code Editor for Software Development"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "research",
-      "bookmarks": [
-        {
-          "url": "http://loop-impact.frontiersin.org/impact/article/514487#views",
-          "title": "Loop | Publication Impact |"
-        },
-        {
-          "url": "https://library.ucsd.edu/dc/search?f%5Bdecade_sim%5D%5B%5D=1940s&f%5Bdecade_sim%5D%5B%5D=1950s&f%5Bsubject_topic_sim%5D%5B%5D=Scripps+Institution+for+Biological+Research&f%5Bsubject_topic_sim%5D%5B%5D=University+of+California+%281868-1952%29.+Division+of+War+Research",
-          "title": "Making sure you're not a bot!"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping-fashion",
-      "bookmarks": [
-        {
-          "url": "https://www.charmesilkiner.com/collections/charmed/products/harper?variant=34968170305",
-          "title": "Harper Children's Necklace - Charme Silkiner Jewelry"
-        },
-        {
-          "url": "https://www.over-blog.com/Nuisette_rouge_et_noire_en_dentelle-1115400924-art353029.html",
-          "title": "Nuisette rouge et noire en dentelle"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel-planning",
+      "name": "lifestyle-travel-consumer",
       "bookmarks": [
         {
           "url": "https://www.cuantochollo.com/2x1-y-descuentos/entradas/promociones-y-ofertas-castillo-de-castelldefels-barcelona/",
           "title": "Descuento Entradas Castillo de Castelldefels | Visita Castell"
         },
         {
+          "url": "https://charmesilkiner.com/collections/charmed/products/harper",
+          "title": "Harper Children's Necklace - Charme Silkiner Jewelry"
+        },
+        {
+          "url": "https://www.over-blog.com/Nuisette_rouge_et_noire_en_dentelle-1115400924-art353029.html",
+          "title": "Nuisette rouge et noire en dentelle"
+        },
+        {
           "url": "https://www.bahn.de/angebot/regio",
           "title": "Regional reisen: Unsere beliebtesten Bahntickets & Verbund-Angebote"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "aclu-legal",
-      "bookmarks": [
-        {
-          "url": "https://www.aclu-il.org/en/cases/aclu-v-alvarez",
-          "title": "ACLU v. Alvarez | ACLU of Illinois"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "apple-support",
-      "bookmarks": [
-        {
-          "url": "https://getsupport.apple.com/?caller=psp",
-          "title": "void"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "art-video-guide",
-      "bookmarks": [
-        {
-          "url": "https://vimeo.com/480073852",
-          "title": "How and When to Use an Eraser"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "books-literature",
-      "bookmarks": [
-        {
-          "url": "https://www.allesoverboekenenschrijvers.nl/tag/2011/",
-          "title": "2011 Archieven - Alles over boeken en schrijvers"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "career-it-certs",
-      "bookmarks": [
-        {
-          "url": "https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/#gref",
-          "title": "20 Necessary IT Certifications + Salaries I Skillsoft"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dakota-woodlands",
-      "bookmarks": [
-        {
-          "url": "https://www.dakotawoodlands.org/",
-          "title": "Dakota Woodlands | Homeless Shelter | Wescott Woodlands, Eagan, MN, USA"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-game",
-      "bookmarks": [
-        {
-          "url": "http://www.flipcode.com/archives/",
-          "title": "flipcode Archives"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-java",
-      "bookmarks": [
-        {
-          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
-          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "dev-web-framework",
-      "bookmarks": [
-        {
-          "url": "https://hydrogen.shopify.dev",
-          "title": "Hydrogen: Shopify's headless commerce framework"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "ecommerce-amazon",
-      "bookmarks": [
-        {
-          "url": "https://sell.amazon.com/programs/black-business-accelerator",
-          "title": "Amazon selling programs | Sell on Amazon"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "ecommerce-marketing",
-      "bookmarks": [
-        {
-          "url": "https://www.agencyjr.com/post/i-audited-351-klaviyo-accounts-here-are-my-11-takeaways-to-help-you-sell-more",
-          "title": "I Audited 351+ Klaviyo Accounts, Here Are My 11 Takeaways To Help You Sell More | agencyJR"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "economist-impact",
-      "bookmarks": [
-        {
-          "url": "https://impact.economist.com/",
-          "title": "Economist Impact"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "eden-project",
-      "bookmarks": [
+        },
         {
           "url": "https://www.edenproject.com/",
           "title": "The Eden Project"
         }
       ],
-      "count": 1
+      "count": 5
     },
     {
-      "name": "engineering-industrial",
+      "name": "technology-products-support",
       "bookmarks": [
         {
-          "url": "https://eductors.net/jet-pump-application-sheet/",
-          "title": "Jet Pump Application Sheet"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "firefox",
-      "bookmarks": [
+          "url": "https://getsupport.apple.com/",
+          "title": "Apple Support"
+        },
         {
           "url": "https://www.mozilla.com/firefox/",
           "title": "Get Firefox for desktop and mobile - Firefox.com Global"
+        },
+        {
+          "url": "https://ibm.com/",
+          "title": "IBM"
+        },
+        {
+          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
+          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
         }
       ],
-      "count": 1
+      "count": 4
     },
     {
-      "name": "gov-data-nz",
+      "name": "academic-health-research",
       "bookmarks": [
         {
-          "url": "https://data.linz.govt.nz/",
-          "title": "LINZ Data Service"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "gov-us-education",
-      "bookmarks": [
+          "url": "https://loop-impact.frontiersin.org/impact/article/514487",
+          "title": "Loop | Publication Impact |"
+        },
         {
-          "url": "http://www.ed.gov/",
-          "title": "Home | U.S. Department of Education"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-parenting",
-      "bookmarks": [
+          "url": "https://library.ucsd.edu/dc/search",
+          "title": "Making sure you're not a bot!"
+        },
         {
-          "url": "https://www.stanfordchildrens.org/en/topic/default?id=separation-anxiety-90-P02283",
+          "url": "https://stanfordchildrens.org/en/topic/default",
           "title": "Separation Anxiety - Stanford Medicine Children's Health"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "ibm",
-      "bookmarks": [
-        {
-          "url": "http://www.pc.ibm.com/",
-          "title": "IBM"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "latex-guide",
-      "bookmarks": [
-        {
-          "url": "https://www.overleaf.com/learn/latex/Glossaries",
-          "title": "Glossaries - Overleaf, Online LaTeX Editor"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "movies-streaming",
-      "bookmarks": [
-        {
-          "url": "https://filmtoro.cz/film/hydra",
-          "title": "Hydra (2009) ▶️ Kde sledovat"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "news-us",
-      "bookmarks": [
-        {
-          "url": "https://www.foxnews.com/us/pennsylvania-woman-killed-police-pittsburgh-having-mental-breakdown-cousin",
-          "title": "Pennsylvania woman killed by police in Pittsburgh was having 'mental breakdown': Cousin | Fox News"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "public-safety",
-      "bookmarks": [
-        {
-          "url": "https://feuerwehr-sipplingen.de/?page_id=1697",
-          "title": "Brand - Freiwillige Feuerwehr Sipplingen"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reports-environment",
-      "bookmarks": [
-        {
-          "url": "https://livereport.protectedplanet.net",
-          "title": "Protected Planet Report 2020"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "software-lms",
-      "bookmarks": [
-        {
-          "url": "https://webcourseworks.com/customers-we-serve/",
-          "title": "Web Courseworks is now Forj LMS | Forj"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tech-sustainability",
-      "bookmarks": [
-        {
-          "url": "https://greensoftware.foundation/articles/meet-gsf-org-leads-henry-richardson-of-watttime",
-          "title": "Meet GSF Org Leads: Henry Richardson of WattTime | GSF"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
   "total_bookmarks": 47,
-  "num_folders": 34
+  "num_folders": 7
 }

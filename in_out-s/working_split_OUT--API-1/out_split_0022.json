@@ -1,40 +1,236 @@
 {
   "folders": [
     {
-      "name": "dev-resources",
+      "name": "ai-ml-dev-tools",
       "bookmarks": [
         {
-          "url": "https://www.devops-research.com/research.html#reports",
+          "url": "https://projecteuler.net/archives",
+          "title": "Archived Problems - Project Euler"
+        },
+        {
+          "url": "https://commonvoice.mozilla.org/",
+          "title": "Common Voice"
+        },
+        {
+          "url": "https://www.devops-research.com/research.html",
           "title": "DORA | Get Better at Getting Better"
+        },
+        {
+          "url": "https://cs.stanford.edu/people/eroberts/",
+          "title": "Eric Roberts: Home Page"
+        },
+        {
+          "url": "https://mathworld.wolfram.com/FastFourierTransform.html",
+          "title": "Fast Fourier Transform -- from Wolfram MathWorld"
         },
         {
           "url": "https://get.foundation/emails/inliner.html",
           "title": "Foundation for Emails | Responsive Email CSS Inliner"
         },
         {
+          "url": "https://sv.brusheezy.com/gratis/glodlampor",
+          "title": "Glödlampor Gratis Penslar - (28 Gratis Downloads)"
+        },
+        {
           "url": "https://docs.python.org/3/library/logging.html",
           "title": "logging - Logging facility for Python - Python 3.14.0 documentation"
         },
         {
-          "url": "https://projecteuler.net/archives",
-          "title": "Archived Problems - Project Euler"
+          "url": "https://developer.microsoft.com/",
+          "title": "Microsoft Developer"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Mockuuups-Studio-Mockup-Generator-3100-Mockups-39c645fb3b4748c98abfa33503b85b70",
+          "title": "Notion"
         },
         {
           "url": "https://www.smashingmagazine.com/",
           "title": "Smashing Magazine - For Web Designers And Developers"
         },
         {
-          "url": "http://my.studiopress.com/themes/enterprise/",
+          "url": "https://my.studiopress.com/themes/enterprise/",
           "title": "Themes Archive - StudioPress"
         }
       ],
-      "count": 6
+      "count": 12
     },
     {
-      "name": "sustainability",
+      "name": "hobbies-lifestyle-food",
       "bookmarks": [
         {
-          "url": "http://www.ara.at",
+          "url": "https://doepfer.de/A100.htm",
+          "title": "A-100 Overview"
+        },
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
+          "title": "Chicken tikka masala recipe | Good Food"
+        },
+        {
+          "url": "https://www.aquascapingworld.com/",
+          "title": "Contact Support"
+        },
+        {
+          "url": "https://geckojoy.club/blogs/geckochitchat/tagged/measure",
+          "title": "Gecko Chit Chat - tagged \"measure\" - Geckojoy"
+        },
+        {
+          "url": "https://jjbtravel.com/",
+          "title": "JJBargains Travel - Your Professional Travel Consultants"
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/318615/my-name-is-barbra-by-barbra-streisand/",
+          "title": "My Name Is Barbra by Barbra Streisand: 9780525429524 | PenguinRandomHouse.com: Books"
+        },
+        {
+          "url": "https://www.nba.com/stats/players/traditional",
+          "title": "Players Traditional | Stats | NBA.com"
+        },
+        {
+          "url": "https://kingdomhearts.fandom.com/fr/wiki/reine_minnie",
+          "title": "Reine Minnie | Kingdom Hearts Wiki | Fandom"
+        },
+        {
+          "url": "https://www.sardegnaturismo.it/de/entdecken/sindia",
+          "title": "Sindia | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna"
+        },
+        {
+          "url": "https://www.craftsmanspace.com/knowledge/chip-carving-patterns.html",
+          "title": "Wood carving books | CRAFTSMANSPACE"
+        },
+        {
+          "url": "https://frasi.net/ricette/default.asp",
+          "title": "» 26.700 Ricette di cucina italiana"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "e-commerce-products-marketing",
+      "bookmarks": [
+        {
+          "url": "https://freshvinewine.com/product/cabernet-sauvignon/",
+          "title": "Cabernet Sauvignon Red Wine - Fresh Vine Wine"
+        },
+        {
+          "url": "https://laylasleep.com/product/layla-shredded-memory-foam-pillow/",
+          "title": "Cooling Shredded Memory Foam Pillow | Layla Sleep®"
+        },
+        {
+          "url": "https://freead1.net/",
+          "title": "Free ads without registration"
+        },
+        {
+          "url": "https://howl.io/",
+          "title": "Howl | Where Creators & Brands Link Up"
+        },
+        {
+          "url": "https://shop.calliste.lu/de/marken",
+          "title": "Marken - Calliste Fashion"
+        },
+        {
+          "url": "https://www.correototal.com/actualidad/daytona-international-speedway-ha-confirmado-su-presencia-en-gran-turismo-7/",
+          "title": "Maximice su presencia en las redes sociales: ¿Por qué comprar seguidores para una cuenta de Facebook? - Correo Total"
+        },
+        {
+          "url": "https://about.ads.microsoft.com/en-us/partners/welcome",
+          "title": "Microsoft Advertising Partner Program"
+        },
+        {
+          "url": "https://saporum.com/index.php?option=com_recipes&itemid=28",
+          "title": "Saporum.com is for sale | HugeDomains"
+        },
+        {
+          "url": "https://www.shop.solisaudio.com/collections/frontpage/products/so-2000",
+          "title": "SO-2000 - SŌLIS Audio"
+        },
+        {
+          "url": "https://marketplace.walmart.com/",
+          "title": "Walmart Marketplace - Walmart Marketplace"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "online-platforms-utilities",
+      "bookmarks": [
+        {
+          "url": "https://accessiblevoting.net/",
+          "title": "Accessible voting - Your guide to a private and independent voting experience"
+        },
+        {
+          "url": "https://www.childrenshospital.org/",
+          "title": "Boston Children's Hospital"
+        },
+        {
+          "url": "https://1profire.com/fl/putnum-county/fire-sprinkler-installation/",
+          "title": "Fire Sprinkler Installation in Putnum County, Florida"
+        },
+        {
+          "url": "https://makingmanhattan.tumblr.com/",
+          "title": "z = boy + girl"
+        },
+        {
+          "url": "https://messenger.com/",
+          "title": "Messenger"
+        },
+        {
+          "url": "https://support.mozilla.org/",
+          "title": "Mozilla Support"
+        },
+        {
+          "url": "https://secure.acceptiva.com/",
+          "title": "Payment Form Not Available - Acceptiva"
+        },
+        {
+          "url": "https://portal.microsoftonline.com/",
+          "title": "Sign in to your account"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "community-social-services",
+      "bookmarks": [
+        {
+          "url": "https://www.crisistextline.org/",
+          "title": "Crisis Text Line | Text HOME to 741741 Free, 24/7 Mental Health Support"
+        },
+        {
+          "url": "https://emmanorton.org/",
+          "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
+        },
+        {
+          "url": "https://homelinemn.org/",
+          "title": "Free Legal Help for Renters - HOME Line"
+        },
+        {
+          "url": "https://www.hired.org/",
+          "title": "Hired - Empowering people and families through employment and support services to achieve their career goals."
+        },
+        {
+          "url": "https://www.na.org/",
+          "title": "Narcotics Anonymous"
+        },
+        {
+          "url": "https://www.nationalcapacd.org/",
+          "title": "National CAPACD"
+        },
+        {
+          "url": "https://www.sdfoundation.org/programs/programs-and-funds/san-diego-covid-19-community-response-fund/",
+          "title": "San Diego COVID-19 Community Response Fund | San Diego Foundation"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "climate-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://sciencebasedtargets.org/about-us",
+          "title": "About us - Science Based Targets Initiative"
+        },
+        {
+          "url": "https://ara.at/",
           "title": "ARA | Zukunft. Kreislauf. Wirtschaft. | Home"
         },
         {
@@ -50,240 +246,80 @@
           "title": "No More Storing Dirty Energy: California Works to Cut Emissions Due to Energy Storage | Microgrid Knowledge"
         },
         {
-          "url": "https://sciencebasedtargets.org/about-us",
-          "title": "About us - Science Based Targets Initiative"
-        },
-        {
-          "url": "http://g.co/supplier-responsibility",
+          "url": "https://g.co/supplier-responsibility",
           "title": "Supporting Supplier Responsibility - Google Sustainability"
         }
       ],
       "count": 6
     },
     {
-      "name": "general-uncategorized",
+      "name": "government-legal-admin",
       "bookmarks": [
         {
-          "url": "http://www.jedasoftwaresystems.com/GHPrivacyPolicy.html",
-          "title": "void"
+          "url": "https://applecash.greendot.com/termsconditions/",
+          "title": "Apple Cash Terms and Conditions"
         },
         {
-          "url": "https://secure.acceptiva.com/?cst=a61726",
-          "title": "Payment Form Not Available - Acceptiva"
-        },
-        {
-          "url": "https://usnavyseals.einnews.com/amp/pr_news/572814177/small-business-opportunities-for-military-spouses-to-sell-to-the-u-s-air-force-and-u-s-army",
-          "title": "Please verify you are human."
-        },
-        {
-          "url": "http://www.78e6.com/ebook/9ffbnt/",
-          "title": "Redirecting..."
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "government-civics",
-      "bookmarks": [
-        {
-          "url": "https://accessiblevoting.net/",
-          "title": "Accessible voting - Your guide to a private and independent voting experience"
-        },
-        {
-          "url": "https://leginfo.legislature.ca.gov",
+          "url": "https://leginfo.legislature.ca.gov/",
           "title": "California Legislative Information"
         },
         {
-          "url": "https://www.diu.mil",
+          "url": "https://www.diu.mil/",
           "title": "Defense Innovation Unit"
         },
         {
-          "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=XXVII-7-d&chapter=27&clang=_en",
+          "url": "https://treaties.un.org/pages/viewdetails.aspx?src=ind&mtdsg_no=xxvii-7-d&chapter=27&clang=_en",
           "title": "UNTC"
+        },
+        {
+          "url": "https://jedasoftwaresystems.com/GHPrivacyPolicy.html",
+          "title": "void"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "specialized-industry-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
+          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
+        },
+        {
+          "url": "https://usnavyseals.einnews.com/pr_news/572814177/small-business-opportunities-for-military-spouses-to-sell-to-the-u-s-air-force-and-u-s-army",
+          "title": "Please verify you are human."
+        },
+        {
+          "url": "https://78e6.com/ebook/9ffbnt/",
+          "title": "Redirecting..."
+        },
+        {
+          "url": "https://docs.google.com/document/d/1Z-vvBMp2lQHcBbtiYZgvOMneyN4_YeQwLW8heO5f-qo/edit",
+          "title": "Smartlead.ai - 11 steps to 10+ demos/day - the hands free cold emailing system - Documenti Google"
         }
       ],
       "count": 4
     },
     {
-      "name": "health-support",
-      "bookmarks": [
-        {
-          "url": "https://www.childrenshospital.org/",
-          "title": "Boston Children's Hospital"
-        },
-        {
-          "url": "https://www.crisistextline.org/",
-          "title": "Crisis Text Line | Text HOME to 741741 Free, 24/7 Mental Health Support"
-        },
-        {
-          "url": "https://www.na.org/",
-          "title": "Narcotics Anonymous"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "hobbies",
-      "bookmarks": [
-        {
-          "url": "https://doepfer.de/A100.htm",
-          "title": "A-100 Overview"
-        },
-        {
-          "url": "https://www.aquascapingworld.com/",
-          "title": "Contact Support"
-        },
-        {
-          "url": "https://www.craftsmanspace.com/knowledge/chip-carving-patterns.html",
-          "title": "Wood carving books | CRAFTSMANSPACE"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "marketing",
-      "bookmarks": [
-        {
-          "url": "https://shop-links.co/cjbgBpZ0yDA",
-          "title": "Howl | Where Creators & Brands Link Up"
-        },
-        {
-          "url": "https://www.correototal.com/actualidad/daytona-international-speedway-ha-confirmado-su-presencia-en-gran-turismo-7/",
-          "title": "Maximice su presencia en las redes sociales: ¿Por qué comprar seguidores para una cuenta de Facebook? - Correo Total"
-        },
-        {
-          "url": "https://docs.google.com/document/d/1Z-vvBMp2lQHcBbtiYZgvOMneyN4_YeQwLW8heO5f-qo/edit#",
-          "title": "Smartlead.ai - 11 steps to 10+ demos/day - the hands free cold emailing system - Documenti Google"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "microsoft",
-      "bookmarks": [
-        {
-          "url": "https://about.ads.microsoft.com/en-us/partners/welcome?s_cid=en-us-gct-web-src_ext-sub_0-flx_uhfcombepartner",
-          "title": "Microsoft Advertising Partner Program"
-        },
-        {
-          "url": "https://developer.microsoft.com/en-us/",
-          "title": "Microsoft Developer"
-        },
-        {
-          "url": "http://portal.microsoftonline.com/",
-          "title": "Sign in to your account"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-community",
-      "bookmarks": [
-        {
-          "url": "http://www.emmanorton.org/",
-          "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
-        },
-        {
-          "url": "https://www.nationalcapacd.org/",
-          "title": "National CAPACD"
-        },
-        {
-          "url": "https://www.sdfoundation.org/programs/programs-and-funds/san-diego-covid-19-community-response-fund/",
-          "title": "San Diego COVID-19 Community Response Fund | San Diego Foundation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://freshvinewine.com/product/cabernet_sauvignon/",
-          "title": "Cabernet Sauvignon Red Wine - Fresh Vine Wine"
-        },
-        {
-          "url": "https://laylasleep.com/product/layla-shredded-memory-foam-pillow/",
-          "title": "Cooling Shredded Memory Foam Pillow | Layla Sleep®"
-        },
-        {
-          "url": "https://www.shop.solisaudio.com/collections/frontpage/products/so-2000",
-          "title": "SO-2000 - SŌLIS Audio"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "academia",
-      "bookmarks": [
-        {
-          "url": "http://cs.stanford.edu/people/eroberts/",
-          "title": "Eric Roberts: Home Page"
-        },
-        {
-          "url": "http://www.polito.it/",
-          "title": "Politecnico di Torino"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "books",
+      "name": "education-career",
       "bookmarks": [
         {
           "url": "https://www.ncj.nl/actueel/nieuws/artikel/boekbespreking-doen-wat-goed-is-",
           "title": "Boekbespreking 'Doen wat goed is' - NCJ"
         },
         {
-          "url": "https://www.penguinrandomhouse.com/books/318615/my-name-is-barbra-by-barbra-streisand/?ref=PRH61D056F1F743&aid=3377&linkid=PRH61D056F1F743",
-          "title": "My Name Is Barbra by Barbra Streisand: 9780525429524 | PenguinRandomHouse.com: Books"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "design-resources",
-      "bookmarks": [
-        {
-          "url": "https://sv.brusheezy.com/gratis/gl%C3%B6dlampor",
-          "title": "Glödlampor Gratis Penslar - (28 Gratis Downloads)"
+          "url": "https://nbmbaa.org/",
+          "title": "Home - Slider - NBMBAA"
         },
         {
-          "url": "https://kotilabdulkadir.notion.site/Mockuuups-Studio-Mockup-Generator-3100-Mockups-39c645fb3b4748c98abfa33503b85b70?pvs=25",
-          "title": "Notion"
+          "url": "https://polito.it/",
+          "title": "Politecnico di Torino"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "fashion",
-      "bookmarks": [
-        {
-          "url": "https://geckojoy.club/blogs/geckochitchat/tagged/measure",
-          "title": "Gecko Chit Chat - tagged \"measure\" - Geckojoy"
-        },
-        {
-          "url": "https://shop.calliste.lu/de/marken?/hersteller-someday?",
-          "title": "Marken - Calliste Fashion"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "mozilla",
-      "bookmarks": [
-        {
-          "url": "https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "Common Voice"
-        },
-        {
-          "url": "https://support.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support",
-          "title": "Mozilla Support"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news-media",
+      "name": "news-media-info",
       "bookmarks": [
         {
           "url": "https://www.bbc.com/",
@@ -292,187 +328,15 @@
         {
           "url": "https://www.qcnews.com/charlotte/exclusive-bride-and-groom-stuck-in-grand-bohemian-elevator-all-smiles/",
           "title": "Exclusive: Bride, groom stuck in elevator all smiles"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "recipes",
-      "bookmarks": [
-        {
-          "url": "http://www.frasi.net/ricette/default.asp",
-          "title": "» 26.700 Ricette di cucina italiana"
         },
-        {
-          "url": "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
-          "title": "Chicken tikka masala recipe | Good Food"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "services",
-      "bookmarks": [
-        {
-          "url": "https://1profire.com/fl/putnum-county/fire-sprinkler-installation/",
-          "title": "Fire Sprinkler Installation in Putnum County, Florida"
-        },
-        {
-          "url": "https://homelinemn.org/",
-          "title": "Free Legal Help for Renters - HOME Line"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "sports-stats",
-      "bookmarks": [
-        {
-          "url": "https://www.bostonmabl.com/400hitter/player/batting/?PlID=33505&SeID=334&TmID=1133",
-          "title": "2021 Batting Stats - Boston Metro Baseball League"
-        },
-        {
-          "url": "https://www.nba.com/stats/players/traditional",
-          "title": "Players Traditional | Stats | NBA.com"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "http://www.jjbtravel.com/",
-          "title": "JJBargains Travel - Your Professional Travel Consultants"
-        },
-        {
-          "url": "https://www.sardegnaturismo.it/de/entdecken/sindia",
-          "title": "Sindia | SardegnaTurismo - Sito ufficiale del turismo della Regione Sardegna"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "blog-personal",
-      "bookmarks": [
-        {
-          "url": "https://makingmanhattan.tumblr.com/",
-          "title": "z = boy + girl"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "career-services",
-      "bookmarks": [
-        {
-          "url": "https://www.hired.org/",
-          "title": "Hired - Empowering people and families through employment and support services to achieve their career goals."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "classifieds",
-      "bookmarks": [
-        {
-          "url": "https://freead1.net/grp/sale-buy:3/foods:100/mushrooms:536/USA:42/California:5/Artesia:139",
-          "title": "Free ads without registration"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "domain-parked",
-      "bookmarks": [
-        {
-          "url": "http://www.saporum.com/index.php?option=com_recipes&Itemid=28",
-          "title": "Saporum.com is for sale | HugeDomains"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "ecommerce-platform",
-      "bookmarks": [
-        {
-          "url": "https://marketplace.walmart.com/",
-          "title": "Walmart Marketplace - Walmart Marketplace"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "gaming-wiki",
-      "bookmarks": [
-        {
-          "url": "https://kingdomhearts.fandom.com/fr/wiki/Reine_Minnie",
-          "title": "Reine Minnie | Kingdom Hearts Wiki | Fandom"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "industry-agriculture",
-      "bookmarks": [
-        {
-          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
-          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "legal-terms",
-      "bookmarks": [
-        {
-          "url": "https://applecash.greendot.com/termsconditions/",
-          "title": "Apple Cash Terms and Conditions"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "media-company",
-      "bookmarks": [
         {
           "url": "https://www.grahammedia.com/",
           "title": "Graham Media Group"
         }
       ],
-      "count": 1
-    },
-    {
-      "name": "messenger",
-      "bookmarks": [
-        {
-          "url": "https://messenger.com/",
-          "title": "Messenger"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "org-professional",
-      "bookmarks": [
-        {
-          "url": "https://nbmbaa.org/",
-          "title": "Home - Slider - NBMBAA"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "reference-math",
-      "bookmarks": [
-        {
-          "url": "http://mathworld.wolfram.com/FastFourierTransform.html",
-          "title": "Fast Fourier Transform -- from Wolfram MathWorld"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
   "total_bookmarks": 70,
-  "num_folders": 32
+  "num_folders": 10
 }

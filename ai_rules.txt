@@ -15,11 +15,14 @@ The output will be a JSON object with the following structure:
   "num_folders": 0
 }
 
-Rules:
-- Each bookmark belongs to exactly one folder.
-- The folder structure is flat (no subfolders).
-- Bookmarks are sorted by title (case-insensitive) within folders.
-- Folders are sorted by count (descending), then by slug (ascending).
+Main Rules:
+1. Each bookmark belongs to exactly one folder.
+2. The folder structure is flat (no subfolders).
+3. Bookmarks are sorted by title (case-insensitive) within folders.
+4. Folders are sorted by count (descending), then by slug (ascending).
+5. Folders use context specific names: "Python Libraries" not "Programming"
+6. Avoid single-item categories (merge into related groups)
+7. Avoid categories over 20 items (split into sub-categories)
 
 --
 2) DYNAMIC CATEGORIZATION PRINCIPLES

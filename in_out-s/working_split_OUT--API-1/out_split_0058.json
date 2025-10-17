@@ -1,31 +1,125 @@
 {
   "folders": [
     {
-      "name": "education",
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://optionb.org/about",
+          "title": "About OptionB.Org | Building resilience in the face of adversity | Option B"
+        },
+        {
+          "url": "https://www.aeon.org/",
+          "title": "Aeon Affordable Homes - Home Changes Everything"
+        },
+        {
+          "url": "https://ballmergroup.org/",
+          "title": "Ballmer Group - Ballmer Group"
+        },
+        {
+          "url": "https://tropicalforestnetwork.org/",
+          "title": "Bay Area Tropical Forest Network - San Francisco Bay Area events: forests & conservation"
+        },
+        {
+          "url": "https://defyventures.myshopify.com/",
+          "title": "Defy Ventures Inc. Merchandise"
+        },
+        {
+          "url": "https://www.mongabay.org/donate/?bottom_menu_link",
+          "title": "Donate - Environmental Journalism and Education"
+        },
+        {
+          "url": "https://ejfoundation.org/reports/blood-and-water",
+          "title": "Environmental Justice Foundation | Blood and Water"
+        },
+        {
+          "url": "https://finhealthnetwork.org/",
+          "title": "Financial Health Network"
+        },
+        {
+          "url": "http://www.se4all.org/",
+          "title": "Home | Sustainable Energy for All"
+        },
+        {
+          "url": "https://p2a.co/R4klotV",
+          "title": "Let's Stay Connected!"
+        },
+        {
+          "url": "https://sverigesblabandsungdom.se/nyheter/page/6/",
+          "title": "Nyheter - Sida 6 - Sveriges Blåbandsungdom"
+        },
+        {
+          "url": "https://www.adcouncil.org/covid-vaccine",
+          "title": "Our COVID-19 Vaccine Retrospective | Ad Council"
+        },
+        {
+          "url": "https://nevcc.org/building-a-community-behind-your-business/",
+          "title": "Second Life Chattanooga"
+        },
+        {
+          "url": "https://hjweinbergfoundation.org/",
+          "title": "The Harry and Jeanette Weinberg Foundation - The Harry and Jeanette Weinberg Foundation"
+        },
+        {
+          "url": "https://www.waittfoundation.org/",
+          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
+        },
+        {
+          "url": "https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=who-we-are",
+          "title": "Welcome to Mozilla Foundation - Mozilla Foundation"
+        },
+        {
+          "url": "https://youngaudiences.org/",
+          "title": "Young Audiences | Arts for Learning - National Organization"
+        },
+        {
+          "url": "https://www.ywcagp.org/",
+          "title": "YWCA Glendale & Pasadena | Peace | Justice | Freedom"
+        }
+      ],
+      "count": 18
+    },
+    {
+      "name": "education-learning",
       "bookmarks": [
         {
           "url": "https://www.acca-x.com/",
           "title": "ACCA-X online courses in accounting, business and finance"
         },
         {
+          "url": "https://www.ajol.info/index.php/jfecs/article/view/61642",
+          "title": "A comparative study of regenerated bamboo, cotton and viscose rayon fabrics. Part 1: selected comfort properties | Journal of Consumer Sciences"
+        },
+        {
           "url": "http://minesathletics.com/",
           "title": "Colorado School of Mines Athletics - Official Athletics Website"
+        },
+        {
+          "url": "https://www.teachley.com",
+          "title": "Elementary Math Intervention Program - Teachley"
         },
         {
           "url": "https://kartoweb.itc.nl/geometrics/Map%20projections/body.htm",
           "title": "Geometric aspects of mapping: map projections"
         },
         {
+          "url": "https://glottolog.org/",
+          "title": "Glottolog 5.2 -"
+        },
+        {
           "url": "http://gsg.mines.edu/",
           "title": "Graduate Student Government - Graduate Student Government"
         },
         {
-          "url": "https://event.on24.com/wcc/r/4110472/52C9A96C1E42A505134EDADDE900A2B0?partnerref=BS",
-          "title": "Have we reached gender equity in the accountancy profession?"
+          "url": "https://sliderulemuseum.com/",
+          "title": "International Slide Rule Museum home page. ISRM is the world's largest free digital repository of all things concerning slide rules and other math artifacts. There are over 7000 Images or PDF's in the ISRM Galleries."
         },
         {
           "url": "https://www.yourprimer.com/?utm_source=digital&utm_medium=embeddedpromo&utm_campaign=gwgwebsite",
           "title": "Italia in Digitale - Formazione Online Aziende e Professionisti"
+        },
+        {
+          "url": "https://wiktenauer.com/wiki/Joachim_Meyer",
+          "title": "Joachim Meyer ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
         },
         {
           "url": "https://www.statlect.com/fundamentals-of-statistics",
@@ -36,22 +130,156 @@
           "title": "Quédate en casa - iSchool - Escuela de robótica y programación para niños y jóvenes"
         },
         {
+          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
+          "title": "Staff Directory | Unitec"
+        },
+        {
           "url": "https://stanford.edu",
           "title": "Stanford University"
         },
         {
-          "url": "https://www.teachley.com",
-          "title": "Elementary Math Intervention Program - Teachley"
+          "url": "https://gardening.stackexchange.com/help/badges/2/student?userid=29656",
+          "title": "Student - Badge - Gardening & Landscaping Stack Exchange"
         }
       ],
-      "count": 10
+      "count": 15
     },
     {
-      "name": "dev",
+      "name": "news-articles",
       "bookmarks": [
         {
-          "url": "https://10web.io/ai-website-builder/",
-          "title": "AI Website Builder: Create and Launch in Seconds | 10Web"
+          "url": "https://www.campaignlive.com/article/in-together/1719527",
+          "title": "All in, together | Campaign US"
+        },
+        {
+          "url": "https://www.blitzquotidiano.it/cronaca-italia/cocaina-nascosta-in-tavole-da-surf-19-arresti-tra-roma-e-guidonia-1733514/",
+          "title": "Cocaina nascosta in tavole da surf: 19 arresti tra Roma e Guidonia - Blitzquotidiano.it"
+        },
+        {
+          "url": "https://www.alouette.fr/news/decouvrez-le-nouvel-hymne-des-enfoires-maintenant-9987",
+          "title": "Découvrez le nouvel hymne des Enfoirés : \"Maintenant\" !"
+        },
+        {
+          "url": "https://www.enko-football.com/2014/06/hodgson-we-just-want-to-give-good.html",
+          "title": "Enko-football: Hodgson: We Just Want To Give A Good Performance"
+        },
+        {
+          "url": "https://www.nps.gov/grca/learn/news/hiker-fatality-along-bright-angel-trail-february-2023.htm",
+          "title": "Hiker Fatality along Bright Angel Trail in Grand Canyon National Park - Grand Canyon National Park (U.S. National Park Service)"
+        },
+        {
+          "url": "https://www.periodico24.com/la-importancia-de-contar-con-una-buena-climatizacion-en-el-hogar/",
+          "title": "La importancia de contar con una buena climatización en el hogar - Periodico24"
+        },
+        {
+          "url": "http://spillerforeningen.dk/nyheder/2021/60-mikkel-rygaards-vej-ud-af-polsk-kaos/",
+          "title": "Mikkel Rygaards vej ud af polsk kaos | SPFO"
+        },
+        {
+          "url": "https://www.livemint.com/technology/tech-news/microsofts-new-ai-model-to-help-predict-heatwave-risks-in-india-details-here-11627314047324.html",
+          "title": "Microsoft's new AI model to help predict heatwave risks in India. Details here"
+        },
+        {
+          "url": "https://es.nba.com/news/mundial-de-baloncesto-2019-ricky-rubio-supera-a-pablo-prigioni-y-ya-es-el-maximo-asistente-de-los-mundiales/t1jmihhkpmml1t80x536g38ug",
+          "title": "NBA.com España | El sitio oficial de la NBA | Sporting News Spain"
+        },
+        {
+          "url": "https://profile.providencejournal.com/newsletters/manage",
+          "title": "Newsletters | The Providence Journal"
+        },
+        {
+          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
+          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://alba-ewaste.sg/",
+          "title": "ALBA E-Waste Singapore - Singapore E-Waste Collection & Recycling Program"
+        },
+        {
+          "url": "https://diverseabilitymagazine.com/recognition-lists/",
+          "title": "Careers | ConnectComm"
+        },
+        {
+          "url": "https://www.lamobilery.fr/accueil/attachment/demi-cercle-top",
+          "title": "demi-cercle-top | La Mobilery"
+        },
+        {
+          "url": "https://event.on24.com/wcc/r/4110472/52C9A96C1E42A505134EDADDE900A2B0?partnerref=BS",
+          "title": "Have we reached gender equity in the accountancy profession?"
+        },
+        {
+          "url": "https://blog.louroe.com/en/louroe-isc-2023",
+          "title": "Louroe is at ISC 2023"
+        },
+        {
+          "url": "https://www.vizzuality.com/what-we-do/",
+          "title": "Vizzuality"
+        },
+        {
+          "url": "https://careers.bcg.com/explore",
+          "title": "What We Offer | Culture & Values | BCG Careers"
+        },
+        {
+          "url": "http://www.youronlinechoices.com/",
+          "title": "Your Online Choices | EDAA"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "tech-services",
+      "bookmarks": [
+        {
+          "url": "https://bizcommunity.att.com/",
+          "title": "AT&T Digital Resources & Answers - Community Forums has Sunset"
+        },
+        {
+          "url": "https://district-360.com/?utm_source=IDA&utm_medium=website&utm_campaign=PartnerPage",
+          "title": "CRM Software for Downtown Districts | Business Improvement Downtown Districts"
+        },
+        {
+          "url": "https://my.datasubject.com/16A1AnRt2Fn8i1unj/23233",
+          "title": "Data Access Request"
+        },
+        {
+          "url": "http://esri.com",
+          "title": "GIS Software for Mapping and Spatial Analytics | Esri"
+        },
+        {
+          "url": "https://corp.kaltura.com",
+          "title": "Kaltura video solutions for superior webinars, events, hubs & more"
+        },
+        {
+          "url": "https://portal.azure.com/",
+          "title": "Microsoft Azure"
+        },
+        {
+          "url": "https://www.sailthru.com/",
+          "title": "Sailthru by Marigold | Deliver dynamic, data-driven customer journeys"
+        },
+        {
+          "url": "https://help.venmo.com/",
+          "title": "Venmo Help Center and Support | Venmo"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "tech-software-dev",
+      "bookmarks": [
+        {
+          "url": "http://www.calculator.org/",
+          "title": "calculator.org - calculator.org"
+        },
+        {
+          "url": "https://coloringwatch.com",
+          "title": "Coloring Watch - Coloring Watch - Apple Watch Coloring Book"
         },
         {
           "url": "https://de.wordpress.org/plugins/gdpr-cookie-compliance/",
@@ -66,240 +294,120 @@
           "title": "Live Demo - jQuery EasyUI"
         },
         {
-          "url": "https://portal.azure.com/",
-          "title": "Microsoft Azure"
-        },
-        {
           "url": "https://lightgbm.readthedocs.io/en/stable/Quick-Start.html",
           "title": "Quick Start - LightGBM 4.6.0 documentation"
         },
         {
           "url": "https://tug.org/FontCatalogue/",
           "title": "The LaTeX Font Catalogue - Front Page"
+        },
+        {
+          "url": "https://app.adjust.com/2uo1qc?redirect=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Ffirefox-private-safe-browser%2Fid989804926&campaign=www.mozilla.org&adgroup=firefox_home",
+          "title": "‎Firefox: Private Web Browser on the App Store"
         }
       ],
-      "count": 7
+      "count": 8
     },
     {
-      "name": "news",
+      "name": "design-photography",
       "bookmarks": [
         {
-          "url": "https://www.blitzquotidiano.it/cronaca-italia/cocaina-nascosta-in-tavole-da-surf-19-arresti-tra-roma-e-guidonia-1733514/",
-          "title": "Cocaina nascosta in tavole da surf: 19 arresti tra Roma e Guidonia - Blitzquotidiano.it"
-        },
-        {
-          "url": "https://www.alouette.fr/news/decouvrez-le-nouvel-hymne-des-enfoires-maintenant-9987",
-          "title": "Découvrez le nouvel hymne des Enfoirés : \"Maintenant\" !"
-        },
-        {
-          "url": "https://es.nba.com/news/mundial-de-baloncesto-2019-ricky-rubio-supera-a-pablo-prigioni-y-ya-es-el-maximo-asistente-de-los-mundiales/t1jmihhkpmml1t80x536g38ug",
-          "title": "NBA.com España | El sitio oficial de la NBA | Sporting News Spain"
-        },
-        {
-          "url": "https://www.nps.gov/grca/learn/news/hiker-fatality-along-bright-angel-trail-february-2023.htm",
-          "title": "Hiker Fatality along Bright Angel Trail in Grand Canyon National Park - Grand Canyon National Park (U.S. National Park Service)"
-        },
-        {
-          "url": "http://www.justworldnews.com/",
-          "title": "Just World News | with Helena Cobban"
-        },
-        {
-          "url": "http://spillerforeningen.dk/nyheder/2021/60-mikkel-rygaards-vej-ud-af-polsk-kaos/",
-          "title": "Mikkel Rygaards vej ud af polsk kaos | SPFO"
-        },
-        {
-          "url": "https://www.livemint.com/technology/tech-news/microsofts-new-ai-model-to-help-predict-heatwave-risks-in-india-details-here-11627314047324.html",
-          "title": "Microsoft's new AI model to help predict heatwave risks in India. Details here"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "organizations-non-profit",
-      "bookmarks": [
-        {
-          "url": "https://www.aeon.org/",
-          "title": "Aeon Affordable Homes - Home Changes Everything"
-        },
-        {
-          "url": "https://defyventures.myshopify.com/",
-          "title": "Defy Ventures Inc. Merchandise"
-        },
-        {
-          "url": "https://finhealthnetwork.org/",
-          "title": "Financial Health Network"
-        },
-        {
-          "url": "https://p2a.co/R4klotV",
-          "title": "Let's Stay Connected!"
-        },
-        {
-          "url": "https://sverigesblabandsungdom.se/nyheter/page/6/",
-          "title": "Nyheter - Sida 6 - Sveriges Blåbandsungdom"
-        },
-        {
-          "url": "https://youngaudiences.org/",
-          "title": "Young Audiences | Arts for Learning - National Organization"
-        },
-        {
-          "url": "https://www.ywcagp.org/",
-          "title": "YWCA Glendale & Pasadena | Peace | Justice | Freedom"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "business",
-      "bookmarks": [
-        {
-          "url": "https://www.adcouncil.org/covid-vaccine",
-          "title": "Our COVID-19 Vaccine Retrospective | Ad Council"
-        },
-        {
-          "url": "https://namelix.com/",
-          "title": "Business Name Generator - free AI-powered naming tool - Namelix"
-        },
-        {
-          "url": "https://www.campaignlive.com/article/in-together/1719527",
-          "title": "All in, together | Campaign US"
+          "url": "https://playground.donorschoose.org/",
+          "title": "Design Playground"
         },
         {
           "url": "https://josephhardin.com/",
           "title": "Joseph Hardin Films | Jacksonville Florida Wedding Videographer"
         },
         {
-          "url": "https://nevcc.org/building-a-community-behind-your-business/",
-          "title": "Second Life Chattanooga"
-        },
-        {
-          "url": "https://www.vizzuality.com/what-we-do/",
-          "title": "Vizzuality"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "hobby",
-      "bookmarks": [
-        {
-          "url": "http://bolsboardgames.com/",
-          "title": "Scrabble Word Finder, Dictionary, Cheat, Anagram Help - BoLS Boardgames"
-        },
-        {
-          "url": "https://muaythaiauthority.blogspot.com/2015/11/cromscorner-inside-mind-of-nak-muay.html",
-          "title": "CROM's Corner: Inside the Mind of a Nak Muay - Muay Thai Authority"
-        },
-        {
           "url": "https://www.metridium.com/",
           "title": "Metridium Fields"
+        },
+        {
+          "url": "https://www.farnostmladocov.cz/fotoalbum/kaple-na-olsanech/pout-na-olsanech.jpg-19.8.2007-10-06-15-19.8.2007-11-43-37.html",
+          "title": "Mladočov - Fotoalbum - Kaple na Olšanech - pout-na-olsanech.jpg-19.8.2007-10-06-15-19.8.2007-11-43-37"
+        },
+        {
+          "url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F&description=Goal%2014%20is%20about%20conserving%20and%20sustainably%20using%20the%20oceans%2C%20seas%20and%20marine%20resources.%20Healthy%20oceans%20and%20seas%20are%20essential%20to%20human%20existence%20and%20life%20on%20Earth.%20They%20cover%2070%20per%20cent%20of%20the%20planet%20and%20provide%20food%2C%20energy%20and%20water.%20The%20ocean%20absorbs%20around%20one%20quarter%20of%20the%20world%26%2339%3Bs%20annual%20carbon&media=",
+          "title": "Pinterest"
         },
         {
           "url": "https://www.popphoto.com",
           "title": "Popular Photography: Techniques and How-Tos, Camera Reviews"
         },
         {
-          "url": "http://www.russprince.com/cabinet/",
-          "title": "Russ Mame Cabinet"
-        },
-        {
-          "url": "http://www.worldbunco.com/",
-          "title": "World Bunco Association - The Official Site"
+          "url": "https://www.vecteezy.com/free-vector/splash",
+          "title": "Splash Vector Art, Icons, and Graphics for Free Download"
         }
       ],
-      "count": 6
+      "count": 7
     },
     {
-      "name": "reference",
-      "bookmarks": [
-        {
-          "url": "https://cornwallpolice.com/fr/contact-us/repertoire-du-personnel",
-          "title": "Répertoire du personnel"
-        },
-        {
-          "url": "https://glottolog.org/",
-          "title": "Glottolog 5.2 -"
-        },
-        {
-          "url": "https://sliderulemuseum.com/",
-          "title": "International Slide Rule Museum home page. ISRM is the world's largest free digital repository of all things concerning slide rules and other math artifacts. There are over 7000 Images or PDF's in the ISRM Galleries."
-        },
-        {
-          "url": "https://wiktenauer.com/wiki/Joachim_Meyer",
-          "title": "Joachim Meyer ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
-        },
-        {
-          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
-          "title": "Staff Directory | Unitec"
-        },
-        {
-          "url": "https://help.venmo.com/",
-          "title": "Venmo Help Center and Support | Venmo"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "shopping",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://excelrc.com/products/arrma-ar330514-shock-collar-aluminum-black-6s-2",
           "title": "ARRMA Shock Collar Aluminum Black 6S (2) ARAC8964 | AR330514 - Excel RC"
         },
         {
-          "url": "https://www.rewjido.com/product/hp-250-g7-intel-core-i3-1tb-hdd-8gb-ram/",
-          "title": "Hp 250 G7, Intel Core I3, 8GB Ram - Rewjido Phones"
+          "url": "https://solawave.co/products/microcurrent-red-light-therapy-facial-wand-kit-with-conductive-serum",
+          "title": "Best Red Light Therapy Wand & Activating Serum | Solawave"
+        },
+        {
+          "url": "https://www.bmw-oman.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Dealer | Muscat | BMW Oman"
         },
         {
           "url": "https://www.onlineshop-18.de/Kleidung-/-Mode/fuer-IHN/",
           "title": "für IHN - onlineshop-18.de - Produkte"
         },
         {
+          "url": "https://www.rewjido.com/product/hp-250-g7-intel-core-i3-1tb-hdd-8gb-ram/",
+          "title": "Hp 250 G7, Intel Core I3, 8GB Ram - Rewjido Phones"
+        },
+        {
           "url": "https://www.motoresdyg.com/audi/a4/motores-audi-a4-avant-b8-version-2011_mod123.html",
           "title": "Motores Audi A4 Avant (B8) Versión 2011 de segunda mano - Motoresdyg"
         },
         {
-          "url": "https://solawave.co/products/microcurrent-red-light-therapy-facial-wand-kit-with-conductive-serum",
-          "title": "Best Red Light Therapy Wand & Activating Serum | Solawave"
-        },
-        {
-          "url": "http://www.surftrip.com/surf-shop/C-573/C-952/General.html",
-          "title": "void"
+          "url": "https://www.paul.fr/default/viennoiserie/familliales?allergens_bis=16983%2C16986%2C17031",
+          "title": "Viennoiserie Familiales - Brioches - Cramiques - PAUL"
         }
       ],
-      "count": 6
+      "count": 7
     },
     {
-      "name": "software",
+      "name": "blogs-personal",
       "bookmarks": [
         {
-          "url": "https://app.adjust.com/2uo1qc?redirect=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Ffirefox-private-safe-browser%2Fid989804926&campaign=www.mozilla.org&adgroup=firefox_home",
-          "title": "‎Firefox: Private Web Browser on the App Store"
+          "url": "https://kathleencollinsposts-blog.tumblr.com/",
+          "title": "@kathleencollinsposts-blog on Tumblr"
         },
         {
-          "url": "https://coloringwatch.com",
-          "title": "Coloring Watch - Coloring Watch - Apple Watch Coloring Book"
+          "url": "https://muaythaiauthority.blogspot.com/2015/11/cromscorner-inside-mind-of-nak-muay.html",
+          "title": "CROM's Corner: Inside the Mind of a Nak Muay - Muay Thai Authority"
         },
         {
-          "url": "https://district-360.com/?utm_source=IDA&utm_medium=website&utm_campaign=PartnerPage",
-          "title": "CRM Software for Downtown Districts | Business Improvement Downtown Districts"
+          "url": "https://voltair355.tumblr.com/",
+          "title": "Dr B"
         },
         {
-          "url": "http://esri.com",
-          "title": "GIS Software for Mapping and Spatial Analytics | Esri"
+          "url": "http://www.justworldnews.com/",
+          "title": "Just World News | with Helena Cobban"
         },
         {
-          "url": "https://corp.kaltura.com",
-          "title": "Kaltura video solutions for superior webinars, events, hubs & more"
+          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
+          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
         },
         {
-          "url": "https://www.sailthru.com/",
-          "title": "Sailthru by Marigold | Deliver dynamic, data-driven customer journeys"
+          "url": "https://anna-stephens.com/2020/11/",
+          "title": "November 2020"
         }
       ],
       "count": 6
     },
     {
-      "name": "government",
+      "name": "government-agencies",
       "bookmarks": [
         {
           "url": "https://www.slovensko.sk/sk/agendy/agenda/_/elektronicka-ziadost",
@@ -320,112 +428,50 @@
         {
           "url": "https://www.noaa.gov",
           "title": "National Oceanic and Atmospheric Administration"
+        },
+        {
+          "url": "https://cornwallpolice.com/fr/contact-us/repertoire-du-personnel",
+          "title": "Répertoire du personnel"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
-      "name": "misc",
-      "bookmarks": [
-        {
-          "url": "https://bizcommunity.att.com/",
-          "title": "AT&T Digital Resources & Answers - Community Forums has Sunset"
-        },
-        {
-          "url": "https://my.datasubject.com/16A1AnRt2Fn8i1unj/23233",
-          "title": "Data Access Request"
-        },
-        {
-          "url": "https://www.lamobilery.fr/accueil/attachment/demi-cercle-top",
-          "title": "demi-cercle-top | La Mobilery"
-        },
-        {
-          "url": "https://blog.louroe.com/en/louroe-isc-2023",
-          "title": "Louroe is at ISC 2023"
-        },
-        {
-          "url": "https://profile.providencejournal.com/newsletters/manage",
-          "title": "Newsletters | The Providence Journal"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "organizations-environmental",
-      "bookmarks": [
-        {
-          "url": "https://alba-ewaste.sg/",
-          "title": "ALBA E-Waste Singapore - Singapore E-Waste Collection & Recycling Program"
-        },
-        {
-          "url": "https://www.mongabay.org/donate/?bottom_menu_link",
-          "title": "Donate - Environmental Journalism and Education"
-        },
-        {
-          "url": "https://ejfoundation.org/reports/blood-and-water",
-          "title": "Environmental Justice Foundation | Blood and Water"
-        },
-        {
-          "url": "http://www.se4all.org/",
-          "title": "Home | Sustainable Energy for All"
-        },
-        {
-          "url": "https://tropicalforestnetwork.org/",
-          "title": "Bay Area Tropical Forest Network - San Francisco Bay Area events: forests & conservation"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "blogs",
-      "bookmarks": [
-        {
-          "url": "https://kathleencollinsposts-blog.tumblr.com/",
-          "title": "@kathleencollinsposts-blog on Tumblr"
-        },
-        {
-          "url": "https://voltair355.tumblr.com/",
-          "title": "Dr B"
-        },
-        {
-          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
-          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
-        },
-        {
-          "url": "https://anna-stephens.com/2020/11/",
-          "title": "November 2020"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment",
+      "name": "lifestyle-misc",
       "bookmarks": [
         {
           "url": "https://apple.co/3k8sYxT",
           "title": "Let's Go! with Matthew Stafford, Maxx Crosby, Peter King & Jim Gray - Podcast - Apple Podcasts"
         },
         {
-          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
-          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
+          "url": "https://littlegoatchicago.com/",
+          "title": "Little Goat Diner | Chef Stephanie Izard | Lakeview, Chicago"
+        },
+        {
+          "url": "https://www.loxclubapp.com/",
+          "title": "Lox Club"
         },
         {
           "url": "https://titaniquemusical.com/?gclid=CjwKCAiAheacBhB8EiwAItVO2z8-NmP15UuUZCs0T9QX7iANuteYEVUkptg9N_4ytxdfD9axuVPbOhoCifkQAvD_BwE&gclsrc=aw.ds",
           "title": "Titanique the Musical"
         },
         {
-          "url": "https://www.enko-football.com/2014/06/hodgson-we-just-want-to-give-good.html",
-          "title": "Enko-football: Hodgson: We Just Want To Give A Good Performance"
+          "url": "https://www.zola.com/",
+          "title": "Wedding Planning: Website, Invites, Venues, Registry, & More"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "travel",
+      "name": "travel-hospitality",
       "bookmarks": [
         {
           "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
           "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
+        },
+        {
+          "url": "https://www.hotelscombined.it/Hotel/Comfort_Hotel_Xpress_Stockholm_Central.htm",
+          "title": "Comfort Hotel Xpress Stockholm Central, Stoccolma | HotelsCombined"
         },
         {
           "url": "https://www.cp.pt/passageiros/pt/informacoes/atrasos-e-supressoes",
@@ -436,32 +482,36 @@
           "title": "National Aquarium - Plan Your Visit"
         },
         {
-          "url": "https://www.hotelscombined.it/Hotel/Comfort_Hotel_Xpress_Stockholm_Central.htm",
-          "title": "Comfort Hotel Xpress Stockholm Central, Stoccolma | HotelsCombined"
+          "url": "http://www.surftrip.com/surf-shop/C-573/C-952/General.html",
+          "title": "void"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "hobbies-games",
+      "bookmarks": [
+        {
+          "url": "https://www.ravelry.com/bundles/free-crochet-patterns-11",
+          "title": "Ravelry: Bundles: Free Crochet Patterns by Marie Segares"
+        },
+        {
+          "url": "http://www.russprince.com/cabinet/",
+          "title": "Russ Mame Cabinet"
+        },
+        {
+          "url": "http://bolsboardgames.com/",
+          "title": "Scrabble Word Finder, Dictionary, Cheat, Anagram Help - BoLS Boardgames"
+        },
+        {
+          "url": "http://www.worldbunco.com/",
+          "title": "World Bunco Association - The Official Site"
         }
       ],
       "count": 4
     },
     {
-      "name": "organizations-foundations",
-      "bookmarks": [
-        {
-          "url": "https://www.ballmergroup.org/",
-          "title": "Ballmer Group - Ballmer Group"
-        },
-        {
-          "url": "https://hjweinbergfoundation.org/",
-          "title": "The Harry and Jeanette Weinberg Foundation - The Harry and Jeanette Weinberg Foundation"
-        },
-        {
-          "url": "https://www.waittfoundation.org/",
-          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "services",
+      "name": "business-services",
       "bookmarks": [
         {
           "url": "https://www.homeyou.com/directory/hvac/washington/spanaway",
@@ -472,163 +522,31 @@
           "title": "Martha A. Bradley Obituary | Goes-Scolieri Funeral Home | 1935 - 2018"
         },
         {
-          "url": "https://www.zola.com/",
-          "title": "Wedding Planning: Website, Invites, Venues, Registry, & More"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "web-tools",
-      "bookmarks": [
-        {
-          "url": "http://www.calculator.org/",
-          "title": "calculator.org - calculator.org"
-        },
-        {
-          "url": "https://playground.donorschoose.org/",
-          "title": "Design Playground"
-        },
-        {
-          "url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F&description=Goal%2014%20is%20about%20conserving%20and%20sustainably%20using%20the%20oceans%2C%20seas%20and%20marine%20resources.%20Healthy%20oceans%20and%20seas%20are%20essential%20to%20human%20existence%20and%20life%20on%20Earth.%20They%20cover%2070%20per%20cent%20of%20the%20planet%20and%20provide%20food%2C%20energy%20and%20water.%20The%20ocean%20absorbs%20around%20one%20quarter%20of%20the%20world%26%2339%3Bs%20annual%20carbon&media=",
-          "title": "Pinterest"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "auto",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-oman.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Dealer | Muscat | BMW Oman"
-        },
-        {
-          "url": "https://www.periodico24.com/la-importancia-de-contar-con-una-buena-climatizacion-en-el-hogar/",
-          "title": "La importancia de contar con una buena climatización en el hogar - Periodico24"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "careers-jobs",
-      "bookmarks": [
-        {
-          "url": "https://diverseabilitymagazine.com/recognition-lists/",
-          "title": "Careers | ConnectComm"
-        },
-        {
-          "url": "https://careers.bcg.com/explore",
-          "title": "What We Offer | Culture & Values | BCG Careers"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "design",
-      "bookmarks": [
-        {
-          "url": "https://designs.ai/logomaker/start",
-          "title": "Create unique logo easily with Logomaker from Designs.ai"
-        },
-        {
-          "url": "https://www.vecteezy.com/free-vector/splash",
-          "title": "Splash Vector Art, Icons, and Graphics for Free Download"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "food-dining",
-      "bookmarks": [
-        {
-          "url": "https://littlegoatchicago.com/",
-          "title": "Little Goat Diner | Chef Stephanie Izard | Lakeview, Chicago"
-        },
-        {
-          "url": "https://www.paul.fr/default/viennoiserie/familliales?allergens_bis=16983%2C16986%2C17031",
-          "title": "Viennoiserie Familiales - Brioches - Cramiques - PAUL"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health-wellness",
-      "bookmarks": [
-        {
-          "url": "https://optionb.org/about",
-          "title": "About OptionB.Org | Building resilience in the face of adversity | Option B"
-        },
-        {
           "url": "https://www.pritikin.com/health-experts",
           "title": "Physicians & Health Experts - Pritikin Longevity Center"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "organizations-tech",
+      "name": "tools-ai-web",
       "bookmarks": [
         {
-          "url": "https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=who-we-are",
-          "title": "Welcome to Mozilla Foundation - Mozilla Foundation"
+          "url": "https://10web.io/ai-website-builder/",
+          "title": "AI Website Builder: Create and Launch in Seconds | 10Web"
         },
         {
-          "url": "https://www.loxclubapp.com/",
-          "title": "Lox Club"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "web-communities",
-      "bookmarks": [
-        {
-          "url": "https://www.ravelry.com/bundles/free-crochet-patterns-11",
-          "title": "Ravelry: Bundles: Free Crochet Patterns by Marie Segares"
+          "url": "https://namelix.com/",
+          "title": "Business Name Generator - free AI-powered naming tool - Namelix"
         },
         {
-          "url": "https://gardening.stackexchange.com/help/badges/2/student?userid=29656",
-          "title": "Student - Badge - Gardening & Landscaping Stack Exchange"
+          "url": "https://designs.ai/logomaker/start",
+          "title": "Create unique logo easily with Logomaker from Designs.ai"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "web-privacy",
-      "bookmarks": [
-        {
-          "url": "http://www.youronlinechoices.com/",
-          "title": "Your Online Choices | EDAA"
-        },
-        {
-          "url": "http://www.youronlinechoices.com/",
-          "title": "Your Online Choices | EDAA"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-photography",
-      "bookmarks": [
-        {
-          "url": "https://www.farnostmladocov.cz/fotoalbum/kaple-na-olsanech/pout-na-olsanech.jpg-19.8.2007-10-06-15-19.8.2007-11-43-37.html",
-          "title": "Mladočov - Fotoalbum - Kaple na Olšanech - pout-na-olsanech.jpg-19.8.2007-10-06-15-19.8.2007-11-43-37"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-research",
-      "bookmarks": [
-        {
-          "url": "https://www.ajol.info/index.php/jfecs/article/view/61642",
-          "title": "A comparative study of regenerated bamboo, cotton and viscose rayon fabrics. Part 1: selected comfort properties | Journal of Consumer Sciences"
-        }
-      ],
-      "count": 1
+      "count": 3
     }
   ],
-  "total_bookmarks": 115,
-  "num_folders": 28
+  "total_bookmarks": 114,
+  "num_folders": 15
 }

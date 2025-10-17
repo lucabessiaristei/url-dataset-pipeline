@@ -1,10 +1,222 @@
 {
   "folders": [
     {
-      "name": "organizations",
+      "name": "education-research-public-resources",
       "bookmarks": [
         {
-          "url": "https://www.aclu-mn.org",
+          "url": "https://bfm.sbc.net/bfm2000",
+          "title": "Baptist Faith and Message 2000 - The Baptist Faith and Message"
+        },
+        {
+          "url": "https://mabanque.bnpparibas/en/home",
+          "title": "BNP Paribas | The bank for a changing world"
+        },
+        {
+          "url": "https://data.calgary.ca/",
+          "title": "Open Calgary | Open Calgary"
+        },
+        {
+          "url": "https://discovery.nationalarchives.gov.uk/",
+          "title": "Discovery | The National Archives"
+        },
+        {
+          "url": "https://invest.bnpparibas/en",
+          "title": "Investors & Shareholders | BNP Paribas Bank"
+        },
+        {
+          "url": "https://opendata.paris.fr/explore/dataset/quartier_paris/information",
+          "title": "Quartiers administratifs - Paris Data"
+        },
+        {
+          "url": "https://partnerships.nature.com/product/researcher-training",
+          "title": "Training | Support Your Researchers | Nature Partnerships"
+        },
+        {
+          "url": "https://unitec.ac.nz/about-us/contact-us/staff-directory",
+          "title": "Staff Directory | Unitec"
+        },
+        {
+          "url": "https://ucsb.edu/",
+          "title": "Home | UC Santa Barbara"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "shopping-e-commerce-products",
+      "bookmarks": [
+        {
+          "url": "https://bmw-bahrain.com/en/index.html",
+          "title": "BMW Showroom | Manama, Bahrain | Euro Motors BMW"
+        },
+        {
+          "url": "https://kqzyfj.com/click-100635567-14042856",
+          "title": "EveryPlate Meal Kits: Easy & Affordable Meal Delivery Service"
+        },
+        {
+          "url": "https://buyflowine.com/",
+          "title": "FLO Wine"
+        },
+        {
+          "url": "https://uniqlo.com/us/en/products/e450229-000/00",
+          "title": "HEATTECH Scarf | UNIQLO US"
+        },
+        {
+          "url": "https://motoresdyg.com/audi/a4/motores-audi-a4-avant-b8-version-2011_mod123.html",
+          "title": "Motores Audi A4 Avant (B8) Versión 2011 de segunda mano - Motoresdyg"
+        },
+        {
+          "url": "https://3vmdistribuzione.it/home/541-operatore-per-cancelli-scorrevoli-k1400-fce-aa31140.html",
+          "title": "Operatore per cancelli scorrevoli K1400 FCE AA31140"
+        },
+        {
+          "url": "https://portuguese.alibaba.com/product-detail/artilady-artificial-wall-hanging-plants-with-wooden-sticks-home-decoration-1600378062143.html",
+          "title": "Product Not Available"
+        },
+        {
+          "url": "https://samuelssweetshop.com/",
+          "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "tech-software-development",
+      "bookmarks": [
+        {
+          "url": "https://apple.com/itunes/",
+          "title": "iTunes - Apple"
+        },
+        {
+          "url": "https://wiki.openstreetmap.org/wiki/contributors",
+          "title": "Contributors - OpenStreetMap Wiki"
+        },
+        {
+          "url": "https://hacks.mozilla.org/",
+          "title": "Home - Mozilla Hacks - the Web developer blog"
+        },
+        {
+          "url": "https://microsim.com/",
+          "title": "Introduction to Microsim of Mobile Phone"
+        },
+        {
+          "url": "https://nborg.com/",
+          "title": "nB0rg - Home"
+        },
+        {
+          "url": "https://docs.npmjs.com/",
+          "title": "npm Docs"
+        },
+        {
+          "url": "https://blog.whatsapp.com/",
+          "title": "WhatsApp Blog"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "environmental-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://ipcc.ch/report/ar6/wg2",
+          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
+        },
+        {
+          "url": "https://conservation.org/what/pages/forests.aspx",
+          "title": "Stabilizing Our Climate by Protecting and Restoring Nature"
+        },
+        {
+          "url": "https://apnews.com/article/china-oceans-overfishing-squid-294ff1e489589b2510cc806ec898c78f",
+          "title": "Great Wall of Lights: China's sea power on Darwin's doorstep | AP News"
+        },
+        {
+          "url": "https://donabertarelli.com/dona-bertarelli",
+          "title": "Our Founder - Dona Bertarelli Philanthropy"
+        },
+        {
+          "url": "https://oceansatlas.org/",
+          "title": "UN Atlas of the Oceans: Home"
+        },
+        {
+          "url": "https://belize.oceana.org/",
+          "title": "Home - Oceana Belize"
+        },
+        {
+          "url": "https://climateone.org/audio/whats-my-air",
+          "title": "What's in My Air? | Climate One"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "hobbies-arts-general",
+      "bookmarks": [
+        {
+          "url": "https://a-blissful-infinity.tumblr.com/",
+          "title": "Blissfully Infinite"
+        },
+        {
+          "url": "https://dbricette.it/database.htm",
+          "title": "DBRicette: Database ricette"
+        },
+        {
+          "url": "https://thehub.online/hub-forums",
+          "title": "Domain Details Page"
+        },
+        {
+          "url": "https://emigre.com/",
+          "title": "Emigre: Fonts"
+        },
+        {
+          "url": "https://instructables.com/kites",
+          "title": "Kites - Instructables"
+        },
+        {
+          "url": "https://puzzles.mit.edu/",
+          "title": "MIT Mystery Hunt / Puzzle Club"
+        },
+        {
+          "url": "https://directaccessrecipes.com/index.jsp",
+          "title": "Searchable Recipe Database - Italian Spinach with Raisins and Pine Nuts"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "news-media-sports",
+      "bookmarks": [
+        {
+          "url": "https://newsroom.accenture.com/",
+          "title": "Newsroom | Accenture"
+        },
+        {
+          "url": "https://cekfakta.com/",
+          "title": "CekFakta"
+        },
+        {
+          "url": "https://sevesteen.com/feeds/3240310945383736767/comments/default",
+          "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
+        },
+        {
+          "url": "https://formula1.com/en/latest/all.html",
+          "title": "Latest F1 News"
+        },
+        {
+          "url": "https://goal.com/en",
+          "title": "Football News, Live Scores, Results & Transfers | Goal.com"
+        },
+        {
+          "url": "https://ipsnews.be/",
+          "title": "Home | Inter Press Service"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "social-justice-community",
+      "bookmarks": [
+        {
+          "url": "https://aclu-mn.org/",
           "title": "ACLU of Minnesota"
         },
         {
@@ -12,373 +224,95 @@
           "title": "Heartland St. Louis Black Chamber of Commerce"
         },
         {
-          "url": "http://Rescue-EU.org",
-          "title": "International Rescue Committee | International Rescue Committee (IRC)"
-        },
-        {
-          "url": "https://www.ncnw.org",
+          "url": "https://ncnw.org/",
           "title": "NCNW | Lead, Advocate, and Empower Women of African descent"
         },
         {
-          "url": "https://www.usbcwomenofpower.com/",
+          "url": "https://usbcwomenofpower.com/",
           "title": "Home | USBC Womens Power 50"
         },
         {
-          "url": "https://www.uso.org/",
-          "title": "United Service Organizations"
+          "url": "https://thenevadaindependent.com/article/why-is-the-nevada-department-of-corrections-profiting-off-struggling-families",
+          "title": "Why is the Nevada Department of Corrections profiting off struggling families? - The Nevada Independent"
         },
         {
-          "url": "https://www.ywca-berkeley.org/",
+          "url": "https://ywca-berkeley.org/",
           "title": "YWCA Berkeley/Oakland | Social Justice | Career Readiness | Financial Literacy"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
-      "name": "technology",
+      "name": "travel-urban-tourism",
       "bookmarks": [
         {
-          "url": "https://blog.whatsapp.com/",
-          "title": "WhatsApp Blog"
-        },
-        {
-          "url": "https://hacks.mozilla.org/",
-          "title": "Home - Mozilla Hacks - the Web developer blog"
-        },
-        {
-          "url": "http://www.microsim.com/",
-          "title": "Introduction to Microsim of Mobile Phone"
-        },
-        {
-          "url": "https://www.apple.com/itunes/",
-          "title": "iTunes - Apple"
-        },
-        {
-          "url": "https://www.wadhwaniai.org",
-          "title": "AI for Social Impact - Wadhwani AI | Wadhwani AI is an independent nonprofit institute developing AI-based solutions for underserved communities in developing countries."
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://www.alpesdemoto.com/2013/07/com-quem-vamos.html",
+          "url": "https://alpesdemoto.com/2013/07/com-quem-vamos.html",
           "title": "Alpes de Moto: Com quem vamos"
         },
         {
-          "url": "http://haus-anna.eu/Haus-Anna-Ferienwohnung_pid,11489,N,12,y,2021,m,1,type,fbcal.html",
-          "title": "Ferienwohnung - Haus Anna - Kössen in Tirol"
+          "url": "https://molbubi.hu/",
+          "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
         },
         {
-          "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre/",
+          "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre",
           "title": "Festa del cioccolato artigianale sui Navigli Milanesi - MILANOEVENTS.IT | News 2.0 ed Eventi a Milano"
+        },
+        {
+          "url": "https://haus-anna.eu/haus-anna-ferienwohnung_pid,11489,n,12,y,2021,m,1,type,fbcal.html",
+          "title": "Ferienwohnung - Haus Anna - Kössen in Tirol"
         },
         {
           "url": "https://bk.asia-city.com/restaurants/news/bangkok-best-street-food",
           "title": "How many of these essential Bangkok street eats have you tasted? - BK Magazine Online | The insider's guide to Bangkok"
         },
         {
-          "url": "https://www.mysticaquarium.org/",
+          "url": "https://mysticaquarium.org/",
           "title": "Mystic Aquarium"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://a-blissful-infinity.tumblr.com/",
-          "title": "Blissfully Infinite"
-        },
-        {
-          "url": "https://www.sevesteen.com/feeds/3240310945383736767/comments/default",
-          "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
-        },
-        {
-          "url": "https://thehub.online/hub-forums/",
-          "title": "Domain Details Page"
-        },
-        {
-          "url": "https://portuguese.alibaba.com/product-detail/artilady-artificial-wall-hanging-plants-with-wooden-sticks-home-decoration-1600378062143.html",
-          "title": "Product Not Available"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "reference",
-      "bookmarks": [
-        {
-          "url": "https://bfm.sbc.net/bfm2000/#vi",
-          "title": "Baptist Faith and Message 2000 - The Baptist Faith and Message"
-        },
-        {
-          "url": "https://wiki.openstreetmap.org/wiki/Contributors",
-          "title": "Contributors - OpenStreetMap Wiki"
-        },
-        {
-          "url": "https://discovery.nationalarchives.gov.uk/",
-          "title": "Discovery | The National Archives"
-        },
-        {
-          "url": "http://www.oceansatlas.org/",
-          "title": "UN Atlas of the Oceans: Home"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://buyflowine.com/",
-          "title": "FLO Wine"
-        },
-        {
-          "url": "https://www.uniqlo.com/us/en/products/E450229-000/00?colorDisplayCode=67",
-          "title": "HEATTECH Scarf | UNIQLO US"
-        },
-        {
-          "url": "https://3vmdistribuzione.it/home/541-operatore-per-cancelli-scorrevoli-k1400-fce-aa31140.html",
-          "title": "Operatore per cancelli scorrevoli K1400 FCE AA31140"
-        },
-        {
-          "url": "https://samuelssweetshop.com/",
-          "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "http://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
-        },
-        {
-          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
-          "title": "Staff Directory | Unitec"
-        },
-        {
-          "url": "https://partnerships.nature.com/product/researcher-training/",
-          "title": "Training | Support Your Researchers | Nature Partnerships"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "environment-conservation",
-      "bookmarks": [
-        {
-          "url": "https://donabertarelli.com/dona-bertarelli/",
-          "title": "Our Founder - Dona Bertarelli Philanthropy"
-        },
-        {
-          "url": "https://belize.oceana.org/",
-          "title": "Home - Oceana Belize"
-        },
-        {
-          "url": "https://www.conservation.org/what/Pages/forests.aspx",
-          "title": "Stabilizing Our Climate by Protecting and Restoring Nature"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "finance-corporate",
-      "bookmarks": [
-        {
-          "url": "https://mabanque.bnpparibas/en/home",
-          "title": "BNP Paribas | The bank for a changing world"
-        },
-        {
-          "url": "https://invest.bnpparibas/en",
-          "title": "Investors & Shareholders | BNP Paribas Bank"
-        },
-        {
-          "url": "https://newsroom.accenture.com",
-          "title": "Newsroom | Accenture"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://apnews.com/article/china-oceans-overfishing-squid-294ff1e489589b2510cc806ec898c78f",
-          "title": "Great Wall of Lights: China's sea power on Darwin's doorstep | AP News"
-        },
-        {
-          "url": "https://ipsnews.be",
-          "title": "Home | Inter Press Service"
-        },
-        {
-          "url": "https://thenevadaindependent.com/article/why-is-the-nevada-department-of-corrections-profiting-off-struggling-families",
-          "title": "Why is the Nevada Department of Corrections profiting off struggling families? - The Nevada Independent"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "automotive",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-bahrain.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Showroom | Manama, Bahrain | Euro Motors BMW"
-        },
-        {
-          "url": "https://www.motoresdyg.com/audi/a4/motores-audi-a4-avant-b8-version-2011_mod123.html",
-          "title": "Motores Audi A4 Avant (B8) Versión 2011 de segunda mano - Motoresdyg"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "climate-change",
-      "bookmarks": [
-        {
-          "url": "https://www.ipcc.ch/report/ar6/wg2/",
-          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
-        },
-        {
-          "url": "https://www.climateone.org/audio/what%E2%80%99s-my-air",
-          "title": "What's in My Air? | Climate One"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "data-portal",
-      "bookmarks": [
-        {
-          "url": "https://data.calgary.ca/",
-          "title": "Open Calgary | Open Calgary"
-        },
-        {
-          "url": "https://opendata.paris.fr/explore/dataset/quartier_paris/information/",
-          "title": "Quartiers administratifs - Paris Data"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "dev-reference",
-      "bookmarks": [
-        {
-          "url": "http://www.nborg.com",
-          "title": "nB0rg - Home"
-        },
-        {
-          "url": "https://docs.npmjs.com/",
-          "title": "npm Docs"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health-wellness",
+      "name": "health-wellness-parenting",
       "bookmarks": [
         {
           "url": "https://teaamour.com/blogs/news/benefits-of-eating-organic-honey",
           "title": "Benefits of eating Organic Honey.. - Tea Amour® LLC"
         },
         {
-          "url": "https://www.psychologytoday.com/us/blog/living-sticky-mind/202111/why-some-people-just-cant-make-their-minds",
-          "title": "Why Some People Just Can't Make Up Their Minds | Psychology Today"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "hobby-crafts",
-      "bookmarks": [
-        {
-          "url": "https://www.instructables.com/Kites/",
-          "title": "Kites - Instructables"
-        },
-        {
-          "url": "https://puzzles.mit.edu/",
-          "title": "MIT Mystery Hunt / Puzzle Club"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "parenting-guide",
-      "bookmarks": [
-        {
-          "url": "https://sesamestreetformilitaryfamilies.org/topic/grief/?ytid=XI4-8ZQ1PRE",
+          "url": "https://sesamestreetformilitaryfamilies.org/topic/grief",
           "title": "Grief |Sesame Street: Explaining Death to Children"
         },
         {
-          "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022?i=1000457275091",
+          "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022",
           "title": "Sunny, Stormy, Cloudy Days 01:... - Sesame in Communities - Apple Podcasts"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "recipes",
-      "bookmarks": [
-        {
-          "url": "https://www.dbricette.it/database.htm",
-          "title": "DBRicette: Database ricette"
         },
         {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85932",
-          "title": "Searchable Recipe Database - Italian Spinach with Raisins and Pine Nuts"
+          "url": "https://psychologytoday.com/us/blog/living-sticky-mind/202111/why-some-people-just-cant-make-their-minds",
+          "title": "Why Some People Just Can't Make Up Their Minds | Psychology Today"
         }
       ],
-      "count": 2
+      "count": 4
     },
     {
-      "name": "services",
+      "name": "humanitarian-nonprofit-aid",
       "bookmarks": [
         {
-          "url": "https://www.kqzyfj.com/click-100635567-14042856?sid=--people",
-          "title": "EveryPlate Meal Kits: Easy & Affordable Meal Delivery Service"
+          "url": "https://wadhwaniai.org/",
+          "title": "AI for Social Impact - Wadhwani AI | Wadhwani AI is an independent nonprofit institute developing AI-based solutions for underserved communities in developing countries."
         },
         {
-          "url": "https://molbubi.hu/",
-          "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "sports",
-      "bookmarks": [
-        {
-          "url": "https://www.goal.com/en",
-          "title": "Football News, Live Scores, Results & Transfers | Goal.com"
+          "url": "https://rescue-eu.org/",
+          "title": "International Rescue Committee | International Rescue Committee (IRC)"
         },
         {
-          "url": "https://www.formula1.com/en/latest/all.html",
-          "title": "Latest F1 News"
+          "url": "https://uso.org/",
+          "title": "United Service Organizations"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "tools",
-      "bookmarks": [
-        {
-          "url": "http://CekFakta.com?trk=organization_guest_main-feed-card-text",
-          "title": "CekFakta"
-        },
-        {
-          "url": "http://www.emigre.com/",
-          "title": "Emigre: Fonts"
-        }
-      ],
-      "count": 2
+      "count": 3
     }
   ],
   "total_bookmarks": 63,
-  "num_folders": 21
+  "num_folders": 10
 }

@@ -1,0 +1,2982 @@
+{
+  "0318": {
+    "file_input": "in_split_0318.json",
+    "file_output": "out_split_0318.json",
+    "missing_count": 5,
+    "extra_count": 4,
+    "url_changes_total": 106,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://abc.net.au/news/science",
+        "to": "https://www.abc.net.au/news/science/"
+      },
+      {
+        "from": "https://teleamazonas.com/los-nominados-en-los-globos-de-oro-2020",
+        "to": "https://www.teleamazonas.com/los-nominados-en-los-globos-de-oro-2020/"
+      },
+      {
+        "from": "https://bucksfreepress.co.uk/news/23336608.princess-wales-shares-family-plans-pancake-day-slough",
+        "to": "https://www.bucksfreepress.co.uk/news/23336608.princess-wales-shares-family-plans-pancake-day-slough/"
+      },
+      {
+        "from": "https://globenewswire.com/news-release/2016/04/22/831819/0/en/Energate-and-WattTime-org-Partner-to-Enable-Smart-Thermostat-to-Maximize-Use-of-Environmentally-Friendly-Resources.html",
+        "to": "http://globenewswire.com/news-release/2016/04/22/831819/0/en/Energate-and-WattTime-org-Partner-to-Enable-Smart-Thermostat-to-Maximize-Use-of-Environmentally-Friendly-Resources.html"
+      },
+      {
+        "from": "https://ipsnews.net/deutsch",
+        "to": "https://www.ipsnews.net/deutsch/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 96,
+    "final_total_bookmarks": 137,
+    "applied": true
+  },
+  "0319": {
+    "file_input": "in_split_0319.json",
+    "file_output": "out_split_0319.json",
+    "missing_count": 11,
+    "extra_count": 11,
+    "url_changes_total": 90,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://hembroinfotech.com/online-exam-portal-Manipur.php",
+        "to": "https://www.hembroinfotech.com/online-exam-portal-Manipur.php"
+      },
+      {
+        "from": "https://shavedham.blogspot.com/p/shaved-labs-privacy-policy.html",
+        "to": "http://shavedham.blogspot.com/p/shaved-labs-privacy-policy.html"
+      },
+      {
+        "from": "https://bpmob.com/voicetranslator/support",
+        "to": "http://bpmob.com/voicetranslator/support/"
+      },
+      {
+        "from": "https://aclu.org",
+        "to": "http://www.aclu.org/"
+      },
+      {
+        "from": "https://aauw.org",
+        "to": "https://www.aauw.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 72,
+    "final_total_bookmarks": 101,
+    "applied": true
+  },
+  "0320": {
+    "file_input": "in_split_0320.json",
+    "file_output": "out_split_0320.json",
+    "missing_count": 14,
+    "extra_count": 7,
+    "url_changes_total": 81,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://aftonbladet.se/nyheter",
+        "to": "https://www.aftonbladet.se/nyheter/"
+      },
+      {
+        "from": "https://faz.net/aktuell/feuilleton/buehne-und-konzert/eklat-in-hannover-attacke-mit-tierkot-auf-unsere-tanzkritikerin-18672999.html",
+        "to": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/eklat-in-hannover-attacke-mit-tierkot-auf-unsere-tanzkritikerin-18672999.html"
+      },
+      {
+        "from": "https://kongehuset.dk/nyheder/h-m-dronningen-skal-opereres",
+        "to": "https://www.kongehuset.dk/nyheder/h-m-dronningen-skal-opereres"
+      },
+      {
+        "from": "https://customers.microsoft.com/en-us/search",
+        "to": "https://customers.microsoft.com/en-us/search?sq=&ff=story_product_categories%26%3EAzure&p=0&so=story_publish_date%20desc"
+      },
+      {
+        "from": "https://mailback-msft.tes-amm.com/_Content/de-AT",
+        "to": "https://mailback-msft.tes-amm.com/_Content/de-AT/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 65,
+    "final_total_bookmarks": 98,
+    "applied": true
+  },
+  "0321": {
+    "file_input": "in_split_0321.json",
+    "file_output": "out_split_0321.json",
+    "missing_count": 12,
+    "extra_count": 8,
+    "url_changes_total": 123,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://crontab.cronhub.io",
+        "to": "https://crontab.cronhub.io/"
+      },
+      {
+        "from": "https://elementor.com",
+        "to": "https://elementor.com/"
+      },
+      {
+        "from": "https://notelet.so",
+        "to": "https://notelet.so/"
+      },
+      {
+        "from": "https://jobs.fao.org/careersection/fao_external/jobsearch.ftl",
+        "to": "https://jobs.fao.org/careersection/fao_external/jobsearch.ftl?lang=en"
+      },
+      {
+        "from": "https://naceweb.org/about-us/jobwire.aspx",
+        "to": "https://www.naceweb.org/about-us/jobwire.aspx"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 111,
+    "final_total_bookmarks": 142,
+    "applied": true
+  },
+  "0322": {
+    "file_input": "in_split_0322.json",
+    "file_output": "out_split_0322.json",
+    "missing_count": 3,
+    "extra_count": 3,
+    "url_changes_total": 50,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://thecenterutica.org/",
+        "to": "https://www.thecenterutica.org/"
+      },
+      {
+        "from": "https://clover.com/",
+        "to": "https://www.clover.com"
+      },
+      {
+        "from": "https://madisonblackchamber.com/",
+        "to": "https://www.madisonblackchamber.com/"
+      },
+      {
+        "from": "https://sfaacc.org/",
+        "to": "https://www.sfaacc.org/"
+      },
+      {
+        "from": "https://radio.it/",
+        "to": "http://www.radio.it/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://threetreecoffee.com/blogs/news/growlers-bottles-and-ice-cream-oh-my",
+        "from": "Growlers, Bottles, and Ice Cream...Oh My!",
+        "to": "Growlers, Bottles, and Ice Cream...Oh My! - Three Tree Coffee Roasters"
+      }
+    ],
+    "final_num_folders": 83,
+    "final_total_bookmarks": 92,
+    "applied": true
+  },
+  "0323": {
+    "file_input": "in_split_0323.json",
+    "file_output": "out_split_0323.json",
+    "missing_count": 4,
+    "extra_count": 2,
+    "url_changes_total": 56,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://darpa.mil",
+        "to": "http://www.darpa.mil/"
+      },
+      {
+        "from": "https://newscorp.com",
+        "to": "https://newscorp.com/"
+      },
+      {
+        "from": "https://earthday.org",
+        "to": "https://www.earthday.org/"
+      },
+      {
+        "from": "https://glamour.com/gallery/taylor-swift-red-lipstick-shop",
+        "to": "https://www.glamour.com/gallery/taylor-swift-red-lipstick-shop"
+      },
+      {
+        "from": "https://refinery29.com/en-us/fashion-trends-2025",
+        "to": "https://www.refinery29.com/en-us/fashion-trends-2025"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 53,
+    "final_total_bookmarks": 70,
+    "applied": true
+  },
+  "0324": {
+    "file_input": "in_split_0324.json",
+    "file_output": "out_split_0324.json",
+    "missing_count": 4,
+    "extra_count": 4,
+    "url_changes_total": 73,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://copalmn.org/en/home",
+        "to": "https://copalmn.org/en/home/"
+      },
+      {
+        "from": "https://gettysburgfoundation.org",
+        "to": "https://www.gettysburgfoundation.org/"
+      },
+      {
+        "from": "https://tbf.org",
+        "to": "https://www.tbf.org/"
+      },
+      {
+        "from": "https://yearup.org",
+        "to": "https://www.yearup.org/"
+      },
+      {
+        "from": "https://unfpa.org/gender-equality",
+        "to": "http://www.unfpa.org/gender-equality"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 66,
+    "final_total_bookmarks": 86,
+    "applied": true
+  },
+  "0325": {
+    "file_input": "in_split_0325.json",
+    "file_output": "out_split_0325.json",
+    "missing_count": 5,
+    "extra_count": 4,
+    "url_changes_total": 64,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://kcpt.org/blogs/education",
+        "to": "https://www.kcpt.org/blogs/education/"
+      },
+      {
+        "from": "https://nciea.org/blog/instruction/what-leads-positive-changes-student-learning",
+        "to": "https://www.nciea.org/blog/instruction/what-leads-positive-changes-student-learning"
+      },
+      {
+        "from": "https://shi.ch/schule-vortraege/informationen/ueber-uns-schule/dozenten-homoeopathie/elfriede-schaeffler",
+        "to": "https://www.shi.ch/schule-vortraege/informationen/ueber-uns-schule/dozenten-homoeopathie/elfriede-schaeffler"
+      },
+      {
+        "from": "https://explorable.com",
+        "to": "https://explorable.com/"
+      },
+      {
+        "from": "https://freerice.com",
+        "to": "http://freerice.com"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.nciea.org/blog/instruction/what-leads-positive-changes-student-learning",
+        "from": "What leads to positive changes in student learning",
+        "to": "void"
+      }
+    ],
+    "final_num_folders": 27,
+    "final_total_bookmarks": 75,
+    "applied": true
+  },
+  "0326": {
+    "file_input": "in_split_0326.json",
+    "file_output": "out_split_0326.json",
+    "missing_count": 4,
+    "extra_count": 4,
+    "url_changes_total": 36,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://survey.medallia.com",
+        "to": "https://survey.medallia.com/?711-gr&channel=6&type=2"
+      },
+      {
+        "from": "https://johanna-benden.de/tag/es-geht-weiter",
+        "to": "https://www.johanna-benden.de/tag/es-geht-weiter/"
+      },
+      {
+        "from": "https://editorialmanager.com/pone/default.asp",
+        "to": "https://www.editorialmanager.com/pone/default.asp"
+      },
+      {
+        "from": "https://justice.kaporcenter.org",
+        "to": "https://justice.kaporcenter.org/"
+      },
+      {
+        "from": "https://lulac.org",
+        "to": "https://lulac.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 21,
+    "final_total_bookmarks": 39,
+    "applied": true
+  },
+  "0327": {
+    "file_input": "in_split_0327.json",
+    "file_output": "out_split_0327.json",
+    "missing_count": 6,
+    "extra_count": 2,
+    "url_changes_total": 90,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://nbcuniversal.com/privacy/cookies",
+        "to": "https://www.nbcuniversal.com/privacy/cookies#cookie_management"
+      },
+      {
+        "from": "https://nortonlifelock.com/privacy",
+        "to": "https://www.nortonlifelock.com/privacy"
+      },
+      {
+        "from": "https://suporte.handtalk.me/kb/article/240765/hand-talk-website-privacy-policy",
+        "to": "https://suporte.handtalk.me/kb/article/240765/hand-talk-website-privacy-policy?menuId=25983-69990-240765&ticketId=&q="
+      },
+      {
+        "from": "https://bakewithshivesh.com",
+        "to": "https://bakewithshivesh.com/"
+      },
+      {
+        "from": "https://thasneen.com/cooking",
+        "to": "http://www.thasneen.com/cooking/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 102,
+    "final_total_bookmarks": 114,
+    "applied": true
+  },
+  "0328": {
+    "file_input": "in_split_0328.json",
+    "file_output": "out_split_0328.json",
+    "missing_count": 18,
+    "extra_count": 12,
+    "url_changes_total": 91,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://csga07.fr/protected",
+        "to": "https://www.csga07.fr/protected/?comeFrom=https%3A%2F%2Fwww.csga07.fr%2Fespace-membre%2Fgoogle-groupe%2F&"
+      },
+      {
+        "from": "https://grantinterface.com/home/logon?urlkey=seattle",
+        "to": "https://www.grantinterface.com/Home/Logon?urlkey=seattle"
+      },
+      {
+        "from": "https://landsend.com",
+        "to": "http://www.landsend.com/"
+      },
+      {
+        "from": "https://urbanic.com",
+        "to": "https://www.urbanic.com/?country_code=IN&utm_source=google&utm_medium=cpc&gclid=CjwKCAiA7939BRBMEiwA-hX5JxrSomTtxmB1OVfePe9Bp00h"
+      },
+      {
+        "from": "https://chessdom.com",
+        "to": "http://www.chessdom.com/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 85,
+    "final_total_bookmarks": 105,
+    "applied": true
+  },
+  "0329": {
+    "file_input": "in_split_0329.json",
+    "file_output": "out_split_0329.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 2,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?response_type=id_token&scope=openid%20profile&client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&redirect_uri=https%3A%2F%2Fteams.microsoft.com%2Fgo&state=eyJpZCI6ImI3MzFhMWI1LTlkNDEtNGQwZC1hOTNmLTJkNGYwODM2ZjE0NSIsInRzIjoxNjU4NTEwODE0LCJtZXRob2QiOiJyZWRpcmVjdEludGVyYWN0aW9uIn0%3D&nonce=c90b6046-43dd-48fb-8150-32ac84eb7242&client-info=1&x-client-SKU=MSAL.JS&x-client-Ver=1.3.4&client-request-id=2d4dccbc-bd89-4e0b-93eb-ed9604cfb598&response_mode=fragment",
+        "to": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?response_type=id_token&scope=openid%20profile&client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&redirect_uri=https%3A%2F%2Fteams.microsoft.com%2Fgo&state=eyJpZCI6ImI3MzFhMWI1LTlkNDEtNGQwZC1hOTNmLTJkNGYwODM2ZjE0NSIsInRzIjoxNjU4NTEwODE0LCJtZXRob2QiOiJyZWRpcmVjdEludGVyYWN0aW9uIn0%3D&nonce=c90b6046-43dd-48fb-8150-32ac84eb7242&client_info=1&x-client-SKU=MSAL.JS&x-client-Ver=1.3.4&client-request-id=2d4dccbc-bd89-4e0b-93eb-ed9604cfb598&response_mode=fragment"
+      },
+      {
+        "from": "https://bugs.ruby-lang.org/issues?page=32&per_page=50&sort=subject%3Adesc%2Cstatus%3Cassigned_to",
+        "to": "https://bugs.ruby-lang.org/issues?page=32&per_page=50&sort=subject%3Adesc%2Cstatus%2Cassigned_to"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 99,
+    "final_total_bookmarks": 144,
+    "applied": true
+  },
+  "0330": {
+    "file_input": "in_split_0330.json",
+    "file_output": "out_split_0330.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 67,
+    "title_changes_total": 11,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://ci.carson.ca.us",
+        "to": "http://ci.carson.ca.us/"
+      },
+      {
+        "from": "https://valencia.es",
+        "to": "https://www.valencia.es/"
+      },
+      {
+        "from": "https://eventbrite.ie/e/coursera-x-grow-with-google-google-data-analytics-webinar-registration-557036881307",
+        "to": "https://www.eventbrite.ie/e/coursera-x-grow-with-google-google-data-analytics-webinar-registration-557036881307?aff=erelexpmlt"
+      },
+      {
+        "from": "https://westcoastanalytics.com",
+        "to": "http://www.westcoastanalytics.com/"
+      },
+      {
+        "from": "https://msepjobs.militaryonesource.mil/msep",
+        "to": "https://msepjobs.militaryonesource.mil/msep/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.museothyssen.org/en/activities",
+        "from": "Museo Thyssen Activities",
+        "to": "You are being redirected..."
+      },
+      {
+        "url": "https://placeanad.chicagotribune.com/whos-who#nt=secondarynavbar",
+        "from": "Chicago Tribune Who's Who Ad",
+        "to": "Chicago Tribune"
+      },
+      {
+        "url": "https://www.zerocric.com/",
+        "from": "Zerocric Homepage",
+        "to": "zerocric.com -"
+      },
+      {
+        "url": "http://www.lawyersadvantage.com/",
+        "from": "Lawyers Advantage (Domain Expired)",
+        "to": "void"
+      },
+      {
+        "url": "https://news.nationalgeographic.com/2018/02/global-industrial-fishing-footprint-spd/?beta=true",
+        "from": "National Geographic: Global Industrial Fishing Footprint",
+        "to": "National Geographic | National Geographic"
+      }
+    ],
+    "final_num_folders": 73,
+    "final_total_bookmarks": 79,
+    "applied": true
+  },
+  "0331": {
+    "file_input": "in_split_0331.json",
+    "file_output": "out_split_0331.json",
+    "missing_count": 8,
+    "extra_count": 5,
+    "url_changes_total": 63,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms/",
+        "to": "https://www.perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms/"
+      },
+      {
+        "from": "https://metv.com/privacy-policy/",
+        "to": "https://www.metv.com/privacy-policy/"
+      },
+      {
+        "from": "https://mccormickfoundation.org/",
+        "to": "https://www.mccormickfoundation.org/"
+      },
+      {
+        "from": "https://makeswift.com/",
+        "to": "https://www.makeswift.com/"
+      },
+      {
+        "from": "https://weebly.com/",
+        "to": "https://www.weebly.com/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 90,
+    "final_total_bookmarks": 94,
+    "applied": true
+  },
+  "0332": {
+    "file_input": "in_split_0332.json",
+    "file_output": "out_split_0332.json",
+    "missing_count": 16,
+    "extra_count": 6,
+    "url_changes_total": 87,
+    "title_changes_total": 21,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://glockapps.com",
+        "to": "https://glockapps.com/"
+      },
+      {
+        "from": "https://handtalk.me",
+        "to": "https://www.handtalk.me/"
+      },
+      {
+        "from": "https://rufenacht.com",
+        "to": "http://www.rufenacht.com/"
+      },
+      {
+        "from": "https://zendesk.com/service/help-center",
+        "to": "https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Customer+Support"
+      },
+      {
+        "from": "https://bubble.io",
+        "to": "https://bubble.io/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "http://www.rufenacht.com/",
+        "from": "Rufenacht Innovative - New Solutions",
+        "to": "Rufenacht Innovative - new solutions for old problems"
+      },
+      {
+        "url": "https://business.gyft.com/gift-card-catalog/",
+        "from": "Gyft Business Gift Card Catalog",
+        "to": "Radware Bot Manager Captcha"
+      },
+      {
+        "url": "https://smb.apple.com/contactus",
+        "from": "Apple Small Business Contact",
+        "to": "Apple"
+      },
+      {
+        "url": "https://desafio2017.withgoogle.com/latam2017",
+        "from": "Google Desafio 2017 LATAM",
+        "to": "Google"
+      },
+      {
+        "url": "https://nereusprogram.org/reports/policy-brief-satellite-tracking-to-monitor-area-based-management-tools-identify-governance-gaps-in-fisheries-beyond-national-jurisdiction/",
+        "from": "POLICY BRIEF: Satellite tracking to monitor area-based management tools & identify governance gaps in fisheries beyond national jurisdiction",
+        "to": "POLICY BRIEF: Satellite tracking to monitor area-based management tools & identify governance gaps in fisheries beyond national jurisdiction - Nereus Program - The Nippon Foundation"
+      }
+    ],
+    "final_num_folders": 70,
+    "final_total_bookmarks": 109,
+    "applied": true
+  },
+  "0333": {
+    "file_input": "in_split_0333.json",
+    "file_output": "out_split_0333.json",
+    "missing_count": 6,
+    "extra_count": 4,
+    "url_changes_total": 97,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://accessability.org",
+        "to": "https://www.accessability.org/"
+      },
+      {
+        "from": "https://centerforeconomicinclusion.org",
+        "to": "https://www.centerforeconomicinclusion.org/"
+      },
+      {
+        "from": "https://crisistextline.org",
+        "to": "https://www.crisistextline.org/"
+      },
+      {
+        "from": "https://ejfoundation.org",
+        "to": "https://ejfoundation.org/"
+      },
+      {
+        "from": "https://hispanicfederation.org",
+        "to": "https://hispanicfederation.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 49,
+    "final_total_bookmarks": 119,
+    "applied": true
+  },
+  "0334": {
+    "file_input": "in_split_0334.json",
+    "file_output": "out_split_0334.json",
+    "missing_count": 3,
+    "extra_count": 3,
+    "url_changes_total": 77,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://pagat.com/adders",
+        "to": "https://www.pagat.com/adders/"
+      },
+      {
+        "from": "https://pagat.com/invented/cribbage_solitaire.html",
+        "to": "http://www.pagat.com/invented/cribbage_solitaire.html"
+      },
+      {
+        "from": "https://nborg.com/privacy.html",
+        "to": "http://www.nborg.com/privacy.html"
+      },
+      {
+        "from": "https://centerffs.org",
+        "to": "https://www.centerffs.org/"
+      },
+      {
+        "from": "https://gatesfoundation.org",
+        "to": "https://www.gatesfoundation.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 91,
+    "final_total_bookmarks": 95,
+    "applied": true
+  },
+  "0335": {
+    "file_input": "in_split_0335.json",
+    "file_output": "out_split_0335.json",
+    "missing_count": 4,
+    "extra_count": 2,
+    "url_changes_total": 46,
+    "title_changes_total": 6,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://fiskeridir.no/yrkesfiske/rapportering-paa-havet/aapenhet-om-fangst-og-aktivitetsdata-ers-og-posisjonsrapportering",
+        "to": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering"
+      },
+      {
+        "from": "https://cdcr.ca.gov/",
+        "to": "https://www.cdcr.ca.gov/"
+      },
+      {
+        "from": "https://gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
+        "to": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg"
+      },
+      {
+        "from": "https://drinkbai.com/bai-boost",
+        "to": "https://www.drinkbai.com/bai-boost"
+      },
+      {
+        "from": "https://baobabcollection.com/eu/en/scented-candles/rainforest",
+        "to": "https://www.baobabcollection.com/eu/en/scented-candles/rainforest/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "http://hosted2.ap.org/APDefault/*/Article_2015-03-05-US--Blurred%20Lines-Song%20Dispute/id-a6024f2efd254832b069c86a57c70c44",
+        "from": "AP News: Blurred Lines Song Dispute",
+        "to": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News"
+      },
+      {
+        "url": "https://www.myvanilladebitcard.com/myvanilla/static/pdf/MyVanilla_Privacy_Policy_ENG.pdf",
+        "from": "MyVanilla Privacy Policy (PDF)",
+        "to": "Pardon Our Interruption"
+      },
+      {
+        "url": "https://localopportunity.withgoogle.com/tools/local-opportunity-finder/?utm_source=gwg&utm_medium=ep&utm_campaign=gwg_site",
+        "from": "Google Local Opportunity Finder Tool",
+        "to": "Before you continue"
+      },
+      {
+        "url": "https://naacpepi.tfaforms.net/10",
+        "from": "Lyft Code Request Form",
+        "to": "void"
+      },
+      {
+        "url": "https://www.lc-hoevelaken.nl/portal2/index.php/foto-albums/113-nieuwjaarsbijeenkomst-2017",
+        "from": "Grafstenen Product Examples",
+        "to": "Grafstenen, 500+ grafsteen voorbeelden online te zien"
+      }
+    ],
+    "final_num_folders": 42,
+    "final_total_bookmarks": 73,
+    "applied": true
+  },
+  "0336": {
+    "file_input": "in_split_0336.json",
+    "file_output": "out_split_0336.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 20,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://beaconinterfaith.org/",
+        "to": "https://www.beaconinterfaith.org/"
+      },
+      {
+        "from": "https://opentuna.org/",
+        "to": "http://www.opentuna.org/"
+      },
+      {
+        "from": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007",
+        "to": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/"
+      },
+      {
+        "from": "https://de.linkedin.com/company/leoncycle",
+        "to": "https://de.linkedin.com/company/leoncycle?trk=public_jobs_jserp-result_job-search-card-subtitle"
+      },
+      {
+        "from": "https://hk.linkedin.com/company/south-china-morning-post",
+        "to": "https://hk.linkedin.com/company/south-china-morning-post?trk=organization_guest_main-feed-card-text"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 28,
+    "final_total_bookmarks": 80,
+    "applied": true
+  },
+  "0337": {
+    "file_input": "in_split_0337.json",
+    "file_output": "out_split_0337.json",
+    "missing_count": 5,
+    "extra_count": 3,
+    "url_changes_total": 78,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://musica.it",
+        "to": "http://www.musica.it/"
+      },
+      {
+        "from": "https://wwos.nine.com.au",
+        "to": "https://wwos.nine.com.au/"
+      },
+      {
+        "from": "https://the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show",
+        "to": "https://www.the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show/"
+      },
+      {
+        "from": "https://sailacrossthesun.com",
+        "to": "http://www.sailacrossthesun.com/"
+      },
+      {
+        "from": "https://anime.desktopnexus.com/wallpaper/2056195",
+        "to": "https://anime.desktopnexus.com/wallpaper/2056195/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://xchaoticrage.tumblr.com/post/90177493115",
+        "from": "Too Much STEM, Not Enough Computer Science?",
+        "to": "💗VII-XVIII-MCMXCIII 💗 | Too Much STEM, Not Enough Computer Science?"
+      }
+    ],
+    "final_num_folders": 26,
+    "final_total_bookmarks": 98,
+    "applied": true
+  },
+  "0338": {
+    "file_input": "in_split_0338.json",
+    "file_output": "out_split_0338.json",
+    "missing_count": 2,
+    "extra_count": 0,
+    "url_changes_total": 44,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://gmtpost.com/post/new-gucci-dive-watches",
+        "to": "https://www.gmtpost.com/post/new-gucci-dive-watches"
+      },
+      {
+        "from": "https://iconi.com",
+        "to": "https://iconi.com/"
+      },
+      {
+        "from": "https://falfoundation.org",
+        "to": "https://www.falfoundation.org/"
+      },
+      {
+        "from": "https://inspireupfoundation.org",
+        "to": "https://inspireupfoundation.org/"
+      },
+      {
+        "from": "https://redeemercenter.org",
+        "to": "https://www.redeemercenter.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 48,
+    "final_total_bookmarks": 56,
+    "applied": true
+  },
+  "0339": {
+    "file_input": "in_split_0339.json",
+    "file_output": "out_split_0339.json",
+    "missing_count": 6,
+    "extra_count": 6,
+    "url_changes_total": 64,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://crisistextline.org",
+        "to": "https://www.crisistextline.org/"
+      },
+      {
+        "from": "https://tchabitat.org",
+        "to": "https://www.tchabitat.org/"
+      },
+      {
+        "from": "https://inspiringchildren.org",
+        "to": "https://www.inspiringchildren.org/"
+      },
+      {
+        "from": "https://migizi.org",
+        "to": "https://www.migizi.org/"
+      },
+      {
+        "from": "https://ndc-mn.org",
+        "to": "http://www.ndc-mn.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 54,
+    "final_total_bookmarks": 77,
+    "applied": true
+  },
+  "0340": {
+    "file_input": "in_split_0340.json",
+    "file_output": "out_split_0340.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 17,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://lawyersadvantage.com/",
+        "to": "http://www.lawyersadvantage.com/"
+      },
+      {
+        "from": "https://pably.pl/znalezione-w-kraju/splonela-choc-byla-piekna-i-zadbana",
+        "to": "http://www.pably.pl/znalezione-w-kraju/splonela-choc-byla-piekna-i-zadbana"
+      },
+      {
+        "from": "https://www.colorbasepair.com/bioinformatics_courses_tutorials.html",
+        "to": "http://www.colorbasepair.com/bioinformatics_courses_tutorials.html"
+      },
+      {
+        "from": "https://fr.linkedin.com/company/unibail-rodamco-westfield",
+        "to": "https://fr.linkedin.com/company/unibail-rodamco-westfield?trk=public_jobs_jserp-result_job-search-card-subtitle"
+      },
+      {
+        "from": "https://www.forbes.com/sites/laurendebter/2021/02/25/goodwill-online-website-hits-1-billion-sales/",
+        "to": "https://www.forbes.com/sites/laurendebter/2021/02/25/goodwill-online-website-hits-1-billion-sales/?sh=760750dd52c1"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 72,
+    "final_total_bookmarks": 75,
+    "applied": true
+  },
+  "0341": {
+    "file_input": "in_split_0341.json",
+    "file_output": "out_split_0341.json",
+    "missing_count": 4,
+    "extra_count": 4,
+    "url_changes_total": 48,
+    "title_changes_total": 4,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://nypost.com/2021/05/30/goodwill-forges-alliances-to-offer-free-career-training-resources",
+        "to": "https://nypost.com/2021/05/30/goodwill-forges-alliances-to-offer-free-career-training-resources/"
+      },
+      {
+        "from": "https://theverge.com/2018/7/18/17588624/facebook-misinformation-removal-violence-hate-speech-sri-lanka",
+        "to": "https://www.theverge.com/2018/7/18/17588624/facebook-misinformation-removal-violence-hate-speech-sri-lanka"
+      },
+      {
+        "from": "https://sport360.com",
+        "to": "https://sport360.com/"
+      },
+      {
+        "from": "https://digitaledition.aurorabeaconnews.chicagotribune.com",
+        "to": "http://digitaledition.aurorabeaconnews.chicagotribune.com/#nt=secondarynavbar"
+      },
+      {
+        "from": "https://robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device",
+        "to": "http://www.robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/g2986/classic-italian-recipes/",
+        "from": "Classic Italian Recipes - Delish.com",
+        "to": "20+ Easy Pumpkin Bars - Recipes for Pumpkin Dessert Bars-Delish.com"
+      },
+      {
+        "url": "https://www.novotrading.hu/arukereso-235/hati-permetezo-263",
+        "from": "Backpack Sprayer Product - Novotrading",
+        "to": "Az Ön által kért oldal nem található!"
+      },
+      {
+        "url": "http://mathonline.edusoftmax.com/",
+        "from": "Default Server Page (No Content)",
+        "to": "Congratulations! You have successfully set up your website!"
+      },
+      {
+        "url": "https://event.webcasts.com/starthere.jsp?ei=1598965&tp_key=b630598902&tp_special=8",
+        "from": "Microsoft Event (Unavailable)",
+        "to": "Microsoft - 1598965"
+      }
+    ],
+    "final_num_folders": 27,
+    "final_total_bookmarks": 58,
+    "applied": true
+  },
+  "0342": {
+    "file_input": "in_split_0342.json",
+    "file_output": "out_split_0342.json",
+    "missing_count": 3,
+    "extra_count": 0,
+    "url_changes_total": 77,
+    "title_changes_total": 2,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://laaclu.org/",
+        "to": "https://www.laaclu.org"
+      },
+      {
+        "from": "https://islandconservation.org/",
+        "to": "https://www.islandconservation.org/"
+      },
+      {
+        "from": "https://solid-ground.org/",
+        "to": "https://www.solid-ground.org/"
+      },
+      {
+        "from": "https://interfaithworks-bloom.kindful.com/",
+        "to": "https://interfaithworks-bloom.kindful.com"
+      },
+      {
+        "from": "https://pillsburyunited.org/",
+        "to": "http://www.pillsburyunited.org/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://neighborhoodtrust.org/",
+        "from": "Neighborhood Trust is a financial services innovator creating financial security for low-wage workers.",
+        "to": "Financial security for all workers - Neighborhood Trust Financial Partners"
+      },
+      {
+        "url": "https://www.wsbcc.org/",
+        "from": "Winston Salem Black Chamber of Commerce | WSCC",
+        "to": "Winston Salem Black Chamber of Commerce | WSBCC"
+      }
+    ],
+    "final_num_folders": 52,
+    "final_total_bookmarks": 131,
+    "applied": true
+  },
+  "0343": {
+    "file_input": "in_split_0343.json",
+    "file_output": "out_split_0343.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 50,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://chicagotribunemediagroup.com",
+        "to": "https://www.chicagotribunemediagroup.com/"
+      },
+      {
+        "from": "https://flux-entertainment.com",
+        "to": "http://www.flux-entertainment.com"
+      },
+      {
+        "from": "https://nclud.com",
+        "to": "https://nclud.com/"
+      },
+      {
+        "from": "https://thegazette.co.uk/notice/4290979",
+        "to": "https://www.thegazette.co.uk/notice/4290979"
+      },
+      {
+        "from": "https://hamburg.de/bsw/geodaten/6702454/digitaleorthophotos",
+        "to": "https://www.hamburg.de/bsw/geodaten/6702454/digitaleorthophotos/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 40,
+    "final_total_bookmarks": 56,
+    "applied": true
+  },
+  "0344": {
+    "file_input": "in_split_0344.json",
+    "file_output": "out_split_0344.json",
+    "missing_count": 4,
+    "extra_count": 4,
+    "url_changes_total": 76,
+    "title_changes_total": 3,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://ayeyoclaudia.tumblr.com",
+        "to": "https://ayeyoclaudia.tumblr.com/"
+      },
+      {
+        "from": "https://ivanskiieee-blog.tumblr.com",
+        "to": "https://ivanskiieee-blog.tumblr.com/"
+      },
+      {
+        "from": "https://maskimot.tumblr.com",
+        "to": "https://maskimot.tumblr.com/"
+      },
+      {
+        "from": "https://whomstplantdaddy.tumblr.com",
+        "to": "https://whomstplantdaddy.tumblr.com/"
+      },
+      {
+        "from": "https://nationwide.com",
+        "to": "https://www.nationwide.com"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.lillypulitzer.com/belle-tassel-necklace/007656.html?dwvar_007656_color=962",
+        "from": "Belle Tassel Necklace | Lilly Pulitzer",
+        "to": "Women's Resort Wear, Dresses & Swimwear | Lilly Pulitzer"
+      },
+      {
+        "url": "https://www.cmt.com/news/9i02q9/kacey-musgraves-to-honor-loretta-lynn-at-65th-grammy-awards-on-sunday",
+        "from": "Kacey Musgraves to honor Loretta Lynn at 65th Grammy Awards on Sunday",
+        "to": "Prima di continuare su YouTube"
+      },
+      {
+        "url": "https://veteransgrowingamerica.com/",
+        "from": "Veterans Growing America",
+        "to": "void"
+      }
+    ],
+    "final_num_folders": 82,
+    "final_total_bookmarks": 87,
+    "applied": true
+  },
+  "0345": {
+    "file_input": "in_split_0345.json",
+    "file_output": "out_split_0345.json",
+    "missing_count": 3,
+    "extra_count": 2,
+    "url_changes_total": 29,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.militarychild.org/",
+        "to": "http://www.militarychild.org/"
+      },
+      {
+        "from": "https://www.prisonministryindia.org/",
+        "to": "https://www.prisonministryindia.org"
+      },
+      {
+        "from": "https://www.giftsin24.com/",
+        "to": "http://www.giftsin24.com/"
+      },
+      {
+        "from": "https://jenniferfisherjewelry.com/products/baby-samira-hoops",
+        "to": "https://jenniferfisherjewelry.com/products/baby-samira-hoops?tag=people-onsite-backup-20"
+      },
+      {
+        "from": "https://www.themontanascene.com/",
+        "to": "http://www.themontanascene.com/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 34,
+    "final_total_bookmarks": 117,
+    "applied": true
+  },
+  "0346": {
+    "file_input": "in_split_0346.json",
+    "file_output": "out_split_0346.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 75,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://docs.docker.com/compose/compose-file",
+        "to": "https://docs.docker.com/compose/compose-file/"
+      },
+      {
+        "from": "https://redis.io/docs/latest/develop/data-types/sorted-sets",
+        "to": "https://redis.io/docs/latest/develop/data-types/sorted-sets/"
+      },
+      {
+        "from": "https://roadmaptozero.com",
+        "to": "https://www.roadmaptozero.com/"
+      },
+      {
+        "from": "https://vallauri.edu",
+        "to": "http://www.vallauri.edu/"
+      },
+      {
+        "from": "https://press.nature.com",
+        "to": "https://press.nature.com/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 73,
+    "final_total_bookmarks": 95,
+    "applied": true
+  },
+  "0347": {
+    "file_input": "in_split_0347.json",
+    "file_output": "out_split_0347.json",
+    "missing_count": 6,
+    "extra_count": 5,
+    "url_changes_total": 104,
+    "title_changes_total": 6,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://books.google.com.co/books",
+        "to": "https://books.google.com.co/books?id=Tcw2AAAAIAAJ&q=Magistrado&dq=editions:STANFORD36105063563113&lr=&source=gbs_word_cloud_r&cad=4"
+      },
+      {
+        "from": "https://digital-collections.columbuslibrary.org/digital/collection/p16802coll28/id/138985",
+        "to": "https://digital-collections.columbuslibrary.org/digital/collection/p16802coll28/id/138985/"
+      },
+      {
+        "from": "https://blogs.esa.int",
+        "to": "http://blogs.esa.int/"
+      },
+      {
+        "from": "https://hcibib.org/hci-sites/BIBLIOGRAPHY.html",
+        "to": "http://www.hcibib.org/hci-sites/BIBLIOGRAPHY.html"
+      },
+      {
+        "from": "https://ijmess.com/showabstract.php",
+        "to": "https://www.ijmess.com/showabstract.php?volume=volume-VI-2017&issue=issue-I-03-2017&ab=ab-3"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.electronjs.org/",
+        "from": "Build cross-platform desktop apps with JavaScript",
+        "to": "Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron"
+      },
+      {
+        "url": "http://www.balanced-wellness.org/",
+        "from": "Balanced Wellness - Women, Couples & Teen Therapy",
+        "to": "Balanced Wellness - Women, Couples & Teen Therapy in SC & NC"
+      },
+      {
+        "url": "http://timesofindia.indiatimes.com/",
+        "from": "TOI - Breaking News, Latest News, India News",
+        "to": "TOI - Breaking News, Latest News, India News, World News, Bollywood, Sports, Business and Political News | The Times of India"
+      },
+      {
+        "url": "https://ark.info/page/786?Item=2233",
+        "from": "Christmas At The Ark 2021 | Ark Info",
+        "to": "Christmas At The Ark 2021 | Ark Info | Ark Info"
+      },
+      {
+        "url": "https://www.landforsaleintabananbali.com/land-for-sale-in-tabanan-bali-by-bali-real-property/affordable-17604-m2-land-sale-in-tabanan-kerambitan-bali-tjtb342/",
+        "from": "Affordable 17,604 m2 LAND SALE IN Tabanan Kerambitan BALI TJTB342",
+        "to": "Affordable 17,604 m2 LAND SALE IN Tabanan Kerambitan BALI TJTB342 | Land for sale in Tabanan Bali Indonesia"
+      }
+    ],
+    "final_num_folders": 32,
+    "final_total_bookmarks": 138,
+    "applied": true
+  },
+  "0348": {
+    "file_input": "in_split_0348.json",
+    "file_output": "out_split_0348.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 36,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.childnow.org/",
+        "to": "http://www.childnow.org/"
+      },
+      {
+        "from": "https://www.blueprosperity.org/",
+        "to": "https://www.blueprosperity.org"
+      },
+      {
+        "from": "https://time.com/4463943/japan-china-fishing-marine-iuu-environment-google-skytruth/",
+        "to": "http://time.com/4463943/japan-china-fishing-marine-iuu-environment-google-skytruth/"
+      },
+      {
+        "from": "https://www.wri.org/",
+        "to": "http://www.wri.org/"
+      },
+      {
+        "from": "https://coloringwatch.com/",
+        "to": "https://coloringwatch.com"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://texasstargrillshop.com/products/evo-affinity-30g-drop-in-gas-cooktop-lp-10-0055-lp",
+        "from": "EVO Affinity 30G Drop-in Gas Cooktop LP 10-0055-lp - Texas Star Grill Shop",
+        "to": "EVO Affinity 30G Drop-in Gas Cooktop LP 10-0055-LP - Texas Star Grill Shop"
+      }
+    ],
+    "final_num_folders": 30,
+    "final_total_bookmarks": 147,
+    "applied": true
+  },
+  "0349": {
+    "file_input": "in_split_0349.json",
+    "file_output": "out_split_0349.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 67,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://honest.com/",
+        "to": "https://www.honest.com/?gclid=Cj0KCQjw8uOWBhDXARIsAOxKJ2EY4swocmjE8vMFfDILm27uhgYGduD-nG1knqa3OUEoGNBGrISsB8oaAnssEALw_wcB"
+      },
+      {
+        "from": "https://matrox.com/",
+        "to": "http://www.matrox.com/"
+      },
+      {
+        "from": "https://petsmart.com/",
+        "to": "https://www.petsmart.com/"
+      },
+      {
+        "from": "https://ie.linkedin.com/company/primark-stores-ltd",
+        "to": "https://ie.linkedin.com/company/primark-stores-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle"
+      },
+      {
+        "from": "https://7andi.com/en/",
+        "to": "https://www.7andi.com/en/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 36,
+    "final_total_bookmarks": 121,
+    "applied": true
+  },
+  "0350": {
+    "file_input": "in_split_0350.json",
+    "file_output": "out_split_0350.json",
+    "missing_count": 2,
+    "extra_count": 0,
+    "url_changes_total": 0,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [],
+    "title_changes": [],
+    "final_num_folders": 101,
+    "final_total_bookmarks": 108,
+    "applied": true
+  },
+  "0351": {
+    "file_input": "in_split_0351.json",
+    "file_output": "out_split_0351.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 46,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://hocmn.org/",
+        "to": "https://www.hocmn.org/"
+      },
+      {
+        "from": "https://qac.ac.uk/",
+        "to": "http://www.qac.ac.uk/"
+      },
+      {
+        "from": "https://unitedwayatlanta.org/",
+        "to": "https://www.unitedwayatlanta.org/?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgSUcels3iQ2dV3h7jKMk9_vagfQR1LaH-OYXeeMeBKqyD6E8Pyl-WhoCzrIQAvD_BwE"
+      },
+      {
+        "from": "https://wbenc.org/",
+        "to": "http://www.wbenc.org/"
+      },
+      {
+        "from": "https://wpr.org/donate",
+        "to": "https://www.wpr.org/donate"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 28,
+    "final_total_bookmarks": 80,
+    "applied": true
+  },
+  "0352": {
+    "file_input": "in_split_0352.json",
+    "file_output": "out_split_0352.json",
+    "missing_count": 4,
+    "extra_count": 3,
+    "url_changes_total": 114,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://amebatv.com",
+        "to": "https://www.amebatv.com"
+      },
+      {
+        "from": "https://britishnewsflash.org/warnhinweise-sollen-vor-massenvernichtungs-waffen-warnen",
+        "to": "http://britishnewsflash.org/warnhinweise-sollen-vor-massenvernichtungs-waffen-warnen/"
+      },
+      {
+        "from": "https://channel955.iheart.com/schedule",
+        "to": "https://channel955.iheart.com/schedule/"
+      },
+      {
+        "from": "https://repubblica.it/cronaca",
+        "to": "https://www.repubblica.it/cronaca/"
+      },
+      {
+        "from": "https://etcanada.com/news/969657/paul-rudd-says-it-was-pointless-trying-to-get-in-shape-next-to-ant-man-co-star-jonathan-majors-he-was-terrifying",
+        "to": "https://etcanada.com/news/969657/paul-rudd-says-it-was-pointless-trying-to-get-in-shape-next-to-ant-man-co-star-jonathan-majors-he-was-terrifying/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/sba-rolls-out-dedicated-tool-small-businesses-connect-cdfis-small-asset-lenders-participating-ppp",
+        "from": "SBA Rolls Out Dedicated Tool for Small Businesses to Connect with CDFIs, Small Asset Lenders Participating In PPP | U.S. Small Business Administration",
+        "to": "SBA Rolls Out Dedicated Tool for Small Businesses to Connect with CDFIs, Small Asset Lenders Participating in PPP | U.S. Small Business Administration"
+      }
+    ],
+    "final_num_folders": 30,
+    "final_total_bookmarks": 143,
+    "applied": true
+  },
+  "0353": {
+    "file_input": "in_split_0353.json",
+    "file_output": "out_split_0353.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 36,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://collegeboard.org/",
+        "to": "https://www.collegeboard.org/"
+      },
+      {
+        "from": "https://eccchicago.org/",
+        "to": "https://www.eccchicago.org/"
+      },
+      {
+        "from": "https://qac.ac.uk/",
+        "to": "http://www.qac.ac.uk/"
+      },
+      {
+        "from": "https://jiriri.ca/testing-the-dyadic-withdrawal-hypothesis-in-college-students/",
+        "to": "https://www.jiriri.ca/testing-the-dyadic-withdrawal-hypothesis-in-college-students/"
+      },
+      {
+        "from": "https://thecut.com/article/meghan-markle-profile-interview.html",
+        "to": "https://www.thecut.com/article/meghan-markle-profile-interview.html"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 18,
+    "final_total_bookmarks": 67,
+    "applied": true
+  },
+  "0354": {
+    "file_input": "in_split_0354.json",
+    "file_output": "out_split_0354.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 42,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://dallasblackchamber.org/",
+        "to": "http://dallasblackchamber.org/"
+      },
+      {
+        "from": "https://emmanorton.org/",
+        "to": "http://www.emmanorton.org/"
+      },
+      {
+        "from": "https://ey.com/",
+        "to": "https://www.ey.com"
+      },
+      {
+        "from": "https://flux-entertainment.com/",
+        "to": "http://www.flux-entertainment.com"
+      },
+      {
+        "from": "https://measuredsolutions.com/",
+        "to": "http://measuredsolutions.com/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 23,
+    "final_total_bookmarks": 72,
+    "applied": true
+  },
+  "0355": {
+    "file_input": "in_split_0355.json",
+    "file_output": "out_split_0355.json",
+    "missing_count": 3,
+    "extra_count": 3,
+    "url_changes_total": 31,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.etwa.org/",
+        "to": "http://www.etwa.org/"
+      },
+      {
+        "from": "https://focusingphilanthropy.org/",
+        "to": "https://www.focusingphilanthropy.org/"
+      },
+      {
+        "from": "https://www.napawf.org/",
+        "to": "http://www.napawf.org/"
+      },
+      {
+        "from": "https://www.northlandfdn.org/",
+        "to": "http://www.northlandfdn.org/"
+      },
+      {
+        "from": "https://www.stoptb.org/",
+        "to": "http://www.stoptb.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 18,
+    "final_total_bookmarks": 112,
+    "applied": true
+  },
+  "0356": {
+    "file_input": "in_split_0356.json",
+    "file_output": "out_split_0356.json",
+    "missing_count": 4,
+    "extra_count": 0,
+    "url_changes_total": 76,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337",
+        "to": "http://www.accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337"
+      },
+      {
+        "from": "https://the-sun.com/lifestyle/7515337/harry-meghan-evicted-frogmore-cottage-king-charles",
+        "to": "https://www.the-sun.com/lifestyle/7515337/harry-meghan-evicted-frogmore-cottage-king-charles/"
+      },
+      {
+        "from": "https://papermag.com/luke-hemmings-5sos-calm-2645628626.html",
+        "to": "https://www.papermag.com/luke-hemmings-5sos-calm-2645628626.html?rebelltitem=17#rebelltitem17"
+      },
+      {
+        "from": "https://vogue.co.uk/arts-and-lifestyle/article/priyanka-chopra-jonas-british-vogue-interview",
+        "to": "https://www.vogue.co.uk/arts-and-lifestyle/article/priyanka-chopra-jonas-british-vogue-interview"
+      },
+      {
+        "from": "https://rollingstone.com/tv-movies/tv-movie-features/the-idol-hbo-next-euphoria-torture-porn-the-weeknd-sam-levinson-lily-rose-depp-blackpink-jennie-1234688754",
+        "to": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-idol-hbo-next-euphoria-torture-porn-the-weeknd-sam-levinson-lily-rose-depp-blackpink-jennie-1234688754/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 32,
+    "final_total_bookmarks": 100,
+    "applied": true
+  },
+  "0357": {
+    "file_input": "in_split_0357.json",
+    "file_output": "out_split_0357.json",
+    "missing_count": 14,
+    "extra_count": 1,
+    "url_changes_total": 67,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://placeanad.chicagotribune.com/whos-who",
+        "to": "https://placeanad.chicagotribune.com/whos-who#nt=secondarynavbar"
+      },
+      {
+        "from": "https://blackentrepreneursday.com/the-show",
+        "to": "https://blackentrepreneursday.com/the-show/"
+      },
+      {
+        "from": "https://corporate.bestbuy.com",
+        "to": "https://corporate.bestbuy.com/"
+      },
+      {
+        "from": "https://investor.skillsoft.com",
+        "to": "https://investor.skillsoft.com/"
+      },
+      {
+        "from": "https://jpmorgan.com/wealth-management",
+        "to": "https://www.jpmorgan.com/wealth-management"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 12,
+    "final_total_bookmarks": 88,
+    "applied": true
+  },
+  "0358": {
+    "file_input": "in_split_0358.json",
+    "file_output": "out_split_0358.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 31,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://jobs.accaglobal.com/",
+        "to": "https://jobs.accaglobal.com/?utm_source=ACCAglobal&utm_medium=referral&utm_campaign=footer"
+      },
+      {
+        "from": "https://edx.org/learn/computer-networking",
+        "to": "https://www.edx.org/learn/computer-networking"
+      },
+      {
+        "from": "https://isc.uw.edu/",
+        "to": "https://isc.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=iscworkday"
+      },
+      {
+        "from": "https://camcom.it/",
+        "to": "http://www.camcom.it/"
+      },
+      {
+        "from": "https://defenseone.com/technology/2021/08/can-we-spot-illegal-fishing-fleets-space/184300",
+        "to": "https://www.defenseone.com/technology/2021/08/can-we-spot-illegal-fishing-fleets-space/184300/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 15,
+    "final_total_bookmarks": 53,
+    "applied": true
+  },
+  "0359": {
+    "file_input": "in_split_0359.json",
+    "file_output": "out_split_0359.json",
+    "missing_count": 1,
+    "extra_count": 2,
+    "url_changes_total": 17,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "it.mongabay.com/",
+        "to": "https://it.mongabay.com/"
+      },
+      {
+        "from": "https://livereport.protectedplanet.net/",
+        "to": "https://livereport.protectedplanet.net"
+      },
+      {
+        "from": "https://www.criterionchannel.com/",
+        "to": "https://www.criterionchannel.com"
+      },
+      {
+        "from": "http://www.mtv.com/",
+        "to": "http://www.mtv.com"
+      },
+      {
+        "from": "https://integrate.clover.com/",
+        "to": "https://integrate.clover.com"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 57,
+    "final_total_bookmarks": 149,
+    "applied": true
+  },
+  "0361": {
+    "file_input": "in_split_0361.json",
+    "file_output": "out_split_0361.json",
+    "missing_count": 5,
+    "extra_count": 2,
+    "url_changes_total": 64,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://anthropologie.com/shop/violet-and-brooks-crystal-velvet-hair-clips-set-of-4?category=shoes-accessories&color=224&quantity=1&size=One%20Size&type=STANDARD",
+        "to": "https://www.anthropologie.com/shop/violet-and-brooks-crystal-velvet-hair-clips-set-of-4?category=shoes-accessories&color=224&quantity=1&size=One%20Size&type=STANDARD"
+      },
+      {
+        "from": "https://customizedgirl.com/s/mothersruin?view_storefront=1",
+        "to": "https://www.customizedgirl.com/s/mothersruin?view_storefront=1"
+      },
+      {
+        "from": "https://farmrio.com.br/short-cos-elastico-off-white-299006-0024/p",
+        "to": "https://www.farmrio.com.br/short-cos-elastico-off-white-299006-0024/p"
+      },
+      {
+        "from": "https://jovanalouis.com/",
+        "to": "https://www.jovanalouis.com/"
+      },
+      {
+        "from": "https://czbykennethjaylane.com/products/petite-triple-hoop-earrings",
+        "to": "https://www.czbykennethjaylane.com/products/petite-triple-hoop-earrings"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 91,
+    "final_total_bookmarks": 123,
+    "applied": true
+  },
+  "0362": {
+    "file_input": "in_split_0362.json",
+    "file_output": "out_split_0362.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 17,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://donate.mongabay.org/",
+        "to": "https://donate.mongabay.org/?utm_source=mongabay.com&utm_medium=headerlink&utm_campaign=com-header-text-link-new"
+      },
+      {
+        "from": "https://www.cepal.org/en",
+        "to": "http://www.cepal.org/en"
+      },
+      {
+        "from": "http://ricettaricette.com/",
+        "to": "http://www.ricettaricette.com/"
+      },
+      {
+        "from": "https://www.lenzetech.com/",
+        "to": "http://www.lenzetech.com"
+      },
+      {
+        "from": "https://wpvip.com/",
+        "to": "https://wpvip.com/?utm_source=vip_powered_wpcom&utm_medium=web&utm_campaign=VIP%20Footer%20Credit&utm_term=pagesix.com"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 27,
+    "final_total_bookmarks": 78,
+    "applied": true
+  },
+  "0363": {
+    "file_input": "in_split_0363.json",
+    "file_output": "out_split_0363.json",
+    "missing_count": 10,
+    "extra_count": 3,
+    "url_changes_total": 78,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://adage.com",
+        "to": "https://adage.com/"
+      },
+      {
+        "from": "https://apple.news/T7BxfNfp4QAiuOPNsUcn04Q",
+        "to": "https://apple.news/T7BxfNfp4QAiuOPNsUcn04Q/"
+      },
+      {
+        "from": "https://bcaction.de/category/weiterleben/lebensstil",
+        "to": "https://bcaction.de/category/weiterleben/lebensstil/"
+      },
+      {
+        "from": "https://fireservice.gr/el_GR/-/ektakte-enemerose-gia-to-siderodromiko-dystychema-me-pyrkagia-sten-eisodo-tes-koiladas-ton-tempon-apo-ton-ekprosopo-typou-tou-pyrosbestikou-somatos-py",
+        "to": "https://www.fireservice.gr/el_GR/-/ektakte-enemerose-gia-to-siderodromiko-dystychema-me-pyrkagia-sten-eisodo-tes-koiladas-ton-tempon-apo-ton-ekprosopo-typou-tou-pyrosbestikou-somatos-py"
+      },
+      {
+        "from": "https://jerrybrice.wordpress.com/tag/ybt",
+        "to": "https://jerrybrice.wordpress.com/tag/ybt/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 27,
+    "final_total_bookmarks": 89,
+    "applied": true
+  },
+  "0364": {
+    "file_input": "in_split_0364.json",
+    "file_output": "out_split_0364.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 60,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://sciencebasedtargets.org",
+        "to": "https://sciencebasedtargets.org/"
+      },
+      {
+        "from": "https://centrepoint.org.uk",
+        "to": "https://centrepoint.org.uk/"
+      },
+      {
+        "from": "https://globalfashionagenda.com",
+        "to": "http://globalfashionagenda.com/"
+      },
+      {
+        "from": "https://icvanetwork.org",
+        "to": "https://www.icvanetwork.org/"
+      },
+      {
+        "from": "https://cartercenter.org",
+        "to": "https://cartercenter.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 41,
+    "final_total_bookmarks": 78,
+    "applied": true
+  },
+  "0365": {
+    "file_input": "in_split_0365.json",
+    "file_output": "out_split_0365.json",
+    "missing_count": 2,
+    "extra_count": 0,
+    "url_changes_total": 63,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://glueckshufeisen.de/produkt/vergoldetes-glueckshufeisen-mit-geschenkbox-tempus-fugit",
+        "to": "https://www.glueckshufeisen.de/produkt/vergoldetes-glueckshufeisen-mit-geschenkbox-tempus-fugit/"
+      },
+      {
+        "from": "https://ikea.com/us/en/p/komplement-insert-for-pull-out-tray-light-gray-s09277843",
+        "to": "https://www.ikea.com/us/en/p/komplement-insert-for-pull-out-tray-light-gray-s09277843/"
+      },
+      {
+        "from": "https://petsmart.com",
+        "to": "https://www.petsmart.com/"
+      },
+      {
+        "from": "https://tchibo.de/cashmere-pullover-schwarz-p402016721.html",
+        "to": "https://www.tchibo.de/cashmere-pullover-schwarz-p402016721.html?dim1=46"
+      },
+      {
+        "from": "https://vijaysales.com",
+        "to": "https://www.vijaysales.com/?gclid=Cj0KCQiAkuP9BRCkARIsAKGLE8XNFFBps909mKzX4jdv7mqfunBVwGYRtAEKDq0EUJ25g7eJ_S8KLqQaAktIEALw_wcB"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 46,
+    "final_total_bookmarks": 70,
+    "applied": true
+  },
+  "0366": {
+    "file_input": "in_split_0366.json",
+    "file_output": "out_split_0366.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 28,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://att.com/",
+        "to": "https://www.att.com"
+      },
+      {
+        "from": "https://cn.jbl.com/",
+        "to": "https://cn.jbl.com?countrySelector=yes&ged=off"
+      },
+      {
+        "from": "https://aprilia.com/",
+        "to": "http://www.aprilia.com/"
+      },
+      {
+        "from": "https://nwswireless.com/",
+        "to": "http://www.nwswireless.com/"
+      },
+      {
+        "from": "https://amebatv.com/",
+        "to": "https://www.amebatv.com"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 19,
+    "final_total_bookmarks": 38,
+    "applied": true
+  },
+  "0367": {
+    "file_input": "in_split_0367.json",
+    "file_output": "out_split_0367.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 0,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [],
+    "title_changes": [],
+    "final_num_folders": 23,
+    "final_total_bookmarks": 112,
+    "applied": true
+  },
+  "0368": {
+    "file_input": "in_split_0368.json",
+    "file_output": "out_split_0368.json",
+    "missing_count": 3,
+    "extra_count": 2,
+    "url_changes_total": 77,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://givedirectly.org/",
+        "to": "https://www.givedirectly.org/"
+      },
+      {
+        "from": "https://gu.org/explore-our-topics/grandfamilies/",
+        "to": "https://www.gu.org/explore-our-topics/grandfamilies/"
+      },
+      {
+        "from": "https://join.mongabay.org/",
+        "to": "https://join.mongabay.org?utm_source=mongabay.com&utm_medium=bottom-of-news-post&utm_campaign=support-our-journalism-2022"
+      },
+      {
+        "from": "https://donate.mozilla.org/",
+        "to": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral"
+      },
+      {
+        "from": "https://upwardlyglobal.org/jobversity/",
+        "to": "https://upwardlyglobal.org/jobversity/#jobversity-impact"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 46,
+    "final_total_bookmarks": 144,
+    "applied": true
+  },
+  "0369": {
+    "file_input": "in_split_0369.json",
+    "file_output": "out_split_0369.json",
+    "missing_count": 3,
+    "extra_count": 3,
+    "url_changes_total": 28,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://blog.amicaledesanciensdesainthadelin.be/2017/01/17/deces-de-monsieur-jean-verjans-epoux-de-madame-marie-jose-lagasse",
+        "to": "https://blog.amicaledesanciensdesainthadelin.be/2017/01/17/deces-de-monsieur-jean-verjans-epoux-de-madame-marie-jose-lagasse/"
+      },
+      {
+        "from": "https://brigantinenow.com/hooked-on-fishing-this-saturday-july-27",
+        "to": "https://brigantinenow.com/hooked-on-fishing-this-saturday-july-27/"
+      },
+      {
+        "from": "https://ywcaaustin.org/fightinginsolidarity",
+        "to": "https://ywcaaustin.org/fightinginsolidarity/"
+      },
+      {
+        "from": "https://elcomercio.com/actualidad/negocios/ecuador-segundo-productor-atun-tailandia.html",
+        "to": "https://www.elcomercio.com/actualidad/negocios/ecuador-segundo-productor-atun-tailandia.html"
+      },
+      {
+        "from": "https://theregreview.org/2019/02/18/revesz-unel-climate-energy-storage-policies",
+        "to": "https://www.theregreview.org/2019/02/18/revesz-unel-climate-energy-storage-policies/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 32,
+    "final_total_bookmarks": 37,
+    "applied": true
+  },
+  "0371": {
+    "file_input": "in_split_0371.json",
+    "file_output": "out_split_0371.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 44,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://devblogs.microsoft.com/",
+        "to": "https://devblogs.microsoft.com/?utm_source=developermscom"
+      },
+      {
+        "from": "https://nba.com/schedule",
+        "to": "https://www.nba.com/schedule"
+      },
+      {
+        "from": "https://boxofficemojo.com/release/rl2500036097/",
+        "to": "https://www.boxofficemojo.com/release/rl2500036097/"
+      },
+      {
+        "from": "https://impact.kaporcenter.org/",
+        "to": "https://impact.kaporcenter.org"
+      },
+      {
+        "from": "https://leadersup.org/",
+        "to": "https://www.leadersup.org"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 33,
+    "final_total_bookmarks": 80,
+    "applied": true
+  },
+  "0372": {
+    "file_input": "in_split_0372.json",
+    "file_output": "out_split_0372.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 56,
+    "title_changes_total": 2,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://aaccofsj.org/",
+        "to": "https://www.aaccofsj.org/"
+      },
+      {
+        "from": "https://marylandbcc.org/",
+        "to": "https://www.marylandbcc.org/"
+      },
+      {
+        "from": "https://musiciansoncall.org/",
+        "to": "https://www.musiciansoncall.org/"
+      },
+      {
+        "from": "https://mnkaren.org/",
+        "to": "https://www.mnkaren.org/"
+      },
+      {
+        "from": "https://rig2reefexploration.org/team",
+        "to": "https://www.rig2reefexploration.org/team"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://www.roku.com/products/roku-ultra",
+        "from": "Roku Ultra",
+        "to": "Close"
+      },
+      {
+        "url": "http://forums.mozillazine.org/memberlist.php?mode=viewprofile&u=2810765&sid=7cac7c39176ab83cff183912786ae84d",
+        "from": "MozillaZine Forums",
+        "to": "Making sure you're not a bot!"
+      }
+    ],
+    "final_num_folders": 18,
+    "final_total_bookmarks": 89,
+    "applied": true
+  },
+  "0373": {
+    "file_input": "in_split_0373.json",
+    "file_output": "out_split_0373.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 25,
+    "title_changes_total": 6,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://freudeforever.com/",
+        "to": "https://www.freudeforever.com/"
+      },
+      {
+        "from": "https://famoushighpie.com/",
+        "to": "https://www.famoushighpie.com/"
+      },
+      {
+        "from": "https://cinzia1877.blogspot.com/",
+        "to": "http://cinzia1877.blogspot.com/"
+      },
+      {
+        "from": "https://collaborising.org/",
+        "to": "https://www.collaborising.org/"
+      },
+      {
+        "from": "https://saverlife.org/",
+        "to": "https://www.saverlife.org/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://data.apps.fao.org/",
+        "from": "FAO Geospatial Data Hub",
+        "to": "void"
+      },
+      {
+        "url": "https://gisis.imo.org/Public/SHIPS/Default.aspx",
+        "from": "IMO Global Integrated Shipping Information System",
+        "to": "Working..."
+      },
+      {
+        "url": "https://earth.esa.int/eogateway/missions/Spire",
+        "from": "Spire Mission - ESA Earth Online",
+        "to": "undefined - Earth Online"
+      },
+      {
+        "url": "https://www.maccosmetics.com/",
+        "from": "MAC Cosmetics Official Site",
+        "to": "american-express icon"
+      },
+      {
+        "url": "http://www.tbs.com/privacy.html",
+        "from": "Warner Bros. Discovery Privacy Policy",
+        "to": "Warner Bros. Discovery"
+      }
+    ],
+    "final_num_folders": 31,
+    "final_total_bookmarks": 94,
+    "applied": true
+  },
+  "0374": {
+    "file_input": "in_split_0374.json",
+    "file_output": "out_split_0374.json",
+    "missing_count": 7,
+    "extra_count": 4,
+    "url_changes_total": 89,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://the-sun.com/lifestyle/7515337/harry-meghan-evicted-frogmore-cottage-king-charles",
+        "to": "https://www.the-sun.com/lifestyle/7515337/harry-meghan-evicted-frogmore-cottage-king-charles/"
+      },
+      {
+        "from": "https://ktnnonline.com",
+        "to": "https://www.ktnnonline.com"
+      },
+      {
+        "from": "https://news.mongabay.com/2019/05/monitoring-hack-shines-a-light-on-fishing-boats-operating-under-cover-of-dark",
+        "to": "https://news.mongabay.com/2019/05/monitoring-hack-shines-a-light-on-fishing-boats-operating-under-cover-of-dark/"
+      },
+      {
+        "from": "https://newsblenda.com",
+        "to": "https://newsblenda.com/"
+      },
+      {
+        "from": "https://lemonde.fr/politique",
+        "to": "https://www.lemonde.fr/politique/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 41,
+    "final_total_bookmarks": 106,
+    "applied": true
+  },
+  "0375": {
+    "file_input": "in_split_0375.json",
+    "file_output": "out_split_0375.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 45,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337",
+        "to": "http://www.accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337"
+      },
+      {
+        "from": "https://tdm.com.mo/pt/news-detail/599429",
+        "to": "https://www.tdm.com.mo/pt/news-detail/599429"
+      },
+      {
+        "from": "https://straitstimes.com/asia/se-asia/jakarta-detains-chinese-trawler-off-sumatra",
+        "to": "https://www.straitstimes.com/asia/se-asia/jakarta-detains-chinese-trawler-off-sumatra"
+      },
+      {
+        "from": "https://usatodaysportsplus.com/",
+        "to": "https://www.usatodaysportsplus.com/"
+      },
+      {
+        "from": "https://wcte.org/",
+        "to": "https://www.wcte.org"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 29,
+    "final_total_bookmarks": 87,
+    "applied": true
+  },
+  "0376": {
+    "file_input": "in_split_0376.json",
+    "file_output": "out_split_0376.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 11,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.a-d.us/",
+        "to": "http://www.a-d.us/"
+      },
+      {
+        "from": "https://www.cineca.it/",
+        "to": "http://www.cineca.it/"
+      },
+      {
+        "from": "https://www.baylorhealth.com/Pages/Default.aspx",
+        "to": "http://www.baylorhealth.com/Pages/Default.aspx"
+      },
+      {
+        "from": "https://www.zaxbys.com/",
+        "to": "https://www.zaxbys.com"
+      },
+      {
+        "from": "https://www.all-science-fair-projects.com/",
+        "to": "http://www.all-science-fair-projects.com/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 14,
+    "final_total_bookmarks": 47,
+    "applied": true
+  },
+  "0377": {
+    "file_input": "in_split_0377.json",
+    "file_output": "out_split_0377.json",
+    "missing_count": 6,
+    "extra_count": 3,
+    "url_changes_total": 92,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://geocaching.com/about/privacypolicy.aspx",
+        "to": "http://www.geocaching.com/about/privacypolicy.aspx"
+      },
+      {
+        "from": "https://supersimple.com/app-privacy-policy",
+        "to": "https://supersimple.com/app-privacy-policy/"
+      },
+      {
+        "from": "https://tocaboca.com/privacy",
+        "to": "http://tocaboca.com/privacy"
+      },
+      {
+        "from": "https://jasonheadley.com/honestmeditation/privacypolicy.html",
+        "to": "http://jasonheadley.com/honestmeditation/privacypolicy.html"
+      },
+      {
+        "from": "https://comptoir-beaute-sante.com/fr/47-masques-pour-le-visage",
+        "to": "https://www.comptoir-beaute-sante.com/fr/47-masques-pour-le-visage?q=Marque-ZEN%27AR%C3%B4ME&order=product.position.asc"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 92,
+    "final_total_bookmarks": 110,
+    "applied": true
+  },
+  "0378": {
+    "file_input": "in_split_0378.json",
+    "file_output": "out_split_0378.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 73,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://adaptec.com",
+        "to": "http://www.adaptec.com/"
+      },
+      {
+        "from": "https://atanet.org",
+        "to": "https://www.atanet.org/"
+      },
+      {
+        "from": "https://pgatour.com/schedule",
+        "to": "https://www.pgatour.com/schedule"
+      },
+      {
+        "from": "https://llbean.com/llb/shop/86878",
+        "to": "https://www.llbean.com/llb/shop/86878"
+      },
+      {
+        "from": "https://vogue.com/article/editor-picks-fall-winter-2025-trends",
+        "to": "https://www.vogue.com/article/editor-picks-fall-winter-2025-trends"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 33,
+    "final_total_bookmarks": 99,
+    "applied": true
+  },
+  "0379": {
+    "file_input": "in_split_0379.json",
+    "file_output": "out_split_0379.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 78,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://clarkfoundationdc.org",
+        "to": "https://clarkfoundationdc.org/"
+      },
+      {
+        "from": "https://pmangellfamfound.org",
+        "to": "http://pmangellfamfound.org/"
+      },
+      {
+        "from": "https://research4life.org/access/eligibility",
+        "to": "https://www.research4life.org/access/eligibility/"
+      },
+      {
+        "from": "https://wordtune.com",
+        "to": "https://www.wordtune.com/"
+      },
+      {
+        "from": "https://pathfinderpress.com/collections/books-of-the-month-january-2022/products/what-is-surrealism-selected-writings_by-andre-breton",
+        "to": "https://www.pathfinderpress.com/collections/books-of-the-month-january-2022/products/what-is-surrealism-selected-writings_by-andre-breton"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 93,
+    "final_total_bookmarks": 94,
+    "applied": true
+  },
+  "0380": {
+    "file_input": "in_split_0380.json",
+    "file_output": "out_split_0380.json",
+    "missing_count": 9,
+    "extra_count": 0,
+    "url_changes_total": 25,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://carrefour.ro/",
+        "to": "https://www.carrefour.ro/"
+      },
+      {
+        "from": "https://kodak.com/",
+        "to": "http://www.kodak.com/"
+      },
+      {
+        "from": "https://philips.com/",
+        "to": "http://www.philips.com/"
+      },
+      {
+        "from": "https://verizon.com/",
+        "to": "https://www.verizon.com/"
+      },
+      {
+        "from": "https://prose.ffxwxg.net/c/3408212/804499/11046",
+        "to": "https://prose.ffxwxg.net/c/3408212/804499/11046?subid3=people"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 27,
+    "final_total_bookmarks": 76,
+    "applied": true
+  },
+  "0381": {
+    "file_input": "in_split_0381.json",
+    "file_output": "out_split_0381.json",
+    "missing_count": 9,
+    "extra_count": 0,
+    "url_changes_total": 1,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.dotdashmeredith.mediaroom.com/news-alerts?type=1",
+        "to": "https://dotdashmeredith.mediaroom.com/news-alerts?type=1"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 31,
+    "final_total_bookmarks": 95,
+    "applied": true
+  },
+  "0382": {
+    "file_input": "in_split_0382.json",
+    "file_output": "out_split_0382.json",
+    "missing_count": 2,
+    "extra_count": 0,
+    "url_changes_total": 73,
+    "title_changes_total": 2,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://br.linkedin.com/company/baruk-automacao-inteligente",
+        "to": "https://br.linkedin.com/company/baruk-automacao-inteligente?trk=organization_guest_main-feed-card-text"
+      },
+      {
+        "from": "https://accaglobal.com/us/en.html",
+        "to": "https://www.accaglobal.com/us/en.html"
+      },
+      {
+        "from": "https://apple.com/itunes/",
+        "to": "https://www.apple.com/itunes/"
+      },
+      {
+        "from": "https://hotfingersgloves.com/",
+        "to": "http://www.hotfingersgloves.com/"
+      },
+      {
+        "from": "https://maddoxgallery.com/artists/85-the-connor-brothers/works/",
+        "to": "https://maddoxgallery.com/artists/85-the-connor-brothers/works/?&skip=36"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "http://www.atropa.si/darilni-program-spletna-trgovina/izdelki/?prikazi=6",
+        "from": "Izdelki | Botanični vrt, spletna prodaja i urejanje zelenih površin",
+        "to": "Izdelki | Botanični vrt, spletna prodaja in urejanje zelenih površin"
+      },
+      {
+        "url": "https://www.sunshinequiltcorner.com/module/newsletter.htm?newsletterId=64488",
+        "from": "",
+        "to": "void"
+      }
+    ],
+    "final_num_folders": 115,
+    "final_total_bookmarks": 118,
+    "applied": true
+  },
+  "0383": {
+    "file_input": "in_split_0383.json",
+    "file_output": "out_split_0383.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 28,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://news.apple.com/?itscg=10000&itsct=pod-ovp-news-apl-ann-21_1019",
+        "to": "https://news.apple.com?itscg=10000&itsct=pod-ovp-news-apl-ann-21_1019"
+      },
+      {
+        "from": "https://www.bertarelli.com/",
+        "to": "https://www.bertarelli.com"
+      },
+      {
+        "from": "https://www.flux-entertainment.com/",
+        "to": "http://www.flux-entertainment.com"
+      },
+      {
+        "from": "https://www.mailapps.me/",
+        "to": "http://www.mailapps.me"
+      },
+      {
+        "from": "https://www.washingtonstem.org/",
+        "to": "http://www.washingtonstem.org/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://political-minds.tumblr.com/post/126894705112",
+        "from": "Is learning computer science linked to improved learning in other subjects? - Political-Minds",
+        "to": "Is learning computer science linked to improved... - Political-Minds"
+      }
+    ],
+    "final_num_folders": 50,
+    "final_total_bookmarks": 108,
+    "applied": true
+  },
+  "0385": {
+    "file_input": "in_split_0385.json",
+    "file_output": "out_split_0385.json",
+    "missing_count": 2,
+    "extra_count": 1,
+    "url_changes_total": 26,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.repak.ie/",
+        "to": "http://www.repak.ie"
+      },
+      {
+        "from": "https://generated.photos/",
+        "to": "https://generated.photos/#"
+      },
+      {
+        "from": "https://www.sicilialive24.it/author/antonello-pacesicilialive24-it/",
+        "to": "http://www.sicilialive24.it/author/antonello-pacesicilialive24-it/"
+      },
+      {
+        "from": "https://santo.calendario-chiquito.es/nombre/isfrido.html",
+        "to": "http://santo.calendario-chiquito.es/nombre/isfrido.html"
+      },
+      {
+        "from": "https://www.comlmaps.org/how-to/layers-and-resources/boundaries/marine-ecoregions-of-the-world",
+        "to": "http://www.comlmaps.org/how-to/layers-and-resources/boundaries/marine-ecoregions-of-the-world"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 27,
+    "final_total_bookmarks": 116,
+    "applied": true
+  },
+  "0386": {
+    "file_input": "in_split_0386.json",
+    "file_output": "out_split_0386.json",
+    "missing_count": 2,
+    "extra_count": 2,
+    "url_changes_total": 69,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://campusvirtualur.urosario.edu.co/",
+        "to": "https://campusvirtualur.urosario.edu.co/?_ga=2.138458615.531037380.1659966417-1736208058.1659478684"
+      },
+      {
+        "from": "https://khanacademy.org/computing/computer-programming",
+        "to": "https://www.khanacademy.org/computing/computer-programming"
+      },
+      {
+        "from": "https://eingang.org/Games/boggle.html",
+        "to": "http://www.eingang.org/Games/boggle.html"
+      },
+      {
+        "from": "https://gardeninteriors.nl/tuintafel-marmaris-teak-rvs-220cm-lesli-living.html",
+        "to": "https://www.gardeninteriors.nl/tuintafel-marmaris-teak-rvs-220cm-lesli-living.html"
+      },
+      {
+        "from": "https://thesportsnews.in/",
+        "to": "https://www.thesportsnews.in/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 98,
+    "final_total_bookmarks": 113,
+    "applied": true
+  },
+  "0387": {
+    "file_input": "in_split_0387.json",
+    "file_output": "out_split_0387.json",
+    "missing_count": 13,
+    "extra_count": 2,
+    "url_changes_total": 89,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://algonquinhotel.com",
+        "to": "https://www.algonquinhotel.com/"
+      },
+      {
+        "from": "https://amex.co/yellow",
+        "to": "http://amex.co/yellow"
+      },
+      {
+        "from": "https://polarbearinc.com/index.cfm/category/942/45-degree-male-insert-oring-fittings---b-lok.htm",
+        "to": "https://www.polarbearinc.com/index.cfm/category/942/45-degree-male-insert-oring-fittings---b-lok.htm"
+      },
+      {
+        "from": "https://citizensbank.com/disclosures/msstores.aspx",
+        "to": "https://www.citizensbank.com/disclosures/msstores.aspx"
+      },
+      {
+        "from": "https://bnr.be/over-b-r",
+        "to": "https://bnr.be/over-b-r/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 12,
+    "final_total_bookmarks": 111,
+    "applied": true
+  },
+  "0388": {
+    "file_input": "in_split_0388.json",
+    "file_output": "out_split_0388.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 86,
+    "title_changes_total": 2,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://euronews.com/2021/12/05/us-ukraine-crisis-russia",
+        "to": "https://www.euronews.com/2021/12/05/us-ukraine-crisis-russia"
+      },
+      {
+        "from": "https://news.nationalgeographic.com/news/2014/05/140519-bottom-trawling-seafloor-oceans-damage-science/",
+        "to": "https://news.nationalgeographic.com/news/2014/05/140519-bottom-trawling-seafloor-oceans-damage-science/?beta=true"
+      },
+      {
+        "from": "https://npr.org/2023/02/28/1160018771/disney-world-desantis-special-district",
+        "to": "https://www.npr.org/2023/02/28/1160018771/disney-world-desantis-special-district"
+      },
+      {
+        "from": "https://thehindu.com/news/international/south-korean-president-meets-special-envoy-bts-ahead-of-un-general-assembly/article36450795.ece",
+        "to": "https://www.thehindu.com/news/international/south-korean-president-meets-special-envoy-bts-ahead-of-un-general-assembly/article36450795.ece"
+      },
+      {
+        "from": "https://theverge.com/2018/7/18/17588624/facebook-misinformation-removal-violence-hate-speech-sri-lanka",
+        "to": "https://www.theverge.com/2018/7/18/17588624/facebook-misinformation-removal-violence-hate-speech-sri-lanka"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "http://www.directaccessrecipes.com/index.jsp?recId=85914",
+        "from": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)",
+        "to": "Searchable Recipe Database - Panoramica"
+      },
+      {
+        "url": "http://www.directaccessrecipes.com/index.jsp?recId=85914",
+        "from": "Searchable Recipe Database - White Beans with Rosemary and Caramelized Onions",
+        "to": "Searchable Recipe Database - Panoramica"
+      }
+    ],
+    "final_num_folders": 41,
+    "final_total_bookmarks": 135,
+    "applied": true
+  },
+  "0389": {
+    "file_input": "in_split_0389.json",
+    "file_output": "out_split_0389.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 29,
+    "title_changes_total": 9,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://ganotechnologies.com/",
+        "to": "https://www.ganotechnologies.com"
+      },
+      {
+        "from": "https://chase.com/business/minority-businesses",
+        "to": "https://www.chase.com/business/minority-businesses"
+      },
+      {
+        "from": "https://scentbox.com/",
+        "to": "https://www.scentbox.com/"
+      },
+      {
+        "from": "https://drazby.cz/drazba-zasob-elektronika-kabely-spolecnosti-inn/",
+        "to": "https://www.drazby.cz/drazba-zasob-elektronika-kabely-spolecnosti-inn/"
+      },
+      {
+        "from": "https://firstup.org/",
+        "to": "https://www.firstup.org/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://smb.apple.com/contactus",
+        "from": "Contact Apple for Business",
+        "to": "Apple"
+      },
+      {
+        "url": "https://www.chase.com/business/minority-businesses",
+        "from": "Minority Business Banking | Chase",
+        "to": "void"
+      },
+      {
+        "url": "https://greaterbaltimoreblackchamber.org/",
+        "from": "Greater Baltimore Black Chamber of Commerce",
+        "to": "void"
+      },
+      {
+        "url": "https://kotilabdulkadir.notion.site/No-code-search-and-filters-for-Webflow-CMS-Jetboost-51454b3706b843328111b609a1eed55e?pvs=25",
+        "from": "No-code search and filters for Webflow CMS (Jetboost)",
+        "to": "Notion"
+      },
+      {
+        "url": "http://trac.osgeo.org/geotiff/",
+        "from": "GeoTIFF - OSGeo",
+        "to": "Making sure you're not a bot!"
+      }
+    ],
+    "final_num_folders": 24,
+    "final_total_bookmarks": 48,
+    "applied": true
+  },
+  "0390": {
+    "file_input": "in_split_0390.json",
+    "file_output": "out_split_0390.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 46,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://4dr1.tumblr.com",
+        "to": "https://4dr1.tumblr.com/"
+      },
+      {
+        "from": "https://trimicktri1406.tumblr.com",
+        "to": "https://trimicktri1406.tumblr.com/"
+      },
+      {
+        "from": "https://wrappedup-nca-wa.tumblr.com",
+        "to": "https://wrappedup-nca-wa.tumblr.com/"
+      },
+      {
+        "from": "https://ejfoundation.org",
+        "to": "https://ejfoundation.org/"
+      },
+      {
+        "from": "https://islandconservation.org",
+        "to": "https://www.islandconservation.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 52,
+    "final_total_bookmarks": 56,
+    "applied": true
+  },
+  "0391": {
+    "file_input": "in_split_0391.json",
+    "file_output": "out_split_0391.json",
+    "missing_count": 9,
+    "extra_count": 8,
+    "url_changes_total": 86,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://movidaapple.com/blog/2014/01/25/apple-coloca-mensajes-con-bombillas-led-en-las-apple-store-para-el-3%ef%a3%bf-aniversario-mac-imagen",
+        "to": "https://www.movidaapple.com/blog/2014/01/25/apple-coloca-mensajes-con-bombillas-led-en-las-apple-store-para-el-3%ef%a3%bf-aniversario-mac-imagen/?shared=email&msg=fail"
+      },
+      {
+        "from": "https://politiken.dk/indland",
+        "to": "https://politiken.dk/indland/"
+      },
+      {
+        "from": "https://freep.com/news",
+        "to": "https://www.freep.com/news/"
+      },
+      {
+        "from": "https://indiatimes.com",
+        "to": "https://www.indiatimes.com/"
+      },
+      {
+        "from": "https://slate.com/articles/news_and_politics/trials_and_error/2017/09/john_legend_on_why_the_nfl_protests_are_patriotic.html",
+        "to": "http://www.slate.com/articles/news_and_politics/trials_and_error/2017/09/john_legend_on_why_the_nfl_protests_are_patriotic.html?wpsrc=sh_all_mob_tw_top"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 17,
+    "final_total_bookmarks": 105,
+    "applied": true
+  },
+  "0392": {
+    "file_input": "in_split_0392.json",
+    "file_output": "out_split_0392.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 72,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://trentu.ca/archaeology/",
+        "to": "http://www.trentu.ca/archaeology/"
+      },
+      {
+        "from": "https://harvard.edu/",
+        "to": "https://www.harvard.edu/"
+      },
+      {
+        "from": "https://dipartimentodesign.polimi.it/en/?option=com_content&view=article&id=135&pta=&optionFilter%5Bfield_3_304%5D=10095252&back=%2Fen%2F%3Foption%3Dcom_content%26view%3Darticle%26id%3D135%26pubblicazioni%3D1%26optionFilter%255Bfield_5_375%255D%3D960018%26back%3D%252Fen%252F%253Foption%253Dcom_content%2526view%253Darticle%2526id%253D135%2526pubblicazioni%253D1%2526optionFilter%25255Bfield_5_375%25255D%253D532352%2526back%253D%25252Fen%25252F%25253Foption%25253Dcom_content%252526view%25253Darticle%252526id%25253D135%252526pubblicazioni%25253D1%252526optionFilter%2525255Bfield_5_375%2525255D%25253D580554%252526back%2525253D%2525252Fen%2525252F%2525253Foption%2525253Dcom_content%25252526view%2525253Darticle%25252526id%2525253D135%25252526pubblicazioni%2525253D1%25252526optionFilter%252525255Bfield_5_375%252525255D%2525253D536187%25252526back%252525253D%252525252Fen%252525252F%252525253Foption%252525253Dcom_content%2525252526view%252525253Darticle%2525252526id%252525253D135%2525252526pubblicazioni%252525253D1%2525252526optionFilter%25252525255Bfield_5_375%25252525255D%252525253D554276%2525252526back%25252525253D%25252525252Fen%25252525252F%25252525253Foption%25252525253Dcom_content%252525252526view%25252525253Darticle%252525252526id%25252525253D135%252525252526pubblicazioni%25252525253D1%252525252526optionFilter%2525252525255Bfield_5_375%2525252525255D%25252525253D515108%252525252526back%25252525253D%2525252525252Fen%2525252525252F%2525252525253Foption%2525252525253Dcom_content%25252525252526view%2525252525253Darticle%25252525252526id%2525252525253D135%25252525252526pubblicazioni%2525252525253D1%25252525252526optionFilter%252525252525255Bfield_5_375%252525252525255D%2525252525253D242773%25252525252526back%2525252525253D%252525252525252F%252525252525253Foption%252525252525253Dcom_content%2525252525252526view%252525252525253Darticle%2525252525252526id%252525252525253D135%2525252525252526pubblicazioni%252525252525253D1%2525252525252526optionFilter%25252525252525255Bfield_5_375%25252525252525255D%252525252525253D825533%2525252525252526back%252525252525253D%25252525252525252F%25252525252525253Foption%25252525252525253Dcom_content%252525252525252526view%25252525252525253Darticle%252525252525252526id%25252525252525253D135%252525252525252526pubblicazioni%25252525252525253D1%252525252525252526optionFilter%2525252525252525255Bfield_5_375%2525252525252525255D%25252525252525253D242772%252525252525252526back%25252525252525253D%2525252525252525252F%2525252525252525253Foption%2525252525252525253Dcom_content%25252525252525252526view%2525252525252525253Darticle%25252525252525252526id%2525252525252525253D135%25252525252525252526pubblicazioni%2525252525252525253D1%25252525252525252526optionFilter%252525252525252525255Bfield_5_375%252525252525252525255D%2525252525252525253D515115%25252525252525252526back%2525252525252525253D%252525252525252525252F%252525252525252525253Foption%252525252525252525253Dcom_content%2525252525252525252526view%252525252525252525253Darticle%2525252525252525252526id%252525252525252525253D135%2525252525252525252526pubblicazioni%252525252525252525253D1%2525252525252525252526optionFilter%25252525252525252525255Bfield_5_375%25252525252525252525255D%252525252525252525253D994219%2525252525252525252526back%252525252525252525253D%25252525252525252525252F",
+        "to": "http://www.dipartimentodesign.polimi.it/en/?option=com_content&view=article&id=135&pta=&optionFilter%5Bfield_3_304%5D=10095252&back=%2Fen%2F%3Foption%3Dcom_content%26view%3Darticle%26id%3D135%26pubblicazioni%3D1%26optionFilter%255Bfield_5_375%255D%3D960018%26back%3D%252Fen%252F%253Foption%253Dcom_content%2526view%253Darticle%2526id%253D135%2526pubblicazioni%253D1%2526optionFilter%25255Bfield_5_375%25255D%253D532352%2526back%253D%25252Fen%25252F%25253Foption%25253Dcom_content%252526view%25253Darticle%252526id%25253D135%252526pubblicazioni%25253D1%252526optionFilter%2525255Bfield_5_375%2525255D%25253D580554%252526back%25253D%2525252Fen%2525252F%2525253Foption%2525253Dcom_content%25252526view%2525253Darticle%25252526id%2525253D135%25252526pubblicazioni%2525253D1%25252526optionFilter%252525255Bfield_5_375%252525255D%2525253D536187%25252526back%2525253D%252525252Fen%252525252F%252525253Foption%252525253Dcom_content%2525252526view%252525253Darticle%2525252526id%252525253D135%2525252526pubblicazioni%252525253D1%2525252526optionFilter%25252525255Bfield_5_375%25252525255D%252525253D554276%2525252526back%252525253D%25252525252Fen%25252525252F%25252525253Foption%25252525253Dcom_content%252525252526view%25252525253Darticle%252525252526id%25252525253D135%252525252526pubblicazioni%25252525253D1%252525252526optionFilter%2525252525255Bfield_5_375%2525252525255D%25252525253D515108%252525252526back%25252525253D%2525252525252Fen%2525252525252F%2525252525253Foption%2525252525253Dcom_content%25252525252526view%2525252525253Darticle%25252525252526id%2525252525253D135%25252525252526pubblicazioni%2525252525253D1%25252525252526optionFilter%252525252525255Bfield_5_375%252525252525255D%2525252525253D242773%25252525252526back%2525252525253D%252525252525252F%252525252525253Foption%252525252525253Dcom_content%2525252525252526view%252525252525253Darticle%2525252525252526id%252525252525253D135%2525252525252526pubblicazioni%252525252525253D1%2525252525252526optionFilter%25252525252525255Bfield_5_375%25252525252525255D%252525252525253D825533%2525252525252526back%252525252525253D%25252525252525252F%25252525252525253Foption%25252525252525253Dcom_content%252525252525252526view%25252525252525253Darticle%252525252525252526id%25252525252525253D135%252525252525252526pubblicazioni%25252525252525253D1%252525252525252526optionFilter%2525252525252525255Bfield_5_375%2525252525252525255D%25252525252525253D242772%252525252525252526back%25252525252525253D%2525252525252525252F%2525252525252525253Foption%2525252525252525253Dcom_content%25252525252525252526view%2525252525252525253Darticle%25252525252525252526id%2525252525252525253D135%25252525252525252526pubblicazioni%2525252525252525253D1%25252525252525252526optionFilter%252525252525252525255Bfield_5_375%252525252525252525255D%2525252525252525253D515115%25252525252525252526back%2525252525252525253D%252525252525252525252F%252525252525252525253Foption%252525252525252525253Dcom_content%2525252525252525252526view%252525252525252525253Darticle%2525252525252525252526id%252525252525252525253D135%2525252525252525252526pubblicazioni%252525252525252525253D1%2525252525252525252526optionFilter%25252525252525252525255Bfield_5_375%25252525252525252525255D%252525252525252525253D994219%2525252525252525252526back%252525252525252525253D%25252525252525252525252F"
+      },
+      {
+        "from": "https://mills.edu/",
+        "to": "https://www.mills.edu/"
+      },
+      {
+        "from": "https://stanford.edu/",
+        "to": "https://stanford.edu"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 39,
+    "final_total_bookmarks": 123,
+    "applied": true
+  },
+  "0393": {
+    "file_input": "in_split_0393.json",
+    "file_output": "out_split_0393.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 29,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://digitaledition.aurorabeaconnews.chicagotribune.com/",
+        "to": "http://digitaledition.aurorabeaconnews.chicagotribune.com/#nt=secondarynavbar"
+      },
+      {
+        "from": "https://vulture.com/2015/06/dukes-hazzard-confederate-flag-warner-bros-stop-licensing.html",
+        "to": "http://www.vulture.com/2015/06/dukes-hazzard-confederate-flag-warner-bros-stop-licensing.html"
+      },
+      {
+        "from": "https://www.nbc.com/today",
+        "to": "https://www.nbc.com/today?nbc=1"
+      },
+      {
+        "from": "https://afterschoolalliance.org/",
+        "to": "http://www.afterschoolalliance.org/"
+      },
+      {
+        "from": "https://talkingpts.org/",
+        "to": "http://talkingpts.org/"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 23,
+    "final_total_bookmarks": 90,
+    "applied": true
+  },
+  "0394": {
+    "file_input": "in_split_0394.json",
+    "file_output": "out_split_0394.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 18,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://shopgoodwill.com",
+        "to": "http://www.shopgoodwill.com"
+      },
+      {
+        "from": "https://prose.ffxwxg.net/c/3408212/1471814/11046",
+        "to": "https://prose.ffxwxg.net/c/3408212/1471814/11046?subid3=people"
+      },
+      {
+        "from": "https://digitaledition.dailysouthtown.chicagotribune.com/",
+        "to": "http://digitaledition.dailysouthtown.chicagotribune.com/#nt=secondarynavbar"
+      },
+      {
+        "from": "https://myaccount.chicagotribune.com/300/temporarystop",
+        "to": "https://myaccount.chicagotribune.com/300/temporarystop#nt=secondarynavbar"
+      },
+      {
+        "from": "https://mclink.it/telelavoro",
+        "to": "http://www.mclink.it/telelavoro"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 32,
+    "final_total_bookmarks": 83,
+    "applied": true
+  },
+  "0396": {
+    "file_input": "in_split_0396.json",
+    "file_output": "out_split_0396.json",
+    "missing_count": 4,
+    "extra_count": 4,
+    "url_changes_total": 71,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://donate.doctorswithoutborders.org/secure/turkey-syria-earthquake-onetime",
+        "to": "https://donate.doctorswithoutborders.org/secure/turkey-syria-earthquake-onetime?_ga=2.267824718.1948866458.1675777854-1961190027.1675777854&_gl=1*x8xlvd*_ga*MTk2MTE5MDAyNy4xNjc1Nzc3ODU0*_ga_C7EW6Q0J9K*MTY3NTc3Nzg1Ni4xLjEuMTY3NTc3ODA4Ny4wLjAuMA.."
+      },
+      {
+        "from": "https://appdicted.com/privacy-policy-for-apps/",
+        "to": "http://www.appdicted.com/privacy-policy-for-apps/"
+      },
+      {
+        "from": "https://persian.goscas.com/china-gkf_c12zy_circularly_polarized_universal_ku_band_twin_lnbf_0_8db_noise_figure-11136337.html",
+        "to": "http://persian.goscas.com/china-gkf_c12zy_circularly_polarized_universal_ku_band_twin_lnbf_0_8db_noise_figure-11136337.html"
+      },
+      {
+        "from": "https://agronomy.org/",
+        "to": "http://www.agronomy.org/"
+      },
+      {
+        "from": "https://ktoo.org/",
+        "to": "http://ktoo.org/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "https://unhabitat.org/over-135000-handwashes-at-un-habitat-supported-facilities-in-nairobi%E2%80%99s-informal-settlements",
+        "from": "Over 135,000 handwashes at UN-Habitat-supported facilities in Nairobi’s informal settlements | UN-Habitat",
+        "to": "Over 135,000 handwashes at UN-Habitat-supported facilities in Nairobi's informal settlements | UN-Habitat"
+      }
+    ],
+    "final_num_folders": 106,
+    "final_total_bookmarks": 113,
+    "applied": true
+  },
+  "0398": {
+    "file_input": "in_split_0398.json",
+    "file_output": "out_split_0398.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 40,
+    "title_changes_total": 1,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://blipfoto.com",
+        "to": "https://www.blipfoto.com/"
+      },
+      {
+        "from": "https://flechebragarde.ddns.net/bd/auteur.php",
+        "to": "http://flechebragarde.ddns.net/bd/auteur.php?coll=albums&idauteur=3277&liste=styles"
+      },
+      {
+        "from": "https://buschgardens.com/williamsburg/roller-coasters/pantheon",
+        "to": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/"
+      },
+      {
+        "from": "https://ksat.sports.gracenote.com/basketball/nba/team/404302",
+        "to": "https://ksat.sports.gracenote.com/basketball/nba/team/404302/"
+      },
+      {
+        "from": "https://synlawncolorado.com/installing-putting-green-idea-whose-time-come",
+        "to": "https://synlawncolorado.com/installing-putting-green-idea-whose-time-come/"
+      }
+    ],
+    "title_changes": [
+      {
+        "url": "http://www.hivlawandpolicy.org/resources/map-hiv-criminalization-united-states-center-hiv-law-and-policy-2017",
+        "from": "Mapping HIV Criminalization Laws in the U.S., CHLP (2025)",
+        "to": "Mapping HIV Criminalization Laws in the U.S., CHLP (2025) | The Center for HIV Law and Policy"
+      }
+    ],
+    "final_num_folders": 15,
+    "final_total_bookmarks": 48,
+    "applied": true
+  },
+  "0399": {
+    "file_input": "in_split_0399.json",
+    "file_output": "out_split_0399.json",
+    "missing_count": 0,
+    "extra_count": 0,
+    "url_changes_total": 20,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "http://freerice.com/",
+        "to": "http://freerice.com"
+      },
+      {
+        "from": "https://ferrari.oemdtc.com/",
+        "to": "https://ferrari.oemdtc.com"
+      },
+      {
+        "from": "https://www.shopify.com/",
+        "to": "https://www.shopify.com?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore"
+      },
+      {
+        "from": "http://cottonleads.org/",
+        "to": "http://cottonleads.org"
+      },
+      {
+        "from": "https://hfs.uw.edu/Husky-Card-Services/",
+        "to": "https://hfs.uw.edu/Husky-Card-Services/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=huskycard"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 31,
+    "final_total_bookmarks": 136,
+    "applied": true
+  },
+  "0400": {
+    "file_input": "in_split_0400.json",
+    "file_output": "out_split_0400.json",
+    "missing_count": 1,
+    "extra_count": 0,
+    "url_changes_total": 9,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://www.nmpbs.org/",
+        "to": "http://www.NMPBS.org"
+      },
+      {
+        "from": "https://www.laaclu.org/",
+        "to": "https://www.laaclu.org"
+      },
+      {
+        "from": "https://corp.kaltura.com/",
+        "to": "https://corp.kaltura.com"
+      },
+      {
+        "from": "https://www.shift72.com/",
+        "to": "https://www.shift72.com"
+      },
+      {
+        "from": "http://www.landbell.de/",
+        "to": "http://www.landbell.de"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 37,
+    "final_total_bookmarks": 120,
+    "applied": true
+  },
+  "0401": {
+    "file_input": "in_split_0401.json",
+    "file_output": "out_split_0401.json",
+    "missing_count": 1,
+    "extra_count": 1,
+    "url_changes_total": 58,
+    "title_changes_total": 0,
+    "auto_fixed_bookmarks": 0,
+    "url_changes": [
+      {
+        "from": "https://bytedance.com/",
+        "to": "https://www.bytedance.com"
+      },
+      {
+        "from": "https://cleverbot.com/privacy",
+        "to": "http://www.cleverbot.com/privacy"
+      },
+      {
+        "from": "https://fox.com/privacy-policy",
+        "to": "https://www.fox.com/privacy-policy"
+      },
+      {
+        "from": "https://foxandsheep.com/",
+        "to": "http://www.foxandsheep.com"
+      },
+      {
+        "from": "https://icloud.com/",
+        "to": "https://icloud.com"
+      }
+    ],
+    "title_changes": [],
+    "final_num_folders": 23,
+    "final_total_bookmarks": 90,
+    "applied": true
+  }
+}

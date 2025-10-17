@@ -1,63 +1,23 @@
 {
   "folders": [
     {
-      "name": "data-portals",
-      "bookmarks": [
-        {
-          "url": "https://daten.berlin.de/",
-          "title": "Home | Berlin Open Data"
-        },
-        {
-          "url": "https://fred.stlouisfed.org/series/GDP",
-          "title": "Gross Domestic Product (GDP) | FRED | St. Louis Fed"
-        },
-        {
-          "url": "https://guidestarindia.org.in/Summary.aspx?CCReg=302",
-          "title": "GuideStarIndia"
-        },
-        {
-          "url": "https://lab.kb.nl/?theme=dark&amp%3Bf%5B0%5D=field_file_format%3A18&amp%3Bf%5B1%5D=field_product_source%3A5&f%5B0%5D=field_product_type%3A2&f%5B1%5D=field_product_source%3A9&f%5B2%5D=field_category%3A30",
-          "title": "KB LAB | KB LAB"
-        },
-        {
-          "url": "https://openaccess.inaf.it/browse?type=author&sort_by=1&order=ASC&rpp=20&etal=10&value=Zepeda%2C+A.&starts_with=K",
-          "title": "void"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "organizations",
-      "bookmarks": [
-        {
-          "url": "https://www.bloomberg.org/",
-          "title": "Bloomberg Philanthropies"
-        },
-        {
-          "url": "http://browardschools.com/",
-          "title": "Home - Broward County Public Schools"
-        },
-        {
-          "url": "https://www.aaccofsj.org/",
-          "title": "Home - African American Chamber of Commerce of San Joaquin %"
-        },
-        {
-          "url": "https://www.seattleaquarium.org/",
-          "title": "Seattle Aquarium | Inspiring Conservation of our Marine Environment"
-        },
-        {
-          "url": "http://www.uncdf.org",
-          "title": "Homepage - UN Capital Development Fund (UNCDF)"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "dev-resources",
+      "name": "ai-development-tools",
       "bookmarks": [
         {
           "url": "https://gurdiga.com/blog/2021/03/05/angular-tip-of-the-week-parametrized-templates/",
           "title": "Angular tip of the week: parametrized templates"
+        },
+        {
+          "url": "https://towardsdatascience.com/chatgpt-insists-i-am-dead-and-the-problem-with-language-models-db5a36c22f11",
+          "title": "GPT Is an Unreliable Information Store | Towards Data Science"
+        },
+        {
+          "url": "https://lab.kb.nl/",
+          "title": "KB LAB | KB LAB"
+        },
+        {
+          "url": "https://go-expandyourmind-blog.tumblr.com/post/143100154781",
+          "title": "Nature, animals, and inspiration :) - 16% of all new wages in the U.S. are in computer..."
         },
         {
           "url": "https://stackoverflow.com/questions/tagged/google-maps",
@@ -70,37 +30,91 @@
         {
           "url": "https://replit.com/",
           "title": "Replit - Build apps and sites with AI"
+        },
+        {
+          "url": "http://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
+          "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
         }
       ],
-      "count": 4
+      "count": 8
     },
     {
-      "name": "misc-utility",
+      "name": "business-organizations",
       "bookmarks": [
         {
-          "url": "https://ecommerce.apple.com/asb2bstorefront/login?country=US&segment=GOV-STLOC&language=en&public=true",
-          "title": "Apple Store for Government : Home"
+          "url": "https://www.bloomberg.org/",
+          "title": "Bloomberg Philanthropies"
         },
         {
           "url": "https://forms.accaglobal.com/contact-us",
           "title": "Contact us"
         },
         {
+          "url": "https://guidestarindia.org.in/Summary.aspx?CCReg=302",
+          "title": "GuideStarIndia"
+        },
+        {
+          "url": "https://careers.bcg.com/",
+          "title": "Home | Careers | Boston Consulting Group"
+        },
+        {
+          "url": "https://www.aaccofsj.org/",
+          "title": "Home - African American Chamber of Commerce of San Joaquin %"
+        },
+        {
+          "url": "http://www.uncdf.org",
+          "title": "Homepage - UN Capital Development Fund (UNCDF)"
+        },
+        {
+          "url": "https://www.salesforce.com/",
+          "title": "Il CRM numero 1 al mondo | Salesforce"
+        },
+        {
+          "url": "http://ureeka.biz/",
+          "title": "Start & Grow Your Business with the ZenBusiness Platform"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "lifestyle-consumer-advice",
+      "bookmarks": [
+        {
+          "url": "http://bodyfit.tips/abnehmen-training-ernaehrung/",
+          "title": "Abnehmen - So musst du trainieren und dich ernähren » bodyfit.tips"
+        },
+        {
+          "url": "https://www.ryanair.com/it/it/voli-economici/voli-da-torino",
+          "title": "Book cheap flights using Fare Finder | Ryanair"
+        },
+        {
+          "url": "https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/",
+          "title": "Cable Company Fees Add $450 to Typical Annual Bill - Consumer Reports"
+        },
+        {
           "url": "http://www.decadecounter.com/",
           "title": "MASTER38 Slot gacor untuk para master slotter dimanapun berada"
         },
         {
-          "url": "https://communication.ucf.edu/person/rick-brunson/",
-          "title": "Rick Brunson - Nicholson School of Communication and Media"
+          "url": "https://www.ebags.com/holiday/holiday-sitewide-sale/",
+          "title": "Mother Lode Travel Backpacks | Samsonite"
+        },
+        {
+          "url": "https://www.kismybody.com.au/shop/page/5/",
+          "title": "Products Archive - Page 5 of 7 - Kis My Body - Gorgeous Essential Oil Products"
+        },
+        {
+          "url": "https://novus.no/en/products/102057",
+          "title": "Schmidt, Tom: Nøvn austa åsen - Novus forlag"
         }
       ],
-      "count": 4
+      "count": 7
     },
     {
-      "name": "environment",
+      "name": "environment-conservation",
       "bookmarks": [
         {
-          "url": "https://www.ted.com/talks/enric_sala_let_s_turn_the_high_seas_into_the_world_s_largest_nature_reserve?rss",
+          "url": "https://www.ted.com/talks/enric_sala_let_s_turn_the_high_seas_into_the_world_s_largest_nature_reserve",
           "title": "Enric Sala: Let's turn the high seas into the world's largest nature reserve | TED Talk"
         },
         {
@@ -108,21 +122,147 @@
           "title": "Great Wall of Lights: China's sea power on Darwin's doorstep | AP News"
         },
         {
+          "url": "https://www.metridium.com/",
+          "title": "Metridium Fields"
+        },
+        {
+          "url": "http://archives.nereusprogram.org/tag/Nereus-Scientific-&-Technical-Briefs-on-ABNJ-series/",
+          "title": "Nereus Scientific & Technical Briefs on ABNJ series | Nereus Program"
+        },
+        {
+          "url": "https://www.seattleaquarium.org/",
+          "title": "Seattle Aquarium | Inspiring Conservation of our Marine Environment"
+        },
+        {
           "url": "https://theelders.org/news/elders-enlist-their-grandchildren-s-help-climate-change",
           "title": "The Elders enlist their grandchildren's help on climate change"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://ecommerce.apple.com/asb2bstorefront/login",
+          "title": "Apple Store for Government : Home"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Exclusive_economic_zone",
+          "title": "Exclusive economic zone - Wikipedia"
+        },
+        {
+          "url": "https://www.pa.gov/guides/get-vaccinated/",
+          "title": "Home | Commonwealth of Pennsylvania"
+        },
+        {
+          "url": "https://daten.berlin.de/",
+          "title": "Home | Berlin Open Data"
+        },
+        {
+          "url": "http://browardschools.com/",
+          "title": "Home - Broward County Public Schools"
+        },
+        {
+          "url": "https://www.onemap.sg/",
+          "title": "OneMap"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "data-research",
+      "bookmarks": [
+        {
+          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
+          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
+        },
+        {
+          "url": "https://fred.stlouisfed.org/series/GDP",
+          "title": "Gross Domestic Product (GDP) | FRED | St. Louis Fed"
+        },
+        {
+          "url": "https://www.kkcm.cz/teens-pruzkum",
+          "title": "Výsledky průzkumu | kkcm"
+        },
+        {
+          "url": "https://openaccess.inaf.it/browse",
+          "title": "void"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.allesoverboekenenschrijvers.nl/tag/2011/",
+          "title": "2011 Archieven - Alles over boeken en schrijvers"
+        },
+        {
+          "url": "https://decider.com/2023/03/02/sex-life-season-2-on-netflix-more-sex-nudity/",
+          "title": "Netflix 'Sex/Life' Season 2 Review: More Sex, More Nudity, More Drama"
+        },
+        {
+          "url": "https://www.philo.com/login/subscribe",
+          "title": "Philo - Stream Live and On-Demand TV"
+        },
+        {
+          "url": "https://teksciory.interia.pl/szukaj?q=mamusia+nie+moze",
+          "title": "mamusia nie moze - Teksciory.pl"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-current-events",
+      "bookmarks": [
+        {
+          "url": "https://www.moeckern24.de/2020/03/27/coronavirus-pandemie-in-deutschland-herausforderungen-und-interventionsmoeglichkeiten/",
+          "title": "Coronavirus-Pandemie in Deutschland: Herausforderungen und Interventionsmöglichkeiten - Möckern24"
+        },
+        {
+          "url": "https://www.liverpoolecho.co.uk/",
+          "title": "Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on"
+        },
+        {
+          "url": "https://atlanta.curbed.com/2019/6/7/18656688/new-study-ranks-downtown-atlanta-as-growing-downtown",
+          "title": "New study ranks Downtown Atlanta as 'growing downtown' - Curbed Atlanta"
+        },
+        {
+          "url": "https://blog.getpocket.com/",
+          "title": "Pocket inside"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "design-photography",
+      "bookmarks": [
+        {
+          "url": "https://www.behance.net/galleries/photography",
+          "title": "Behance"
+        },
+        {
+          "url": "https://coolors.co/f4e409-717c89-efd2cb-f24c00-321325",
+          "title": "Create a Palette - Coolors"
+        },
+        {
+          "url": "https://tr.pinterest.com/search/pins/?q=email%20design",
+          "title": "Pinterest - Türkiye"
         }
       ],
       "count": 3
     },
     {
-      "name": "hobby",
+      "name": "hobbies-crafts",
       "bookmarks": [
         {
           "url": "https://www.dendroboard.com/",
           "title": "Dendroboard"
         },
         {
-          "url": "https://www.ravelry.com/patterns/search#craft=crochet&availability=free",
+          "url": "https://www.ravelry.com/patterns/search",
           "title": "Ravelry"
         },
         {
@@ -133,25 +273,7 @@
       "count": 3
     },
     {
-      "name": "journalism",
-      "bookmarks": [
-        {
-          "url": "https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/",
-          "title": "Cable Company Fees Add $450 to Typical Annual Bill - Consumer Reports"
-        },
-        {
-          "url": "https://www.liverpoolecho.co.uk/",
-          "title": "Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on"
-        },
-        {
-          "url": "https://atlanta.curbed.com/2019/6/7/18656688/new-study-ranks-downtown-atlanta-as-growing-downtown",
-          "title": "New study ranks Downtown Atlanta as 'growing downtown' - Curbed Atlanta"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "legal-docs",
+      "name": "legal-privacy-policies",
       "bookmarks": [
         {
           "url": "https://lswcollectorapp.home.blog/2018/12/28/privacy-policy/",
@@ -167,226 +289,8 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "tech-articles",
-      "bookmarks": [
-        {
-          "url": "https://towardsdatascience.com/chatgpt-insists-i-am-dead-and-the-problem-with-language-models-db5a36c22f11?source=home---------0------------------0----------",
-          "title": "GPT Is an Unreliable Information Store | Towards Data Science"
-        },
-        {
-          "url": "https://go-expandyourmind-blog.tumblr.com/post/143100154781",
-          "title": "Nature, animals, and inspiration :) - 16% of all new wages in the U.S. are in computer..."
-        },
-        {
-          "url": "http://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
-          "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "business-services",
-      "bookmarks": [
-        {
-          "url": "https://www.salesforce.com/",
-          "title": "Il CRM numero 1 al mondo | Salesforce"
-        },
-        {
-          "url": "http://ureeka.biz/",
-          "title": "Start & Grow Your Business with the ZenBusiness Platform"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "design-resources",
-      "bookmarks": [
-        {
-          "url": "https://coolors.co/f4e409-717c89-efd2cb-f24c00-321325",
-          "title": "Create a Palette - Coolors"
-        },
-        {
-          "url": "https://tr.pinterest.com/search/pins/?q=email%20design",
-          "title": "Pinterest - Türkiye"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "entertainment",
-      "bookmarks": [
-        {
-          "url": "https://decider.com/2023/03/02/sex-life-season-2-on-netflix-more-sex-nudity/",
-          "title": "Netflix 'Sex/Life' Season 2 Review: More Sex, More Nudity, More Drama"
-        },
-        {
-          "url": "https://www.philo.com/login/subscribe?ref=try.philo.com&utm_source=google&utm_medium=search&utm_campaign=topbrand&utm_term=philo-925&utm_content=topbrandmisspellingexact&contentid=&gclid=CjwKCAjwsan5BRAOEiwALzomXznJUE875i68xyOYVZcnD9pLrHouX8fW_w6GahwxzNJEOoj8RJHG4xoCnZAQAvD_BwE",
-          "title": "Philo - Stream Live and On-Demand TV"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "literature",
-      "bookmarks": [
-        {
-          "url": "https://www.allesoverboekenenschrijvers.nl/tag/2011/",
-          "title": "2011 Archieven - Alles over boeken en schrijvers"
-        },
-        {
-          "url": "https://novus.no/en/products/102057",
-          "title": "Schmidt, Tom: Nøvn austa åsen - Novus forlag"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-unreachable",
-      "bookmarks": [
-        {
-          "url": "http://www.nationalparenthelpline.org/find-support",
-          "title": "void"
-        },
-        {
-          "url": "https://barefootkitchenwitch.com/2008/05/google-hot-sa-1.html",
-          "title": "Private Site"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "photography",
-      "bookmarks": [
-        {
-          "url": "https://www.behance.net/galleries/photography",
-          "title": "Behance"
-        },
-        {
-          "url": "https://www.metridium.com/",
-          "title": "Metridium Fields"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "public-health",
-      "bookmarks": [
-        {
-          "url": "https://www.moeckern24.de/2020/03/27/coronavirus-pandemie-in-deutschland-herausforderungen-und-interventionsmoeglichkeiten/",
-          "title": "Coronavirus-Pandemie in Deutschland: Herausforderungen und Interventionsmöglichkeiten - Möckern24"
-        },
-        {
-          "url": "https://www.pa.gov/guides/get-vaccinated/",
-          "title": "Home | Commonwealth of Pennsylvania"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "reference",
-      "bookmarks": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Exclusive_economic_zone",
-          "title": "Exclusive economic zone - Wikipedia"
-        },
-        {
-          "url": "http://archives.nereusprogram.org/tag/Nereus-Scientific-&-Technical-Briefs-on-ABNJ-series/",
-          "title": "Nereus Scientific & Technical Briefs on ABNJ series | Nereus Program"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://ebags.evyy.net/c/249354/207595/3588?subId1=PEOTheBestChristmasSalestoShopfromOurFavoriteStoresmsapozhnikovLifAff13830521202212I&u=https%3A%2F%2Fwww.ebags.com%2Fholiday%2Fholiday-sitewide-sale%2F",
-          "title": "Mother Lode Travel Backpacks | Samsonite"
-        },
-        {
-          "url": "https://www.kismybody.com.au/shop/page/5/",
-          "title": "Products Archive - Page 5 of 7 - Kis My Body - Gorgeous Essential Oil Products"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://www.ryanair.com/it/it/voli-economici/voli-da-torino",
-          "title": "Book cheap flights using Fare Finder | Ryanair"
-        },
-        {
-          "url": "https://www.onemap.sg/",
-          "title": "OneMap"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "agriculture",
-      "bookmarks": [
-        {
-          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
-          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "careers",
-      "bookmarks": [
-        {
-          "url": "https://careers.bcg.com/",
-          "title": "Home | Careers | Boston Consulting Group"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "health-fitness",
-      "bookmarks": [
-        {
-          "url": "http://bodyfit.tips/abnehmen-training-ernaehrung/",
-          "title": "Abnehmen - So musst du trainieren und dich ernähren » bodyfit.tips"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "music-lyrics",
-      "bookmarks": [
-        {
-          "url": "https://teksciory.interia.pl/szukaj?q=mamusia+nie+moze",
-          "title": "mamusia nie moze - Teksciory.pl"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "research",
-      "bookmarks": [
-        {
-          "url": "https://www.kkcm.cz/teens-pruzkum",
-          "title": "Výsledky průzkumu | kkcm"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "web-apps",
-      "bookmarks": [
-        {
-          "url": "https://blog.getpocket.com/",
-          "title": "Pocket inside"
-        }
-      ],
-      "count": 1
     }
   ],
-  "total_bookmarks": 59,
-  "num_folders": 25
+  "total_bookmarks": 56,
+  "num_folders": 11
 }

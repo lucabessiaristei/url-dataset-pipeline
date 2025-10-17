@@ -1,96 +1,298 @@
 {
   "folders": [
     {
-      "name": "blogs-misc",
+      "name": "software-development-resources",
+      "bookmarks": [
+        {
+          "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+          "title": "7. Input and Output - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://coursera.org/learn/algorithms-part2",
+          "title": "Algorithms, Part II | Coursera"
+        },
+        {
+          "url": "https://android.com",
+          "title": "Android | Fai di più con Google su dispositivi e smartphone Android"
+        },
+        {
+          "url": "https://fact-project.org/fact++/structcmnds.html",
+          "title": "FACT++: cmnds Struct Reference"
+        },
+        {
+          "url": "https://github.com/huggingface/diffusers",
+          "title": "GitHub - huggingface/diffusers: 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+        },
+        {
+          "url": "https://playacademy.exceedlms.com/student/activity/9389",
+          "title": "Google Play Academy"
+        },
+        {
+          "url": "https://lists.plug.org.au/pipermail/plug/2012-February/081356.html",
+          "title": "[plug] warning - cover your ears: can I get a full windoze install dvd from a recovery partition?"
+        },
+        {
+          "url": "https://codecademy.com/learn/learn-python-3",
+          "title": "Learn Python 3 | Codecademy"
+        },
+        {
+          "url": "https://codecademy.com/learn/learn-sql",
+          "title": "Learn SQL | Codecademy"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "home-hobbies-and-lifestyle",
+      "bookmarks": [
+        {
+          "url": "https://agaveuptown.com",
+          "title": "Agave Uptown - Uptown, Oakland, CA"
+        },
+        {
+          "url": "https://boatus.org/study-guide",
+          "title": "Boating Safety Study Guide"
+        },
+        {
+          "url": "https://chess.4mg.com",
+          "title": "CHESS studies,problems,games"
+        },
+        {
+          "url": "https://kostentuinonderhoud.nl/zeeland/grijpskerke",
+          "title": "Kosten Tuinonderhoud Grijpskerke"
+        },
+        {
+          "url": "https://atropa.si/darilni-program-spletna-trgovina/izdelki",
+          "title": "Izdelki | Botanični vrt, spletna prodaja in urejanje zelenih površin"
+        },
+        {
+          "url": "https://batbike.se/product-category/reservdelar",
+          "title": "Reservdelar | Batbike elcyklar"
+        },
+        {
+          "url": "https://singer.com/support/instruction-manuals",
+          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
+        },
+        {
+          "url": "https://vuoriclothing.com/products/sunday-performance-jogger-black",
+          "title": "Sunday Performance Jogger | Men's Black Joggers | Vuori"
+        },
+        {
+          "url": "https://yr.no/en",
+          "title": "Yr"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "entertainment-media-content",
+      "bookmarks": [
+        {
+          "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
+          "title": "Amuse"
+        },
+        {
+          "url": "https://tatler.com/article/hollywood-scion-emma-roberts-is-the-march-cover",
+          "title": "Hollywood scion Emma Roberts is the March cover | Tatler"
+        },
+        {
+          "url": "https://studio-catch.com/category/hollywood-star-fail",
+          "title": "Hollywood Star Fail - Studio Catch!"
+        },
+        {
+          "url": "https://country.iheart.com/alternate/amp/2022-12-13-kelsea-ballerini-gets-brutally-honest-and-vulnerable-in-podcast-episode/",
+          "title": "Kelsea Ballerini Gets 'Brutally Honest And Vulnerable' In Podcast Episode | iHeartCountry Radio"
+        },
+        {
+          "url": "https://metv.com",
+          "title": "MeTV - America's #1 Classic Television Network"
+        },
+        {
+          "url": "https://subscriptions.hollywoodreporter.com/site/thr-subscribe",
+          "title": "Subscribe to The Hollywood Reporter"
+        },
+        {
+          "url": "https://etcanada.com/news/969657/paul-rudd-says-it-was-pointless-trying-to-get-in-shape-next-to-ant-man-co-star-jonathan-majors-he-was-terrifying/",
+          "title": "The Leading Source for Entertainment and Celebrity News | Entertainment Tonight"
+        },
+        {
+          "url": "https://hallmarkchannel.com/royal-matchmaker/cast/will-kemp",
+          "title": "Will Kemp as Prince Sebastian on Royal Matchmaker"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "social-justice-and-advocacy",
+      "bookmarks": [
+        {
+          "url": "https://dentonblackchamberonline.org",
+          "title": "Denton Black Chamber of Commerce"
+        },
+        {
+          "url": "https://unglobalcompact.org/library/2",
+          "title": "Guiding Principles for Business and Human Rights: Implementing the United Nations \"Protect, Respect and Remedy\" Framework | UN Global Compact"
+        },
+        {
+          "url": "https://aauw.org",
+          "title": "Home - AAUW : Empowering Women Since 1881"
+        },
+        {
+          "url": "https://riaclu.org",
+          "title": "Home - ACLU of Rhode Island"
+        },
+        {
+          "url": "https://napawf.org",
+          "title": "Home - NAPAWF"
+        },
+        {
+          "url": "https://rescue-se.org",
+          "title": "International Rescue Committee | RESCUE"
+        },
+        {
+          "url": "https://www2.ohchr.org/english/issues/millenium-development",
+          "title": "Millennium Development Goals and Human Rights"
+        },
+        {
+          "url": "https://map.peoplepower.org",
+          "title": "Take Action | American Civil Liberties Union"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "blogs-and-personal-projects",
       "bookmarks": [
         {
           "url": "https://cristianchinabirta.ro/tag/masina/",
           "title": "Despre masina - Cristian China-Birta"
         },
         {
-          "url": "https://jewlicious.com/2019/07/",
+          "url": "https://jewlicious.com/2019/07",
           "title": "July 2019 - Jewlicious"
         },
         {
-          "url": "http://cinzia1877.blogspot.com/",
+          "url": "https://antologiaspoeticas.com/tag/oh-mar/",
+          "title": "Oh Mar | Antologias Poéticas"
+        },
+        {
+          "url": "https://cinzia1877.blogspot.com",
           "title": "Parlando e sentendo..."
         },
         {
-          "url": "https://studio-catch.com/category/hollywood-star-fail/",
-          "title": "Hollywood Star Fail - Studio Catch!"
+          "url": "https://jacobjoaquin.tumblr.com",
+          "title": "The Old School"
         },
         {
-          "url": "https://chocolateauthoress.tumblr.com/post/143009103874",
-          "title": "To the stars who listen | Computer science: the impact of K-12 on university..."
+          "url": "https://studgin.tumblr.com",
+          "title": "Untitled"
         },
         {
-          "url": "https://www.astromind.de/astrologie-artikel/wochenende-vom-29-april-bis-1-mai.html",
+          "url": "https://astromind.de/astrologie-artikel/wochenende-vom-29-april-bis-1-mai.html",
           "title": "Wochenende vom 29. April bis 1. Mai - Astrologie"
         }
       ],
-      "count": 6
+      "count": 7
     },
     {
-      "name": "business-corporate",
+      "name": "news-and-current-events",
       "bookmarks": [
         {
-          "url": "https://fleet.7-eleven.com/?utm_source=7-eleven.com&utm_medium=referral&utm_campaign=fleet_2021",
-          "title": "7-Eleven Fleet - Fueling your fleet for the road ahead"
+          "url": "https://fox4news.com/news/forney-isd-student-allegedly-taped-to-chair-crosby-elementary",
+          "title": "10-year-old Forney student claims teacher taped him to chair, school police investigating | FOX 4 Dallas-Fort Worth"
         },
         {
-          "url": "https://m.att.com/mRAS/start.rt",
-          "title": "AT&T Stores Near You - Get Directions & Book Appointments"
+          "url": "https://news.walgreens.com/our-stories/",
+          "title": "News Hub | Walgreens Boots Alliance"
         },
         {
-          "url": "http://www.infocamere.it/",
-          "title": "InfoCamere"
+          "url": "https://tuwiazowna.pl/rusza-modernizacja-az-piec-naborow-wnioskow-w-jednym-terminie/",
+          "title": "Rusza modernizacja. Aż pięć naborów wniosków w jednym terminie - tuWiązowna.pl"
         },
         {
-          "url": "https://www.shift72.com",
-          "title": "Shift72: Secure video on demand platforms"
+          "url": "https://thenexthint.com",
+          "title": "The Next Hint - News Portal"
         },
         {
-          "url": "https://www.stackerhq.com/",
-          "title": "Stacker | Software that's as unique as your business"
+          "url": "https://toronto.ctvnews.ca/ontario-records-highest-number-of-new-covid-19-cases-in-months-with-964-infections-logged-1.5684610",
+          "title": "Toronto News - Local Breaking, Weather and Traffic - CTV News Toronto"
         },
         {
-          "url": "https://svenskafonster.se/en/environment/",
+          "url": "https://abcnews.go.com/us/video/unemployment-reached-highest-level-great-depression-70954064",
+          "title": "Video Unemployment has reached the highest level since the Great Depression - ABC News"
+        },
+        {
+          "url": "https://yahoo.com",
+          "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "environmental-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004570",
+          "title": "Estimating the Worldwide Extent of Illegal Fishing | PLOS One"
+        },
+        {
+          "url": "https://retailtouchpoints.com/features/retail-success-stories/how-resale-sustainability-and-its-3300-stores-support-goodwills-key-mission-jobs",
+          "title": "How Resale, Sustainability and its 3,300 Stores Support Goodwill's Key Mission - Jobs - Retail TouchPoints"
+        },
+        {
+          "url": "https://archives.nereusprogram.org/tag/nereus-scientific-technical-briefs-on-abnj-series/",
+          "title": "Nereus Scientific & Technical Briefs on ABNJ series | Nereus Program"
+        },
+        {
+          "url": "https://news.ucsc.edu/2023/01/humpback-whale-pregnancies.html",
+          "title": "Study reveals influence of krill availability on humpback whale pregnancies - News"
+        },
+        {
+          "url": "https://nature.org",
+          "title": "The Nature Conservancy: A World Where People & Nature Thrive"
+        },
+        {
+          "url": "https://svenskafonster.se/en/environment",
           "title": "Visioner om en ljusare, mer hållbar framtid | Svenska Fönster"
         }
       ],
       "count": 6
     },
     {
-      "name": "org-non-profit",
+      "name": "technical-support-and-utilities",
       "bookmarks": [
         {
-          "url": "https://2016annualreport.bloomberg.org/",
-          "title": "Annual Report | Bloomberg Philanthropies"
+          "url": "https://fleet.7-eleven.com",
+          "title": "7-Eleven Fleet - Fueling your fleet for the road ahead"
         },
         {
-          "url": "https://secure.donorschoose.org/donors/giving_history.html",
-          "title": "DonorsChoose Sign In | Public School Donations"
+          "url": "https://att.com/mras/start.rt",
+          "title": "AT&T Stores Near You - Get Directions & Book Appointments"
         },
         {
-          "url": "http://Rescue-SE.org",
-          "title": "International Rescue Committee | RESCUE"
+          "url": "https://faq.whatsapp.com/android/troubleshooting/notification-problems",
+          "title": "Can't see or hear notifications | WhatsApp உதவி மையம்"
         },
         {
-          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
-          "title": "Stay in Touch"
+          "url": "https://c2k-manip.com/forum/viewtopic.php?p=41693",
+          "title": "i-manip.com • Consulter le sujet - Capteur densité (ROI)"
         },
         {
-          "url": "https://www.nature.org/en-us/",
-          "title": "The Nature Conservancy: A World Where People & Nature Thrive"
+          "url": "https://support.steampowered.com",
+          "title": "Steam Support"
+        },
+        {
+          "url": "https://allaboutdnt.com",
+          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
-      "name": "gov-open-data",
+      "name": "open-data-and-geospatial",
       "bookmarks": [
         {
-          "url": "http://opendata.ayto-caceres.es/dataset/barrios-caceres",
+          "url": "https://opendata.ayto-caceres.es/dataset/barrios-caceres",
           "title": "Barrios Cáceres - Datasets - OpenData Cáceres"
         },
         {
@@ -98,7 +300,11 @@
           "title": "Comune di Milano - Organizzazioni - Open Data - Comune di Milano"
         },
         {
-          "url": "https://data.linz.govt.nz/",
+          "url": "https://epsg.io",
+          "title": "EPSG.io: Coordinate Systems Worldwide"
+        },
+        {
+          "url": "https://data.linz.govt.nz",
           "title": "LINZ Data Service"
         },
         {
@@ -106,143 +312,37 @@
           "title": "Orthophotographie 2018 sur le territoire de m2A - Open Data Mulhouse Alsace Agglomération - m2A"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "news-entertainment",
+      "name": "organizations-and-institutions",
       "bookmarks": [
         {
-          "url": "https://country.iheart.com/alternate/amp/2022-12-13-kelsea-ballerini-gets-brutally-honest-and-vulnerable-in-podcast-episode/",
-          "title": "Kelsea Ballerini Gets 'Brutally Honest And Vulnerable' In Podcast Episode | iHeartCountry Radio"
+          "url": "https://2016annualreport.bloomberg.org",
+          "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://www.tatler.com/article/hollywood-scion-emma-roberts-is-the-march-cover",
-          "title": "Hollywood scion Emma Roberts is the March cover | Tatler"
+          "url": "https://calicolabs.com/people/arthur-d-levinson",
+          "title": "Arthur D. Levinson, Ph.D. - Calico"
         },
         {
-          "url": "https://etcanada.com/news/969657/paul-rudd-says-it-was-pointless-trying-to-get-in-shape-next-to-ant-man-co-star-jonathan-majors-he-was-terrifying/",
-          "title": "The Leading Source for Entertainment and Celebrity News | Entertainment Tonight"
+          "url": "https://mib.gov.in",
+          "title": "Home | Ministry of Information and Broadcasting"
         },
         {
-          "url": "https://www.hallmarkchannel.com/royal-matchmaker/cast/will-kemp",
-          "title": "Will Kemp as Prince Sebastian on Royal Matchmaker"
+          "url": "https://ucsb.edu",
+          "title": "Home | UC Santa Barbara"
+        },
+        {
+          "url": "https://global.jaxa.jp",
+          "title": "JAXA | Japan Aerospace Exploration Agency"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "org-advocacy",
+      "name": "travel-and-local-events",
       "bookmarks": [
-        {
-          "url": "https://www.aauw.org/",
-          "title": "Home - AAUW : Empowering Women Since 1881"
-        },
-        {
-          "url": "http://www.napawf.org/",
-          "title": "Home - NAPAWF"
-        },
-        {
-          "url": "https://riaclu.org/",
-          "title": "Home - ACLU of Rhode Island"
-        },
-        {
-          "url": "https://map.peoplepower.org/?source=homepage",
-          "title": "Take Action | American Civil Liberties Union"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "programming-learning",
-      "bookmarks": [
-        {
-          "url": "https://www.coursera.org/learn/algorithms-part2",
-          "title": "Algorithms, Part II | Coursera"
-        },
-        {
-          "url": "https://playacademy.exceedlms.com/student/activity/9389?use_locale=true",
-          "title": "Google Play Academy"
-        },
-        {
-          "url": "https://www.codecademy.com/learn/learn-python-3",
-          "title": "Learn Python 3 | Codecademy"
-        },
-        {
-          "url": "https://www.codecademy.com/learn/learn-sql",
-          "title": "Learn SQL | Codecademy"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-research",
-      "bookmarks": [
-        {
-          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004570",
-          "title": "Estimating the Worldwide Extent of Illegal Fishing | PLOS One"
-        },
-        {
-          "url": "http://archives.nereusprogram.org/tag/Nereus-Scientific-&-Technical-Briefs-on-ABNJ-series/",
-          "title": "Nereus Scientific & Technical Briefs on ABNJ series | Nereus Program"
-        },
-        {
-          "url": "https://www.elsevier.com/solutions/sciencedirect",
-          "title": "ScienceDirect | Peer-reviewed literature | Elsevier"
-        },
-        {
-          "url": "https://news.ucsc.edu/2023/01/humpback-whale-pregnancies.html",
-          "title": "Study reveals influence of krill availability on humpback whale pregnancies - News"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "http://www.atropa.si/darilni-program-spletna-trgovina/izdelki/?prikazi=6",
-          "title": "Izdelki | Botanični vrt, spletna prodaja in urejanje zelenih površin"
-        },
-        {
-          "url": "https://www.libreriadelsanto.it/libri/9788899005726/la-celebrazione-delleucaristia.html?utm_source=internal&utm_medium=link&utm_campaign=related_products&utm_content=auto",
-          "title": "La celebrazione dell'eucaristia - Le Catechesi di papa Francesco libro, Francesco (Jorge Mario Bergoglio), Centro Eucaristico, settembre 2018, Eucaristia/Messa - LibreriadelSanto.it"
-        },
-        {
-          "url": "https://www.batbike.se/product-category/reservdelar/?filter_bc=cargobike,ecoride&query_type_bc=or&filter_bk=400wh&query_type_bk=or",
-          "title": "Reservdelar | Batbike elcyklar"
-        },
-        {
-          "url": "https://vuoriclothing.com/products/sunday-performance-jogger-black",
-          "title": "Sunday Performance Jogger | Men's Black Joggers | Vuori"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "arts-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.alpino.eu/es/obras-del-museo/javier-lago-adrover",
-          "title": "Javier Lago Adrover | Alpino® Oficial"
-        },
-        {
-          "url": "https://antologiaspoeticas.com/tag/oh-mar/",
-          "title": "Oh Mar | Antologias Poéticas"
-        },
-        {
-          "url": "https://www.museothyssen.org/en/activities",
-          "title": "You are being redirected..."
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "leisure-events-food",
-      "bookmarks": [
-        {
-          "url": "http://agaveuptown.com/",
-          "title": "Agave Uptown - Uptown, Oakland, CA"
-        },
         {
           "url": "https://feverup.com/m/117496",
           "title": "DRAG: The Musical - Los Angeles - Tickets | Fever"
@@ -250,351 +350,91 @@
         {
           "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre/",
           "title": "Festa del cioccolato artigianale sui Navigli Milanesi - MILANOEVENTS.IT | News 2.0 ed Eventi a Milano"
+        },
+        {
+          "url": "https://trainline.com/book/results",
+          "title": "Search Results | Trainline"
+        },
+        {
+          "url": "https://museothyssen.org/en/activities",
+          "title": "You are being redirected..."
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "media-publications",
+      "name": "career-and-education-funding",
       "bookmarks": [
         {
-          "url": "https://www.ncj.nl/actueel/nieuws/artikel/boekbespreking-doen-wat-goed-is-",
-          "title": "Boekbespreking 'Doen wat goed is' - NCJ"
+          "url": "https://secure.donorschoose.org/donors/giving_history.html",
+          "title": "DonorsChoose Sign In | Public School Donations"
         },
         {
-          "url": "http://metv.com",
-          "title": "MeTV - America's #1 Classic Television Network"
+          "url": "https://perscholasinc.applytojob.com",
+          "title": "Job Seeker Resources"
         },
         {
-          "url": "https://subscriptions.hollywoodreporter.com/site/thr-subscribe",
-          "title": "Subscribe to The Hollywood Reporter"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-business",
-      "bookmarks": [
-        {
-          "url": "https://retailtouchpoints.com/features/retail-success-stories/how-resale-sustainability-and-its-3300-stores-support-goodwills-key-mission-jobs",
-          "title": "How Resale, Sustainability and its 3,300 Stores Support Goodwill's Key Mission - Jobs - Retail TouchPoints"
-        },
-        {
-          "url": "https://news.walgreens.com/our-stories/",
-          "title": "News Hub | Walgreens Boots Alliance"
-        },
-        {
-          "url": "https://abcnews.go.com/US/video/unemployment-reached-highest-level-great-depression-70954064",
-          "title": "Video Unemployment has reached the highest level since the Great Depression - ABC News"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-local",
-      "bookmarks": [
-        {
-          "url": "https://www.fox4news.com/news/forney-isd-student-allegedly-taped-to-chair-crosby-elementary",
-          "title": "10-year-old Forney student claims teacher taped him to chair, school police investigating | FOX 4 Dallas-Fort Worth"
-        },
-        {
-          "url": "https://tuwiazowna.pl/rusza-modernizacja-az-piec-naborow-wnioskow-w-jednym-terminie/",
-          "title": "Rusza modernizacja. Aż pięć naborów wniosków w jednym terminie - tuWiązowna.pl"
-        },
-        {
-          "url": "https://toronto.ctvnews.ca/ontario-records-highest-number-of-new-covid-19-cases-in-months-with-964-infections-logged-1.5684610?cache=yesclipId104062%3FclipId%3D104069%3FclipId%3D373266",
-          "title": "Toronto News - Local Breaking, Weather and Traffic - CTV News Toronto"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-community",
-      "bookmarks": [
-        {
-          "url": "https://www.dentonblackchamberonline.org/",
-          "title": "Denton Black Chamber of Commerce"
-        },
-        {
-          "url": "https://www.ywcahouston.org/",
-          "title": "Home"
-        },
-        {
-          "url": "https://www.cfgnh.org/articles/job-training-education-friendship-and-a-voice",
+          "url": "https://cfgnh.org/articles/job-training-education-friendship-and-a-voice",
           "title": "Job Training,... | The Community Foundation for Greater New Haven"
         }
       ],
       "count": 3
     },
     {
-      "name": "tech-reference",
+      "name": "childrens-educational-media",
       "bookmarks": [
         {
-          "url": "https://www.android.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
-          "title": "Android | Fai di più con Google su dispositivi e smartphone Android"
+          "url": "https://sesamestreet.org/videos",
+          "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
         },
         {
-          "url": "https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&isCpeNameSearch=true&seach_type=all&query=cpe:2.3:a:python:urllib3:1.16:*:*:*:*:*:*:*",
-          "title": "NVD - Search and Statistics"
+          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
+          "title": "Stay in Touch"
         },
         {
-          "url": "https://allaboutdnt.com/",
-          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
+          "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022",
+          "title": "Sunny, Stormy, Cloudy Days 01:... - Sesame in Communities - Apple Podcasts"
         }
       ],
       "count": 3
     },
     {
-      "name": "tech-support",
-      "bookmarks": [
-        {
-          "url": "https://faq.whatsapp.com/android/troubleshooting/notification-problems/?lang=ta",
-          "title": "Can't see or hear notifications | WhatsApp உதவி மையம்"
-        },
-        {
-          "url": "http://www.c2k-manip.com/forum/viewtopic.php?p=41693&sid=70acbe4103203ff2229634fd32497436",
-          "title": "i-manip.com • Consulter le sujet - Capteur densité (ROI)"
-        },
-        {
-          "url": "http://lists.plug.org.au/pipermail/plug/2012-February/081356.html",
-          "title": "[plug] warning - cover your ears: can I get a full windoze install dvd from a recovery partition?"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tools-software",
-      "bookmarks": [
-        {
-          "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
-          "title": "Amuse"
-        },
-        {
-          "url": "https://epsg.io/",
-          "title": "EPSG.io: Coordinate Systems Worldwide"
-        },
-        {
-          "url": "http://ios.yacreader.com",
-          "title": "YACReader, the best comic reader, now on iPad, iPhone and iPod touch"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "ai-ml-tools",
+      "name": "digital-tools-and-platforms",
       "bookmarks": [
         {
           "url": "https://powervirtualagents.microsoft.com",
           "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
         },
         {
-          "url": "https://github.com/huggingface/diffusers",
-          "title": "GitHub - huggingface/diffusers: 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "blogs-art",
-      "bookmarks": [
-        {
-          "url": "https://jacobjoaquin.tumblr.com/",
-          "title": "The Old School"
+          "url": "https://shift72.com",
+          "title": "Shift72: Secure video on demand platforms"
         },
         {
-          "url": "https://studgin.tumblr.com/",
-          "title": "Untitled"
+          "url": "https://ios.yacreader.com",
+          "title": "YACReader, the best comic reader, now on iPad, iPhone and iPod touch"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "education-university",
+      "name": "web-profiles-and-misc",
       "bookmarks": [
         {
-          "url": "https://floss.syr.edu/papers?f%5Btg%5D=F&f%5Bauthor%5D=8&s=title&o=asc",
-          "title": "Publications | FLOSS@Syracuse"
-        },
-        {
-          "url": "https://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gov-agencies",
-      "bookmarks": [
-        {
-          "url": "https://mib.gov.in",
-          "title": "Home | Ministry of Information and Broadcasting"
-        },
-        {
-          "url": "https://global.jaxa.jp/",
-          "title": "JAXA | Japan Aerospace Exploration Agency"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "hobby-games",
-      "bookmarks": [
-        {
-          "url": "http://www.chess.4mg.com/",
-          "title": "CHESS studies,problems,games"
-        },
-        {
-          "url": "https://support.steampowered.com",
-          "title": "Steam Support"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "media-kids",
-      "bookmarks": [
-        {
-          "url": "https://www.sesamestreet.org/videos/?vid=2019",
-          "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
-        },
-        {
-          "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022?i=1000457275091",
-          "title": "Sunny, Stormy, Cloudy Days 01:... - Sesame in Communities - Apple Podcasts"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "policy-human-rights",
-      "bookmarks": [
-        {
-          "url": "https://www.unglobalcompact.org/library/2",
-          "title": "Guiding Principles for Business and Human Rights: Implementing the United Nations \"Protect, Respect and Remedy\" Framework | UN Global Compact"
-        },
-        {
-          "url": "http://www2.ohchr.org/english/issues/millenium-development/",
-          "title": "Millennium Development Goals and Human Rights"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "profiles-web",
-      "bookmarks": [
-        {
-          "url": "https://www.calicolabs.com/people/arthur-d-levinson",
-          "title": "Arthur D. Levinson, Ph.D. - Calico"
+          "url": "https://chewathai27.com/ep35-%E0%B8%9B%E0%B8%B51-reaction-%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B3-%E0%B9%82%E0%B8%AB/",
+          "title": "..."
         },
         {
           "url": "https://profiles.wordpress.org/mediabahez/",
           "title": "mediabahez (@mediabahez) - WordPress user profile | WordPress.org"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "programming-reference",
-      "bookmarks": [
-        {
-          "url": "https://docs.python.org/3/tutorial/inputoutput.html",
-          "title": "7. Input and Output - Python 3.14.0 documentation"
         },
         {
-          "url": "https://fact-project.org/FACT++/structcmnds.html",
-          "title": "FACT++: cmnds Struct Reference"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "reference-guides",
-      "bookmarks": [
-        {
-          "url": "https://www.boatus.org/study-guide/",
-          "title": "Boating Safety Study Guide"
-        },
-        {
-          "url": "https://www.singer.com/support/instruction-manuals",
-          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "web-portals",
-      "bookmarks": [
-        {
-          "url": "https://www.thenexthint.com/",
-          "title": "The Next Hint - News Portal"
-        },
-        {
-          "url": "http://www.yahoo.com/",
-          "title": "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "career-resources",
-      "bookmarks": [
-        {
-          "url": "https://perscholasinc.applytojob.com/",
-          "title": "Job Seeker Resources"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "services-local",
-      "bookmarks": [
-        {
-          "url": "https://kostentuinonderhoud.nl/zeeland/grijpskerke/",
-          "title": "Kosten Tuinonderhoud Grijpskerke"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "tools-weather",
-      "bookmarks": [
-        {
-          "url": "https://www.yr.no/en",
-          "title": "Yr"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "travel-planning",
-      "bookmarks": [
-        {
-          "url": "https://www.trainline.com/book/results",
-          "title": "Search Results | Trainline"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://chewathai27.com/ep35-%E0%B8%9B%E0%B8%B51-reaction-%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%88%E0%B8%B3-%E0%B9%82%E0%B8%AB/",
-          "title": "..."
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "web-archived",
-      "bookmarks": [
-        {
-          "url": "http://twitpic.com/2xbppo",
+          "url": "https://twitpic.com/2xbppo",
           "title": "Twitpic"
         }
       ],
-      "count": 1
+      "count": 3
     }
   ],
-  "total_bookmarks": 96,
-  "num_folders": 35
+  "total_bookmarks": 65,
+  "num_folders": 15
 }

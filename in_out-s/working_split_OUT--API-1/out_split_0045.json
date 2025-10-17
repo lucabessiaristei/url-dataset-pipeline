@@ -1,19 +1,81 @@
 {
   "folders": [
     {
-      "name": "nonprofits",
+      "name": "blogs",
+      "bookmarks": [
+        {
+          "url": "https://bwittmblr.tumblr.com/post/145943365905",
+          "title": "The class students like the most"
+        },
+        {
+          "url": "https://cab1729.tumblr.com/post/139491941027",
+          "title": "math geek with no social life, codeorg: What we think of computer science is..."
+        },
+        {
+          "url": "https://coder-girls.tumblr.com/",
+          "title": "@coder-girls on Tumblr"
+        },
+        {
+          "url": "https://ourkman.tumblr.com/",
+          "title": "@ourkman on Tumblr"
+        },
+        {
+          "url": "https://adictoslibros.blogspot.com/2016/02/la-saga-de-los-volsungos.html",
+          "title": "Adictos a los libros: La saga de los Volsungos"
+        },
+        {
+          "url": "https://dollyjessy.com/2020/05/10/",
+          "title": "10/05/2020 - Dollyjessy"
+        },
+        {
+          "url": "http://www.girllovesfood.net/",
+          "title": "Girl Loves Food"
+        },
+        {
+          "url": "https://legawa.com/2015/02/01/over-the-edge-perspective/",
+          "title": "Over the Edge Perspective - Bhyllabus l'énigme"
+        },
+        {
+          "url": "https://designdo.fr/blog/quand-lesoterique-sinvite-dans-le-design/",
+          "title": "Quand l'ésotérique s'invite dans le design - Agence O"
+        },
+        {
+          "url": "https://franceslin90.tumblr.com/",
+          "title": "Randon-mess"
+        },
+        {
+          "url": "https://www.lliurex.es/category/sobre-la-cultura/",
+          "title": "Sobre la Cultura - Lliurex"
+        },
+        {
+          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
+          "title": "ginko taklampa | Trendspanarna.nu"
+        },
+        {
+          "url": "https://www.trustedtravelgirl.com/",
+          "title": "Trusted Travel Girl | The Original Solo Female Travel Blog"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "organizations-nonprofit",
       "bookmarks": [
         {
           "url": "https://www.acluaz.org",
           "title": "Home - ACLU of Arizona"
         },
         {
-          "url": "https://www.cfgnh.org/articles/job-training-education-friendship-and-a-voice",
-          "title": "Job Training,... | The Community Foundation for Greater New Haven"
+          "url": "https://www.iowaaces360.org",
+          "title": "ACES 360 - Iowa ACEs 360"
         },
         {
           "url": "https://www.eastsidefundersgroup.org/",
           "title": "East Side Funders Group"
+        },
+        {
+          "url": "http://www.faithforall.org",
+          "title": "Faith for ALL"
         },
         {
           "url": "http://www.firstchildrensfinance.org/",
@@ -28,8 +90,8 @@
           "title": "Homepage - Kapor Center"
         },
         {
-          "url": "https://www.iowaaces360.org",
-          "title": "ACES 360 - Iowa ACEs 360"
+          "url": "https://www.cfgnh.org/articles/job-training-education-friendship-and-a-voice",
+          "title": "Job Training,... | The Community Foundation for Greater New Haven"
         },
         {
           "url": "http://ndvsb.com/",
@@ -46,70 +108,124 @@
         {
           "url": "https://ujamaaplace.org/",
           "title": "Ujamaa Place"
+        },
+        {
+          "url": "https://www.unccd.int/",
+          "title": "Home | UNCCD"
         }
       ],
-      "count": 11
+      "count": 13
     },
     {
-      "name": "blogs",
+      "name": "environment-sustainability",
       "bookmarks": [
         {
-          "url": "https://bwittmblr.tumblr.com/post/145943365905",
-          "title": "The class students like the most"
+          "url": "https://climate.copernicus.eu/charts/c3s_sstoa",
+          "title": "Charts | Copernicus"
         },
         {
-          "url": "https://cab1729.tumblr.com/post/139491941027",
-          "title": "math geek with no social life, codeorg: What we think of computer science is..."
+          "url": "https://earthday.org/earth-day-quizzes/",
+          "title": "Earth Day Quiz | Official Earth Day Website | earthday.org"
         },
         {
-          "url": "https://coder-girls.tumblr.com/",
-          "title": "@coder-girls on Tumblr"
+          "url": "https://rdcu.be/bZ0CL",
+          "title": "Environmental market design for large-scale marine conservation | Nature Sustainability"
         },
         {
-          "url": "https://franceslin90.tumblr.com/",
-          "title": "Randon-mess"
+          "url": "https://www.lowimpact.org/categories/permaculture",
+          "title": "Category Intro - Lowimpact.org"
         },
         {
-          "url": "http://www.girllovesfood.net/",
-          "title": "Girl Loves Food"
+          "url": "https://www.ecopack.bg/bg",
+          "title": "Начало - Екопак"
         },
         {
-          "url": "https://legawa.com/2015/02/01/over-the-edge-perspective/",
-          "title": "Over the Edge Perspective - Bhyllabus l'énigme"
+          "url": "https://sanctuaries.noaa.gov/news/may20/mpa-center-20th-anniversary.html",
+          "title": "NOAA's National Marine Protected Areas Center | Office of National Marine Sanctuaries"
         },
         {
-          "url": "https://www.lliurex.es/category/sobre-la-cultura/",
-          "title": "Sobre la Cultura - Lliurex"
+          "url": "https://eartharxiv.org/repository/view/3239/",
+          "title": "Revealing the Global Longline Fleet with Satellite Radar"
         },
         {
-          "url": "https://ourkman.tumblr.com/",
-          "title": "@ourkman on Tumblr"
+          "url": "http://latam.rlgamericas.com/",
+          "title": "RLG LatAm"
         },
         {
-          "url": "https://the-particulars.com/interview-groups/a-e/chatting-with-danielle-fichera/",
-          "title": "Danielle Fichera - The Particulars"
+          "url": "https://www.shiftcities.org/",
+          "title": "Transforming cities for people and planet | UrbanShift"
         },
         {
-          "url": "https://www.trustedtravelgirl.com/",
-          "title": "Trusted Travel Girl | The Original Solo Female Travel Blog"
+          "url": "https://yourplanyourplanet.sustainability.google/",
+          "title": "Your Plan, Your Planet - Home page"
         }
       ],
       "count": 10
     },
     {
-      "name": "news",
+      "name": "government-legal",
       "bookmarks": [
+        {
+          "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/",
+          "title": "Children's Privacy Policy - The Walt Disney Privacy Center"
+        },
+        {
+          "url": "https://www.doh.wa.gov/Emergencies/COVID19/vaccine",
+          "title": "COVID-19 Vaccine Information | Washington State Department of Health"
+        },
+        {
+          "url": "https://deathpenaltyinfo.org/policy-issues/deterrence",
+          "title": "Deterrence | Death Penalty Information Center"
+        },
+        {
+          "url": "https://www.fdic.gov/",
+          "title": "FDIC: Federal Deposit Insurance Corporation"
+        },
+        {
+          "url": "https://presidencia.go.cr/",
+          "title": "Gobierno de Costa Rica | Presidencia de la República de Costa Rica"
+        },
+        {
+          "url": "http://www.ice.it/",
+          "title": "Home | Agenzia ICE"
+        },
+        {
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+          "title": "Open Government Licence"
+        },
+        {
+          "url": "https://junaidios.github.io/StbEmu-Pro/PrivacyPolicy.html",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "https://www.flsenate.gov/laws/constitution",
+          "title": "The Florida Constitution - The Florida Senate"
+        },
+        {
+          "url": "https://www.hivjustice.net/cases/us-man-living-with-hiv-arrested-in-louisiana-for-trying-to-spit-at-police-officer/",
+          "title": "US: Man living with HIV arrested in Louisiana for trying to spit at police officer | HIV Justice Network"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.stadtpost.de/stadtpost-dietzenbach",
+          "title": "Aktuelle Nachrichten aus Dietzenbach - op-online.de"
+        },
         {
           "url": "https://news.apple.com?itscg=10000&itsct=pod-ovp-news-apl-ann-21_1019",
           "title": "Apple News"
         },
         {
-          "url": "https://www.apnews.com/hub/world-news",
-          "title": "World News: Top & Breaking World News Today | AP News"
+          "url": "https://www.thestar.com/",
+          "title": "Breaking News - Headlines & Top Stories | The Star"
         },
         {
-          "url": "https://franchisesports.co.uk/",
-          "title": "Latest Sports News, Analysis and Updates in the UK | Franchise Sports"
+          "url": "https://www.theverge.com/2021/10/28/22745234/facebook-new-name-meta-metaverse-zuckerberg-rebrand",
+          "title": "Facebook's new name is Meta | The Verge"
         },
         {
           "url": "https://nymag.com/intelligencer/2012/09/james-carter-iv-helped-spread-secret-romney-video.html",
@@ -128,76 +244,26 @@
           "title": "Sports News Today: Live Score, Latest Updates for Cricket, Football, Kabaddi | SportsCafe"
         },
         {
-          "url": "https://www.stadtpost.de/stadtpost-dietzenbach",
-          "title": "Aktuelle Nachrichten aus Dietzenbach - op-online.de"
+          "url": "https://www.apnews.com/hub/world-news",
+          "title": "World News: Top & Breaking World News Today | AP News"
         },
         {
-          "url": "https://www.thestar.com/",
-          "title": "Breaking News - Headlines & Top Stories | The Star"
-        },
-        {
-          "url": "https://www.theverge.com/2021/10/28/22745234/facebook-new-name-meta-metaverse-zuckerberg-rebrand",
-          "title": "Facebook's new name is Meta | The Verge"
+          "url": "https://franchisesports.co.uk/",
+          "title": "Latest Sports News, Analysis and Updates in the UK | Franchise Sports"
         }
       ],
       "count": 10
     },
     {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://explorable.com/",
-          "title": "Explorable - Think Outside The Box - Research, Experiments, Psychology, Self-Help"
-        },
-        {
-          "url": "https://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
-        },
-        {
-          "url": "https://www.kaggle.com/learn",
-          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
-        },
-        {
-          "url": "https://www.codefellows.org/",
-          "title": "Premier Tech Academy | Discover a Rewarding New Career | Code Fellows"
-        },
-        {
-          "url": "http://www.quill.org/",
-          "title": "Quill.org | Interactive Writing and Grammar"
-        },
-        {
-          "url": "https://www.soyvisual.org/node/58445/lightbox/nojs",
-          "title": "Planos #Soyvisual"
-        },
-        {
-          "url": "http://newsletter.truman.edu/issue.asp?id=1553&command=CurrIssue",
-          "title": "Truman Today | Features - Vol. 21 No. 6 - September 26, 2016"
-        },
-        {
-          "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
-          "title": "Online Learning Tools for Immigrant Job Seekers"
-        },
-        {
-          "url": "https://www.utsa.edu/budget/resources/forms-tools.html",
-          "title": "Forms and Tools | Budget and Financial Planning | UTSA | University of Texas at San Antonio"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "art-and-design",
+      "name": "art-design",
       "bookmarks": [
         {
           "url": "https://www.bloombergconnects.org/",
           "title": "Bloomberg Connects"
         },
         {
-          "url": "https://www.brooklynartlibrary.org/sketchbookproject",
-          "title": "Participate - Brooklyn Art Library / The Sketchbook Project"
-        },
-        {
-          "url": "https://www.designdo.fr/blog/quand-lesoterique-sinvite-dans-le-design/",
-          "title": "Quand l'ésotérique s'invite dans le design - Agence O"
+          "url": "https://the-particulars.com/interview-groups/a-e/chatting-with-danielle-fichera/",
+          "title": "Danielle Fichera - The Particulars"
         },
         {
           "url": "https://www.jillgreenberg.com",
@@ -208,60 +274,68 @@
           "title": "Lost Type Co-op"
         },
         {
+          "url": "https://www.brooklynartlibrary.org/sketchbookproject",
+          "title": "Participate - Brooklyn Art Library / The Sketchbook Project"
+        },
+        {
+          "url": "https://www.sizze.io/",
+          "title": "Sizze App"
+        },
+        {
           "url": "https://stencil.wiki/What_is_Risograph_printing%3F",
           "title": "stencil.wiki"
         },
         {
-          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
-          "title": "ginko taklampa | Trendspanarna.nu"
-        },
-        {
           "url": "https://worldillustrationawards.com/",
           "title": "World Illustration Awards - World Illustration Awards"
+        },
+        {
+          "url": "https://www.museothyssen.org/en/activities",
+          "title": "You are being redirected..."
         }
       ],
-      "count": 8
+      "count": 9
     },
     {
-      "name": "entertainment",
+      "name": "education-learning",
       "bookmarks": [
         {
-          "url": "https://dollyjessy.com/2020/05/10/",
-          "title": "10/05/2020 - Dollyjessy"
+          "url": "https://explorable.com/",
+          "title": "Explorable - Think Outside The Box - Research, Experiments, Psychology, Self-Help"
         },
         {
-          "url": "https://castbox.fm/episode/36.)-1984-Esque-(ft.-Vaush!)-(ATLA-S2E17)-id2797011-id434340652",
-          "title": "36.) 1984-Esque (ft. Vaush!) (ATLA S2E17)"
+          "url": "https://www.ucsb.edu/",
+          "title": "Home | UC Santa Barbara"
         },
         {
-          "url": "https://cloud.email.hollywoodreporter.com/signup/",
-          "title": "The Hollywood Reporter Email Alerts & Newsletter Preferences"
+          "url": "https://www.utsa.edu/budget/resources/forms-tools.html",
+          "title": "Forms and Tools | Budget and Financial Planning | UTSA | University of Texas at San Antonio"
         },
         {
-          "url": "https://www.nettavisen.no/livsstil/denne-scenen-fra-the-office-har-du-aldri-sett-for/s/12-95-3424070396",
-          "title": "Kjendis, The office | Denne scenen fra «The Office» har du aldri sett før"
+          "url": "https://www.kaggle.com/learn",
+          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
         },
         {
-          "url": "https://linnemagazine.com/2021/07/28/si-tu-amigue-te-pide-mas-lofi-y-dream-pop-pasale-lo-nuevo-de-classic-park-paula-pera-y-moriras-lejos/",
-          "title": "Si tu amigue te pide más lofi y dream pop, pásale lo nuevo de Classic Park, Paula Pera y Morirás Lejos | LINNE"
+          "url": "https://www.soyvisual.org/node/58445/lightbox/nojs",
+          "title": "Planos #Soyvisual"
         },
         {
-          "url": "https://www.soulshineatsea.com/",
-          "title": "Soulshine at Sea"
+          "url": "https://www.codefellows.org/",
+          "title": "Premier Tech Academy | Discover a Rewarding New Career | Code Fellows"
         },
         {
-          "url": "https://welcometoyourkarlssonyears.com/2018/02/26/wtyky-podcast-episode-eight-the-price-of-life-in-blood-magic-is-death/",
-          "title": "WTYKY Podcast: Episode Eight: The price of life in blood magic is death | Welcome To Your Karlsson Years"
+          "url": "http://www.quill.org/",
+          "title": "Quill.org | Interactive Writing and Grammar"
         },
         {
-          "url": "https://www.zerocric.com/",
-          "title": "zerocric.com -"
+          "url": "https://newsletter.truman.edu/issue.asp?id=1553&command=CurrIssue",
+          "title": "Truman Today | Features - Vol. 21 No. 6 - September 26, 2016"
         }
       ],
       "count": 8
     },
     {
-      "name": "shopping",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://www.amazon.com/",
@@ -270,10 +344,6 @@
         {
           "url": "https://cwdressings.com/",
           "title": "CW Dressings™"
-        },
-        {
-          "url": "https://www.furnea.nl/banken/sits-bankstellen-samenstellen/sits-stoffen-lederen-range/",
-          "title": "Stel je Bankstellen samen bij Furnea"
         },
         {
           "url": "https://www.surlatable.com/greenpan-craft-sheet-pans/PRO-6146807.html",
@@ -294,73 +364,25 @@
         {
           "url": "https://sklepzielarski24.pl/pl/producer/N.A.S.AG/486",
           "title": "Sklep zielarski online, suplementy i naturalne kosmetyki | Ziołowo Mi"
+        },
+        {
+          "url": "https://www.furnea.nl/banken/sits-bankstellen-samenstellen/sits-stoffen-lederen-range/",
+          "title": "Stel je Bankstellen samen bij Furnea"
         }
       ],
       "count": 8
     },
     {
-      "name": "sustainability",
+      "name": "tech-infrastructure-services",
       "bookmarks": [
         {
-          "url": "https://earthday.org/earth-day-quizzes/",
-          "title": "Earth Day Quiz | Official Earth Day Website | earthday.org"
+          "url": "https://www.verisign.com/",
+          "title": "A global provider of domain name registry services and internet infrastructure | Verisign"
         },
         {
-          "url": "https://www.ecopack.bg/bg",
-          "title": "Начало - Екопак"
+          "url": "https://azuremarketplace.microsoft.com/en-us/",
+          "title": "Microsoft Azure Marketplace"
         },
-        {
-          "url": "http://latam.rlgamericas.com/",
-          "title": "RLG LatAm"
-        },
-        {
-          "url": "https://www.lowimpact.org/categories/permaculture",
-          "title": "Category Intro - Lowimpact.org"
-        },
-        {
-          "url": "https://www.shiftcities.org/",
-          "title": "Transforming cities for people and planet | UrbanShift"
-        },
-        {
-          "url": "https://www.unccd.int/",
-          "title": "Home | UNCCD"
-        },
-        {
-          "url": "https://yourplanyourplanet.sustainability.google/",
-          "title": "Your Plan, Your Planet - Home page"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "general-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://www.museothyssen.org/en/activities",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://www.noesisengine.com/forums/posting.php?mode=quote&f=12&p=10817&sid=b2bbf13a5e83511be22b9b4d6328af6a",
-          "title": "Forums | NoesisGUI - Login"
-        },
-        {
-          "url": "https://v.qq.com/txp/iframe/player.html?origin=https%3A%2F%2Fmp.weixin.qq.com&vid=x07243ccjl8&autoplay=false&full=true&show1080p=false",
-          "title": "腾讯视频"
-        },
-        {
-          "url": "https://www.theworldwomennews.com/",
-          "title": "theworldwomennews.com"
-        },
-        {
-          "url": "https://wiki.szkeptikus.hu/index.php?title=Speci%C3%A1lis:Bel%C3%A9p%C3%A9s&returnto=F%C3%A1jl%3AThe-Belgian-UFO-wave-from-001.jpg&returntoquery=action%3Dinfo",
-          "title": "Bejelentkezés - Szkeptikus Wiki"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "tech-industry",
-      "bookmarks": [
         {
           "url": "https://www.applefritter.com/taxonomy/term/122",
           "title": "PDS | Applefritter"
@@ -370,27 +392,65 @@
           "title": "Search Customer Success Stories | Microsoft Customer Stories"
         },
         {
-          "url": "http://ghc.anitab.org/",
-          "title": "Grace Hopper Celebration | Nov 4-7, 2025 | AnitaB.org"
+          "url": "https://www.shopifystatus.com/",
+          "title": "Shopify Status"
+        },
+        {
+          "url": "https://developpaper.com/open-source-c-implementation-of-console-random-maze/",
+          "title": "Simcast News portal."
+        },
+        {
+          "url": "http://trac.osgeo.org/geotiff/",
+          "title": "Making sure you're not a bot!"
         },
         {
           "url": "https://stratocat.com.ar/fichas/2018/WNM-20180814.htm",
           "title": "PROJECT LOON FLIGHT P-431 - 8/14/2018"
-        },
-        {
-          "url": "http://www.teseo.it/",
-          "title": "Home - Teseo.it Srl Official Web Site"
-        },
-        {
-          "url": "https://www.verisign.com/",
-          "title": "A global provider of domain name registry services and internet infrastructure | Verisign"
         }
       ],
-      "count": 6
+      "count": 8
     },
     {
-      "name": "dev-docs",
+      "name": "entertainment",
       "bookmarks": [
+        {
+          "url": "https://interordi.com/en/apps/mc_plugins.php",
+          "title": "Minecraft plugins - Interordi"
+        },
+        {
+          "url": "https://nettavisen.no/livsstil/denne-scenen-fra-the-office-har-du-aldri-sett-for/s/12-95-3424070396",
+          "title": "Kjendis, The office | Denne scenen fra «The Office» har du aldri sett før"
+        },
+        {
+          "url": "https://linnemagazine.com/2021/07/28/si-tu-amigue-te-pide-mas-lofi-y-dream-pop-pasale-lo-nuevo-de-classic-park-paula-pera-y-moriras-lejos/",
+          "title": "Si tu amigue te pide más lofi y dream pop, pásale lo nuevo de Classic Park, Paula Pera y Morirás Lejos | LINNE"
+        },
+        {
+          "url": "https://www.soulshineatsea.com/",
+          "title": "Soulshine at Sea"
+        },
+        {
+          "url": "https://www.realself.com/news/dolores-catania-breast-augmentation",
+          "title": "Why Dolores Catania Got a Third Breast Augmentation | RealSelf News"
+        },
+        {
+          "url": "https://www.zerocric.com/",
+          "title": "zerocric.com -"
+        },
+        {
+          "url": "http://www.leehawkins.com/NoFrames/Reviews/2021.htm",
+          "title": "The 2021 Quo Annual"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "tech-documentation",
+      "bookmarks": [
+        {
+          "url": "http://bbcbasic.co.uk/bbcwin/tutorial/",
+          "title": "BBC BASIC Tutorial"
+        },
         {
           "url": "https://catboost.ai/en/docs/concepts/loss-functions",
           "title": "Objectives and metrics | CatBoost"
@@ -408,182 +468,160 @@
           "title": "Looker | Google Cloud"
         },
         {
+          "url": "https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658",
+          "title": "Download, install, or reinstall Microsoft 365 or Office 2024 on a PC or Mac - Microsoft Support"
+        },
+        {
           "url": "https://cdm.ing.unimo.it/dokuwiki/start?ns=latex&tab_files=files&do=media&tab_details=view&image=6._assi_ortotropia_.png",
           "title": "start [cdm.ing.unimore.it]"
         }
       ],
-      "count": 5
+      "count": 7
     },
     {
-      "name": "social-issues",
-      "bookmarks": [
-        {
-          "url": "https://www.adl.org/education/references/hate-symbols/confederate-flag",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://deathpenaltyinfo.org/policy-issues/deterrence",
-          "title": "Deterrence | Death Penalty Information Center"
-        },
-        {
-          "url": "https://www.hivjustice.net/cases/us-man-living-with-hiv-arrested-in-louisiana-for-trying-to-spit-at-police-officer/",
-          "title": "US: Man living with HIV arrested in Louisiana for trying to spit at police officer | HIV Justice Network"
-        },
-        {
-          "url": "https://thelastmileradio.org/",
-          "title": "Home - The Last Mile Radio"
-        },
-        {
-          "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
-          "title": "Online Learning Tools for Immigrant Job Seekers"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "government",
-      "bookmarks": [
-        {
-          "url": "https://www.fdic.gov/",
-          "title": "FDIC: Federal Deposit Insurance Corporation"
-        },
-        {
-          "url": "http://www.ice.it/",
-          "title": "Home | Agenzia ICE"
-        },
-        {
-          "url": "https://presidencia.go.cr/",
-          "title": "Gobierno de Costa Rica | Presidencia de la República de Costa Rica"
-        },
-        {
-          "url": "https://www.flsenate.gov/laws/constitution",
-          "title": "The Florida Constitution - The Florida Senate"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "data-research",
-      "bookmarks": [
-        {
-          "url": "https://climate.copernicus.eu/charts/c3s_sstoa",
-          "title": "Charts | Copernicus"
-        },
-        {
-          "url": "http://gis.arkansas.gov/?product=situs-address-points",
-          "title": "Address Points | Arkansas GIS Office"
-        },
-        {
-          "url": "https://karirast.com/USA-FIN/6021_sitc_m.html",
-          "title": "Yhdysvaltain vienti ja tuonti. Australia 2 / 2025"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "dev-tools",
-      "bookmarks": [
-        {
-          "url": "https://trends.google.com/trends/?geo=US",
-          "title": "Google Trends"
-        },
-        {
-          "url": "https://www.shopifystatus.com/",
-          "title": "Shopify Status"
-        },
-        {
-          "url": "https://www.sizze.io/",
-          "title": "Sizze App"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "health",
-      "bookmarks": [
-        {
-          "url": "https://www.doh.wa.gov/Emergencies/COVID19/vaccine",
-          "title": "COVID-19 Vaccine Information | Washington State Department of Health"
-        },
-        {
-          "url": "https://www.realself.com/news/dolores-catania-breast-augmentation",
-          "title": "Why Dolores Catania Got a Third Breast Augmentation | RealSelf News"
-        },
-        {
-          "url": "https://extranet.who.int/publicemergency",
-          "title": "WHO Health Emergency Dashboard"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "legal-docs",
-      "bookmarks": [
-        {
-          "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/",
-          "title": "Children's Privacy Policy - The Walt Disney Privacy Center"
-        },
-        {
-          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
-          "title": "Open Government Licence"
-        },
-        {
-          "url": "https://junaidios.github.io/StbEmu-Pro/PrivacyPolicy.html",
-          "title": "Privacy Policy"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "marketing",
+      "name": "business-career",
       "bookmarks": [
         {
           "url": "https://all-in.withgoogle.com/",
           "title": "Creating marketing for everyone"
         },
         {
-          "url": "https://sklep.izakrejcapawski.pl/plan-newsletterow-5/",
-          "title": "Plan newsletterów | IKP Szkolenia"
+          "url": "http://www.teseo.it/",
+          "title": "Home - Teseo.it Srl Official Web Site"
+        },
+        {
+          "url": "https://www.jobcity.at/job.php?aid=49975&mobile=true",
+          "title": "jobcity.at - Das Jobportal in Wien"
+        },
+        {
+          "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
+          "title": "Online Learning Tools for Immigrant Job Seekers"
         },
         {
           "url": "https://sell.amazon.com/grow#nsi",
           "title": "Sell more with the New Seller Guide | Sell on Amazon"
+        },
+        {
+          "url": "https://www.bigmarker.com/mutual-of-omaha-mortgage1/USO-VA-Home-Loan-Workshop-63360a8099738d3a9ab16ce4?show_live_page=true",
+          "title": "Webinar: USO VA Home Loan Workshop by Mutual of Omaha Mortgage"
         }
       ],
-      "count": 3
+      "count": 6
     },
     {
-      "name": "misc",
+      "name": "data-reference",
       "bookmarks": [
+        {
+          "url": "http://gis.arkansas.gov/?product=situs-address-points",
+          "title": "Address Points | Arkansas GIS Office"
+        },
+        {
+          "url": "https://trends.google.com/trends/?geo=US",
+          "title": "Google Trends"
+        },
+        {
+          "url": "https://wiktenauer.com/wiki/Hans_Talhoffer",
+          "title": "Hans Talhoffer ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
+        },
+        {
+          "url": "https://extranet.who.int/publicemergency",
+          "title": "WHO Health Emergency Dashboard"
+        },
+        {
+          "url": "https://karirast.com/USA-FIN/6021_sitc_m.html",
+          "title": "Yhdysvaltain vienti ja tuonti. Australia 2 / 2025"
+        },
+        {
+          "url": "https://www.adl.org/education/references/hate-symbols/confederate-flag",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "misc-unclassified",
+      "bookmarks": [
+        {
+          "url": "https://wiki.szkeptikus.hu/index.php?title=Speci%C3%A1lis:Bel%C3%A9p%C3%A9s&returnto=F%C3%A1jl%3AThe-Belgian-UFO-wave-from-001.jpg&returntoquery=action%3Dinfo",
+          "title": "Bejelentkezés - Szkeptikus Wiki"
+        },
+        {
+          "url": "https://www.noesisengine.com/forums/posting.php?mode=quote&f=12&p=10817&sid=b2bbf13a5e83511be22b9b4d6328af6a",
+          "title": "Forums | NoesisGUI - Login"
+        },
+        {
+          "url": "https://sklep.izakrejcapawski.pl/plan-newsletterow-5/",
+          "title": "Plan newsletterów | IKP Szkolenia"
+        },
+        {
+          "url": "https://v.qq.com/txp/iframe/player.html?origin=https%3A%2F%2Fmp.weixin.qq.com&vid=x07243ccjl8&autoplay=false&full=true&show1080p=false",
+          "title": "腾讯视频"
+        },
+        {
+          "url": "https://cloud.email.hollywoodreporter.com/signup/",
+          "title": "The Hollywood Reporter Email Alerts & Newsletter Preferences"
+        },
+        {
+          "url": "https://www.theworldwomennews.com/",
+          "title": "theworldwomennews.com"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "culture-lifestyle",
+      "bookmarks": [
+        {
+          "url": "https://ghc.anitab.org/",
+          "title": "Grace Hopper Celebration | Nov 4-7, 2025 | AnitaB.org"
+        },
+        {
+          "url": "https://www.straightenupbyjanelle.com",
+          "title": "Organizer to the Stars | Straighten Up by Janelle"
+        },
         {
           "url": "https://divinelight.org.gr/category/news/new-publications/",
           "title": "Νέες Εκδόσεις Archive - Πνευματιστικός Όμιλος Αθηνών \"Τό Θείον Φως\""
         },
         {
-          "url": "http://www.faithforall.org",
-          "title": "Faith for ALL"
+          "url": "https://www.balboaisland.com/video-of-balboa-peninsula-and-newport-harbor-in-the-1950s/",
+          "title": "Video of Balboa Peninsula and Newport Harbor in the 1950s! - Balboa Island"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "food-recipes",
+      "bookmarks": [
+        {
+          "url": "https://bakewithshivesh.com/",
+          "title": "Bake with Shivesh - Sharing my baking adventures straight from my kitchen."
         },
         {
-          "url": "http://www.leehawkins.com/NoFrames/Reviews/2021.htm",
-          "title": "The 2021 Quo Annual"
+          "url": "http://www.appbrain.com/app/cucinare-ricette-in-tasca/com.aldroid.cucinare",
+          "title": "Cucinare - ricette in tasca for Android - Free App Download"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85935",
+          "title": "Searchable Recipe Database - Sesame Braised Chicken in a Pot With Shiitake, Daikon and Ginger"
         }
       ],
       "count": 3
     },
     {
-      "name": "software",
+      "name": "podcasts",
       "bookmarks": [
         {
-          "url": "https://azuremarketplace.microsoft.com/en-us/",
-          "title": "Microsoft Azure Marketplace"
+          "url": "https://castbox.fm/episode/36.)-1984-Esque-(ft.-Vaush!)-(ATLA-S2E17)-id2797011-id434340652",
+          "title": "36.) 1984-Esque (ft. Vaush!) (ATLA S2E17)"
         },
         {
-          "url": "https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658",
-          "title": "Download, install, or reinstall Microsoft 365 or Office 2024 on a PC or Mac - Microsoft Support"
+          "url": "https://thelastmileradio.org/",
+          "title": "Home - The Last Mile Radio"
         },
         {
-          "url": "http://trac.osgeo.org/geotiff/",
-          "title": "Making sure you're not a bot!"
+          "url": "https://welcometoyourkarlssonyears.com/2018/02/26/wtyky-podcast-episode-eight-the-price-of-life-in-blood-magic-is-death/",
+          "title": "WTYKY Podcast: Episode Eight: The price of life in blood magic is death | Welcome To Your Karlsson Years"
         }
       ],
       "count": 3
@@ -607,134 +645,20 @@
       "count": 3
     },
     {
-      "name": "brands-auto",
+      "name": "automotive",
       "bookmarks": [
-        {
-          "url": "https://www.bmw.cl/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Chile | Descubre el placer de conducir"
-        },
         {
           "url": "https://www.bmw-oman.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
           "title": "BMW Dealer | Muscat | BMW Oman"
+        },
+        {
+          "url": "https://www.bmw.cl/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Chile | Descubre el placer de conducir"
         }
       ],
       "count": 2
-    },
-    {
-      "name": "career-development",
-      "bookmarks": [
-        {
-          "url": "https://www.bigmarker.com/mutual-of-omaha-mortgage1/USO-VA-Home-Loan-Workshop-63360a8099738d3a9ab16ce4?show_live_page=true",
-          "title": "Webinar: USO VA Home Loan Workshop by Mutual of Omaha Mortgage"
-        },
-        {
-          "url": "https://www.jobcity.at/job.php?aid=49975&mobile=true",
-          "title": "jobcity.at - Das Jobportal in Wien"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "history",
-      "bookmarks": [
-        {
-          "url": "https://wiktenauer.com/wiki/Hans_Talhoffer",
-          "title": "Hans Talhoffer ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
-        },
-        {
-          "url": "https://www.balboaisland.com/video-of-balboa-peninsula-and-newport-harbor-in-the-1950s/",
-          "title": "Video of Balboa Peninsula and Newport Harbor in the 1950s! - Balboa Island"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "programming-learning",
-      "bookmarks": [
-        {
-          "url": "http://www.bbcbasic.co.uk/bbcwin/tutorial/",
-          "title": "BBC BASIC Tutorial"
-        },
-        {
-          "url": "https://developpaper.com/open-source-c-implementation-of-console-random-maze/",
-          "title": "Simcast News portal."
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "recipes",
-      "bookmarks": [
-        {
-          "url": "https://bakewithshivesh.com/",
-          "title": "Bake with Shivesh - Sharing my baking adventures straight from my kitchen."
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85935",
-          "title": "Searchable Recipe Database - Sesame Braised Chicken in a Pot With Shiitake, Daikon and Ginger"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "science",
-      "bookmarks": [
-        {
-          "url": "https://eartharxiv.org/repository/view/3239/",
-          "title": "Revealing the Global Longline Fleet with Satellite Radar"
-        },
-        {
-          "url": "https://sanctuaries.noaa.gov/news/may20/mpa-center-20th-anniversary.html",
-          "title": "NOAA's National Marine Protected Areas Center | Office of National Marine Sanctuaries"
-        },
-        {
-          "url": "http://rdcu.be/bZ0CL",
-          "title": "Environmental market design for large-scale marine conservation | Nature Sustainability"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "apps",
-      "bookmarks": [
-        {
-          "url": "http://www.appbrain.com/app/cucinare-ricette-in-tasca/com.aldroid.cucinare",
-          "title": "Cucinare - ricette in tasca for Android - Free App Download"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "books",
-      "bookmarks": [
-        {
-          "url": "http://adictoslibros.blogspot.com/2016/02/la-saga-de-los-volsungos.html",
-          "title": "Adictos a los libros: La saga de los Volsungos"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "gaming",
-      "bookmarks": [
-        {
-          "url": "https://www.interordi.com/en/apps/mc_plugins.php",
-          "title": "Minecraft plugins - Interordi"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "lifestyle",
-      "bookmarks": [
-        {
-          "url": "https://www.straightenupbyjanelle.com",
-          "title": "Organizer to the Stars | Straighten Up by Janelle"
-        }
-      ],
-      "count": 1
     }
   ],
-  "total_bookmarks": 137,
-  "num_folders": 31
+  "total_bookmarks": 136,
+  "num_folders": 19
 }
