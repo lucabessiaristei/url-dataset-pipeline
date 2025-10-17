@@ -91,6 +91,46 @@ python tools/directory_structure_printer.py
 ```
 url-dataset-pipeline/
 ├── in_out-s/
+│   ├── RAW/
+│   │   ├── out_split_0010_RAW.txt
+│   │   ├── out_split_0026_RAW.txt
+│   │   ├── out_split_0027_RAW.txt
+│   │   ├── out_split_0029_RAW.txt
+│   │   ├── out_split_0038_RAW.txt
+│   │   ├── out_split_0059_RAW.txt
+│   │   ├── out_split_0069_RAW.txt
+│   │   ├── out_split_0071_RAW.txt
+│   │   ├── out_split_0074_RAW.txt
+│   │   │   ... (134 files hidden) ...
+│   │   ├── out_split_0949_RAW.txt
+│   │   ├── out_split_0966_RAW.txt
+│   │   ├── out_split_0970_RAW.txt
+│   │   ├── out_split_0972_RAW.txt
+│   │   ├── out_split_0984_RAW.txt
+│   │   ├── out_split_0985_RAW.txt
+│   │   ├── out_split_0991_RAW.txt
+│   │   ├── out_split_0993_RAW.txt
+│   │   ├── out_split_0999_RAW.txt
+│   ├── split_backup_cleaner/
+│   │   ├── in_split_0001.json
+│   │   ├── in_split_0002.json
+│   │   ├── in_split_0003.json
+│   │   ├── in_split_0004.json
+│   │   ├── in_split_0005.json
+│   │   ├── in_split_0006.json
+│   │   ├── in_split_0007.json
+│   │   ├── in_split_0008.json
+│   │   ├── in_split_0009.json
+│   │   │   ... (776 files hidden) ...
+│   │   ├── out_split_0391.json
+│   │   ├── out_split_0392.json
+│   │   ├── out_split_0393.json
+│   │   ├── out_split_0394.json
+│   │   ├── out_split_0396.json
+│   │   ├── out_split_0398.json
+│   │   ├── out_split_0399.json
+│   │   ├── out_split_0400.json
+│   │   ├── out_split_0401.json
 │   ├── working_split_IN--1/
 │   │   ├── in_split_0001.json
 │   │   ├── in_split_0002.json
@@ -111,26 +151,48 @@ url-dataset-pipeline/
 │   │   ├── in_split_0998.json
 │   │   ├── in_split_0999.json
 │   │   ├── in_split_1000.json
-│   └── working_split_OUT--API-1/
-│       ├── out_split_0001.json
-│       ├── out_split_0002.json
-│       ├── out_split_0003.json
-│       ├── out_split_0004.json
-│       ├── out_split_0005.json
-│       ├── out_split_0006.json
-│       ├── out_split_0007.json
-│       ├── out_split_0008.json
-│       ├── out_split_0009.json
-│       │   ... (282 files hidden) ...
-│       ├── out_split_0292.json
-│       ├── out_split_0293.json
-│       ├── out_split_0294.json
-│       ├── out_split_0295.json
-│       ├── out_split_0296.json
-│       ├── out_split_0297.json
-│       ├── out_split_0299.json
-│       ├── out_split_0300.json
-│       ├── out_split_0302.json
+│   ├── working_split_IN--2/
+│   │   ├── split_0001.json
+│   │   ├── split_0002.json
+│   │   ├── split_0003.json
+│   │   ├── split_0004.json
+│   │   ├── split_0005.json
+│   │   ├── split_0006.json
+│   │   ├── split_0007.json
+│   │   ├── split_0008.json
+│   │   ├── split_0009.json
+│   │   │   ... (982 files hidden) ...
+│   │   ├── split_0992.json
+│   │   ├── split_0993.json
+│   │   ├── split_0994.json
+│   │   ├── split_0995.json
+│   │   ├── split_0996.json
+│   │   ├── split_0997.json
+│   │   ├── split_0998.json
+│   │   ├── split_0999.json
+│   │   ├── split_1000.json
+│   ├── working_split_OUT--API-1/
+│   │   ├── out_split_0002.json
+│   │   ├── out_split_0003.json
+│   │   ├── out_split_0004.json
+│   │   ├── out_split_0005.json
+│   │   ├── out_split_0006.json
+│   │   ├── out_split_0007.json
+│   │   ├── out_split_0008.json
+│   │   ├── out_split_0009.json
+│   │   ├── out_split_0010.json
+│   │   │   ... (720 files hidden) ...
+│   │   ├── out_split_0987.json
+│   │   ├── out_split_0989.json
+│   │   ├── out_split_0990.json
+│   │   ├── out_split_0992.json
+│   │   ├── out_split_0994.json
+│   │   ├── out_split_0995.json
+│   │   ├── out_split_0996.json
+│   │   ├── out_split_0997.json
+│   │   ├── out_split_0998.json
+│   ├── working_split_OUT--API-2/
+│   └── gemini_clean_report.json
 ├── json_lists/
 │   ├── working.json
 │   ├── working_expanded.json
@@ -158,11 +220,13 @@ url-dataset-pipeline/
 ├── tools/
 │   ├── .env
 │   ├── directory_structure_printer.py
+│   ├── fields_OUT_cleaner.py
 │   ├── gemini_mismatch_cleaner.py
 │   ├── gemini_output_generator_API.py
 │   ├── json_urls_data_quick_expander.py
 │   ├── json_urls_quick_tester.py
 │   ├── simple_urls_list_to_json.py
+│   ├── small_folders_OUT_cleaner.py
 │   ├── warc_to_json_quick_tester.py
 │   ├── working_expanded_error_cleaner.py
 │   ├── working_expanded_europe_cleaner.py
@@ -173,6 +237,7 @@ url-dataset-pipeline/
 │   └── CC-MAIN-20220116093137-20220116123137-00029.warc
 ├── ai_rules.txt
 ├── directory_structure.txt
+├── notes.txt
 ├── README.md
 └── requirements.txt
 ```
