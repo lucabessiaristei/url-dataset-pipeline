@@ -23,8 +23,8 @@ from typing import Dict, Tuple
 # -----------------------------
 # Config
 # -----------------------------
-INPUT_DIR = "./in_out-s/working_split_IN--1"
-OUTPUT_DIR = "./in_out-s/working_split_OUT--API-1"
+INPUT_DIR = "./in_out-s/working_split_IN--2"
+OUTPUT_DIR = "./in_out-s/working_split_OUT--API-2"
 BACKUP_DIR = "./in_out-s/split_backup_cleaner"
 REPORT_PATH = "./in_out-s/gemini_clean_report.json"
 
@@ -304,15 +304,51 @@ def main():
 
     report = {}
     diff_count = 0
+    high_missing = []  # Raccoglie file con molti missing
+
     for sid, (in_path, out_path) in sorted(pairs.items()):
         changed = process_pair(sid, in_path, out_path, apply=args.apply, verbose=args.verbose, report=report)
         if changed:
             diff_count += 1
+        
+        # Raccogli info sui missing elevati
+        if sid in report and report[sid]["missing_count"] > 20:
+            high_missing.append((sid, report[sid]["missing_count"], report[sid].get("final_total_bookmarks", 0)))
 
     # Save report only if not empty
     if report:
         with open(REPORT_PATH, "w", encoding="utf-8") as f:
             json.dump(report, f, ensure_ascii=False, indent=2)
+
+    # Print warning per file con molti missing
+    if high_missing:
+        print("\n⚠️  FILES WITH HIGH MISSING COUNT:")
+        to_delete = []
+        for sid, missing, total_out in high_missing:
+            total_in = missing + total_out  # Approssimazione
+            perc = (missing * 100 // total_in) if total_in > 0 else 0
+            print(f"    split_{sid}: missing {missing}/{total_in} ({perc}%)")
+            if perc > 25:
+                to_delete.append(sid)
+        
+        # Prompt per eliminazione
+        if to_delete:
+            print(f"\n🗑️  Found {len(to_delete)} files with >25% missing.")
+            response = input("Delete these files? (y/n): ").strip().lower()
+            if response == 'y':
+                deleted = 0
+                for sid in to_delete:
+                    out_file = pairs[sid][1]
+                    try:
+                        os.remove(out_file)
+                        deleted += 1
+                        print(f"  ✓ Deleted split_{sid}")
+                    except Exception as e:
+                        print(f"  ✗ Error deleting split_{sid}: {e}")
+                print(f"\n✅ Deleted {deleted}/{len(to_delete)} out files.")
+            else:
+                print("Deletion cancelled.")
+        print()
 
     print("\n--- FULL SYNC SUMMARY ---")
     if diff_count:

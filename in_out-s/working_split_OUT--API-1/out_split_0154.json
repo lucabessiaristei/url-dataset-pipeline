@@ -1,12 +1,82 @@
 {
   "folders": [
     {
-      "name": "news-current-affairs",
+      "name": "org-community-nonprofit",
       "bookmarks": [
         {
-          "url": "https://amiga-news.de/en/news/AN-2008-08-00002-EN.html",
-          "title": "amiga-news.de - Graphic program: PerfectPaint WIP 010808 beta (update)"
+          "url": "https://aedamn.org/",
+          "title": "Home | AEDA"
         },
+        {
+          "url": "http://www.agacgfm.org/",
+          "title": "AGA - Association of Government Accountants"
+        },
+        {
+          "url": "https://www.atanet.org/",
+          "title": "American Translators Association"
+        },
+        {
+          "url": "https://blankfoundation.org/",
+          "title": "Arthur M. Blank Family Foundation | Atlanta, Georgia | Home"
+        },
+        {
+          "url": "https://www.bbbprograms.org",
+          "title": "Home - BBB National Programs"
+        },
+        {
+          "url": "https://bridgecollaborativeglobal.org/solutions/cross-sector-stories/bridge-spark-fund-2020/",
+          "title": "The Bridge Collaborative | The Nicholas Institute for Energy, Environment & Sustainability"
+        },
+        {
+          "url": "https://chesapeakeclimate.org/",
+          "title": "Home - Chesapeake Climate Action Network"
+        },
+        {
+          "url": "https://cookiecart.org/",
+          "title": "Cookie Cart - Baking Bright Futures"
+        },
+        {
+          "url": "https://echoinggreen.org/",
+          "title": "Echoing Green: Funding Social Entrepreneurship & Innovation"
+        },
+        {
+          "url": "http://flotillafoundation.org/about-us",
+          "title": "About us"
+        },
+        {
+          "url": "http://www.gmhchousing.org/",
+          "title": "GMHC | Minneapolis, MN"
+        },
+        {
+          "url": "https://www.hiringourheroes.org/",
+          "title": "Hiring Our Heroes: Bridging the Job Gap for Veterans"
+        },
+        {
+          "url": "https://huridocs.org/services/",
+          "title": "Services | HURIDOCS"
+        },
+        {
+          "url": "https://impact.kaporcenter.org",
+          "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://www.minderoo.org/",
+          "title": "Minderoo Foundation"
+        },
+        {
+          "url": "https://nevcc.org/building-a-community-behind-your-business/",
+          "title": "Second Life Chattanooga"
+        },
+        {
+          "url": "https://ultcmn.org/",
+          "title": "Urban League Twin Cities - Empowering communities. Changing lives."
+        }
+      ],
+      "count": 17
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
         {
           "url": "https://www.bisnow.com/atlanta/news/multifamily/apartment-prominence-in-urban-areas-raising-questions-on-whether-they-should-contribute-to-cids-100591",
           "title": "As Atlanta Surges With Apartments, CIDs Push For Them To Pay Their Share"
@@ -20,58 +90,250 @@
           "title": "Découvrez le nouvel hymne des Enfoirés : \"Maintenant\" !"
         },
         {
+          "url": "https://www.wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
+          "title": "Despite job openings, gap remains between labor pool and needed skills"
+        },
+        {
+          "url": "https://press.assuralia.be/een-aanrijding-aangeven-met-je-smartphone-of-tablet-het-kan-voortaan-met-de-app-crashformr",
+          "title": "Een aanrijding aangeven met je smartphone of tablet? Het kan voortaan met de app Crashform®"
+        },
+        {
           "url": "https://www.elguardian.mx/gas-natural-se-bana-con-las-facturas/",
           "title": "Gas Natural se 'baña' con las facturas, aumentan hasta 5 veces - El Guardián MX"
-        },
-        {
-          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
-          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
-        },
-        {
-          "url": "https://m.novinite.com/view_news.php?id=181332",
-          "title": "Heavy Rainfall and Storm Hit Turkey's Istanbul - Novinite.com - Sofia News Agency"
-        },
-        {
-          "url": "https://www.nps.gov/grca/learn/news/hiker-fatality-along-bright-angel-trail-february-2023.htm",
-          "title": "Hiker Fatality along Bright Angel Trail in Grand Canyon National Park - Grand Canyon National Park (U.S. National Park Service)"
-        },
-        {
-          "url": "https://www.kongehuset.dk/nyheder/h-m-dronningen-er-blevet-opereret",
-          "title": "H.M. Dronningen er blevet opereret"
-        },
-        {
-          "url": "https://www.independent.co.uk/news/world/americas/us-politics/sanders-haley-mental-competency-tests-b2285444.html",
-          "title": "Bernie Sanders calls Nikki Haley's demand for politicians over 75 to take mental competency tests 'absurd' | The Independent"
-        },
-        {
-          "url": "https://racingnews.co/2020/10/17/kansas-speedway-starting-lineup-october-17-2020-nascar-truck-series/",
-          "title": "Kansas Speedway Starting Lineup: October 17, 2020 (NASCAR Truck Series) - Racing News"
         },
         {
           "url": "https://www.sandiegouniontribune.com/military/sdut-rosie-network-military-entrepreneurs-2014apr07-story.html",
           "title": "Group promotes military entrepreneurs - San Diego Union-Tribune"
         },
         {
+          "url": "https://m.novinite.com/view_news.php?id=181332",
+          "title": "Heavy Rainfall and Storm Hit Turkey's Istanbul - Novinite.com - Sofia News Agency"
+        },
+        {
+          "url": "https://racingnews.co/2020/10/17/kansas-speedway-starting-lineup-october-17-2020-nascar-truck-series/",
+          "title": "Kansas Speedway Starting Lineup: October 17, 2020 (NASCAR Truck Series) - Racing News"
+        },
+        {
           "url": "https://www.thenorthernecho.co.uk/news/23112107.man-arrested-eggs-thrown-king-charles-york-visit/",
           "title": "Man arrested after eggs thrown at King Charles during York visit | The Northern Echo"
+        },
+        {
+          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
+          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
         },
         {
           "url": "https://www.wuppertaler-rundschau.de/stadtteile/ronsdorf/weiter-streit-in-wuppertal-ueber-standort-einer-forensischen-klinik_aid-50398385",
           "title": "Weiter Streit in Wuppertal über Standort einer forensischen Klinik"
         }
       ],
-      "count": 14
+      "count": 12
     },
     {
-      "name": "ecommerce-shopping",
+      "name": "reference-education",
       "bookmarks": [
         {
-          "url": "https://www.dermstore.com/beautyfix.list",
-          "title": "BeautyFIX Skin Care, Hair & Beauty Subscription Box | Dermstore"
+          "url": "https://www.50states.com/west-virginia/walker_schools.htm",
+          "title": "Walker Schools. Find Elementary, Middle and High Schools in Walker, WV. - 50states"
         },
+        {
+          "url": "https://applieddigitalskills.withgoogle.com/en/educators",
+          "title": "Applied Digital Skills : Google for Education"
+        },
+        {
+          "url": "https://www.basemap.com/privacy-policy/",
+          "title": "Privacy Policy | BaseMap Inc"
+        },
+        {
+          "url": "https://docs.appsyoulove.com/policies/privacy-policy/",
+          "title": "Privacy Policy · AppsYouLove Terms & Policies"
+        },
+        {
+          "url": "http://www.edscuola.com/",
+          "title": "Educazione&Scuola© by Dario Cillo - La Rivista telematica della Scuola e della Formazione"
+        },
+        {
+          "url": "http://members.tripod.com/~Germantown_Peggers/cribfrms.htm",
+          "title": "Germantown Peggers Cribbage Club, Rules Page"
+        },
+        {
+          "url": "http://rechnerlexikon.de/en/wiki.phtml?title=Patent:DE460651&diff=0&oldid=67603",
+          "title": "Patent:DE460651 - Rechnerlexikon"
+        },
+        {
+          "url": "https://info.cell.com/request-access-to-cell-press-content",
+          "title": "Request access to Cell Press content today!"
+        },
+        {
+          "url": "https://www.wissenswertes.at/tarot",
+          "title": "Tarot legen - Karten legen - Tarot Astrologie"
+        },
+        {
+          "url": "https://fred.stlouisfed.org/series/UNRATE",
+          "title": "Unemployment Rate (UNRATE) | FRED | St. Louis Fed"
+        },
+        {
+          "url": "https://whichmba.economist.com/",
+          "title": "WhichMBA?"
+        },
+        {
+          "url": "https://www.youronlinechoices.eu/",
+          "title": "Your Online Choices | EDAA"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "tech-general-services",
+      "bookmarks": [
+        {
+          "url": "https://wellbeing.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+          "title": "About Google: Our products, technology and company information - About Google"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/google-family-link/id1150085200",
+          "title": "‎Google Family Link on the App Store"
+        },
+        {
+          "url": "https://www.amiga-news.de/en/news/AN-2008-08-00002-EN.html",
+          "title": "amiga-news.de - Graphic program: PerfectPaint WIP 010808 beta (update)"
+        },
+        {
+          "url": "https://inthecloud.withgoogle.com/cyber-security-forecast-2023/register.html?utm_source=gc_events&utm_medium=display&utm_campaign=FY23-Q1-northam-NRTH86-physicalevent-er-mandient-cyber-security-forecast&utm_content=cyber-security-forecast-cgcevents&utm_term=-",
+          "title": "Cloud Computing Services | Google Cloud"
+        },
+        {
+          "url": "http://help.yahoo.com/help/us/mail/",
+          "title": "Help for your Yahoo Account"
+        },
+        {
+          "url": "https://status.mapbox.com/",
+          "title": "Mapbox Status"
+        },
+        {
+          "url": "https://getmyinternet.org/?page_id=5",
+          "title": "Save the Affordable Connectivity Program | Common Sense Media"
+        },
+        {
+          "url": "https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=d66407ed-3967-b000-4cfb-2c318cad363d",
+          "title": "Services Hub"
+        },
+        {
+          "url": "https://support.steampowered.com",
+          "title": "Steam Support"
+        },
+        {
+          "url": "https://getsupport.apple.com/?caller=psp",
+          "title": "void"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.pinterest.dk/bangolufsen/",
+          "title": "Bang & Olufsen (bangolufsen) - Profile | Pinterest"
+        },
+        {
+          "url": "https://www.bmw.hn/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Honduras | Autos Deportivos, Híbridos y Más - Home"
+        },
+        {
+          "url": "https://www.bytedance.com/",
+          "title": "ByteDance - Inspire Creativity, Enrich Life"
+        },
+        {
+          "url": "http://www.gennx360.com/",
+          "title": "GenNx360 | Private Equity | Middle-Market | Industrial Business Services"
+        },
+        {
+          "url": "https://cz.products.erstegroup.com/Retail/cs/Produkty/Certifikaty/Bonus_certifikaty/Stranky/NovuC3uA9_emise/index.phtml",
+          "title": "Investiční centrum"
+        },
+        {
+          "url": "https://jobs.theguardian.com?INTCMP=jobs_us_web_newheader_dropdown",
+          "title": "Job search | Find your dream job with Guardian Jobs"
+        },
+        {
+          "url": "https://ride.lyft.com/?entrypoint=lyftcom",
+          "title": "Lyft: Need a ride? Use the app."
+        },
+        {
+          "url": "https://about.meta.com/",
+          "title": "Meta | Azienda di tecnologie social"
+        },
+        {
+          "url": "https://www.motorola.com/us/smartphones-motorola-edge-plus/p",
+          "title": "motorola edge Phones | motorola | motorola"
+        },
+        {
+          "url": "https://www.mtn.com/mtn-group-and-microsoft-sign-strategic-alliance-agreement/",
+          "title": "MTN Group and Microsoft sign strategic alliance agreement |"
+        },
+        {
+          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
+          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
+        },
+        {
+          "url": "http://walmartsustainabilityhub.com/",
+          "title": "Walmart Sustainability Hub"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "gov-world",
+      "bookmarks": [
+        {
+          "url": "https://federalcharacter.gov.ng/about-us/",
+          "title": "About Us - Federal Character Commission"
+        },
+        {
+          "url": "https://www.comune.treia.mc.it/documenti-cms/dichiarazione-cariche-e-incarichi-consigliere-vittorio-sampaolo/",
+          "title": "Dichiarazione cariche e incarichi Consigliere: Vittorio Sampaolo - Comune di Treia"
+        },
+        {
+          "url": "http://www.fao.org/documents/card/en/c/ca7012en",
+          "title": "FAO Knowledge Repository"
+        },
+        {
+          "url": "https://www.gst.gov.in",
+          "title": "Goods & Services Tax (GST) | Home"
+        },
+        {
+          "url": "https://www.kongehuset.dk/nyheder/h-m-dronningen-er-blevet-opereret",
+          "title": "H.M. Dronningen er blevet opereret"
+        },
+        {
+          "url": "http://nrifs.fra.affrc.go.jp/index_e.html",
+          "title": "NRIFS-FRA"
+        },
+        {
+          "url": "https://election-legislative.linternaute.com/resultats/porri/ville-2B245",
+          "title": "Résultat des élections législatives 2025 à Porri (20215)"
+        },
+        {
+          "url": "https://www.undocs.org/S/RES/2371%20(2017)",
+          "title": "Select a language for S/RES/2371 (2017)"
+        },
+        {
+          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
+          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "shopping-home-fashion",
+      "bookmarks": [
         {
           "url": "https://texasstargrillshop.com/products/evo-affinity-30g-drop-in-gas-cooktop-lp-10-0055-lp",
           "title": "EVO Affinity 30G Drop-in Gas Cooktop LP 10-0055-LP - Texas Star Grill Shop"
+        },
+        {
+          "url": "https://quadrofixing.eu/facade-screws-stainless-steel-a2-anthracite/ral-7016-250-pcs/p-73",
+          "title": "Facade screws, stainless steel A2, Anthracite/RAL 7016 (250 pcs.) | quadrofixing.eu"
         },
         {
           "url": "https://www.madewell.com/felt-beret-NI548.html?dwvar_NI548_color=BL5912&cgid=accessories",
@@ -80,10 +342,6 @@
         {
           "url": "https://www.vodne-filtre.sk/marella-grafit-vc.6-ks-maxtraplus.html",
           "title": "Marella grafit vč.6 ks MaxtraPlus - Vodné-Filtre.sk"
-        },
-        {
-          "url": "https://www.motorola.com/us/smartphones-motorola-edge-plus/p",
-          "title": "motorola edge Phones | motorola | motorola"
         },
         {
           "url": "https://www.oprahdaily.com/life/a41652152/oprahs-favorite-things-2022/",
@@ -102,108 +360,60 @@
           "title": "PVCF / WCPC / MSP Merch Store"
         },
         {
-          "url": "https://quadrofixing.eu/facade-screws-stainless-steel-a2-anthracite/ral-7016-250-pcs/p-73",
-          "title": "Facade screws, stainless steel A2, Anthracite/RAL 7016 (250 pcs.) | quadrofixing.eu"
-        },
-        {
           "url": "https://www.sharkclean.com/exclusive-offer/SV1106WKT/shark-freestyle-cordless-vacuum/",
           "title": "Shark® Cordless Vacuum Cleaners | Wireless & Rechargeable"
-        },
-        {
-          "url": "https://www.cosmossbykatemoss.com/shop/",
-          "title": "Shop | Kate Moss Cosmoss"
-        },
-        {
-          "url": "https://www.paulaschoice.com/skin-balancing-invisible-finish-moisture-gel/340-3400.html?slfpid=3",
-          "title": "SKIN BALANCING Invisible Finish Moisture Gel | Paula's Choice"
-        },
-        {
-          "url": "https://prose.ffxwxg.net/c/3408212/804499/11046?subid3=people",
-          "title": "Truly Custom Haircare and Skincare | Prose"
         }
       ],
-      "count": 14
+      "count": 9
     },
     {
-      "name": "tech-development-web-design",
+      "name": "entertainment-gaming",
       "bookmarks": [
         {
-          "url": "https://www.a11yproject.com/",
-          "title": "Home - The A11Y Project"
+          "url": "https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/",
+          "title": "2024 Essential Facts About the U.S. Video Game Industry - the ESA"
         },
         {
-          "url": "https://www.awwwards.com/websites/colour/",
-          "title": "Awwwards Nominees"
+          "url": "http://www.mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7340&lang=PT",
+          "title": "Centro de Investigação & Informação da Música Portuguesa"
         },
         {
-          "url": "https://developer.chrome.com/",
-          "title": "Chrome for Developers"
+          "url": "https://www.cheertourofficial.com/#!",
+          "title": "Cheerleader Competitions - Fly High and Reach for the Sky"
         },
         {
-          "url": "https://gitlab.cosma.dur.ac.uk/swift/swiftsim/-/graphs/83a60ec46cf16d3775d7fabcac126e228712e796/charts",
-          "title": "Repository analytics · SWIFT / SWIFTsim · GitLab"
+          "url": "https://www.criterionchannel.com",
+          "title": "Criterion Channel: Stream the world's best movies"
         },
         {
-          "url": "https://iconer.app/",
-          "title": "Iconer: Free Icons for Everything (SVG, PNG, JSX)"
+          "url": "https://musicworldmedia.com/",
+          "title": "Music World Media"
         },
         {
-          "url": "https://kubernetes.io/docs/concepts/overview/",
-          "title": "Overview | Kubernetes"
+          "url": "https://tribecafilm.com/films/somewhere-in-queens-2022",
+          "title": "Somewhere in Queens | 2022 Tribeca Festival | Tribeca"
         },
         {
-          "url": "http://lupo73.altervista.org/",
-          "title": "Lupo73 - Innovazione Digitale: Esplorando le Frontiere dell'Informatica"
-        },
-        {
-          "url": "https://docs.python.org/3/tutorial/inputoutput.html",
-          "title": "7. Input and Output - Python 3.14.0 documentation"
-        },
-        {
-          "url": "https://infiniteforloop.tumblr.com/post/139555617318",
-          "title": "typing is a contact sport • codeorg: What we think of computer science is..."
-        },
-        {
-          "url": "https://www.webdesignerdepot.com/",
-          "title": "Web Design Blog | Web Designer Depot"
-        },
-        {
-          "url": "https://wordpress.tv/",
-          "title": "WordPress.tv - WordPress-related videos curated and moderated by the WordPress.org community"
+          "url": "https://store.steampowered.com/search/?filter=topsellers",
+          "title": "Steam Search"
         }
       ],
-      "count": 11
+      "count": 7
     },
     {
-      "name": "government-public-sector",
+      "name": "gov-us",
       "bookmarks": [
         {
-          "url": "http://www.aacounty.org/departments/planning-and-zoning/research-and-gis/",
-          "title": "Research & GIS Section | Anne Arundel County Government"
-        },
-        {
-          "url": "https://www.comune.treia.mc.it/documenti-cms/dichiarazione-cariche-e-incarichi-consigliere-vittorio-sampaolo/",
-          "title": "Dichiarazione cariche e incarichi Consigliere: Vittorio Sampaolo - Comune di Treia"
+          "url": "https://consumidor.ftc.gov/articulos/como-proteger-la-privacidad-de-su-hijo-en-internet",
+          "title": "Cómo proteger la privacidad de su hijo en internet | Consumer Advice"
         },
         {
           "url": "https://www.denvergov.org/Government/COVID-19-Information/Guidance-Resources/Businesses/Economic-Relief/Temp-Outdoor-License",
           "title": "Denver Outdoor Places Program - City and County of Denver"
         },
         {
-          "url": "https://federalcharacter.gov.ng/about-us/",
-          "title": "About Us - Federal Character Commission"
-        },
-        {
-          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
-          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
-        },
-        {
-          "url": "http://www.fao.org/documents/card/en/c/ca7012en",
-          "title": "FAO Knowledge Repository"
-        },
-        {
-          "url": "https://www.gst.gov.in",
-          "title": "Goods & Services Tax (GST) | Home"
+          "url": "https://www.nps.gov/grca/learn/news/hiker-fatality-along-bright-angel-trail-february-2023.htm",
+          "title": "Hiker Fatality along Bright Angel Trail in Grand Canyon National Park - Grand Canyon National Park (U.S. National Park Service)"
         },
         {
           "url": "https://www.in.gov/idoc/",
@@ -214,303 +424,53 @@
           "title": "Office of Inspector General | Government Oversight | U.S. Department of Health and Human Services"
         },
         {
-          "url": "https://www.undocs.org/S/RES/2371%20(2017)",
-          "title": "Select a language for S/RES/2371 (2017)"
+          "url": "http://www.aacounty.org/departments/planning-and-zoning/research-and-gis/",
+          "title": "Research & GIS Section | Anne Arundel County Government"
         }
       ],
-      "count": 10
+      "count": 6
     },
     {
-      "name": "education-academic-resources",
+      "name": "health-medicine",
       "bookmarks": [
-        {
-          "url": "https://applieddigitalskills.withgoogle.com/en/educators",
-          "title": "Applied Digital Skills : Google for Education"
-        },
-        {
-          "url": "https://info.cell.com/request-access-to-cell-press-content",
-          "title": "Request access to Cell Press content today!"
-        },
-        {
-          "url": "http://www.edscuola.com/",
-          "title": "Educazione&Scuola© by Dario Cillo - La Rivista telematica della Scuola e della Formazione"
-        },
         {
           "url": "http://link.springer.com/journal/11094",
           "title": "Home | Pharmaceutical Chemistry Journal"
-        },
-        {
-          "url": "http://rechnerlexikon.de/en/wiki.phtml?title=Patent:DE460651&diff=0&oldid=67603",
-          "title": "Patent:DE460651 - Rechnerlexikon"
-        },
-        {
-          "url": "http://himetop.wikidot.com/robert-hooke",
-          "title": "Robert Hooke - Himetop"
-        },
-        {
-          "url": "https://www.50states.com/west-virginia/walker_schools.htm",
-          "title": "Walker Schools. Find Elementary, Middle and High Schools in Walker, WV. - 50states"
-        },
-        {
-          "url": "https://whichmba.economist.com/",
-          "title": "WhichMBA?"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "community-organizations",
-      "bookmarks": [
-        {
-          "url": "https://aedamn.org/",
-          "title": "Home | AEDA"
-        },
-        {
-          "url": "https://cookiecart.org/",
-          "title": "Cookie Cart - Baking Bright Futures"
-        },
-        {
-          "url": "http://www.gmhchousing.org/",
-          "title": "GMHC | Minneapolis, MN"
-        },
-        {
-          "url": "https://nevcc.org/building-a-community-behind-your-business/",
-          "title": "Second Life Chattanooga"
-        },
-        {
-          "url": "https://ultcmn.org/",
-          "title": "Urban League Twin Cities - Empowering communities. Changing lives."
-        },
-        {
-          "url": "https://www.visitlakestreet.com/",
-          "title": "Visit Lake Street - Lake Street Council"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "conservation-environment",
-      "bookmarks": [
-        {
-          "url": "http://flotillafoundation.org/about-us",
-          "title": "About us"
-        },
-        {
-          "url": "https://api.protectedplanet.net",
-          "title": "ProtectedPlanet API"
-        },
-        {
-          "url": "https://bridgecollaborativeglobal.org/solutions/cross-sector-stories/bridge-spark-fund-2020/",
-          "title": "The Bridge Collaborative | The Nicholas Institute for Energy, Environment & Sustainability"
-        },
-        {
-          "url": "https://chesapeakeclimate.org/",
-          "title": "Home - Chesapeake Climate Action Network"
-        },
-        {
-          "url": "https://www.neaq.org/",
-          "title": "New England Aquarium in Boston - Protecting Animals & the Ocean"
-        },
-        {
-          "url": "http://walmartsustainabilityhub.com/",
-          "title": "Walmart Sustainability Hub"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "food-drink-culinary",
-      "bookmarks": [
-        {
-          "url": "https://www.afamilyfeast.com/",
-          "title": "Home - A Family Feast®"
-        },
-        {
-          "url": "https://kitchensavvy.com/some-like-it-hot",
-          "title": "Some Like It Hot - KitchenSavvy"
-        },
-        {
-          "url": "https://www.parakeetcafe.com/",
-          "title": "Parakeet Cafe | Healthy Food in San Diego, LA & Newport Beach"
-        },
-        {
-          "url": "https://www.skinnytaste.com/",
-          "title": "Skinnytaste Recipes - Easy Healthy Recipes Made with Real Food"
-        },
-        {
-          "url": "https://www.sporkful.com/alan-and-arlene-alda-bonded-over-a-fallen-rum-cake/",
-          "title": "Alan And Arlene Alda Bonded Over A Fallen Rum Cake «"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "health-wellness-fitness",
-      "bookmarks": [
-        {
-          "url": "http://aionnyc.com",
-          "title": "Top Aesthetic Injector in New York, NY | AION Aesthetics"
-        },
-        {
-          "url": "https://www.dierenarts.nl/mijn-hond-zwemt-niet-vaccinatie-tegen-de-ziekte-van-weil-is-daarom-niet-potopiches-need-feit-of-fabel/",
-          "title": "Mijn hond zwemt niet, vaccinatie tegen de ziekte van Weil is daarom niet nodig, feit of fabel? - Dierenarts.nl"
-        },
-        {
-          "url": "https://www.luriechildrens.org/",
-          "title": "Lurie Children's Hospital of Chicago | Pediatric Medicine"
         },
         {
           "url": "https://www.oxygenmag.com/byline/jaclyn-cordeiro/",
           "title": "Jaclyn Cordeiro Archives - Oxygen Mag"
         },
         {
+          "url": "https://www.luriechildrens.org/",
+          "title": "Lurie Children's Hospital of Chicago | Pediatric Medicine"
+        },
+        {
+          "url": "https://www.dierenarts.nl/mijn-hond-zwemt-niet-vaccinatie-tegen-de-ziekte-van-weil-is-daarom-niet-nodig-feit-of-fabel/",
+          "title": "Mijn hond zwemt niet, vaccinatie tegen de ziekte van Weil is daarom niet nodig, feit of fabel? - Dierenarts.nl"
+        },
+        {
           "url": "https://www.pritikin.com/health-experts",
           "title": "Physicians & Health Experts - Pritikin Longevity Center"
+        },
+        {
+          "url": "http://himetop.wikidot.com/robert-hooke",
+          "title": "Robert Hooke - Himetop"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
-      "name": "personal-blogs-social",
+      "name": "local-services-venues",
       "bookmarks": [
         {
-          "url": "https://goldshoulder.tumblr.com/",
-          "title": "POWER TO MY BROWN GIRLS"
+          "url": "https://www.bluffcitysports.com/",
+          "title": "Bluff City Sports"
         },
         {
-          "url": "https://kathleencollinsposts-blog.tumblr.com/",
-          "title": "@kathleencollinsposts-blog on Tumblr"
+          "url": "https://daniloandsharon.com",
+          "title": "Danilo & Sharon"
         },
-        {
-          "url": "https://krismunroes.tumblr.com/",
-          "title": "Url: Krismunroes"
-        },
-        {
-          "url": "https://voltair355.tumblr.com/",
-          "title": "Dr B"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "tech-support-status",
-      "bookmarks": [
-        {
-          "url": "https://getsupport.apple.com/?caller=psp",
-          "title": "void"
-        },
-        {
-          "url": "https://status.mapbox.com/",
-          "title": "Mapbox Status"
-        },
-        {
-          "url": "https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=d66407ed-3967-b000-4cfb-2c318cad363d",
-          "title": "Services Hub"
-        },
-        {
-          "url": "http://help.yahoo.com/help/us/mail/",
-          "title": "Help for your Yahoo Account"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "automotive-transportation",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw.hn/es/index.html",
-          "title": "BMW Honduras | Autos Deportivos, Híbridos y Más - Home"
-        },
-        {
-          "url": "https://images.google.com.mx/url?q=https://www.dealermobil.top/model/bmw-6-series-gt",
-          "title": "Avviso di reindirizzamento"
-        },
-        {
-          "url": "https://press.assuralia.be/een-aanrijding-aangeven-met-je-smartphone-of-tablet-het-kan-voortaan-met-de-app-crashformr",
-          "title": "Een aanrijding aangeven met je smartphone of tablet? Het kan voortaan met de app Crashform®"
-        },
-        {
-          "url": "https://ride.lyft.com/?entrypoint=lyftcom",
-          "title": "Lyft: Need a ride? Use the app."
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "business-finance-investment",
-      "bookmarks": [
-        {
-          "url": "https://cz.products.erstegroup.com/Retail/cs/Produkty/Certifikaty/Bonus_certifikaty/Stranky/NovuC3uA9_emise/index.phtml",
-          "title": "Investiční centrum"
-        },
-        {
-          "url": "http://www.gennx360.com/",
-          "title": "GenNx360 | Private Equity | Middle-Market | Industrial Business Services"
-        },
-        {
-          "url": "https://www.investormeetcompany.com/kodal-minerals-plc/register-investor",
-          "title": "Investor Meet Company"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "foundations-philanthropy",
-      "bookmarks": [
-        {
-          "url": "https://blankfoundation.org/",
-          "title": "Arthur M. Blank Family Foundation | Atlanta, Georgia | Home"
-        },
-        {
-          "url": "https://echoinggreen.org/",
-          "title": "Echoing Green: Funding Social Entrepreneurship & Innovation"
-        },
-        {
-          "url": "https://www.minderoo.org/",
-          "title": "Minderoo Foundation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "gaming-hobby",
-      "bookmarks": [
-        {
-          "url": "https://xplorela.com/2012/07/20/the-los-angeles-arboretum-botanical-garden/",
-          "title": "ANEKA4D | Situs Slot Thailand Paling Gacor Yang Penuh Dengan Pola Gacor"
-        },
-        {
-          "url": "http://members.tripod.com/~Germantown_Peggers/cribfrms.htm",
-          "title": "Germantown Peggers Cribbage Club, Rules Page"
-        },
-        {
-          "url": "https://store.steampowered.com/search/?filter=topsellers",
-          "title": "Steam Search"
-        },
-        {
-          "url": "https://support.steampowered.com",
-          "title": "Steam Support"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "legal-policy-documents",
-      "bookmarks": [
-        {
-          "url": "https://www.basemap.com/privacy-policy/",
-          "title": "Privacy Policy | BaseMap Inc"
-        },
-        {
-          "url": "https://docs.appsyoulove.com/policies/privacy-policy/",
-          "title": "Privacy Policy · AppsYouLove Terms & Policies"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "luxury-hospitality",
-      "bookmarks": [
         {
           "url": "https://www.hilton.com/en/hotels/laxbhhh-the-beverly-hilton/",
           "title": "Luxury Rooms & Suites | Beverly Hilton Hotel - Official Site"
@@ -518,89 +478,191 @@
         {
           "url": "https://www.milestonehotel.com/?cjevent=4ec1f2f92cc511eb834e01140a180510",
           "title": "The Milestone Hotel & Residences, Five-Star Boutique Hotel, Kensington, London"
+        },
+        {
+          "url": "https://www.neaq.org/",
+          "title": "New England Aquarium in Boston - Protecting Animals & the Ocean"
+        },
+        {
+          "url": "https://www.parakeetcafe.com/",
+          "title": "Parakeet Cafe | Healthy Food in San Diego, LA & Newport Beach"
+        },
+        {
+          "url": "https://www.visitlakestreet.com/",
+          "title": "Visit Lake Street - Lake Street Council"
         }
       ],
-      "count": 2
+      "count": 7
     },
     {
-      "name": "professional-associations",
+      "name": "shopping-beauty-skincare",
       "bookmarks": [
         {
-          "url": "http://www.agacgfm.org/",
-          "title": "AGA - Association of Government Accountants"
+          "url": "https://www.dermstore.com/beautyfix.list",
+          "title": "BeautyFIX Skin Care, Hair & Beauty Subscription Box | Dermstore"
         },
         {
-          "url": "https://www.atanet.org/",
-          "title": "American Translators Association"
+          "url": "https://us.lookfantastic.com/offers/beauty-box.list",
+          "title": "LOOKFANTASTIC - Beauty, Fragrances, Skincare & Haircare"
+        },
+        {
+          "url": "https://www.paulaschoice.com/skin-balancing-invisible-finish-moisture-gel/340-3400.html?slfpid=3",
+          "title": "SKIN BALANCING Invisible Finish Moisture Gel | Paula's Choice"
+        },
+        {
+          "url": "https://www.cosmossbykatemoss.com/shop/",
+          "title": "Shop | Kate Moss Cosmoss"
+        },
+        {
+          "url": "http://aionnyc.com",
+          "title": "Top Aesthetic Injector in New York, NY | AION Aesthetics"
+        },
+        {
+          "url": "https://prose.ffxwxg.net/c/3408212/804499/11046?subid3=people",
+          "title": "Truly Custom Haircare and Skincare | Prose"
         }
       ],
-      "count": 2
+      "count": 6
     },
     {
-      "name": "streaming-media",
+      "name": "social-blogs-personal",
       "bookmarks": [
         {
-          "url": "https://www.criterionchannel.com",
-          "title": "Criterion Channel: Stream the world's best movies"
+          "url": "https://kathleencollinsposts-blog.tumblr.com/",
+          "title": "@kathleencollinsposts-blog on Tumblr"
         },
         {
-          "url": "http://www.mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7340&lang=PT",
-          "title": "Centro de Investigação & Informação da Música Portuguesa"
+          "url": "https://www.hudsonandemily.com/about/",
+          "title": "About Hudson and Emily | Couples Travel Blog"
+        },
+        {
+          "url": "https://voltair355.tumblr.com/",
+          "title": "Dr B"
+        },
+        {
+          "url": "http://lupo73.altervista.org/",
+          "title": "Lupo73 - Innovazione Digitale: Esplorando le Frontiere dell'Informatica"
+        },
+        {
+          "url": "https://goldshoulder.tumblr.com/",
+          "title": "POWER TO MY BROWN GIRLS"
+        },
+        {
+          "url": "https://infiniteforloop.tumblr.com/post/139555617318",
+          "title": "typing is a contact sport • codeorg: What we think of computer science is..."
+        },
+        {
+          "url": "https://krismunroes.tumblr.com/",
+          "title": "Url: Krismunroes"
         }
       ],
-      "count": 2
+      "count": 7
     },
     {
-      "name": "tech-company-profiles",
+      "name": "dev-docs-tools",
       "bookmarks": [
         {
-          "url": "https://wellbeing.google/",
-          "title": "About Google: Our products, technology and company information - About Google"
+          "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+          "title": "7. Input and Output - Python 3.14.0 documentation"
         },
         {
-          "url": "https://www.bytedance.com/",
-          "title": "ByteDance - Inspire Creativity, Enrich Life"
+          "url": "https://iconer.app/",
+          "title": "Iconer: Free Icons for Everything (SVG, PNG, JSX)"
         },
         {
-          "url": "https://about.meta.com/",
-          "title": "Meta | Azienda di tecnologie social"
+          "url": "https://kubernetes.io/docs/concepts/overview/",
+          "title": "Overview | Kubernetes"
+        },
+        {
+          "url": "https://api.protectedplanet.net",
+          "title": "ProtectedPlanet API"
+        },
+        {
+          "url": "https://gitlab.cosma.dur.ac.uk/swift/swiftsim/-/graphs/83a60ec46cf16d3775d7fabcac126e228712e796/charts",
+          "title": "Repository analytics · SWIFT / SWIFTsim · GitLab"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "social-impact-advocacy",
+      "name": "dev-web-resources",
       "bookmarks": [
         {
-          "url": "https://getmyinternet.org/?page_id=5",
-          "title": "Save the Affordable Connectivity Program | Common Sense Media"
+          "url": "https://www.awwwards.com/websites/colour/",
+          "title": "Awwwards Nominees"
         },
         {
-          "url": "https://huridocs.org/services/",
-          "title": "Services | HURIDOCS"
+          "url": "https://developer.chrome.com/",
+          "title": "Chrome for Developers"
         },
         {
-          "url": "https://impact.kaporcenter.org",
-          "title": "Homepage - Kapor Center"
+          "url": "https://www.a11yproject.com/",
+          "title": "Home - The A11Y Project"
+        },
+        {
+          "url": "https://www.webdesignerdepot.com/",
+          "title": "Web Design Blog | Web Designer Depot"
+        },
+        {
+          "url": "https://wordpress.tv/",
+          "title": "WordPress.tv - WordPress-related videos curated and moderated by the WordPress.org community"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
       "name": "general-uncategorized",
       "bookmarks": [
         {
-          "url": "http://www.fastballoons.com/",
-          "title": "You are being redirected..."
+          "url": "http://www.pebritech.sk/happy-creek-no-deposit-bonus-signal-the-fall-of-2021/",
+          "title": "4Tipy.sk - Štyri tipy pred nákupom - budeš múdrym zákaznikom."
+        },
+        {
+          "url": "https://xplorela.com/2012/07/20/the-los-angeles-arboretum-botanical-garden/",
+          "title": "ANEKA4D | Situs Slot Thailand Paling Gacor Yang Penuh Dengan Pola Gacor"
+        },
+        {
+          "url": "https://images.google.com.mx/url?q=https://www.dealermobil.top/model/bmw-6-series-gt",
+          "title": "Avviso di reindirizzamento"
+        },
+        {
+          "url": "https://www.investormeetcompany.com/kodal-minerals-plc/register-investor",
+          "title": "Investor Meet Company"
         },
         {
           "url": "https://tahadiwasla.app.link/s/b84483f2b3497a6e6ad99549e226317ee6d3863404ebfb2430d8eecd1a688b97",
           "title": "karybou.com"
+        },
+        {
+          "url": "http://www.fastballoons.com/",
+          "title": "You are being redirected..."
         }
       ],
-      "count": 2
+      "count": 6
+    },
+    {
+      "name": "recipes-food-blogs",
+      "bookmarks": [
+        {
+          "url": "https://www.sporkful.com/alan-and-arlene-alda-bonded-over-a-fallen-rum-cake/",
+          "title": "Alan And Arlene Alda Bonded Over A Fallen Rum Cake «"
+        },
+        {
+          "url": "https://www.afamilyfeast.com/",
+          "title": "Home - A Family Feast®"
+        },
+        {
+          "url": "https://www.skinnytaste.com/",
+          "title": "Skinnytaste Recipes - Easy Healthy Recipes Made with Real Food"
+        },
+        {
+          "url": "https://kitchensavvy.com/some-like-it-hot",
+          "title": "Some Like It Hot - KitchenSavvy"
+        }
+      ],
+      "count": 4
     }
   ],
-  "total_bookmarks": 73,
-  "num_folders": 22
+  "total_bookmarks": 140,
+  "num_folders": 17
 }

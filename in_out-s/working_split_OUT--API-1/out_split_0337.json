@@ -1,135 +1,99 @@
 {
   "folders": [
     {
-      "name": "EVENTS-ENTERTAINMENT",
+      "name": "tech-developer-resources",
       "bookmarks": [
         {
-          "url": "https://discoveryplus.com",
-          "title": "discovery+ | Stream Real-Life TV Episodes"
+          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
+          "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
         },
         {
-          "url": "http://www.musica.it/",
-          "title": "Musica.it"
+          "url": "https://learn.wordpress.org/",
+          "title": "Learn WordPress - There's always more to learn | Learn WordPress"
         },
         {
-          "url": "https://wwos.nine.com.au/",
-          "title": "Nine's Wide World of Sports, Match Results, Fixtures, Videos & Live Scores - Nine.com.au"
+          "url": "https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html",
+          "title": "MySQL :: MySQL 8.0 Reference Manual :: 10.3 Optimization and Indexes"
         },
         {
-          "url": "https://www.the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show/",
-          "title": "Prince William, Kate and the kids in top secret visit to set of huge Amazon Prime Video show"
+          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
+          "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
         },
         {
-          "url": "http://www.sailacrossthesun.com/",
-          "title": "Sail Across the Sun"
+          "url": "https://reverseimagesear.ch/",
+          "title": "Reverse Image Search: Find similar images on Internet"
         },
         {
-          "url": "https://anime.desktopnexus.com/wallpaper/2056195/",
-          "title": "Sailor Venus - Other & Anime Background Wallpapers on Desktop Nexus (Image 2056195)"
+          "url": "https://xchaoticrage.tumblr.com/post/90177493115",
+          "title": "💗VII-XVIII-MCMXCIII 💗 | Too Much STEM, Not Enough Computer Science?"
         },
         {
-          "url": "http://www.startrekthecruise.com/",
-          "title": "Star Trek: The Cruise 2026 - Star Trek: The Cruise 2026"
+          "url": "https://www.mapbox.com/about/maps/",
+          "title": "About Mapbox Technology"
+        },
+        {
+          "url": "http://www.climatiq.io/",
+          "title": "Climatiq - API for Carbon Footprint Calculations"
+        },
+        {
+          "url": "https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity",
+          "title": "Forums | Microsoft Power Platform Community"
+        },
+        {
+          "url": "https://security.googleblog.com/2023/03/8-ways-to-secure-chrome-browser-for.html",
+          "title": "Google Online Security Blog: 8 ways to secure Chrome browser for Google Workspace users"
+        },
+        {
+          "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch",
+          "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
+        },
+        {
+          "url": "https://aws.amazon.com/what-is-cloud-computing",
+          "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS"
         }
       ],
-      "count": 7
+      "count": 12
     },
     {
-      "name": "NEWS-CURRENT-AFFAIRS",
-      "bookmarks": [
-        {
-          "url": "http://placeanad.chicagotribune.com#nt=primarynavbar",
-          "title": "Chicago Tribune"
-        },
-        {
-          "url": "https://deadline.com/2023/02/investigation-discovery-series-helps-free-innocent-man-from-prison-1235270636/",
-          "title": "Investigation Discovery Series Helps Free Innocent Man From Prison"
-        },
-        {
-          "url": "https://www.kptv.com/2023/02/21/foot-found-nw-washington-belongs-missing-woman/",
-          "title": "Foot found in NW Washington belongs to missing woman"
-        },
-        {
-          "url": "https://mestizos.cl/tag/medio-de-transporte/",
-          "title": "#medio de transporte - Mestizos Magazine"
-        },
-        {
-          "url": "https://www.nzz.ch/digital",
-          "title": "Technologie - News, Hintergründe & Kommentare | NZZ"
-        },
-        {
-          "url": "http://worldreview.com/",
-          "title": "worldreview.com"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "NONPROFIT-ORGANIZATIONS",
-      "bookmarks": [
-        {
-          "url": "https://directories.onepercentfortheplanet.org/nonprofit-partners/marine-conservation-institute",
-          "title": "1% for the Planet Directory: Find Certified Businesses & Environmental Nonprofits"
-        },
-        {
-          "url": "https://commonbond.org/",
-          "title": "CommonBond: Affordable Housing Nonprofit Organization MN WI IA & SD"
-        },
-        {
-          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
-          "title": "Donate Now - Mozilla Foundation"
-        },
-        {
-          "url": "https://www.pwn-usa.org/issues/policy-agenda/ending-criminalization/ending-hiv-criminalization/",
-          "title": "Ending HIV Criminalization Factsheet - Positive Women's Network - USA"
-        },
-        {
-          "url": "https://teamfeed.feedingamerica.org/index.cfm?fuseaction=cms.page&id=1041",
-          "title": "Fundraise to Fight Hunger"
-        },
-        {
-          "url": "https://www.gimbelfoundation.org/",
-          "title": "Bernard F. and Alva B. Gimbel Foundation, Inc. - Bernard F. and Alva B. Gimbel Foundation, Inc."
-        },
-        {
-          "url": "https://www.waittfoundation.org",
-          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "ACADEMIC-RESOURCES",
+      "name": "academic-research",
       "bookmarks": [
         {
           "url": "https://easychair.org/smart-slide/author/H5t8",
           "title": "Author: Patricia Johann"
         },
         {
-          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
-          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
-        },
-        {
           "url": "https://www.e-romania.org/tag/estudis-romanics/",
           "title": "Estudis Romànics - E-Romania. Romanística en España"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
+          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
         },
         {
           "url": "https://riuma.uma.es/xmlui/handle/10630/13422/browse?rpp=20&etal=-1&sort_by=-1&type=centro&starts_with=S&order=ASC",
           "title": "Listar Publicaciones por centro"
         },
         {
+          "url": "https://storymaps.arcgis.com/stories/9cf39daa150d4b9f88024cc582ff15b4",
+          "title": "Mapping Ephemeral Watering Holes in KAZA"
+        },
+        {
+          "url": "http://feis.fra.affrc.go.jp/english_index.html",
+          "title": "National Research Institute of Fisheries and Environment of Inland Sea, Fra"
+        },
+        {
           "url": "https://solutions.springernature.com/",
           "title": "Springer Nature Research Solutions - Springer Nature Research Solutions"
         },
         {
-          "url": "http://www.uniurb.it/",
-          "title": "Università degli Studi di Urbino Carlo Bo"
+          "url": "https://avodaf.org/2018/11/23/storia-della-sessualita-michel-foucault/",
+          "title": "Storia della sessualità- Michel Foucault - AvoDaf"
         }
       ],
-      "count": 6
+      "count": 8
     },
     {
-      "name": "BEAUTY-FASHION-SHOPPING",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://www.aclens.com/eyeglasses/womens-gold-eyeglasses?facet=color:gold%7Cfeature:spring+hinge%7Cframe+type:semi-rimless%7Cfeature:adjustable+nose+pads%7Ccolor:pink%7Ccolor:purple%7Cfeature:lightweight%7Cgender:womens&size=-1&sort=1",
@@ -144,8 +108,50 @@
           "title": "Cosmoss by Kate Moss"
         },
         {
+          "url": "https://www.aafes.com/about-exchange/doing-business/",
+          "title": "Exchange | Military Discount - Tax Free Shopping"
+        },
+        {
           "url": "https://www.woolworths.com.au/shop/productdetails/180225/maybelline-fit-me-dewy-smooth-foundation-toffee",
           "title": "Maybelline Fit Me Dewy Smooth Foundation Toffee 30mL | Woolworths"
+        },
+        {
+          "url": "https://reviewed.usatoday.com",
+          "title": "Product Reviews, Features, and Deals - Reviewed"
+        },
+        {
+          "url": "https://salondesarcanes.fr/",
+          "title": "Salon des Arcanes | Boutique de tarots et oracles indépendants"
+        },
+        {
+          "url": "https://www.luckymodel.com/scale.aspx?item_no=TRX-TR35002-2",
+          "title": "void"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.euronews.com/travel",
+          "title": "Euronews Travel | Change how you see the world"
+        },
+        {
+          "url": "https://www.kptv.com/2023/02/21/foot-found-nw-washington-belongs-missing-woman/",
+          "title": "Foot found in NW Washington belongs to missing woman"
+        },
+        {
+          "url": "https://deadline.com/2023/02/investigation-discovery-series-helps-free-innocent-man-from-prison-1235270636/",
+          "title": "Investigation Discovery Series Helps Free Innocent Man From Prison"
+        },
+        {
+          "url": "https://www.the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show/",
+          "title": "Prince William, Kate and the kids in top secret visit to set of huge Amazon Prime Video show"
+        },
+        {
+          "url": "https://www.nzz.ch/digital",
+          "title": "Technologie - News, Hintergründe & Kommentare | NZZ"
         },
         {
           "url": "https://www.vogue.com/article/ashley-olsen-breast-cancer-research-foundation-surf-party",
@@ -156,224 +162,18 @@
           "title": "With Cara Loves Karl, Cara Delevingne Brings Karl Lagerfeld-Inspired Style to One-and-All | Vogue"
         }
       ],
-      "count": 6
+      "count": 7
     },
     {
-      "name": "EDUCATION-LEARNING-PLATFORMS",
-      "bookmarks": [
-        {
-          "url": "https://www.domestika.org/en/blog/8116-what-is-kirigami-differences-with-origami",
-          "title": "10 dicas chave para promover diversidade no processo criativo | Domestika"
-        },
-        {
-          "url": "https://www.planning.org/cm/",
-          "title": "Certification Maintenance"
-        },
-        {
-          "url": "https://app.collegerecon.com/cuyamaca-college",
-          "title": "Cuyamaca College | GI Bill or Yellow Ribbon"
-        },
-        {
-          "url": "https://www.kic.org.uk/nottingham-trent/",
-          "title": "Nottingham Trent International College | Kaplan Pathways"
-        },
-        {
-          "url": "https://learn.wordpress.org/",
-          "title": "Learn WordPress - There's always more to learn | Learn WordPress"
-        },
-        {
-          "url": "https://xchaoticrage.tumblr.com/post/90177493115",
-          "title": "💗VII-XVIII-MCMXCIII 💗 | Too Much STEM, Not Enough Computer Science?"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "DIGITAL-TOOLS-UTILITIES",
-      "bookmarks": [
-        {
-          "url": "http://www.climatiq.io/",
-          "title": "Climatiq - API for Carbon Footprint Calculations"
-        },
-        {
-          "url": "http://custhelp2.walgreens.com/",
-          "title": "Photo Help"
-        },
-        {
-          "url": "https://reverseimagesear.ch/",
-          "title": "Reverse Image Search: Find similar images on Internet"
-        },
-        {
-          "url": "https://keybase.io/automonkey",
-          "title": "automonkey (Will Benyon) | Keybase"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "ENVIRONMENT-CONSERVATION",
-      "bookmarks": [
-        {
-          "url": "http://www.climatiq.io/",
-          "title": "Climatiq - API for Carbon Footprint Calculations"
-        },
-        {
-          "url": "http://www.deepsea9.taipei/index.php/2020/06/03/eyeoftheseas/",
-          "title": "台灣的海洋之眼 - Advanced Computation Laboratory"
-        },
-        {
-          "url": "http://feis.fra.affrc.go.jp/english_index.html",
-          "title": "National Research Institute of Fisheries and Environment of Inland Sea, Fra"
-        },
-        {
-          "url": "https://www.seattleaquarium.org/",
-          "title": "Seattle Aquarium | Inspiring Conservation of our Marine Environment"
-        },
-        {
-          "url": "https://www.waittfoundation.org",
-          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "BUSINESS-ECONOMIC-INSIGHTS",
-      "bookmarks": [
-        {
-          "url": "http://www.bannekerventures.com/",
-          "title": "Banneker Ventures"
-        },
-        {
-          "url": "https://www.blackchamberofcommerce.org/",
-          "title": "Southern California Black Chamber of Commerce"
-        },
-        {
-          "url": "https://goldentriangledc.com/return-to-office/",
-          "title": "Return to the Office - Golden Triangle"
-        },
-        {
-          "url": "https://reviewed.usatoday.com",
-          "title": "Product Reviews, Features, and Deals - Reviewed"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "CYBERSECURITY-PRIVACY-POLICIES",
-      "bookmarks": [
-        {
-          "url": "https://www.casartgamelodge.com/fr/termes-et-conditions/",
-          "title": "Conditions générales d'utilisation - Casart Game Lodge"
-        },
-        {
-          "url": "https://security.googleblog.com/2023/03/8-ways-to-secure-chrome-browser-for.html",
-          "title": "Google Online Security Blog: 8 ways to secure Chrome browser for Google Workspace users"
-        },
-        {
-          "url": "https://experience.intellum.com/student/page/497283",
-          "title": "Privacy : Intellum"
-        },
-        {
-          "url": "https://shared.ydstatic.com/dict/market/youdaoInfos/index.html",
-          "title": "Privacy Policy"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "GOVERNMENT-PUBLIC-SERVICES",
-      "bookmarks": [
-        {
-          "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
-          "title": "Canada and the world"
-        },
-        {
-          "url": "https://www.aafes.com/about-exchange/doing-business/",
-          "title": "Exchange | Military Discount - Tax Free Shopping"
-        },
-        {
-          "url": "https://www.indiacode.nic.in",
-          "title": "India Code: Home"
-        },
-        {
-          "url": "https://www.vaccines.gov",
-          "title": "Find pharmacies near you"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "HEALTH-MEDICAL-WELLNESS",
-      "bookmarks": [
-        {
-          "url": "https://www.serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
-          "title": "COVID-19: More Testing to be Done in Canada"
-        },
-        {
-          "url": "https://medlineplus.gov/diabetes.html",
-          "title": "Diabetes | Type 1 Diabetes | Type 2 Diabetes | MedlinePlus"
-        },
-        {
-          "url": "https://www.nimh.nih.gov/index.shtml",
-          "title": "National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses"
-        },
-        {
-          "url": "http://developingchild.harvard.edu/science/key-concepts/toxic-stress/",
-          "title": "Toxic Stress : What is toxic stress?"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "HOBBIES-LIFESTYLE",
-      "bookmarks": [
-        {
-          "url": "http://www.trovaricette.net/",
-          "title": "Dernières actus - Tous ce qu'il faut savoir est ici"
-        },
-        {
-          "url": "https://www.luckymodel.com/scale.aspx?item_no=TRX-TR35002-2",
-          "title": "void"
-        },
-        {
-          "url": "https://salondesarcanes.fr/",
-          "title": "Salon des Arcanes | Boutique de tarots et oracles indépendants"
-        },
-        {
-          "url": "https://avodaf.org/2018/11/23/storia-della-sessualita-michel-foucault/",
-          "title": "Storia della sessualità- Michel Foucault - AvoDaf"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "TRAVEL-TOURISM-GUIDES",
-      "bookmarks": [
-        {
-          "url": "https://www.bahn.com/en/offers/regional/regional-day-ticket-bavaria",
-          "title": "Enjoy the perfect day trip with the regional day ticket for Bavaria"
-        },
-        {
-          "url": "https://dreamworldtravel.co.uk/",
-          "title": "Home - Dream World Travel"
-        },
-        {
-          "url": "https://www.euronews.com/travel",
-          "title": "Euronews Travel | Change how you see the world"
-        },
-        {
-          "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
-          "title": "Jumeirah Burj Al Arab | Dubai's Most Iconic Hotel | Jumeirah"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "UNCATEGORIZED-ADMIN-PAGES",
+      "name": "web-services",
       "bookmarks": [
         {
           "url": "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
           "title": "Apple Card Application"
+        },
+        {
+          "url": "https://discoveryplus.com",
+          "title": "discovery+ | Stream Real-Life TV Episodes"
         },
         {
           "url": "http://epsm.iotc.org/form/arepstart?lang=en",
@@ -384,14 +184,234 @@
           "title": "Federation Redirector"
         },
         {
-          "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
-          "title": "void"
+          "url": "http://www.musica.it/",
+          "title": "Musica.it"
+        },
+        {
+          "url": "http://custhelp2.walgreens.com/",
+          "title": "Photo Help"
+        },
+        {
+          "url": "https://keybase.io/automonkey",
+          "title": "automonkey (Will Benyon) | Keybase"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "organizations-nonprofit",
+      "bookmarks": [
+        {
+          "url": "https://directories.onepercentfortheplanet.org/nonprofit-partners/marine-conservation-institute",
+          "title": "1% for the Planet Directory: Find Certified Businesses & Environmental Nonprofits"
+        },
+        {
+          "url": "https://www.gimbelfoundation.org/",
+          "title": "Bernard F. and Alva B. Gimbel Foundation, Inc. - Bernard F. and Alva B. Gimbel Foundation, Inc."
+        },
+        {
+          "url": "https://commonbond.org/",
+          "title": "CommonBond: Affordable Housing Nonprofit Organization MN WI IA & SD"
+        },
+        {
+          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
+          "title": "Donate Now - Mozilla Foundation"
+        },
+        {
+          "url": "https://teamfeed.feedingamerica.org/index.cfm?fuseaction=cms.page&id=1041",
+          "title": "Fundraise to Fight Hunger"
+        },
+        {
+          "url": "https://www.waittfoundation.org",
+          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "travel-leisure",
+      "bookmarks": [
+        {
+          "url": "https://www.bahn.com/en/offers/regional/regional-day-ticket-bavaria",
+          "title": "Enjoy the perfect day trip with the regional day ticket for Bavaria"
+        },
+        {
+          "url": "https://dreamworldtravel.co.uk/",
+          "title": "Home - Dream World Travel"
+        },
+        {
+          "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
+          "title": "Jumeirah Burj Al Arab | Dubai's Most Iconic Hotel | Jumeirah"
+        },
+        {
+          "url": "http://www.sailacrossthesun.com/",
+          "title": "Sail Across the Sun"
+        },
+        {
+          "url": "https://www.seattleaquarium.org/",
+          "title": "Seattle Aquarium | Inspiring Conservation of our Marine Environment"
+        },
+        {
+          "url": "http://www.startrekthecruise.com/",
+          "title": "Star Trek: The Cruise 2026 - Star Trek: The Cruise 2026"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "blogs-personal",
+      "bookmarks": [
+        {
+          "url": "https://darkhouroftokyo.tumblr.com/",
+          "title": "@darkhouroftokyo on Tumblr"
+        },
+        {
+          "url": "https://mestizos.cl/tag/medio-de-transporte/",
+          "title": "#medio de transporte - Mestizos Magazine"
+        },
+        {
+          "url": "http://www.trovaricette.net/",
+          "title": "Dernières actus - Tous ce qu'il faut savoir est ici"
+        },
+        {
+          "url": "https://whomstplantdaddy.tumblr.com/",
+          "title": "Oh hai :3"
+        },
+        {
+          "url": "https://rxhaellsk.tumblr.com/",
+          "title": "💀"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "business-professional",
+      "bookmarks": [
+        {
+          "url": "http://www.bannekerventures.com/",
+          "title": "Banneker Ventures"
+        },
+        {
+          "url": "http://placeanad.chicagotribune.com#nt=primarynavbar",
+          "title": "Chicago Tribune"
+        },
+        {
+          "url": "https://careers.mozilla.org/listings/?team=Mozilla%20Foundation",
+          "title": "Mozilla Careers - All open positions at Mozilla"
+        },
+        {
+          "url": "https://goldentriangledc.com/return-to-office/",
+          "title": "Return to the Office - Golden Triangle"
+        },
+        {
+          "url": "https://www.blackchamberofcommerce.org/",
+          "title": "Southern California Black Chamber of Commerce"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "design-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.domestika.org/en/blog/8116-what-is-kirigami-differences-with-origami",
+          "title": "10 dicas chave para promover diversidade no processo criativo | Domestika"
+        },
+        {
+          "url": "https://burst.shopify.com",
+          "title": "20,000+ Free Stock Photos and Royalty-Free Images"
+        },
+        {
+          "url": "https://angle.sh/",
+          "title": "Angle 4 - 7600+ Device Mockups for Figma, Sketch and XD"
+        },
+        {
+          "url": "https://fonts.google.com/",
+          "title": "Browse Fonts - Google Fonts"
+        },
+        {
+          "url": "https://anime.desktopnexus.com/wallpaper/2056195/",
+          "title": "Sailor Venus - Other & Anime Background Wallpapers on Desktop Nexus (Image 2056195)"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "health-information",
+      "bookmarks": [
+        {
+          "url": "https://www.serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
+          "title": "COVID-19: More Testing to be Done in Canada"
+        },
+        {
+          "url": "https://medlineplus.gov/diabetes.html",
+          "title": "Diabetes | Type 1 Diabetes | Type 2 Diabetes | MedlinePlus"
+        },
+        {
+          "url": "https://www.vaccines.gov",
+          "title": "Find pharmacies near you"
+        },
+        {
+          "url": "https://www.nimh.nih.gov/index.shtml",
+          "title": "National Institute of Mental Health (NIMH) - Transforming the understanding and treatment of mental illnesses"
+        },
+        {
+          "url": "http://developingchild.harvard.edu/science/key-concepts/toxic-stress/",
+          "title": "Toxic Stress : What is toxic stress?"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "reference-legal",
+      "bookmarks": [
+        {
+          "url": "https://www.1to1legal.co.uk/local/england/chelmsford/contentious-will-probate/",
+          "title": "Chelmsford Contentious Will Probate Law Firms | Best Contentious Will Probate Solicitors, Barristers & Lawyers in Chelmsford"
+        },
+        {
+          "url": "https://www.casartgamelodge.com/fr/termes-et-conditions/",
+          "title": "Conditions générales d'utilisation - Casart Game Lodge"
+        },
+        {
+          "url": "https://www.indiacode.nic.in",
+          "title": "India Code: Home"
+        },
+        {
+          "url": "https://experience.intellum.com/student/page/497283",
+          "title": "Privacy : Intellum"
+        },
+        {
+          "url": "https://shared.ydstatic.com/dict/market/youdaoInfos/index.html",
+          "title": "Privacy Policy"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://app.collegerecon.com/cuyamaca-college",
+          "title": "Cuyamaca College | GI Bill or Yellow Ribbon"
+        },
+        {
+          "url": "https://www.kic.org.uk/nottingham-trent/",
+          "title": "Nottingham Trent International College | Kaplan Pathways"
+        },
+        {
+          "url": "http://www.uniurb.it/",
+          "title": "Università degli Studi di Urbino Carlo Bo"
+        },
+        {
+          "url": "http://www.deepsea9.taipei/index.php/2020/06/03/eyeoftheseas/",
+          "title": "台灣的海洋之眼 - Advanced Computation Laboratory"
         }
       ],
       "count": 4
     },
     {
-      "name": "COOKING-FERMENTATION-RECIPES",
+      "name": "cooking-recipes",
       "bookmarks": [
         {
           "url": "https://caterbakes.com/",
@@ -409,43 +429,43 @@
       "count": 3
     },
     {
-      "name": "DESIGN-RESOURCES-TOOLS",
+      "name": "government-and-policy",
       "bookmarks": [
         {
-          "url": "https://angle.sh/",
-          "title": "Angle 4 - 7600+ Device Mockups for Figma, Sketch and XD"
+          "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
+          "title": "Canada and the world"
         },
         {
-          "url": "https://fonts.google.com/",
-          "title": "Browse Fonts - Google Fonts"
+          "url": "https://www.planning.org/cm/",
+          "title": "Certification Maintenance"
         },
         {
-          "url": "https://burst.shopify.com",
-          "title": "20,000+ Free Stock Photos and Royalty-Free Images"
+          "url": "https://www.pwn-usa.org/issues/policy-agenda/ending-criminalization/ending-hiv-criminalization/",
+          "title": "Ending HIV Criminalization Factsheet - Positive Women's Network - USA"
         }
       ],
       "count": 3
     },
     {
-      "name": "PERSONAL-BLOGS-TUMBLR",
+      "name": "misc-uncategorized",
       "bookmarks": [
         {
-          "url": "https://darkhouroftokyo.tumblr.com/",
-          "title": "@darkhouroftokyo on Tumblr"
+          "url": "http://siemplifycommunity.slack.com/",
+          "title": "Workspace Suspended | Slack"
         },
         {
-          "url": "https://whomstplantdaddy.tumblr.com/",
-          "title": "Oh hai :3"
+          "url": "http://worldreview.com/",
+          "title": "worldreview.com"
         },
         {
-          "url": "https://rxhaellsk.tumblr.com/",
-          "title": "💀"
+          "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
+          "title": "void"
         }
       ],
       "count": 3
     },
     {
-      "name": "SPORTS-NEWS-BLOGS",
+      "name": "sports",
       "bookmarks": [
         {
           "url": "https://cricblog.net/",
@@ -461,94 +481,8 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "AI-ML-RESOURCES",
-      "bookmarks": [
-        {
-          "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch",
-          "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
-        },
-        {
-          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
-          "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "CAREER-PRODUCTIVITY",
-      "bookmarks": [
-        {
-          "url": "https://careers.mozilla.org/listings/?team=Mozilla%20Foundation",
-          "title": "Mozilla Careers - All open positions at Mozilla"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "DATABASE-DOCUMENTATION",
-      "bookmarks": [
-        {
-          "url": "https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html",
-          "title": "MySQL :: MySQL 8.0 Reference Manual :: 10.3 Optimization and Indexes"
-        },
-        {
-          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
-          "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "LEGAL-RESOURCES",
-      "bookmarks": [
-        {
-          "url": "https://www.1to1legal.co.uk/local/england/chelmsford/contentious-will-probate/",
-          "title": "Chelmsford Contentious Will Probate Law Firms | Best Contentious Will Probate Solicitors, Barristers & Lawyers in Chelmsford"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "MAPPING-GIS-PROJECTS",
-      "bookmarks": [
-        {
-          "url": "https://www.mapbox.com/about/maps/",
-          "title": "About Mapbox Technology"
-        },
-        {
-          "url": "https://storymaps.arcgis.com/stories/9cf39daa150d4b9f88024cc582ff15b4",
-          "title": "Mapping Ephemeral Watering Holes in KAZA"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "PROFESSIONAL-COMMUNITIES",
-      "bookmarks": [
-        {
-          "url": "https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity",
-          "title": "Forums | Microsoft Power Platform Community"
-        },
-        {
-          "url": "http://siemplifycommunity.slack.com/",
-          "title": "Workspace Suspended | Slack"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "TECH-GUIDES",
-      "bookmarks": [
-        {
-          "url": "https://aws.amazon.com/what-is-cloud-computing",
-          "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS"
-        }
-      ],
-      "count": 1
     }
   ],
-  "total_bookmarks": 98,
-  "num_folders": 26
+  "total_bookmarks": 95,
+  "num_folders": 17
 }

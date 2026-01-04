@@ -1,0 +1,487 @@
+{
+  "data": [
+    {
+      "url": "https://studio.mapbox.com/",
+      "title": "Console | Mapbox",
+      "description": "void",
+      "preview": "void"
+    },
+    {
+      "url": "https://myaccount.chicagotribune.com/300/autopaymanage#nt=secondarynavbar",
+      "title": "void",
+      "description": "void",
+      "preview": "Please enable JavaScript to continue using this application."
+    },
+    {
+      "url": "https://m.novinite.com/view_news.php?id=181332",
+      "title": "Heavy Rainfall and Storm Hit Turkey's Istanbul - Novinite.com - Sofia News Agency",
+      "description": "Heavy rainfall disrupted daily life in Istanbul Tuesday with floods and storms taking over the city, reported Daily Sabah Istanbul. The Directorate General of Meteorology warned Monday of heavy rains and possible flooding, saying that summer temperatures were expected to drop from over 30 Celsius to 20.",
+      "preview": "Login Heavy Rainfall and Storm Hit Turkey's Istanbul World | July 18, 2017, Tuesday // 11:23 | views pixabay.com Heavy rainfall disrupted daily life i"
+    },
+    {
+      "url": "https://www.gordonengland.co.uk/pog/index.php?/tags/31-nature/665-anisoptera/669-odonata",
+      "title": "Keywords nature + Anisoptera + Odonata | Photography Obsession",
+      "description": "void",
+      "preview": "Gordon England Welcome to my photography obsession gallery Identification Login Quick connect Username Password Auto login Menu Search Keywords (7509)"
+    },
+    {
+      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2017-2018/information/",
+      "title": "Orthophotographie aérienne 2017-2018 sur Rennes Métropole - Open Data Rennes",
+      "description": "Il s'agit d'une vue aériennes verticales orthorectifiées du territoire de Rennes Métropole. L'orthorectification consiste à déformer l'image afin de corriger les déformations inhérentes au relief.Si les bâtiments ne sont pas orthorectifiés (des dévers peuvent masquer l'environnement immédiat des bâtiments haut), c'est le cas pour les ouvrages d'art ou les superstructures liés à la voirie.vous trouverez une description plus complète d'une orthophotographie dans un document annexé à la métadonnée.- Projection utilisée pour l'acquisition des données : Lambert 93 / IGN69- Livrables livrés en RGF93-CC48- Classe de précision planimétrique des données : 20 cm (2 pixels)- Résolution native : 10 cm- Recouvrement : 80%-80% sur une bande Est-Ouest couvrant l'ensemble de Rennes et 65%-65% sur le reste du territoire métropolitain- Livraison sous forme de tuiles de 1 km x 1 km et sous la forme d'une dalle unique- Syntaxe utilisée pour la dénomination des tuiles : XXXX_YYYY, issus des coordonnées X-Y en RGF93-CC48- Dates des prises de vues : du fait des mauvaises conditions météorologiques rencontrées durant la période propice à la prise de vues aériennes en 2017, seul le sud de l'agglomération n'a pu être couvert. Toute la partie nord du territoire a été acquis durant l'été 2018. Du fait que la prise de vues aériennes n'a pas été continue dans le temps, des différences colorimétriques sont visibles.Suite à la disponibilité des dalles d'orthophotographie aérienne sur le reste du département d'Ille-et-Vilaine (résolution 20 cm entièrement réalisée en 2017), les données de l'orthophotographie 2017-2018 du territoire métropolitain ont été complétées par des dalles de l'orthophotographie départementale pour couvrir le territoire hors Rennes Métropole et former une emprise rectangulaire.Ce jeu de données est composé de 893 dalles de 1 km x 1 km pour un volume d'environ 33 Go dans le format JPEG 2000 (JP2) pour la résolution 10 cm. Une cartographie présentant l'ensemble du dallage, l'année de prise de vue des dalles et le nom des dalles est annexée à la métadonnée.Pour les usages internes à la Ville de Rennes et Rennes Métropole, afin de faciliter son usage sur les outils SIG (ArcGIS et QGIS); une dalle unique multi-échelles au format JPG2000 (JP2) a été créée.La pleine propriété de l'orthophotographie 2017-2018 appartient au syndicat Mégalis Bretagne et à l'ensemble des collectivités territoriales bretonnes.Les dalles à 10cm au format JP2 sur le territoire de Rennes Métropole sont téléchargeables de façon individuelle sur le site Open Data de Rennes Métropole. Pour lire le format JP2 sous Photoshop, un plugin est nécessaire (par exemple : https://www.web3.lu/photoshop-plugins-jpeg-ls-jpeg-xr-jpeg-2000/).Pour des questions de performance, il est conseillé d'utiliser, par ordre décroissant de priorité (et en fonction des possibilités logicielles) :1. les services en cache / les services de tuiles WMTS ou TMS du GeoWebCache2. le service WMS du GeoWebCache3. le service WMS du GeoServer",
+      "preview": "{{ ctx.nhits | number }} record Filters {{ ctx.nhits | number }} record Active filters No active filters Filters La recherche texte n'est pas appliqué"
+    },
+    {
+      "url": "https://bugzilla.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=support",
+      "title": "Bugzilla Main Page",
+      "description": "void",
+      "preview": "I need technical support Technical support for Firefox and other Mozilla products. Report an issue with a website that I use File a web compatibility"
+    },
+    {
+      "url": "https://www.tcacounselors.org/index.php?option=com_jevents&catids=24&task=month.calendar&year=2021&month=08&day=26&Itemid=115",
+      "title": "Event Calendar",
+      "description": "void",
+      "preview": "Member Login Search Home About Leadership TCA Past Presidents Membership Associations Chapters vs Divisions Chapters Divisions Advocacy News & Article"
+    },
+    {
+      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2017-2018/information/",
+      "title": "Orthophotographie aérienne 2017-2018 sur Rennes Métropole - Open Data Rennes",
+      "description": "Il s'agit d'une vue aériennes verticales orthorectifiées du territoire de Rennes Métropole. L'orthorectification consiste à déformer l'image afin de corriger les déformations inhérentes au relief.Si les bâtiments ne sont pas orthorectifiés (des dévers peuvent masquer l'environnement immédiat des bâtiments haut), c'est le cas pour les ouvrages d'art ou les superstructures liés à la voirie.vous trouverez une description plus complète d'une orthophotographie dans un document annexé à la métadonnée.- Projection utilisée pour l'acquisition des données : Lambert 93 / IGN69- Livrables livrés en RGF93-CC48- Classe de précision planimétrique des données : 20 cm (2 pixels)- Résolution native : 10 cm- Recouvrement : 80%-80% sur une bande Est-Ouest couvrant l'ensemble de Rennes et 65%-65% sur le reste du territoire métropolitain- Livraison sous forme de tuiles de 1 km x 1 km et sous la forme d'une dalle unique- Syntaxe utilisée pour la dénomination des tuiles : XXXX_YYYY, issus des coordonnées X-Y en RGF93-CC48- Dates des prises de vues : du fait des mauvaises conditions météorologiques rencontrées durant la période propice à la prise de vues aériennes en 2017, seul le sud de l'agglomération n'a pu être couvert. Toute la partie nord du territoire a été acquis durant l'été 2018. Du fait que la prise de vues aériennes n'a pas été continue dans le temps, des différences colorimétriques sont visibles.Suite à la disponibilité des dalles d'orthophotographie aérienne sur le reste du département d'Ille-et-Vilaine (résolution 20 cm entièrement réalisée en 2017), les données de l'orthophotographie 2017-2018 du territoire métropolitain ont été complétées par des dalles de l'orthophotographie départementale pour couvrir le territoire hors Rennes Métropole et former une emprise rectangulaire.Ce jeu de données est composé de 893 dalles de 1 km x 1 km pour un volume d'environ 33 Go dans le format JPEG 2000 (JP2) pour la résolution 10 cm. Une cartographie présentant l'ensemble du dallage, l'année de prise de vue des dalles et le nom des dalles est annexée à la métadonnée.Pour les usages internes à la Ville de Rennes et Rennes Métropole, afin de faciliter son usage sur les outils SIG (ArcGIS et QGIS); une dalle unique multi-échelles au format JPG2000 (JP2) a été créée.La pleine propriété de l'orthophotographie 2017-2018 appartient au syndicat Mégalis Bretagne et à l'ensemble des collectivités territoriales bretonnes.Les dalles à 10cm au format JP2 sur le territoire de Rennes Métropole sont téléchargeables de façon individuelle sur le site Open Data de Rennes Métropole. Pour lire le format JP2 sous Photoshop, un plugin est nécessaire (par exemple : https://www.web3.lu/photoshop-plugins-jpeg-ls-jpeg-xr-jpeg-2000/).Pour des questions de performance, il est conseillé d'utiliser, par ordre décroissant de priorité (et en fonction des possibilités logicielles) :1. les services en cache / les services de tuiles WMTS ou TMS du GeoWebCache2. le service WMS du GeoWebCache3. le service WMS du GeoServer",
+      "preview": "{{ ctx.nhits | number }} record Filters {{ ctx.nhits | number }} record Active filters No active filters Filters La recherche texte n'est pas appliqué"
+    },
+    {
+      "url": "https://www.mccormickfoundation.org/about-us/",
+      "title": "About Us - Robert R. Mccormick Foundation",
+      "description": "The mission and history of the Foundation, including a timeline of notable grants, developments, and strategies through the decades.",
+      "preview": "Skip to content About Us Jump to Introduction History Our Benefactor Our Mission The Robert R. McCormick Foundation invests in organizations working t"
+    },
+    {
+      "url": "https://wsts.atis.org/presentation/network-upgrade-option-to-simplify-ptp-slave-operation/",
+      "title": "Network Upgrade Option to Simplify PTP Slave Operation - Workshop on Synchronization and Timing Systems",
+      "description": "This is seo description",
+      "preview": "Network Upgrade Option to Simplify PTP Slave Operation Year: 2015 Presenter: Mikael Olofsson Network Synchronization Algorithm Developer Ericsson Down"
+    },
+    {
+      "url": "https://whynotyoufdn.org/",
+      "title": "Why Not You Foundation",
+      "description": "Founded by athlete and entrepreneur, Russell Wilson. The Why Not You Foundation is a nonprofit dedicated to education, children's health and fighting poverty, while empowering today's youth to embrace a why not you attitude.",
+      "preview": "Scroll We are dedicated to changing the world, one child at a time. WHY NOT YOU? WHY NOT US? Founded by Russell Wilson in 2014, the Why Not You Founda"
+    },
+    {
+      "url": "https://etcanada.com/news/969657/paul-rudd-says-it-was-pointless-trying-to-get-in-shape-next-to-ant-man-co-star-jonathan-majors-he-was-terrifying/",
+      "title": "The Leading Source for Entertainment and Celebrity News | Entertainment Tonight",
+      "description": "Entertainment Tonight (ET) is the authoritative source on entertainment and celebrity news with unprecedented access to Hollywood's biggest stars, upcoming movies, and TV shows.",
+      "preview": "Entertainment Tonight ETonline Streaming: Keep Watching UP NEXT ETonline Streaming: Keep Watching Victoria Beckham Opens Up About Eating Disorder and"
+    },
+    {
+      "url": "https://www.ft.com/markets",
+      "title": "Markets | Financial Times",
+      "description": "Breaking news and in-depth coverage from the global business and financial markets. The latest corporate earnings reports from the stock market and insights into the future of digital currency.",
+      "preview": "Accessibility help Skip to navigation Skip to main content Skip to footer Markets Add to myFT Lead story in Markets Equities Investors flock to 'ex-US"
+    },
+    {
+      "url": "https://music.apple.com/us/album/come-now-sound-boy/1587744321?i=1587744323&uo=4",
+      "title": "‎Come Now Sound Boy - Song by Robert Lee - Apple Music",
+      "description": "Listen to Come Now Sound Boy by Robert Lee on Apple Music. 2021. Duration: 5:21",
+      "preview": "Come Now Sound Boy - Single Robert Lee JUNGLE/DRUM'N'BASS · 2021 Preview October 29, 2021 2 songs, 11 minutes ℗ 2021 Rhythm Discs Under License From K"
+    },
+    {
+      "url": "https://www.spirittoolkit.com/privacypolicy",
+      "title": "PrivacyPolicy | Mysite",
+      "description": "void",
+      "preview": "top of page Privacy This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if an"
+    },
+    {
+      "url": "http://www.engr.psu.edu",
+      "title": "Inspiring Change. Impacting Tomorrow | Penn State Engineering",
+      "description": "void",
+      "preview": "Penn State Give Now Apply Directory Inspiring Change. Impacting Tomorrow. EXPLORE Undergraduate Opportunities DISCOVER Graduate Opportunities Engineer"
+    },
+    {
+      "url": "https://www.utdanningsforbundet.no/om-utdanningsforbundet/om-nettstedet/",
+      "title": "Om nettstedet",
+      "description": "Nettsidene til Utdanningsforbundet har åpne sider hvor du finner informasjon om organisasjonen, hva vi mener og hva vi har uttalt oss om. Medlemmer og tillitsvalgte får tilgang til flere og mer personlige sider når de logger seg inn.",
+      "preview": "Om nettstedet Nettsidene til Utdanningsforbundet har åpne sider hvor du finner informasjon om organisasjonen, hva vi mener og hva vi har uttalt oss om"
+    },
+    {
+      "url": "https://getmyinternet.org/",
+      "title": "Save the Affordable Connectivity Program | Common Sense Media",
+      "description": "Common Sense Media improves the lives of kids and families by providing independent reviews, age ratings, & other information about all types of media.",
+      "preview": "Skip to main content For Parents For Educators Our Work and Impact Language: English English Español (próximamente) - volver al inicio Movies Movie Re"
+    },
+    {
+      "url": "https://www.sinus-institut.de/media-center/themen/in-eigener-sache",
+      "title": "Thema In eigener Sache im Media Center | SINUS-Institut",
+      "description": "Studien, Videos, News oder Pressemitteilungen - hier finden Sie (fast) alles, was wir In eigener Sache zu sagen haben.",
+      "preview": "In eigener Sache Studien, Videos, News oder Pressemitteilungen - hier finden Sie (fast) alles, was wir In eigener Sache zu sagen haben. Sie möchten me"
+    },
+    {
+      "url": "https://prod.outgoing.prod.webservices.mozgcp.net/v1/3b0aa1a488ff9809554e48743a9b592944d358a0ffa3f88e394cd3ddfc36894b/http%3A//facebook.com",
+      "title": "Redirecting to http://facebook.com",
+      "description": "void",
+      "preview": "Redirecting to http://facebook.com Please use caution when installing third-party add-ons. If you are immediately prompted to install an add-on, pleas"
+    },
+    {
+      "url": "https://www.bigsmall.in/",
+      "title": "Gifts Online | Send Unique Gifts Online | Best Gift Shop - Bigsmall.in",
+      "description": "Bigsmall is known for its special and unique gift collections in India. Explore the best gifts for birthdays, anniversaries, or corporate gifting. Free On-time Delivery!",
+      "preview": "Loading Skip to content icon-hamburger icon-X Menu icon-cart Cart 0 Search Search icon-X Close (esc) Profile Track Order Home Rakhi Unique Rakhis Rakh"
+    },
+    {
+      "url": "https://newsroom.es.paypal-corp.com/",
+      "title": "PayPal Newsroom - Inicio",
+      "description": "void",
+      "preview": "Historia destacada HERO BLOCK/Historia destacada PayPal amplía las opciones de pago flexible en España e Italia con las nuevas modalidades de 6, 12 o"
+    },
+    {
+      "url": "https://support.nature.com/support/home",
+      "title": "Support : Nature Support",
+      "description": "void",
+      "preview": "Welcome to Nature support How can we help you today? Enter your search term here... Search Account Management Nature for Individuals Nature Institutio"
+    },
+    {
+      "url": "https://wordcraft-writers-workshop.appspot.com/",
+      "title": "Wordcraft Writers Workshop",
+      "description": "The Wordcraft Writers Workshop is a collaboration between Google's PAIR and Magenta teams, and 13 professional writers. Together we explore the limits of co-writing with AI.",
+      "preview": "Wordcraft Writers Workshop What does it mean to write with AI? The Wordcraft Writers Workshop is a collaboration between Google's PAIR and Magenta tea"
+    },
+    {
+      "url": "https://www.wtatennis.com/rankings/doubles",
+      "title": "WTA Doubles Rankings | Current Women's Tennis Doubles Standings",
+      "description": "Explore the official WTA doubles rankings to see where your favorite teams stand. Get up-to-date women's tennis standings and player stats in one place.",
+      "preview": "Skip to main content EN English Español Go back to the home page Scores Rankings Unlocked Calendar Fantasy Highlights H2H Top Ranked Significant shift"
+    },
+    {
+      "url": "https://www.bren.ucsb.edu/",
+      "title": "Home | UC Santa Barbara Bren - Bren School of Environment",
+      "description": "void",
+      "preview": "Find your inspiration to change the world at the Bren School REQUEST INFORMATION Home We solve environmental problems. The Bren School of Environmenta"
+    },
+    {
+      "url": "https://www.straightenupbyjanelle.com",
+      "title": "Organizer to the Stars | Straighten Up by Janelle",
+      "description": "Join the stars and learn from professional organizer and TV personality, Janelle Lam. Discover the Straighten Up method today.",
+      "preview": "Skip to the content"
+    },
+    {
+      "url": "https://tsg-pastetten.de/bildergalerie/2017-spartan-lauf/",
+      "title": "2017 TSG Teilnahme am Spartan Lauf München - TSG-Pastetten 1972 e.V.",
+      "description": "void",
+      "preview": "Skip to main content Show All 2017 Spartan Lauf Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis a"
+    },
+    {
+      "url": "https://www.hwupgrade.it/news/sicurezza/apple-ios-18-uscita-funzioni_118272.html",
+      "title": "Tesla, inizia il processo di espansione della Giga Berlin: raddoppio di produzione per auto e batterie | Greenmove",
+      "description": "Lo stabilimento tedesco di Tesla si prepara ad una massiccia espansione, che porterà il volume delle auto costruite fino a 1 milione all'anno",
+      "preview": "Login - Registrati NETWORK AUTO ELETTRICHE TECNOLOGIA INFOTAINMENT E-BIKE MOTO ELETTRICHE URBAN MOBILITY ENERGIE RINNOVABILI Tesla Tesla, inizia il pr"
+    },
+    {
+      "url": "http://www.nacleanenergy.com/articles/32881/california-and-beyond-a-timely-fix-to-decarbonize-the-fast-growing-energy-storage-market?fbclid=IwAR2edSKEsR6fOakOAhZjC_fUlbCQu6bM3TcDxGrTq023gVwTsPmst6eOhL4",
+      "title": "North American Clean Energy - California and Beyond - A timely fix to decarbonize the fast-growing energy storage market",
+      "description": "Here",
+      "preview": "Block ip Trap Popular now Why the West Needs to Secure Heavy Rare Earths for the Future of Advanced Manufacturing Read Article Articles All articles n"
+    },
+    {
+      "url": "https://fondationprimat.org/en/projets/fighting-overfishing-in-the-mediterranean-through-increased-transparency/",
+      "title": "Fighting overfishing in the Mediterranean through increased transparency - Fondation Didier et Martine Primat",
+      "description": "void",
+      "preview": "Theme(s) Environment Duration 2021-2025 Challenge Preservation of ecosystems Locations Mediterranea Partners Global Fishing Watch Project funding Fond"
+    },
+    {
+      "url": "https://xview2.org/",
+      "title": "xView2",
+      "description": "void",
+      "preview": "This site will not work properly without JavaScript enabled. Please enable it to continue."
+    },
+    {
+      "url": "https://www.covidtests.gov/",
+      "title": "Lab Leak: The True Origins of Covid-19 - The White House",
+      "description": "Covid 19 Origins - Lab Leak THE ORIGIN \"The Proximal Origin of SARS-CoV-2\" publication - which was used repeatedly by public health officials and the",
+      "preview": "Covid 19 Origins - Lab Leak THE ORIGIN \"The Proximal Origin of SARS-CoV-2\" publication - which was used repeatedly by public health officials and the"
+    },
+    {
+      "url": "https://www.ishares.com/us",
+      "title": "iShares® ETFs by BlackRock - Investing Made Easy | iShares - BlackRock",
+      "description": "Discover iShares by BlackRock, the top ETF provider offering access to stocks, bonds, and more. Start investing and unlock diverse investment opportunities.",
+      "preview": "Skip to content United States United States Location not listed Primary Navigation Search CLOSE SEARCH Get our take on what Fed rate cuts may mean for"
+    },
+    {
+      "url": "https://tubitv.com",
+      "title": "Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws.",
+      "description": "void",
+      "preview": "We're Sorry. Tubi is the largest free movie and TV streaming service in the US. Unfortunately, we're not currently available in your area. Watch this"
+    },
+    {
+      "url": "https://hipster-centeral-blog.tumblr.com/",
+      "title": "@hipster-centeral-blog on Tumblr",
+      "description": "Follow @hipster-centeral-blog and get more of the good stuff by joining Tumblr today. Dive in!",
+      "preview": "Posts Likes moosekleenex Follow huffpostentertainment 'American Horror Story: Freak Show' Shares Fascinating Videos Featuring 'Extra-Ordinary' Cast FX"
+    },
+    {
+      "url": "https://www.tucsonweekly.com/tucson/home-run/Content?oid=22907546",
+      "title": "Content Mania!",
+      "description": "We've got so much online-only content this week that staring at the little video boxes printed on the lower right-hand corner of this page just...",
+      "preview": "Skip to content We've got so much online-only content this week that staring at the little video boxes printed on the lower right-hand corner of this"
+    },
+    {
+      "url": "https://www.shetnews.co.uk/2018/07/27/amenity-trust-graduates-to-explore-cruise-ship-market-and-world-heritage-application/",
+      "title": "Amenity trust graduate to explore cruise ship market and World Heritage site application | Shetland News",
+      "description": "SHETLAND Amenity Trust has opened up two new graduate placements in a bid to develop tourism in the isles, as well as review its property portfolio. Tasks due...",
+      "preview": "Advertisement 2 of 2 Chris Cope, local democracy reporter 27 July 2018 09:27 http://shet.news/gcdvp Link copied Copied 0 Shares Photo: Shetland News P"
+    },
+    {
+      "url": "https://www.ice.gov",
+      "title": "ICE | U.S. Immigration and Customs Enforcement",
+      "description": "U.S. Immigration and Customs Enforcement's (ICE) mission is to protect America from the cross-border crime and illegal immigration that threaten national security and public safety. This mission is executed through the enforcement of more than 400 federal statutes and focuses on smart immigration enforcement, preventin",
+      "preview": "Skip to main content Official websites use .gov A .gov website belongs to an official government organization in the United States. Secure .gov websit"
+    },
+    {
+      "url": "https://ourspiritualquest.com/category/zeitgeist/",
+      "title": "Zeitgeist | Our Spiritual Quest",
+      "description": "Posts about Zeitgeist written by Laura Maxwell",
+      "preview": "Our Spiritual Quest Journeying together on A Spiritual Quest - Spiritual Truths with Laura Maxwell, her radio guests and friends. Skip to content Home"
+    },
+    {
+      "url": "http://wwar.com/",
+      "title": "World Wide Arts Resources | Art Marketing For Artists | Learn To Sell Your Art",
+      "description": "Effective art marketing solutions for active visual artists. Learn or improve selling your own artwork. Discover art marketing video blogs, podcasts, art career blogs and artist portfolios to be your own art gallery.",
+      "preview": "void"
+    },
+    {
+      "url": "https://engage.walmart-jump.com/",
+      "title": "Investing In American Jobs",
+      "description": "Fueling American jobs, strengthening communities. With our $350 billion investment in products made, grown or assembled in America, we're supporting more than 750,000 U.S. jobs.*",
+      "preview": "Skip to main Skip to footer About Business of Better Leadership Board of Directors Sam Walton Walmart Museum & History New Home Office Working at Walm"
+    },
+    {
+      "url": "https://www.planet.com/",
+      "title": "Planet Labs: Satellite Imagery & Earth Data Analytics",
+      "description": "Discover how Planet's daily satellite imagery and insights empower global decisions and actions with a multidimensional view of our changing planet.",
+      "preview": "Menu Constellations Constellations Overview Owl Pelican Tanager Products Products Overview Planet Insights Platform Planet Monitoring Planet Tasking P"
+    },
+    {
+      "url": "https://iuu.xview.us/",
+      "title": "xView3 - IUU",
+      "description": "void",
+      "preview": "Welcome to xView3! A competition to detect dark vessels using computer vision and global SAR satellite imagery Image credit: U.S. Coast Guard; used wi"
+    },
+    {
+      "url": "https://www.centrumhigieny.pl/pl/p/Ostrzalka-do-nozy-Cozzini-Ergo-Steel-II-hes-2-biala/760",
+      "title": "Ostrzałka do noży Cozzini Ergo Steel II hes-2 biała - Centrum Higieny",
+      "description": "Ostrzałka do noży Cozzini Ergo Steel II hes-2 wykonana jest ze stali i tworzywa sztucznego. Posiada ergonomiczny kształt umożliwiający szybką i bezpieczną pracę, jest łatwa w obsłudze i konserwacji. Druty ostrzałki są ustawione pod kątem 15 stopni, a sprężyna jest zainstalowana z tyłu ostrzałki co zapewnia jednakowy nacisk noża na druty ostrzące i zapobiega zniekształceniu ostrza. Mocne strony urządzenia: zachowuje zawsze jednakowy kąt ostrzenia idealna na każdym stanowisku łatwa obsługa",
+      "preview": "Jesteś w: » Strona główna » Ostrzałki do noży » OSTRZAŁKI RĘCZNE » Ostrzałka do noży Cozzini Ergo Steel II hes-2 biała ZADZWOŃ I ZAMÓW!: +48 571 922 9"
+    },
+    {
+      "url": "https://github.com/GlobalFishingWatch/gfwr",
+      "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs",
+      "description": "R package for accessing data from Global Fishing Watch APIs - GlobalFishingWatch/gfwr",
+      "preview": "Skip to content"
+    },
+    {
+      "url": "https://rasierte-fotzen-webcam.privater-telefonsex.xyz/CAMS/DE/Darsteller/3662677_Ausnahmef/alben.html?page_item=1",
+      "title": "Rasierte Fotzen Webcam#Milf Sextelefon mit Cam",
+      "description": "Scharfe rasierte Fotzen vor der Webcam die mit dir chatten und geile Milfs am Sextelefon mit Cam besuchen.",
+      "preview": "Menü Einloggen Anmelden Passwort vergessen? Kostenlos anmelden Cam Galerien Ausnahmef Nachricht „Ausnahmef\" ist gerade nicht online. Aber frage doch p"
+    },
+    {
+      "url": "https://video.foxbusiness.com/v/6109194898001#sp=show-clips",
+      "title": "Goodwill donations surge during holiday giving season | Fox Business Video",
+      "description": "Goodwill donations and holiday resale",
+      "preview": "to top close Video This video is playing in picture-in-picture. Varney Co January 15, 2020 03:19 CLIP Goodwill donations surge during holiday giving s"
+    },
+    {
+      "url": "https://www.ipcc.ch/srocc/",
+      "title": "Special Report on the Ocean and Cryosphere in a Changing Climate -",
+      "description": "void",
+      "preview": "Summary for Policymakers View View Download Explore Graphics Chapter 1: Framing and Context of the Report Executive Summary View Download Explore Grap"
+    },
+    {
+      "url": "https://americanlibrariesmagazine.org/",
+      "title": "Home | American Libraries Magazine",
+      "description": "American Libraries is the voice of the profession and the flagship magazine of the American Library Association.",
+      "preview": "Skip to main content The Next Generation of Activists Advocacy program trains young people to lead Baker & Taylor to Cease Operations Company begins t"
+    },
+    {
+      "url": "https://storyset.com/",
+      "title": "Storyset | Customize, animate and download illustration for free",
+      "description": "Edit and animate all our customizable illustrations to enhance your projects totally free. Start now to be creative in our online editor ✅",
+      "preview": "Awesome free customizable illustrations for your next project Customize, animate and download our illustrations to make incredible landing pages, app"
+    },
+    {
+      "url": "http://www.fantascienza.com/",
+      "title": "Fantascienza.com",
+      "description": "void",
+      "preview": "Home Libri Cinema Serie TV Scienza Giochi Racconti Video Delos Informazioni Contatti Redazione Collaboratori Crea un link a Fantascienza.com Collabora"
+    },
+    {
+      "url": "https://blogs.windows.com/msedgedev/2022/10/17/website-typo-protection-typosquatting/?form=MT00D5",
+      "title": "Website typo protection defends against fraud including phishing, malware, and other scams - Microsoft Edge Blog",
+      "description": "It's easy to make typos when writing out a website name (URL), but these simple mistakes can lead you to potentially fraudulent websites planted by malicious actors. Website typo protection helps protect you when you accidentally n",
+      "preview": "Skip to main content Skip to main content / Microsoft Edge Blog October 17, 2022 Website typo protection defends against fraud including phishing, mal"
+    },
+    {
+      "url": "http://www.scottygroup.com/",
+      "title": "SCOTTY Group",
+      "description": "void",
+      "preview": "browser window size is below minimum resolution Contact Secure. Reliable. Trusted. Secure. Reliable. Trusted. Anticipating tomorrow The reason why mos"
+    },
+    {
+      "url": "https://www.foresightautomation.com/",
+      "title": "Foresight Automation",
+      "description": "void",
+      "preview": "RECENT NEWS WE ARE EXCITED TO ANNOUNCE WE'LL BE MOVING TO A NEW STATE OF THE ART FACILITY IN 2024! CONSTRUCTION IS UNDERWAY! FORESIGHT ROBOTIC PALLETI"
+    },
+    {
+      "url": "https://www.cadbury.co.uk/",
+      "title": "Cadbury Chocolate | Cadbury UK",
+      "description": "Welcome to the home of Cadbury chocolate - Find out more about the Cadbury brand, our products and our latest campaigns.",
+      "preview": "Win cash prizes to giveaway A competition you can't win? Strange. A competition of 1000s of cash prizes, you get to give away to anyone you like? Pret"
+    },
+    {
+      "url": "https://mangakoibitochan.tumblr.com/post/139472167834",
+      "title": "ADHD Ahead! - codeorg: What we think of computer science is...",
+      "description": "codeorg: \" What we think of computer science is changing. Sources: Gallup/Google and Horizon media \"",
+      "preview": "ADHD Ahead! - codeorg: What we think of computer science is... 1.5M ratings 277k ratings See, that's what the app is perfect for. Sounds perfect Wahhh"
+    },
+    {
+      "url": "https://crosstownfitness.com/",
+      "title": "Chicago Gym | Chicago HIIT Group Fitness | Chicago Personal Training",
+      "description": "Our Gyms in Chicago Have The Largest Offering of Group Fitness Classes & Personal Training. We Offer Over 100+ Weekly Group Fitness Classes in West Loop, Roscoe Village & Lakeview.",
+      "preview": "Try us Schedule Join Our Team FIRST TIME PERSONAL TRAINING CTF TEAM SCHEDULE CORPORATE WELLNESS CTF GAMES Nutrition EFFICIENT & EFFECTIVE Each class w"
+    },
+    {
+      "url": "https://pt.slideshare.net/rss/user/olaitanfalomo",
+      "title": "Slideshows by User: olaitanfalomo",
+      "description": "void",
+      "preview": "void"
+    },
+    {
+      "url": "https://es-co.wordpress.org/plugins/gdpr-cookie-compliance/",
+      "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Colombia",
+      "description": "Cookie notice banner for GDPR, CCPA, EU cookie law, data protection and privacy regulations and other cookie law and consent notice requirements on yo ...",
+      "preview": "WordPress.org Plugin Directory GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law Buscar plugins Detalles V"
+    },
+    {
+      "url": "https://es.slideshare.net/ssuser6d4b4c/presentations?order=popular",
+      "title": "กฤช วรรณชาลี presentations",
+      "description": "void",
+      "preview": "กฤช วรรณชาลี Acerca de Presentaciones Infografías Documentos Recomendaciones Acerca de No hay ninguna presentación aún No hay ninguna infografía aún N"
+    },
+    {
+      "url": "https://eduardoaladren.com/de/?date=2020-4&t=list",
+      "title": "Den Norske Opera Oslo - Eduardo Aladrén",
+      "description": "Norwegian National Opera Oslo",
+      "preview": "Skip to content Location: Storgata 28B, 0184 Oslo, Norway Website: https://operaen.no/en/about-us-oslo-operahouse/ Norwegian National Opera Oslo Twitt"
+    },
+    {
+      "url": "https://ukchat.com/",
+      "title": "Forums - Free Chat Rooms - UkChat.com",
+      "description": "Free Online Chat Rooms Official Forum Boards - UkChat.com",
+      "preview": "New posts Menu Log in Register Navigation Install the app Install How to install the app on iOS Follow along with the video below to see how to instal"
+    },
+    {
+      "url": "https://www.codefellows.org/",
+      "title": "Premier Tech Academy | Discover a Rewarding New Career | Code Fellows",
+      "description": "Code Fellows is the Pacific Northwest's premier technical skills training academy, delivering high-quality live instruction both online and in person to people from all backgrounds.",
+      "preview": "Code Fellows has ceased operations. A Legacy of Innovation and Transformation in Tech Education Code Fellows has ceased operations. As we close our do"
+    },
+    {
+      "url": "https://girlup.org/",
+      "title": "Girl Up | Uniting Girls to Change the World",
+      "description": "We're a movement to advance girls' skills, rights, and opportunities to be leaders. When girls rise, we all rise.",
+      "preview": "What We Do When girls rise, we all rise The world needs new solutions and leadership now. Girl Up is expanding girls' skills, rights, and opportunitie"
+    },
+    {
+      "url": "https://opendatacommons.org/licenses/odbl/1.0/",
+      "title": "Open Data Commons Open Database License (ODbL) v1.0 - Open Data Commons: legal tools for open data",
+      "description": "Legal tools for Open Data",
+      "preview": "Contents Legal tools for Open Data Open Data Commons Open Database License (ODbL) v1.0 Disclaimer Open Data Commons is not a law firm and does not pro"
+    },
+    {
+      "url": "https://infinite.mirrors.phpclasses.org/discuss/blog/PHP-Classes-blog/post/97/thread/1/",
+      "title": "web design award - Comments on PHP Classes blog post \"10th anniversary anno...\" - PHP Classes",
+      "description": "void",
+      "preview": "Login Register All class groups Latest entries Top 10 charts Blog Forums Shop Help Login Register web design award Search All class groups Latest entr"
+    },
+    {
+      "url": "https://firefox-dev.tools/",
+      "title": "Firefox Developer Tools",
+      "description": "void",
+      "preview": "Firefox Developer Tools A set of tools for inspecting and editing web code. Our team works closely with the community and is always happy to welcome n"
+    },
+    {
+      "url": "http://www.shopncook.com/blog/",
+      "title": "Blog | Shop'NCook | Easy-To-Use Recipe Software Shop'NCook with Nutrition, Costing, Shopping List and More - Free Trial",
+      "description": "void",
+      "preview": "void"
+    },
+    {
+      "url": "https://abduzeedo.com/",
+      "title": "abduzeedo - design, inspiration, UX career",
+      "description": "abdz. is a collective of individual writers sharing articles about design, photography, and UX as well as tutorials for Photoshop and other tools",
+      "preview": "Skip to main content Featured Content 01. Coastal: A Stunning Cookbook Celebrating California Cooking & Living 10/09 2025 Book Recommendations Discove"
+    },
+    {
+      "url": "http://kajetan.at/",
+      "title": "Landhaus Kajetan - Apartments im Luftkurort Galtür",
+      "description": "Landhaus Kajetan - Apartments im Luftkurort Galtür",
+      "preview": "WILLKOMMEN APARTMENTS PREISE WELLNESS KINDER ANREISE URLAUBSANFRAGE ONLINEBUCHUNG Landhaus Kajetan - Apartments in Galtür. Herzlich willkommen! Eine w"
+    },
+    {
+      "url": "https://yle.fi/uutiset",
+      "title": "Uutisia lyhyesti | Yle Uutiset",
+      "description": "Uutiset nopeasti ja luotettavasti.",
+      "preview": "Hyppää sisältöön Hyppää sisältöön Uutisia lyhyesti Hallituksen rivit repeilivät Oulaskankaan yöpäivystyksen säilyttämistä koskevassa äänestyksessä. Ka"
+    },
+    {
+      "url": "https://getsupport.apple.com/?caller=home&PRKEYS=",
+      "title": "void",
+      "description": "void",
+      "preview": "We're sorry You need to enable JavaScript to run this app"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/tvshowbiz/fb-10596755/Selma-Blair-Dating-History.html",
+      "title": "Selma Blair Dating History | Daily Mail Online",
+      "description": "Selma Blair recently called it quits with boyfriend Ronald Carlson, which ended with a restraining order against the ex.",
+      "preview": "Home News Royals U.S. Sport TV Showbiz Femail Health Science Money Travel Podcasts Buyline Beauty Fashion Home and Garden My Profile Logout Login Head"
+    },
+    {
+      "url": "https://get.webgl.org",
+      "title": "void",
+      "description": "void",
+      "preview": "Your browser supports WebGL However, it indicates that support is experimental; Not all WebGL functionality may be supported, and content may not run"
+    },
+    {
+      "url": "https://www.wizzair.com/hu-hu#/",
+      "title": "Wizz Air | Olcsó repülőjegyek | Találd meg a legjobb repülőjegy-ajánlatokat",
+      "description": "Találd meg és foglald le a legolcsóbb repülőjegyeket Európa leggyorsabban növekvő, ultrakedvező áron repülő légitársaságánál. Repülőjegyek, szállás és autókölcsönzés - minden egy helyen.",
+      "preview": "Ugrás a járatkeresésre ŐSZI KALANDOK akár 8390 Ft Élvezd a friss hegyi levegőt, és barangolj színpompás túrautakon - utazz novemberig. Korlátozások ér"
+    },
+    {
+      "url": "https://www.unikdekor.se/tapet/barntapeter-standard/disney-pixar-bilar/",
+      "title": "Disney Pixar Bilar - Unikdekor.se",
+      "description": "Glad barntapet med Blixten från Disney Pixars film bilar till riktigt bra pris. Vi har mängder av motiv att välja bland!",
+      "preview": "Produkten har blivit tillagd i varukorgen Svensk butik Trygga köpvillkor Säkra betalsätt - inga avgifter Fraktfritt vid köp över 500 kr 100% Nöjd-Kund"
+    },
+    {
+      "url": "https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F",
+      "title": "Italia in Digitale - Formazione Online Aziende e Professionisti",
+      "description": "Scopri il programma e gli strumenti di formazione online Google per acquisire nuove competenze digitali per la tua crescita aziendale e professionale.",
+      "preview": "Questo sito utilizza i cookie per erogare i propri servizi e migliorarne la qualità e per analizzare il traffico. Se accetti, i cookie vengono utilizz"
+    },
+    {
+      "url": "https://atlas.cid.harvard.edu/",
+      "title": "The Atlas of Economic Complexity",
+      "description": "Visualize global trade data and economic growth opportunities for every country",
+      "preview": "You need to enable JavaScript to run this app."
+    },
+    {
+      "url": "https://www.gpb.org/",
+      "title": "Georgia Public Broadcasting",
+      "description": "Georgia Public Broadcasting",
+      "preview": "Skip to main content Thumbnail PSC candidates aim to energize voters ahead of early voting Candidates are racing to energize their voters ahead of Nov"
+    }
+  ],
+  "_meta": {
+    "total_bookmarks": 80
+  }
+}

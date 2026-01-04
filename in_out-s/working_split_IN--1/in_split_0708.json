@@ -79,12 +79,6 @@
       "preview": "Skip to main Skip to footer search close Powered by generative AI. Results may not fully be accurate. Use is governed by the Generative AI Guidelines"
     },
     {
-      "url": "http://site.icu-project.org/",
-      "title": "ICU - International Components for Unicode",
-      "description": "News 2025-03-13: ICU 77 is now available - releases/tag/release-77-1 - Maven: com.ibm.icu / icu4j / version 77.1 ICU 77 updates to CLDR 47 locale data with new locales, and various additions and corrections. ICU 77 is mostly focused on bug fixes, segmentation conformance, and other refinements. The",
-      "preview": "Search this site Embedded Files Skip to main content Skip to navigation ICU-TC Home Page News 2025-03-13: ICU 77 is now available - releases/tag/relea"
-    },
-    {
       "url": "https://web.dev/learn/html/",
       "title": "Learn HTML | web.dev",
       "description": "This HTML course for web developers provides a solid overview for developers, from novice to expert level HTML.",
@@ -488,6 +482,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 81
+    "total_bookmarks": 80
   }
 }

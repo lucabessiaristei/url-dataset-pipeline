@@ -1,112 +1,162 @@
 {
   "folders": [
     {
-      "name": "apparel-fashion-shopping",
+      "name": "education-academic-research",
       "bookmarks": [
         {
-          "url": "https://corneliajames.com/",
-          "title": "Cornelia James • Handmade Gloves Since 1946"
+          "url": "https://academy.donorbox.org/",
+          "title": "Donorbox Academy: Fundraising Courses & Nonprofit Training Online | Do"
         },
         {
-          "url": "https://getshirts.de/index.php?page=artikel&id=663898",
-          "title": "getshirts • Official Merch of DJ COOPER - Hoodie Damen Classic - pink"
-        },
-        {
-          "url": "https://jimsclothing.com/",
-          "title": "Home - Jims Clothing"
-        },
-        {
-          "url": "https://myotees.com/product/ron-weasley-is-my-boyfriend-graphic-sweatshirt/",
-          "title": "Ron Weasley Is My Boyfriend Graphic Sweatshirt | myotees.com"
-        },
-        {
-          "url": "https://nakedspecies.com/de/products/be-fruitful-rhino-cropped-hoodie",
-          "title": "Be Fruitful Rhino Cropped Hoodie - Naked Species"
-        },
-        {
-          "url": "https://onequince.com/women/cashmere/cashmere-wrap",
-          "title": "Mongolian Cashmere Wrap"
-        },
-        {
-          "url": "https://titlenine.com/p/womens-fleece-lined-leggings-crash-striated/270916.html",
-          "title": "Women's Fleece Lined Leggings: Crash Striated"
-        },
-        {
-          "url": "https://youlookfab.com/finds/item/",
-          "title": "Item - YouLookFab Finds"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "news-current-events-media",
-      "bookmarks": [
-        {
-          "url": "https://bisnow.com/atlanta/news/multifamily/apartment-prominence-in-urban-areas-raising-questions-on-whether-they-should-contribute-to-cids-100591",
-          "title": "As Atlanta Surges With Apartments, CIDs Push For Them To Pay Their Share"
-        },
-        {
-          "url": "https://fox13news.com/news/proposed-bill-would-ban-dogs-from-sticking-heads-outside-car-windows",
-          "title": "Proposed bill would ban dogs from sticking heads outside car windows | FOX 13 Tampa Bay"
-        },
-        {
-          "url": "https://idnes.cz/technet",
-          "title": "iDNES.cz - s námi víte víc"
-        },
-        {
-          "url": "https://news.walgreens.com/",
-          "title": "News Hub | Walgreens Boots Alliance"
-        },
-        {
-          "url": "https://nrk.no/nyheter/",
-          "title": "Siste nytt - NRK"
-        },
-        {
-          "url": "https://rai.it/",
-          "title": "Rai.it"
-        },
-        {
-          "url": "https://womenonly.gr/gossip/arthro/sok_h_garmpi_eftase_konta_sto_thanato/",
-          "title": "Σοκ: Η Γαρμπή έφτασε κοντά στο θάνατο!"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "business-corporate-services",
-      "bookmarks": [
-        {
-          "url": "https://adpri.org/",
+          "url": "https://www.adpri.org/",
           "title": "ADP Research | Data-Driven Business Insights"
         },
         {
-          "url": "https://corporate.target.com/",
-          "title": "News, Careers, Investors, Sustainability & Governance | Target Corporation"
+          "url": "http://jobs.apple.com/",
+          "title": "Apple Roles and Opportunities - Careers at Apple"
         },
         {
-          "url": "https://nolarindustries.com/",
+          "url": "https://career.engr.psu.edu/employers/index.aspx",
+          "title": "Employers | Penn State Engineering"
+        },
+        {
+          "url": "https://www.ccep.jobs/location/toulouse-jobs/26309/3017382-11071623-2972315/4",
+          "title": "Search Toulouse Jobs at CCEP"
+        },
+        {
+          "url": "https://www.cochrane.org/evidence",
+          "title": "Our evidence | Cochrane"
+        },
+        {
+          "url": "https://www.kaporcenter.org/the-computer-science-teacher-landscape-results-of-a-nationwide-teacher-survey",
+          "title": "The Computer Science Teacher Landscape: Results of a Nationwide Teacher Survey - Kapor Center"
+        },
+        {
+          "url": "https://emergency.stanford.edu",
+          "title": "Emergency Info | Stanford University"
+        },
+        {
+          "url": "https://genealogy.cjh.org/synagogue/649",
+          "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
+        },
+        {
+          "url": "https://ipbes.net/global-assessment",
+          "title": "Global Assessment Report on Biodiversity and Ecosystem Services | IPBES secretariat"
+        },
+        {
+          "url": "https://www.iucn.org/about/donors-and-partners/patrons-nature",
+          "title": "Patrons of Nature | IUCN"
+        },
+        {
+          "url": "https://timetable.mak.ac.ug/",
+          "title": "MAK-TMS | Timetable by Groups"
+        },
+        {
+          "url": "https://nopriceonjustice.org/fines-fees-and-the-criminalization-of-mental-health-crisis/",
+          "title": "Fines, Fees and the Criminalization of Mental Health Crises - No Price on Justice"
+        },
+        {
+          "url": "https://olympias.lib.uoi.gr/jspui/simple-search?query=&sort_by=score&order=desc&rpp=10&filter_field_1=author&filter_type_1=equals&filter_value_1=Kyritsis%2C+A.+P.&filter_field_2=datePublished&filter_type_2=equals&filter_value_2=%5B1984+TO+1989%5D&filter_field_3=subject&filter_type_3=equals&filter_value_3=Cell+Differentiation%2Fdrug+effects&filter_field_4=type&filter_type_4=equals&filter_value_4=journalArticle&filter_field_5=subject&filter_type_5=equals&filter_value_5=Bucladesine%2Fpharmacology&filter_field_6=subject&filter_type_6=equals&filter_value_6=Cell+Line&filter_field_7=subject&filter_type_7=equals&filter_value_7=Retinoblastoma%2Fmetabolism%2F*pathology%2Fultrastructure&filter_field_8=subject&filter_type_8=equals&filter_value_8=Staining+and+Labeling&filter_field_9=datePublished&filter_type_9=equals&filter_value_9=1986&filter_field_10=subject&filter_type_10=equals&filter_value_10=Eye+Neoplasms%2Fmetabolism%2F*pathology%2Fultrastructure&filter_field_11=subject&filter_type_11=equals&filter_value_11=Butyric+Acids%2Fpharmacology&etal=0&filtername=author&filterquery=Triche%2C+T.+J.&filtertype=equals",
+          "title": "Repository of UOI \"Olympias\": Search"
+        },
+        {
+          "url": "https://publicdomainreview.org/",
+          "title": "The Public Domain Review - Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web"
+        },
+        {
+          "url": "https://quill.org/lessons/#/teach/class-lessons/-KsKpXAoaEIY5jvWMIzJ/preview",
+          "title": "Quill.org | Interactive Writing and Grammar"
+        },
+        {
+          "url": "https://rodaleinstitute.org/why-organic/organic-farming-practices/crop-rotations/",
+          "title": "Crop Rotations - Rodale Institute"
+        },
+        {
+          "url": "http://www.synapses.co.uk/genetics/",
+          "title": "Information about Genetics courses, Genetics lessons, Genetics classes and Genetics exams."
+        },
+        {
+          "url": "http://www.unwomen.org/en/csw",
+          "title": "Commission on the Status of Women | UN Women - Headquarters"
+        }
+      ],
+      "count": 19
+    },
+    {
+      "name": "general-online-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.aspicyperspective.com/",
+          "title": "A Spicy Perspective - Approachable, Easy Recipes for Everyday Cooking"
+        },
+        {
+          "url": "https://www.behindtheshutter.com",
+          "title": "Behind the Shutter - Free Photography Training and Education"
+        },
+        {
+          "url": "https://compare.buyhatke.com/books/marketing-practices-in-developing-economy-cases-from-south-asia-hatke9788120337824",
+          "title": "Price History: Advance Price Tracker For Amazon,Flipkart & More"
+        },
+        {
+          "url": "https://www.questdiagnostics.com/home/Covid-19/Patients/tat/?elqTrackId=3a3730169075450782568a6765108741&elqaid=93&elqat=2",
+          "title": "COVID-19 testing for patients | Quest Corporate"
+        },
+        {
+          "url": "https://www.dreamies.de/show.php?img=dv4oatprege.jpg",
+          "title": "dreamies.de"
+        },
+        {
+          "url": "https://i-doser.com",
+          "title": "iDoser Digital Brainwave Doses"
+        },
+        {
+          "url": "http://www.neotipi.it/",
+          "title": "void"
+        },
+        {
+          "url": "http://www.nolarindustries.com/",
           "title": "Certified Nonwoven Products | www.nolarindustries.com"
         },
         {
-          "url": "https://petplate.com/",
-          "title": "PetPlate: Fresh Dog Food Delivery"
+          "url": "http://www.rufenacht.com/",
+          "title": "Rufenacht Innovative - new solutions for old problems"
         },
         {
-          "url": "https://thebearchitects.com/",
+          "url": "https://soundoftheearth.org/",
+          "title": "Sound of The Earth: Chapter 3"
+        },
+        {
+          "url": "http://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
+          "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
+        },
+        {
+          "url": "https://www.thebearchitects.com/",
           "title": "The Behavioural Architects: Global Insight, Research and Consultancy"
         },
         {
-          "url": "https://westernmechanical.net/equipment/service.php",
+          "url": "https://westernmechanical.net/equipment/service.php?id=9",
           "title": "200 Ton Hydraulic Crawlers | Western Mechanical"
+        },
+        {
+          "url": "https://www.wireclub.com/",
+          "title": "Free Online Chat Rooms - Wireclub"
+        },
+        {
+          "url": "https://youlookfab.com/finds/item/?product=13464",
+          "title": "Item - YouLookFab Finds"
         }
       ],
-      "count": 6
+      "count": 15
     },
     {
-      "name": "coding-programming-documentation",
+      "name": "tech-software-development",
       "bookmarks": [
         {
-          "url": "https://anandtech.com/show/20745/ryzen-processor-review-2025",
+          "url": "https://about.google/products/",
+          "title": "Google's products and services - About Google"
+        },
+        {
+          "url": "https://www.anandtech.com/show/20745/ryzen-processor-review-2025",
           "title": "AnandTech Forums: Technology, Hardware, Software, and Deals"
         },
         {
@@ -126,81 +176,15 @@
           "title": "Browse all training - Training | Microsoft Learn"
         },
         {
-          "url": "https://postgresql.org/docs/current/ddl-partitioning.html",
-          "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "environmental-sustainability-policy",
-      "bookmarks": [
-        {
-          "url": "https://doee.dc.gov/service/battery-stewardship-producers",
-          "title": "Battery Stewardship: Producers | doee"
-        },
-        {
-          "url": "https://india.mongabay.com/",
-          "title": "Environmental news and information in India - Landing"
-        },
-        {
-          "url": "https://ipbes.net/global-assessment",
-          "title": "Global Assessment Report on Biodiversity and Ecosystem Services | IPBES secretariat"
-        },
-        {
-          "url": "https://iucn.org/about/donors-and-partners/patrons-nature",
-          "title": "Patrons of Nature | IUCN"
-        },
-        {
-          "url": "https://rodaleinstitute.org/why-organic/organic-farming-practices/crop-rotations/",
-          "title": "Crop Rotations - Rodale Institute"
-        },
-        {
-          "url": "https://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
-          "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "charity-nonprofit-advocacy",
-      "bookmarks": [
-        {
-          "url": "https://academy.donorbox.org/",
-          "title": "Donorbox Academy: Fundraising Courses & Nonprofit Training Online | Do"
-        },
-        {
-          "url": "https://nopriceonjustice.org/fines-fees-and-the-criminalization-of-mental-health-crisis/",
-          "title": "Fines, Fees and the Criminalization of Mental Health Crises - No Price on Justice"
-        },
-        {
-          "url": "https://pageantofhope.org/donate",
-          "title": "Donate - Pageant of Hope"
-        },
-        {
-          "url": "https://tiltify.com/international-rescue-committee",
-          "title": "Tiltify - Made for Fundraisers"
-        },
-        {
-          "url": "https://unwomen.org/en/csw",
-          "title": "Commission on the Status of Women | UN Women - Headquarters"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "software-web-tools",
-      "bookmarks": [
-        {
-          "url": "https://compare.buyhatke.com/books/marketing-practices-in-developing-economy-cases-from-south-asia-hatke9788120337824",
-          "title": "Price History: Advance Price Tracker For Amazon,Flipkart & More"
-        },
-        {
-          "url": "https://mozilla.com/firefox/",
+          "url": "https://www.mozilla.com/firefox/",
           "title": "Get Firefox for desktop and mobile - Firefox.com Global"
         },
         {
-          "url": "https://quattroshapes.com/",
+          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
+          "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
+        },
+        {
+          "url": "http://quattroshapes.com/",
           "title": "Quattroshapes by foursquare"
         },
         {
@@ -208,228 +192,188 @@
           "title": "Unlimited Custom & Personalized AI Videos Generator | Potion"
         },
         {
-          "url": "https://wireclub.com/",
-          "title": "Free Online Chat Rooms - Wireclub"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "arts-culture-heritage",
-      "bookmarks": [
-        {
-          "url": "https://genealogy.cjh.org/synagogue/649",
-          "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
-        },
-        {
-          "url": "https://hawaiitheatre.com/",
-          "title": "Hawaii Theatre Center - Pride of The Pacific"
-        },
-        {
-          "url": "https://publicdomainreview.org/",
-          "title": "The Public Domain Review - Online journal dedicated to showcasing the most interesting and unusual out-of-copyright works available on the web"
-        },
-        {
-          "url": "https://soundoftheearth.org/",
-          "title": "Sound of The Earth: Chapter 3"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "education-academic-research",
-      "bookmarks": [
-        {
-          "url": "https://emergency.stanford.edu/",
-          "title": "Emergency Info | Stanford University"
-        },
-        {
-          "url": "https://istat.it/it/dati",
-          "title": "Dati - Istat"
-        },
-        {
-          "url": "https://kaporcenter.org/the-computer-science-teacher-landscape-results-of-a-nationwide-teacher-survey",
-          "title": "The Computer Science Teacher Landscape: Results of a Nationwide Teacher Survey - Kapor Center"
-        },
-        {
-          "url": "https://olympias.lib.uoi.gr/jspui/simple-search",
-          "title": "Repository of UOI \"Olympias\": Search"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "education-hobbies-skills",
-      "bookmarks": [
-        {
-          "url": "https://behindtheshutter.com/",
-          "title": "Behind the Shutter - Free Photography Training and Education"
-        },
-        {
-          "url": "https://quill.org/lessons/",
-          "title": "Quill.org | Interactive Writing and Grammar"
-        },
-        {
-          "url": "https://synapses.co.uk/genetics/",
-          "title": "Information about Genetics courses, Genetics lessons, Genetics classes and Genetics exams."
-        },
-        {
           "url": "https://tympanus.net/codrops/collective/",
           "title": "Subscribe to Codrops"
         }
       ],
-      "count": 4
+      "count": 11
     },
     {
-      "name": "jobs-career-portals",
+      "name": "ecommerce-shopping-products",
       "bookmarks": [
         {
-          "url": "https://career.engr.psu.edu/employers/index.aspx",
-          "title": "Employers | Penn State Engineering"
+          "url": "https://www.astroai.com/mini-fridge-10liter-15can-white/ap/10001406",
+          "title": "AstroAI | For All of Life's Adventures"
         },
         {
-          "url": "https://ccep.jobs/location/toulouse-jobs/",
-          "title": "Search Toulouse Jobs at CCEP"
+          "url": "https://www.corneliajames.com/?gadid=637287656153&gclid=CjwKCAiA0cyfBhBREiwAAtStHKiiL5ukqH-_5x9nJsO2urImFRTJoTbCdJA-Yiw7uGNheeX7oWFrNRoCPKIQAvD_BwE&utm_campaign=1655166926&utm_content=65327481244&utm_medium=paid&utm_source=google&utm_term=cornelia%20james%20gloves",
+          "title": "Cornelia James • Handmade Gloves Since 1946"
         },
         {
-          "url": "https://jobs.apple.com/",
-          "title": "Apple Roles and Opportunities - Careers at Apple"
+          "url": "https://www.getshirts.de/index.php?page=artikel&id=663898",
+          "title": "getshirts • Official Merch of DJ COOPER - Hoodie Damen Classic - pink"
+        },
+        {
+          "url": "http://www.jimsclothing.com/",
+          "title": "Home - Jims Clothing"
+        },
+        {
+          "url": "https://www.myotees.com/product/ron-weasley-is-my-boyfriend-graphic-sweatshirt/",
+          "title": "Ron Weasley Is My Boyfriend Graphic Sweatshirt | myotees.com"
+        },
+        {
+          "url": "https://nakedspecies.com/de/products/be-fruitful-rhino-cropped-hoodie",
+          "title": "Be Fruitful Rhino Cropped Hoodie - Naked Species"
+        },
+        {
+          "url": "https://www.onequince.com/women/cashmere/cashmere-wrap?",
+          "title": "Mongolian Cashmere Wrap"
+        },
+        {
+          "url": "https://www.petplate.com/",
+          "title": "PetPlate: Fresh Dog Food Delivery"
+        },
+        {
+          "url": "https://store.steampowered.com/search/?filter=topsellers",
+          "title": "Steam Search"
+        },
+        {
+          "url": "https://www.titlenine.com/p/womens-fleece-lined-leggings-crash-striated/270916.html",
+          "title": "Women's Fleece Lined Leggings: Crash Striated"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "news-media-outlets",
+      "bookmarks": [
+        {
+          "url": "https://www.bisnow.com/atlanta/news/multifamily/apartment-prominence-in-urban-areas-raising-questions-on-whether-they-should-contribute-to-cids-100591",
+          "title": "As Atlanta Surges With Apartments, CIDs Push For Them To Pay Their Share"
+        },
+        {
+          "url": "https://corporate.target.com",
+          "title": "News, Careers, Investors, Sustainability & Governance | Target Corporation"
+        },
+        {
+          "url": "https://www.fox13news.com/news/proposed-bill-would-ban-dogs-from-sticking-heads-outside-car-windows",
+          "title": "Proposed bill would ban dogs from sticking heads outside car windows | FOX 13 Tampa Bay"
+        },
+        {
+          "url": "https://www.idnes.cz/technet",
+          "title": "iDNES.cz - s námi víte víc"
+        },
+        {
+          "url": "https://india.mongabay.com/",
+          "title": "Environmental news and information in India - Landing"
+        },
+        {
+          "url": "https://news.walgreens.com/",
+          "title": "News Hub | Walgreens Boots Alliance"
+        },
+        {
+          "url": "https://www.nrk.no/nyheter/",
+          "title": "Siste nytt - NRK"
+        },
+        {
+          "url": "http://www.rai.it/",
+          "title": "Rai.it"
         },
         {
           "url": "https://veterans.nbcnews.com/",
           "title": "Veterans | NBC News"
+        },
+        {
+          "url": "https://www.womenonly.gr/gossip/arthro/sok_h_garmpi_eftase_konta_sto_thanato-129579579/",
+          "title": "Σοκ: Η Γαρμπή έφτασε κοντά στο θάνατο!"
         }
       ],
-      "count": 4
+      "count": 10
     },
     {
-      "name": "personal-blogs-creative",
+      "name": "travel-hobbies-sports",
       "bookmarks": [
         {
-          "url": "https://anjalipathak.com/",
-          "title": "Anjali Pathak"
+          "url": "https://www.eurostar.com/uk-en/travel-info/service-information",
+          "title": "Service information | Travel information | Eurostar"
         },
         {
-          "url": "https://juicycube.net/",
-          "title": ":: JuicyCube.net ::"
+          "url": "https://www.grandhoteltremezzo.com/en/home/",
+          "title": "Grand Hotel Tremezzo: luxury 5 star hotel on Lake Como, Italy"
         },
         {
-          "url": "https://majdinustvarjalninemir.blogspot.com/2017/09/dobitnica-bonboncka-je.html",
-          "title": "Dobitnica bonbončka je ..."
+          "url": "https://www.hawaiitheatre.com/",
+          "title": "Hawaii Theatre Center - Pride of The Pacific"
         },
         {
-          "url": "https://passtheknowledge.wordpress.com/tag/squirrels/",
-          "title": "squirrels | PASS THE KNOWLEDGE (LIGHT & LIFE)"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "health-medical-research",
-      "bookmarks": [
-        {
-          "url": "https://cochrane.org/evidence",
-          "title": "Our evidence | Cochrane"
-        },
-        {
-          "url": "https://questdiagnostics.com/home/covid-19/patients/tat/",
-          "title": "COVID-19 testing for patients | Quest Corporate"
-        },
-        {
-          "url": "https://stanislawrajmundburzynski.wordpress.com/tag/wikipedia-orgwikiburzynski_clinic/",
-          "title": "\"http://www.wikipedia.org/wiki/Burzynski_Clinic\" | Didymus Judas Thomas' Hipocritical Oath Blog"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "sports-recreation",
-      "bookmarks": [
-        {
-          "url": "https://indycar.com/Schedule",
+          "url": "https://www.indycar.com/Schedule",
           "title": "NTT INDYCAR SERIES Race Schedule, Results, Dates, Times | Official Site of INDYCAR"
         },
         {
-          "url": "https://mcfourons.be/prod/index.php",
+          "url": "https://mcfourons.be/prod/index.php?LG=FR&ID=34&PHPSESSID=dc38199f48b8cbed08658381c463966d",
           "title": "Moto-club des Fourons"
+        },
+        {
+          "url": "https://www.msaquarium.org/",
+          "title": "Mississippi Aquarium"
         },
         {
           "url": "https://upstatediving.com/about/",
           "title": "About - Upstate NY Diving"
         }
       ],
-      "count": 3
+      "count": 7
     },
     {
-      "name": "travel-destinations-attractions",
+      "name": "personal-blogs-portfolios",
       "bookmarks": [
         {
-          "url": "https://eurostar.com/uk-en/travel-info/service-information",
-          "title": "Service information | Travel information | Eurostar"
+          "url": "http://anjalipathak.com/",
+          "title": "Anjali Pathak"
         },
         {
-          "url": "https://grandhoteltremezzo.com/en/home/",
-          "title": "Grand Hotel Tremezzo: luxury 5 star hotel on Lake Como, Italy"
+          "url": "https://juicycube.net/?id=ctx",
+          "title": ":: JuicyCube.net ::"
         },
         {
-          "url": "https://msaquarium.org/",
-          "title": "Mississippi Aquarium"
+          "url": "https://majdinustvarjalninemir.blogspot.com/2017/09/dobitnica-bonboncka-je.html?showComment=1505595019315",
+          "title": "Dobitnica bonbončka je ..."
+        },
+        {
+          "url": "https://passtheknowledge.wordpress.com/tag/squirrels/",
+          "title": "squirrels | PASS THE KNOWLEDGE (LIGHT & LIFE)"
+        },
+        {
+          "url": "https://stanislawrajmundburzynski.wordpress.com/tag/httpwww-wikipedia-orgwikiburzynski_clinic/",
+          "title": "\"http://www.wikipedia.org/wiki/Burzynski_Clinic\" | Didymus Judas Thomas' Hipocritical Oath Blog"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "company-product-listings",
+      "name": "government-statistics-policy",
       "bookmarks": [
         {
-          "url": "https://about.google/products/",
-          "title": "Google's products and services - About Google"
+          "url": "https://doee.dc.gov/service/battery-stewardship-producers?msclkid=3fb9e4afcfcb11ecab305496d3c71b89",
+          "title": "Battery Stewardship: Producers | doee"
         },
         {
-          "url": "https://astroai.com/mini-fridge-10liter-15can-white/ap/10001406",
-          "title": "AstroAI | For All of Life's Adventures"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "gaming-entertainment-digital",
-      "bookmarks": [
-        {
-          "url": "https://i-doser.com/",
-          "title": "iDoser Digital Brainwave Doses"
-        },
-        {
-          "url": "https://store.steampowered.com/search/",
-          "title": "Steam Search"
+          "url": "https://www.istat.it/it/dati",
+          "title": "Dati - Istat"
         }
       ],
       "count": 2
     },
     {
-      "name": "general-uncategorized",
+      "name": "non-profit-philanthropy",
       "bookmarks": [
         {
-          "url": "https://dreamies.de/show.php?img=dv4oatprege.jpg",
-          "title": "dreamies.de"
+          "url": "https://pageantofhope.org/donate",
+          "title": "Donate - Pageant of Hope"
         },
         {
-          "url": "https://neotipi.it/",
-          "title": "void"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "lifestyle-home-products-tools",
-      "bookmarks": [
-        {
-          "url": "https://aspicyperspective.com/",
-          "title": "A Spicy Perspective - Approachable, Easy Recipes for Everyday Cooking"
-        },
-        {
-          "url": "https://rufenacht.com/",
-          "title": "Rufenacht Innovative - new solutions for old problems"
+          "url": "https://tiltify.com/international-rescue-committee",
+          "title": "Tiltify - Made for Fundraisers"
         }
       ],
       "count": 2
@@ -450,5 +394,5 @@
     }
   ],
   "total_bookmarks": 83,
-  "num_folders": 21
+  "num_folders": 10
 }

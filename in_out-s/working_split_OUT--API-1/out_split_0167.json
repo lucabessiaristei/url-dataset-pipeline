@@ -1,45 +1,23 @@
 {
   "folders": [
     {
-      "name": "education",
+      "name": "misc-uncategorized",
       "bookmarks": [
         {
-          "url": "https://oceansolutions.stanford.edu/",
-          "title": "Center for Ocean Solutions"
+          "url": "https://digitalreservations.microsoft.com/en-us/appointment/create/?storeid=923bf8b8-c8a3-ec11-b3fe-000d3a10148a&serviceid=c465e686-f1a3-ec11-b3fe-000d3a10148a",
+          "title": "Book an appointment - Customer Self Service"
         },
         {
-          "url": "http://www.synapses.co.uk/alchemy/index.html",
-          "title": "Chemistry lessons, Chemistry courses, Chemistry classes and Chemistry exams specifically for homeschool science that anyone an learn"
-        },
-        {
-          "url": "http://campusevents.mines.edu/",
-          "title": "Home - Conference and Event Services"
-        },
-        {
-          "url": "https://ourworldindata.org/life-expectancy",
-          "title": "Life Expectancy - Our World in Data"
-        },
-        {
-          "url": "http://mines.edu/compliance",
-          "title": "Office of Compliance and Policy - Compliance"
-        },
-        {
-          "url": "https://www.tamu.edu/",
-          "title": "Texas A&M University | Texas A&M University"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "general-uncategorized",
-      "bookmarks": [
-        {
-          "url": "http://osnetwork.co.jp/archives/38433",
-          "title": "Ein Beschlagnahmung dieser Kandidaten hinein die Villa wird das erste Glanzleistung As part of einer Effekt - オー・エスネットワーク（OSNETWORK）公式サイト"
+          "url": "https://www.elitesingles.com/",
+          "title": "EliteSingles | One of the best dating sites for educated singles"
         },
         {
           "url": "https://lists.fedoraproject.org/archives/list/desktop@lists.fedoraproject.org/message/YPPVTOA3UMAPVQIZMFLFN57HAJYJLCIU/",
           "title": "Making sure you're not a bot!"
+        },
+        {
+          "url": "http://osnetwork.co.jp/archives/38433",
+          "title": "Ein Beschlagnahmung dieser Kandidaten hinein die Villa wird das erste Glanzleistung As part of einer Effekt - オー・エスネットワーク（OSNETWORK）公式サイト"
         },
         {
           "url": "https://corporate.pluto.tv/privacy-policy",
@@ -52,12 +30,20 @@
         {
           "url": "https://business.gyft.com",
           "title": "Radware Bot Manager Captcha"
+        },
+        {
+          "url": "http://www.erp-recycling.it",
+          "title": "Sistemi Collettivi RAEE: Consorzio ERP Italia"
+        },
+        {
+          "url": "http://szerep.hu/faultetes/1",
+          "title": "Szerep Község"
         }
       ],
-      "count": 5
+      "count": 9
     },
     {
-      "name": "news",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://www.latribunahoy.com/tag/jornadas-de-puertas-abiertas-medina-sidonia/",
@@ -72,14 +58,22 @@
           "title": "Missing man found in shark's stomach after family identifies his tattoo | World News | Sky News"
         },
         {
+          "url": "https://onairwithryan.iheart.com/featured/ryan-seacrest/content/2022-04-04-shawn-mendes-on-performing-at-wango-tango-new-music-more/",
+          "title": "Shawn Mendes On Performing At Wango Tango, New Music & More | On Air with Ryan Seacrest | Ryan Seacrest"
+        },
+        {
           "url": "https://sport360.com/",
           "title": "Sport360 - Latest Sports News"
+        },
+        {
+          "url": "http://nbc.researchresults.com/?s=639",
+          "title": "Viewers Voice"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "organization-non-profit",
+      "name": "non-profit-orgs",
       "bookmarks": [
         {
           "url": "https://communityfoundations.ca/events/healthycommunities-simple-ways-to-create-vibrant-safe-spaces-or-adapt-public-places-and-programming-during-a-pandemic/",
@@ -94,14 +88,52 @@
           "title": "Girl Up | Uniting Girls to Change the World"
         },
         {
+          "url": "https://usblackchambers.org/grow-with-google/",
+          "title": "U.S. Black Chambers, Inc."
+        },
+        {
+          "url": "https://www.watttime.org/",
+          "title": "Home - WattTime"
+        },
+        {
           "url": "https://www.ywcacassclay.org/",
           "title": "YWCA Cass Clay"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "software-tools",
+      "name": "reference-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.blm.gov/visit/copper-ridge-dinosaur-tracks-interpretive-site",
+          "title": "Copper Ridge Dinosaur Tracks Interpretive Site | Bureau of Land Management"
+        },
+        {
+          "url": "http://www.synapses.co.uk/alchemy/index.html",
+          "title": "Chemistry lessons, Chemistry courses, Chemistry classes and Chemistry exams specifically for homeschool science that anyone an learn"
+        },
+        {
+          "url": "https://sports.answers.com/Q/How_many_super_bowls_did_teddy_bruschi_win",
+          "title": "How many super bowls did teddy bruschi win? - Answers"
+        },
+        {
+          "url": "https://ourworldindata.org/life-expectancy",
+          "title": "Life Expectancy - Our World in Data"
+        },
+        {
+          "url": "https://www.baseball-reference.com/",
+          "title": "MLB Stats, Scores, History, & Records | Baseball-Reference.com"
+        },
+        {
+          "url": "https://mcfenvironmental.com/hazardous-waste-have-a-hazardous-waste-manifest-or-bill-of-lading-2/?handl_url=https://mcfenvironmental.com/osha-compliance-training-for-medical-practices-where-to-get-certified/",
+          "title": "What Is the Difference Between a Manifest and a Bill of Lading?"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "software-apps-tools",
       "bookmarks": [
         {
           "url": "http://www.dvdshrink.org/",
@@ -112,6 +144,10 @@
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Colombia"
         },
         {
+          "url": "https://howl.me/cjb33rDvIWj",
+          "title": "Howl | Where Creators & Brands Link Up"
+        },
+        {
           "url": "http://madscientist.pl/magicfluids",
           "title": "Magic Fluids - iOS and Android app"
         },
@@ -120,10 +156,10 @@
           "title": "Tinybeans-The Photo-Sharing App That Families Love"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "tech-articles",
+      "name": "tech-industry",
       "bookmarks": [
         {
           "url": "https://belikeada.tumblr.com/post/89425124609",
@@ -138,69 +174,49 @@
           "title": "Maryland moves to increase diversity in computer science - @lisas1221-blog on Tumblr"
         },
         {
-          "url": "https://aws.amazon.com/what-is-cloud-computing",
-          "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "business",
-      "bookmarks": [
-        {
           "url": "https://careers.mozilla.org/",
           "title": "Mozilla Careers - Feel good about your work again."
         },
         {
-          "url": "https://usblackchambers.org/grow-with-google/",
-          "title": "U.S. Black Chambers, Inc."
-        },
-        {
-          "url": "https://mcfenvironmental.com/hazardous-waste-have-a-hazardous-waste-manifest-or-bill-of-lading-2/?handl_url=https://mcfenvironmental.com/osha-compliance-training-for-medical-practices-where-to-get-certified/",
-          "title": "What Is the Difference Between a Manifest and a Bill of Lading?"
+          "url": "https://aws.amazon.com/what-is-cloud-computing",
+          "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "media",
+      "name": "blogs-galleries",
       "bookmarks": [
         {
-          "url": "https://onairwithryan.iheart.com/featured/ryan-seacrest/content/2022-04-04-shawn-mendes-on-performing-at-wango-tango-new-music-more/",
-          "title": "Shawn Mendes On Performing At Wango Tango, New Music & More | On Air with Ryan Seacrest | Ryan Seacrest"
+          "url": "https://sentimental--sentinel.tumblr.com/",
+          "title": "@sentimental--sentinel on Tumblr"
         },
         {
-          "url": "http://nbc.researchresults.com/?s=639",
-          "title": "Viewers Voice"
+          "url": "https://www.popsugar.com/fitness/photo-gallery/43655065/image/47786114/Wheat-Bran?stream_view=1",
+          "title": "Foods That Cause Anxiety | PS Fitness"
+        },
+        {
+          "url": "https://want-her-midnights.tumblr.com/",
+          "title": "it's lib"
         },
         {
           "url": "https://www.flickr.com/photos/worldbank",
           "title": "World Bank Photo Collection | Flickr"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "services-online",
+      "name": "corporate-sites-brands",
       "bookmarks": [
         {
-          "url": "https://digitalreservations.microsoft.com/en-us/appointment/create/?storeid=923bf8b8-c8a3-ec11-b3fe-000d3a10148a&serviceid=c465e686-f1a3-ec11-b3fe-000d3a10148a",
-          "title": "Book an appointment - Customer Self Service"
+          "url": "https://www.essie.com/nail-polish/enamel/reds/bordeaux",
+          "title": "Bordeaux - Deep Red Wine Nail Polish & Nail Color - Essie"
         },
         {
-          "url": "https://www.elitesingles.com/",
-          "title": "EliteSingles | One of the best dating sites for educated singles"
+          "url": "http://www.newtube.com/",
+          "title": "New Tube Company |"
         },
-        {
-          "url": "https://howl.me/cjb33rDvIWj",
-          "title": "Howl | Where Creators & Brands Link Up"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "brand",
-      "bookmarks": [
         {
           "url": "https://www.scjohnson.com/",
           "title": "SC Johnson | A Family Company at Work for A Better World"
@@ -210,89 +226,31 @@
           "title": "SKIMS | Solutions For Every Body"
         }
       ],
-      "count": 2
+      "count": 4
     },
     {
-      "name": "environment",
+      "name": "education-university",
       "bookmarks": [
         {
-          "url": "https://www.watttime.org/",
-          "title": "Home - WattTime"
+          "url": "https://oceansolutions.stanford.edu/",
+          "title": "Center for Ocean Solutions"
         },
         {
-          "url": "http://www.erp-recycling.it",
-          "title": "Sistemi Collettivi RAEE: Consorzio ERP Italia"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://www.essie.com/nail-polish/enamel/reds/bordeaux",
-          "title": "Bordeaux - Deep Red Wine Nail Polish & Nail Color - Essie"
+          "url": "http://campusevents.mines.edu/",
+          "title": "Home - Conference and Event Services"
         },
         {
-          "url": "http://www.newtube.com/",
-          "title": "New Tube Company |"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "social-tumblr",
-      "bookmarks": [
-        {
-          "url": "https://sentimental--sentinel.tumblr.com/",
-          "title": "@sentimental--sentinel on Tumblr"
+          "url": "http://mines.edu/compliance",
+          "title": "Office of Compliance and Policy - Compliance"
         },
         {
-          "url": "https://want-her-midnights.tumblr.com/",
-          "title": "it's lib"
+          "url": "https://www.tamu.edu/",
+          "title": "Texas A&M University | Texas A&M University"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "sports-reference",
-      "bookmarks": [
-        {
-          "url": "https://sports.answers.com/Q/How_many_super_bowls_did_teddy_bruschi_win",
-          "title": "How many super bowls did teddy bruschi win? - Answers"
-        },
-        {
-          "url": "https://www.baseball-reference.com/",
-          "title": "MLB Stats, Scores, History, & Records | Baseball-Reference.com"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "travel-guide",
-      "bookmarks": [
-        {
-          "url": "https://www.blm.gov/visit/copper-ridge-dinosaur-tracks-interpretive-site",
-          "title": "Copper Ridge Dinosaur Tracks Interpretive Site | Bureau of Land Management"
-        },
-        {
-          "url": "http://szerep.hu/faultetes/1",
-          "title": "Szerep Község"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health-wellness",
-      "bookmarks": [
-        {
-          "url": "https://www.popsugar.com/fitness/photo-gallery/43655065/image/47786114/Wheat-Bran?stream_view=1",
-          "title": "Foods That Cause Anxiety | PS Fitness"
-        }
-      ],
-      "count": 1
+      "count": 4
     }
   ],
   "total_bookmarks": 49,
-  "num_folders": 16
+  "num_folders": 9
 }

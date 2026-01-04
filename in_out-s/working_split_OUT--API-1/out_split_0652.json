@@ -1,520 +1,396 @@
 {
   "folders": [
     {
-      "name": "business-finance-services",
+      "name": "tech",
       "bookmarks": [
         {
-          "url": "https://connectedcouncil.org/europe/coronavirus/",
-          "title": "Connected Commerce Council - Connected Commerce Council"
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS",
+          "title": "Cross-Origin Resource Sharing (CORS) - HTTP | MDN"
         },
         {
-          "url": "https://electrosonic.com/",
-          "title": "Audio Visual Systems | Electrosonic"
+          "url": "https://jsonschema.dev/",
+          "title": "JSON Schema Validation"
         },
         {
-          "url": "https://fleet.7-eleven.com/",
-          "title": "7-Eleven Fleet - Fueling your fleet for the road ahead"
+          "url": "https://devblogs.microsoft.com/visualstudio/",
+          "title": "Visual Studio Blog"
         },
         {
-          "url": "https://in.linkedin.com/company/sterlite-technologies-ltd-",
-          "title": "STL - Sterlite Technologies Limited | LinkedIn"
+          "url": "https://www.postgresql.org/docs/current/tutorial.html",
+          "title": "PostgreSQL: Documentation: 18: Part I. Tutorial"
         },
         {
-          "url": "https://ishares.com/us",
-          "title": "iShares® ETFs by BlackRock - Investing Made Easy | iShares - BlackRock"
-        },
-        {
-          "url": "https://likewise.com/contact-us/",
-          "title": "Contact Us"
-        },
-        {
-          "url": "https://m-dcc.org/",
-          "title": "Miami-Dade Chamber of Commerce"
-        },
-        {
-          "url": "https://merchants.fiserv.com/",
-          "title": "Merchant Services | Payment Processing Enterprise Solutions | Fiserv"
-        },
-        {
-          "url": "https://sella.it/",
-          "title": "Home | Banca Sella"
-        },
-        {
-          "url": "https://wm.com/",
-          "title": "WM | Waste Management & Recycling Services"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "civic-government-information",
-      "bookmarks": [
-        {
-          "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=fisheriesoceans&publishedDate%3E=2020-08-09",
-          "title": "Canada News Centre - Fisheries and Oceans Canada"
-        },
-        {
-          "url": "https://cao-ombudsman.org/",
-          "title": "Office of the Compliance Advisor/Ombudsman"
-        },
-        {
-          "url": "https://cm-porto.pt/negocios/licenciamentos",
-          "title": "Erro | Câmara Municipal do Porto"
-        },
-        {
-          "url": "https://fec.gov/",
-          "title": "Home | FEC"
-        },
-        {
-          "url": "https://indiacode.nic.in/",
-          "title": "India Code: Home"
-        },
-        {
-          "url": "https://indianembassyusa.gov.in/",
-          "title": "Welcome to Embassy of India, Washington D C, USA"
-        },
-        {
-          "url": "https://jsnfri.fra.affrc.go.jp/index-e/newindex-e.html",
-          "title": "JUMP!"
-        },
-        {
-          "url": "https://presidencia.go.cr/",
-          "title": "Gobierno de Costa Rica | Presidencia de la República de Costa Rica"
-        },
-        {
-          "url": "https://voteamerica.com/",
-          "title": "VoteAmerica: Everything You Need to Vote"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "mobile-computing-software",
-      "bookmarks": [
-        {
-          "url": "https://android.com/",
-          "title": "Android | Fai di più con Google su dispositivi e smartphone Android"
-        },
-        {
-          "url": "https://catboost.ai/en/docs/concepts/loss-functions",
-          "title": "Objectives and metrics | CatBoost"
-        },
-        {
-          "url": "https://learn.microsoft.com/en-us/azure/ai-services/",
-          "title": "Azure AI Foundry documentation | Microsoft Learn"
-        },
-        {
-          "url": "https://mobvoi.com/us/pages/ticwatchs2",
-          "title": "TicWatch S2 - The best smartwatch to take your outdoor game to the next level."
-        },
-        {
-          "url": "https://support.office.com/en-us/article/download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658",
-          "title": "Download, install, or reinstall Microsoft 365 or Office 2024 on a PC or Mac - Microsoft Support"
-        },
-        {
-          "url": "https://whatsapp.com/",
-          "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling"
-        },
-        {
-          "url": "https://workato.com/integrations/quip+kissmetrics",
-          "title": "Kissmetrics and Quip integration | Workato"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "digital-marketing-e-commerce",
-      "bookmarks": [
-        {
-          "url": "https://facebookblueprint.com/",
-          "title": "Meta Blueprint : Learn new skills to build your brand or business"
-        },
-        {
-          "url": "https://marketingexamples.com/inspiration",
-          "title": "Copywriting Examples - The world's best copy. In one place."
-        },
-        {
-          "url": "https://mejuri.com/",
-          "title": "Fine Jewelry For Every Day | Mejuri"
-        },
-        {
-          "url": "https://minted.com/wedding-websites",
-          "title": "Wedding Websites | FREE with Online RSVP | Minted"
-        },
-        {
-          "url": "https://sephora.com/product/un-cover-up-cream-foundation-P450899",
-          "title": "Sephora"
-        },
-        {
-          "url": "https://target.com/circle",
-          "title": "Target Circle™"
-        },
-        {
-          "url": "https://vellabox.com/",
-          "title": "Vellabox // The Artisan Candle Subscription Box"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "education-learning-resources",
-      "bookmarks": [
-        {
-          "url": "https://blaqplastik.tumblr.com/post/154526446030",
-          "title": "Computer science really is computer science! - @blaqplastik on Tumblr"
-        },
-        {
-          "url": "https://directaccessrecipes.com/?recId=85927",
-          "title": "Searchable Recipe Database - May 16, 2016"
-        },
-        {
-          "url": "https://education.microsoft.com/",
-          "title": "Educator Center Overview - Microsoft Learn Educator Center | Microsoft Learn"
-        },
-        {
-          "url": "https://lalibellule.ch/centre-nature/ateliers/",
-          "title": "Ateliers - la libellule"
-        },
-        {
-          "url": "https://porterleath.org/preschool",
-          "title": "Porter-Leath Focus Areas | Preschool"
-        },
-        {
-          "url": "https://shop.donorschoose.org/",
-          "title": "DonorsChoose: Support a classroom. Build a future."
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "social-justice-human-rights",
-      "bookmarks": [
-        {
-          "url": "https://colorofchange.org/",
-          "title": "Color Of Change"
-        },
-        {
-          "url": "https://fcsn1996.org/",
-          "title": "FCSN - Friends of Children with Special Needs"
-        },
-        {
-          "url": "https://nopriceonjustice.org/fines-fees-and-the-criminalization-of-mental-health-crisis/",
-          "title": "Fines, Fees and the Criminalization of Mental Health Crises - No Price on Justice"
-        },
-        {
-          "url": "https://prisonpolicy.org/reports/pie2019women.html",
-          "title": "Women's Mass Incarceration: The Whole Pie 2019 | Prison Policy Initiative"
-        },
-        {
-          "url": "https://ywcampls.org/",
-          "title": "YWCA Minneapolis | Eliminating Racism | Empowering Women"
+          "url": "https://jsfiddle.net/p999yde8/",
+          "title": "Edit fiddle - JSFiddle - Code Playground"
         }
       ],
       "count": 5
     },
     {
-      "name": "arts-culture-leisure",
+      "name": "art-and-design",
       "bookmarks": [
         {
-          "url": "https://publicartchallenge.bloomberg.org/",
-          "title": "Public Art Challenge"
+          "url": "https://www.metmuseum.org/exhibitions",
+          "title": "Exhibitions - The Metropolitan Museum of Art"
         },
         {
-          "url": "https://stencil.wiki/What_is_Risograph_printing%3F",
-          "title": "stencil.wiki"
+          "url": "https://www.awwwards.com/websites/colour/",
+          "title": "Awwwards Nominees"
         },
         {
-          "url": "https://tate.org.uk/visit/tate-modern",
-          "title": "Tate Modern | Tate"
+          "url": "https://designercize.com/",
+          "title": "DESIGNERCIZE"
         },
         {
-          "url": "https://visionsdureel.ch/photo-video/2021/surfaces-cristina-motta/",
-          "title": "Surfaces - Cristina Motta - Visions du Réel"
+          "url": "https://designs.ai/",
+          "title": "Designs AI - Free Online Logo, Image, AI Chat Videos & Voice Generator"
+        },
+        {
+          "url": "https://www.sohadiamondco.com/blogs/fashion/when-something-old-becomes-something-new",
+          "title": "When Something Old Becomes Something New - Soha Diamond Co."
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "career-workforce-development",
+      "name": "business-and-finance",
       "bookmarks": [
         {
-          "url": "https://coursereport.com/schools/merit-america",
-          "title": "Merit America Reviews | Course Report"
+          "url": "https://www.walmartmexico.com/aviso-de-privacidad",
+          "title": "Aviso de Privacidad"
         },
         {
-          "url": "https://exceptional-minds.org/",
-          "title": "Home - Exceptional Minds"
+          "url": "https://wellsfargoworks.com/",
+          "title": "Small Business Resource Center | Wells Fargo"
         },
         {
-          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
-          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
+          "url": "https://www.allstatefoundation.org/",
+          "title": "The Allstate Foundation | Allstate Corporation"
         },
         {
-          "url": "https://yearup.widen.net/s/g52hvq9v9z/pace-2022---results-summary-external",
-          "title": "PACE-2022---Results-Summary-External.pdf"
+          "url": "https://www.bloomberg.org/",
+          "title": "Bloomberg Philanthropies"
+        },
+        {
+          "url": "https://www.larepgroup.com/",
+          "title": "Smart City | LAR REPS"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "company-updates-blogs",
+      "name": "education",
       "bookmarks": [
         {
-          "url": "https://blog.vizzuality.com/",
-          "title": "Vizzuality | Blog"
+          "url": "https://saoic.org/",
+          "title": "Summit Academy OIC | Training for In-Demand Careers"
         },
         {
-          "url": "https://blogs.worldbank.org/voices/bold-new-worldbankorg",
-          "title": "A Bold New Worldbank.org"
+          "url": "https://www.gallupatwork.com/",
+          "title": "All Gallup Events - Gallup"
         },
         {
-          "url": "https://newsroom.es.paypal-corp.com/inicio",
-          "title": "PayPal Newsroom - Inicio"
+          "url": "https://www.teachley.com/privacy",
+          "title": "Protecting Student Data - Privacy Policy | Teachley"
         },
         {
-          "url": "https://newsroom.latam.paypal-corp.com/",
-          "title": "PayPal Newsroom - Inicio"
+          "url": "https://tocaboca.com/privacy",
+          "title": "Privacy Policy - Toca Boca"
+        },
+        {
+          "url": "https://getpocket.com/firefox_learnmore/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=firefox-home",
+          "title": "Pocket"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "data-statistics-portals",
+      "name": "entertainment",
       "bookmarks": [
         {
-          "url": "https://data.gouv.fr/fr/datasets/quartiers-de-marseille",
-          "title": "Quartiers de Marseille"
+          "url": "https://www.nps.gov/yell/planyourvisit/things2do.htm",
+          "title": "Things To Do - Yellowstone National Park (U.S. National Park Service)"
         },
         {
-          "url": "https://data.worldbank.org/",
-          "title": "World Bank Open Data | Data"
+          "url": "https://yt.be/songwriters",
+          "title": "YouTube for Songwriters - Songwriters Home"
         },
         {
-          "url": "https://istat.it/it/dati",
-          "title": "Dati - Istat"
+          "url": "https://www.florafamily.org/",
+          "title": "Flora Family Foundation"
         },
         {
-          "url": "https://map.imcsnet.org/",
-          "title": "Map of maritime regions | IMCS"
+          "url": "https://www.pinrepair.com/begin/index.htm",
+          "title": "PINBALL: Beginning Pinball Repair and Circuit Board Repair"
+        },
+        {
+          "url": "https://minesathletics.com/",
+          "title": "Colorado School of Mines Athletics - Official Athletics Website"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "media-entertainment-news",
+      "name": "environment",
       "bookmarks": [
         {
-          "url": "https://alternativenation.net/porno-pyros-drop-new-album-bombshell/",
-          "title": "Porno for Pyros Drop New Album Bombshell - Alternative Nation"
+          "url": "https://chesapeakeclimate.org/",
+          "title": "Home - Chesapeake Climate Action Network"
         },
         {
-          "url": "https://bravotv.com/the-daily-dish/rhonj-is-gia-giudice-still-dating-her-boyfriend-christian-carmichael",
-          "title": "RHONJ: Is Gia Giudice Still Dating Her Boyfriend Christian Carmichael?"
+          "url": "https://asiapacificgreens.org/tag/asia-pacific-greens-federation-gambling-general-news-new-zealand/",
+          "title": "Asia-Pacific Greens Federation, Gambling, General News, New Zealand Archives - Asia Pacific Greens Federation (APGF)"
         },
         {
-          "url": "https://diariogol.com/",
-          "title": "Diario Gol | Real Madrid, FC Barcelona, Florentino Pérez"
+          "url": "https://www.hrw.org/report/2018/01/23/hidden-chains/rights-abuses-and-forced-labor-thailands-fishing-industry",
+          "title": "Hidden Chains: Rights Abuses and Forced Labor in Thailand's Fishing Industry | HRW"
         },
         {
-          "url": "https://index.hu/gazdasag/",
-          "title": "Gazdasági hírek - Index"
+          "url": "https://www.lavanguardia.com/sucesos/20230228/8790685/rescatado-hombre-paso-mes-selva-bolivia-huyendo-depredadores.html",
+          "title": "Rescatado un hombre que pasó un mes en la selva en Bolivia huyendo de depredadores"
+        },
+        {
+          "url": "https://www.energate-messenger.at/news/219257/klagen-gegen-erdgasleitung-opal-abgelehnt",
+          "title": "Klagen gegen Erdgasleitung Opal abgelehnt | energate messenger"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "academic-research-resources",
+      "name": "fashion",
       "bookmarks": [
         {
-          "url": "https://authors.acm.org/journals/rights-policies",
-          "title": "Author Rights Policies"
+          "url": "https://www.onlineshop-18.de/Kleidung-/-Mode/fuer-IHN/",
+          "title": "für IHN - onlineshop-18.de - Produkte"
         },
         {
-          "url": "https://cos2022.sites.stanford.edu/people/staff",
-          "title": "Staff | Center for Ocean Solutions"
+          "url": "https://www.czbykennethjaylane.com/products/petite-triple-hoop-earrings",
+          "title": "Petite Triple Hoop Earrings - CZ by Kenneth Jay Lane"
         },
         {
-          "url": "https://tamu.edu/",
-          "title": "Texas A&M University | Texas A&M University"
+          "url": "https://dollyave.com",
+          "title": "Dolly Ave"
+        },
+        {
+          "url": "https://www.freudeforever.com/",
+          "title": "Freude Forever"
+        },
+        {
+          "url": "https://kajetan.at/",
+          "title": "Landhaus Kajetan - Apartments im Luftkurort Galtür"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "environmental-conservation-news",
+      "name": "food-and-drink",
       "bookmarks": [
         {
-          "url": "https://3-sided-cube.hivebrite.com/",
-          "title": "Home | The Ocean Decade"
+          "url": "https://www.gopapaya.co.in/",
+          "title": "PA PA YA test"
         },
         {
-          "url": "https://oceanographicmagazine.com/features/marine-protected-areas-global-fishing-watch/",
-          "title": "Ocean expanse: How satellite technology can show the benefits of large Marine Protected Areas - Oceanographic"
+          "url": "https://www.eurocars.ro/de/mietwagen-Arad/SUV/Opel/Opel-Antara_107",
+          "title": "Autovermietung Arad | SUV Klasse"
         },
         {
-          "url": "https://theguardian.com/environment/2021/oct/31/cop26-literally-the-last-chance-saloon-to-save-planet-prince-charles",
-          "title": "Cop26 'literally the last chance saloon' to save planet - Prince Charles | Cop26 | The Guardian"
+          "url": "https://local.tourmake.it/tr/carnicer%C3%ADa-jamoner%C3%ADa-alcal%C3%A1-calle-de-alcal%C3%A1-comunidad-de-madrid-madrid",
+          "title": "Restoran Dükkan Madrid Carnicería-Jamonería Alcalá - Local Tourmake"
+        },
+        {
+          "url": "https://www.cheese-info.co.uk/pages/visitor-support",
+          "title": "Support for visitors | cheese-info.co.uk"
+        },
+        {
+          "url": "https://www.grandhoteltremezzo.com/en/home/",
+          "title": "Grand Hotel Tremezzo: luxury 5 star hotel on Lake Como, Italy"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "global-public-health",
+      "name": "government",
       "bookmarks": [
         {
-          "url": "https://afro.who.int/",
-          "title": "WHO | Regional Office for Africa"
+          "url": "https://council.nyc.gov/",
+          "title": "Home - New York City Council"
         },
         {
-          "url": "https://covid19.ca.gov/",
-          "title": "COVID-19"
+          "url": "https://www.cm-porto.pt/negocios/licenciamentos",
+          "title": "Erro | Câmara Municipal do Porto"
         },
         {
-          "url": "https://drsureshmondal.in/andhra-pradesh/hyderabad/ameerpet/homeopathy-doctor",
-          "title": "Top Homeopathy Doctor in Ameerpet | Dr Sharma (78+)"
+          "url": "https://www.indianembassyusa.gov.in",
+          "title": "Welcome to Embassy of India, Washington D C, USA"
+        },
+        {
+          "url": "https://reform.un.org/content/development-reform",
+          "title": "Development Reform | United to Reform"
+        },
+        {
+          "url": "https://www.stimson.org/research/trade-tech/conventional-arms/",
+          "title": "Conventional Arms Research • Stimson Center"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "hobbies-diy-crafts",
+      "name": "health",
       "bookmarks": [
         {
-          "url": "https://singer.com/support/machine-support",
-          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
+          "url": "https://www.aetna.com/individuals-families/member-rights-resources/rights/federal-no-surprises-act.html",
+          "title": "Federal No Surprises Act | Aetna"
         },
         {
-          "url": "https://spirittoolkit.com/",
-          "title": "HOME | Mysite"
+          "url": "https://www.universparticulier.be/",
+          "title": "Univers Particulier | Librairie ésotérique à Bruxelles"
         },
         {
-          "url": "https://weihnachtsseite.de/",
-          "title": "die Weihnachtsseite"
+          "url": "https://infiniteforloop.tumblr.com/post/139555617318",
+          "title": "typing is a contact sport • codeorg: What we think of computer science is..."
+        },
+        {
+          "url": "https://forms.accaglobal.com/contact-us",
+          "title": "Contact us"
+        },
+        {
+          "url": "https://www.bigmarker.com/mutual-of-omaha-mortgage1/USO-VA-Home-Loan-Workshop",
+          "title": "Webinar: USO VA Home Loan Workshop by Mutual of Omaha Mortgage"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "travel-guides-safety",
+      "name": "news",
       "bookmarks": [
         {
-          "url": "https://oovacances.com/locations-vacances/france-occitanie-aude/situation-montagne",
-          "title": "Locations Vacances France Occitanie Aude Montagne"
+          "url": "https://wjla.com/news/local/amtrak-train-derailment-northern-virginia-cars-collision-stranded-passengers-nonstop-trip-pets-sanford-florida-south-carolina-csx-freight-replacement-crew-food-meals-lorton-washington-dc-dmv-travel",
+          "title": "Delayed Amtrak train carrying northern Va. passengers arrives after 37-hour trip"
         },
         {
-          "url": "https://rya.org.uk/knowledge/safety",
-          "title": "Water Safety Advice | Home | RYA - Royal Yachting Association"
+          "url": "https://caribbeancricket.com/news",
+          "title": "CaribbeanCricket.com - The Independent Voice of West Indies Cricket"
         },
         {
-          "url": "https://theworldpursuit.com/",
-          "title": "The World Pursuit - Informative Travel Guides"
+          "url": "https://theguardian.newspapers.com",
+          "title": "The past: read all about it."
+        },
+        {
+          "url": "https://opais.co.ao/mnlogin/?redirect_to=https%3A%2F%2Fopais.co.ao%2Fmpla-reafirma-apoio-incondicional-ao-presidente-da-republica%2F",
+          "title": "OPaís - Tem tudo."
+        },
+        {
+          "url": "https://sportsration.com/",
+          "title": "Nigeria sports news, Nigeria football news transfers and gossips"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "animal-pet-welfare",
+      "name": "non-profit",
       "bookmarks": [
         {
-          "url": "https://fairmountpetservice.com/blog/pet-services-blog/losing-a-pet-having-to-put-my-dog-to-sleep/",
-          "title": "Losing A Pet: Having To Put My Dog To Sleep - Fairmount Pet Service"
+          "url": "https://www.aaccofsj.org/",
+          "title": "Home - African American Chamber of Commerce of San Joaquin %"
         },
         {
-          "url": "https://wfla.com/news/animals/florida-bill-would-ban-allowing-dogs-to-stick-their-heads-out-of-car-windows-declawing-cats/",
-          "title": "Florida bill would ban allowing dogs to stick their heads out of car windows, declawing cats | WFLA"
+          "url": "https://iworksmc.isolvedhire.com/jobs/",
+          "title": "Job Listings - Interfaith Works Jobs"
+        },
+        {
+          "url": "https://www.conservation-wiki.com/wiki/Main_Page",
+          "title": "AIC WIKI Main Page"
+        },
+        {
+          "url": "https://eskalera.com/",
+          "title": "Home"
+        },
+        {
+          "url": "https://forms.gle/f52Dk28DmJNgzwCp8",
+          "title": "Evaluación de satisfacción página Web INCOPESCA"
         }
       ],
-      "count": 2
+      "count": 5
     },
     {
-      "name": "cooking-food-recipes",
+      "name": "real-estate",
       "bookmarks": [
         {
-          "url": "https://directaccessrecipes.com/?recId=85927",
-          "title": "Searchable Recipe Database - May 16, 2016"
+          "url": "https://www.truck1.rs/izmenjivi-sanduci-kontejneri/promenjiva-tela-sanduci",
+          "title": "Truck1"
         },
         {
-          "url": "https://shappypretzel.com/",
-          "title": "HOME | Shappy Pretzel Co."
+          "url": "https://ninatomtcarlsen.no/tag/yoga/",
+          "title": "yoga | Nina Marie Tømt Carlsen"
+        },
+        {
+          "url": "https://sci-chic.tumblr.com/",
+          "title": "Sci Chic"
+        },
+        {
+          "url": "https://community.naceweb.org/",
+          "title": "Home - National Association of Colleges and Employers"
+        },
+        {
+          "url": "https://dogeleven.github.io",
+          "title": "TofuSoup"
         }
       ],
-      "count": 2
+      "count": 5
     },
     {
-      "name": "cybersecurity-privacy-info",
+      "name": "science",
       "bookmarks": [
         {
-          "url": "https://nielsen.com/digitalprivacy",
-          "title": "Digital measurement privacy statement | Nielsen"
+          "url": "https://frontiersin.org/articles/10.3389/fmars.2018.00240/full",
+          "title": "Frontiers | Identifying Global Patterns of Transshipment Behavior"
         },
         {
-          "url": "https://vms.drweb.com/virus/?i=2405948",
-          "title": "Trojan.DownLoader8.31367 - Dr.Web Malware description library"
+          "url": "https://eductors.net/jet-pump-application-sheet/",
+          "title": "Jet Pump Application Sheet"
+        },
+        {
+          "url": "https://falcontech.com/products/mohawk-m57553b-5elan-cat5e-cable-pvc-1000-feet-blue",
+          "title": "Mohawk 4245PVB-CE-BU M57553B 5eLAN, CAT5e Cable, PVC, 1000 Feet - Blue - FalconTech"
+        },
+        {
+          "url": "https://e-n-t-p.tumblr.com/",
+          "title": "PSYCH"
+        },
+        {
+          "url": "https://mirror.ufam.edu.br/archlinux/core/?C=D;O=A",
+          "title": "Index of /archlinux/core"
         }
       ],
-      "count": 2
+      "count": 5
     },
     {
-      "name": "general-web-resources",
+      "name": "travel",
       "bookmarks": [
         {
-          "url": "https://example.com/",
-          "title": "Example Domain"
+          "url": "https://central.wordcamp.org/",
+          "title": "WordCamp Central - WordCamp is a conference that focuses on everything WordPress."
         },
         {
-          "url": "https://spiders-in-the-sky.tumblr.com/",
-          "title": "Untitled"
+          "url": "https://blog.getpocket.com/",
+          "title": "Pocket inside"
+        },
+        {
+          "url": "https://inthecloud.withgoogle.com/cyber-security-forecast-2023/register.html?utm_source=gc_events&utm_medium=display&utm_campaign=FY23-Q1-northam-NRTH86-physicalevent-er-mandient-cyber-security-forecast&utm_content=cyber-security-forecast-cgcevents&utm_term=-",
+          "title": "Cloud Computing Services | Google Cloud"
+        },
+        {
+          "url": "https://www.stimson.org/research/trade-tech/conventional-arms/",
+          "title": "Conventional Arms Research • Stimson Center"
+        },
+        {
+          "url": "https://careers.walmart.com/corporate/corporate-affairs-and-communications",
+          "title": "Corporate Communications Jobs | Walmart Careers"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "local-community-attractions",
-      "bookmarks": [
-        {
-          "url": "https://365thingssyracuse.wordpress.com/2013/01/07/7-cobblestone/",
-          "title": "7. Cobblestone | 365 Things Syracuse"
-        },
-        {
-          "url": "https://indianapoliszoo.com/",
-          "title": "Indianapolis Zoo - Home"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "streaming-music-fitness",
-      "bookmarks": [
-        {
-          "url": "https://fitness.apple.com/subscribe",
-          "title": "‎Getting Started with Fitness+"
-        },
-        {
-          "url": "https://tidal.com/",
-          "title": "TIDAL - High Fidelity Music Streaming"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "tech-product-reviews-analysis",
-      "bookmarks": [
-        {
-          "url": "https://electrosmash.com/boss-ds1-analysis",
-          "title": "ElectroSmash - Boss DS1 Distortion Analysis"
-        },
-        {
-          "url": "https://marina.ch/blog/four-winns-ts-242/",
-          "title": "Four Winns TS 242 | marina.ch"
-        },
-        {
-          "url": "https://pcper.com/tag/k53/",
-          "title": "k53 - PC Perspective"
-        }
-      ],
-      "count": 3
+      "count": 5
     }
   ],
-  "total_bookmarks": 93,
-  "num_folders": 23
+  "total_bookmarks": 92,
+  "num_folders": 15
 }

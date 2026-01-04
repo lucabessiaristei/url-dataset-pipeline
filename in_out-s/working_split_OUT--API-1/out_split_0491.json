@@ -1,56 +1,6 @@
 {
   "folders": [
     {
-      "name": "companies-business-organizations",
-      "bookmarks": [
-        {
-          "url": "https://www.ancitel.it/",
-          "title": "La società di servizi per i Comuni dell'ANCI"
-        },
-        {
-          "url": "https://jalhay-commerces.be/commune/Engis/4480/",
-          "title": "Communes-Commerces.be"
-        },
-        {
-          "url": "https://corporate.target.com",
-          "title": "News, Careers, Investors, Sustainability & Governance | Target Corporation"
-        },
-        {
-          "url": "https://www.eventbrite.ca/e/search-engine-optimization-for-small-businesses-tickets-537752621567",
-          "title": "Search Engine Optimization for Small Businesses Tickets, Wed, 15 Mar 2023 at 10:00 AM | Eventbrite"
-        },
-        {
-          "url": "https://exquisiteresorts.co.uk/trade-suppliers/",
-          "title": "Trade Suppliers - Exquisite Resorts"
-        },
-        {
-          "url": "https://www.comcraftfr.com/",
-          "title": "End-to-End Deep Network Observability Solutions | Profitap"
-        },
-        {
-          "url": "https://pinkfong.com",
-          "title": "Pinkfong Official Website"
-        },
-        {
-          "url": "https://skylinepacific.com/",
-          "title": "Home - Skyline Pacific Properties"
-        },
-        {
-          "url": "https://smallbusiness.withgoogle.com/",
-          "title": "Before you continue"
-        },
-        {
-          "url": "https://www.ukibc.com/",
-          "title": "UK India Business Council"
-        },
-        {
-          "url": "https://www.ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
-        }
-      ],
-      "count": 11
-    },
-    {
       "name": "government-public-services",
       "bookmarks": [
         {
@@ -62,12 +12,16 @@
           "title": "CDT Redirect Page"
         },
         {
-          "url": "https://www.dwd.de/DE/wetter/warnungen_gemeinden/warnWetter_node.html",
-          "title": "Wetter und Klima - Deutscher Wetterdienst - Gemeindewarnungen aktuell"
+          "url": "https://dhhr.wv.gov/bms/Members/Apply/Pages/default.aspx?elqTrackId=d71b672f62824436a7ef4213214b2c86&elqaid=93&elqat=2#:~:text=%E2%80%8BThere%20are%20several%20ways,%2D855%2D889%2D4325",
+          "title": "Applying for Healthcare: Medicaid, West Virginia Children's Health Insurance Program or Private Insurance at the Health Insurance Marketplace"
         },
         {
           "url": "https://europa.eu/youreurope/citizens/index_en.htm",
           "title": "Help and advice for EU nationals and their family - Your Europe"
+        },
+        {
+          "url": "https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html",
+          "title": "TÉLÉCHARGEMENT | Géoservices"
         },
         {
           "url": "https://www.hcsheriff.gov/pressreleases/display.php?releaseid=1539",
@@ -78,26 +32,26 @@
           "title": "Law Commission - Reforming the law"
         },
         {
-          "url": "https://www.regione.piemonte.it/",
+          "url": "https://data.mulhouse-alsace.fr/explore/dataset/m2a_orthophotographie-2018/information/",
+          "title": "Orthophotographie 2018 sur le territoire de m2A - Open Data Mulhouse Alsace Agglomération - m2A"
+        },
+        {
+          "url": "http://www.regione.piemonte.it/",
           "title": "Regione Piemonte"
         },
         {
-          "url": "https://stableseas.org/publications/violence-gulf-guinea",
-          "title": "Stable Seas: Gulf of Guinea"
-        },
-        {
-          "url": "https://dhhr.wv.gov/bms/Members/Apply/Pages/default.aspx",
-          "title": "Applying for Healthcare: Medicaid, West Virginia Children's Health Insurance Program or Private Insurance at the Health Insurance Marketplace"
+          "url": "https://www.dwd.de/DE/wetter/warnungen_gemeinden/warnWetter_node.html",
+          "title": "Wetter und Klima - Deutscher Wetterdienst - Gemeindewarnungen aktuell"
         }
       ],
-      "count": 9
+      "count": 10
     },
     {
-      "name": "learning-development-resources",
+      "name": "academic-education-resources",
       "bookmarks": [
         {
-          "url": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
-          "title": "CUDA C++ Programming Guide - CUDA C++ Programming Guide"
+          "url": "https://calendar.mines.edu/",
+          "title": "Colorado School of Mines: Calendar"
         },
         {
           "url": "https://cs231n.github.io/",
@@ -108,58 +62,258 @@
           "title": "Home | ALAeLearning"
         },
         {
-          "url": "http://emps.exeter.ac.uk/mathematics/staff/crk205",
-          "title": "IT Server Security project | Exeter IT Services | University of Exeter"
+          "url": "https://www.ipachart.com/",
+          "title": "IPA Chart"
         },
         {
           "url": "http://www.instrumentalchemistry.com/",
           "title": "Instrumental Chemistry Educational Videos"
         },
         {
-          "url": "https://learn.microsoft.com/en-us/ef/core/modeling/index",
-          "title": "Creating and Configuring a Model - EF Core | Microsoft Learn"
+          "url": "http://emps.exeter.ac.uk/mathematics/staff/crk205",
+          "title": "IT Server Security project | Exeter IT Services | University of Exeter"
         },
         {
           "url": "http://www.numbertheory.org/ntw/N5.html",
           "title": "ONLINE THESES IN NUMBER THEORY"
         },
         {
+          "url": "https://www.aavso.org/observing-manuals",
+          "title": "Observing Manuals | aavso"
+        },
+        {
+          "url": "https://wordassociations.net/en/",
+          "title": "Word Associations Network"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "ai-ml-programming-tools",
+      "bookmarks": [
+        {
+          "url": "https://github.community",
+          "title": "community · Discussions · GitHub"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/ef/core/modeling/index",
+          "title": "Creating and Configuring a Model - EF Core | Microsoft Learn"
+        },
+        {
+          "url": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
+          "title": "CUDA C++ Programming Guide - CUDA C++ Programming Guide"
+        },
+        {
+          "url": "https://powervirtualagents.microsoft.com",
+          "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
+        },
+        {
+          "url": "https://exifremover.com/",
+          "title": "EXIF Remover - Remove EXIF and Metadata from Files Online"
+        },
+        {
+          "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch",
+          "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
+        },
+        {
           "url": "https://oracle-cloud-infrastructure-python-sdk.readthedocs.io/en/stable/api/database_management/models/oci.database_management.models.SqlTuningTaskSecretCredentialDetails.html",
           "title": "SqlTuningTaskSecretCredentialDetails - oci 2.58.0 documentation"
         },
         {
-          "url": "https://scratch.mit.edu/terms_of_use",
-          "title": "Scratch - Scratch Terms of Use"
-        },
-        {
-          "url": "https://www.singer.com/support/instruction-manuals",
-          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
-        },
-        {
-          "url": "https://calendar.mines.edu/",
-          "title": "Colorado School of Mines: Calendar"
+          "url": "https://tunebend.com",
+          "title": "TuneBend"
         }
       ],
-      "count": 11
+      "count": 8
     },
     {
-      "name": "nonprofit-organizations-community-services",
+      "name": "business-corporate-information",
       "bookmarks": [
         {
-          "url": "https://childrensmiraclenetworkhospitals.org",
-          "title": "Children's Miracle Network Hospitals"
+          "url": "http://www.ancitel.it/",
+          "title": "La società di servizi per i Comuni dell'ANCI"
         },
         {
-          "url": "https://www.ellenmacarthurfoundation.org/our-work/activities/new-plastics-economy/global-commitment",
-          "title": "The Global Commitment | Ellen MacArthur Foundation"
+          "url": "https://www.careers.fiserv.com/",
+          "title": "Working at Fiserv, Inc."
         },
         {
-          "url": "https://www.forumforthefuture.org/",
-          "title": "Forum for the Future"
+          "url": "https://hyundai.oemdtc.com",
+          "title": "Hyundai - OEMDTC"
+        },
+        {
+          "url": "https://corporate.target.com",
+          "title": "News, Careers, Investors, Sustainability & Governance | Target Corporation"
+        },
+        {
+          "url": "http://www.skylinepacific.com/",
+          "title": "Home - Skyline Pacific Properties"
+        },
+        {
+          "url": "https://exquisiteresorts.co.uk/trade-suppliers/",
+          "title": "Trade Suppliers - Exquisite Resorts"
+        },
+        {
+          "url": "https://www.virtuelabs.com/en/shipping-notice",
+          "title": "Virtue | Shipping Delay Notice"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "business-development-services",
+      "bookmarks": [
+        {
+          "url": "https://smallbusiness.withgoogle.com/?utm_source=gwg&utm_medium=ep&utm_campaign=gwg_footer",
+          "title": "Before you continue"
+        },
+        {
+          "url": "https://jalhay-commerces.be/commune/Engis/4480/",
+          "title": "Communes-Commerces.be"
+        },
+        {
+          "url": "http://www.comcraftfr.com/",
+          "title": "End-to-End Deep Network Observability Solutions | Profitap"
+        },
+        {
+          "url": "https://www.ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
         },
         {
           "url": "https://www.jff.org/subscribe/",
           "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
+        },
+        {
+          "url": "https://www.eventbrite.ca/e/search-engine-optimization-for-small-businesses-tickets-537752621567?aff=erelexpmlt",
+          "title": "Search Engine Optimization for Small Businesses Tickets, Wed, 15 Mar 2023 at 10:00 AM | Eventbrite"
+        },
+        {
+          "url": "https://pressable.com/?utm_source=Automattic&utm_medium=rpc&utm_campaign=Concierge%20Referral&utm_term=concierge",
+          "title": "Truly Incredible WordPress Hosting by Pressable"
+        },
+        {
+          "url": "https://www.ukibc.com/",
+          "title": "UK India Business Council"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "news-media-articles",
+      "bookmarks": [
+        {
+          "url": "https://province-courses.fr/24H/article_PDF.php?id=8822",
+          "title": "24H AU TROT - Accueil"
+        },
+        {
+          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
+          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
+        },
+        {
+          "url": "https://cricket-cup.blogspot.com/",
+          "title": "Cricket Blog | BBL | India Cricket News"
+        },
+        {
+          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.qoyexb9GR",
+          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
+        },
+        {
+          "url": "https://jacobin.com/2023/02/christian-super-bowl-ads-he-gets-us-servant-foundation-abortion-gay-rights?utm_campaign=later-linkinbio-themeteor&utm_content=later-33016107&utm_medium=social&utm_source=linkin.bio",
+          "title": "The Far Right Is Funding Evangelical Super Bowl Sunday Ads"
+        },
+        {
+          "url": "https://journa.host/@rhett",
+          "title": "Rhett Ayers Butler (@rhett@journa.host) - Journa.host"
+        },
+        {
+          "url": "https://www.msn.com/en-us/news/us/green-bay-stands-by-audio-surveillance-in-response-to-state-senate-letter/ar-AA17uuKL",
+          "title": "MSN"
+        },
+        {
+          "url": "https://www.persemprenews.it/cronaca/rigoletto/",
+          "title": "Rigoletto, ultima opera del Maestro Franco Zeffirelli si terrà il 20 gennaio 2022 alla RHOM - PerSempreNews"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "arts-culture-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://aquarium.ucsd.edu/visit/buy-tickets",
+          "title": "Birch Aquarium School Programs - Birch Aquarium at Scripps eTicketing"
+        },
+        {
+          "url": "http://www.prs.net/midi.html",
+          "title": "Classical Archives: MIDI"
+        },
+        {
+          "url": "http://historicomaha.com/frtomaha.htm",
+          "title": "Fort Omaha - Omaha, Nebraska, USA"
+        },
+        {
+          "url": "https://www.marvel.com/articles/tv-shows/loki-he-who-remains-jonathan-majors",
+          "title": "'Loki': Meet the Man Behind the Curtain, He Who Remains | Marvel"
+        },
+        {
+          "url": "https://www.jonathanglynnsmith.com",
+          "title": "Photographer Jonathan Glynn-Smith"
+        },
+        {
+          "url": "http://pinkfong.com",
+          "title": "Pinkfong Official Website"
+        },
+        {
+          "url": "https://sahistory.org.za/form/contribute?referrernid=93525&referrertitle=Press%20Comments%20made%20by%20South%20African%20President%20Thabo%20Mbeki%20and%20Prime%20Minister%20of%20C%C3%B4te%20d%E2%80%99Ivoire%20Guillaume%20Soro,%20Cape%20Town,%2020%20June%202007",
+          "title": "Contribute | South African History Online"
+        },
+        {
+          "url": "https://www.museothyssen.org/en/activities",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "retail-ecommerce-legal",
+      "bookmarks": [
+        {
+          "url": "https://www.pmc.com/opt-out",
+          "title": "California Residents: Opt Out of Sale of Personal Information | PMC"
+        },
+        {
+          "url": "https://www.fairtradecertified.org/",
+          "title": "Fair Trade Certified - Sourcing Program from Fair Trade USA"
+        },
+        {
+          "url": "https://ca.jbl.com?countrySelector=yes&ged=off",
+          "title": "Official JBL Store - Speakers, Headphones, and More!"
+        },
+        {
+          "url": "https://www.petsmart.com/",
+          "title": "Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart"
+        },
+        {
+          "url": "https://www.rocksbox.com/",
+          "title": "Rocksbox"
+        },
+        {
+          "url": "https://nadri.com/collections/bracelets/products/rsvp-cz-bypass-hinge-bracelet?variant=42515372736771",
+          "title": "RSVP CZ BYPASS HINGE BRACELET - NADRI"
+        },
+        {
+          "url": "https://scratch.mit.edu/terms_of_use",
+          "title": "Scratch - Scratch Terms of Use"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "nonprofit-community-services",
+      "bookmarks": [
+        {
+          "url": "https://childrensmiraclenetworkhospitals.org",
+          "title": "Children's Miracle Network Hospitals"
         },
         {
           "url": "https://library.donorbox.org/",
@@ -178,74 +332,36 @@
           "title": "The Family Conservancy | Happy, Healthy, Educated Children"
         }
       ],
-      "count": 8
+      "count": 5
     },
     {
-      "name": "shopping-products-ecommerce",
+      "name": "food-cooking-baking",
       "bookmarks": [
         {
           "url": "https://www.barbecue-france.fr/pack-promo-louisiana-grills-1200-founders-premiere-c2x36084281",
           "title": "Barbecue France : Site de barbecues, fumoirs, planchas et combustibles"
         },
         {
-          "url": "https://ca.jbl.com",
-          "title": "Official JBL Store - Speakers, Headphones, and More!"
+          "url": "http://www.ricettepercucinare.com/",
+          "title": "Blog di cucina e ricette italiane | Ricettepercucinare.com | HOME"
+        },
+        {
+          "url": "https://www.kleineskulinarium.de/2017/02/mandorlini-der-pure-mandelgenuss/",
+          "title": "Mandorlini der pure Mandelgenuss - Kleines Kulinarium"
         },
         {
           "url": "https://fallsculinary.com/product/the-samurai-15-x-15-x-14-dough-joe-pizza-steel-baking-sheet/",
           "title": "The Samurai™ - 15\" x 15\" x 1/4\" - Dough-Joe® Pizza Steel Baking Sheet - Dough-Joe"
-        },
-        {
-          "url": "https://nadri.com/collections/bracelets/products/rsvp-cz-bypass-hinge-bracelet?variant=42515372736771",
-          "title": "RSVP CZ BYPASS HINGE BRACELET - NADRI"
-        },
-        {
-          "url": "https://www.petsmart.com/",
-          "title": "Pet Supplies, Accessories, and Pet Food - Pet Stores | PetSmart"
-        },
-        {
-          "url": "https://www.rocksbox.com/",
-          "title": "Rocksbox"
-        },
-        {
-          "url": "https://www.virtuelabs.com/en/shipping-notice",
-          "title": "Virtue | Shipping Delay Notice"
         }
       ],
-      "count": 7
+      "count": 4
     },
     {
-      "name": "health-social-issues",
+      "name": "games-hobbies-guides",
       "bookmarks": [
         {
-          "url": "http://acestoohigh.com",
-          "title": "ACEs Too High"
-        },
-        {
-          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap",
-          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
-        },
-        {
-          "url": "https://jacobin.com/2023/02/christian-super-bowl-ads-he-gets-us-servant-foundation-abortion-gay-rights",
-          "title": "The Far Right Is Funding Evangelical Super Bowl Sunday Ads"
-        },
-        {
-          "url": "https://www.theaftd.org/mnlstatement23/",
-          "title": "Willis Family Statement | AFTD"
-        },
-        {
-          "url": "https://yogajanda.com/blog/",
-          "title": "Yoga Janda Yoga and Pregnancy Blog | Yoga Janda"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "hobbies-recreation",
-      "bookmarks": [
-        {
-          "url": "https://www.aavso.org/observing-manuals",
-          "title": "Observing Manuals | aavso"
+          "url": "https://www.kiteplans.org/planos/delta/delta.html",
+          "title": "Barrilete Delta"
         },
         {
           "url": "https://boardgamegeek.com/boardgame/174430/gloomhaven",
@@ -256,87 +372,59 @@
           "title": "Germantown Peggers Cribbage Club, Rules Page"
         },
         {
-          "url": "https://www.kiteplans.org/planos/delta/delta.html",
-          "title": "Barrilete Delta"
-        },
-        {
-          "url": "https://cricket-cup.blogspot.com/",
-          "title": "Cricket Blog | BBL | India Cricket News"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "news-analysis-articles",
-      "bookmarks": [
-        {
-          "url": "https://province-courses.fr/24H/article_PDF.php?id=8822",
-          "title": "24H AU TROT - Accueil"
-        },
-        {
-          "url": "https://journa.host/@rhett",
-          "title": "Rhett Ayers Butler (@rhett@journa.host) - Journa.host"
-        },
-        {
-          "url": "https://www.marvel.com/articles/tv-shows/loki-he-who-remains-jonathan-majors",
-          "title": "'Loki': Meet the Man Behind the Curtain, He Who Remains | Marvel"
-        },
-        {
-          "url": "https://www.msn.com/en-us/news/us/green-bay-stands-by-audio-surveillance-in-response-to-state-senate-letter/ar-AA17uuKL",
-          "title": "MSN"
-        },
-        {
-          "url": "https://www.persemprenews.it/cronaca/rigoletto/",
-          "title": "Rigoletto, ultima opera del Maestro Franco Zeffirelli si terrà il 20 gennaio 2022 alla RHOM - PerSempreNews"
-        },
-        {
-          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
-          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "software-ai-tools-services",
-      "bookmarks": [
-        {
-          "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch",
-          "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
-        },
-        {
-          "url": "https://github.community",
-          "title": "community · Discussions · GitHub"
-        },
-        {
-          "url": "https://exifremover.com/",
-          "title": "EXIF Remover - Remove EXIF and Metadata from Files Online"
-        },
-        {
-          "url": "https://powervirtualagents.microsoft.com",
-          "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
-        },
-        {
-          "url": "https://pressable.com/",
-          "title": "Truly Incredible WordPress Hosting by Pressable"
-        },
-        {
-          "url": "https://tunebend.com",
-          "title": "TuneBend"
+          "url": "https://www.singer.com/support/instruction-manuals",
+          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
         },
         {
           "url": "https://wiki.muc.ccc.de/start?image=public_pics%3Aherz.jpg&tab_details=view&do=media&tab_files=files&ns=reprap%3Aprints",
           "title": "Making sure you're not a bot!"
         }
       ],
-      "count": 7
+      "count": 5
     },
     {
-      "name": "travel-leisure-attractions",
+      "name": "sustainability-environmental",
       "bookmarks": [
         {
-          "url": "https://aquarium.ucsd.edu/visit/buy-tickets",
-          "title": "Birch Aquarium School Programs - Birch Aquarium at Scripps eTicketing"
+          "url": "https://www.ellenmacarthurfoundation.org/our-work/activities/new-plastics-economy/global-commitment",
+          "title": "The Global Commitment | Ellen MacArthur Foundation"
         },
+        {
+          "url": "https://www.forumforthefuture.org/",
+          "title": "Forum for the Future"
+        },
+        {
+          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2018.00240/full",
+          "title": "Frontiers | Identifying Global Patterns of Transshipment Behavior"
+        },
+        {
+          "url": "https://stableseas.org/publications/violence-gulf-guinea",
+          "title": "Stable Seas: Gulf of Guinea"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "public-health-wellness",
+      "bookmarks": [
+        {
+          "url": "http://acestoohigh.com",
+          "title": "ACEs Too High"
+        },
+        {
+          "url": "https://www.theaftd.org/mnlstatement23/",
+          "title": "Willis Family Statement | AFTD"
+        },
+        {
+          "url": "https://yogajanda.com/blog/",
+          "title": "Yoga Janda Yoga and Pregnancy Blog | Yoga Janda"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel-tourism-guides",
+      "bookmarks": [
         {
           "url": "https://bahamar.com/",
           "title": "Baha Mar"
@@ -350,133 +438,9 @@
           "title": "Visit the Poconos | Discover Restaurants, Hotels & Things to Do"
         }
       ],
-      "count": 4
-    },
-    {
-      "name": "arts-history-culture",
-      "bookmarks": [
-        {
-          "url": "http://historicomaha.com/frtomaha.htm",
-          "title": "Fort Omaha - Omaha, Nebraska, USA"
-        },
-        {
-          "url": "https://www.jonathanglynnsmith.com",
-          "title": "Photographer Jonathan Glynn-Smith"
-        },
-        {
-          "url": "https://www.museothyssen.org/en/activities",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "http://www.prs.net/midi.html",
-          "title": "Classical Archives: MIDI"
-        },
-        {
-          "url": "https://sahistory.org.za/form/contribute",
-          "title": "Contribute | South African History Online"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "data-resources-geospatial",
-      "bookmarks": [
-        {
-          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2018.00240/full",
-          "title": "Frontiers | Identifying Global Patterns of Transshipment Behavior"
-        },
-        {
-          "url": "https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html",
-          "title": "TÉLÉCHARGEMENT | Géoservices"
-        },
-        {
-          "url": "https://data.mulhouse-alsace.fr/explore/dataset/m2a_orthophotographie-2018/information/",
-          "title": "Orthophotographie 2018 sur le territoire de m2A - Open Data Mulhouse Alsace Agglomération - m2A"
-        }
-      ],
       "count": 3
-    },
-    {
-      "name": "recipes-food-cooking",
-      "bookmarks": [
-        {
-          "url": "https://www.kleineskulinarium.de/2017/02/mandorlini-der-pure-mandelgenuss/",
-          "title": "Mandorlini der pure Mandelgenuss - Kleines Kulinarium"
-        },
-        {
-          "url": "http://www.ricettepercucinare.com/",
-          "title": "Blog di cucina e ricette italiane | Ricettepercucinare.com | HOME"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "career-job-boards",
-      "bookmarks": [
-        {
-          "url": "https://www.careers.fiserv.com/",
-          "title": "Working at Fiserv, Inc."
-        },
-        {
-          "url": "https://jobs.disneycareers.com/search-jobs/national%20geographic/",
-          "title": "national geographic jobs at DISNEY"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "linguistics-language",
-      "bookmarks": [
-        {
-          "url": "https://www.ipachart.com/",
-          "title": "IPA Chart"
-        },
-        {
-          "url": "https://wordassociations.net/en/",
-          "title": "Word Associations Network"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "privacy-security",
-      "bookmarks": [
-        {
-          "url": "https://www.pmc.com/opt-out",
-          "title": "California Residents: Opt Out of Sale of Personal Information | PMC"
-        },
-        {
-          "url": "https://exifremover.com/",
-          "title": "EXIF Remover - Remove EXIF and Metadata from Files Online"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "sustainability-environmental",
-      "bookmarks": [
-        {
-          "url": "https://www.fairtradecertified.org/",
-          "title": "Fair Trade Certified - Sourcing Program from Fair Trade USA"
-        },
-        {
-          "url": "https://www.ellenmacarthurfoundation.org/our-work/activities/new-plastics-economy/global-commitment",
-          "title": "The Global Commitment | Ellen MacArthur Foundation"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "general-misc",
-      "bookmarks": [
-        {
-          "url": "https://hyundai.oemdtc.com",
-          "title": "Hyundai - OEMDTC"
-        }
-      ],
-      "count": 1
     }
   ],
-  "total_bookmarks": 60,
-  "num_folders": 17
+  "total_bookmarks": 89,
+  "num_folders": 14
 }

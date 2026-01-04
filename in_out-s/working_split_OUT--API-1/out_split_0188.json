@@ -1,57 +1,19 @@
 {
   "folders": [
     {
-      "name": "news-entertainment-media",
+      "name": "organizations-nonprofit",
       "bookmarks": [
         {
-          "url": "https://about.grabyo.com/pt/grabyo-blog",
-          "title": "Grabyo Blog | Read the latest broadcast and media industry analysis"
-        },
-        {
-          "url": "https://daveandbusters.com/",
-          "title": "Dave & Buster's | Events - Arcade - Sports Bar and Restaurant"
-        },
-        {
-          "url": "https://huffpost.com/",
-          "title": "HuffPost - Breaking News, Politics, Entertainment & Opinion"
-        },
-        {
-          "url": "https://larotative.info/spip.php?page=login&url=assises-de-la-maternelle-comment-2711.html&lang=fr",
-          "title": "La Rotative - Archives"
-        },
-        {
-          "url": "https://blog.nationalgeographic.org/",
-          "title": "National Geographic Society Newsroom"
-        },
-        {
-          "url": "https://popsugar.com/fitness/why-lexi-brumback-stopped-cheering-navarro-48685485",
-          "title": "Cheer: Why Did Lexi Brumback Leave Navarro? | PS Fitness"
-        },
-        {
-          "url": "https://purevolume.com/",
-          "title": "Pure Volume"
-        },
-        {
-          "url": "https://the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show",
-          "title": "Prince William, Kate and the kids in top secret visit to set of huge Amazon Prime Video show"
-        },
-        {
-          "url": "https://support.theguardian.com/subscribe/weekly",
-          "title": "The Guardian Weekly Subscriptions | The Guardian"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "nonprofit-social-services",
-      "bookmarks": [
-        {
-          "url": "https://weeecyprus.com.cy/el",
-          "title": "Αρχική - WEEE Cyprus"
+          "url": "https://www.capiusa.org/",
+          "title": "CAPI: Communities Advancing Prosperity for Immigrants"
         },
         {
           "url": "https://centrepoint.org.uk/",
           "title": "Centrepoint | Home"
+        },
+        {
+          "url": "https://www.fredrogers.org/",
+          "title": "Home - Fred Rogers Productions"
         },
         {
           "url": "https://goodweave.org/",
@@ -62,39 +24,47 @@
           "title": "Green Eletron -"
         },
         {
-          "url": "https://habitat.org/",
+          "url": "https://www.habitat.org/",
           "title": "Habitat for Humanity"
         },
         {
-          "url": "https://kaporcenter.org/",
+          "url": "http://kaporcenter.org",
           "title": "Homepage - Kapor Center"
         },
         {
-          "url": "https://missioncontinues.org/",
+          "url": "https://www.missioncontinues.org/",
           "title": "The Mission Continues - Volunteer Today | The Mission Continues"
         },
         {
-          "url": "https://nnwa.us/",
+          "url": "https://www.nnwa.us/",
           "title": "National NeighborWorks Association | National Neighborworks Association"
         },
         {
-          "url": "https://rwjf.org/",
-          "title": "Robert Wood Johnson Foundation | RWJF"
-        },
-        {
-          "url": "https://sverigesblabandsungdom.se/nyheter",
+          "url": "https://sverigesblabandsungdom.se/nyheter/page/6/",
           "title": "Nyheter - Sida 6 - Sveriges Blåbandsungdom"
         },
         {
-          "url": "https://uso.org/uso-stands-ready-to-support",
+          "url": "http://www.rwjf.org/",
+          "title": "Robert Wood Johnson Foundation | RWJF"
+        },
+        {
+          "url": "https://www.uso.org/uso-stands-ready-to-support",
           "title": "United Service Organizations"
+        },
+        {
+          "url": "https://www.weeecyprus.com.cy/el",
+          "title": "Αρχική - WEEE Cyprus"
         }
       ],
-      "count": 11
+      "count": 13
     },
     {
-      "name": "computer-science-web-dev",
+      "name": "tech-development",
       "bookmarks": [
+        {
+          "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+          "title": "3.1. Cross-validation: evaluating estimator performance - scikit-learn 1.7.2 documentation"
+        },
         {
           "url": "https://accounts.acm.org?redirectUri=%2Fdoi%2F10.1145%2F3328778.3366808",
           "title": "ACM Account"
@@ -104,172 +74,226 @@
           "title": "Browse Happy"
         },
         {
-          "url": "https://briansit.tumblr.com/post/139767572218",
-          "title": "Sure, If you say so. - codeorg: What we think of computer science is..."
+          "url": "https://www.deeplearningbook.org/",
+          "title": "Deep Learning"
         },
         {
-          "url": "https://emaildiscussions.com/showthread.php?p=620624",
-          "title": "How to add a new provider to the specific provider forums? - Page 2 - EmailDiscussions.com"
-        },
-        {
-          "url": "https://leafletjs.com/examples/quick-start",
-          "title": "Quick Start Guide - Leaflet - a JavaScript library for interactive maps"
-        },
-        {
-          "url": "https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&isCpeNameSearch=true&seach_type=all&query=cpe:2.3:a:python:urllib3:1.16:*:*:*:*:*:*:*",
-          "title": "NVD - Search and Statistics"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "design-home-decor-resources",
-      "bookmarks": [
-        {
-          "url": "https://desenio.se/sv/posters/storlekar-poster/stora-posters",
-          "title": "Stora tavlor i 70x100 cm | Moderna stora tavlor | Desenio.se"
+          "url": "https://mockuptree.com/free/awesome-paper-bag-mockup/",
+          "title": "Free Awesome Paper Bag Mockup | Mockuptree"
         },
         {
           "url": "https://graphicburger.com/",
           "title": "GraphicBurger"
         },
         {
-          "url": "https://mockuptree.com/free/awesome-paper-bag-mockup",
-          "title": "Free Awesome Paper Bag Mockup | Mockuptree"
+          "url": "https://about.grabyo.com/pt/grabyo-blog/?_page=7",
+          "title": "Grabyo Blog | Read the latest broadcast and media industry analysis"
         },
         {
-          "url": "https://trendspanarna.nu/tag/ginko-taklampa",
+          "url": "http://www.emaildiscussions.com/showthread.php?s=f9e7b65ce5923fa6c572c8e286ee3841&p=620624",
+          "title": "How to add a new provider to the specific provider forums? - Page 2 - EmailDiscussions.com"
+        },
+        {
+          "url": "https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&isCpeNameSearch=true&seach_type=all&query=cpe:2.3:a:python:urllib3:1.16:*:*:*:*:*:*:*",
+          "title": "NVD - Search and Statistics"
+        },
+        {
+          "url": "https://leafletjs.com/examples/quick-start/",
+          "title": "Quick Start Guide - Leaflet - a JavaScript library for interactive maps"
+        },
+        {
+          "url": "https://briansit.tumblr.com/post/139767572218",
+          "title": "Sure, If you say so. - codeorg: What we think of computer science is..."
+        },
+        {
+          "url": "https://klipper3d.org/Config_Reference.html",
+          "title": "Welcome - Klipper documentation"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.popsugar.com/fitness/why-lexi-brumback-stopped-cheering-navarro-48685485",
+          "title": "Cheer: Why Did Lexi Brumback Leave Navarro? | PS Fitness"
+        },
+        {
+          "url": "https://www.huffpost.com/",
+          "title": "HuffPost - Breaking News, Politics, Entertainment & Opinion"
+        },
+        {
+          "url": "https://larotative.info/spip.php?page=login&url=assises-de-la-maternelle-comment-2711.html&lang=fr",
+          "title": "La Rotative - Archives"
+        },
+        {
+          "url": "https://blog.nationalgeographic.org",
+          "title": "National Geographic Society Newsroom"
+        },
+        {
+          "url": "https://www.the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show/",
+          "title": "Prince William, Kate and the kids in top secret visit to set of huge Amazon Prime Video show"
+        },
+        {
+          "url": "https://www.purevolume.com/?safari=1",
+          "title": "Pure Volume"
+        },
+        {
+          "url": "https://www.sheknows.com/parenting/articles/2715373/tamron-hall-interview-motherhood-career/",
+          "title": "Tamron Hall Shares Her Childbirth Story"
+        },
+        {
+          "url": "https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerPageviewId%22%3A%22%22%2C%22referrerUrl%22%3A%22%22%7D",
+          "title": "The Guardian Weekly Subscriptions | The Guardian"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "shopping-products",
+      "bookmarks": [
+        {
+          "url": "https://www.king-werk.de/Zinnprodukte/Flaschendeckel/",
+          "title": "Flaschendeckel"
+        },
+        {
+          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
           "title": "ginko taklampa | Trendspanarna.nu"
+        },
+        {
+          "url": "https://www.otto.de/herren/mode/",
+          "title": "Herrenbekleidung online kaufen | OTTO"
+        },
+        {
+          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
+          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
+        },
+        {
+          "url": "https://www.carawayhome.com/products/large-baking-sheet/",
+          "title": "Large Baking Sheet | Best Non-Stick & Non-Toxic Sheet Pan | Caraway"
+        },
+        {
+          "url": "https://www.pinterest.com.au/koraorganics/_created/",
+          "title": "Pinterest"
+        },
+        {
+          "url": "https://www.joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
+          "title": "Rolling Facial Massager - Joanna Czech"
+        },
+        {
+          "url": "https://desenio.se/sv/posters/storlekar-poster/stora-posters?page=3",
+          "title": "Stora tavlor i 70x100 cm | Moderna stora tavlor | Desenio.se"
         }
       ],
-      "count": 4
+      "count": 8
     },
     {
-      "name": "government-public-policy",
-      "bookmarks": [
-        {
-          "url": "https://osc.gov/",
-          "title": "Home"
-        },
-        {
-          "url": "https://polisen.se/en/",
-          "title": "Startpage English - polisen.se | The Swedish Police Authority"
-        },
-        {
-          "url": "https://sfa.sc/",
-          "title": "Seychelles Fisheries Authority"
-        },
-        {
-          "url": "https://maryscullyreports.com/the-stresses-of-the-2016-elections-on-civility",
-          "title": "The stresses of the 2016 elections on civility | Mary Scully Reports"
-        },
-        {
-          "url": "https://voteannapaulina.com/platform",
-          "title": "Anna Paulina Luna for Congress"
-        },
-        {
-          "url": "https://wto.org/english/thewto_e/coher_e/mdg_e/mdg_e.htm",
-          "title": "WTO | The WTO and the Millennium Development Goals"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "social-justice-advocacy",
-      "bookmarks": [
-        {
-          "url": "https://capiusa.org/",
-          "title": "CAPI: Communities Advancing Prosperity for Immigrants"
-        },
-        {
-          "url": "https://census.gov/library/stories/2021/01/women-making-gains-in-stem-occupations-but-still-underrepresented.html",
-          "title": "Women Making Gains in STEM Occupations but Still Underrepresented"
-        },
-        {
-          "url": "https://everytown.org/",
-          "title": "Home | Everytown"
-        },
-        {
-          "url": "https://legalmomentum.org/",
-          "title": "Welcome | Legal Momentum"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "ai-ml-resources",
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://allenai.org/business-code-of-conduct",
           "title": "Business partner code of conduct | Ai2"
         },
         {
-          "url": "https://deeplearningbook.org/",
-          "title": "Deep Learning"
-        },
-        {
-          "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
-          "title": "3.1. Cross-validation: evaluating estimator performance - scikit-learn 1.7.2 documentation"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "business-corporate-finance",
-      "bookmarks": [
-        {
-          "url": "https://hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=22066181",
-          "title": "Podcast - Managing the Future of Work - Harvard Business School"
-        },
-        {
-          "url": "https://ul.com/services/certification",
+          "url": "https://www.ul.com/services/certification",
           "title": "Certification | UL Solutions"
         },
         {
-          "url": "https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/InvestorPresentation.pptx",
+          "url": "https://plex.tv/contact",
+          "title": "Contact | Plex"
+        },
+        {
+          "url": "https://www.daveandbusters.com/",
+          "title": "Dave & Buster's | Events - Arcade - Sports Bar and Restaurant"
+        },
+        {
+          "url": "https://www.epix.com/privacy-policy",
+          "title": "MGM+ | Privacy Policy"
+        },
+        {
+          "url": "https://www.plex.tv",
+          "title": "Stream Movies & Find Shows On The Best Streaming Services"
+        },
+        {
+          "url": "http://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/InvestorPresentation.pptx?version=6ff579c4-103e-76c0-8a18-05085e0632c7",
           "title": "void"
         }
       ],
-      "count": 3
+      "count": 7
     },
     {
-      "name": "education-university-k12",
+      "name": "politics-society",
       "bookmarks": [
         {
-          "url": "https://fredrogers.org/",
-          "title": "Home - Fred Rogers Productions"
+          "url": "https://www.voteannapaulina.com/platform",
+          "title": "Anna Paulina Luna for Congress"
         },
         {
-          "url": "https://unipd.it/",
-          "title": "Università di Padova"
+          "url": "https://everytown.org/",
+          "title": "Home | Everytown"
         },
         {
-          "url": "https://student.mak.ac.ug/",
-          "title": "ACMIS Students Portal"
+          "url": "https://www.maryscullyreports.com/the-stresses-of-the-2016-elections-on-civility/",
+          "title": "The stresses of the 2016 elections on civility | Mary Scully Reports"
+        },
+        {
+          "url": "https://www.legalmomentum.org/",
+          "title": "Welcome | Legal Momentum"
+        },
+        {
+          "url": "https://www.census.gov/library/stories/2021/01/women-making-gains-in-stem-occupations-but-still-underrepresented.html",
+          "title": "Women Making Gains in STEM Occupations but Still Underrepresented"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "fashion-beauty-products",
+      "name": "hobbies-interests",
       "bookmarks": [
         {
-          "url": "https://joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
-          "title": "Rolling Facial Massager - Joanna Czech"
+          "url": "http://www.mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7340&lang=PT",
+          "title": "Centro de Investigação & Informação da Música Portuguesa"
         },
         {
-          "url": "https://meitani.gr/el/bytype/pendants/sxk167008",
-          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
+          "url": "https://www.bonappetit.com/recipe/garlic-confit",
+          "title": "Garlic Confit Recipe | Bon Appétit"
         },
         {
-          "url": "https://otto.de/herren/mode",
-          "title": "Herrenbekleidung online kaufen | OTTO"
+          "url": "http://www.lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
+          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
+        },
+        {
+          "url": "https://astrologie.aufeminin.com/forum/je-viens-de-faire-une-rencontre-fd4899550",
+          "title": "Je viens de faire une rencontre...."
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "personal-lifestyle-content",
+      "name": "organizations-government",
+      "bookmarks": [
+        {
+          "url": "https://osc.gov/",
+          "title": "Home"
+        },
+        {
+          "url": "http://www.sfa.sc/",
+          "title": "Seychelles Fisheries Authority"
+        },
+        {
+          "url": "https://polisen.se/en/",
+          "title": "Startpage English - polisen.se | The Swedish Police Authority"
+        },
+        {
+          "url": "http://www.wto.org/english/thewto_e/coher_e/mdg_e/mdg_e.htm",
+          "title": "WTO | The WTO and the Millennium Development Goals"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "blogs-personal",
       "bookmarks": [
         {
           "url": "https://rhawkins20-blog-blog-blog.tumblr.com/",
@@ -280,67 +304,39 @@
           "title": "Ecclectic Collection"
         },
         {
-          "url": "https://pinterest.com.au/koraorganics/_created",
-          "title": "Pinterest"
-        },
-        {
-          "url": "https://sheknows.com/parenting/articles/2715373/tamron-hall-interview-motherhood-career",
-          "title": "Tamron Hall Shares Her Childbirth Story"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "streaming-services-info",
-      "bookmarks": [
-        {
-          "url": "https://epix.com/privacy-policy",
-          "title": "MGM+ | Privacy Policy"
-        },
-        {
-          "url": "https://plex.tv/contact",
-          "title": "Contact | Plex"
-        },
-        {
-          "url": "https://plex.tv/",
-          "title": "Stream Movies & Find Shows On The Best Streaming Services"
+          "url": "https://anttisorri.wordpress.com/2020/09/01/tyovaenkirjallisuuden-paivilla-5-9-20-luku-on-iloinen/",
+          "title": "Työväenkirjallisuuden päivillä 5.9. 20-luku on iloinen? - Sinisten ajatusten hautausmaa"
         }
       ],
       "count": 3
     },
     {
-      "name": "cooking-baking-resources",
+      "name": "education",
       "bookmarks": [
         {
-          "url": "https://bonappetit.com/recipe/garlic-confit",
-          "title": "Garlic Confit Recipe | Bon Appétit"
+          "url": "https://student.mak.ac.ug/",
+          "title": "ACMIS Students Portal"
         },
         {
-          "url": "https://carawayhome.com/products/large-baking-sheet",
-          "title": "Large Baking Sheet | Best Non-Stick & Non-Toxic Sheet Pan | Caraway"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "culture-arts-literature",
-      "bookmarks": [
-        {
-          "url": "https://anttisorri.wordpress.com/2020/09/01/tyovaenkirjallisuuden-paivilla-5-9-20-luku-on-iloinen",
-          "title": "Työväenkirjallisuuden päivillä 5.9. 20-luku on iloinen? - Sinisten ajatusten hautausmaa"
+          "url": "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=22066181",
+          "title": "Podcast - Managing the Future of Work - Harvard Business School"
         },
         {
-          "url": "https://mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7340&lang=PT",
-          "title": "Centro de Investigação & Informação da Música Portuguesa"
+          "url": "http://www.unipd.it/",
+          "title": "Università di Padova"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "health-wellness-medical",
+      "name": "lifestyle-health",
       "bookmarks": [
         {
-          "url": "https://betterlifestyle.eu/sunny-studio",
+          "url": "https://www.elitesingles.com/",
+          "title": "EliteSingles | One of the best dating sites for educated singles"
+        },
+        {
+          "url": "https://betterlifestyle.eu/sunny-studio/",
           "title": "Sunny Studio - Betterlifestyle"
         },
         {
@@ -348,37 +344,9 @@
           "title": "void"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "hobbies-crafts-diy",
-      "bookmarks": [
-        {
-          "url": "https://king-werk.de/zinnprodukte/flaschendeckel",
-          "title": "Flaschendeckel"
-        },
-        {
-          "url": "https://lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
-          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "relationships-dating-guides",
-      "bookmarks": [
-        {
-          "url": "https://astrologie.aufeminin.com/forum/je-viens-de-faire-une-rencontre-fd4899550",
-          "title": "Je viens de faire une rencontre...."
-        },
-        {
-          "url": "https://elitesingles.com/",
-          "title": "EliteSingles | One of the best dating sites for educated singles"
-        }
-      ],
-      "count": 2
+      "count": 3
     }
   ],
   "total_bookmarks": 70,
-  "num_folders": 18
+  "num_folders": 11
 }

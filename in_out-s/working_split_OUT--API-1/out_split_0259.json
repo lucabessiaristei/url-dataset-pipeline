@@ -1,81 +1,11 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
-      "bookmarks": [
-        {
-          "url": "https://www.airqo.net/",
-          "title": "AirQo | Bridging the Air Quality Data Gap in Africa - Real-time Monitoring Network | AirQo"
-        },
-        {
-          "url": "https://borderhumanity.soapboxx.com/category/639b33081b3ddc804109447b",
-          "title": "Border Humanity Project - Category - Why We Welcome"
-        },
-        {
-          "url": "https://www.solid-ground.org/",
-          "title": "Home Page - Solid Ground"
-        },
-        {
-          "url": "https://www.msc.org/",
-          "title": "Italia Pesca Certificata | Marine Stewardship Council"
-        },
-        {
-          "url": "http://www.ywcaweekwithoutviolence.org/",
-          "title": "National Campaigns - YWCA - YWCA"
-        },
-        {
-          "url": "https://nvbdc.org/",
-          "title": "National Veteran Business Development Council Certification"
-        },
-        {
-          "url": "https://www.wcs.org/our-work/places",
-          "title": "Our Priority Regions - WCS.org"
-        },
-        {
-          "url": "http://www.rekopol.pl",
-          "title": "REKOPOL Organizacja Odzysku Opakowań S.A."
-        },
-        {
-          "url": "https://thatwaterbeadlady.org/",
-          "title": "Small and Deadly Danger, Water Bead Education, Water Beads - That Water Bead Lady - San Antonio, Texas"
-        },
-        {
-          "url": "https://cos2022.sites.stanford.edu/people/staff",
-          "title": "Staff | Center for Ocean Solutions"
-        },
-        {
-          "url": "https://unitedforwildlife.org/",
-          "title": "United for Wildlife - Ending the Illegal Wildlife Trade - United for Wildlife"
-        },
-        {
-          "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
-          "title": "Online Learning Tools for Immigrant Job Seekers"
-        },
-        {
-          "url": "http://waittinstitute.org/",
-          "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
-        },
-        {
-          "url": "https://youngaudiences.org/",
-          "title": "Young Audiences | Arts for Learning - National Organization"
-        },
-        {
-          "url": "https://www.ywcadayton.org/",
-          "title": "YWCA Dayton | Domestic Violence Shelter & Rape Crisis Center"
-        }
-      ],
-      "count": 15
-    },
-    {
-      "name": "news-articles",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://www.uncut.co.uk/news/arctic-monkeys-alex-turner-i-want-to-start-writing-follow-up-to-suck-it-and-see-31195/",
           "title": "Arctic Monkeys' Alex Turner: 'I want to start writing follow-up to 'Suck It And See'' - UNCUT"
-        },
-        {
-          "url": "https://revistabyte.es/tag/checkpoint/",
-          "title": "checkpoint Archivos »"
         },
         {
           "url": "https://www.tucsonweekly.com/tucson/home-run/Content?oid=22907546",
@@ -102,6 +32,10 @@
           "title": "News | Cranbrook Daily Townsman"
         },
         {
+          "url": "https://www.kathimerini.gr/politics/",
+          "title": "ΠΟΛΙΤΙΚΗ | Η ΚΑΘΗΜΕΡΙΝΗ"
+        },
+        {
           "url": "https://www.rawstory.com/",
           "title": "Raw Story - Celebrating 20 Years of Independent Journalism"
         },
@@ -110,77 +44,121 @@
           "title": "Samuel L. Jackson has no regrets. Except maybe for the Oscars - Los Angeles Times"
         },
         {
+          "url": "https://www.nytimes.com/section/world",
+          "title": "World News - The New York Times"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "non-profit-social-services",
+      "bookmarks": [
+        {
+          "url": "https://borderhumanity.soapboxx.com/category/639b33081b3ddc804109447b",
+          "title": "Border Humanity Project - Category - Why We Welcome"
+        },
+        {
+          "url": "https://www.solid-ground.org/",
+          "title": "Home Page - Solid Ground"
+        },
+        {
+          "url": "http://www.ywcaweekwithoutviolence.org/",
+          "title": "National Campaigns - YWCA - YWCA"
+        },
+        {
+          "url": "https://nvbdc.org/",
+          "title": "National Veteran Business Development Council Certification"
+        },
+        {
+          "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
+          "title": "Online Learning Tools for Immigrant Job Seekers"
+        },
+        {
           "url": "https://www.brettonwoodsproject.org/2011/09/art-569035/",
           "title": "Scaling up Climate Finance - Bretton Woods Project"
         },
         {
-          "url": "https://www.nytimes.com/section/world",
-          "title": "World News - The New York Times"
+          "url": "https://thatwaterbeadlady.org/",
+          "title": "Small and Deadly Danger, Water Bead Education, Water Beads - That Water Bead Lady - San Antonio, Texas"
         },
         {
-          "url": "https://www.kathimerini.gr/politics/",
-          "title": "ΠΟΛΙΤΙΚΗ | Η ΚΑΘΗΜΕΡΙΝΗ"
+          "url": "https://youngaudiences.org/",
+          "title": "Young Audiences | Arts for Learning - National Organization"
+        },
+        {
+          "url": "https://www.ywcadayton.org/",
+          "title": "YWCA Dayton | Domestic Violence Shelter & Rape Crisis Center"
         }
       ],
-      "count": 13
+      "count": 9
     },
     {
-      "name": "companies-services",
+      "name": "corporate-pages",
       "bookmarks": [
         {
-          "url": "https://www.airbnb.com/",
-          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences"
+          "url": "https://www.airqo.net/",
+          "title": "AirQo | Bridging the Air Quality Data Gap in Africa - Real-time Monitoring Network | AirQo"
         },
         {
           "url": "https://www.coned.com/en",
           "title": "Con Edison - Powering New York City and Westchester"
         },
         {
-          "url": "https://roundingsquares.com/",
-          "title": "Home - Rounding Squares"
-        },
-        {
-          "url": "https://www.jovanalouis.com/",
-          "title": "Jovana Louis"
+          "url": "https://foursquare.com/",
+          "title": "The Future of Geospatial Technology | Foursquare"
         },
         {
           "url": "https://newsroom.it.paypal-corp.com/",
           "title": "PayPal Newsroom - Home"
         },
         {
-          "url": "http://ureeka.biz/",
-          "title": "Start & Grow Your Business with the ZenBusiness Platform"
+          "url": "http://www.rekopol.pl",
+          "title": "REKOPOL Organizacja Odzysku Opakowań S.A."
+        },
+        {
+          "url": "https://roundingsquares.com/",
+          "title": "Home - Rounding Squares"
         },
         {
           "url": "http://www.imbdc.com/",
           "title": "Thanks for visiting! | imbdc 2020 site"
-        },
-        {
-          "url": "https://foursquare.com/",
-          "title": "The Future of Geospatial Technology | Foursquare"
-        },
-        {
-          "url": "https://www.twitch.tv",
-          "title": "Twitch"
         }
       ],
-      "count": 9
+      "count": 7
     },
     {
-      "name": "developer-resources",
+      "name": "software-tools",
       "bookmarks": [
         {
-          "url": "https://android-developers.googleblog.com/search/label/Google%20Play",
-          "title": "Android Developers Blog: Google Play"
+          "url": "https://www.blackrock.com/aladdin",
+          "title": "Aladdin® by BlackRock - software for portfolio management"
         },
         {
           "url": "https://carbon.now.sh/",
           "title": "Carbon | Create and share beautiful images of your source code"
         },
         {
-          "url": "https://blog.code.org/post/125429946375/cs-other-subjects",
-          "title": "Code.org - Medium"
+          "url": "https://it.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Italia"
         },
+        {
+          "url": "https://iconer.app/",
+          "title": "Iconer: Free Icons for Everything (SVG, PNG, JSX)"
+        },
+        {
+          "url": "https://tivimax.web.app",
+          "title": "TiviMax IPTV Player"
+        },
+        {
+          "url": "http://www.tgrmn.com/",
+          "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "tech-documentation",
+      "bookmarks": [
         {
           "url": "https://docs.github.com/en/get-started/quickstart/hello-world",
           "title": "Hello World - GitHub Docs"
@@ -194,118 +172,22 @@
           "title": "Quantum Mechanical Keyboard Firmware | QMK Firmware"
         },
         {
-          "url": "https://developer.github.com/changes/2018-05-24-user-migration-api/",
-          "title": "User Migration API public beta | GitHub Developer Guide"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "design-crafts",
-      "bookmarks": [
-        {
-          "url": "https://staceyleephotography.net/declan-millersville-maryland-childrens-photographer/",
-          "title": "Declan {Millersville, Maryland Children's Photographer} - StaceyLee Photography"
-        },
-        {
-          "url": "http://www.emigre.com/",
-          "title": "Emigre: Fonts"
-        },
-        {
-          "url": "https://glazy.org/articles/understanding-seger-unity",
-          "title": "Glazy"
-        },
-        {
-          "url": "https://iconer.app/",
-          "title": "Iconer: Free Icons for Everything (SVG, PNG, JSX)"
-        },
-        {
-          "url": "https://it.vecteezy.com/foto/1178347-sms-con-smartphone",
-          "title": "Scarica Vettori, Immagini, Foto e Video Gratuiti"
-        },
-        {
-          "url": "https://typography-daily.com/",
-          "title": "Typography Daily"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "events-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://aquarium.ucsd.edu/visit/buy-tickets",
-          "title": "Birch Aquarium School Programs - Birch Aquarium at Scripps eTicketing"
-        },
-        {
-          "url": "https://www.springtrainingonline.com/teams/chicago-cubs.htm",
-          "title": "Chicago Cubs Spring Training - Spring Training Online"
-        },
-        {
-          "url": "http://www.chrisjerichocruise.com/",
-          "title": "Chris Jericho's Rock 'N' Wrestling Rager at Sea"
-        },
-        {
-          "url": "https://dreamscapeimmersive.com/",
-          "title": "Dreamscape - A Virtual Reality Experience Like No Other"
-        },
-        {
-          "url": "http://txshowdown.com/",
-          "title": "Texas Showdown 2026 - The Premier Texas Tournament - Now in its 25th Anniversary!"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "reference-education",
-      "bookmarks": [
-        {
-          "url": "https://eductors.net/jet-pump-application-sheet/",
-          "title": "Jet Pump Application Sheet"
-        },
-        {
-          "url": "https://about.medium.com/creators/?source=---two_column_layout_sidebar----------------------------------",
-          "title": "Medium Partner Program"
-        },
-        {
-          "url": "https://skillshop.exceedlms.com/student/catalog/list?category_ids=319-search-ads-360&difficulty[]=3",
-          "title": "Search Ads 360 : Google"
-        },
-        {
-          "url": "https://thesaurus.yourdictionary.com/wildest",
-          "title": "Wildest Synonyms: 39 Synonyms and Antonyms for Wildest | YourDictionary.com"
-        },
-        {
-          "url": "https://phdtheses.ekt.gr/eadd/handle/10442/28346",
-          "title": "Ακραία υδρομετεωρολογικά φαινόμενα και επίδραση της κλιματικής μεταβολής στην εξέλιξή τους: εφαρμογή στην περιοχή της Κρήτης"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "ai-ml",
-      "bookmarks": [
-        {
-          "url": "https://www.arxiv-vanity.com/papers/1605.06764/",
-          "title": "[1605.06764] 3D Face Tracking and Texture Fusion in the Wild"
-        },
-        {
-          "url": "https://ai.googleblog.com/",
-          "title": "Latest News from Google Research Blog - Google Research"
-        },
-        {
           "url": "https://lightgbm.readthedocs.io/en/stable/Quick-Start.html",
           "title": "Quick Start - LightGBM 4.6.0 documentation"
         },
         {
           "url": "https://huggingface.co/docs/transformers/index",
           "title": "Transformers"
+        },
+        {
+          "url": "https://developer.github.com/changes/2018-05-24-user-migration-api/",
+          "title": "User Migration API public beta | GitHub Developer Guide"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "blogs-misc",
+      "name": "blogs-reference",
       "bookmarks": [
         {
           "url": "https://www.avma.org/blog",
@@ -322,12 +204,16 @@
         {
           "url": "https://indriel.no/heftige-midtsommer-energier-og-tarotkortet-skjebnehjulet-alt-henger-sammen/",
           "title": "HEFTIGE MIDTSOMMER ENERGIER OG TAROTKORTET SKJEBNEHJULET. ALT HENGER SAMMEN! - Indriel Body & Soul"
+        },
+        {
+          "url": "https://thesaurus.yourdictionary.com/wildest",
+          "title": "Wildest Synonyms: 39 Synonyms and Antonyms for Wildest | YourDictionary.com"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "products-ecommerce",
+      "name": "e-commerce",
       "bookmarks": [
         {
           "url": "https://agrobolder.com/products/bobina-50",
@@ -344,34 +230,196 @@
         {
           "url": "https://www.harrys.com/en/us",
           "title": "Harry's. Quality Shaving Grooming Products, at a Fair Price | Harry's"
+        },
+        {
+          "url": "https://www.jovanalouis.com/",
+          "title": "Jovana Louis"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "software-products",
+      "name": "non-profit-conservation",
       "bookmarks": [
         {
-          "url": "https://www.blackrock.com/aladdin",
-          "title": "Aladdin® by BlackRock - software for portfolio management"
+          "url": "https://www.msc.org/",
+          "title": "Italia Pesca Certificata | Marine Stewardship Council"
         },
         {
-          "url": "https://it.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Italia"
+          "url": "https://www.wcs.org/our-work/places",
+          "title": "Our Priority Regions - WCS.org"
         },
         {
-          "url": "https://tivimax.web.app",
-          "title": "TiviMax IPTV Player"
+          "url": "https://cos2022.sites.stanford.edu/people/staff",
+          "title": "Staff | Center for Ocean Solutions"
         },
         {
-          "url": "http://www.tgrmn.com/",
-          "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
+          "url": "https://unitedforwildlife.org/",
+          "title": "United for Wildlife - Ending the Illegal Wildlife Trade - United for Wildlife"
+        },
+        {
+          "url": "http://waittinstitute.org/",
+          "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "services-general",
+      "bookmarks": [
+        {
+          "url": "https://www.airbnb.com/",
+          "title": "Airbnb: Vacation Rentals, Cabins, Beach Houses, Unique Homes & Experiences"
+        },
+        {
+          "url": "https://www.springtrainingonline.com/teams/chicago-cubs.htm",
+          "title": "Chicago Cubs Spring Training - Spring Training Online"
+        },
+        {
+          "url": "https://staceyleephotography.net/declan-millersville-maryland-childrens-photographer/",
+          "title": "Declan {Millersville, Maryland Children's Photographer} - StaceyLee Photography"
+        },
+        {
+          "url": "https://skillshop.exceedlms.com/student/catalog/list?category_ids=319-search-ads-360&difficulty[]=3",
+          "title": "Search Ads 360 : Google"
+        },
+        {
+          "url": "http://ureeka.biz/",
+          "title": "Start & Grow Your Business with the ZenBusiness Platform"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "web-platforms-misc",
+      "bookmarks": [
+        {
+          "url": "https://youradchoices.ca/en/tools",
+          "title": "Opt-Out Tools - AdChoices in Canada"
+        },
+        {
+          "url": "https://www.redditinc.com/policies/privacy-policy",
+          "title": "Reddit - The heart of the internet"
+        },
+        {
+          "url": "https://www.twitch.tv",
+          "title": "Twitch"
+        },
+        {
+          "url": "http://www.neotipi.it/",
+          "title": "void"
+        },
+        {
+          "url": "https://about.medium.com/creators/?source=---two_column_layout_sidebar----------------------------------",
+          "title": "Medium Partner Program"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-academia",
+      "bookmarks": [
+        {
+          "url": "https://www.arxiv-vanity.com/papers/1605.06764/",
+          "title": "[1605.06764] 3D Face Tracking and Texture Fusion in the Wild"
+        },
+        {
+          "url": "https://aquarium.ucsd.edu/visit/buy-tickets",
+          "title": "Birch Aquarium School Programs - Birch Aquarium at Scripps eTicketing"
+        },
+        {
+          "url": "https://www.ucsc.edu/tools/people.html",
+          "title": "Find people - UC Santa Cruz"
+        },
+        {
+          "url": "https://phdtheses.ekt.gr/eadd/handle/10442/28346",
+          "title": "Ακραία υδρομετεωρολογικά φαινόμενα και επίδραση της κλιματικής μεταβολής στην εξέλιξή τους: εφαρμογή στην περιοχή της Κρήτης"
         }
       ],
       "count": 4
     },
     {
-      "name": "government",
+      "name": "tech-news-blogs",
+      "bookmarks": [
+        {
+          "url": "https://android-developers.googleblog.com/search/label/Google%20Play",
+          "title": "Android Developers Blog: Google Play"
+        },
+        {
+          "url": "https://revistabyte.es/tag/checkpoint/",
+          "title": "checkpoint Archivos »"
+        },
+        {
+          "url": "https://blog.code.org/post/125429946375/cs-other-subjects",
+          "title": "Code.org - Medium"
+        },
+        {
+          "url": "https://ai.googleblog.com/",
+          "title": "Latest News from Google Research Blog - Google Research"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "tools-specialized",
+      "bookmarks": [
+        {
+          "url": "https://glazy.org/articles/understanding-seger-unity",
+          "title": "Glazy"
+        },
+        {
+          "url": "https://eductors.net/jet-pump-application-sheet/",
+          "title": "Jet Pump Application Sheet"
+        },
+        {
+          "url": "https://katalog.skd.museum/Search/Results?filter%5B%5D=~institution%3A%22DE-L228%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-referencebooks%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-techniquefinearts%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-studiesbooksmanuscripts%22&filter%5B%5D=format_de15%3A%22Software%22&filter%5B%5D=-mega_collection%3A%22Verbunddaten+SWB%22&dfApplied=1&type=AllFields",
+          "title": "Suchergebnisse :: Staatliche Kunstsammlungen Dresden, Kunstbibliothek"
+        },
+        {
+          "url": "https://www.windy.com/",
+          "title": "Windy: Wind map & weather forecast"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "design-resources",
+      "bookmarks": [
+        {
+          "url": "http://www.emigre.com/",
+          "title": "Emigre: Fonts"
+        },
+        {
+          "url": "https://it.vecteezy.com/foto/1178347-sms-con-smartphone",
+          "title": "Scarica Vettori, Immagini, Foto e Video Gratuiti"
+        },
+        {
+          "url": "https://typography-daily.com/",
+          "title": "Typography Daily"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "entertainment-events",
+      "bookmarks": [
+        {
+          "url": "http://www.chrisjerichocruise.com/",
+          "title": "Chris Jericho's Rock 'N' Wrestling Rager at Sea"
+        },
+        {
+          "url": "https://dreamscapeimmersive.com/",
+          "title": "Dreamscape - A Virtual Reality Experience Like No Other"
+        },
+        {
+          "url": "http://txshowdown.com/",
+          "title": "Texas Showdown 2026 - The Premier Texas Tournament - Now in its 25th Anniversary!"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "government-data",
       "bookmarks": [
         {
           "url": "http://data.saccounty.net/",
@@ -387,54 +435,6 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "tools",
-      "bookmarks": [
-        {
-          "url": "https://www.ucsc.edu/tools/people.html",
-          "title": "Find people - UC Santa Cruz"
-        },
-        {
-          "url": "https://youradchoices.ca/en/tools",
-          "title": "Opt-Out Tools - AdChoices in Canada"
-        },
-        {
-          "url": "https://www.windy.com/",
-          "title": "Windy: Wind map & weather forecast"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "legal-policies",
-      "bookmarks": [
-        {
-          "url": "https://www.redditinc.com/policies/privacy-policy",
-          "title": "Reddit - The heart of the internet"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-parked",
-      "bookmarks": [
-        {
-          "url": "http://www.neotipi.it/",
-          "title": "void"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "museums-art",
-      "bookmarks": [
-        {
-          "url": "https://katalog.skd.museum/Search/Results?filter%5B%5D=~institution%3A%22DE-L228%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-referencebooks%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-techniquefinearts%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-studiesbooksmanuscripts%22&filter%5B%5D=format_de15%3A%22Software%22&filter%5B%5D=-mega_collection%3A%22Verbunddaten+SWB%22&dfApplied=1&type=AllFields",
-          "title": "Suchergebnisse :: Staatliche Kunstsammlungen Dresden, Kunstbibliothek"
-        }
-      ],
-      "count": 1
     }
   ],
   "total_bookmarks": 85,

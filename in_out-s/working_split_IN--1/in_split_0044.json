@@ -61,12 +61,6 @@
       "preview": "Hopp til innhold Om våre billetter Se alle billettyper vi har og se hvor du kan kjøpe billett. Husk å kjøpe billett før du går om bord. Enkeltbillett"
     },
     {
-      "url": "https://www.mochu.com.tw/products/%E8%B2%B4%E6%97%8F%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%A5%97%E8%A3%9D",
-      "title": "Mochu童裝",
-      "description": "Mochu童裝",
-      "preview": "{{ 'fb_in_app_browser_popup.desc' | translate }} {{ 'fb_in_app_browser_popup.copy_link' | translate }} {{ 'close' | translate }} {{ 'in_app_browser_po"
-    },
-    {
       "url": "https://www.gov.uk/guidance/the-blue-belt-programme",
       "title": "The Blue Belt Programme - GOV.UK",
       "description": "The Blue Belt Programme supports the UK Overseas Territories with the protection and sustainable management of their marine environments.",
@@ -197,12 +191,6 @@
       "title": "Hope Spots® - Mission Blue",
       "description": "Hope Spots® are special places that are scientifically identified as critical to the health of the ocean. Our Hope Spots® are championed by local conservationists whom we support with communications, expeditions and scientific advisory. I wish you would use all means at your disposal - films, expeditions, the web, new submarines, campaigns - to ignite [...]Read More...",
       "preview": "Skip to content Subscribe Now! × Please verify that you are human. Leave this field empty if you're human: Hope Spots® are special places that are sci"
-    },
-    {
-      "url": "https://www.tkqlhce.com/click-8479616-11570746?url=https%3A%2F%2Fchicagotribune.newspapers.com%3Fxid%3D2301%26utm_campaign%3Devergreen%26utm_medium%3Dreferral%26utm_source%3Dnavigation%26utm_content%3D%26utm_term%3DChicago%20Tribune",
-      "title": "The past: read all about it.",
-      "description": "The largest online newspaper archive. Used by millions every month for historical research, family history, crime investigations, journalism, and more.",
-      "preview": "Javascript required: We're sorry, but Newspapers.com doesn't work properly without JavaScript enabled. You will need to enable Javascript by changing"
     },
     {
       "url": "https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html",
@@ -554,6 +542,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 92
+    "total_bookmarks": 90
   }
 }

@@ -4,9 +4,9 @@ import json
 import argparse
 
 # === CONFIG ===
-OUT_DIR = "./in_out-s/working_split_OUT--API-1"
-DELETE_SINGLE_THRESHOLD = 3  # più di 3 cartelle con 1 bookmark
-DELETE_DOUBLE_THRESHOLD = 6  # più di 5 cartelle con 2 bookmark
+OUT_DIR = "./in_out-s/working_split_OUT--API-2"
+DELETE_SINGLE_THRESHOLD = 3
+DELETE_DOUBLE_THRESHOLD = 4
 
 # === ARGPARSE ===
 parser = argparse.ArgumentParser(description="Delete output JSONs with too many small folders")
