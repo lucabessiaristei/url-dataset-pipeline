@@ -89,8 +89,8 @@
       <div class="sub" id="sub">Loading…</div>
     </div>
     <nav class="actions">
-      <button class="btn primary" id="runBtn" disabled>Run now</button>
-      <button class="btn" id="stopBtn" disabled>Stop</button>
+      <button class="btn primary" id="resumeBtn" disabled>Resume</button>
+      <button class="btn" id="pauseBtn" disabled title="Stops the generator until you resume it; finished files are kept">Pause</button>
       <a class="btn" href="api/download" title="Inputs, outputs and report as .tar.gz">Download dataset</a>
     </nav>
   </header>
@@ -104,12 +104,12 @@
   </details>
 
   <details class="sec" id="sec-progress" open>
-    <summary><h2>Progress per directory</h2><span class="meta" id="progressMeta"></span></summary>
+    <summary><h2>Progress per input folder</h2><span class="meta" id="progressMeta"></span></summary>
     <div id="progress"></div>
   </details>
 
   <details class="sec" id="sec-last" open>
-    <summary><h2>Last run</h2><span class="meta" id="lastMeta"></span></summary>
+    <summary><h2>Last 24 hours</h2><span class="meta" id="lastMeta"></span></summary>
     <div id="last"></div>
   </details>
 
@@ -124,7 +124,7 @@
   </details>
 
   <details class="sec" id="sec-log">
-    <summary><h2>Run log</h2><span class="meta" id="logMeta"></span></summary>
+    <summary><h2>Log</h2><span class="meta" id="logMeta"></span></summary>
     <pre class="log" id="log"></pre>
   </details>
 
@@ -146,7 +146,7 @@ const FACES = {
 };
 const STATE_FACE = {
   processing: "work", done: "idle", idle: "idle",
-  cooldown: "sleep", waiting: "sleep", retired: "sleep", stopped: "sleep",
+  cooldown: "sleep", waiting: "sleep", paused: "sleep", retired: "sleep", stopped: "sleep",
 };
 let frame = 0;
 const faceText = (kind) => FACES[kind][frame % FACES[kind].length];
@@ -162,12 +162,12 @@ if (!reduceMotion) {
 // What the worker is doing, or why the file it just had failed
 const workerNote = (w) => {
   if (["rejected", "error"].includes(w.state) && w.note) return `${w.file || "-"}: ${w.note}`;
-  if (["retired", "cooldown", "waiting"].includes(w.state) && w.note) return w.note;
+  if (["retired", "paused", "cooldown", "waiting"].includes(w.state) && w.note) return w.note;
   return w.file || "-";
 };
 const STATE_TAGS = {
   processing: "ok", done: "ok", skipped: "", idle: "", waiting: "warn", cooldown: "warn",
-  rejected: "warn", error: "err", retired: "err", stopped: "",
+  rejected: "warn", error: "err", paused: "warn", retired: "err", stopped: "",
 };
 
 // Collapsed/expanded sections are remembered across visits
@@ -182,32 +182,38 @@ async function call(path, method = "GET") {
   return res.json();
 }
 
-function renderState(s) {
-  const r = s.runner, st = s.status, last = s.last_run;
-  const live = r.running && st && !st.finished;
-  $("sub").innerHTML = esc(r.running
-    ? (r.stopping ? "Stopping… finished files are kept" : `Running for ${ago(r.started)} (${r.reason})`)
-    : `Waiting · next run ${time(r.next_run)} · daily at ${s.options.daily_start}, up to ${s.options.max_hours} h`)
-    + face(r.running && !r.stopping ? "work" : "sleep");
-  $("runBtn").disabled = r.running;
-  $("stopBtn").disabled = !r.running || r.stopping;
+const days = (d) => d < 1 ? `${Math.round(d * 24)} h` : `${d.toFixed(1)} days`;
 
+function renderState(s) {
+  const r = s.runner, st = s.status, rec = s.recent || { done: 0, per_hour: 0, models: {} };
+  const live = r.running && st && !st.finished;
   const total = s.progress.reduce((a, p) => a + p.total, 0);
   const done = s.progress.reduce((a, p) => a + p.done, 0);
+  const left = total - done;
+  const eta = rec.done ? days(left / rec.done) : "-";
+  const paused = (st && st.paused) || [];
+  const stateText = r.paused ? "Paused" : r.running ? (r.stopping ? "Stopping" : "Running") : "Restarting";
+
+  $("sub").innerHTML = esc(r.paused ? "Paused from the panel · press Resume to continue"
+    : r.running ? `Running continuously since ${time(r.started)} · ${rec.per_hour} files/h over the last 24 h`
+    : `Not running (last exit ${r.last_exit ?? "-"}) · the app restarts it automatically`)
+    + face(live && !r.stopping ? "work" : "sleep");
+  $("resumeBtn").disabled = !r.paused;
+  $("pauseBtn").disabled = r.paused || !r.running;
+
   $("cards").innerHTML = [
-    ["Status", r.running ? (r.stopping ? "Stopping" : "Running") : "Waiting",
-      r.running ? `since ${time(r.started)}` : `next ${time(r.next_run)}`,
-      r.running && !r.stopping ? "work" : "sleep"],
+    ["Status", stateText, r.running ? `since ${time(r.started)}` : (r.paused ? "until you resume" : "restarting soon"),
+      live && !r.stopping ? "work" : "sleep"],
     ["Dataset", `${total ? Math.floor(done * 100 / total) : 0}%`, `${num(done)} / ${num(total)} files`],
-    ["This run", live ? num(st.done_total) : "-", live ? `${st.dir.replace("working_split_", "")} · ${num(st.rejected)} rejected · ${num(st.api_errors ?? 0)} API errors` : "not running"],
-    ["Last run", last ? num(last.done) : "-", last ? `${time(last.finished)} · ${last.minutes} min` : "no run yet"],
-    ["Files left", num(total - done), last && last.retired ? `${Object.keys(last.retired).length} models out of quota last run` : ""],
+    ["Last 24 h", num(rec.done), `${rec.per_hour} files/h`],
+    ["Files left", num(left), rec.done ? `about ${eta} at this pace` : "no pace yet"],
+    ["Paused", num(paused.length), paused.length ? paused.map((p) => p.who.split(" / ")[0]).join(", ") : "every provider working"],
   ].map(([l, v, h, f]) => `<div class="card"><div class="label">${esc(l)}</div><div class="value${String(v).length > 8 ? " small" : ""}">${esc(v)}</div>${face(f)}<div class="hint">${esc(h)}</div></div>`).join("");
 
   // Live workers
   if (live && st.workers.length) {
     const busy = st.workers.filter((w) => w.state === "processing").length;
-    $("workersMeta").textContent = `${busy} of ${st.workers.length} busy · ${st.dir} · updated ${ago(st.updated)} ago`;
+    $("workersMeta").textContent = `${busy} of ${st.workers.length} busy · ${num(st.resting ?? 0)} files resting after rejections · updated ${ago(st.updated)} ago`;
     $("workers").innerHTML = `<div class="wrap"><table><thead><tr><th>Worker</th><th>Provider</th><th>Status</th>
       <th class="n">Done</th><th class="n">Rej</th><th>File / note</th></tr></thead><tbody>${
       st.workers.map((w) => `<tr><td>${esc(w.label)}</td><td class="muted">${esc(w.provider)}</td>
@@ -216,36 +222,33 @@ function renderState(s) {
         <td class="muted">${esc(workerNote(w))}</td></tr>`).join("")
     }</tbody></table></div>`;
   } else {
-    $("workersMeta").textContent = "not running";
-    $("workers").innerHTML = `<div class="empty">Workers show up here while a run is in progress.</div>`;
+    $("workersMeta").textContent = r.paused ? "paused" : "not running";
+    $("workers").innerHTML = `<div class="empty">Workers show up here while the generator is running.</div>`;
   }
 
   // Progress per directory
   $("progressMeta").textContent = `${num(done)} / ${num(total)} files`;
-  $("progress").innerHTML = s.progress.length ? `<div class="wrap"><table><thead><tr><th>Directory</th>
+  $("progress").innerHTML = s.progress.length ? `<div class="wrap"><table><thead><tr><th>Folder</th>
     <th style="width:45%">Progress</th><th class="n">Done</th><th class="n">Left</th></tr></thead><tbody>${
     s.progress.map((p) => {
       const pct = p.total ? (p.done * 100 / p.total) : 0;
-      return `<tr><td>${esc(p.dir)}${live && st.dir === p.dir ? ' <span class="tag ok">current</span>' : ""}</td>
+      return `<tr><td>${esc(p.dir)}</td>
         <td><div class="bar" title="${pct.toFixed(1)}%"><span style="width:${pct}%"></span></div></td>
         <td class="n">${num(p.done)}</td><td class="n">${num(p.total - p.done)}</td></tr>`;
     }).join("")}</tbody></table></div>` : `<div class="empty">No dataset found in /share/url-dataset-pipeline/in_out-s.</div>`;
 
-  // Last run
-  if (last) {
-    $("lastMeta").textContent = `${time(last.finished)} · ${last.minutes} min${last.stopped_early ? " · stopped early" : ""}`;
-    const byModel = Object.entries(last.done_by_model || {}).sort((a, b) => b[1] - a[1]);
-    const retired = Object.entries(last.retired || {});
-    $("last").innerHTML = `<div class="wrap"><table><thead><tr><th>Model</th><th class="n">Files done</th><th>Stopped because</th></tr></thead><tbody>${
-      [...new Set([...byModel.map(([m]) => m), ...retired.map(([k]) => k.split(" / ")[0])])].map((m) => {
-        const n = (last.done_by_model || {})[m] ?? 0;
-        const why = retired.filter(([k]) => k.split(" / ")[0] === m).map(([, v]) => v).join("; ");
-        return `<tr><td>${esc(m)}</td><td class="n">${num(n)}</td><td class="muted">${esc(why || "-")}</td></tr>`;
-      }).join("")}</tbody></table></div>`;
-  } else {
-    $("lastMeta").textContent = "";
-    $("last").innerHTML = `<div class="empty">No finished run yet.</div>`;
-  }
+  // Last 24 hours: per model, plus the providers on pause and when they come back
+  const byModel = Object.entries(rec.models || {});
+  $("lastMeta").textContent = `${num(rec.done)} files · ${rec.per_hour}/h${rec.new_folders && rec.new_folders.length ? ` · new folders: ${rec.new_folders.join(", ")}` : ""}`;
+  $("last").innerHTML = byModel.length || paused.length ? `<div class="wrap"><table><thead><tr><th>Model</th><th class="n">Done</th>
+    <th class="n">Rejected</th><th class="n">API errors</th><th>Now</th></tr></thead><tbody>${
+    [...new Set([...byModel.map(([m]) => m), ...paused.map((p) => p.who.split(" / ")[0])])].map((m) => {
+      const v = (rec.models || {})[m] || { done: 0, rejected: 0, errors: 0 };
+      const why = paused.filter((p) => p.who.split(" / ")[0] === m)
+        .map((p) => `${p.reason}${p.until ? ` · back ${time(p.until)}` : " · for good"}`).join("; ");
+      return `<tr><td>${esc(m)}</td><td class="n">${num(v.done)}</td><td class="n">${num(v.rejected)}</td>
+        <td class="n">${num(v.errors)}</td><td class="muted">${why ? `<span class="tag warn">paused</span> ${esc(why)}` : "working"}</td></tr>`;
+    }).join("")}</tbody></table></div>` : `<div class="empty">Nothing in the last 24 hours yet.</div>`;
 
   // Log
   $("logMeta").textContent = r.running ? "live" : "last lines of run.log";
@@ -283,14 +286,14 @@ async function refreshStats() {
   try { renderStats(await call("api/stats")); } catch {}
 }
 
-$("runBtn").addEventListener("click", async () => {
-  $("runBtn").disabled = true;
-  await call("api/run", "POST").catch(() => {});
+$("resumeBtn").addEventListener("click", async () => {
+  $("resumeBtn").disabled = true;
+  await call("api/resume", "POST").catch(() => {});
   setTimeout(refreshState, 1500);
 });
-$("stopBtn").addEventListener("click", async () => {
-  $("stopBtn").disabled = true;
-  await call("api/stop", "POST").catch(() => {});
+$("pauseBtn").addEventListener("click", async () => {
+  $("pauseBtn").disabled = true;
+  await call("api/pause", "POST").catch(() => {});
   setTimeout(refreshState, 1500);
 });
 

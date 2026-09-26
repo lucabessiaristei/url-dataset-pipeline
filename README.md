@@ -41,6 +41,23 @@ Rejected outputs go to `in_out-s/RAW/rejected/` and the file is retried with ano
 results are appended to `in_out-s/generation_report.jsonl`. Keys are read from `tools/.env` as
 `<PROVIDER>_API_KEY` or `<PROVIDER>_<LABEL>_API_KEY` (several keys per provider are supported).
 
+## Home Assistant app (passive dataset creator)
+
+`ha-app/` runs the generator on a Home Assistant server with `--forever`: it never stops on its own.
+
+- **NVIDIA first**: the free NVIDIA endpoint has no daily cap (40 requests/min), so it is the backbone
+  (`nvidia_workers` parallel requests); Gemini, OpenRouter and Groq add their free daily quotas on top.
+- **Pauses, not stops**: a model that hits its quota pauses until the quota resets (Gemini at midnight
+  Pacific time, OpenRouter at 00:00 UTC); rate-limit and API-error streaks pause it for a while, then it retries.
+- **Files are not lost**: a file rejected 3 times rests for 24 h, then gets fresh tries (3 rounds at most).
+- **New input folders**: when fewer than 300 files are waiting, the next `working_split_IN--N` is created from
+  the URL pools in `/share/url-dataset-pipeline/pools/working_expanded*.json`, up to `max_input_folders`.
+- The app restarts the generator after a crash, posts a daily digest at `digest_time` and serves a sidebar
+  panel with Pause/Resume, live workers, paused providers, progress and per-model stats.
+
+Deploy with `ha-app/deploy.sh`, then `ha apps rebuild local_url_dataset_pipeline` (or `ha apps update` after a
+version bump).
+
 ## Steps (done / to do / updates)
 
 **Done**

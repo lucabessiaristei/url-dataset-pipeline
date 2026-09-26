@@ -25,12 +25,13 @@ Usage:
 # =========================
 # Imports
 # =========================
-import os, re, json, time, shutil, signal, threading, logging, warnings, argparse, unicodedata
+import os, re, json, time, glob, heapq, random, shutil, signal, threading, logging, warnings, argparse, unicodedata
 from collections import Counter, deque
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from itertools import cycle
 from logging.handlers import RotatingFileHandler
+from zoneinfo import ZoneInfo
 
 warnings.filterwarnings("ignore", category=UserWarning)
 
@@ -109,6 +110,11 @@ for _cfg in MODELS.values():
     _cfg.setdefault("extra", None)
     _cfg.setdefault("stream", False)
     _cfg.setdefault("backup", False)  # only takes files no main model of its provider can take
+# NVIDIA is the unlimited backbone: its parallel requests are the throughput knob (the queue wait dominates)
+if os.environ.get("PIPELINE_NVIDIA_WORKERS"):
+    for _cfg in MODELS.values():
+        if _cfg["provider"] == "nvidia":
+            _cfg["workers"] = max(1, int(os.environ["PIPELINE_NVIDIA_WORKERS"]))
 
 TEMPERATURE = 0.3           # low: the dataset needs consistent labels across models and runs
 REQUEST_TIMEOUT = 300      # per provider override: PROVIDERS[...]['timeout']
@@ -194,7 +200,9 @@ report_lock = threading.Lock()
 
 worker_state = {}      # WorkerId -> {"state", "file", "done", "rejected", "note"}
 live_workers = set()
-retired = {}           # scope tuple -> reason
+retired = {}           # scope tuple -> {"reason", "until"}; until None = for good, else a pause (epoch seconds)
+FOREVER = False        # --forever: one endless run; pauses expire instead of ending the model's run
+error_pauses = Counter()  # model -> API-error pauses so far (the next one lasts twice as long)
 counters_429 = Counter()
 counters_fatal = Counter()
 model_limits = {}      # model -> learned max_input
@@ -317,25 +325,76 @@ class RateLimiter:
 limiter = RateLimiter()
 
 
-def retire(scope, reason):
+def retire(scope, reason, until=None):
+    """Takes a model or account out: for good (until=None) or paused until an epoch time."""
     with state_lock:
         if scope not in retired:
-            retired[scope] = reason
-            logger.warning(f"RETIRED {scope}: {reason}")
+            retired[scope] = {"reason": reason, "until": until}
+            when = f" until {datetime.fromtimestamp(until):%a %H:%M}" if until else ""
+            logger.warning(f"RETIRED {scope}{when}: {reason}")
             new = True
         else:
             new = False
     if new:
         report({"status": "retired", "model": scope[1] if scope[0] == "model" else f"{scope[1]} (account)",
-                "reason": reason, "done_this_run": run_totals["done_total"]})
+                "reason": reason, "done_this_run": run_totals["done_total"],
+                "until": datetime.fromtimestamp(until).isoformat(timespec="minutes") if until else None})
+
+
+def _scopes(w):
+    return (("model", w.model, w.key_label), ("model", w.model, "*"), ("account", w.provider, w.key_label))
+
+
+def retired_entry(w):
+    """The retirement or pause that applies to a worker; expired pauses are lifted here."""
+    now = time.time()
+    with state_lock:
+        for scope in _scopes(w):
+            entry = retired.get(scope)
+            if entry is None:
+                continue
+            if entry["until"] is not None and entry["until"] <= now:
+                del retired[scope]
+                counters_429[(w.model, w.key_label)] = 0
+                counters_fatal[w.model] = 0
+                logger.info(f"RESUMED {scope} after: {entry['reason']}")
+                continue
+            return entry
+    return None
 
 
 def retired_reason(w):
+    entry = retired_entry(w)
+    return entry["reason"] if entry else None
+
+
+def next_time_in(tz, hour=0, minute=1):
+    """Epoch of the next hour:minute in a timezone (quota resets)."""
+    now = datetime.now(tz)
+    target = now.replace(hour=hour, minute=minute, second=0, microsecond=0)
+    if target <= now:
+        target += timedelta(days=1)
+    return target.timestamp()
+
+
+# When each provider's daily free quota comes back
+QUOTA_RESETS = {
+    "gemini": lambda: next_time_in(ZoneInfo("America/Los_Angeles")),  # Google resets daily limits at midnight PT
+    "openrouter": lambda: next_time_in(timezone.utc),                  # free-models-per-day resets at 00:00 UTC
+}
+
+
+def quota_pause_end(provider, fallback_hours=1.0):
+    reset = QUOTA_RESETS.get(provider)
+    return reset() if reset else time.time() + fallback_hours * 3600
+
+
+def error_pause_end(model):
+    """API errors in a row: pause 5, 10, 20, 40, then 60 minutes and try again."""
     with state_lock:
-        for scope in (("model", w.model, w.key_label), ("model", w.model, "*"), ("account", w.provider, w.key_label)):
-            if scope in retired:
-                return retired[scope]
-    return None
+        error_pauses[model] += 1
+        n = error_pauses[model]
+    return time.time() + min(60, 5 * 2 ** (n - 1)) * 60
 
 
 def model_limit(model):
@@ -367,13 +426,27 @@ def set_status(w, state, file=None, note=None, done=0, rejected=0):
 # Job pool
 # =========================
 class JobPool:
-    """Hands each worker the first job it can actually process; no requeue spinning."""
+    """Hands each worker the first job it can actually process; no requeue spinning.
+    In --forever mode it never runs dry: workers wait for the feeder to add files."""
 
     def __init__(self, jobs):
         self.pending = deque(jobs)
+        self.known = {j.in_file for j in jobs}   # pending or in flight, so the feeder adds each file once
         self.in_flight = 0
         self.failed = []
         self.cond = threading.Condition()
+
+    def add(self, jobs):
+        with self.cond:
+            new = [j for j in jobs if j.in_file not in self.known]
+            self.pending.extend(new)
+            self.known.update(j.in_file for j in new)
+            self.cond.notify_all()
+            return len(new)
+
+    def pending_count(self):
+        with self.cond:
+            return len(self.pending)
 
     def eligible(self, w, job):
         if job.attempts >= MAX_JOB_ATTEMPTS or w.model in job.too_large:
@@ -403,9 +476,10 @@ class JobPool:
                         self.in_flight += 1
                         return job
                 # Nothing running means nothing will change, unless a backup is waiting for its main model
-                if self.in_flight == 0 and not any(self.left_to_main(w, j) for j in self.pending):
+                # or, in --forever mode, the feeder will add files later
+                if not FOREVER and self.in_flight == 0 and not any(self.left_to_main(w, j) for j in self.pending):
                     return None
-                self.cond.wait(timeout=1.0)
+                self.cond.wait(timeout=5.0 if FOREVER else 1.0)
             return None
 
     def finish(self, job, outcome):
@@ -413,8 +487,12 @@ class JobPool:
             self.in_flight -= 1
             if outcome == "retry":
                 self.pending.appendleft(job)
-            elif outcome == "failed":
-                self.failed.append(job)
+            else:
+                self.known.discard(job.in_file)
+                if outcome == "failed":
+                    self.failed.append(job)
+                    if FOREVER:
+                        rest_file(job)
             self.cond.notify_all()
 
     def remaining(self):
@@ -589,7 +667,7 @@ def clean_pair(in_data, out_data, vocab=None):
             title = str(src.get("title") or "").strip() or out_title
             if bm.get("url") != url:
                 stats["url_synced"] += 1
-            if title != out_title:
+            if out_title and title != out_title:  # the prompt asks for URLs only, so no title is normal
                 stats["title_synced"] += 1
             bucket.append({"url": url, "title": title})
 
@@ -679,7 +757,8 @@ def backup_once(path):
 
 def save_rejected(job, model, text):
     os.makedirs(REJECTED_DIR, exist_ok=True)
-    name = os.path.basename(job.out_file).replace(".json", f"__{model}.txt")
+    folder = os.path.basename(os.path.dirname(job.out_file)).split("--")[-1]
+    name = os.path.basename(job.out_file).replace(".json", f"__{folder}__{model}.txt")
     with open(os.path.join(REJECTED_DIR, name), "w", encoding="utf-8") as f:
         f.write(text)
 
@@ -964,17 +1043,18 @@ def handle_api_error(w, job, e):
             counters_429[(w.model, w.key_label)] += 1
             n = counters_429[(w.model, w.key_label)]
         if n >= MAX_CONSECUTIVE_429:
-            retire(("model", w.model, w.key_label), f"{n} rate limits in a row")
+            retire(("model", w.model, w.key_label), f"{n} rate limits in a row", until=time.time() + 30 * 60)
         set_status(w, "cooldown", note=f"429, waiting {wait:.0f}s")
         return "retry"
     if kind == "daily_quota":
         if re.search(r"limit: 0\b", error_text(e)):
             retire(("model", w.model, w.key_label), "no free-tier quota for this model (limit 0)")
         else:
-            retire(("model", w.model, w.key_label), "daily quota reached")
+            retire(("model", w.model, w.key_label), "daily quota reached", until=quota_pause_end(w.provider))
         return "retry"
     if kind == "account_quota":
-        retire(("account", w.provider, w.key_label), "account quota/credits exhausted")
+        retire(("account", w.provider, w.key_label), "account quota/credits exhausted",
+               until=quota_pause_end(w.provider))
         return "retry"
     if kind == "auth":
         retire(("account", w.provider, w.key_label), "key rejected")
@@ -991,7 +1071,8 @@ def handle_api_error(w, job, e):
         counters_fatal[w.model] += 1
         n = counters_fatal[w.model]
     if n >= MAX_CONSECUTIVE_FATAL:
-        retire(("model", w.model, "*"), f"{n} API errors in a row, last: {describe_api_error(e)}")
+        retire(("model", w.model, "*"), f"{n} API errors in a row, last: {describe_api_error(e)}",
+               until=error_pause_end(w.model))
     return api_failure(w, job, e)
 
 
@@ -1022,6 +1103,7 @@ def run_job(w, job):
     with state_lock:
         counters_429[(w.model, w.key_label)] = 0
         counters_fatal[w.model] = 0
+        error_pauses[w.model] = 0
 
     if finish == "length":
         return reject(w, job, f"reply cut off at the {MODELS[w.model]['max_tokens'] or 'provider'} output-token limit", raw=text)
@@ -1061,9 +1143,14 @@ def worker_loop(w, pool):
     set_status(w, "idle")
     try:
         while not shutdown_event.is_set():
-            reason = retired_reason(w)
-            if reason:
-                set_status(w, "retired", note=reason)
+            entry = retired_entry(w)
+            if entry:
+                if FOREVER and entry["until"]:
+                    # Paused (quota, rate limits, API errors): sit it out, then carry on
+                    set_status(w, "paused", note=f"{entry['reason']} · back {datetime.fromtimestamp(entry['until']):%a %H:%M}")
+                    shutdown_event.wait(min(60.0, max(1.0, entry["until"] - time.time())))
+                    continue
+                set_status(w, "retired", note=entry["reason"])
                 break
             delay = limiter.delay(w)
             if delay > PRE_TAKE_WAIT:
@@ -1075,6 +1162,8 @@ def worker_loop(w, pool):
                 continue
             job = pool.take(w)
             if job is None:
+                if FOREVER and not shutdown_event.is_set():
+                    continue  # it was paused while waiting for a file
                 break
             try:
                 outcome = run_job(w, job)
@@ -1102,6 +1191,7 @@ STATUS_STYLES = {
     "cooldown": ("COOLDOWN {sleep}", "#A8EE59"),
     "waiting": ("WAITING {sleep}", "#A8EE59"),
     "retired": ("RETIRED {sleep}", "#FF5F1F"),
+    "paused": ("PAUSED {sleep}", "#FFB000"),
     "idle": ("IDLE {idle}", "#A8EE59"),
     "stopped": ("STOPPED {sleep}", "#48A630"),
 }
@@ -1144,7 +1234,7 @@ def render_dashboard(workers, total, start_time, pool, in_dir_name):
         st = snapshot.get(w, {"state": "idle", "file": None, "done": 0, "rejected": 0, "note": ""})
         fmt, style = STATUS_STYLES.get(st["state"], (st["state"].upper(), "#48A630"))
         info = st["file"] or "-"
-        if st["note"] and st["state"] in ("retired", "cooldown", "waiting", "stopped"):
+        if st["note"] and st["state"] in ("retired", "paused", "cooldown", "waiting", "stopped"):
             info = st["note"]
         table.add_row(
             w.provider.upper() if w.provider != last_provider else "",
@@ -1365,6 +1455,36 @@ def report_summary(days=7):
     return {"models": rows, "quota": quota}
 
 
+def recent_summary(hours=24):
+    """What happened in the last hours, per model, from generation_report.jsonl (panel and daily digest)."""
+    since = (datetime.now() - timedelta(hours=hours)).isoformat(timespec="seconds")
+    models, folders, abandoned = {}, [], 0
+    if os.path.exists(REPORT_FILE):
+        with open(REPORT_FILE, encoding="utf-8") as f:
+            for line in f:
+                try:
+                    e = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if e.get("ts", "") < since:
+                    continue
+                status = e.get("status")
+                if status == "new_folder":
+                    folders.append(e.get("folder"))
+                elif status == "abandoned":
+                    abandoned += 1
+                elif status in ("done", "rejected", "error") and e.get("model") in MODELS:
+                    r = models.setdefault(e["model"], {"done": 0, "rejected": 0, "errors": 0})
+                    if status == "error" or e.get("reason", "").startswith("api error"):  # old reports
+                        r["errors"] += 1
+                    else:
+                        r[status] += 1
+    done = sum(r["done"] for r in models.values())
+    return {"hours": hours, "done": done, "per_hour": round(done / hours, 1),
+            "models": dict(sorted(models.items(), key=lambda kv: -kv[1]["done"])),
+            "new_folders": folders, "abandoned": abandoned}
+
+
 def print_stats():
     """Per-model record from generation_report.jsonl: which workers are worth keeping."""
     summary = report_summary()
@@ -1438,6 +1558,9 @@ def main():
     parser.add_argument("--dir", type=str, help="Input directory name (e.g. working_split_IN--3) or 'all' for every directory in order")
     parser.add_argument("--headless", action="store_true", help="Plain progress lines instead of the live dashboard (servers, cron, add-on)")
     parser.add_argument("--max-hours", type=float, help="Stop cleanly after this many hours")
+    parser.add_argument("--forever", action="store_true",
+                        help="Never stop: work through every input folder, wait for paused quotas, pick up new files "
+                             "(implies --headless and --dir all; used by the Home Assistant app)")
     parser.add_argument("--only", type=str, help=f"Comma-separated providers ({', '.join(PROVIDERS)})")
     parser.add_argument("--models", type=str, help=f"Comma-separated models ({', '.join(MODELS)})")
     parser.add_argument("--list-models", action="store_true", help="Show configured models and whether they are available")
@@ -1492,6 +1615,10 @@ def main():
         timer.daemon = True
         timer.start()
 
+    if args.forever:
+        run_forever(models)
+        return
+
     started = time.time()
     if args.dir == "all":
         dirs = list_available_directories()
@@ -1528,11 +1655,7 @@ def run_directory(selected_dir, models, headless):
         console.print(f"[green]All files in '{selected_dir}' have been processed![/green]")
         return 0
 
-    jobs = []
-    for name in remaining:
-        in_file = os.path.join(in_path, name)
-        tokens = estimate_tokens(build_prompt(load_json(in_file)))
-        jobs.append(Job(name, in_file, os.path.join(out_path, name.replace("in_", "out_", 1)), tokens))
+    jobs = [make_job(selected_dir, name) for name in remaining]
     pool = JobPool(jobs)
 
     workers = [
@@ -1586,8 +1709,9 @@ def run_directory(selected_dir, models, headless):
     console.print(f"[#48A630]Completed {run_totals['done']}/{total} files in '{selected_dir}'.[/#48A630]")
     if retired:
         console.print("[#FFB000]Retired:[/#FFB000]")
-        for scope, reason in retired.items():
-            console.print(f"  {' / '.join(scope[1:])}: {reason}")
+        for scope, entry in retired.items():
+            when = f" (until {datetime.fromtimestamp(entry['until']):%a %H:%M})" if entry["until"] else ""
+            console.print(f"  {' / '.join(scope[1:])}: {entry['reason']}{when}")
     if pool.failed:
         console.print(f"[#FF5F1F]Gave up on {len(pool.failed)} files (raw outputs in {REJECTED_DIR}):[/#FF5F1F]")
         for job in pool.failed[:20]:
@@ -1615,6 +1739,181 @@ def leftover_reasons(leftover, models):
     return why
 
 
+def make_job(in_dir_name, name):
+    in_path, out_path = setup_io_paths(in_dir_name)
+    in_file = os.path.join(in_path, name)
+    tokens = estimate_tokens(build_prompt(load_json(in_file)))
+    return Job(name, in_file, os.path.join(out_path, name.replace("in_", "out_", 1)), tokens)
+
+# =========================
+# Continuous mode (--forever): the passive dataset creator on the server
+# =========================
+STATE_FILE = os.path.join(BASE_DIR, "pipeline_state.json")
+REST_HOURS = 24          # a file rejected MAX_JOB_ATTEMPTS times waits this long, then gets fresh tries
+MAX_REST_ROUNDS = 3      # after this many rests it is left alone for good (no model can do it)
+FEED_SECONDS = 600       # rescan the input folders (new folders, rested files) this often
+POOLS_DIR = os.environ.get("PIPELINE_POOLS_DIR", os.path.join(ROOT, "json_lists"))
+POOL_GLOB = "working_expanded*.json"
+MAX_INPUT_FOLDERS = int(os.environ.get("PIPELINE_MAX_INPUT_FOLDERS", "0"))  # 0 = never create folders
+NEW_FOLDER_BELOW = 300   # create the next input folder when fewer files than this are waiting
+# Same shape as tools/working_expanded_splitter.py
+SPLIT_FILES, SPLIT_MIN, SPLIT_MAX, SPLIT_MEAN, SPLIT_STD = 1000, 10, 200, 100, 30
+
+resting = {}             # in_file -> {"until": epoch or None (for good), "rounds": rests so far}
+rest_rounds = {}         # in_file -> how many times it has rested
+forever_totals = {"inputs": 0}
+
+
+def load_state():
+    state = load_json(STATE_FILE) if os.path.exists(STATE_FILE) else {}
+    with state_lock:
+        resting.clear()
+        resting.update({os.path.join(BASE_DIR, k): v for k, v in (state.get("resting") or {}).items()})
+        rest_rounds.clear()
+        rest_rounds.update({os.path.join(BASE_DIR, k): v for k, v in (state.get("rounds") or {}).items()})
+
+
+def save_state():
+    with state_lock:
+        data = {"resting": {os.path.relpath(k, BASE_DIR): v for k, v in resting.items()},
+                "rounds": {os.path.relpath(k, BASE_DIR): v for k, v in rest_rounds.items()}}
+    write_json_atomic(STATE_FILE, data)
+
+
+def rest_file(job):
+    with state_lock:
+        rounds = rest_rounds.get(job.in_file, 0) + 1
+        rest_rounds[job.in_file] = rounds
+        until = time.time() + REST_HOURS * 3600 if rounds < MAX_REST_ROUNDS else None
+        resting[job.in_file] = until
+    save_state()
+    folder = os.path.basename(os.path.dirname(job.in_file))
+    if until:
+        logger.info(f"{folder}/{job.filename} rests until {datetime.fromtimestamp(until):%a %H:%M} after "
+                    f"{job.attempts} rejected outputs (last: {job.last_reason})")
+    else:
+        logger.info(f"{folder}/{job.filename} left for good after {rounds} rounds of rejected outputs "
+                    f"(last: {job.last_reason})")
+    report({"file": job.filename, "dir": folder, "status": "resting" if until else "abandoned",
+            "reason": job.last_reason, "until": datetime.fromtimestamp(until).isoformat(timespec="minutes") if until else None})
+
+
+def create_split_folder(pool_file, folder):
+    """Writes a new input folder like working_expanded_splitter.py does, without repeated links in a file.
+    Built under a temporary name and renamed at the end, so the feeder never sees half a folder."""
+    data = load_json(pool_file)
+    used = [0] * len(data)
+    tmp = os.path.join(BASE_DIR, f".creating-{folder}")
+    shutil.rmtree(tmp, ignore_errors=True)
+    os.makedirs(tmp)
+    for i in range(1, SPLIT_FILES + 1):
+        k = max(SPLIT_MIN, min(SPLIT_MAX, int(random.gauss(SPLIT_MEAN, SPLIT_STD)), len(data)))
+        # k different links, less-used ones more likely (weighted sampling without replacement, weight 1/(1+uses))
+        chosen = heapq.nlargest(k, range(len(data)), key=lambda j: random.random() ** (1.0 + used[j]))
+        for j in chosen:
+            used[j] += 1
+        items = [data[j] for j in chosen]
+        with open(os.path.join(tmp, f"in_split_{i:04d}.json"), "w", encoding="utf-8") as f:
+            json.dump({"data": items, "_meta": {"total_bookmarks": len(items)}}, f, indent=2, ensure_ascii=False)
+    os.rename(tmp, os.path.join(BASE_DIR, folder))
+    logger.info(f"Created input folder {folder} ({SPLIT_FILES} files) from {os.path.basename(pool_file)}")
+    report({"status": "new_folder", "folder": folder, "pool": os.path.basename(pool_file), "files": SPLIT_FILES})
+
+
+def maybe_create_input_folder(waiting):
+    if not MAX_INPUT_FOLDERS or waiting >= NEW_FOLDER_BELOW:
+        return
+    dirs = list_available_directories()
+    if len(dirs) >= MAX_INPUT_FOLDERS:
+        return
+    pools = sorted(glob.glob(os.path.join(POOLS_DIR, POOL_GLOB)))
+    if not pools:
+        logger.warning(f"Few files left but no URL pools ({POOL_GLOB}) in {POOLS_DIR}: no new input folder")
+        return
+    n = max((int(d.split("--")[-1]) for d in dirs), default=0) + 1
+    create_split_folder(pools[(n - 1) % len(pools)], f"working_split_IN--{n}")
+
+
+def feed(pool):
+    """Queues every input file that has no output yet, is not queued already and is not resting."""
+    now = time.time()
+    with state_lock:
+        expired = [k for k, until in resting.items() if until is not None and until <= now]
+        for k in expired:
+            del resting[k]
+    if expired:
+        save_state()
+        logger.info(f"{len(expired)} rested files get fresh tries")
+    for attempt in range(2):  # a second pass picks up a folder created by the first
+        jobs, waiting, inputs = [], 0, 0
+        for d in list_available_directories():
+            in_path, out_path = setup_io_paths(d)
+            inputs += len(list_inputs(in_path))
+            for name in get_remaining_files(in_path, out_path):
+                key = os.path.join(in_path, name)
+                if key in resting:
+                    continue
+                waiting += 1
+                if key in pool.known:
+                    continue
+                try:
+                    jobs.append(make_job(d, name))
+                except (OSError, ValueError) as e:
+                    logger.warning(f"{d}/{name} unreadable, skipped: {e}")
+        added = pool.add(jobs)
+        forever_totals["inputs"] = inputs
+        if added:
+            logger.info(f"Queued {added} files ({waiting} waiting in total)")
+        if attempt == 0:
+            before = len(list_available_directories())
+            maybe_create_input_folder(waiting)
+            if len(list_available_directories()) == before:
+                break
+
+
+def run_forever(models):
+    """Never ends on its own: paused models come back when their quota resets, new files are picked up."""
+    global FOREVER
+    FOREVER = True
+    load_state()
+    pool = JobPool([])
+    feed(pool)
+    workers = [WorkerId(model, label, idx) for model in models
+               for label, _ in api_keys[MODELS[model]["provider"]] for idx in range(MODELS[model]["workers"])]
+    console.print(f"[#48A630]Continuous mode: {pool.pending_count()} files queued, {len(workers)} workers, "
+                  f"{len(resting)} resting, log {LOG_FILE}[/#48A630]")
+    start = time.time()
+    with state_lock:
+        live_workers.update(workers)
+    threads = []
+    for w in workers:
+        set_status(w, "idle")
+        t = threading.Thread(target=worker_loop, args=(w, pool), daemon=True)
+        t.start()
+        threads.append(t)
+
+    last_feed = last_print = last_status = time.time()
+    while not shutdown_event.is_set():
+        now = time.time()
+        if now - last_feed >= FEED_SECONDS or (pool.pending_count() < 20 and now - last_feed >= 60):
+            try:
+                feed(pool)
+            except Exception:
+                logger.exception("Feeding the queue failed")
+            last_feed = now
+        if now - last_print >= HEADLESS_PROGRESS_SECONDS:
+            print_progress_line("all folders", forever_totals["inputs"], pool, start)
+            last_print = now
+        if now - last_status >= 5:
+            write_status("all", forever_totals["inputs"], pool, start, workers)
+            last_status = now
+        shutdown_event.wait(1.0)
+    for t in threads:
+        t.join(timeout=1.0)
+    write_status("all", forever_totals["inputs"], pool, start, workers, finished=True)
+    console.print(f"[#48A630]Stopped: {run_totals['done_total']} files done since {datetime.fromtimestamp(start):%a %H:%M}[/#48A630]")
+
+
 HEADLESS_PROGRESS_SECONDS = int(os.environ.get("PIPELINE_PROGRESS_SECONDS", "300"))
 STATUS_FILE = os.path.join(BASE_DIR, "run_status.json")
 
@@ -1634,6 +1933,11 @@ def write_status(selected_dir, total, pool, start, workers, finished=False):
         "remaining": pool.remaining(),
         "rejected": run_totals["rejected"],
         "api_errors": run_totals["api_errors"],
+        "mode": "forever" if FOREVER else "run",
+        "resting": len(resting),
+        "paused": [{"who": " / ".join(scope[1:]), "reason": e["reason"],
+                    "until": datetime.fromtimestamp(e["until"]).isoformat(timespec="minutes") if e["until"] else None}
+                   for scope, e in list(retired.items())],
         "given_up": len(pool.failed),
         "workers": [
             {"label": w.label, "provider": w.provider, "state": st.get("state"), "file": st.get("file"),
@@ -1655,7 +1959,8 @@ def print_progress_line(selected_dir, total, pool, start):
         states = Counter(st["state"] for st in worker_state.values())
     elapsed = (time.time() - start) / 60
     print(f"[{datetime.now():%H:%M}] {selected_dir}: {run_totals['done']}/{total} done, "
-          f"{pool.remaining()} remaining, {run_totals['rejected']} rejected, {run_totals['api_errors']} API errors, {len(pool.failed)} given up | "
+          f"{pool.remaining()} remaining, {run_totals['rejected']} rejected, {run_totals['api_errors']} API errors, "
+          f"{f'{len(resting)} resting' if FOREVER else f'{len(pool.failed)} given up'} | "
           f"workers {dict(states)} | {elapsed:.0f} min", flush=True)
 
 
@@ -1666,7 +1971,7 @@ def write_last_run(started, leftover_total):
         "minutes": round((time.time() - started) / 60),
         "done": run_totals["done_total"],
         "done_by_model": dict(run_done_by_model),
-        "retired": {" / ".join(scope[1:]): reason for scope, reason in retired.items()},
+        "retired": {" / ".join(scope[1:]): entry["reason"] for scope, entry in retired.items()},
         "files_left": leftover_total,
         "stopped_early": shutdown_event.is_set(),
     }

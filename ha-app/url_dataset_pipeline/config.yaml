@@ -1,7 +1,7 @@
 name: URL Dataset Pipeline
-version: "1.2.0"
+version: "2.0.0"
 slug: url_dataset_pipeline
-description: Daily run of the multi-provider bookmark categorizer on the free API quotas
+description: Passive dataset creator - categorizes bookmarks around the clock on free APIs (NVIDIA first, free quotas on top)
 arch:
   - amd64
   - aarch64
@@ -15,18 +15,18 @@ panel_title: URL Dataset
 map:
   - share:rw
 options:
-  daily_start: "09:15"
-  max_hours: 23
-  run_on_start: false
+  nvidia_workers: 6
+  max_input_folders: 10
+  digest_time: "09:00"
   models: ""
   gemini_api_key: ""
   groq_api_key: ""
   openrouter_api_key: ""
   nvidia_api_key: ""
 schema:
-  daily_start: match(^([01]\d|2[0-3]):[0-5]\d$)
-  max_hours: float(1,23)
-  run_on_start: bool
+  nvidia_workers: int(1,12)
+  max_input_folders: int(1,50)
+  digest_time: match(^([01]\d|2[0-3]):[0-5]\d$)
   models: str?
   gemini_api_key: password?
   groq_api_key: password?

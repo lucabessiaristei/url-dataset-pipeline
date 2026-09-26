@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Home Assistant side of the URL dataset pipeline:
-- starts the generator every day at `daily_start` (after the free quotas reset), or on demand
-- serves the ingress panel (status, live workers, progress, per-model record, daily quota, log)
-- posts a summary notification when a run ends
+Home Assistant side of the URL dataset pipeline, a passive dataset creator:
+- keeps the generator running in --forever mode (restarts it after a crash; Pause/Resume from the panel)
+- the generator itself waits out quota resets, retries resting files and creates new input folders
+- serves the ingress panel (status, live workers, providers, progress, per-model record, log)
+- posts a daily digest notification at `digest_time`
 """
 
 import importlib.util
@@ -59,9 +60,13 @@ def read_json(path):
         return None
 
 
-def next_start(now=None):
+PAUSED_FLAG = os.path.join(DATA_ROOT, ".paused")   # survives app restarts and updates
+POOLS_DIR = os.path.join(DATA_ROOT, "pools")        # URL pools for new input folders (working_expanded*.json)
+
+
+def next_digest(now=None):
     now = now or datetime.now()
-    hour, minute = (int(x) for x in str(OPTIONS.get("daily_start", "09:15")).split(":"))
+    hour, minute = (int(x) for x in str(OPTIONS.get("digest_time", "09:00")).split(":"))
     target = now.replace(hour=hour, minute=minute, second=0, microsecond=0)
     return target if target > now else target + timedelta(days=1)
 
@@ -116,34 +121,41 @@ def progress():
     return rows
 
 
-# ---------------------------------------------------------------- runs
-class Runner:
+# ---------------------------------------------------------------- the generator process
+class Keeper:
+    """Keeps one generator running in --forever mode. It never stops on its own, so any exit that was
+    not a pause is a crash: restart it, waiting longer when it keeps crashing right after starting."""
+
     def __init__(self):
         self.lock = threading.Lock()
         self.proc = None
         self.started = None
-        self.reason = None
         self.stopping = False
         self.last_exit = None
+        self.crashes = 0                  # quick crashes in a row
         self.output = deque(maxlen=400)
-        self.next_run = next_start()
+
+    def paused(self):
+        return os.path.exists(PAUSED_FLAG)
 
     def running(self):
         return self.proc is not None and self.proc.poll() is None
 
-    def start(self, reason):
+    def start(self):
         with self.lock:
-            if self.running():
+            if self.running() or self.paused():
                 return False
             if not os.path.isdir(DATA_DIR):
                 log(f"No dataset at {DATA_DIR}: copy in_out-s there first")
                 return False
-            args = [sys.executable, GENERATOR, "--dir", "all", "--headless",
-                    "--max-hours", str(OPTIONS.get("max_hours", 23))]
+            args = [sys.executable, GENERATOR, "--forever"]
             models = (OPTIONS.get("models") or "").strip()
             if models:
                 args += ["--models", models]
-            env = {**os.environ, "PIPELINE_PROGRESS_SECONDS": "60", "COLUMNS": "160"}
+            env = {**os.environ, "PIPELINE_PROGRESS_SECONDS": "300", "COLUMNS": "160",
+                   "PIPELINE_NVIDIA_WORKERS": str(OPTIONS.get("nvidia_workers", 6)),
+                   "PIPELINE_MAX_INPUT_FOLDERS": str(OPTIONS.get("max_input_folders", 10)),
+                   "PIPELINE_POOLS_DIR": POOLS_DIR}
             for provider in PROVIDERS:
                 key = (OPTIONS.get(f"{provider}_api_key") or "").strip()
                 if key:
@@ -153,26 +165,43 @@ class Runner:
             self.proc = subprocess.Popen(args, cwd=APP_DIR, env=env, text=True, bufsize=1,
                                          stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
             self.started = time.time()
-            self.reason = reason
             self.stopping = False
-            threading.Thread(target=self._pump, daemon=True).start()
-            log(f"Run started ({reason})")
+            threading.Thread(target=self._pump, args=(self.proc,), daemon=True).start()
+            log("Generator started")
             return True
 
-    def stop(self):
+    def stop(self, wait=0):
         with self.lock:
             if not self.running():
                 return False
-            # First SIGINT = clean stop: finished files are kept, requests in flight are dropped
+            # SIGINT = clean stop: finished files are kept, requests in flight are dropped
             self.proc.send_signal(signal.SIGINT)
             self.stopping = True
-            log("Stop requested")
-            return True
+            proc = self.proc
+        try:
+            proc.wait(timeout=wait) if wait else None
+        except subprocess.TimeoutExpired:
+            proc.kill()
+        return True
 
-    def _pump(self):
-        proc = self.proc
+    def pause(self):
+        open(PAUSED_FLAG, "w").close()
+        log("Paused from the panel")
+        self.stop()
+        return True
+
+    def resume(self):
+        try:
+            os.remove(PAUSED_FLAG)
+        except FileNotFoundError:
+            pass
+        log("Resumed from the panel")
+        self.crashes = 0
+        return self.start()
+
+    def _pump(self, proc):
         with open(RUN_LOG, "a", encoding="utf-8") as out:
-            out.write(f"\n=== {datetime.now():%Y-%m-%d %H:%M} run started ({self.reason})\n")
+            out.write(f"\n=== {datetime.now():%Y-%m-%d %H:%M} generator started\n")
             for line in proc.stdout:
                 line = line.rstrip("\n")
                 self.output.append(line)
@@ -180,23 +209,36 @@ class Runner:
                 out.flush()
                 print(line, flush=True)
             code = proc.wait()
-            out.write(f"=== {datetime.now():%Y-%m-%d %H:%M} run ended (exit {code})\n")
+            out.write(f"=== {datetime.now():%Y-%m-%d %H:%M} generator ended (exit {code})\n")
         self.last_exit = code
+        quick = time.time() - (self.started or 0) < 600
+        self.crashes = self.crashes + 1 if (quick and not self.stopping) else 0
         self.stopping = False
         _stats_cache["at"] = 0.0
         _progress_cache["at"] = 0.0
-        log(f"Run ended (exit {code})")
-        notify()
+        log(f"Generator ended (exit {code})")
+
+    def keep_alive(self):
+        """Starts the generator at boot and after a crash (1 min, doubling up to 1 h if it keeps crashing)."""
+        while True:
+            if not self.running() and not self.paused():
+                wait = 0 if self.last_exit is None else min(3600, 60 * 2 ** max(0, min(self.crashes, 7) - 1))
+                if wait:
+                    log(f"Generator not running (last exit {self.last_exit}): restarting in {wait // 60} min")
+                    time.sleep(wait)
+                if not self.paused():
+                    self.start()
+            time.sleep(10)
 
     def state(self):
         running = self.running()
         return {
             "running": running,
+            "paused": self.paused(),
             "stopping": self.stopping and running,
             "started": datetime.fromtimestamp(self.started).isoformat(timespec="seconds") if self.started else None,
-            "reason": self.reason,
             "last_exit": self.last_exit,
-            "next_run": self.next_run.isoformat(timespec="minutes"),
+            "next_digest": next_digest().isoformat(timespec="minutes"),
         }
 
 
@@ -222,17 +264,43 @@ def log_tail(lines=200):
         return []
 
 
-def notify():
-    summary = read_json(os.path.join(DATA_DIR, "last_run.json"))
+def recent():
+    try:
+        return generator_module().recent_summary(24)
+    except Exception as e:
+        return {"hours": 24, "done": 0, "per_hour": 0, "models": {}, "new_folders": [], "abandoned": 0, "error": str(e)}
+
+
+def digest_text():
+    """Daily digest: last 24 h per model, files left and a finish estimate, providers on pause."""
+    r = recent()
+    rows = progress()
+    total, done = sum(p["total"] for p in rows), sum(p["done"] for p in rows)
+    left = total - done
+    status = read_json(os.path.join(DATA_DIR, "run_status.json")) or {}
+    lines = [f"{r['done']} files in the last 24 h ({r['per_hour']}/h) · {left:,} left of {total:,}"]
+    if r["done"]:
+        lines[0] += f" · about {left / r['done']:.1f} days at this pace"
+    lines += [f"• {m}: {v['done']} done, {v['rejected']} rejected, {v['errors']} API errors"
+              for m, v in r["models"].items()]
+    if r["new_folders"]:
+        lines.append("New input folders: " + ", ".join(r["new_folders"]))
+    paused = [p for p in status.get("paused") or []]
+    if paused:
+        lines.append("Paused: " + "; ".join(
+            f"{p['who']} ({p['reason']}{', back ' + p['until'][11:16] if p.get('until') else ', for good'})" for p in paused))
+    if keeper.paused():
+        lines.append("The pipeline is paused from the panel.")
+    elif not keeper.running():
+        lines.append(f"The generator is not running (last exit {keeper.last_exit}).")
+    return "\n".join(lines)
+
+
+def notify(message):
     token = os.environ.get("SUPERVISOR_TOKEN")
-    if not summary or not token:
+    if not token:
         return
-    lines = [f"{summary.get('done', 0)} files done in {summary.get('minutes', 0)} min, "
-             f"{summary.get('files_left', '?')} left."]
-    lines += [f"• {m}: {n}" for m, n in (summary.get("done_by_model") or {}).items()]
-    if summary.get("retired"):
-        lines.append("\nStopped: " + "; ".join(f"{k} ({v})" for k, v in summary["retired"].items()))
-    payload = json.dumps({"title": "URL dataset pipeline", "message": "\n".join(lines),
+    payload = json.dumps({"title": "URL dataset pipeline", "message": message,
                           "notification_id": "url_dataset_pipeline"}).encode()
     request = urllib.request.Request(
         "http://supervisor/core/api/services/persistent_notification/create", data=payload, method="POST",
@@ -243,36 +311,24 @@ def notify():
         log(f"Could not post the notification: {e}")
 
 
-def scheduler(runner):
-    if OPTIONS.get("run_on_start"):
-        runner.start("app start")
+def digest_loop():
     while True:
-        runner.next_run = next_start()
-        log(f"Next run at {runner.next_run:%Y-%m-%d %H:%M}")
-        while datetime.now() < runner.next_run:
-            time.sleep(min(30, max(1, (runner.next_run - datetime.now()).total_seconds())))
-        if runner.running():
-            # A run keeps the models it retired for quota until it ends, so a run still going at the
-            # daily start would never use the quotas that just reset: restart it (finished files are kept)
-            log("A run is still going at the daily start: restarting it so the new quotas are used")
-            runner.stop()
-            deadline = time.time() + 300
-            while runner.running() and time.time() < deadline:
-                time.sleep(2)
-            if runner.running():
-                runner.proc.kill()
-                runner.proc.wait()
-            time.sleep(3)  # let the old run's log and notification finish
-        if not runner.start("schedule"):
-            log("Scheduled run could not start")
+        target = next_digest()
+        time.sleep(max(1, (target - datetime.now()).total_seconds()))
+        try:
+            notify(digest_text())
+            log("Daily digest posted")
+        except Exception as e:
+            log(f"Daily digest failed: {e}")
+        time.sleep(61)
 
 
 # ---------------------------------------------------------------- panel
-runner = Runner()
+keeper = Keeper()
 
 
 class Handler(BaseHTTPRequestHandler):
-    server_version = "UrlDatasetPipeline/1.1"
+    server_version = "UrlDatasetPipeline/2.0"
 
     def log_message(self, fmt, *args):  # keep the app log for runs, not for every panel refresh
         pass
@@ -308,12 +364,12 @@ class Handler(BaseHTTPRequestHandler):
         elif route == "api/state":
             status = read_json(os.path.join(DATA_DIR, "run_status.json"))
             self._json({
-                "runner": runner.state(),
+                "runner": keeper.state(),
                 "status": status,
-                "last_run": read_json(os.path.join(DATA_DIR, "last_run.json")),
+                "recent": recent(),
                 "progress": progress(),
-                "log": list(runner.output) if runner.running() else log_tail(),
-                "options": {k: OPTIONS.get(k) for k in ("daily_start", "max_hours", "models")},
+                "log": list(keeper.output) if keeper.running() else log_tail(),
+                "options": {k: OPTIONS.get(k) for k in ("nvidia_workers", "max_input_folders", "digest_time", "models")},
             })
         elif route == "api/stats":
             self._json(stats())
@@ -326,10 +382,10 @@ class Handler(BaseHTTPRequestHandler):
         if not self._allowed():
             return
         route = "/".join(self.path.split("?", 1)[0].rstrip("/").rsplit("/", 2)[-2:])
-        if route == "api/run":
-            self._json({"ok": runner.start("manual")})
-        elif route == "api/stop":
-            self._json({"ok": runner.stop()})
+        if route == "api/resume":
+            self._json({"ok": keeper.resume()})
+        elif route == "api/pause":
+            self._json({"ok": keeper.pause()})
         else:
             self.send_error(404)
 
@@ -356,11 +412,14 @@ class Handler(BaseHTTPRequestHandler):
 
 
 def main():
-    signal.signal(signal.SIGTERM, lambda *_: (runner.stop(), sys.exit(0)))
-    threading.Thread(target=scheduler, args=(runner,), daemon=True).start()
+    # App stop/update: stop the generator cleanly (finished files are kept) before the container goes
+    signal.signal(signal.SIGTERM, lambda *_: (keeper.stop(wait=20), sys.exit(0)))
+    threading.Thread(target=keeper.keep_alive, daemon=True).start()
+    threading.Thread(target=digest_loop, daemon=True).start()
     server = ThreadingHTTPServer(("0.0.0.0", PORT), Handler)
     server.daemon_threads = True
-    log(f"Panel on :{PORT}, daily start {OPTIONS.get('daily_start', '09:15')}")
+    log(f"Panel on :{PORT}; generator runs continuously"
+        f"{' (paused from the panel)' if keeper.paused() else ''}; daily digest at {OPTIONS.get('digest_time', '09:00')}")
     server.serve_forever()
 
 
