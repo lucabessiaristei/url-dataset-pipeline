@@ -1212,79 +1212,94 @@ def clean_existing(in_dir_name, apply, vocab):
 # =========================
 # Main
 # =========================
+def report_summary(days=7):
+    """Per-model record and per-day accepted files from generation_report.jsonl.
+    Shared by --stats and the Home Assistant panel."""
+    models, per_day = {}, {}
+    if os.path.exists(REPORT_FILE):
+        with open(REPORT_FILE, encoding="utf-8") as f:
+            for line in f:
+                try:
+                    e = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                model = e.get("model", "?")
+                status = e.get("status")
+                r = models.setdefault(model, {"done": 0, "rejected": 0, "missing": 0, "links": 0, "reasons": Counter()})
+                if status == "done":
+                    r["done"] += 1
+                    r["missing"] += e.get("stats", {}).get("missing", 0)
+                    r["links"] += e.get("stats", {}).get("input_total", 0)
+                elif status == "rejected":
+                    r["rejected"] += 1
+                    r["reasons"][re.sub(r"\d+", "N", e.get("reason", ""))[:40]] += 1
+                day = (e.get("ts") or "")[:10]
+                if day and status in ("done", "retired"):
+                    cell = per_day.setdefault(day, {}).setdefault(model, {"done": 0, "stop": ""})
+                    if status == "done":
+                        cell["done"] += 1
+                    else:
+                        cell["stop"] = e.get("reason", "")
+
+    rows = []
+    for model, r in sorted(models.items(), key=lambda kv: -kv[1]["done"]):
+        if not (r["done"] or r["rejected"]):
+            continue
+        tried = r["done"] + r["rejected"]
+        rows.append({
+            "model": model,
+            "active": model in MODELS,
+            "done": r["done"],
+            "rejected": r["rejected"],
+            "accept_pct": round(r["done"] * 100 / tried) if tried else None,
+            "lost_pct": round(r["missing"] * 100 / r["links"], 1) if r["links"] else None,
+            "reasons": [[k, v] for k, v in r["reasons"].most_common(3)],
+        })
+    recent = sorted(per_day)[-days:]
+    quota = {
+        "days": recent,
+        "rows": [
+            {"model": m, "cells": [
+                None if m not in per_day[d] else {
+                    "done": per_day[d][m]["done"],
+                    "capped": "quota" in per_day[d][m]["stop"] or "rate limits" in per_day[d][m]["stop"],
+                    "stop": per_day[d][m]["stop"],
+                } for d in recent]}
+            for m in sorted({m for d in recent for m in per_day[d]})
+        ],
+    }
+    return {"models": rows, "quota": quota}
+
+
 def print_stats():
     """Per-model record from generation_report.jsonl: which workers are worth keeping."""
-    if not os.path.exists(REPORT_FILE):
+    summary = report_summary()
+    if not summary["models"]:
         console.print("No report yet: run the generator first.")
         return
-    rows = {}
-    with open(REPORT_FILE, encoding="utf-8") as f:
-        for line in f:
-            try:
-                e = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-            r = rows.setdefault(e.get("model", "?"), {"done": 0, "rejected": 0, "missing": 0, "links": 0, "reasons": Counter()})
-            if e.get("status") == "done":
-                r["done"] += 1
-                r["missing"] += e.get("stats", {}).get("missing", 0)
-                r["links"] += e.get("stats", {}).get("input_total", 0)
-            elif e.get("status") == "rejected":
-                r["rejected"] += 1
-                r["reasons"][re.sub(r"\d+", "N", e.get("reason", ""))[:40]] += 1
-
     table = Table(box=box.ROUNDED, border_style="#48A630", header_style="bold #63D746")
     for col in ("Model", "Done", "Rejected", "Accept %", "Links lost %", "Top rejection reasons"):
         table.add_column(col, style="#63D746")
-    for model, r in sorted(rows.items(), key=lambda kv: -kv[1]["done"]):
-        tried = r["done"] + r["rejected"]
+    for r in summary["models"]:
         table.add_row(
-            model + ("" if model in MODELS else " (removed)"),
+            r["model"] + ("" if r["active"] else " (removed)"),
             str(r["done"]), str(r["rejected"]),
-            f"{r['done'] * 100 / tried:.0f}" if tried else "-",
-            f"{r['missing'] * 100 / r['links']:.1f}" if r["links"] else "-",
-            "; ".join(f"{k} ×{v}" for k, v in r["reasons"].most_common(3)),
+            "-" if r["accept_pct"] is None else str(r["accept_pct"]),
+            "-" if r["lost_pct"] is None else str(r["lost_pct"]),
+            "; ".join(f"{k} ×{v}" for k, v in r["reasons"]),
         )
     console.print(table)
-    print_daily_quota()
 
-
-def print_daily_quota(days=7):
-    """Files accepted per model per day, and what stopped it: the practical daily quota."""
-    per_day = {}
-    with open(REPORT_FILE, encoding="utf-8") as f:
-        for line in f:
-            try:
-                e = json.loads(line)
-            except json.JSONDecodeError:
-                continue
-            day = (e.get("ts") or "")[:10]
-            if not day:
-                continue
-            cell = per_day.setdefault(day, {}).setdefault(e.get("model", "?"), {"done": 0, "stop": ""})
-            if e.get("status") == "done":
-                cell["done"] += 1
-            elif e.get("status") == "retired":
-                cell["stop"] = e.get("reason", "")
-    if not per_day:
+    quota = summary["quota"]
+    if not quota["days"]:
         return
-    recent = sorted(per_day)[-days:]
-    models = sorted({m for d in recent for m in per_day[d]})
     table = Table(title="Accepted files per day (the practical daily quota)", box=box.ROUNDED,
                   border_style="#48A630", header_style="bold #63D746")
     table.add_column("Model", style="#63D746")
-    for d in recent:
+    for d in quota["days"]:
         table.add_column(d[5:], justify="right", style="#63D746")
-    for m in models:
-        cells = []
-        for d in recent:
-            c = per_day[d].get(m)
-            if not c:
-                cells.append("-")
-            else:
-                mark = "*" if "quota" in c["stop"] or "rate limits" in c["stop"] else ""
-                cells.append(f"{c['done']}{mark}")
-        table.add_row(m, *cells)
+    for row in quota["rows"]:
+        table.add_row(row["model"], *["-" if c is None else f"{c['done']}{'*' if c['capped'] else ''}" for c in row["cells"]])
     console.print(table)
     console.print("[#48A630]* = the model ran out of quota that day, so the number is its real daily capacity[/#48A630]")
 
@@ -1452,12 +1467,16 @@ def run_directory(selected_dir, models, headless):
 
     total = len(jobs)
     if headless:
-        last_print = 0.0
+        last_print = last_status = 0.0
         while any(t.is_alive() for t in threads) and not shutdown_event.is_set():
             if time.time() - last_print >= HEADLESS_PROGRESS_SECONDS:
                 print_progress_line(selected_dir, total, pool, start)
                 last_print = time.time()
+            if time.time() - last_status >= 5:
+                write_status(selected_dir, total, pool, start, workers)
+                last_status = time.time()
             time.sleep(1)
+        write_status(selected_dir, total, pool, start, workers, finished=True)
     else:
         with Live(render_dashboard(workers, total, start, pool, selected_dir), console=console,
                   refresh_per_second=4, transient=False) as live:
@@ -1487,7 +1506,38 @@ def run_directory(selected_dir, models, headless):
     return len(get_remaining_files(in_path, out_path))
 
 
-HEADLESS_PROGRESS_SECONDS = 300
+HEADLESS_PROGRESS_SECONDS = int(os.environ.get("PIPELINE_PROGRESS_SECONDS", "300"))
+STATUS_FILE = os.path.join(BASE_DIR, "run_status.json")
+
+
+def write_status(selected_dir, total, pool, start, workers, finished=False):
+    """Live snapshot of the run for the Home Assistant panel (written atomically every few seconds)."""
+    with state_lock:
+        snapshot = {w: dict(st) for w, st in worker_state.items()}
+    status = {
+        "updated": datetime.now().isoformat(timespec="seconds"),
+        "started": datetime.fromtimestamp(start).isoformat(timespec="seconds"),
+        "finished": finished,
+        "dir": selected_dir,
+        "total": total,
+        "done": run_totals["done"],
+        "done_total": run_totals["done_total"],
+        "remaining": pool.remaining(),
+        "rejected": run_totals["rejected"],
+        "given_up": len(pool.failed),
+        "workers": [
+            {"label": w.label, "provider": w.provider, "state": st.get("state"), "file": st.get("file"),
+             "done": st.get("done", 0), "rejected": st.get("rejected", 0), "note": st.get("note", "")}
+            for w in workers for st in [snapshot.get(w, {})]
+        ],
+    }
+    tmp = STATUS_FILE + ".tmp"
+    try:
+        with open(tmp, "w", encoding="utf-8") as f:
+            json.dump(status, f, ensure_ascii=False)
+        os.replace(tmp, STATUS_FILE)
+    except OSError:
+        pass
 
 
 def print_progress_line(selected_dir, total, pool, start):

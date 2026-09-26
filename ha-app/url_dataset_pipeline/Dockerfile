@@ -9,6 +9,7 @@ RUN apk add --no-cache python3 tzdata jq \
 WORKDIR /app
 COPY ai_rules.txt ./
 COPY tools/MULTI-PROVIDER_output_generator_API_v6.py ./tools/
+COPY service.py ui.html ./
 
 COPY run.sh /
 RUN chmod a+x /run.sh

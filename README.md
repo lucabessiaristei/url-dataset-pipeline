@@ -64,6 +64,9 @@ results are appended to `in_out-s/generation_report.jsonl`. Keys are read from `
 `daily_start` (default 09:15, right after the Gemini free quota resets) until every model is out of quota,
 then posts a summary notification. The dataset lives on the server in `/share/url-dataset-pipeline/in_out-s`.
 
+Its sidebar panel (**URL Dataset**) shows the run status with Run now / Stop, live workers, progress per
+directory, the last run, each model's record, the measured daily quota, the run log, and a dataset download.
+
 ```bash
 ha-app/deploy.sh                      # copy app + current generator to /local_apps, then:
 ssh root@homeassistant.local 'ha store reload && ha apps rebuild local_url_dataset_pipeline'

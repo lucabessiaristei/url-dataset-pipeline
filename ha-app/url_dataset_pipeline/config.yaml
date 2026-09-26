@@ -1,5 +1,5 @@
 name: URL Dataset Pipeline
-version: "1.0.0"
+version: "1.1.0"
 slug: url_dataset_pipeline
 description: Daily run of the multi-provider bookmark categorizer on the free API quotas
 arch:
@@ -8,6 +8,10 @@ arch:
 init: false
 boot: auto
 homeassistant_api: true
+ingress: true
+ingress_port: 8099
+panel_icon: mdi:database-cog-outline
+panel_title: URL Dataset
 map:
   - share:rw
 options:
