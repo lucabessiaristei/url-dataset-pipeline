@@ -251,8 +251,20 @@ def scheduler(runner):
         log(f"Next run at {runner.next_run:%Y-%m-%d %H:%M}")
         while datetime.now() < runner.next_run:
             time.sleep(min(30, max(1, (runner.next_run - datetime.now()).total_seconds())))
+        if runner.running():
+            # A run keeps the models it retired for quota until it ends, so a run still going at the
+            # daily start would never use the quotas that just reset: restart it (finished files are kept)
+            log("A run is still going at the daily start: restarting it so the new quotas are used")
+            runner.stop()
+            deadline = time.time() + 300
+            while runner.running() and time.time() < deadline:
+                time.sleep(2)
+            if runner.running():
+                runner.proc.kill()
+                runner.proc.wait()
+            time.sleep(3)  # let the old run's log and notification finish
         if not runner.start("schedule"):
-            log("Scheduled run skipped: a run is already in progress")
+            log("Scheduled run could not start")
 
 
 # ---------------------------------------------------------------- panel
