@@ -1,5 +1,5 @@
 name: URL Dataset Pipeline
-version: "1.1.1"
+version: "1.1.2"
 slug: url_dataset_pipeline
 description: Daily run of the multi-provider bookmark categorizer on the free API quotas
 arch:
