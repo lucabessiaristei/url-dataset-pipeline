@@ -1,5 +1,5 @@
 name: URL Dataset Pipeline
-version: "2.0.0"
+version: "2.0.1"
 slug: url_dataset_pipeline
 description: Passive dataset creator - categorizes bookmarks around the clock on free APIs (NVIDIA first, free quotas on top)
 arch:
@@ -24,7 +24,7 @@ options:
   openrouter_api_key: ""
   nvidia_api_key: ""
 schema:
-  nvidia_workers: int(1,12)
+  nvidia_workers: int(1,40)
   max_input_folders: int(1,50)
   digest_time: match(^([01]\d|2[0-3]):[0-5]\d$)
   models: str?
