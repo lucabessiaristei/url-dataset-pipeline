@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Multi-Provider Parallel Batch Processor v6 (Gemini + Groq + DeepSeek + OpenRouter + NVIDIA)
+Multi-Provider Parallel Batch Processor v6 (Gemini + Groq + OpenRouter + NVIDIA)
 
 - Every provider is called through its OpenAI-compatible endpoint (one client, one code path)
-- Several keys per provider: GEMINI_API_KEY, GEMINI_<LABEL>_API_KEY, GROQ_..., DEEPSEEK_..., OPENROUTER_..., NVIDIA_...
+- Several keys per provider: GEMINI_API_KEY, GEMINI_<LABEL>_API_KEY, GROQ_..., OPENROUTER_..., NVIDIA_...
 - Model availability is checked at startup: dead or renamed models are skipped instead of failing every file
 - Rate limits per model and per account; slots are reserved without blocking the other providers
 - 429s: per-minute limits cool down and retry, daily quotas retire the model (or the whole account)
@@ -17,7 +17,7 @@ Multi-Provider Parallel Batch Processor v6 (Gemini + Groq + DeepSeek + OpenRoute
 
 Usage:
     python tools/MULTI-PROVIDER_output_generator_API_v6.py [--dir working_split_IN--3]
-        [--only gemini,openrouter] [--models gemini-flash,or-gemma-31b]
+        [--only gemini,openrouter] [--models gemini-flash,or-dots]
     python tools/MULTI-PROVIDER_output_generator_API_v6.py --list-models
     python tools/MULTI-PROVIDER_output_generator_API_v6.py --clean-only --dir working_split_IN--2 [--apply]
 """
@@ -64,7 +64,6 @@ LAST_RUN_FILE = os.path.join(BASE_DIR, "last_run.json")
 PROVIDERS = {
     "gemini": {"base_url": "https://generativelanguage.googleapis.com/v1beta/openai/", "account_rpm": None},
     "groq": {"base_url": "https://api.groq.com/openai/v1", "account_rpm": None},
-    "deepseek": {"base_url": "https://api.deepseek.com", "account_rpm": None},
     # Free models share one account budget: 20 req/min, 50 req/day (1000/day once 10 credits were bought)
     "openrouter": {"base_url": "https://openrouter.ai/api/v1", "account_rpm": 20, "timeout": 900},
     # NVIDIA API catalog: free endpoints (DeepSeek included), 40 req/min per account, key from build.nvidia.com
@@ -83,21 +82,25 @@ PROVIDERS = {
 MODELS = {
     "gemini-3-flash": dict(provider="gemini", id="gemini-3.5-flash", rpm=10, max_input=900_000),
     "gemini-flash": dict(provider="gemini", id="gemini-2.5-flash", rpm=10, max_input=900_000),
-    # "gemini-pro": dict(provider="gemini", id="gemini-2.5-pro", rpm=2, max_input=900_000),  # needs a paid tier now
     "gemini-38-flash": dict(provider="gemini", id="gemini-3.8-flash", rpm=10, max_input=900_000),
     "gemini-37-flash": dict(provider="gemini", id="gemini-3.7-flash", rpm=10, max_input=900_000),
     "groq-qwen": dict(provider="groq", id="qwen/qwen3.8-27b", rpm=30, max_input=9_000,
                       max_tokens=8_000, extra={"reasoning_format": "hidden"}),
-    "deepseek-chat": dict(provider="deepseek", id="deepseek-chat", rpm=60, max_input=56_000,
-                          max_tokens=8_000, workers=3),
     # Free DeepSeek via NVIDIA (the official DeepSeek API has no free tier beyond a sign-up grant).
     # Probed 2026-09-26: requests wait 4-9 min in NVIDIA's queue, then answer in seconds; output passed the cleaner.
+    # Thinking is on by default and streams only reasoning_content: on real files it used the whole max_tokens
+    # before any answer (every reply empty); with thinking off a 16k-token file answered in ~4k tokens.
     "nv-deepseek-flash": dict(provider="nvidia", id="deepseek-ai/deepseek-v4.1-flash", rpm=40, max_input=200_000,
-                              max_tokens=16_000, json_mode=False, stream=True, workers=3),
-    "or-nemotron-ultra": dict(provider="openrouter", id="nvidia/nemotron-3-ultra-550b-a55b:free", rpm=20, max_input=900_000),
-    "or-nemotron-super": dict(provider="openrouter", id="nvidia/nemotron-3-super-120b-a12b:free", rpm=20, max_input=250_000),
+                              max_tokens=16_000, json_mode=False, stream=True, workers=3,
+                              extra={"chat_template_kwargs": {"thinking": False}}),
+    # OpenRouter's 50 free requests/day are shared by every :free model, so they go to the best one (dots:
+    # 75% accepted, 2.6% links lost on 2026-09-26); the Nemotrons (50% accepted, 10% lost, truncations) only
+    # take files dots can't: dots retired, already failed on the file, or the file is too big for it.
     "or-dots": dict(provider="openrouter", id="dots-studio/dots-3-note-preview:free", rpm=20, max_input=450_000),
-    "or-qwen": dict(provider="openrouter", id="qwen/qwen3.8-27b:free", rpm=20, max_input=250_000),
+    "or-nemotron-ultra": dict(provider="openrouter", id="nvidia/nemotron-3-ultra-550b-a55b:free", rpm=20,
+                              max_input=900_000, backup=True),
+    "or-nemotron-super": dict(provider="openrouter", id="nvidia/nemotron-3-super-120b-a12b:free", rpm=20,
+                              max_input=250_000, backup=True),
 }
 for _cfg in MODELS.values():
     _cfg.setdefault("max_tokens", None)
@@ -105,6 +108,7 @@ for _cfg in MODELS.values():
     _cfg.setdefault("workers", 1)
     _cfg.setdefault("extra", None)
     _cfg.setdefault("stream", False)
+    _cfg.setdefault("backup", False)  # only takes files no main model of its provider can take
 
 TEMPERATURE = 0.3           # low: the dataset needs consistent labels across models and runs
 REQUEST_TIMEOUT = 300      # per provider override: PROVIDERS[...]['timeout']
@@ -120,6 +124,7 @@ MAX_MISSING_RATIO = 0.25
 MAX_SINGLE_FOLDERS = 2
 MAX_DOUBLE_FOLDERS = 3
 MAX_FOLDER_SIZE = 30         # rules say ~20; beyond 30 the category is clearly too broad
+BOOKMARKS_PER_FOLDER = 8    # folder-count target given to the model
 MAX_CATCH_ALL_RATIO = 0.30   # share of links allowed in misc/general/other folders
 CATCH_ALL_RE = re.compile(r"(^|-)(misc|miscellaneous|general|other|others|uncategorized|various|stuff|homepage|homepages)(-|$)")
 LANGUAGE_FOLDER_RE = re.compile(
@@ -227,7 +232,7 @@ idle_cycle = cycle([
 # =========================
 # Keys, clients, availability
 # =========================
-KEY_RE = re.compile(r"(GEMINI|GROQ|DEEPSEEK|OPENROUTER|NVIDIA)(?:_(\w+?))?_API_KEY")
+KEY_RE = re.compile(r"(GEMINI|GROQ|OPENROUTER|NVIDIA)(?:_(\w+?))?_API_KEY")
 
 
 def discover_keys():
@@ -375,7 +380,17 @@ class JobPool:
             return False
         if job.tokens > model_limit(w.model):
             return False
+        if self.left_to_main(w, job):
+            return False
         return w.model not in job.tried or active_models() <= job.tried
+
+    @staticmethod
+    def left_to_main(w, job):
+        """A backup model leaves the job to an active main model of its provider that can still take it."""
+        if not MODELS[w.model]["backup"]:
+            return False
+        return any(MODELS[m]["provider"] == w.provider and not MODELS[m]["backup"] and m not in job.tried
+                   and m not in job.too_large and job.tokens <= model_limit(m) for m in active_models())
 
     def take(self, w):
         with self.cond:
@@ -387,7 +402,8 @@ class JobPool:
                         self.pending.remove(job)
                         self.in_flight += 1
                         return job
-                if self.in_flight == 0:
+                # Nothing running means nothing will change, unless a backup is waiting for its main model
+                if self.in_flight == 0 and not any(self.left_to_main(w, j) for j in self.pending):
                     return None
                 self.cond.wait(timeout=1.0)
             return None
@@ -551,9 +567,8 @@ def clean_pair(in_data, out_data, vocab=None):
             stats["merged_folders"] += 1
         bucket = merged.setdefault(slug, [])
         for bm in folder["bookmarks"]:
-            if isinstance(bm, str):
+            if isinstance(bm, str):  # the prompt asks for bare URLs; titles come from the input
                 bm = {"url": bm}
-                stats["string_bookmarks"] += 1
             if not isinstance(bm, dict):
                 continue
             if not isinstance(bm.get("url"), str) or not bm["url"].strip():
@@ -618,22 +633,24 @@ def clean_pair(in_data, out_data, vocab=None):
 
 
 def rejection_reason(cleaned, stats):
+    """Why the cleaned output is not good enough, worded as 'what is wrong (value, limit)'."""
     if not cleaned["folders"]:
-        return "no usable bookmarks"
+        return "no usable bookmarks in the output"
     total = stats["input_total"]
     if total and stats["missing"] / total > MAX_MISSING_RATIO:
-        return f"missing {stats['missing']}/{total} links"
+        return f"lost too many links ({stats['missing']} of {total}, limit {MAX_MISSING_RATIO:.0%})"
     if stats["single_folders"] > MAX_SINGLE_FOLDERS:
-        return f"{stats['single_folders']} single-link folders"
+        return f"too many 1-link folders ({stats['single_folders']}, limit {MAX_SINGLE_FOLDERS})"
     if stats["double_folders"] > MAX_DOUBLE_FOLDERS:
-        return f"{stats['double_folders']} two-link folders"
+        return f"too many 2-link folders ({stats['double_folders']}, limit {MAX_DOUBLE_FOLDERS})"
     if stats["max_folder"] > MAX_FOLDER_SIZE:
-        return f"folder with {stats['max_folder']} links"
+        return f"a folder is too big ({stats['max_folder']} links, limit {MAX_FOLDER_SIZE})"
     kept = sum(f["count"] for f in cleaned["folders"])
     if kept and stats["catch_all_links"] / kept > MAX_CATCH_ALL_RATIO:
-        return f"{stats['catch_all_links']}/{kept} links in catch-all folders"
+        return (f"too many links in misc/other folders ({stats['catch_all_links']} of {kept}, "
+                f"limit {MAX_CATCH_ALL_RATIO:.0%})")
     if stats["language_folders"]:
-        return "folders grouped by language"
+        return f"folders grouped by language, not topic ({stats['language_folders']})"
     return None
 
 # =========================
@@ -703,21 +720,15 @@ CONTEXT_MARKERS = (
 
 
 def build_prompt(in_data):
+    # Output is folder names + URLs only: the cleaner restores titles from the input, dedups, sorts and counts,
+    # so the model only spends tokens on the grouping (long titles used to overflow the output limits)
+    # Models split small files into one folder per link unless given an explicit folder count
+    n = len(in_data.get("data", []))
+    target = max(1, round(n / BOOKMARKS_PER_FOLDER))
+    size = f"{target - 1} to {target + 1} folders" if target > 2 else f"{target} or {target + 1} folders"
     return f"""{AI_RULES}
 
-Now categorize the following data according to the above rules.
-Additional constraints:
-- Every input URL must appear exactly once in the output.
-- Bookmarks can be in any language: categorize by meaning, never by language or country
-  (no folders like "german-sites"); links on the same topic share a folder whatever their language.
-- Folder names are always English slugs. Copy titles exactly as given, in their original language.
-- Split folders >20 links into coherent subgroups.
-- Keep balanced grouping.
-- CRITICAL: Only include `url` and `title` fields.
-- CRITICAL: Avoid folders with only 1 or 2 links.
-
-Return only valid, minified JSON.
-
+Bookmarks to organize: {n} items -> use {size}, each with at least 3 bookmarks.
 {json.dumps(in_data, ensure_ascii=False, separators=(",", ":"))}"""
 
 
@@ -786,6 +797,10 @@ def classify_error(e):
     status = getattr(e, "status_code", None)
     if status is None:
         return "transient" if any(x in msg for x in ("temporarily", "timeout", "unavailable", "overloaded")) else "fatal"
+    if status == 429 and ("(otpm)" in msg or "output tokens per minute" in msg):
+        # Groq says "request too large" for its output-per-minute budget, but it frees up within
+        # the minute: the same file with the same max_tokens goes through later (seen 2026-09-26)
+        return "rate_limit"
     if status == 413 or (status in (400, 429) and any(m in msg for m in CONTEXT_MARKERS)):
         return "too_large"
     if status == 429:
@@ -839,18 +854,71 @@ def short(msg, n=70):
 # =========================
 # Processing
 # =========================
-def reject(w, job, reason, raw=None, count_attempt=True):
+def reject(w, job, reason, raw=None):
     job.tried.add(w.model)
     job.last_reason = f"{w.model}: {reason}"
-    if count_attempt:
-        job.attempts += 1
-        run_totals["rejected"] += 1
+    job.attempts += 1
+    run_totals["rejected"] += 1
     if raw:
         save_rejected(job, w.model, raw)
     logger.info(f"{w.label} | {job.filename} rejected: {reason}")
     report({"file": job.filename, "model": w.model, "status": "rejected", "reason": reason})
-    set_status(w, "rejected", job.filename, rejected=1 if count_attempt else 0)
+    set_status(w, "rejected", job.filename, note=reason, rejected=1)
     return "failed" if job.attempts >= MAX_JOB_ATTEMPTS else "retry"
+
+
+def describe_api_error(e):
+    """One readable line for an API failure, instead of the raw exception text."""
+    msg = error_text(e)
+    status = getattr(e, "status_code", None)
+    if isinstance(e, openai.APITimeoutError):
+        return "no reply before the request timeout"
+    if isinstance(e, openai.APIConnectionError):
+        return "connection to the provider failed"
+    m = re.search(r"empty response \(finish_reason=(\w+)", msg)
+    if m:
+        if m.group(1) == "length":
+            return "empty reply: the output-token limit ran out before any answer text"
+        return f"empty reply (finish_reason={m.group(1)})"
+    if status in (502, 503, 504):
+        return {502: "provider gateway error (502)", 503: "provider unavailable (503)",
+                504: "provider gateway timed out waiting for the model (504)"}[status]
+    if status and status >= 500:
+        return f"provider server error ({status})"
+    upstream = upstream_error(getattr(e, "body", None))
+    if upstream:
+        return f"upstream provider error ({status}): {short(upstream, 100)}"
+    body = getattr(e, "body", None)
+    err = body.get("error", body) if isinstance(body, dict) else None
+    text = err.get("message") if isinstance(err, dict) and err.get("message") else str(e)
+    return f"{f'error {status}' if status else type(e).__name__}: {short(text, 100)}"
+
+
+def upstream_error(body):
+    """OpenRouter wraps the real provider's error as a JSON string in error.metadata.raw."""
+    err = body.get("error", body) if isinstance(body, dict) else None
+    raw = ((err or {}).get("metadata") or {}).get("raw") if isinstance(err, dict) else None
+    if not raw:
+        return None
+    try:
+        inner = json.loads(raw)
+    except (TypeError, ValueError):
+        return str(raw)
+    while isinstance(inner, dict):
+        inner = inner.get("error") or inner.get("message") or json.dumps(inner)
+    return str(inner)
+
+
+def api_failure(w, job, e):
+    """The request failed (not the output): try the file elsewhere; it doesn't count as a rejection."""
+    reason = describe_api_error(e)
+    job.tried.add(w.model)
+    job.last_reason = f"{w.model}: {reason}"
+    run_totals["api_errors"] += 1
+    logger.info(f"{w.label} | {job.filename} API error: {reason}")
+    report({"file": job.filename, "model": w.model, "status": "error", "reason": reason})
+    set_status(w, "error", job.filename, note=reason)
+    return "retry"
 
 
 def learn_from_too_large(w, job, msg):
@@ -923,8 +991,8 @@ def handle_api_error(w, job, e):
         counters_fatal[w.model] += 1
         n = counters_fatal[w.model]
     if n >= MAX_CONSECUTIVE_FATAL:
-        retire(("model", w.model, "*"), f"API errors: {short(detail, 60)}")
-    return reject(w, job, f"api error: {short(detail, 80)}", count_attempt=False)
+        retire(("model", w.model, "*"), f"{n} API errors in a row, last: {describe_api_error(e)}")
+    return api_failure(w, job, e)
 
 
 def run_job(w, job):
@@ -956,10 +1024,10 @@ def run_job(w, job):
         counters_fatal[w.model] = 0
 
     if finish == "length":
-        return reject(w, job, "output truncated", raw=text)
+        return reject(w, job, f"reply cut off at the {MODELS[w.model]['max_tokens'] or 'provider'} output-token limit", raw=text)
     parsed = extract_json(text)
     if parsed is None:
-        return reject(w, job, "invalid JSON", raw=text)
+        return reject(w, job, "reply is not valid JSON", raw=text)
     try:
         cleaned, trimmed_in, stats = clean_pair(in_data, parsed, vocab)
     except CleanError as e:
@@ -1030,6 +1098,7 @@ STATUS_STYLES = {
     "done": ("DONE {idle}", "#48A630"),
     "skipped": ("SKIPPED", "#48A630"),
     "rejected": ("REJECTED", "#FFB000"),
+    "error": ("API ERROR", "#FF5F1F"),
     "cooldown": ("COOLDOWN {sleep}", "#A8EE59"),
     "waiting": ("WAITING {sleep}", "#A8EE59"),
     "retired": ("RETIRED {sleep}", "#FF5F1F"),
@@ -1090,7 +1159,7 @@ def render_dashboard(workers, total, start_time, pool, in_dir_name):
 
     stats_height = len(stats_table.rows)
     pad = "\n" * max(0, stats_height // 2 - 2)
-    header_text = pad + "MULTI-PROVIDER BATCH PROCESSOR\ngemini + groq + deepseek + openrouter + nvidia" + pad
+    header_text = pad + "MULTI-PROVIDER BATCH PROCESSOR\ngemini + groq + openrouter + nvidia" + pad
     inner_panel = Panel(Text(header_text, style="#63D746 bold", justify="center"),
                         box=box.DOUBLE, border_style="#48A630", padding=(1, 4))
     header_panel = Panel(inner_panel, title="[#48A630]v 6.0[/#48A630]", box=box.ROUNDED, border_style="#48A630")
@@ -1212,6 +1281,28 @@ def clean_existing(in_dir_name, apply, vocab):
 # =========================
 # Main
 # =========================
+# Rejection reasons grouped for the stats; old and current wordings map to the same plain label
+REASON_LABELS = [
+    (r"missing \d+/\d+ links|lost too many links", "lost too many links"),
+    (r"single-link folders|1-link folders", "too many folders with 1 link"),
+    (r"two-link folders|2-link folders", "too many folders with 2 links"),
+    (r"folder with \d+ links|folder is too big", "a folder is too big"),
+    (r"catch-all|misc/other", "too many links in misc/other folders"),
+    (r"language", "folders grouped by language"),
+    (r"truncated|cut off", "reply cut off by the output-token limit"),
+    (r"json", "reply is not valid JSON"),
+    (r"no usable bookmarks", "no usable bookmarks in the reply"),
+    (r"^crash", "generator crashed on this file"),
+]
+
+
+def reason_label(reason):
+    for pattern, label in REASON_LABELS:
+        if re.search(pattern, reason, re.IGNORECASE):
+            return label
+    return short(reason, 60)
+
+
 def report_summary(days=7):
     """Per-model record and per-day accepted files from generation_report.jsonl.
     Shared by --stats and the Home Assistant panel."""
@@ -1225,14 +1316,17 @@ def report_summary(days=7):
                     continue
                 model = e.get("model", "?")
                 status = e.get("status")
-                r = models.setdefault(model, {"done": 0, "rejected": 0, "missing": 0, "links": 0, "reasons": Counter()})
+                r = models.setdefault(model, {"done": 0, "rejected": 0, "errors": 0, "missing": 0, "links": 0,
+                                                "reasons": Counter()})
                 if status == "done":
                     r["done"] += 1
                     r["missing"] += e.get("stats", {}).get("missing", 0)
                     r["links"] += e.get("stats", {}).get("input_total", 0)
+                elif status == "error" or (status == "rejected" and e.get("reason", "").startswith("api error")):
+                    r["errors"] += 1  # the request failed, the model's output was never judged
                 elif status == "rejected":
                     r["rejected"] += 1
-                    r["reasons"][re.sub(r"\d+", "N", e.get("reason", ""))[:40]] += 1
+                    r["reasons"][reason_label(e.get("reason", ""))] += 1
                 day = (e.get("ts") or "")[:10]
                 if day and status in ("done", "retired"):
                     cell = per_day.setdefault(day, {}).setdefault(model, {"done": 0, "stop": ""})
@@ -1243,14 +1337,14 @@ def report_summary(days=7):
 
     rows = []
     for model, r in sorted(models.items(), key=lambda kv: -kv[1]["done"]):
-        if not (r["done"] or r["rejected"]):
-            continue
+        if model not in MODELS or not (r["done"] or r["rejected"] or r["errors"]):
+            continue  # models taken out of MODELS disappear from the stats; their history stays in the report
         tried = r["done"] + r["rejected"]
         rows.append({
             "model": model,
-            "active": model in MODELS,
             "done": r["done"],
             "rejected": r["rejected"],
+            "errors": r["errors"],
             "accept_pct": round(r["done"] * 100 / tried) if tried else None,
             "lost_pct": round(r["missing"] * 100 / r["links"], 1) if r["links"] else None,
             "reasons": [[k, v] for k, v in r["reasons"].most_common(3)],
@@ -1265,7 +1359,7 @@ def report_summary(days=7):
                     "capped": "quota" in per_day[d][m]["stop"] or "rate limits" in per_day[d][m]["stop"],
                     "stop": per_day[d][m]["stop"],
                 } for d in recent]}
-            for m in sorted({m for d in recent for m in per_day[d]})
+            for m in sorted({m for d in recent for m in per_day[d]} & set(MODELS))
         ],
     }
     return {"models": rows, "quota": quota}
@@ -1278,15 +1372,15 @@ def print_stats():
         console.print("No report yet: run the generator first.")
         return
     table = Table(box=box.ROUNDED, border_style="#48A630", header_style="bold #63D746")
-    for col in ("Model", "Done", "Rejected", "Accept %", "Links lost %", "Top rejection reasons"):
+    for col in ("Model", "Done", "Rejected", "API errors", "Accept %", "Links lost %", "Top rejection reasons"):
         table.add_column(col, style="#63D746")
     for r in summary["models"]:
         table.add_row(
-            r["model"] + ("" if r["active"] else " (removed)"),
-            str(r["done"]), str(r["rejected"]),
+            r["model"],
+            str(r["done"]), str(r["rejected"]), str(r["errors"]),
             "-" if r["accept_pct"] is None else str(r["accept_pct"]),
             "-" if r["lost_pct"] is None else str(r["lost_pct"]),
-            "; ".join(f"{k} ×{v}" for k, v in r["reasons"]),
+            "\n".join(f"{k} ({v} {'file' if v == 1 else 'files'})" for k, v in r["reasons"]),
         )
     console.print(table)
 
@@ -1375,7 +1469,7 @@ def main():
 
     api_keys.update(discover_keys())
     if not api_keys:
-        raise RuntimeError("No API keys found. Set GEMINI_API_KEY, GROQ_API_KEY, DEEPSEEK_API_KEY, OPENROUTER_API_KEY and/or NVIDIA_API_KEY in tools/.env")
+        raise RuntimeError("No API keys found. Set GEMINI_API_KEY, GROQ_API_KEY, OPENROUTER_API_KEY and/or NVIDIA_API_KEY in tools/.env")
 
     models = prepare_models(select_models(args))
     if args.list_models:
@@ -1455,6 +1549,7 @@ def run_directory(selected_dir, models, headless):
 
     run_totals["done"] = 0
     run_totals["rejected"] = 0
+    run_totals["api_errors"] = 0
     start = time.time()
     threads = []
     with state_lock:
@@ -1500,10 +1595,24 @@ def run_directory(selected_dir, models, headless):
     with pool.cond:
         leftover = list(pool.pending)
     if leftover and not shutdown_event.is_set():
-        too_big = sum(1 for j in leftover if j.too_large or all(j.tokens > model_limit(m) for m in models))
-        console.print(f"[#FFB000]{len(leftover)} files left for the next run"
-                      f"{f' ({too_big} too large for the models that were still active)' if too_big else ''}.[/#FFB000]")
+        console.print(f"[#FFB000]{len(leftover)} files left for the next run:[/#FFB000]")
+        for why, n in leftover_reasons(leftover, models).most_common(8):
+            console.print(f"  {n} × {why}")
     return len(get_remaining_files(in_path, out_path))
+
+
+def leftover_reasons(leftover, models):
+    """Groups the files a run could not finish by why they are still there."""
+    why = Counter()
+    for j in leftover:
+        fits = [m for m in models if m not in j.too_large and j.tokens <= model_limit(m)]
+        if not fits:
+            why["too large for every configured model"] += 1
+        elif j.last_reason:
+            why[f"last try failed ({j.last_reason})"] += 1
+        else:
+            why[f"not reached: the models that fit them ({', '.join(fits)}) were out of quota or errors"] += 1
+    return why
 
 
 HEADLESS_PROGRESS_SECONDS = int(os.environ.get("PIPELINE_PROGRESS_SECONDS", "300"))
@@ -1524,6 +1633,7 @@ def write_status(selected_dir, total, pool, start, workers, finished=False):
         "done_total": run_totals["done_total"],
         "remaining": pool.remaining(),
         "rejected": run_totals["rejected"],
+        "api_errors": run_totals["api_errors"],
         "given_up": len(pool.failed),
         "workers": [
             {"label": w.label, "provider": w.provider, "state": st.get("state"), "file": st.get("file"),
@@ -1545,7 +1655,7 @@ def print_progress_line(selected_dir, total, pool, start):
         states = Counter(st["state"] for st in worker_state.values())
     elapsed = (time.time() - start) / 60
     print(f"[{datetime.now():%H:%M}] {selected_dir}: {run_totals['done']}/{total} done, "
-          f"{pool.remaining()} remaining, {run_totals['rejected']} rejected, {len(pool.failed)} given up | "
+          f"{pool.remaining()} remaining, {run_totals['rejected']} rejected, {run_totals['api_errors']} API errors, {len(pool.failed)} given up | "
           f"workers {dict(states)} | {elapsed:.0f} min", flush=True)
 
 

@@ -1,113 +1,41 @@
-AI Bookmark Organization Rules v3.2
+AI Bookmark Organization Rules v4
 
-Guiding Philosophy: The goal is to organize bookmarks in a way that is intuitive for a human. We will use a flexible, tag-based system to create concise and descriptive folder names that prioritize future retrievability.
+Goal: group the bookmarks below into folders that make each one easy for a person to find again.
 
---
 1) OUTPUT FORMAT
---
 
-The output will be a JSON object with the following structure:
-{
-  "folders": [
-    { "name": "<folder-slug>", "bookmarks": [ ... ], "count": 0 }
-  ],
-  "total_bookmarks": 0,
-  "num_folders": 0
-}
+Reply with one minified JSON object and nothing else (no markdown, no comments):
+{"folders":[{"name":"<folder-slug>","bookmarks":["<url>","<url>"]}]}
 
-Main Rules:
-1. Each bookmark belongs to exactly one folder.
-2. The folder structure is flat (no subfolders).
-3. Bookmarks are sorted by title (case-insensitive) within folders.
-4. Folders are sorted by count (descending), then by slug (ascending).
-5. Folders use context specific names: "Python Libraries" not "Programming"
-6. Avoid single-item categories (merge into related groups)
-7. Avoid categories over 20 items (split into sub-categories)
+- List each bookmark by its URL only, copied exactly as given (no titles, no other fields, no URL changes).
+- Every input URL appears exactly once in the whole output: none missing, none repeated, none invented.
+- Order does not matter; counts and totals are not needed.
 
---
-2) DYNAMIC CATEGORIZATION PRINCIPLES
---
+2) HARD LIMITS (outputs that break them are discarded)
 
-The system identifies the bookmark's purpose (Intent) and its subject matter (Topics). These tags are not from a fixed list and should be generated dynamically based on the content.
+- No folder has more than 20 bookmarks: split a big topic into more specific folders.
+- At most 2 folders with a single bookmark and at most 3 folders with two bookmarks in the whole output:
+  merge small groups into the closest broader topic instead.
+- No catch-all folders: never name a folder misc, general, other, uncategorized, various or homepages.
+  A bookmark that fits nowhere goes into the closest real topic, even a loose fit.
+- Group by meaning, never by language or country: no folders like "german-sites" or "foreign".
+  Links on the same topic share a folder whatever their language.
 
-- Intent Tag: What *kind* of page is this? (e.g., `guide`, `article`, `product`, `tool`, `recipe`).
-- Topic Tags: What is this page *about*? (e.g., `baking`, `ai-ml`, `travel-planning`, `home-repair`).
+3) CHOOSING FOLDERS
 
-Principles for Tag Creation:
-1.  Be Specific: Prefer `sourdough-baking` over a generic `baking`.
-2.  Be Human-Readable: Use natural, intuitive terms.
-3.  Be Consistent: Reuse tags like `travel-planning` for similar bookmarks.
+Use the title, description, preview and URL of each bookmark as clues to what it is about and what kind of page it is.
+- Be specific where the group allows it: "sourdough-baking" rather than "cooking", "python-libraries" rather than "programming".
+- Be consistent: similar bookmarks share the same folder, with one name for one topic.
+- Folder count: stick to the number of folders given with the bookmarks below (about one per 8 bookmarks), so most
+  folders hold 5 to 20 bookmarks. With few bookmarks, use broad topics ("technology", "business-finance",
+  "entertainment", "science", "government-law") instead of one folder per bookmark.
+- A site's homepage goes under the site's topic or the entity's name (e.g. "robotics-automation", "npr"), never "homepage".
+- Multimedia and code: tutorials in video form can use "-video" (e.g. "woodworking-video"); a GitHub repository is usually a tool or project on its topic; a gist is "code-snippets".
+- No clear signals: decide from the URL's domain and path.
 
---
-3) SIGNAL INTERPRETATION
---
+4) FOLDER NAMES (SLUGS)
 
-Use the bookmark's title, description, URL, and content preview to inform tag generation. Keyword lexicons should be used as clues, not rigid rules.
-
---
-4) FOLDER NAMING (SLUGS)
---
-(This section remains unchanged from v3.1.)
-
-Folder slugs must be concise and highly descriptive. The goal is to create short, scannable names that clearly identify the content.
-
-4.1 Standard Format
-
-The format is now limited to a maximum of two components, separated by a double hyphen.
-
-`<primary-topic>[-specifier]`
-
-- Primary Topic: The most specific and important subject of the bookmark.
-    - *Example:* For a lasagna recipe, the primary topic is `lasagna`, not the broader `cooking`.
-- Specifier (optional): The single most useful secondary tag. This can be a sub-topic or a concise, actionable intent (like `guide`, `recipe`, `tool`, `review`). The AI must choose the specifier that adds the most clarity without adding clutter.
-
-Principles for Slug Creation:
-- Brevity is Key: Aim for a single, descriptive topic where possible (e.g., `sourdough-baking`). Only add a specifier if it's essential for clarity (e.g., `sourdough-baking-guide`).
-- Prioritize Specificity: Prefer `flexbox-guide` over `css-guide`.
-- No Redundancy: Avoid stating the obvious. An article from a news site doesn't need an `article` specifier if the topic is clear.
-
-4.2 Handling Website Homepages
-
-When bookmarking the root URL of a website, do not use `homepage` in the folder name. The folder should describe the website's primary topic or the name of the entity itself.
-
-- For a company like "Foresight Automation": `foresight-automation` or `robotics-automation`.
-- For a well-known brand like NPR or BMW: `npr` or `bmw`.
-
--
-5) URL CANONICALIZATION & DEDUPLICATION
--
-(This section remains unchanged as it represents best practices.)
-
-- Force `https` protocol, remove `www.`, and remove trailing slashes from non-root URLs.
-- Strip common tracking parameters (e.g., `utm_*`, `gclid`) and URL fragments (`#...`).
-- Lowercase the domain name but preserve the case of the URL path.
-- After canonicalization, deduplicate URLs, keeping the version with the more descriptive title if a conflict arises.
-
-
---
-6) GENERAL GUIDELINES & EDGE CASES
---
-
-This section includes principles for folder size management and other specific cases.
-
-6.1 Folder Size Management
-
-To keep the organization useful and tidy, the AI should follow these flexible guidelines on folder size.
-
-- Avoiding Single-Bookmark Folders (Singletons):
-    - Principle: If a bookmark's initial classification would create a new folder containing only that single item, the AI should attempt to generalize the category. The goal is to increase the likelihood that future, related bookmarks will be grouped with it.
-    - Practical Example: A bookmark about a specific camera manual might initially be classified as `analog-photography-minolta-x700-manual`. If this would be a new, single-item folder, the AI should broaden the category to something more reusable, like `photography-manuals` or `hobby-analog-photography`.
-    - Last Resort: If no sensible generalization is possible, a folder named `misc-<topic>` can be used.
-
-- Avoiding Oversized Folders (Over 20 Bookmarks):
-    - Principle: A folder exceeding a soft limit of 20 bookmarks is a signal that its category has become too broad. The AI should treat this as a trigger to subdivide the folder into more specific sub-categories.
-    - Practical Example: A `cooking` folder with 25 bookmarks should be analyzed. The AI could identify patterns within the content and split it into more specific folders like `recipes-desserts`, `italian-cooking`, and `baking-techniques`.
-
-6.2 Other Edge Cases
-
-    - Ambiguity: When in doubt, choose the folder structure that you believe would make the bookmark easiest for a human to find later. Retrievability is the top priority.
-    - Multimedia: Video tutorials should be ...-video-guide. A TED talk would be ...-talk or ...-video-explainer. A photo gallery would be ...-gallery.
-    - GitHub/GitLab: A repository's root page could be a tool or project. A /wiki page could be documentation. A gist is code-snippet.
-    - No Clear Signals: If all text fields are empty or "void," analyze the URL. If the URL is just a root domain (e.g., google.com), classify it as homepage-<topic-if-obvious-else-general>. Otherwise, default to general-uncategorized.
-
-
+- English, lowercase, words joined by single hyphens, at most 3 words: "<topic>" or "<topic>-<specifier>".
+- The specifier is optional and only added when it helps: a sub-topic or the kind of page ("guide", "recipes", "tools", "news", "reviews").
+- No redundant words ("links", "sites", "pages", "resources", "articles").
+- Titles stay in their original language; only folder names are English.

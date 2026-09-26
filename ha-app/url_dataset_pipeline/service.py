@@ -30,7 +30,7 @@ RUN_LOG = os.path.join(DATA_ROOT, "run.log")
 PORT = int(os.environ.get("PIPELINE_PANEL_PORT", "8099"))
 # Only Home Assistant's ingress proxy may talk to the panel (it handles authentication)
 ALLOWED_CLIENTS = {"172.30.32.2", "127.0.0.1"}
-PROVIDERS = ("gemini", "groq", "openrouter", "nvidia", "deepseek")
+PROVIDERS = ("gemini", "groq", "openrouter", "nvidia")
 
 os.environ.setdefault("PIPELINE_DATA_DIR", DATA_DIR)
 os.environ.setdefault("PIPELINE_LOG_FILE", os.path.join(DATA_ROOT, "generator.log"))

@@ -29,7 +29,7 @@ python tools/json_urls_data_quick_expander.py
 # split the expanded dataset into input batches
 python tools/working_expanded_splitter.py
 
-# generate + clean outputs with every provider that has a key (Gemini, Groq, DeepSeek, OpenRouter, NVIDIA)
+# generate + clean outputs with every provider that has a key (Gemini, Groq, OpenRouter, NVIDIA)
 python tools/MULTI-PROVIDER_output_generator_API_v6.py
 python tools/MULTI-PROVIDER_output_generator_API_v6.py --list-models          # check keys/models
 python tools/MULTI-PROVIDER_output_generator_API_v6.py --clean-only --dir working_split_IN--2 [--apply]

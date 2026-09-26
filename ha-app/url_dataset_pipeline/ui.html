@@ -159,9 +159,15 @@ if (!reduceMotion) {
     for (const el of document.querySelectorAll("[data-face]")) el.textContent = faceText(el.dataset.face);
   }, 750);
 }
+// What the worker is doing, or why the file it just had failed
+const workerNote = (w) => {
+  if (["rejected", "error"].includes(w.state) && w.note) return `${w.file || "-"}: ${w.note}`;
+  if (["retired", "cooldown", "waiting"].includes(w.state) && w.note) return w.note;
+  return w.file || "-";
+};
 const STATE_TAGS = {
   processing: "ok", done: "ok", skipped: "", idle: "", waiting: "warn", cooldown: "warn",
-  rejected: "warn", retired: "err", stopped: "",
+  rejected: "warn", error: "err", retired: "err", stopped: "",
 };
 
 // Collapsed/expanded sections are remembered across visits
@@ -193,7 +199,7 @@ function renderState(s) {
       r.running ? `since ${time(r.started)}` : `next ${time(r.next_run)}`,
       r.running && !r.stopping ? "work" : "sleep"],
     ["Dataset", `${total ? Math.floor(done * 100 / total) : 0}%`, `${num(done)} / ${num(total)} files`],
-    ["This run", live ? num(st.done_total) : "-", live ? `${st.dir.replace("working_split_", "")} · ${num(st.rejected)} rejected` : "not running"],
+    ["This run", live ? num(st.done_total) : "-", live ? `${st.dir.replace("working_split_", "")} · ${num(st.rejected)} rejected · ${num(st.api_errors ?? 0)} API errors` : "not running"],
     ["Last run", last ? num(last.done) : "-", last ? `${time(last.finished)} · ${last.minutes} min` : "no run yet"],
     ["Files left", num(total - done), last && last.retired ? `${Object.keys(last.retired).length} models out of quota last run` : ""],
   ].map(([l, v, h, f]) => `<div class="card"><div class="label">${esc(l)}</div><div class="value${String(v).length > 8 ? " small" : ""}">${esc(v)}</div>${face(f)}<div class="hint">${esc(h)}</div></div>`).join("");
@@ -207,7 +213,7 @@ function renderState(s) {
       st.workers.map((w) => `<tr><td>${esc(w.label)}</td><td class="muted">${esc(w.provider)}</td>
         <td style="white-space:nowrap"><span class="tag ${STATE_TAGS[w.state] ?? ""}">${esc(w.state)}</span>${face(STATE_FACE[w.state])}</td>
         <td class="n">${num(w.done)}</td><td class="n">${num(w.rejected)}</td>
-        <td class="muted">${esc(["retired", "cooldown", "waiting"].includes(w.state) && w.note ? w.note : (w.file || "-"))}</td></tr>`).join("")
+        <td class="muted">${esc(workerNote(w))}</td></tr>`).join("")
     }</tbody></table></div>`;
   } else {
     $("workersMeta").textContent = "not running";
@@ -250,14 +256,14 @@ function renderState(s) {
 
 function renderStats(s) {
   $("models").innerHTML = s.models.length ? `<div class="wrap"><table><thead><tr><th>Model</th><th class="n">Done</th>
-    <th class="n">Rejected</th><th class="n">Accept</th><th class="n">Links lost</th><th>Top rejection reasons</th></tr></thead><tbody>${
+    <th class="n">Rejected</th><th class="n">API errors</th><th class="n">Accept</th><th class="n">Links lost</th><th>Top rejection reasons</th></tr></thead><tbody>${
     s.models.map((m) => {
       const cls = m.accept_pct === null ? "" : m.accept_pct >= 70 ? "ok" : m.accept_pct >= 40 ? "warn" : "err";
-      return `<tr><td>${esc(m.model)}${m.active ? "" : ' <span class="tag">removed</span>'}</td>
-        <td class="n">${num(m.done)}</td><td class="n">${num(m.rejected)}</td>
+      return `<tr><td>${esc(m.model)}</td>
+        <td class="n">${num(m.done)}</td><td class="n">${num(m.rejected)}</td><td class="n">${num(m.errors ?? 0)}</td>
         <td class="n">${m.accept_pct === null ? "-" : `<span class="tag ${cls}">${m.accept_pct}%</span>`}</td>
         <td class="n">${m.lost_pct === null ? "-" : m.lost_pct + "%"}</td>
-        <td class="muted">${esc(m.reasons.map(([r, n]) => `${r} ×${n}`).join("; "))}</td></tr>`;
+        <td class="muted">${m.reasons.map(([r, n]) => `<div>${esc(r)} (${num(n)} ${n === 1 ? "file" : "files"})</div>`).join("") || "-"}</td></tr>`;
     }).join("")}</tbody></table></div>` : `<div class="empty">No results yet.</div>`;
 
   const q = s.quota;
