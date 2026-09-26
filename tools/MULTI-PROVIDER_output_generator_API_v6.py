@@ -25,7 +25,7 @@ Usage:
 # =========================
 # Imports
 # =========================
-import os, re, json, time, glob, heapq, random, shutil, signal, threading, logging, warnings, argparse, unicodedata
+import os, re, json, time, heapq, random, shutil, hashlib, signal, threading, logging, warnings, argparse, unicodedata
 from collections import Counter, deque
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
@@ -131,7 +131,7 @@ MAX_SINGLE_FOLDERS = 2
 MAX_DOUBLE_FOLDERS = 3
 MAX_FOLDER_SIZE = 30         # rules say ~20; beyond 30 the category is clearly too broad
 BOOKMARKS_PER_FOLDER = 8    # folder-count target given to the model
-MAX_CATCH_ALL_RATIO = 0.30   # share of links allowed in misc/general/other folders
+MAX_CATCH_ALL_RATIO = 0.10   # misc/general/other folders: the rules forbid them, a little slack for odd links
 CATCH_ALL_RE = re.compile(r"(^|-)(misc|miscellaneous|general|other|others|uncategorized|various|stuff|homepage|homepages)(-|$)")
 LANGUAGE_FOLDER_RE = re.compile(
     r"(^|-)(german|italian|french|spanish|polish|dutch|czech|russian|japanese|chinese|portuguese)"
@@ -436,10 +436,13 @@ class JobPool:
         self.failed = []
         self.cond = threading.Condition()
 
-    def add(self, jobs):
+    def add(self, jobs, front=False):
         with self.cond:
             new = [j for j in jobs if j.in_file not in self.known]
-            self.pending.extend(new)
+            if front:
+                self.pending.extendleft(reversed(new))
+            else:
+                self.pending.extend(new)
             self.known.update(j.in_file for j in new)
             self.cond.notify_all()
             return len(new)
@@ -664,7 +667,7 @@ def clean_pair(in_data, out_data, vocab=None):
             src = input_map[n]
             url = src["url"].strip()
             out_title = str(bm.get("title") or "").strip()
-            title = str(src.get("title") or "").strip() or out_title
+            title = str(src.get("name") or src.get("title") or "").strip() or out_title
             if bm.get("url") != url:
                 stats["url_synced"] += 1
             if out_title and title != out_title:  # the prompt asks for URLs only, so no title is normal
@@ -798,9 +801,41 @@ CONTEXT_MARKERS = (
 )
 
 
+FIELD_CHARS = 150   # desc and text are cut to this, as the Chrome extension will send them
+
+
+def bookmark_view(item):
+    """One bookmark as the model sees it, in the Chrome-extension schema:
+    name (the bookmark's own name, maybe renamed by the user), url, and when the page could be read:
+    page (its title, only when it differs from name), desc (meta description), text (first visible text).
+    Old-schema inputs (title/description/preview) map onto it as bookmarks named after their page title."""
+    def field(*keys):
+        for k in keys:
+            v = str(item.get(k) or "").strip()
+            if v and v.lower() != "void":
+                return v
+        return ""
+    name = field("name", "title")
+    view = {"name": name, "url": field("url")}
+    page = field("page_title") if "name" in item else ""
+    if page and page != name:
+        view["page"] = page
+    for key, keys in (("desc", ("desc", "description")), ("text", ("text", "preview"))):
+        v = field(*keys)
+        if v:
+            view[key] = v[:FIELD_CHARS]
+    return view
+
+
+def render_bookmarks(in_data):
+    """Numbered bookmarks, one compact JSON object per line (the model answers with these numbers)."""
+    return "\n".join(json.dumps({"id": i, **bookmark_view(it)}, ensure_ascii=False, separators=(",", ":"))
+                     for i, it in enumerate(in_data.get("data", []), 1))
+
+
 def build_prompt(in_data):
-    # Output is folder names + URLs only: the cleaner restores titles from the input, dedups, sorts and counts,
-    # so the model only spends tokens on the grouping (long titles used to overflow the output limits)
+    # The model answers with folder names and bookmark numbers only: about 5x fewer output tokens than
+    # URLs, and it cannot mistype one. The cleaner maps numbers back to URLs and restores titles.
     # Models split small files into one folder per link unless given an explicit folder count
     n = len(in_data.get("data", []))
     target = max(1, round(n / BOOKMARKS_PER_FOLDER))
@@ -808,7 +843,40 @@ def build_prompt(in_data):
     return f"""{AI_RULES}
 
 Bookmarks to organize: {n} items -> use {size}, each with at least 3 bookmarks.
-{json.dumps(in_data, ensure_ascii=False, separators=(",", ":"))}"""
+{render_bookmarks(in_data)}"""
+
+
+def numbers_to_bookmarks(parsed, in_data, stats):
+    """Turns {"folders":[{"name","items":[1,4]}]} into the URL form the cleaner checks.
+    Folders that already list bookmarks (old replies) pass through unchanged."""
+    data = in_data.get("data", [])
+    folders = parsed.get("folders") if isinstance(parsed, dict) else parsed
+    if not isinstance(folders, list):
+        return parsed
+    out = []
+    for folder in folders:
+        if not isinstance(folder, dict):
+            out.append(folder)
+            continue
+        numbers = folder.get("items")
+        if numbers is None and all(isinstance(b, int) for b in folder.get("bookmarks") or [None]):
+            numbers = folder.get("bookmarks")  # numbers under the old key
+        if numbers is None:
+            out.append(folder)  # an old-style reply with URLs
+            continue
+        bookmarks = []
+        for n in numbers:
+            try:
+                i = int(n)
+            except (TypeError, ValueError):
+                stats["bad_numbers"] += 1
+                continue
+            if 1 <= i <= len(data) and isinstance(data[i - 1], dict) and data[i - 1].get("url"):
+                bookmarks.append({"url": data[i - 1]["url"]})
+            else:
+                stats["bad_numbers"] += 1
+        out.append({"name": folder.get("name"), "bookmarks": bookmarks})
+    return {"folders": out}
 
 
 def estimate_tokens(prompt):
@@ -1080,6 +1148,9 @@ def run_job(w, job):
     if os.path.exists(job.out_file):
         set_status(w, "skipped", job.filename)
         return "done"
+    if not os.path.exists(job.in_file):  # its folder was removed or rebuilt while it was queued
+        logger.info(f"{job.in_file} no longer exists, dropped from the queue")
+        return "done"
 
     in_data = load_json(job.in_file)
     prompt = build_prompt(in_data)
@@ -1110,8 +1181,12 @@ def run_job(w, job):
     parsed = extract_json(text)
     if parsed is None:
         return reject(w, job, "reply is not valid JSON", raw=text)
+    number_stats = Counter()
+    parsed = numbers_to_bookmarks(parsed, in_data, number_stats)
     try:
         cleaned, trimmed_in, stats = clean_pair(in_data, parsed, vocab)
+        if number_stats["bad_numbers"]:
+            stats["extra"] += number_stats["bad_numbers"]
     except CleanError as e:
         return reject(w, job, str(e), raw=text)
     reason = rejection_reason(cleaned, stats)
@@ -1755,11 +1830,15 @@ REST_HOURS = 24          # a file rejected MAX_JOB_ATTEMPTS times waits this lon
 MAX_REST_ROUNDS = 3      # after this many rests it is left alone for good (no model can do it)
 FEED_SECONDS = 600       # rescan the input folders (new folders, rested files) this often
 POOLS_DIR = os.environ.get("PIPELINE_POOLS_DIR", os.path.join(ROOT, "json_lists"))
-POOL_GLOB = "working_expanded*.json"
+POOL_FILE = "working_expanded.json"   # 12,108 links (working_expanded_eu.json is a subset of it)
+RENAMES_FILE = "pool_renames.json"    # url -> user-style bookmark name (tools/pool_rename_bookmarks.py)
 MAX_INPUT_FOLDERS = int(os.environ.get("PIPELINE_MAX_INPUT_FOLDERS", "0"))  # 0 = never create folders
 NEW_FOLDER_BELOW = 300   # create the next input folder when fewer files than this are waiting
-# Same shape as tools/working_expanded_splitter.py
-SPLIT_FILES, SPLIT_MIN, SPLIT_MAX, SPLIT_MEAN, SPLIT_STD = 1000, 10, 200, 100, 30
+# Input files shaped like what the Chrome extension will send: chunks of ~45 bookmarks
+SPLIT_FILES, SPLIT_MIN, SPLIT_MAX, SPLIT_MEAN, SPLIT_STD = 1000, 8, 100, 45, 20
+RENAMED_SHARE = 0.35     # of a named link's appearances, how many use the user-style name
+FETCH_FAILED_SHARE = 0.15  # appearances where the page could not be read: name + url only
+HOLDOUT_PERCENT = 5      # links kept out of every training folder, for an honest test set
 
 resting = {}             # in_file -> {"until": epoch or None (for good), "rounds": rests so far}
 rest_rounds = {}         # in_file -> how many times it has rested
@@ -1800,40 +1879,78 @@ def rest_file(job):
             "reason": job.last_reason, "until": datetime.fromtimestamp(until).isoformat(timespec="minutes") if until else None})
 
 
-def create_split_folder(pool_file, folder):
-    """Writes a new input folder like working_expanded_splitter.py does, without repeated links in a file.
-    Built under a temporary name and renamed at the end, so the feeder never sees half a folder."""
-    data = load_json(pool_file)
+def is_holdout(url):
+    """Links reserved for the test set (own hash salt, so it is independent of which links have names)."""
+    return int(hashlib.sha1(f"holdout:{url}".encode()).hexdigest(), 16) % 100 < HOLDOUT_PERCENT
+
+
+def bookmark_from_pool(item, renames, rng):
+    """One appearance of a pool link as a Chrome bookmark: maybe renamed by the user, maybe unreadable."""
+    def clean(key):
+        v = str(item.get(key) or "").strip()
+        return "" if v.lower() == "void" else v
+    title = clean("title")
+    name = renames.get(item["url"]) if rng.random() < RENAMED_SHARE else None
+    bookmark = {"name": name or title, "url": item["url"]}
+    if rng.random() >= FETCH_FAILED_SHARE:
+        for key, value in (("page_title", title), ("desc", clean("description")[:FIELD_CHARS]),
+                           ("text", clean("preview")[:FIELD_CHARS])):
+            if value:
+                bookmark[key] = value
+    return bookmark
+
+
+TEST_FOLDER = "working_split_IN--0"   # the exam: held-out links only, processed first, never used for training
+TEST_FILES = 200
+
+
+def create_split_folder(pool_file, folder, renames_file=None, holdout=False, files=None):
+    """Writes a new input folder in the Chrome-extension schema (see bookmark_from_pool), without repeated
+    links in a file and without the held-out test links. Built under a temporary name and renamed at the
+    end, so the feeder never sees half a folder."""
+    data = [it for it in load_json(pool_file) if it.get("url") and is_holdout(it["url"]) == holdout]
+    files = files or SPLIT_FILES
+    renames = load_json(renames_file) if renames_file and os.path.exists(renames_file) else {}
+    rng = random.Random()
     used = [0] * len(data)
     tmp = os.path.join(BASE_DIR, f".creating-{folder}")
     shutil.rmtree(tmp, ignore_errors=True)
     os.makedirs(tmp)
-    for i in range(1, SPLIT_FILES + 1):
-        k = max(SPLIT_MIN, min(SPLIT_MAX, int(random.gauss(SPLIT_MEAN, SPLIT_STD)), len(data)))
+    for i in range(1, files + 1):
+        k = max(SPLIT_MIN, min(SPLIT_MAX, int(rng.gauss(SPLIT_MEAN, SPLIT_STD)), len(data)))
         # k different links, less-used ones more likely (weighted sampling without replacement, weight 1/(1+uses))
-        chosen = heapq.nlargest(k, range(len(data)), key=lambda j: random.random() ** (1.0 + used[j]))
+        chosen = heapq.nlargest(k, range(len(data)), key=lambda j: rng.random() ** (1.0 + used[j]))
         for j in chosen:
             used[j] += 1
-        items = [data[j] for j in chosen]
+        items = [bookmark_from_pool(data[j], renames, rng) for j in chosen]
         with open(os.path.join(tmp, f"in_split_{i:04d}.json"), "w", encoding="utf-8") as f:
-            json.dump({"data": items, "_meta": {"total_bookmarks": len(items)}}, f, indent=2, ensure_ascii=False)
+            json.dump({"data": items, "_meta": {"total_bookmarks": len(items), "schema": "chrome-v1"}},
+                      f, indent=2, ensure_ascii=False)
     os.rename(tmp, os.path.join(BASE_DIR, folder))
-    logger.info(f"Created input folder {folder} ({SPLIT_FILES} files) from {os.path.basename(pool_file)}")
-    report({"status": "new_folder", "folder": folder, "pool": os.path.basename(pool_file), "files": SPLIT_FILES})
+    logger.info(f"Created {'test' if holdout else 'input'} folder {folder} ({files} files, {len(data)} links) from "
+                f"{os.path.basename(pool_file)} with {len(renames)} user-style names")
+    report({"status": "new_folder", "folder": folder, "pool": os.path.basename(pool_file), "files": files,
+            "test": holdout})
 
 
 def maybe_create_input_folder(waiting):
-    if not MAX_INPUT_FOLDERS or waiting >= NEW_FOLDER_BELOW:
+    if not MAX_INPUT_FOLDERS:
         return
+    pool = os.path.join(POOLS_DIR, POOL_FILE)
+    renames = os.path.join(POOLS_DIR, RENAMES_FILE)
     dirs = list_available_directories()
-    if len(dirs) >= MAX_INPUT_FOLDERS:
+    # The test folder first, once the user-style names exist (so the exam has renamed bookmarks too)
+    if TEST_FOLDER not in dirs and os.path.exists(pool) and os.path.exists(renames):
+        create_split_folder(pool, TEST_FOLDER, renames, holdout=True, files=TEST_FILES)
         return
-    pools = sorted(glob.glob(os.path.join(POOLS_DIR, POOL_GLOB)))
-    if not pools:
-        logger.warning(f"Few files left but no URL pools ({POOL_GLOB}) in {POOLS_DIR}: no new input folder")
+    training = [d for d in dirs if d != TEST_FOLDER]
+    if waiting >= NEW_FOLDER_BELOW or len(training) >= MAX_INPUT_FOLDERS:
         return
-    n = max((int(d.split("--")[-1]) for d in dirs), default=0) + 1
-    create_split_folder(pools[(n - 1) % len(pools)], f"working_split_IN--{n}")
+    if not (os.path.exists(pool) and os.path.exists(renames)):
+        logger.warning(f"Few files left but {POOL_FILE} or {RENAMES_FILE} is missing in {POOLS_DIR}: no new input folder")
+        return
+    n = max((int(d.split("--")[-1]) for d in training), default=0) + 1
+    create_split_folder(pool, f"working_split_IN--{n}", renames)
 
 
 def feed(pool):
@@ -1862,7 +1979,8 @@ def feed(pool):
                     jobs.append(make_job(d, name))
                 except (OSError, ValueError) as e:
                     logger.warning(f"{d}/{name} unreadable, skipped: {e}")
-        added = pool.add(jobs)
+        test = [j for j in jobs if os.path.basename(os.path.dirname(j.in_file)) == TEST_FOLDER]
+        added = pool.add(test, front=True) + pool.add([j for j in jobs if j not in test])
         forever_totals["inputs"] = inputs
         if added:
             logger.info(f"Queued {added} files ({waiting} waiting in total)")

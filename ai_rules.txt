@@ -1,14 +1,22 @@
-AI Bookmark Organization Rules v4
+AI Bookmark Organization Rules v5
 
-Goal: group the bookmarks below into folders that make each one easy for a person to find again.
+Goal: group someone's browser bookmarks into folders that make each one easy for them to find again.
+
+0) INPUT
+
+One bookmark per line: {"id":1,"name":...,"url":...,"page":...,"desc":...,"text":...}
+- name: the bookmark's name as the person sees it. Often it is the page title; when they renamed it
+  ("nonna lasagna", "tax forms", "my bank") it is the best hint of why they saved it - use it.
+- page, desc, text: the page title (when it differs from name), its description and the first visible text.
+  They are missing when the page could not be read; then decide from the name and the URL.
 
 1) OUTPUT FORMAT
 
 Reply with one minified JSON object and nothing else (no markdown, no comments):
-{"folders":[{"name":"<folder-slug>","bookmarks":["<url>","<url>"]}]}
+{"folders":[{"name":"<folder-slug>","items":[1,4,7]}]}
 
-- List each bookmark by its URL only, copied exactly as given (no titles, no other fields, no URL changes).
-- Every input URL appears exactly once in the whole output: none missing, none repeated, none invented.
+- List each bookmark by its id number only.
+- Every id appears exactly once in the whole output: none missing, none repeated, none invented.
 - Order does not matter; counts and totals are not needed.
 
 2) HARD LIMITS (outputs that break them are discarded)
@@ -23,7 +31,7 @@ Reply with one minified JSON object and nothing else (no markdown, no comments):
 
 3) CHOOSING FOLDERS
 
-Use the title, description, preview and URL of each bookmark as clues to what it is about and what kind of page it is.
+Use the name, page title, description, text and URL of each bookmark as clues to what it is about and what kind of page it is.
 - Be specific where the group allows it: "sourdough-baking" rather than "cooking", "python-libraries" rather than "programming".
 - Be consistent: similar bookmarks share the same folder, with one name for one topic.
 - Folder count: stick to the number of folders given with the bookmarks below (about one per 8 bookmarks), so most
@@ -38,4 +46,4 @@ Use the title, description, preview and URL of each bookmark as clues to what it
 - English, lowercase, words joined by single hyphens, at most 3 words: "<topic>" or "<topic>-<specifier>".
 - The specifier is optional and only added when it helps: a sub-topic or the kind of page ("guide", "recipes", "tools", "news", "reviews").
 - No redundant words ("links", "sites", "pages", "resources", "articles").
-- Titles stay in their original language; only folder names are English.
+- Folder names are English even when the bookmarks are not.
