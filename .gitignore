@@ -3,3 +3,9 @@
 /.DS_Store
 /in_out-s/RAW
 /in_out-s/split_backup_cleaner
+/.venv
+/generator.log*
+/in_out-s/generation_report.jsonl
+/in_out-s_snapshot_*
+/errors.log
+__pycache__/

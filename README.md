@@ -29,9 +29,17 @@ python tools/json_urls_data_quick_expander.py
 # split the expanded dataset into input batches
 python tools/working_expanded_splitter.py
 
-# generate structured outputs via API
-python tools/gemini_output_generator_API.py
+# generate + clean outputs with every provider that has a key (Gemini, Groq, DeepSeek, OpenRouter, NVIDIA)
+python tools/MULTI-PROVIDER_output_generator_API_v6.py
+python tools/MULTI-PROVIDER_output_generator_API_v6.py --list-models          # check keys/models
+python tools/MULTI-PROVIDER_output_generator_API_v6.py --clean-only --dir working_split_IN--2 [--apply]
 ```
+
+`MULTI-PROVIDER_output_generator_API_v6.py` validates and cleans every output before saving it
+(same rules as `fields_OUT_cleaner.py`, `gemini_mismatch_cleaner.py` and `small_folders_OUT_cleaner.py`).
+Rejected outputs go to `in_out-s/RAW/rejected/` and the file is retried with another model; per-file
+results are appended to `in_out-s/generation_report.jsonl`. Keys are read from `tools/.env` as
+`<PROVIDER>_API_KEY` or `<PROVIDER>_<LABEL>_API_KEY` (several keys per provider are supported).
 
 ## Steps (done / to do / updates)
 
@@ -49,6 +57,22 @@ python tools/gemini_output_generator_API.py
 **Recent updates**
 - README and directory-printer improvements to ensure stable README updates
 - Dynamic API key discovery added to generator script (auto-detects `API_KEY` env vars)
+
+## Daily runs on Home Assistant
+
+`ha-app/url_dataset_pipeline` is a local Home Assistant app that runs the v6 generator every day at
+`daily_start` (default 09:15, right after the Gemini free quota resets) until every model is out of quota,
+then posts a summary notification. The dataset lives on the server in `/share/url-dataset-pipeline/in_out-s`.
+
+```bash
+ha-app/deploy.sh                      # copy app + current generator to /local_apps, then:
+ssh root@homeassistant.local 'ha store reload && ha apps rebuild local_url_dataset_pipeline'
+ssh root@homeassistant.local 'ha apps logs local_url_dataset_pipeline'
+# pull the dataset to the Mac
+ssh root@homeassistant.local 'tar -czf - -C /share/url-dataset-pipeline in_out-s' | tar -xzf - -C .
+```
+
+API keys and schedule are set in the app's Configuration tab in Home Assistant.
 
 ## Configuration
 

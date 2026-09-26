@@ -23,8 +23,8 @@ from typing import Dict, Tuple
 # -----------------------------
 # Config
 # -----------------------------
-INPUT_DIR = "./in_out-s/working_split_IN--2"
-OUTPUT_DIR = "./in_out-s/working_split_OUT--API-2"
+INPUT_DIR = "./in_out-s/working_split_IN--3"
+OUTPUT_DIR = "./in_out-s/working_split_OUT--API-3"
 BACKUP_DIR = "./in_out-s/split_backup_cleaner"
 REPORT_PATH = "./in_out-s/gemini_clean_report.json"
 

@@ -1,0 +1,32 @@
+name: URL Dataset Pipeline
+version: "1.0.0"
+slug: url_dataset_pipeline
+description: Daily run of the multi-provider bookmark categorizer on the free API quotas
+arch:
+  - amd64
+  - aarch64
+init: false
+boot: auto
+homeassistant_api: true
+map:
+  - share:rw
+options:
+  daily_start: "09:15"
+  max_hours: 20
+  run_on_start: false
+  models: ""
+  gemini_api_key: ""
+  groq_api_key: ""
+  openrouter_api_key: ""
+  nvidia_api_key: ""
+  deepseek_api_key: ""
+schema:
+  daily_start: match(^([01]\d|2[0-3]):[0-5]\d$)
+  max_hours: float(1,23)
+  run_on_start: bool
+  models: str?
+  gemini_api_key: password?
+  groq_api_key: password?
+  openrouter_api_key: password?
+  nvidia_api_key: password?
+  deepseek_api_key: password?
