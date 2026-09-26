@@ -10,6 +10,7 @@ Home Assistant side of the URL dataset pipeline, a passive dataset creator:
 import importlib.util
 import json
 import os
+import re
 import signal
 import subprocess
 import sys
@@ -104,7 +105,8 @@ def progress():
         return _progress_cache["data"]
     rows = []
     try:
-        names = sorted(n for n in os.listdir(DATA_DIR) if n.startswith("working_split_IN--"))
+        names = sorted((n for n in os.listdir(DATA_DIR) if re.match(r"^working_split_IN--\d+$", n)),
+                       key=lambda n: int(n.split("--")[-1]))  # IN--2 before IN--10
     except OSError:
         names = []
     for name in names:

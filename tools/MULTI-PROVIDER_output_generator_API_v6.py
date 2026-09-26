@@ -1269,7 +1269,9 @@ def render_dashboard(workers, total, start_time, pool, in_dir_name):
 # Directories
 # =========================
 def list_available_directories(base_dir=BASE_DIR):
-    return sorted(d for d in os.listdir(base_dir) if re.match(r"^working_split_IN--\d+$", d))
+    # Numeric order (IN--2 before IN--10): it is also the order the queue works through
+    return sorted((d for d in os.listdir(base_dir) if re.match(r"^working_split_IN--\d+$", d)),
+                  key=lambda d: int(d.split("--")[-1]))
 
 
 def setup_io_paths(in_dir_name, base_dir=BASE_DIR):
