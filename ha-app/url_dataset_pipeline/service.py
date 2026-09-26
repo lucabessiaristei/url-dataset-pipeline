@@ -139,7 +139,7 @@ class Runner:
                 log(f"No dataset at {DATA_DIR}: copy in_out-s there first")
                 return False
             args = [sys.executable, GENERATOR, "--dir", "all", "--headless",
-                    "--max-hours", str(OPTIONS.get("max_hours", 20))]
+                    "--max-hours", str(OPTIONS.get("max_hours", 23))]
             models = (OPTIONS.get("models") or "").strip()
             if models:
                 args += ["--models", models]

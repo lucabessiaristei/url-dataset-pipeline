@@ -16,7 +16,7 @@ map:
   - share:rw
 options:
   daily_start: "09:15"
-  max_hours: 20
+  max_hours: 23
   run_on_start: false
   models: ""
   gemini_api_key: ""
