@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-media-current-events",
+      "name": "news-current-events-media",
       "bookmarks": [
         {
           "url": "https://news.airbnb.com/fresh/",
@@ -78,12 +78,12 @@
           "title": "Privacy Policy"
         },
         {
-          "url": "https://sinc.business",
-          "title": "Sinc | Staff Time Card And Location Tracking App | Hourly Workforce Tracking"
-        },
-        {
           "url": "https://www.shopify.com/",
           "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify"
+        },
+        {
+          "url": "https://sinc.business",
+          "title": "Sinc | Staff Time Card And Location Tracking App | Hourly Workforce Tracking"
         },
         {
           "url": "https://super.so/",
@@ -106,10 +106,6 @@
         {
           "url": "https://academicaffairs.ucsc.edu/accreditation/",
           "title": "Accreditation - Academic Affairs"
-        },
-        {
-          "url": "https://www.weeecyprus.com.cy/el",
-          "title": "Αρχική - WEEE Cyprus"
         },
         {
           "url": "https://cloud.google.com/training/data-ml",
@@ -142,6 +138,10 @@
         {
           "url": "http://www.fishbase.org",
           "title": "Search FishBase"
+        },
+        {
+          "url": "https://www.weeecyprus.com.cy/el",
+          "title": "Αρχική - WEEE Cyprus"
         }
       ],
       "count": 10
@@ -174,18 +174,18 @@
           "title": "Guy Boothby « Vault Of Evil"
         },
         {
-          "url": "https://www.oculus.com/experiences/quest/3008315795852749/",
-          "title": "The Thrill of the Fight su Meta Quest | Giochi VR di Quest | Meta Store"
-        },
-        {
           "url": "https://tessies.dk/",
           "title": "Tessies - TessiesDk"
+        },
+        {
+          "url": "https://www.oculus.com/experiences/quest/3008315795852749/",
+          "title": "The Thrill of the Fight su Meta Quest | Giochi VR di Quest | Meta Store"
         }
       ],
       "count": 8
     },
     {
-      "name": "social-impact-community-organizations",
+      "name": "community-social-impact-organizations",
       "bookmarks": [
         {
           "url": "https://goyff.az.gov/content/about-goyff",
@@ -222,14 +222,6 @@
           "title": "@cleo156989 on Tumblr"
         },
         {
-          "url": "https://meld0416.tumblr.com/",
-          "title": "Fabulousness"
-        },
-        {
-          "url": "https://prestaattencion.tumblr.com/",
-          "title": "Prestaatencion"
-        },
-        {
           "url": "https://todeskreig.tumblr.com/",
           "title": "@todeskreig on Tumblr"
         },
@@ -238,29 +230,19 @@
           "title": "@xtremepestcontrol on Tumblr"
         },
         {
+          "url": "https://meld0416.tumblr.com/",
+          "title": "Fabulousness"
+        },
+        {
           "url": "http://tiktok.com/@hamiltonfamilies",
           "title": "Log in | TikTok"
+        },
+        {
+          "url": "https://prestaattencion.tumblr.com/",
+          "title": "Prestaatencion"
         }
       ],
       "count": 6
-    },
-    {
-      "name": "travel-personal-reference",
-      "bookmarks": [
-        {
-          "url": "https://blog.thelittlenell.com/aspen-proposal-ideas-where-to-pop-the-question/",
-          "title": "Luxury 5-Star Hotel in Aspen, Colorado | The Little Nell"
-        },
-        {
-          "url": "https://www.clayholder.com/Family/September-2015-Georgetown-CO/i-mXBPMpZ",
-          "title": "September 2015 Georgetown, CO - clayholder"
-        },
-        {
-          "url": "https://gobble.sjv.io/c/3408212/1339313/5084?subid3=people",
-          "title": "Upcoming Menus | Gobble"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "design-typography-resources",
@@ -294,6 +276,24 @@
         {
           "url": "https://athleta.gap.com/",
           "title": "Shop Athleta for Women's Yoga Clothing, Technical Athletic Clothing, and Athleisure"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel-personal-reference",
+      "bookmarks": [
+        {
+          "url": "https://blog.thelittlenell.com/aspen-proposal-ideas-where-to-pop-the-question/",
+          "title": "Luxury 5-Star Hotel in Aspen, Colorado | The Little Nell"
+        },
+        {
+          "url": "https://www.clayholder.com/Family/September-2015-Georgetown-CO/i-mXBPMpZ",
+          "title": "September 2015 Georgetown, CO - clayholder"
+        },
+        {
+          "url": "https://gobble.sjv.io/c/3408212/1339313/5084?subid3=people",
+          "title": "Upcoming Menus | Gobble"
         }
       ],
       "count": 3

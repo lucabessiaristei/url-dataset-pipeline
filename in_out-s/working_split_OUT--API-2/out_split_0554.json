@@ -4,16 +4,16 @@
       "name": "news-articles",
       "bookmarks": [
         {
-          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
-          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
-        },
-        {
           "url": "https://www.yahoo.com/entertainment/bp/cellmates-star-tom-sizemore-acting-sober-fatherhood-second-211501471.html",
           "title": "'Cellmates' star Tom Sizemore on acting sober, fatherhood, and second chances"
         },
         {
           "url": "https://www.militarytimes.com/pay-benefits/2019/12/10/it-changed-my-life-these-nonprofits-are-honored-for-making-a-difference-in-the-military-community/",
           "title": "'It changed my life': These nonprofits are honored for making a difference in the military community"
+        },
+        {
+          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
+          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
         },
         {
           "url": "https://whyy.org/articles/philadelphia-employment-programs-gun-violence-prevention/",
@@ -42,6 +42,10 @@
       "name": "events-info",
       "bookmarks": [
         {
+          "url": "https://www.vocance.fr/TALENTS-EN-HERBE-ET-TALENTS-LOCAUX.html",
+          "title": "\"TALENTS EN HERBE ET TALENTS LOCAUX\" - Vocance"
+        },
+        {
           "url": "https://2022.alaannual.org/",
           "title": "2022 ALA Annual Conference & Exhibition"
         },
@@ -60,10 +64,6 @@
         {
           "url": "https://www.kg-nirmernarrenzunft.de/2012/01/28/stadtgarde-herzogenrath-2012/",
           "title": "Stadtgarde Herzogenrath 2012 - KG Nirmer Narrenzunft 1954 e.V."
-        },
-        {
-          "url": "https://www.vocance.fr/TALENTS-EN-HERBE-ET-TALENTS-LOCAUX.html",
-          "title": "\"TALENTS EN HERBE ET TALENTS LOCAUX\" - Vocance"
         }
       ],
       "count": 6
@@ -95,10 +95,36 @@
       "count": 5
     },
     {
+      "name": "community-organizations",
+      "bookmarks": [
+        {
+          "url": "https://avivomn.org/",
+          "title": "Avivo - Helping Minnesotans reach recovery, find housing, and find employment and economic advancement"
+        },
+        {
+          "url": "https://www.jewishcommunityaction.org/",
+          "title": "Home - Jewish Community Action Minnesota (JCA MN)"
+        },
+        {
+          "url": "http://www.northlandfdn.org/",
+          "title": "Northland Foundation"
+        },
+        {
+          "url": "http://www.sfa.sc/",
+          "title": "Seychelles Fisheries Authority"
+        },
+        {
+          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
+          "title": "Stay in Touch"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "dev-resources",
       "bookmarks": [
         {
-          "url": "https://www.electronjs.org/",
+          "url": "https://www.electronjs.org",
           "title": "Build cross-platform desktop apps with JavaScript, HTML, and CSS | Electron"
         },
         {
@@ -147,32 +173,6 @@
       "count": 5
     },
     {
-      "name": "organizations-community",
-      "bookmarks": [
-        {
-          "url": "https://avivomn.org/",
-          "title": "Avivo - Helping Minnesotans reach recovery, find housing, and find employment and economic advancement"
-        },
-        {
-          "url": "https://www.jewishcommunityaction.org/",
-          "title": "Home - Jewish Community Action Minnesota (JCA MN)"
-        },
-        {
-          "url": "http://www.northlandfdn.org/",
-          "title": "Northland Foundation"
-        },
-        {
-          "url": "http://www.sfa.sc/",
-          "title": "Seychelles Fisheries Authority"
-        },
-        {
-          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
-          "title": "Stay in Touch"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "organizations-global",
       "bookmarks": [
         {
@@ -202,6 +202,10 @@
       "name": "shopping-products",
       "bookmarks": [
         {
+          "url": "https://www.tnpaccessories.com/products/tnp-accessories-ab-mat-black-blue",
+          "title": "Ab Mat - Black/Blue | TnP Accessories"
+        },
+        {
           "url": "https://www.ellie.com/",
           "title": "Activewear Monthly Subscription Box - Gym & Workout Clothes For Women - Ellie"
         },
@@ -216,10 +220,6 @@
         {
           "url": "https://www.joannaczech.com/products/joanna-czech-face-massage-roller",
           "title": "Rolling Facial Massager - Joanna Czech"
-        },
-        {
-          "url": "https://www.tnpaccessories.com/products/tnp-accessories-ab-mat-black-blue",
-          "title": "TnP Accessories Ab Mat - Black/Blue | TnP Accessories"
         }
       ],
       "count": 5
@@ -254,7 +254,7 @@
           "title": "Apache OpenOffice: forum della comunità - Pannello di Controllo Utente - Apache OpenOffice: forum della comunità"
         },
         {
-          "url": "http://support.groundspeak.com/",
+          "url": "http://support.groundspeak.com",
           "title": "Knowledge Books"
         },
         {
@@ -269,7 +269,7 @@
       "count": 4
     },
     {
-      "name": "lifestyle-guides",
+      "name": "guides-lifestyle",
       "bookmarks": [
         {
           "url": "https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/paleo-diet/",
@@ -309,7 +309,7 @@
       "count": 3
     },
     {
-      "name": "hobby-leisure",
+      "name": "hobbies-leisure",
       "bookmarks": [
         {
           "url": "https://evemaps.dotlan.net/system/J143626/kills",
@@ -345,6 +345,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 66,
+  "total_bookmarks": 65,
   "num_folders": 14
 }

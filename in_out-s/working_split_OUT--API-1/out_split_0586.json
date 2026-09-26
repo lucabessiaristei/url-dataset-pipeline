@@ -4,12 +4,12 @@
       "name": "organizations-corporate",
       "bookmarks": [
         {
-          "url": "https://www.apple.com/",
-          "title": "Apple"
-        },
-        {
           "url": "https://corporate.hasbro.com/en-us",
           "title": "About the Company - Hasbro"
+        },
+        {
+          "url": "https://www.apple.com/",
+          "title": "Apple"
         },
         {
           "url": "https://investor.skillsoft.com/",
@@ -43,12 +43,8 @@
       "count": 9
     },
     {
-      "name": "education-science",
+      "name": "science-education",
       "bookmarks": [
-        {
-          "url": "https://exploredegrees.stanford.edu/schoolofengineering/computerscience/",
-          "title": "undefined Department | Stanford University Bulletin"
-        },
         {
           "url": "https://www.esa.int/Science_Exploration",
           "title": "ESA - Science & Exploration"
@@ -76,6 +72,10 @@
         {
           "url": "https://earth.esa.int/eogateway/missions/Spire",
           "title": "undefined - Earth Online"
+        },
+        {
+          "url": "https://exploredegrees.stanford.edu/schoolofengineering/computerscience/",
+          "title": "undefined Department | Stanford University Bulletin"
         }
       ],
       "count": 8
@@ -118,6 +118,14 @@
       "name": "government-civic",
       "bookmarks": [
         {
+          "url": "https://www.vaccines.gov",
+          "title": "Find pharmacies near you"
+        },
+        {
+          "url": "https://vote.civicnation.org/register/goodwill/",
+          "title": "Goodwill - Get Ready to Vote"
+        },
+        {
           "url": "http://browardschools.com/",
           "title": "Home - Broward County Public Schools"
         },
@@ -132,14 +140,6 @@
         {
           "url": "http://www.sernapesca.cl/informacion-utilidad/monitoreo-satelital-de-naves-y-embarcaciones-pesqueras",
           "title": "Monitoreo satelital de naves y embarcaciones pesqueras - sernapesca"
-        },
-        {
-          "url": "https://www.vaccines.gov",
-          "title": "Find pharmacies near you"
-        },
-        {
-          "url": "https://vote.civicnation.org/register/goodwill/",
-          "title": "Goodwill - Get Ready to Vote"
         }
       ],
       "count": 6
@@ -175,7 +175,7 @@
       "count": 6
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "http://www.aafp.org/",
@@ -271,15 +271,11 @@
       "count": 4
     },
     {
-      "name": "shopping-product",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "http://www.cottonseedusa.com/",
           "title": "Cotton Casual Clothing Men & Women- Resort Wear"
-        },
-        {
-          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
-          "title": "void"
         },
         {
           "url": "https://www.streetracer.cz/damske-kozene-moto-kalhoty-vyprodej/",
@@ -288,13 +284,21 @@
         {
           "url": "https://tesla.oemdtc.com",
           "title": "Tesla - OEMDTC"
+        },
+        {
+          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
+          "title": "void"
         }
       ],
       "count": 4
     },
     {
-      "name": "tech-resource",
+      "name": "tech-resources",
       "bookmarks": [
+        {
+          "url": "https://plugins.trac.wordpress.org/browser/gdpr-cookie-compliance/",
+          "title": "gdpr-cookie-compliance - WordPress Plugin Repository"
+        },
         {
           "url": "http://www.help-info.de/en/",
           "title": "Home - Help Information (en)"
@@ -306,16 +310,12 @@
         {
           "url": "https://code.activestate.com/recipes/tags/false-true/",
           "title": "Popular recipes tagged \"false\" but not \"true\" « ActiveState Code"
-        },
-        {
-          "url": "https://plugins.trac.wordpress.org/browser/gdpr-cookie-compliance/",
-          "title": "gdpr-cookie-compliance - WordPress Plugin Repository"
         }
       ],
       "count": 4
     },
     {
-      "name": "design-resource",
+      "name": "design-resources",
       "bookmarks": [
         {
           "url": "https://mozilla.design",

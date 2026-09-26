@@ -147,7 +147,7 @@
       "count": 8
     },
     {
-      "name": "non-profits-foundations",
+      "name": "nonprofits-foundations",
       "bookmarks": [
         {
           "url": "https://www.capiusa.org/",
@@ -156,6 +156,10 @@
         {
           "url": "http://www.gmhchousing.org/",
           "title": "GMHC | Minneapolis, MN"
+        },
+        {
+          "url": "https://www.ujafedny.org/",
+          "title": "Home » UJA-Federation of New York"
         },
         {
           "url": "https://oceanriskalliance.org/",
@@ -174,10 +178,6 @@
           "title": "The Pew Charitable Trusts | The Pew Charitable Trusts"
         },
         {
-          "url": "https://www.ujafedny.org/",
-          "title": "Home » UJA-Federation of New York"
-        },
-        {
           "url": "http://web.undp.org/evaluation/evaluations/te/energy-environment.shtml",
           "title": "United Nations Development Programme - Evaluation"
         }
@@ -188,12 +188,12 @@
       "name": "science-nature",
       "bookmarks": [
         {
-          "url": "https://www.first-nature.com/fungi/amanita-muscaria.php",
-          "title": "Amanita muscaria, Fly Agaric mushroom"
-        },
-        {
           "url": "https://energycrisis.co.uk/alternative-energy/",
           "title": "Alternative Energy - Energycrisis.co.uk"
+        },
+        {
+          "url": "https://www.first-nature.com/fungi/amanita-muscaria.php",
+          "title": "Amanita muscaria, Fly Agaric mushroom"
         },
         {
           "url": "http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp",
@@ -282,36 +282,6 @@
         {
           "url": "http://pp9.pl/",
           "title": "Przedszkole Publiczne nr 9 w Głogowie"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "food-drink",
-      "bookmarks": [
-        {
-          "url": "http://www.barleycorndrinks.com/tag/clay-risen/",
-          "title": "clay risen - Barleycorn Drinks"
-        },
-        {
-          "url": "http://grill22.dk/",
-          "title": "Grill 22"
-        },
-        {
-          "url": "https://www.burrobarboston.com/",
-          "title": "Burro Bar Boston"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85914",
-          "title": "Searchable Recipe Database - Panoramica"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85914",
-          "title": "Searchable Recipe Database - Panoramica"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85914",
-          "title": "Searchable Recipe Database - Panoramica"
         }
       ],
       "count": 6
@@ -440,16 +410,16 @@
       "name": "shopping-services",
       "bookmarks": [
         {
-          "url": "https://etirapid.com/productos/ribbons/resina/negro-r90x91/",
-          "title": "Negro R90X91 | Etirapid"
-        },
-        {
           "url": "http://www.landsend.com/",
           "title": "Lands' End: Quality Clothing, Outerwear, Swimwear and Footwear"
         },
         {
           "url": "https://www.miriamfried.com",
           "title": "Miriam Fried"
+        },
+        {
+          "url": "https://etirapid.com/productos/ribbons/resina/negro-r90x91/",
+          "title": "Negro R90X91 | Etirapid"
         },
         {
           "url": "https://www.gopenske.com/",
@@ -467,7 +437,7 @@
       "count": 6
     },
     {
-      "name": "tools-software",
+      "name": "software-tools",
       "bookmarks": [
         {
           "url": "https://www.sendtric.com/",
@@ -538,16 +508,16 @@
           "title": "Corporate Standard | GHG Protocol"
         },
         {
-          "url": "http://www.moneystation.gr",
-          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
-        },
-        {
           "url": "https://sustainability.google",
           "title": "Sustainable Innovation & Technology - Google Sustainability"
         },
         {
           "url": "https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd",
           "title": "Target's Corporate Commitments"
+        },
+        {
+          "url": "http://www.moneystation.gr",
+          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
         }
       ],
       "count": 5
@@ -582,12 +552,12 @@
       "name": "sports",
       "bookmarks": [
         {
-          "url": "https://tsg-pastetten.de/bildergalerie/2017-spartan-lauf/",
-          "title": "2017 TSG Teilnahme am Spartan Lauf München - TSG-Pastetten 1972 e.V."
-        },
-        {
           "url": "https://www.varesefansbasket.it/forums/topic/1892-10-febbraio-2006/",
           "title": "10 febbraio 2006 - Divertiti col gruppo di Vfb.it - Varesefansbasket"
+        },
+        {
+          "url": "https://tsg-pastetten.de/bildergalerie/2017-spartan-lauf/",
+          "title": "2017 TSG Teilnahme am Spartan Lauf München - TSG-Pastetten 1972 e.V."
         },
         {
           "url": "https://budaorshandball.hu/author/david/",
@@ -603,6 +573,28 @@
         }
       ],
       "count": 5
+    },
+    {
+      "name": "food-drink",
+      "bookmarks": [
+        {
+          "url": "https://www.burrobarboston.com/",
+          "title": "Burro Bar Boston"
+        },
+        {
+          "url": "http://www.barleycorndrinks.com/tag/clay-risen/",
+          "title": "clay risen - Barleycorn Drinks"
+        },
+        {
+          "url": "http://grill22.dk/",
+          "title": "Grill 22"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85914",
+          "title": "Searchable Recipe Database - Panoramica"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "social-issues",
@@ -641,6 +633,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 130,
+  "total_bookmarks": 128,
   "num_folders": 20
 }

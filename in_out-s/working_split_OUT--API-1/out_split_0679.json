@@ -4,8 +4,16 @@
       "name": "software-digital-tools",
       "bookmarks": [
         {
-          "url": "https://www.kaggle.com/learn",
-          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
+          "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/",
+          "title": "Assigning Pods to Nodes | Kubernetes"
+        },
+        {
+          "url": "https://docs.djangoproject.com/en/stable/topics/class-based-views/",
+          "title": "Class-based views | Django documentation | Django"
+        },
+        {
+          "url": "http://www.editcnc.com/",
+          "title": "CNC g-code editor with DNC"
         },
         {
           "url": "https://appsource.microsoft.com/en-us/",
@@ -20,24 +28,20 @@
           "title": "Home - GoldTech"
         },
         {
-          "url": "https://imglarger.com/",
-          "title": "Imglarger | AI Image Enlarger, Enhancer, Editor and Converter"
-        },
-        {
           "url": "http://site.icu-project.org/",
           "title": "ICU - International Components for Unicode"
         },
         {
-          "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/",
-          "title": "Assigning Pods to Nodes | Kubernetes"
+          "url": "https://imglarger.com/",
+          "title": "Imglarger | AI Image Enlarger, Enhancer, Editor and Converter"
         },
         {
-          "url": "https://docs.djangoproject.com/en/stable/topics/class-based-views/",
-          "title": "Class-based views | Django documentation | Django"
+          "url": "https://www.kaggle.com/learn",
+          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
         },
         {
-          "url": "http://www.editcnc.com/",
-          "title": "CNC g-code editor with DNC"
+          "url": "http://www.gibney.de/",
+          "title": "Marek Gibney"
         },
         {
           "url": "https://developers.planet.com/",
@@ -48,12 +52,12 @@
           "title": "Pocket inside"
         },
         {
-          "url": "https://docs.python.org/3/tutorial/index.html",
-          "title": "The Python Tutorial - Python 3.14.0 documentation"
-        },
-        {
           "url": "http://mrbs.ing.unipi.it/aulemagne/admin.php?day=21&month=7&year=2020&area=1&room=2",
           "title": "Sistema di Prenotazione Sale"
+        },
+        {
+          "url": "https://docs.python.org/3/tutorial/index.html",
+          "title": "The Python Tutorial - Python 3.14.0 documentation"
         },
         {
           "url": "https://tinypng.com/",
@@ -66,44 +70,32 @@
         {
           "url": "http://www.paltalk.com/",
           "title": "Video Chat | Paltalk"
-        },
-        {
-          "url": "http://www.gibney.de/",
-          "title": "Marek Gibney"
         }
       ],
       "count": 17
     },
     {
-      "name": "organizations-social-impact",
+      "name": "social-impact-organizations",
       "bookmarks": [
-        {
-          "url": "https://charity-navigator.tenderapp.com/kb",
-          "title": "Welcome - Charity Navigator Support"
-        },
-        {
-          "url": "https://durbanchamber.co.za/",
-          "title": "Home - Durban Chamber of Commerce"
-        },
         {
           "url": "https://gnof.donorcentral.com/",
           "title": "Donorcentral"
-        },
-        {
-          "url": "https://www.ecopack.bg/bg",
-          "title": "Начало - Екопак"
-        },
-        {
-          "url": "https://getmyinternet.org/",
-          "title": "Save the Affordable Connectivity Program | Common Sense Media"
         },
         {
           "url": "https://www.habitat.org/",
           "title": "Habitat for Humanity"
         },
         {
+          "url": "https://durbanchamber.co.za/",
+          "title": "Home - Durban Chamber of Commerce"
+        },
+        {
           "url": "https://justice.kaporcenter.org",
           "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-non-conforming-community-in-2022?utm_medium=ads&utm_source=GoogleSearch&utm_content=HateCrimes-AntiLGBTQHateCrimes&utm_campaign=GoogleGrant&utm_source=GS&utm_medium=AD&utm_campaign=BPI-HRC-Grant&utm_content=607604874629&utm_term=hate%20crimes%20against%20gays&gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYsxzcnvB1-zxYjcMELo39B8yzt0xoEV8AzyJ0zvmTs_Wq2CvdLNaBoCnoYQAvD_BwE",
+          "title": "HRC | Fatal Violence Against the Transgender and Gender-Expansive..."
         },
         {
           "url": "https://janesdueprocess.org/",
@@ -114,19 +106,127 @@
           "title": "Mid-Iowa Health Foundation"
         },
         {
-          "url": "https://www.hrc.org/resources/fatal-violence-against-the-transgender-and-gender-non-conforming-community-in-2022?utm_medium=ads&utm_source=GoogleSearch&utm_content=HateCrimes-AntiLGBTQHateCrimes&utm_campaign=GoogleGrant&utm_source=GS&utm_medium=AD&utm_campaign=BPI-HRC-Grant&utm_content=607604874629&utm_term=hate%20crimes%20against%20gays&gclid=CjwKCAiAnZCdBhBmEiwA8nDQxYsxzcnvB1-zxYjcMELo39B8yzt0xoEV8AzyJ0zvmTs_Wq2CvdLNaBoCnoYQAvD_BwE",
-          "title": "HRC | Fatal Violence Against the Transgender and Gender-Expansive..."
+          "url": "https://getmyinternet.org/",
+          "title": "Save the Affordable Connectivity Program | Common Sense Media"
+        },
+        {
+          "url": "https://weconnectinternational.org/",
+          "title": "weconnectinternational.org"
+        },
+        {
+          "url": "https://charity-navigator.tenderapp.com/kb",
+          "title": "Welcome - Charity Navigator Support"
         },
         {
           "url": "https://www.prisonpolicy.org/reports/pie2019women.html",
           "title": "Women's Mass Incarceration: The Whole Pie 2019 | Prison Policy Initiative"
         },
         {
-          "url": "https://weconnectinternational.org/",
-          "title": "weconnectinternational.org"
+          "url": "https://www.ecopack.bg/bg",
+          "title": "Начало - Екопак"
         }
       ],
       "count": 12
+    },
+    {
+      "name": "arts-culture-hobbies",
+      "bookmarks": [
+        {
+          "url": "http://www.boardgamegeek.com/game/2545",
+          "title": "Contigo | Board Game | BoardGameGeek"
+        },
+        {
+          "url": "https://muaythaiauthority.blogspot.com/2015/11/cromscorner-inside-mind-of-nak-muay.html",
+          "title": "CROM's Corner: Inside the Mind of a Nak Muay - Muay Thai Authority"
+        },
+        {
+          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
+          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
+        },
+        {
+          "url": "https://tienda.lamusica.com/product/dia-nacional-de-la-zalsa-37-t-shirt?image=1&rating=2",
+          "title": "Radios | LaMusica"
+        },
+        {
+          "url": "https://ritavinieris.com/",
+          "title": "Rita Vinieris"
+        },
+        {
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/~molinier/crochet.html",
+          "title": "Rémi Molinier - Crochet"
+        },
+        {
+          "url": "https://www.starz.com/us/en/",
+          "title": "STARZ - Captivating Original Series. Hit Movies. Bold Storytelling."
+        },
+        {
+          "url": "https://www.adana.co.jp/en/contents/support/",
+          "title": "SUPPORT TOP | ADA"
+        },
+        {
+          "url": "https://www.getty.edu/art/collection/",
+          "title": "The J. Paul Getty Museum Collection"
+        },
+        {
+          "url": "https://radioonlinelive.com/uk/waves-radio-uk/",
+          "title": "Waves Radio UK, United Kingdom - Radio Online Live"
+        },
+        {
+          "url": "https://www.musisol.com/cuerdas-guitarras-clasica/",
+          "title": "⚡ Compra cuerdas de guitarras Clasica | Musisol.com - Musisol.com"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "government-policy",
+      "bookmarks": [
+        {
+          "url": "https://www.ccg-gcc.gc.ca/index-eng.html",
+          "title": "Canadian Coast Guard"
+        },
+        {
+          "url": "https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule",
+          "title": "Children's Online Privacy Protection Rule (\"COPPA\") | Federal Trade Commission"
+        },
+        {
+          "url": "https://www.deq.ok.gov/land-protection-division/recycling/computer-equipment-recycling/",
+          "title": "Environmental Quality Department (292)"
+        },
+        {
+          "url": "https://www.un.org/sustainabledevelopment/oceans/",
+          "title": "Goal 14: Oceans - United Nations Sustainable Development"
+        },
+        {
+          "url": "https://sustainabledevelopment.un.org/",
+          "title": "Home .:. Sustainable Development Knowledge Platform"
+        },
+        {
+          "url": "https://www.eac.gov",
+          "title": "Home | U.S. Election Assistance Commission"
+        },
+        {
+          "url": "https://www.gov.pl/web/zdrowie",
+          "title": "Ministerstwo Zdrowia - Portal Gov.pl"
+        },
+        {
+          "url": "https://www.nih.gov/",
+          "title": "National Institutes of Health (NIH) |"
+        },
+        {
+          "url": "http://mines.edu/compliance",
+          "title": "Office of Compliance and Policy - Compliance"
+        },
+        {
+          "url": "https://www.skatteverket.se/privat",
+          "title": "Startsida | Skatteverket"
+        },
+        {
+          "url": "https://www.barcelona.cat/en/",
+          "title": "The official Barcelona web portal | Barcelona City Council"
+        }
+      ],
+      "count": 11
     },
     {
       "name": "news-current-events",
@@ -142,14 +242,6 @@
         {
           "url": "https://www.bet.com/article/7zsvok/drew-sidora-bet-interview",
           "title": "EXCLUSIVE: Drew Sidora Opens Up About Her Marriage + Reveals The 'RHOA' Co-Star That Gave Her The Best Business Advice! | News | BET"
-        },
-        {
-          "url": "https://www.gq.com/story/what-ever-happened-to-brendan-fraser",
-          "title": "What Ever Happened To Brendan Fraser? | GQ"
-        },
-        {
-          "url": "https://jacobin.com/2023/02/christian-super-bowl-ads-he-gets-us-servant-foundation-abortion-gay-rights?utm_campaign=later-linkinbio-themeteor&utm_content=later-33016107&utm_medium=social&utm_source=linkin.bio",
-          "title": "The Far Right Is Funding Evangelical Super Bowl Sunday Ads"
         },
         {
           "url": "https://www.sandiegouniontribune.com/military/sdut-rosie-network-military-entrepreneurs-2014apr07-story.html",
@@ -170,128 +262,36 @@
         {
           "url": "https://www.cosmopolitan.com/entertainment/celebs/a38808055/sydney-sweeney-euphoria-season-2-cosmopolitan-love-issue/",
           "title": "Sydney Sweeney Talks to Cosmo About Euphoria and Hollywood"
+        },
+        {
+          "url": "https://jacobin.com/2023/02/christian-super-bowl-ads-he-gets-us-servant-foundation-abortion-gay-rights?utm_campaign=later-linkinbio-themeteor&utm_content=later-33016107&utm_medium=social&utm_source=linkin.bio",
+          "title": "The Far Right Is Funding Evangelical Super Bowl Sunday Ads"
+        },
+        {
+          "url": "https://www.gq.com/story/what-ever-happened-to-brendan-fraser",
+          "title": "What Ever Happened To Brendan Fraser? | GQ"
         }
       ],
       "count": 10
     },
     {
-      "name": "government-policy",
-      "bookmarks": [
-        {
-          "url": "https://www.barcelona.cat/en/",
-          "title": "The official Barcelona web portal | Barcelona City Council"
-        },
-        {
-          "url": "https://www.ccg-gcc.gc.ca/index-eng.html",
-          "title": "Canadian Coast Guard"
-        },
-        {
-          "url": "https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule",
-          "title": "Children's Online Privacy Protection Rule (\"COPPA\") | Federal Trade Commission"
-        },
-        {
-          "url": "https://www.deq.ok.gov/land-protection-division/recycling/computer-equipment-recycling/",
-          "title": "Environmental Quality Department (292)"
-        },
-        {
-          "url": "https://www.eac.gov",
-          "title": "Home | U.S. Election Assistance Commission"
-        },
-        {
-          "url": "https://www.gov.pl/web/zdrowie",
-          "title": "Ministerstwo Zdrowia - Portal Gov.pl"
-        },
-        {
-          "url": "http://mines.edu/compliance",
-          "title": "Office of Compliance and Policy - Compliance"
-        },
-        {
-          "url": "https://www.un.org/sustainabledevelopment/oceans/",
-          "title": "Goal 14: Oceans - United Nations Sustainable Development"
-        },
-        {
-          "url": "https://www.nih.gov/",
-          "title": "National Institutes of Health (NIH) |"
-        },
-        {
-          "url": "https://www.skatteverket.se/privat",
-          "title": "Startsida | Skatteverket"
-        },
-        {
-          "url": "https://sustainabledevelopment.un.org/",
-          "title": "Home .:. Sustainable Development Knowledge Platform"
-        }
-      ],
-      "count": 11
-    },
-    {
-      "name": "arts-culture-hobbies",
-      "bookmarks": [
-        {
-          "url": "https://www.adana.co.jp/en/contents/support/",
-          "title": "SUPPORT TOP | ADA"
-        },
-        {
-          "url": "https://www.getty.edu/art/collection/",
-          "title": "The J. Paul Getty Museum Collection"
-        },
-        {
-          "url": "http://www.boardgamegeek.com/game/2545",
-          "title": "Contigo | Board Game | BoardGameGeek"
-        },
-        {
-          "url": "https://www-fourier.univ-grenoble-alpes.fr/~molinier/crochet.html",
-          "title": "Rémi Molinier - Crochet"
-        },
-        {
-          "url": "https://muaythaiauthority.blogspot.com/2015/11/cromscorner-inside-mind-of-nak-muay.html",
-          "title": "CROM's Corner: Inside the Mind of a Nak Muay - Muay Thai Authority"
-        },
-        {
-          "url": "https://www.musisol.com/cuerdas-guitarras-clasica/",
-          "title": "⚡ Compra cuerdas de guitarras Clasica | Musisol.com - Musisol.com"
-        },
-        {
-          "url": "https://tienda.lamusica.com/product/dia-nacional-de-la-zalsa-37-t-shirt?image=1&rating=2",
-          "title": "Radios | LaMusica"
-        },
-        {
-          "url": "https://radioonlinelive.com/uk/waves-radio-uk/",
-          "title": "Waves Radio UK, United Kingdom - Radio Online Live"
-        },
-        {
-          "url": "https://ritavinieris.com/",
-          "title": "Rita Vinieris"
-        },
-        {
-          "url": "https://www.starz.com/us/en/",
-          "title": "STARZ - Captivating Original Series. Hit Movies. Bold Storytelling."
-        },
-        {
-          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
-          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
-        }
-      ],
-      "count": 11
-    },
-    {
       "name": "consumer-goods-home",
       "bookmarks": [
         {
-          "url": "https://www.myollie.com/",
-          "title": "Ollie: Fresh & Healthy, Human-Grade Dog Food Delivery"
+          "url": "https://bellemeadejewelry.com/",
+          "title": "Belle Meade Jewelry and Repair Scott Isaacs www.bellemeadejewelry.com Ring Sizing Nashville TN Expert Jewelry Repair | Belle Meade Jewelry and Repair Scott Isaacs 615-269-3288 - 4515 Harding Pike Suite 112"
         },
         {
           "url": "https://fabfitfun.com/",
           "title": "FabFitFun"
         },
         {
-          "url": "https://bellemeadejewelry.com/",
-          "title": "Belle Meade Jewelry and Repair Scott Isaacs www.bellemeadejewelry.com Ring Sizing Nashville TN Expert Jewelry Repair | Belle Meade Jewelry and Repair Scott Isaacs 615-269-3288 - 4515 Harding Pike Suite 112"
-        },
-        {
           "url": "https://mutha.com/",
           "title": "MUTHA"
+        },
+        {
+          "url": "https://www.myollie.com/",
+          "title": "Ollie: Fresh & Healthy, Human-Grade Dog Food Delivery"
         },
         {
           "url": "https://www.saatva.com/bedding/percale-sheet-set",
@@ -313,49 +313,23 @@
       "count": 8
     },
     {
-      "name": "health-wellness",
-      "bookmarks": [
-        {
-          "url": "https://cvshealth.com/covid-19/vaccine-information",
-          "title": "Our COVID-19 Response | CVS Health"
-        },
-        {
-          "url": "https://www.dicke-deutsche.de/2013/05/ganganalysen/",
-          "title": "Ganganalysen - Dicke Deutsche - Alles über Diäten, Kalorien und Ernährung"
-        },
-        {
-          "url": "https://www.reproduccionasistida.org/complicaciones-durante-el-embarazo/gripe-y-resfriado-durante-el-embarazo/",
-          "title": "Prevenir infecciones durante el embarazo"
-        },
-        {
-          "url": "https://stottestrompen.dk/shop/75-cep-kompressionsstroemper/",
-          "title": "CEP kompressionsstrømper"
-        },
-        {
-          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
-          "title": "Mental health"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "travel-leisure",
       "bookmarks": [
-        {
-          "url": "https://fogoislandinn.ca/",
-          "title": "Fogo Island Inn | All-Inclusive Hospitality & Regenerative Travel"
-        },
         {
           "url": "https://elevation.maplogs.com/poi/isthmus_of_panama_panama.115355.html",
           "title": "Elevation map of Isthmus of Panama, Panama - MAPLOGS"
         },
         {
-          "url": "https://shop.lonelyplanet.com/categories/canada?city%5B%5D=Quebec+City&city%5B%5D=Halifax&city%5B%5D=Calgary&city%5B%5D=Churchill&city%5B%5D=Victoria&city%5B%5D=Dawson+City&city%5B%5D=Ottawa&series%5B%5D=Pocket&series%5B%5D=Regional+Guide&series%5B%5D=Best+of+Country&series%5B%5D=Planning+Maps&series%5B%5D=9-12+Children%27s&series%5B%5D=City+Map&sort%5B%5D=featured&sort%5B%5D=top_sellers",
-          "title": "Lonely Planet books for Canada"
+          "url": "https://fogoislandinn.ca/",
+          "title": "Fogo Island Inn | All-Inclusive Hospitality & Regenerative Travel"
         },
         {
           "url": "http://www.cite-sciences.fr/home_flash/index.html",
           "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
+        },
+        {
+          "url": "https://shop.lonelyplanet.com/categories/canada?city%5B%5D=Quebec+City&city%5B%5D=Halifax&city%5B%5D=Calgary&city%5B%5D=Churchill&city%5B%5D=Victoria&city%5B%5D=Dawson+City&city%5B%5D=Ottawa&series%5B%5D=Pocket&series%5B%5D=Regional+Guide&series%5B%5D=Best+of+Country&series%5B%5D=Planning+Maps&series%5B%5D=9-12+Children%27s&series%5B%5D=City+Map&sort%5B%5D=featured&sort%5B%5D=top_sellers",
+          "title": "Lonely Planet books for Canada"
         },
         {
           "url": "https://www.piste-ciclabili.com/forum/app.php/help/faq?sid=17e10923eb733137aba4a9166abc4ef9",
@@ -380,16 +354,42 @@
           "title": "Cable Company Fees Add $450 to Typical Annual Bill - Consumer Reports"
         },
         {
-          "url": "https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd",
-          "title": "Target's Corporate Commitments"
+          "url": "https://www.freikirchegronau.de/datenschutz/",
+          "title": "Datenschutz - Evangelische Freikirche Gronau"
         },
         {
           "url": "http://www.crayola.com/privacy.aspx",
           "title": "Privacy Policy"
         },
         {
-          "url": "https://www.freikirchegronau.de/datenschutz/",
-          "title": "Datenschutz - Evangelische Freikirche Gronau"
+          "url": "https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd",
+          "title": "Target's Corporate Commitments"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "https://stottestrompen.dk/shop/75-cep-kompressionsstroemper/",
+          "title": "CEP kompressionsstrømper"
+        },
+        {
+          "url": "https://www.dicke-deutsche.de/2013/05/ganganalysen/",
+          "title": "Ganganalysen - Dicke Deutsche - Alles über Diäten, Kalorien und Ernährung"
+        },
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
+          "title": "Mental health"
+        },
+        {
+          "url": "https://cvshealth.com/covid-19/vaccine-information",
+          "title": "Our COVID-19 Response | CVS Health"
+        },
+        {
+          "url": "https://www.reproduccionasistida.org/complicaciones-durante-el-embarazo/gripe-y-resfriado-durante-el-embarazo/",
+          "title": "Prevenir infecciones durante el embarazo"
         }
       ],
       "count": 5
@@ -398,12 +398,12 @@
       "name": "education-academia",
       "bookmarks": [
         {
-          "url": "https://www.khanacademy.org/",
-          "title": "Khan Academy"
-        },
-        {
           "url": "https://www2.ipm.ucanr.edu/beeprecaution/",
           "title": "bee-precaution-pesticide-ratings / University of California Statewide Integrated Pest Management Program (UC IPM)"
+        },
+        {
+          "url": "https://www.khanacademy.org/",
+          "title": "Khan Academy"
         },
         {
           "url": "https://stratocat.com.ar/fichas/2018/WNM-20180814.htm",

@@ -1,27 +1,19 @@
 {
   "folders": [
     {
-      "name": "general-information-references",
+      "name": "general-reference-information",
       "bookmarks": [
         {
           "url": "https://applecash.greendot.com/termsconditions/",
           "title": "Apple Cash Terms and Conditions"
         },
         {
-          "url": "https://www.bahn.de/angebot/regio",
-          "title": "Regional reisen: Unsere beliebtesten Bahntickets & Verbund-Angebote"
-        },
-        {
-          "url": "https://www.editionsfavre.com/livres/jai-ose/",
-          "title": "J'ai osé - Éditions Favre"
+          "url": "https://www.frankie.com.au/articles",
+          "title": "articles • frankie magazine • australian fashion magazine online"
         },
         {
           "url": "https://es.thefreedictionary.com/desapercibido",
           "title": "Desapercibido - significado de desapercibido diccionario"
-        },
-        {
-          "url": "https://www.frankie.com.au/articles",
-          "title": "articles • frankie magazine • australian fashion magazine online"
         },
         {
           "url": "https://hyundai.oemdtc.com",
@@ -32,12 +24,20 @@
           "title": "iCloud"
         },
         {
-          "url": "https://www.ns.nl/reisinformatie",
-          "title": "Reisinformatie l Blijf op de hoogte | NS"
+          "url": "https://www.editionsfavre.com/livres/jai-ose/",
+          "title": "J'ai osé - Éditions Favre"
         },
         {
           "url": "https://productregistration.sony.com/?cpint=spt-globalheader_prodregistration",
           "title": "Product Registration"
+        },
+        {
+          "url": "https://www.bahn.de/angebot/regio",
+          "title": "Regional reisen: Unsere beliebtesten Bahntickets & Verbund-Angebote"
+        },
+        {
+          "url": "https://www.ns.nl/reisinformatie",
+          "title": "Reisinformatie l Blijf op de hoogte | NS"
         },
         {
           "url": "https://theguardian.newspapers.com",
@@ -50,8 +50,12 @@
       "name": "software-development-tech-resources",
       "bookmarks": [
         {
-          "url": "https://atom.io/",
-          "title": "Sunsetting Atom - The GitHub Blog"
+          "url": "https://web.andrejansen.de/19-unifi-udm-pro-backup-auf-synology-sichern/",
+          "title": "(19) Unifi UDM Pro Backup auf Synology sichern - www.andrejansen.dewww.andrejansen.de"
+        },
+        {
+          "url": "https://pytorch.org/docs/stable/generated/torch.optim.Adam.html",
+          "title": "Adam - PyTorch 2.8 documentation"
         },
         {
           "url": "https://deepmind.google/discover/blog",
@@ -62,12 +66,12 @@
           "title": "Lupo73 - Innovazione Digitale: Esplorando le Frontiere dell'Informatica"
         },
         {
-          "url": "http://www.nborg.com",
-          "title": "nB0rg - Home"
+          "url": "https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies",
+          "title": "Manage cookies in Microsoft Edge: View, allow, block, delete and use - Microsoft Support"
         },
         {
-          "url": "https://pytorch.org/docs/stable/generated/torch.optim.Adam.html",
-          "title": "Adam - PyTorch 2.8 documentation"
+          "url": "http://www.nborg.com",
+          "title": "nB0rg - Home"
         },
         {
           "url": "https://shopify.dev/",
@@ -78,12 +82,8 @@
           "title": "Sign in for Software Support and Product Help - GitHub Support"
         },
         {
-          "url": "https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies",
-          "title": "Manage cookies in Microsoft Edge: View, allow, block, delete and use - Microsoft Support"
-        },
-        {
-          "url": "https://web.andrejansen.de/19-unifi-udm-pro-backup-auf-synology-sichern/",
-          "title": "(19) Unifi UDM Pro Backup auf Synology sichern - www.andrejansen.dewww.andrejansen.de"
+          "url": "https://atom.io/",
+          "title": "Sunsetting Atom - The GitHub Blog"
         }
       ],
       "count": 9
@@ -96,32 +96,32 @@
           "title": "Blue Ridge Community College - Introduction"
         },
         {
+          "url": "http://www.usblackchambers.org/certification",
+          "title": "ByBlack Certification"
+        },
+        {
           "url": "https://djvacto-blog.tumblr.com/post/90468162172",
           "title": "Danny , What % of STEM Should Be Computer Science?"
-        },
-        {
-          "url": "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=22066181",
-          "title": "Podcast - Managing the Future of Work - Harvard Business School"
-        },
-        {
-          "url": "https://www.intertek.com/marks/etl/",
-          "title": "ETL Listed Mark"
         },
         {
           "url": "https://www.nhanow.com/certification/nha-certifications/certified-ekg-technician-(cet)",
           "title": "EKG Certification | Earn your CET to become an EKG tech"
         },
         {
+          "url": "https://www.intertek.com/marks/etl/",
+          "title": "ETL Listed Mark"
+        },
+        {
           "url": "https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html",
           "title": "OneTrust | Privacy Management Software"
         },
         {
-          "url": "https://www.tumblestonschools.com/product-tag/young/",
-          "title": "Young"
+          "url": "https://www.hbs.edu/managing-the-future-of-work/podcast/Pages/podcast-details.aspx?episode=22066181",
+          "title": "Podcast - Managing the Future of Work - Harvard Business School"
         },
         {
-          "url": "http://www.usblackchambers.org/certification",
-          "title": "ByBlack Certification"
+          "url": "https://www.tumblestonschools.com/product-tag/young/",
+          "title": "Young"
         }
       ],
       "count": 8
@@ -136,6 +136,10 @@
         {
           "url": "https://www.crisistextline.org/",
           "title": "Crisis Text Line | Text HOME to 741741 Free, 24/7 Mental Health Support"
+        },
+        {
+          "url": "https://www.tchabitat.org/",
+          "title": "Home | Twin Cities Habitat For Humanity"
         },
         {
           "url": "http://www.inclusiv.org/",
@@ -154,10 +158,6 @@
           "title": "NDC | Neighborhood Development Center"
         },
         {
-          "url": "https://www.tchabitat.org/",
-          "title": "Home | Twin Cities Habitat For Humanity"
-        },
-        {
           "url": "https://www.ywcadayton.org/",
           "title": "YWCA Dayton | Domestic Violence Shelter & Rape Crisis Center"
         }
@@ -165,23 +165,23 @@
       "count": 8
     },
     {
-      "name": "arts-hobbies-entertainment",
+      "name": "arts-entertainment-hobbies",
       "bookmarks": [
+        {
+          "url": "https://www.gearjunkies.com/2015/10/aston-microphones-a-uniquely-british-story-of-microphones/",
+          "title": "Aston Microphones - A uniquely British story of microphones - Gearjunkies - Music tech news, Reviews, Videos, Synthesizers, Studio, Recording"
+        },
         {
           "url": "http://www.benjamin-vianney.com",
           "title": "Benjamin Vianney | Magicien professionnel sur Bordeaux"
-        },
-        {
-          "url": "https://cm-us.wargaming.net/frame/?service=frm&project=wot&realm=us&language=en&login_url=https://rciholidaysrewards.cf",
-          "title": "void"
         },
         {
           "url": "https://www.completesports.com/",
           "title": "Complete Sports Nigeria Latest Sports News And Updates"
         },
         {
-          "url": "https://www.gearjunkies.com/2015/10/aston-microphones-a-uniquely-british-story-of-microphones/",
-          "title": "Aston Microphones - A uniquely British story of microphones - Gearjunkies - Music tech news, Reviews, Videos, Synthesizers, Studio, Recording"
+          "url": "https://thequeenssix.co.uk/",
+          "title": "Home - The Queen's Six"
         },
         {
           "url": "http://www.m8tools.com/",
@@ -192,18 +192,30 @@
           "title": "Rules of Card Games: Cribbage Solitaire"
         },
         {
-          "url": "https://thequeenssix.co.uk/",
-          "title": "Home - The Queen's Six"
+          "url": "https://cm-us.wargaming.net/frame/?service=frm&project=wot&realm=us&language=en&login_url=https://rciholidaysrewards.cf",
+          "title": "void"
         }
       ],
       "count": 7
     },
     {
-      "name": "government-legal-civic",
+      "name": "civic-government-legal",
       "bookmarks": [
         {
           "url": "https://www.aclu-il.org/en/cases/aclu-v-alvarez",
           "title": "ACLU v. Alvarez | ACLU of Illinois"
+        },
+        {
+          "url": "https://www.renens.ch/web/Culture_et_Loisirs/Agenda/affiche.php?menus_pages_id=14&id=115&id_agendas=337",
+          "title": "Agenda - Ville de Renens"
+        },
+        {
+          "url": "http://www.fayetteville-ar.gov/384/GIS-Interactive-Maps",
+          "title": "GIS Maps | Fayetteville, AR - Official Website"
+        },
+        {
+          "url": "https://uuwestport.org/lifespan/this-week-in-family-faith-formation/permission_slip-lock_in/",
+          "title": "Permission_Slip-Lock_in"
         },
         {
           "url": "https://www.ada.gov/ada_voting/ada_voting_ta.htm",
@@ -214,86 +226,22 @@
           "title": "Situation Ukraine Refugee Situation"
         },
         {
-          "url": "http://www.fayetteville-ar.gov/384/GIS-Interactive-Maps",
-          "title": "GIS Maps | Fayetteville, AR - Official Website"
-        },
-        {
           "url": "https://www.legislation.wa.gov.au",
           "title": "WALW - Home"
-        },
-        {
-          "url": "https://www.renens.ch/web/Culture_et_Loisirs/Agenda/affiche.php?menus_pages_id=14&id=115&id_agendas=337",
-          "title": "Agenda - Ville de Renens"
-        },
-        {
-          "url": "https://uuwestport.org/lifespan/this-week-in-family-faith-formation/permission_slip-lock_in/",
-          "title": "Permission_Slip-Lock_in"
         }
       ],
       "count": 7
     },
     {
-      "name": "environmental-ocean-conservation",
-      "bookmarks": [
-        {
-          "url": "https://www.apo-observers.org/",
-          "title": "Association for Professional Observers (APO)"
-        },
-        {
-          "url": "https://belize.oceana.org/",
-          "title": "Home - Oceana Belize"
-        },
-        {
-          "url": "https://www.closedlooppartners.com/beyond-the-bag/",
-          "title": "Beyond the Bag - Closed Loop Partners"
-        },
-        {
-          "url": "https://donabertarelli.com/",
-          "title": "Dona Bertarelli Philanthropy"
-        },
-        {
-          "url": "https://globalfishingwatch.org/",
-          "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
-        },
-        {
-          "url": "https://oceana.org/press-releases/new-global-fisheries-transparency-coalition-releases-charter-for-public-comment/",
-          "title": "New Coaltion for Fisheries Transparency Releases Charter for Public Comment | Oceana"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "food-dining-recipes",
-      "bookmarks": [
-        {
-          "url": "https://www.750g.com/aile-de-raie-au-vin-blanc-r38733.htm",
-          "title": "Recette Aile de raie au vin blanc - 750g.com"
-        },
-        {
-          "url": "https://www.boostjuice.com.au/home_promo/new-nothing-but-passion/",
-          "title": "Gabby's Dollhouse - Boost Juice"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/fr/",
-          "title": "Base de Données de Recettes Accès Direct"
-        },
-        {
-          "url": "https://www.nelliessouthernkitchen.com/",
-          "title": "Nellie's Southern Kitchen"
-        },
-        {
-          "url": "https://www.sproutedkitchen.com/",
-          "title": "Sprouted Kitchen"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "science-academic-resources",
+      "name": "academic-science-resources",
       "bookmarks": [
         {
           "url": "https://discover.esa.int/",
           "title": "Discover ESA"
+        },
+        {
+          "url": "https://stiintasitehnica.com/interviu/",
+          "title": "Interviurile S&T - Știință & Tehnică"
         },
         {
           "url": "https://oceanexpert.org/event/3827",
@@ -306,24 +254,72 @@
         {
           "url": "https://www.space.com/jfk-apollo-moonshot-nasa-readiness.html",
           "title": "Why JFK Believed His Bold Moonshot Was Achievable | Space"
-        },
-        {
-          "url": "https://stiintasitehnica.com/interviu/",
-          "title": "Interviurile S&T - Știință & Tehnică"
         }
       ],
       "count": 5
     },
     {
-      "name": "e-commerce-products",
+      "name": "environmental-ocean-conservation",
       "bookmarks": [
         {
-          "url": "https://jaxbags.com.au/products/new-fashion-water-repellent-messenger-bag",
-          "title": "New Fashion Water Repellent Cross Body Bag - Jax Bags"
+          "url": "https://www.apo-observers.org/",
+          "title": "Association for Professional Observers (APO)"
         },
+        {
+          "url": "https://donabertarelli.com/",
+          "title": "Dona Bertarelli Philanthropy"
+        },
+        {
+          "url": "https://belize.oceana.org/",
+          "title": "Home - Oceana Belize"
+        },
+        {
+          "url": "https://oceana.org/press-releases/new-global-fisheries-transparency-coalition-releases-charter-for-public-comment/",
+          "title": "New Coaltion for Fisheries Transparency Releases Charter for Public Comment | Oceana"
+        },
+        {
+          "url": "https://globalfishingwatch.org/",
+          "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "food-dining-recipes",
+      "bookmarks": [
+        {
+          "url": "http://www.directaccessrecipes.com/fr/",
+          "title": "Base de Données de Recettes Accès Direct"
+        },
+        {
+          "url": "https://www.boostjuice.com.au/home_promo/new-nothing-but-passion/",
+          "title": "Gabby's Dollhouse - Boost Juice"
+        },
+        {
+          "url": "https://www.nelliessouthernkitchen.com/",
+          "title": "Nellie's Southern Kitchen"
+        },
+        {
+          "url": "https://www.750g.com/aile-de-raie-au-vin-blanc-r38733.htm",
+          "title": "Recette Aile de raie au vin blanc - 750g.com"
+        },
+        {
+          "url": "https://www.sproutedkitchen.com/",
+          "title": "Sprouted Kitchen"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "ecommerce-products",
+      "bookmarks": [
         {
           "url": "https://www.otto.de/damen/mode/",
           "title": "Damenbekleidung online kaufen | OTTO"
+        },
+        {
+          "url": "https://jaxbags.com.au/products/new-fashion-water-repellent-messenger-bag",
+          "title": "New Fashion Water Repellent Cross Body Bag - Jax Bags"
         },
         {
           "url": "https://www.swiss-mountain-dog-store.com/swiss-mountain-dog-muzzles-c-3/unique-design-wire-swiss-mountain-dog-muzzle-for-winter-activities-p-143.html",
@@ -344,22 +340,22 @@
           "title": "PrivacyPolicy | Aerfish"
         },
         {
-          "url": "https://www.muzemerch.com/privacy-policy-cookie-restriction-mode/",
-          "title": "You are being redirected..."
-        },
-        {
           "url": "https://www.spirittoolkit.com/privacypolicy",
           "title": "PrivacyPolicy | Mysite"
         },
         {
           "url": "https://streamsidesoft.com/spirit-story-box-privacy-policy/",
           "title": "Spirit Story Box Privacy Policy"
+        },
+        {
+          "url": "https://www.muzemerch.com/privacy-policy-cookie-restriction-mode/",
+          "title": "You are being redirected..."
         }
       ],
       "count": 4
     },
     {
-      "name": "health-lifestyle-wellness",
+      "name": "health-wellness-lifestyle",
       "bookmarks": [
         {
           "url": "https://us.koraorganics.com/products/turmeric-brightening-exfoliating-mask",
@@ -387,6 +383,6 @@
       "count": 1
     }
   ],
-  "total_bookmarks": 77,
+  "total_bookmarks": 76,
   "num_folders": 13
 }

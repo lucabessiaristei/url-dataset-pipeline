@@ -1,23 +1,19 @@
 {
   "folders": [
     {
-      "name": "company-and-organization-profiles",
+      "name": "company-organization-profiles",
       "bookmarks": [
-        {
-          "url": "https://beautylablaser.com/",
-          "title": "Skincare And Medspa In Salt Lake City, UT | Beauty Lab Laser"
-        },
         {
           "url": "https://www.chicagotribunemediagroup.com/",
           "title": "Chicago Tribune Media Group - Full-service Marketing Solutions"
         },
         {
-          "url": "http://www.flux-entertainment.com",
-          "title": "Home - Flux Entertainment"
-        },
-        {
           "url": "http://www.geopolymer.org/",
           "title": "Geopolymer Institute - Promoting the geopolymer science since 1979"
+        },
+        {
+          "url": "http://www.flux-entertainment.com",
+          "title": "Home - Flux Entertainment"
         },
         {
           "url": "https://www.llanfairfechantowncouncil.co.uk/index.php",
@@ -28,12 +24,12 @@
           "title": "Miami-Dade Chamber of Commerce"
         },
         {
-          "url": "https://www.nexuscp.org/",
-          "title": "Nexus Community Partners"
-        },
-        {
           "url": "https://nclud.com/",
           "title": "nclud - A Creative Digital & Branding Agency"
+        },
+        {
+          "url": "https://www.nexuscp.org/",
+          "title": "Nexus Community Partners"
         },
         {
           "url": "https://relianceretail.com/reliance-smart.html",
@@ -42,6 +38,10 @@
         {
           "url": "http://sailsofchange.org",
           "title": "Sails of Change"
+        },
+        {
+          "url": "https://beautylablaser.com/",
+          "title": "Skincare And Medspa In Salt Lake City, UT | Beauty Lab Laser"
         },
         {
           "url": "https://www.tbf.org/",
@@ -55,12 +55,8 @@
       "count": 12
     },
     {
-      "name": "general-resources-and-miscellaneous",
+      "name": "general-resources-miscellaneous",
       "bookmarks": [
-        {
-          "url": "https://bugatti.oemdtc.com/category/recalls",
-          "title": "Recalls | Bugatti - OEMDTC"
-        },
         {
           "url": "https://jamiegeller.com/recipes/chinese-chicken-with-brocoli/",
           "title": "Chinese Chicken with Brocoli » Jamie Geller"
@@ -74,12 +70,16 @@
           "title": "Forbes Membership - Subscribe For Unlimited Digital Access"
         },
         {
-          "url": "https://www.oebb.at/de/tickets-kundenkarten",
-          "title": "Tickets & Ermäßigungen - ÖBB"
+          "url": "https://bugatti.oemdtc.com/category/recalls",
+          "title": "Recalls | Bugatti - OEMDTC"
         },
         {
           "url": "https://shipsofscale.com/",
           "title": "Ships of Scale"
+        },
+        {
+          "url": "https://www.oebb.at/de/tickets-kundenkarten",
+          "title": "Tickets & Ermäßigungen - ÖBB"
         },
         {
           "url": "https://www.asabbatical.com/article/where-is-san-marino",
@@ -93,7 +93,7 @@
       "count": 8
     },
     {
-      "name": "news-and-current-affairs",
+      "name": "news-current-affairs",
       "bookmarks": [
         {
           "url": "https://tghat.com/2021/03/06/abiy-ahmed-and-his-genocide-policy-in-tigray/",
@@ -127,15 +127,11 @@
       "count": 7
     },
     {
-      "name": "education-and-learning-resources",
+      "name": "education-learning-resources",
       "bookmarks": [
         {
           "url": "https://learningconsole.amazonadvertising.com/",
           "title": "Amazon Ads Academy - Explore training courses, certifications, and more"
-        },
-        {
-          "url": "https://sabiyamalbari11.tumblr.com/post/143008375724",
-          "title": "Sabiya malbari - Computer science: the impact of K-12 on university..."
         },
         {
           "url": "https://gb.coursera.org/",
@@ -152,12 +148,16 @@
         {
           "url": "https://catalog.montgomerycollege.edu/",
           "title": "Montgomery College - Modern Campus Catalog™"
+        },
+        {
+          "url": "https://sabiyamalbari11.tumblr.com/post/143008375724",
+          "title": "Sabiya malbari - Computer science: the impact of K-12 on university..."
         }
       ],
       "count": 6
     },
     {
-      "name": "software-and-online-tools",
+      "name": "software-online-tools",
       "bookmarks": [
         {
           "url": "https://browsehappy.com/",
@@ -183,7 +183,7 @@
       "count": 5
     },
     {
-      "name": "guides-faqs-and-tech-support",
+      "name": "guides-faqs-tech-support",
       "bookmarks": [
         {
           "url": "https://www.acer-userforum.de/threads/5940-g-festplatte-rasselt-laut-aber-nicht-defekt.22228/reply?quote=194587",
@@ -205,12 +205,8 @@
       "count": 4
     },
     {
-      "name": "personal-and-hobby-blogs",
+      "name": "personal-blogs-hobbies",
       "bookmarks": [
-        {
-          "url": "https://committedthetrifecta.tumblr.com/",
-          "title": "void"
-        },
         {
           "url": "https://greengryph.tumblr.com/",
           "title": "Green Gryph"
@@ -222,12 +218,16 @@
         {
           "url": "https://longfellow365.com/2019/06/",
           "title": "June 2019 - Longfellow365"
+        },
+        {
+          "url": "https://committedthetrifecta.tumblr.com/",
+          "title": "void"
         }
       ],
       "count": 4
     },
     {
-      "name": "public-services-and-government-info",
+      "name": "public-services-government-info",
       "bookmarks": [
         {
           "url": "https://covid19vaccine.health.ny.gov/",
@@ -249,7 +249,7 @@
       "count": 4
     },
     {
-      "name": "legal-policies-and-consumer-rights",
+      "name": "legal-policies-consumer-rights",
       "bookmarks": [
         {
           "url": "https://www.aetna.com/individuals-families/member-rights-resources/rights/federal-no-surprises-act.html",
@@ -267,15 +267,15 @@
       "count": 3
     },
     {
-      "name": "product-and-home-goods",
+      "name": "home-goods-products",
       "bookmarks": [
-        {
-          "url": "https://www.drunkelephant.com/products/slaai-makeup-melting-butter-cleanser",
-          "title": "Nourishing, makeup-melting cleansing balm | Drunk Elephant"
-        },
         {
           "url": "https://www.electricworld.co.uk/l/hoods",
           "title": "Electric World Cooker Hoods | Domestic Appliance Retailer Lisburn | Wide Range of Appliances"
+        },
+        {
+          "url": "https://www.drunkelephant.com/products/slaai-makeup-melting-butter-cleanser",
+          "title": "Nourishing, makeup-melting cleansing balm | Drunk Elephant"
         }
       ],
       "count": 2

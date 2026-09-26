@@ -61,18 +61,6 @@
       "preview": "void"
     },
     {
-      "url": "https://login.ey.com/myey/home",
-      "title": "EY login - My EY",
-      "description": "void",
-      "preview": "void"
-    },
-    {
-      "url": "https://training.contentful.com/",
-      "title": "Contentful Learning Center",
-      "description": "Contentful Learning Center offers free live and on demand training for every user - from marketers, through the digital team, to developers.",
-      "preview": "You need to enable javascript to view this website."
-    },
-    {
       "url": "http://www.myarmoury.com/feature_oakeshott.html",
       "title": "Ewart Oakeshott: The Man and his Legacy -- myArmoury.com",
       "description": "A resource for historic arms and armor collectors with photo galleries, reviews, reference materials, discussion forums, a bookstore and a comparison tool.",
@@ -500,6 +488,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 83
+    "total_bookmarks": 81
   }
 }

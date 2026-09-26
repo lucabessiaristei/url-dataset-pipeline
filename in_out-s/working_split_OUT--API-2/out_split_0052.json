@@ -1,15 +1,319 @@
 {
   "folders": [
     {
+      "name": "web-platforms",
+      "bookmarks": [
+        {
+          "url": "https://www.engr.psu.edu/communications/index.aspx",
+          "title": "Communications and Marketing | Penn State Engineering"
+        },
+        {
+          "url": "https://djvacto-blog.tumblr.com/",
+          "title": "Danny"
+        },
+        {
+          "url": "https://ford.oemdtc.com/category/diagnostic-tips",
+          "title": "Diagnostic Tips | Ford & Lincoln - OEMDTC"
+        },
+        {
+          "url": "https://mylearningtrial.tumblr.com/",
+          "title": "Just you wait."
+        },
+        {
+          "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=336abc4a64dd4cdbb9c172a58ac66a3e",
+          "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
+        },
+        {
+          "url": "https://fourcornersgeotourism.com/entries/la-casita-bonita-inn/dd17284d-8b70-4eb1-94b2-d708569b0801",
+          "title": "La Casita Bonita Inn | Four Corners Region"
+        },
+        {
+          "url": "https://www.luerzersarchive.com/",
+          "title": "Lürzer's Archive | Leading Ad Industry Magazine & Directory"
+        },
+        {
+          "url": "https://bpando.org/2016/10/26/branding-park-bench-deli/",
+          "title": "New Branding for Park Bench Deli by Foreign Policy - BP&O"
+        },
+        {
+          "url": "https://www.utdanningsforbundet.no/om-utdanningsforbundet/om-nettstedet/",
+          "title": "Om nettstedet"
+        },
+        {
+          "url": "https://pdtpartners.com/",
+          "title": "PDT Partners"
+        },
+        {
+          "url": "https://sk-itty.tumblr.com/",
+          "title": "sk"
+        },
+        {
+          "url": "https://forum.corel.com/search.php?search_id=active_topics&sid=9078362d4fdca1df89b80c0d3a53f368",
+          "title": "Supporto - Corel"
+        },
+        {
+          "url": "https://www.ecpubliclibrary.info/kids/building-brains-by-singing-with-your-child/",
+          "title": "You are being redirected..."
+        },
+        {
+          "url": "https://www.muzemerch.com/partner/california-academy-of-sciences",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "business-commerce",
+      "bookmarks": [
+        {
+          "url": "https://www.coloradoblackchamber.org/",
+          "title": "Colorado Black Chamber of Commerce | Minority Entrepreneurs | Denver, CO"
+        },
+        {
+          "url": "http://www.beltsdirect.com/",
+          "title": "Fashion and Pet Accessories - Buckle-Down"
+        },
+        {
+          "url": "https://www.harrys.com/en/us",
+          "title": "Harry's. Quality Shaving Grooming Products, at a Fair Price | Harry's"
+        },
+        {
+          "url": "https://www.vijaysales.com/?gclid=Cj0KCQiAkuP9BRCkARIsAKGLE8XNFFBps909mKzX4jdv7mqfunBVwGYRtAEKDq0EUJ25g7eJ_S8KLqQaAktIEALw_wcB",
+          "title": "Home Page"
+        },
+        {
+          "url": "http://www.ireks.pl/historia.htm;jsessionid=EEBF83FCBC948CDEDD01B6434B369AE5",
+          "title": "IREKS | Polska"
+        },
+        {
+          "url": "https://www.manypixels.co/",
+          "title": "ManyPixels - Unlimited Graphic Design | Try Now"
+        },
+        {
+          "url": "http://www.spencersretail.com/",
+          "title": "Spencer's Retail is a leading retailer that operates multiple retail formats in India."
+        },
+        {
+          "url": "https://www.theacsi.org/",
+          "title": "The American Customer Satisfaction Index (ACSI) - National Cross-Industry Measure of Customer Satisfaction"
+        },
+        {
+          "url": "https://www.laona.at/shop/shop/alle-kleider/24193-1710-9137/pretty-chiffon-dress",
+          "title": "unique online-shop | Abendkleider, Ballkleider & Cocktailkleider"
+        },
+        {
+          "url": "https://www.jcpenney.com/p/eva-nyc-kweeen-glitter-spray/ppr5008150071?pTmplType=regular",
+          "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.5-8club.com/",
+          "title": "5-8 Club"
+        },
+        {
+          "url": "https://www.airbnb.co.in/?locale=en&_set_bev_on_new_domain=1606041642_YjI0OGQ3OWI5MDI2",
+          "title": "Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes & Experiences"
+        },
+        {
+          "url": "https://www.broadwayworld.com/article/Antisemitic-Protestors-Chant-At-Audience-Outside-First-Preview-Of-PARADE-20230221",
+          "title": "Antisemitic Protestors Chant At Audience Outside First Preview Of PARADE"
+        },
+        {
+          "url": "https://fabfitfun.com/get-the-box",
+          "title": "FabFitFun - Beauty, Fitness, Lifestyle"
+        },
+        {
+          "url": "https://musicorspaceshuttle.com/tag/future-rock-legends/",
+          "title": "future rock legends | Music or Space Shuttle?"
+        },
+        {
+          "url": "https://www.epix.com/privacy-policy",
+          "title": "MGM+ | Privacy Policy"
+        },
+        {
+          "url": "https://www.mlb.com/live-stream-games/subscribe?mlbkw=ds-g-p30039016412&gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXEnn26WiD6DtX4X9Fnb5p0tUAv-VnDgcDXZgBbQHkPpK1hgnq9xdoaAiGcEALw_wcB&gclsrc=aw.ds",
+          "title": "MLB.TV Out-Of-Market Packages | Buy MLB.TV | MLB.com"
+        },
+        {
+          "url": "http://www.newtube.com/",
+          "title": "New Tube Company |"
+        },
+        {
+          "url": "https://www.watchgang.com/",
+          "title": "Watch Gang | The World's #1 Watch Club"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "tech-tools",
+      "bookmarks": [
+        {
+          "url": "https://offers.applemusic.apple/six-month-offer",
+          "title": "Apple Music 3 Month Free Offer"
+        },
+        {
+          "url": "https://www.teknion.com/can/planning/education---common-space",
+          "title": "Education - Social Spaces"
+        },
+        {
+          "url": "https://mysds.henkel.com/index.html",
+          "title": "Henkel Documents"
+        },
+        {
+          "url": "https://help.shipt.com/how-shipt-works",
+          "title": "How Shipt Works - Shipt"
+        },
+        {
+          "url": "https://shop-links.co/cjbgBpZ0yDA",
+          "title": "Howl | Where Creators & Brands Link Up"
+        },
+        {
+          "url": "https://www.camicado.com.br/p/jarra-de-vidro-para-cafeteira-oster-programavel-4401/-/A-700041533-br.lc",
+          "title": "Jarra de Vidro para Cafeteira Oster Programável 4401 - Camicado"
+        },
+        {
+          "url": "https://special-led.de/led-leuchtmittell-lamps-light-retrofit.html?led_watt_roehren=1052",
+          "title": "LED Leuchtmittel Retrofit (austauschbar)"
+        },
+        {
+          "url": "https://tree-tc.tributestore.com/?oId=25875204&tag=&tn=FreeTreeTestFC&otv=&source=tco_description&mtph=1",
+          "title": "Tribute Store | Memorial Tree"
+        },
+        {
+          "url": "https://www.daswetter.com/wetter_Oisquercq-Europa-Belgien-Wallonisch+Brabant--1-180489.html",
+          "title": "Wetter Oisquercq 14 Tage - daswetter.com | Meteored"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.vogue.com/article/editor-picks-fall-winter-2025-trends",
+          "title": "11 Fall Fashion Trends Vogue Editors Are Shopping | Vogue"
+        },
+        {
+          "url": "https://fr.vietnamplus.vn/4e-session-de-la-commission-de-cooperation-vietnamargentine/57164.vnp",
+          "title": "4e Session de la Commission de coopération Vietnam-Argentine | Vietnam+ (VietnamPlus)"
+        },
+        {
+          "url": "https://www.bbc.com/news",
+          "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and around the world"
+        },
+        {
+          "url": "https://www.spiegel.de/wissenschaft/natur/fracking-boom-sorgt-fuer-steigende-methan-emissionen-a-1281900.html",
+          "title": "Fracking-Boom sorgt für steigende Methan-Emissionen - DER SPIEGEL"
+        },
+        {
+          "url": "https://www.theverge.com/2020/11/18/21573081/google-new-tool-hot-cities-trees-climate-change-temperature",
+          "title": "Google launches new tool to help cities stay cool | The Verge"
+        },
+        {
+          "url": "https://www.thedailybeast.com/",
+          "title": "The Daily Beast: The Latest in Politics, Media & Entertainment News"
+        },
+        {
+          "url": "https://news.un.org/en/story/2022/07/1121802",
+          "title": "UN Ocean Conference ends with call for greater global commitment to address dire state of the ocean | UN News"
+        },
+        {
+          "url": "https://left.gr/mayri-ergasia?page=2",
+          "title": "μαύρη εργασία :: 3 :: left.gr"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "education-learning",
+      "bookmarks": [
+        {
+          "url": "https://cloudskillsboost.google/paths/11",
+          "title": "Cloud Engineer | Google Cloud Skills Boost"
+        },
+        {
+          "url": "https://medium.com/@codeorg/cs-helps-students-outperform-in-school-college-and-workplace-66dd64a69536",
+          "title": "CS helps students outperform in school, college, and workplace | by Code.org | Medium"
+        },
+        {
+          "url": "https://skillshop.exceedlms.com/student/path/549945-google-tools-for-in-person-learning",
+          "title": "Google Tools for In-Person Learning : Google for Education"
+        },
+        {
+          "url": "https://www.womentechmakers.com/initiatives/bwit",
+          "title": "Google's Women Techmakers Program - Google for Developers"
+        },
+        {
+          "url": "https://www.eie.org/",
+          "title": "YES - Educating the Next Generation of Problem Solvers and Engineers"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "nonprofit-community",
+      "bookmarks": [
+        {
+          "url": "https://www.lookingoutfoundation.org/",
+          "title": "LOF"
+        },
+        {
+          "url": "http://www.marinemammalcenter.org/what-we-do/rescue/what-we-do-if-you-find-a.html",
+          "title": "Rescue | The Marine Mammal Center"
+        },
+        {
+          "url": "https://www.kew.org/",
+          "title": "Royal Botanic Gardens, Kew | Kew"
+        },
+        {
+          "url": "https://walmart.org/",
+          "title": "Walmart Foundation"
+        },
+        {
+          "url": "https://www.ywcampls.org/",
+          "title": "YWCA Minneapolis | Eliminating Racism | Empowering Women"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "software-development",
+      "bookmarks": [
+        {
+          "url": "http://www.webqc.org/",
+          "title": "Chemical Portal - Chemistry Online Education"
+        },
+        {
+          "url": "http://support.groundspeak.com",
+          "title": "Knowledge Books"
+        },
+        {
+          "url": "https://developer.apple.com/softwarelicensing/",
+          "title": "Licensing and Trademarks - Apple Developer"
+        },
+        {
+          "url": "https://www.debian-fr.org/t/pulseaudio-probleme-de-definition-de-la-sortie-son/85541",
+          "title": "Pulseaudio problème de définition de la sortie son - Support Debian - debian-fr.org"
+        },
+        {
+          "url": "https://www.kenkenkikki.jp/qa/answer/e_a11-003.html",
+          "title": "Q&A: Construction Equipment | Kikki's Workshop"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "ai-ml-research",
       "bookmarks": [
         {
           "url": "https://ai-writer.com/",
           "title": "AI-Writer.com - Trustworthy AI Writing for Academia & Marketing"
-        },
-        {
-          "url": "https://magenta.tensorflow.org/datasets/nsynth",
-          "title": "The NSynth Dataset"
         },
         {
           "url": "https://techcrunch.com/tag/artificial-intelligence/",
@@ -18,92 +322,144 @@
         {
           "url": "https://www.nature.com/subjects/machine-learning",
           "title": "Machine learning - Latest research and news | Nature"
+        },
+        {
+          "url": "https://magenta.tensorflow.org/datasets/nsynth",
+          "title": "The NSynth Dataset"
         }
       ],
       "count": 4
     },
     {
-      "name": "business-commerce",
+      "name": "events-conferences",
       "bookmarks": [
         {
-          "url": "https://www.theacsi.org/",
-          "title": "The American Customer Satisfaction Index (ACSI) - National Cross-Industry Measure of Customer Satisfaction"
+          "url": "https://www.voteearlyday.org/",
+          "title": "Celebrate Vote Early Day on October 28th, 2025"
         },
-        {
-          "url": "https://www.coloradoblackchamber.org/",
-          "title": "Colorado Black Chamber of Commerce | Minority Entrepreneurs | Denver, CO"
-        },
-        {
-          "url": "https://www.harrys.com/en/us",
-          "title": "Harry's. Quality Shaving Grooming Products, at a Fair Price | Harry's"
-        },
-        {
-          "url": "https://www.jcpenney.com/p/eva-nyc-kweeen-glitter-spray/ppr5008150071?pTmplType=regular",
-          "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
-        },
-        {
-          "url": "https://www.laona.at/shop/shop/alle-kleider/24193-1710-9137/pretty-chiffon-dress",
-          "title": "unique online-shop | Abendkleider, Ballkleider & Cocktailkleider"
-        },
-        {
-          "url": "https://www.manypixels.co/",
-          "title": "ManyPixels - Unlimited Graphic Design | Try Now"
-        },
-        {
-          "url": "https://www.spencersretail.com/",
-          "title": "Spencer's Retail is a leading retailer that operates multiple retail formats in India."
-        },
-        {
-          "url": "https://www.vijaysales.com/?gclid=Cj0KCQiAkuP9BRCkARIsAKGLE8XNFFBps909mKzX4jdv7mqfunBVwGYRtAEKDq0EUJ25g7eJ_S8KLqQaAktIEALw_wcB",
-          "title": "Home Page"
-        },
-        {
-          "url": "http://www.beltsdirect.com/",
-          "title": "Fashion and Pet Accessories - Buckle-Down"
-        },
-        {
-          "url": "http://www.ireks.pl/historia.htm;jsessionid=EEBF83FCBC948CDEDD01B6434B369AE5",
-          "title": "IREKS | Polska"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "conferences-events",
-      "bookmarks": [
         {
           "url": "https://events.c2cglobal.com/events/#/list",
           "title": "Events List | Google C2C Global"
         },
         {
-          "url": "https://ghc.anitab.org/",
+          "url": "http://ghc.anitab.org/",
           "title": "Grace Hopper Celebration | Nov 4-7, 2025 | AnitaB.org"
         },
         {
           "url": "https://www.terrapinn.com/conference/aviation-festival/index.stm",
           "title": "World Aviation Festival 2025 | Lisbon"
-        },
-        {
-          "url": "https://www.voteearlyday.org/",
-          "title": "Celebrate Vote Early Day on October 28th, 2025"
         }
       ],
       "count": 4
     },
     {
+      "name": "government-services",
+      "bookmarks": [
+        {
+          "url": "https://www.militaryonesource.mil/coronavirus/",
+          "title": "Health Resources for Prevention & Care | Military OneSource"
+        },
+        {
+          "url": "https://www.comune.roma.it/web/it/servizi.page",
+          "title": "Roma Capitale | Sito Istituzionale | Servizi"
+        },
+        {
+          "url": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2011rs/billfile/HB0123.htm",
+          "title": "Search - Legislation"
+        },
+        {
+          "url": "https://sba.gov/",
+          "title": "Small Business Administration"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "career-work",
+      "bookmarks": [
+        {
+          "url": "http://www.hamiltonproject.org/charts/career_earnings_by_college_major/",
+          "title": "Career earnings by college major - The Hamilton Project"
+        },
+        {
+          "url": "https://it.linkedin.com/company/pradagroup?trk=public_jobs_jserp-result_job-search-card-subtitle",
+          "title": "Prada Group | LinkedIn"
+        },
+        {
+          "url": "https://nl.linkedin.com/company/randstad?trk=public_jobs_jserp-result_job-search-card-subtitle",
+          "title": "Randstad | LinkedIn"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "crafts-diy",
       "bookmarks": [
         {
-          "url": "https://www.craftsmanspace.com/knowledge/chip-carving-patterns.html",
-          "title": "Wood carving books | CRAFTSMANSPACE"
-        },
-        {
-          "url": "http://editcnc.com/",
+          "url": "http://www.editcnc.com/",
           "title": "CNC g-code editor with DNC"
         },
         {
           "url": "http://snyderemarks.com/the-eric-bransby-mural/",
           "title": "The Eric Bransby Mural | snyderemarks.com"
+        },
+        {
+          "url": "https://www.craftsmanspace.com/knowledge/chip-carving-patterns.html",
+          "title": "Wood carving books | CRAFTSMANSPACE"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "history-culture",
+      "bookmarks": [
+        {
+          "url": "https://historiska.se/utstallningar/haxor/",
+          "title": "Häxor | Historiska Museet"
+        },
+        {
+          "url": "https://www.sacred-texts.com/tarot/index.htm",
+          "title": "Tarot | Sacred Texts Archive"
+        },
+        {
+          "url": "https://disf.org/trapianti",
+          "title": "Trapianti | DISF.org"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "privacy-security",
+      "bookmarks": [
+        {
+          "url": "http://www.vizio.com/privacy",
+          "title": "DCC Technology"
+        },
+        {
+          "url": "https://cs.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPressu | WordPress.org Česko"
+        },
+        {
+          "url": "https://www.torproject.org/projects/torbrowser.html.en",
+          "title": "Tor Project | Download"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "science-health",
+      "bookmarks": [
+        {
+          "url": "https://www.ucsf.edu/news/2020/04/417311/experts-explain-how-contact-tracing-will-end-coronavirus-pandemic",
+          "title": "Experts Explain How Contact Tracing Will End the Coronavirus Pandemic | UC San Francisco"
+        },
+        {
+          "url": "https://www.iwantgreatcare.org/doctors/dr-sanjay-gheyi/reviews/new",
+          "title": "New - Review - iWantGreatCare"
+        },
+        {
+          "url": "http://www.news.ucsb.edu/2018/019138/troubled-waters",
+          "title": "Troubled Waters | The Current"
         }
       ],
       "count": 3
@@ -123,218 +479,6 @@
       "count": 2
     },
     {
-      "name": "education-learning",
-      "bookmarks": [
-        {
-          "url": "https://cloudskillsboost.google/paths/11",
-          "title": "Cloud Engineer | Google Cloud Skills Boost"
-        },
-        {
-          "url": "https://medium.com/@codeorg/cs-helps-students-outperform-in-school-college-and-workplace-66dd64a69536",
-          "title": "CS helps students outperform in school, college, and workplace | by Code.org | Medium"
-        },
-        {
-          "url": "https://skillshop.exceedlms.com/student/path/549945-google-tools-for-in-person-learning",
-          "title": "Google Tools for In-Person Learning : Google for Education"
-        },
-        {
-          "url": "https://www.eie.org/",
-          "title": "YES - Educating the Next Generation of Problem Solvers and Engineers"
-        },
-        {
-          "url": "https://www.womentechmakers.com/initiatives/bwit",
-          "title": "Google's Women Techmakers Program - Google for Developers"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "entertainment-media",
-      "bookmarks": [
-        {
-          "url": "https://www.5-8club.com/",
-          "title": "5-8 Club"
-        },
-        {
-          "url": "https://www.airbnb.co.in/?locale=en&_set_bev_on_new_domain=1606041642_YjI0OGQ3OWI5MDI2",
-          "title": "Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes & Experiences"
-        },
-        {
-          "url": "https://www.broadwayworld.com/article/Antisemitic-Protestors-Chant-At-Audience-Outside-First-Preview-Of-PARADE-20230221",
-          "title": "Antisemitic Protestors Chant At Audience Outside First Preview Of PARADE"
-        },
-        {
-          "url": "https://www.epix.com/privacy-policy",
-          "title": "MGM+ | Privacy Policy"
-        },
-        {
-          "url": "https://www.fabfitfun.com/get-the-box",
-          "title": "FabFitFun - Beauty, Fitness, Lifestyle"
-        },
-        {
-          "url": "https://www.lookfantastic.com/offers/beauty-box.list",
-          "title": "LOOKFANTASTIC - Beauty, Fragrances, Skincare & Haircare"
-        },
-        {
-          "url": "https://www.mlb.com/live-stream-games/subscribe?mlbkw=ds-g-p30039016412&gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXEnn26WiD6DtX4X9Fnb5p0tUAv-VnDgcDXZgBbQHkPpK1hgnq9xdoaAiGcEALw_wcB&gclsrc=aw.ds",
-          "title": "MLB.TV Out-Of-Market Packages | Buy MLB.TV | MLB.com"
-        },
-        {
-          "url": "https://www.musicorspaceshuttle.com/tag/future-rock-legends/",
-          "title": "future rock legends | Music or Space Shuttle?"
-        },
-        {
-          "url": "https://www.watchgang.com/",
-          "title": "Watch Gang | The World's #1 Watch Club"
-        },
-        {
-          "url": "http://www.newtube.com/",
-          "title": "New Tube Company |"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "government-services",
-      "bookmarks": [
-        {
-          "url": "https://sba.gov/",
-          "title": "Small Business Administration"
-        },
-        {
-          "url": "https://www.comune.roma.it/web/it/servizi.page",
-          "title": "Roma Capitale | Sito Istituzionale | Servizi"
-        },
-        {
-          "url": "https://www.militaryonesource.mil/coronavirus/",
-          "title": "Health Resources for Prevention & Care | Military OneSource"
-        },
-        {
-          "url": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2011rs/billfile/HB0123.htm",
-          "title": "Search - Legislation"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "health-science",
-      "bookmarks": [
-        {
-          "url": "https://www.ucsf.edu/news/2020/04/417311/experts-explain-how-contact-tracing-will-end-coronavirus-pandemic",
-          "title": "Experts Explain How Contact Tracing Will End the Coronavirus Pandemic | UC San Francisco"
-        },
-        {
-          "url": "https://www.iwantgreatcare.org/doctors/dr-sanjay-gheyi/reviews/new",
-          "title": "New - Review - iWantGreatCare"
-        },
-        {
-          "url": "http://www.news.ucsb.edu/2018/019138/troubled-waters",
-          "title": "Troubled Waters | The Current"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "history-culture",
-      "bookmarks": [
-        {
-          "url": "https://disf.org/trapianti",
-          "title": "Trapianti | DISF.org"
-        },
-        {
-          "url": "https://historiska.se/utstallningar/haxor/",
-          "title": "Häxor | Historiska Museet"
-        },
-        {
-          "url": "https://www.sacred-texts.com/tarot/index.htm",
-          "title": "Tarot | Sacred Texts Archive"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://www.bbc.com/news",
-          "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and around the world"
-        },
-        {
-          "url": "https://www.spiegel.de/wissenschaft/natur/fracking-boom-sorgt-fuer-steigende-methan-emissionen-a-1281900.html",
-          "title": "Fracking-Boom sorgt für steigende Methan-Emissionen - DER SPIEGEL"
-        },
-        {
-          "url": "https://www.thedailybeast.com/",
-          "title": "The Daily Beast: The Latest in Politics, Media & Entertainment News"
-        },
-        {
-          "url": "https://www.theverge.com/2020/11/18/21573081/google-new-tool-hot-cities-trees-climate-change-temperature",
-          "title": "Google launches new tool to help cities stay cool | The Verge"
-        },
-        {
-          "url": "https://www.vogue.com/article/editor-picks-fall-winter-2025-trends",
-          "title": "11 Fall Fashion Trends Vogue Editors Are Shopping | Vogue"
-        },
-        {
-          "url": "https://fr.vietnamplus.vn/4e-session-de-la-commission-de-cooperation-vietnamargentine/57164.vnp",
-          "title": "4e Session de la Commission de coopération Vietnam-Argentine | Vietnam+ (VietnamPlus)"
-        },
-        {
-          "url": "https://left.gr/mayri-ergasia?page=2",
-          "title": "μαύρη εργασία :: 3 :: left.gr"
-        },
-        {
-          "url": "https://news.un.org/en/story/2022/07/1121802",
-          "title": "UN Ocean Conference ends with call for greater global commitment to address dire state of the ocean | UN News"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "nonprofit-community",
-      "bookmarks": [
-        {
-          "url": "https://www.kew.org/",
-          "title": "Royal Botanic Gardens, Kew | Kew"
-        },
-        {
-          "url": "https://www.lookingoutfoundation.org/",
-          "title": "LOF"
-        },
-        {
-          "url": "https://www.marinemammalcenter.org/what-we-do/rescue/what-we-do-if-you-find-a.html",
-          "title": "Rescue | The Marine Mammal Center"
-        },
-        {
-          "url": "https://www.walmart.org/",
-          "title": "Walmart Foundation"
-        },
-        {
-          "url": "https://www.ywcampls.org/",
-          "title": "YWCA Minneapolis | Eliminating Racism | Empowering Women"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "privacy-security",
-      "bookmarks": [
-        {
-          "url": "https://cs.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPressu | WordPress.org Česko"
-        },
-        {
-          "url": "https://www.torproject.org/projects/torbrowser.html.en",
-          "title": "Tor Project | Download"
-        },
-        {
-          "url": "http://www.vizio.com/privacy",
-          "title": "DCC Technology"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "science-environment",
       "bookmarks": [
         {
@@ -347,160 +491,8 @@
         }
       ],
       "count": 2
-    },
-    {
-      "name": "software-development",
-      "bookmarks": [
-        {
-          "url": "https://developer.apple.com/softwarelicensing/",
-          "title": "Licensing and Trademarks - Apple Developer"
-        },
-        {
-          "url": "https://www.debian-fr.org/t/pulseaudio-probleme-de-definition-de-la-sortie-son/85541",
-          "title": "Pulseaudio problème de définition de la sortie son - Support Debian - debian-fr.org"
-        },
-        {
-          "url": "https://www.kenkenkikki.jp/qa/answer/e_a11-003.html",
-          "title": "Q&A: Construction Equipment | Kikki's Workshop"
-        },
-        {
-          "url": "http://support.groundspeak.com",
-          "title": "Knowledge Books"
-        },
-        {
-          "url": "http://webqc.org/",
-          "title": "Chemical Portal - Chemistry Online Education"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "tech-tools",
-      "bookmarks": [
-        {
-          "url": "https://help.shipt.com/how-shipt-works",
-          "title": "How Shipt Works - Shipt"
-        },
-        {
-          "url": "https://mysds.henkel.com/index.html",
-          "title": "Henkel Documents"
-        },
-        {
-          "url": "https://offers.applemusic.apple/six-month-offer",
-          "title": "Apple Music 3 Month Free Offer"
-        },
-        {
-          "url": "https://shop-links.co/cjbgBpZ0yDA",
-          "title": "Howl | Where Creators & Brands Link Up"
-        },
-        {
-          "url": "https://special-led.de/led-leuchtmittell-lamps-light-retrofit.html?led_watt_roehren=1052",
-          "title": "LED Leuchtmittel Retrofit (austauschbar)"
-        },
-        {
-          "url": "https://www.camicado.com.br/p/jarra-de-vidro-para-cafeteira-oster-programavel-4401/-/A-700041533-br.lc",
-          "title": "Jarra de Vidro para Cafeteira Oster Programável 4401 - Camicado"
-        },
-        {
-          "url": "https://www.daswetter.com/wetter_Oisquercq-Europa-Belgien-Wallonisch+Brabant--1-180489.html",
-          "title": "Wetter Oisquercq 14 Tage - daswetter.com | Meteored"
-        },
-        {
-          "url": "https://www.teknion.com/can/planning/education---common-space",
-          "title": "Education - Social Spaces"
-        },
-        {
-          "url": "https://www.tree-tc.tributestore.com/?oId=25875204&tag=&tn=FreeTreeTestFC&otv=&source=tco_description&mtph=1",
-          "title": "Tribute Store | Memorial Tree"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "web-platforms",
-      "bookmarks": [
-        {
-          "url": "https://aub.edu.lb",
-          "title": "AUB Online"
-        },
-        {
-          "url": "https://bpando.org/2016/10/26/branding-park-bench-deli/",
-          "title": "New Branding for Park Bench Deli by Foreign Policy - BP&O"
-        },
-        {
-          "url": "https://djvacto-blog.tumblr.com/",
-          "title": "Danny"
-        },
-        {
-          "url": "https://ford.oemdtc.com/category/diagnostic-tips",
-          "title": "Diagnostic Tips | Ford & Lincoln - OEMDTC"
-        },
-        {
-          "url": "https://fourcornersgeotourism.com/entries/la-casita-bonita-inn/dd17284d-8b70-4eb1-94b2-d708569b0801",
-          "title": "La Casita Bonita Inn | Four Corners Region"
-        },
-        {
-          "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=336abc4a64dd4cdbb9c172a58ac66a3e",
-          "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
-        },
-        {
-          "url": "https://mylearningtrial.tumblr.com/",
-          "title": "Just you wait."
-        },
-        {
-          "url": "https://pdtpartners.com/",
-          "title": "PDT Partners"
-        },
-        {
-          "url": "https://sk-itty.tumblr.com/",
-          "title": "sk"
-        },
-        {
-          "url": "https://www.ecpubliclibrary.info/kids/building-brains-by-singing-with-your-child/",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://www.engr.psu.edu/communications/index.aspx",
-          "title": "Communications and Marketing | Penn State Engineering"
-        },
-        {
-          "url": "https://www.luerzersarchive.com/",
-          "title": "Lürzer's Archive | Leading Ad Industry Magazine & Directory"
-        },
-        {
-          "url": "https://www.muzemerch.com/partner/california-academy-of-sciences",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://www.utdanningsforbundet.no/om-utdanningsforbundet/om-nettstedet/",
-          "title": "Om nettstedet"
-        },
-        {
-          "url": "http://forum.corel.com/search.php?search_id=active_topics&sid=9078362d4fdca1df89b80c0d3a53f368",
-          "title": "Supporto - Corel"
-        }
-      ],
-      "count": 15
-    },
-    {
-      "name": "work-career",
-      "bookmarks": [
-        {
-          "url": "https://hamiltonproject.org/charts/career_earnings_by_college_major/",
-          "title": "Career earnings by college major - The Hamilton Project"
-        },
-        {
-          "url": "https://it.linkedin.com/company/pradagroup?trk=public_jobs_jserp-result_job-search-card-subtitle",
-          "title": "Prada Group | LinkedIn"
-        },
-        {
-          "url": "https://nl.linkedin.com/company/randstad?trk=public_jobs_jserp-result_job-search-card-subtitle",
-          "title": "Randstad | LinkedIn"
-        }
-      ],
-      "count": 3
     }
   ],
-  "total_bookmarks": 100,
-  "num_folders": 17
+  "total_bookmarks": 96,
+  "num_folders": 18
 }

@@ -16,15 +16,11 @@
           "title": "Flowchart Maker & Online Diagram Software"
         },
         {
-          "url": "https://developers.google.com/machine-learning/practica/image-classification",
-          "title": "ML Practicum: Image Classification | Machine Learning | Google for Developers"
+          "url": "https://devblogs.microsoft.com/?utm_source=developermscom",
+          "title": "Home - Microsoft Developer Blogs"
         },
         {
-          "url": "https://flask.palletsprojects.com/en/latest/blueprints/",
-          "title": "Modular Applications with Blueprints - Flask Documentation (3.2.x)"
-        },
-        {
-          "url": "https://googleresearch.blogspot.com/2014/09/introducing-structured-snippets-now.html",
+          "url": "http://googleresearch.blogspot.com/2014/09/introducing-structured-snippets-now.html",
           "title": "Introducing Structured Snippets, now a part of Google Web Search"
         },
         {
@@ -32,12 +28,16 @@
           "title": "Learn LaTeX online for free in beginner friendly lessons | learnlatex.org"
         },
         {
-          "url": "https://www.looker.com/",
+          "url": "https://www.looker.com",
           "title": "Looker business intelligence platform embedded analytics | Google Cloud"
         },
         {
-          "url": "https://devblogs.microsoft.com/?utm_source=developermscom",
-          "title": "Home - Microsoft Developer Blogs"
+          "url": "https://developers.google.com/machine-learning/practica/image-classification",
+          "title": "ML Practicum: Image Classification | Machine Learning | Google for Developers"
+        },
+        {
+          "url": "https://flask.palletsprojects.com/en/latest/blueprints/",
+          "title": "Modular Applications with Blueprints - Flask Documentation (3.2.x)"
         },
         {
           "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
@@ -58,16 +58,20 @@
       "name": "organizations-advocacy",
       "bookmarks": [
         {
-          "url": "https://www.clclt.org/",
-          "title": "Homeownership | CLCLT | Minneapolis"
-        },
-        {
-          "url": "https://pwn-usa.org/issues/hiv-tax-bill-resource-center/",
+          "url": "https://www.pwn-usa.org/issues/hiv-tax-bill-resource-center/",
           "title": "HIV Tax Bill Resource Center - Positive Women's Network - USA"
         },
         {
-          "url": "https://www.heforshe.org/",
+          "url": "https://translifeline.org/",
+          "title": "Home - Trans Lifeline"
+        },
+        {
+          "url": "http://www.heforshe.org/",
           "title": "Home Page | HeForShe"
+        },
+        {
+          "url": "https://www.clclt.org/",
+          "title": "Homeownership | CLCLT | Minneapolis"
         },
         {
           "url": "https://impact.kaporcenter.org/",
@@ -86,10 +90,6 @@
           "title": "The Safe and Just Cleaners"
         },
         {
-          "url": "https://translifeline.org/",
-          "title": "Home - Trans Lifeline"
-        },
-        {
           "url": "https://justice.ywca.org/",
           "title": "Until Justice Just Is"
         }
@@ -97,14 +97,14 @@
       "count": 9
     },
     {
-      "name": "media-arts-culture",
+      "name": "arts-culture-media",
       "bookmarks": [
         {
           "url": "https://www.vam.ac.uk/collections/architecture",
           "title": "Architecture - Explore the Collections · V&A"
         },
         {
-          "url": "https://discoveryplus.com/",
+          "url": "https://discoveryplus.com",
           "title": "discovery+ | Stream Real-Life TV Episodes"
         },
         {
@@ -252,7 +252,7 @@
           "title": "Home | Kids with Food Allergies"
         },
         {
-          "url": "http://www.oceanbestpractices.org/",
+          "url": "http://www.oceanbestpractices.org",
           "title": "Ocean Best Practices System"
         },
         {
@@ -267,41 +267,11 @@
       "count": 6
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://mrkokko.tumblr.com/",
-          "title": "@mrkokko on Tumblr"
-        },
-        {
-          "url": "https://asa.zamo.ca/2009/12/dupa-contra-base-argumente-de-bass-pro.html",
-          "title": "Dupa CONTRA-Base, argumente de Bass PRO Intro - Also Sprach Zamolxis"
-        },
-        {
-          "url": "https://fantasticmoviemusings.com/2021/05/11/education-for-death-the-making-of-a-nazi-1943/",
-          "title": "Education for Death: The Making of a Nazi (1943) | Fantastic Movie Musings and Ramblings"
-        },
-        {
-          "url": "https://outdoorsmagic.com/author/jon-doran/",
-          "title": "Jon |"
-        },
-        {
-          "url": "https://malpracticer.tumblr.com/",
-          "title": "Squiggle Zone"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "education-resources",
       "bookmarks": [
         {
           "url": "https://handbook.unimelb.edu.au/2022/subjects/info90007/dates-times",
           "title": "Dates and times: Social Computing (INFO90007) - The University of Melbourne Handbook"
-        },
-        {
-          "url": "http://www.biology.lu.se/",
-          "title": "Start | Department of Biology"
         },
         {
           "url": "https://www.kgs.ku.edu/Publications/Bulletins/96_8/",
@@ -312,14 +282,18 @@
           "title": "QS World University Rankings 2023: Top Global Universities | TopUniversities"
         },
         {
-          "url": "http://www.weyo.app/",
+          "url": "http://www.biology.lu.se/",
+          "title": "Start | Department of Biology"
+        },
+        {
+          "url": "http://www.weyo.app",
           "title": "Weyo | Hattie May Learn and Play"
         }
       ],
       "count": 5
     },
     {
-      "name": "legal-government",
+      "name": "government-legal",
       "bookmarks": [
         {
           "url": "https://baroulmehedinti.ro/avocati/stancu-dimitrie-lucian",
@@ -352,10 +326,6 @@
           "title": "destaque"
         },
         {
-          "url": "https://dynamic-ais.spire.com/",
-          "title": "Spire : Global Data and Analytics"
-        },
-        {
           "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
           "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
         },
@@ -364,8 +334,38 @@
           "title": "Nintendo | ValbyOnline"
         },
         {
+          "url": "https://dynamic-ais.spire.com/",
+          "title": "Spire : Global Data and Analytics"
+        },
+        {
           "url": "https://www.bigmarker.com/mutual-of-omaha-mortgage1/USO-VA-Home-Loan-Workshop-63360a8099738d3a9ab16ce4?show_live_page=true",
           "title": "Webinar: USO VA Home Loan Workshop by Mutual of Omaha Mortgage"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://mrkokko.tumblr.com/",
+          "title": "@mrkokko on Tumblr"
+        },
+        {
+          "url": "https://asa.zamo.ca/2009/12/dupa-contra-base-argumente-de-bass-pro.html",
+          "title": "Dupa CONTRA-Base, argumente de Bass PRO Intro - Also Sprach Zamolxis"
+        },
+        {
+          "url": "https://fantasticmoviemusings.com/2021/05/11/education-for-death-the-making-of-a-nazi-1943/",
+          "title": "Education for Death: The Making of a Nazi (1943) | Fantastic Movie Musings and Ramblings"
+        },
+        {
+          "url": "https://outdoorsmagic.com/author/jon-doran/",
+          "title": "Jon |"
+        },
+        {
+          "url": "https://malpracticer.tumblr.com/",
+          "title": "Squiggle Zone"
         }
       ],
       "count": 5
@@ -467,10 +467,10 @@
       "count": 4
     },
     {
-      "name": "hobby-games-crafts",
+      "name": "hobbies-crafts-games",
       "bookmarks": [
         {
-          "url": "https://elokence.com/",
+          "url": "https://elokence.com",
           "title": "Accueil :: Elokence"
         },
         {

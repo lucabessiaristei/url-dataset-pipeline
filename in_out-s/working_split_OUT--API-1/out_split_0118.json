@@ -16,24 +16,20 @@
           "title": "Coursera | Degrees, Certificates, & Free Online Courses"
         },
         {
-          "url": "https://elearning.ala.org/",
-          "title": "Home | ALAeLearning"
-        },
-        {
-          "url": "https://skillshop.exceedlms.com/",
-          "title": "Home : Google"
+          "url": "https://ecepalliance.org",
+          "title": "Expanding Computing Education Pathways (ECEP)"
         },
         {
           "url": "https://www.scu.edu/",
           "title": "Home - Santa Clara University"
         },
         {
-          "url": "https://hourofcode.com",
-          "title": "Un'ora: Ignite. Ispira. Codice."
+          "url": "https://skillshop.exceedlms.com/",
+          "title": "Home : Google"
         },
         {
-          "url": "https://ecepalliance.org",
-          "title": "Expanding Computing Education Pathways (ECEP)"
+          "url": "https://elearning.ala.org/",
+          "title": "Home | ALAeLearning"
         },
         {
           "url": "https://mgel.env.duke.edu/",
@@ -44,6 +40,10 @@
           "title": "Military Spouse Education & Career Opportunities | MySECO"
         },
         {
+          "url": "https://hourofcode.com",
+          "title": "Un'ora: Ignite. Ispira. Codice."
+        },
+        {
           "url": "https://ushcc.mcjobboard.net/jobs",
           "title": "USHCC CAREER CENTER"
         }
@@ -51,7 +51,7 @@
       "count": 11
     },
     {
-      "name": "e-commerce-shopping",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://www.sallybeauty.com/hair-color/shop-by-color/bright-hair-color/",
@@ -70,10 +70,6 @@
           "title": "Carro de la Compra - Nueces Gundín"
         },
         {
-          "url": "https://fitness.apple.com/us/subscribe?itscg=10000&itsct=pod-services-fitness-apl-tvhm-21_1019",
-          "title": "‎Getting Started with Fitness+"
-        },
-        {
           "url": "https://www.uniqlo.com/us/en/products/E433604-000/00?colorDisplayCode=00&sizeDisplayCode=003",
           "title": "Rayon Blouse | UNIQLO US"
         },
@@ -82,27 +78,27 @@
           "title": "Shipping FAQ"
         },
         {
-          "url": "https://sunshinehealthy.com/products/vc-rawd32000120",
-          "title": "VC - Raw D3 2000 120 - Sunshine Nutrition Center"
-        },
-        {
           "url": "https://unclebekah.com/",
           "title": "Uncle Bekah's Inappropriate Trucker Hats - Uncle Bekah's Inappropriate Trucker Hats"
         },
         {
           "url": "https://www.vacation.inc/products/ball-boy-candle",
           "title": "Vacation® X Prince® | Ball Boy Scented Candle"
+        },
+        {
+          "url": "https://sunshinehealthy.com/products/vc-rawd32000120",
+          "title": "VC - Raw D3 2000 120 - Sunshine Nutrition Center"
+        },
+        {
+          "url": "https://fitness.apple.com/us/subscribe?itscg=10000&itsct=pod-services-fitness-apl-tvhm-21_1019",
+          "title": "‎Getting Started with Fitness+"
         }
       ],
       "count": 10
     },
     {
-      "name": "community-nonprofit-orgs",
+      "name": "community-nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "http://adcolor.org/leaders?trk=organization_guest_main-feed-card_reshare-text",
-          "title": "Leaders | ADCOLOR"
-        },
         {
           "url": "https://give.org/about-us/contact-us",
           "title": "Contact Us"
@@ -114,6 +110,10 @@
         {
           "url": "https://thelastmile.org/",
           "title": "Home - The Last Mile"
+        },
+        {
+          "url": "http://adcolor.org/leaders?trk=organization_guest_main-feed-card_reshare-text",
+          "title": "Leaders | ADCOLOR"
         },
         {
           "url": "https://www.leap.org/",
@@ -177,41 +177,7 @@
       "count": 8
     },
     {
-      "name": "development-programming",
-      "bookmarks": [
-        {
-          "url": "https://ipvm.com/reports/audio-surveillance-guide",
-          "title": "Audio Surveillance Guide"
-        },
-        {
-          "url": "https://carbon.now.sh/",
-          "title": "Carbon | Create and share beautiful images of your source code"
-        },
-        {
-          "url": "https://rust-lang.github.io/rust-clippy/master/",
-          "title": "Clippy Lints"
-        },
-        {
-          "url": "https://flask.palletsprojects.com/en/latest/cli/",
-          "title": "Command Line Interface - Flask Documentation (3.2.x)"
-        },
-        {
-          "url": "https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers",
-          "title": "Firefox DevTools User Docs - Firefox Source Docs documentation"
-        },
-        {
-          "url": "https://leafletjs.com/examples/quick-start/",
-          "title": "Quick Start Guide - Leaflet - a JavaScript library for interactive maps"
-        },
-        {
-          "url": "https://table2site.com/",
-          "title": "Table2Site: Convert your airtable base to a website"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "news-reports-articles",
+      "name": "news-articles-reports",
       "bookmarks": [
         {
           "url": "https://www.esquerda.net/breves/armando-vara-detido-no-ambito-da-operacao-marques?page=5",
@@ -279,6 +245,40 @@
       "count": 7
     },
     {
+      "name": "programming-development",
+      "bookmarks": [
+        {
+          "url": "https://ipvm.com/reports/audio-surveillance-guide",
+          "title": "Audio Surveillance Guide"
+        },
+        {
+          "url": "https://carbon.now.sh/",
+          "title": "Carbon | Create and share beautiful images of your source code"
+        },
+        {
+          "url": "https://rust-lang.github.io/rust-clippy/master/",
+          "title": "Clippy Lints"
+        },
+        {
+          "url": "https://flask.palletsprojects.com/en/latest/cli/",
+          "title": "Command Line Interface - Flask Documentation (3.2.x)"
+        },
+        {
+          "url": "https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers",
+          "title": "Firefox DevTools User Docs - Firefox Source Docs documentation"
+        },
+        {
+          "url": "https://leafletjs.com/examples/quick-start/",
+          "title": "Quick Start Guide - Leaflet - a JavaScript library for interactive maps"
+        },
+        {
+          "url": "https://table2site.com/",
+          "title": "Table2Site: Convert your airtable base to a website"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "hobbies-general-interest",
       "bookmarks": [
         {
@@ -309,7 +309,7 @@
       "count": 6
     },
     {
-      "name": "media-entertainment-news",
+      "name": "news-media-entertainment",
       "bookmarks": [
         {
           "url": "https://www.upi.com/Entertainment_News/2004/05/04/ABC-fires-Lisa-Guerrero-from-football-gig/67291083696468/",
@@ -320,6 +320,10 @@
           "title": "Elemental"
         },
         {
+          "url": "https://channel955.iheart.com/schedule/",
+          "title": "Find Channel 955's Friday Live On-Air Schedule | Channel 955"
+        },
+        {
           "url": "https://www.epix.com/",
           "title": "MGM+ | Instant Access to Movies, TV Series & More"
         },
@@ -328,15 +332,37 @@
           "title": "Porno for Pyros Drop New Album Bombshell - Alternative Nation"
         },
         {
-          "url": "https://channel955.iheart.com/schedule/",
-          "title": "Find Channel 955's Friday Live On-Air Schedule | Channel 955"
-        },
-        {
           "url": "https://onairwithryan.iheart.com/featured/ryan-seacrest/content/2022-04-04-shawn-mendes-on-performing-at-wango-tango-new-music-more/",
           "title": "Shawn Mendes On Performing At Wango Tango, New Music & More | On Air with Ryan Seacrest | Ryan Seacrest"
         }
       ],
       "count": 6
+    },
+    {
+      "name": "travel-planning-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.cp.pt/passageiros/pt/consultar-horarios",
+          "title": "CP - Comboios de Portugal"
+        },
+        {
+          "url": "https://www.nps.gov/yose/planyourvisit/hiking.htm",
+          "title": "Hiking - Yosemite National Park (U.S. National Park Service)"
+        },
+        {
+          "url": "http://www.justcruisinplus.com/",
+          "title": "Home - Just Cruisin' Plus"
+        },
+        {
+          "url": "https://loveseatown.com/",
+          "title": "Love SeaTown: Explore all that's happening in Downtown Seattle"
+        },
+        {
+          "url": "https://www.pac.dfo-mpo.gc.ca/fm-gp/rec/index-eng.html",
+          "title": "Recreational fishing in British Columbia | Pacific Region | Fisheries and Oceans Canada"
+        }
+      ],
+      "count": 5
     },
     {
       "name": "ai-digital-tools",
@@ -372,59 +398,15 @@
           "title": "Legal information about Terms of Service"
         },
         {
-          "url": "https://www.nortonlifelock.com/privacy",
-          "title": "Privacy | Norton"
-        },
-        {
           "url": "https://istb-62ec1.web.app/istb/privacy_policy.html",
           "title": "Privacy Policy"
+        },
+        {
+          "url": "https://www.nortonlifelock.com/privacy",
+          "title": "Privacy | Norton"
         }
       ],
       "count": 4
-    },
-    {
-      "name": "science-data-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.data.gouv.fr/fr/",
-          "title": "Accueil - data.gouv.fr"
-        },
-        {
-          "url": "https://youtu.be/iWkgapKbJWg",
-          "title": "Downloading data from the Global Fishing Watch platform - YouTube"
-        },
-        {
-          "url": "https://mgel.env.duke.edu/",
-          "title": "Marine Geospatial Ecology Lab"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "travel-planning-guides",
-      "bookmarks": [
-        {
-          "url": "https://www.cp.pt/passageiros/pt/consultar-horarios",
-          "title": "CP - Comboios de Portugal"
-        },
-        {
-          "url": "https://www.nps.gov/yose/planyourvisit/hiking.htm",
-          "title": "Hiking - Yosemite National Park (U.S. National Park Service)"
-        },
-        {
-          "url": "http://www.justcruisinplus.com/",
-          "title": "Home - Just Cruisin' Plus"
-        },
-        {
-          "url": "https://loveseatown.com/",
-          "title": "Love SeaTown: Explore all that's happening in Downtown Seattle"
-        },
-        {
-          "url": "https://www.pac.dfo-mpo.gc.ca/fm-gp/rec/index-eng.html",
-          "title": "Recreational fishing in British Columbia | Pacific Region | Fisheries and Oceans Canada"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "automotive-transport-info",
@@ -440,6 +422,24 @@
         {
           "url": "https://ponyclassic.com/brand/12-total-control-products",
           "title": "TOTAL CONTROL PRODUCTS"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "environmental-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://insights.sustainability.google/",
+          "title": "Google Environmental Insights Explorer - Make Informed Decisions"
+        },
+        {
+          "url": "https://www.greenbiz.com/events/greenbiz/2023",
+          "title": "Trellis Group (formerly GreenBiz)"
+        },
+        {
+          "url": "https://oceanriskalliance.org/what-we-do/",
+          "title": "What We Do - ORRAA"
         }
       ],
       "count": 3
@@ -466,34 +466,16 @@
       "name": "graphic-design-visuals",
       "bookmarks": [
         {
-          "url": "https://products.ls.graphics/mesh-gradients/",
-          "title": "Free Mesh Gradient Collection"
-        },
-        {
           "url": "https://mockuptree.com/free/awesome-paper-bag-mockup/",
           "title": "Free Awesome Paper Bag Mockup | Mockuptree"
         },
         {
+          "url": "https://products.ls.graphics/mesh-gradients/",
+          "title": "Free Mesh Gradient Collection"
+        },
+        {
           "url": "https://poolors.com/0d0a31-2a601e-8b7569-d2be98-fcf4f2",
           "title": "Poolors - Generate unique color palettes"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "online-community-social",
-      "bookmarks": [
-        {
-          "url": "https://www.justchat.co.uk/",
-          "title": "Chat in the online chat rooms at Just Chat"
-        },
-        {
-          "url": "https://www.mightynetworks.com/",
-          "title": "Mighty Networks | Community Platform, Courses & Memberships"
-        },
-        {
-          "url": "https://weplayapp.com/protocol-yszc-ios",
-          "title": "WePlay - Online Board Game Lounge"
         }
       ],
       "count": 3
@@ -517,24 +499,38 @@
       "count": 3
     },
     {
-      "name": "sustainability-environmental",
+      "name": "social-online-communities",
       "bookmarks": [
         {
-          "url": "https://insights.sustainability.google/",
-          "title": "Google Environmental Insights Explorer - Make Informed Decisions"
+          "url": "https://www.justchat.co.uk/",
+          "title": "Chat in the online chat rooms at Just Chat"
         },
         {
-          "url": "https://www.greenbiz.com/events/greenbiz/2023",
-          "title": "Trellis Group (formerly GreenBiz)"
+          "url": "https://www.mightynetworks.com/",
+          "title": "Mighty Networks | Community Platform, Courses & Memberships"
         },
         {
-          "url": "https://oceanriskalliance.org/what-we-do/",
-          "title": "What We Do - ORRAA"
+          "url": "https://weplayapp.com/protocol-yszc-ios",
+          "title": "WePlay - Online Board Game Lounge"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "science-data-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.data.gouv.fr/fr/",
+          "title": "Accueil - data.gouv.fr"
+        },
+        {
+          "url": "https://youtu.be/iWkgapKbJWg",
+          "title": "Downloading data from the Global Fishing Watch platform - YouTube"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 105,
+  "total_bookmarks": 104,
   "num_folders": 19
 }

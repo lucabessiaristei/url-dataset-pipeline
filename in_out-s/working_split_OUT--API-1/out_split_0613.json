@@ -1,45 +1,7 @@
 {
   "folders": [
     {
-      "name": "non-profit-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.bapcertification.org/",
-          "title": "Best Aquaculture Practices"
-        },
-        {
-          "url": "https://centrepoint.org.uk/",
-          "title": "Centrepoint | Home"
-        },
-        {
-          "url": "https://defyventures.myshopify.com/",
-          "title": "Defy Ventures Inc. Merchandise"
-        },
-        {
-          "url": "https://www.goodwill.org/",
-          "title": "Goodwill Industries International, Inc. - Goodwill Industries International"
-        },
-        {
-          "url": "https://www.seedsindia.org/our-story/",
-          "title": "Our Story - SEEDS"
-        },
-        {
-          "url": "https://sandiegozoowildlifealliance.org/pr/PPMWorldRecord",
-          "title": "Endangered Mouse Raised by San Diego Zoo Wildlife Alliance Certified by GUINNESS WORLD RECORDS as Oldest Living Mouse in Human Care | San Diego Zoo Wildlife Alliance"
-        },
-        {
-          "url": "https://www.smartfamilyfund.org/",
-          "title": "The Smart Family Fund"
-        },
-        {
-          "url": "https://secure.uso.org/1812_wishbook_evergreen/?sc=WS18PHCHM1",
-          "title": "USO Wishbook | USO.org"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "personal-lifestyle-blogs",
+      "name": "personal-blogs-lifestyle",
       "bookmarks": [
         {
           "url": "https://chardove.tumblr.com/",
@@ -104,16 +66,54 @@
           "title": "PolitiFact"
         },
         {
-          "url": "https://www.wcte.org",
-          "title": "WCTE Home Page"
-        },
-        {
           "url": "https://yle.fi/uutiset",
           "title": "Uutisia lyhyesti | Yle Uutiset"
         },
         {
+          "url": "https://www.wcte.org",
+          "title": "WCTE Home Page"
+        },
+        {
           "url": "https://www.zee5.com/",
           "title": "ZEE5 - Watch TV Shows, Originals, Movies & Live TV Online"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "nonprofit-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.bapcertification.org/",
+          "title": "Best Aquaculture Practices"
+        },
+        {
+          "url": "https://centrepoint.org.uk/",
+          "title": "Centrepoint | Home"
+        },
+        {
+          "url": "https://defyventures.myshopify.com/",
+          "title": "Defy Ventures Inc. Merchandise"
+        },
+        {
+          "url": "https://sandiegozoowildlifealliance.org/pr/PPMWorldRecord",
+          "title": "Endangered Mouse Raised by San Diego Zoo Wildlife Alliance Certified by GUINNESS WORLD RECORDS as Oldest Living Mouse in Human Care | San Diego Zoo Wildlife Alliance"
+        },
+        {
+          "url": "https://www.goodwill.org/",
+          "title": "Goodwill Industries International, Inc. - Goodwill Industries International"
+        },
+        {
+          "url": "https://www.seedsindia.org/our-story/",
+          "title": "Our Story - SEEDS"
+        },
+        {
+          "url": "https://www.smartfamilyfund.org/",
+          "title": "The Smart Family Fund"
+        },
+        {
+          "url": "https://secure.uso.org/1812_wishbook_evergreen/?sc=WS18PHCHM1",
+          "title": "USO Wishbook | USO.org"
         }
       ],
       "count": 8
@@ -126,8 +126,8 @@
           "title": "BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription"
         },
         {
-          "url": "https://www.cultbeauty.com/huda-beauty-medium-nude-obsessions/13311009.html",
-          "title": "Huda Beauty Medium Nude Obsessions | Cult Beauty"
+          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
+          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
         },
         {
           "url": "https://www.harrods.com/en-us/shopping/stretch-mark-arnica-body-oil-100ml-18429734",
@@ -138,8 +138,8 @@
           "title": "Home - Jims Clothing"
         },
         {
-          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
-          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
+          "url": "https://www.cultbeauty.com/huda-beauty-medium-nude-obsessions/13311009.html",
+          "title": "Huda Beauty Medium Nude Obsessions | Cult Beauty"
         },
         {
           "url": "https://shop.saints.com.au/playcorp/?_bc_fsnf=1&Size%5B%5D=L12&Size%5B%5D=08&Size%5B%5D=1&Size%5B%5D=S&Size%5B%5D=8&Size%5B%5D=18&Size%5B%5D=XS&Size%5B%5D=3XL&category=112",
@@ -156,8 +156,8 @@
       "name": "academic-research-resources",
       "bookmarks": [
         {
-          "url": "https://consultations.worldbank.org/?map=1",
-          "title": "World Bank Consultations"
+          "url": "https://villasenor-derbez.com/",
+          "title": "Juan Carlos Villaseñor-Derbez"
         },
         {
           "url": "https://dlc.mpg.de/api/v1/records/mpirg_escidoc_102376/files/images/282851_0025.jpg/full.pdf?divID=LOG_0000",
@@ -172,12 +172,12 @@
           "title": "Research data | Publish your research | Springer Nature"
         },
         {
-          "url": "https://villasenor-derbez.com/",
-          "title": "Juan Carlos Villaseñor-Derbez"
-        },
-        {
           "url": "https://www-fourier.univ-grenoble-alpes.fr/~molinier/crochet.html",
           "title": "Rémi Molinier - Crochet"
+        },
+        {
+          "url": "https://consultations.worldbank.org/?map=1",
+          "title": "World Bank Consultations"
         }
       ],
       "count": 6
@@ -185,6 +185,10 @@
     {
       "name": "public-health-environmental-info",
       "bookmarks": [
+        {
+          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
+          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
+        },
         {
           "url": "https://www.serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
           "title": "COVID-19: More Testing to be Done in Canada"
@@ -202,10 +206,6 @@
           "title": "Mining Health and Safety | Mining | CDC"
         },
         {
-          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
-          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
-        },
-        {
           "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
           "title": "void"
         }
@@ -215,10 +215,6 @@
     {
       "name": "business-organizations-general",
       "bookmarks": [
-        {
-          "url": "https://www.blackchamberofcommerce.org/",
-          "title": "Southern California Black Chamber of Commerce"
-        },
         {
           "url": "https://www.iccat.int/en/",
           "title": "ICCAT·CICTA·CICAA"
@@ -234,6 +230,10 @@
         {
           "url": "https://www.meltin.jp/en/news/",
           "title": "NEWS - MELTIN MMI"
+        },
+        {
+          "url": "https://www.blackchamberofcommerce.org/",
+          "title": "Southern California Black Chamber of Commerce"
         }
       ],
       "count": 5
@@ -250,12 +250,34 @@
           "title": "Californian non-profit to monitor emissions from all power plants globally"
         },
         {
-          "url": "https://magenta.tensorflow.org/datasets/nsynth",
-          "title": "The NSynth Dataset"
-        },
-        {
           "url": "https://web.stanford.edu/class/cs224n/",
           "title": "Stanford CS 224N | Natural Language Processing with Deep Learning"
+        },
+        {
+          "url": "https://magenta.tensorflow.org/datasets/nsynth",
+          "title": "The NSynth Dataset"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "automotive-transportation-services",
+      "bookmarks": [
+        {
+          "url": "https://www.bmw-bahrain.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Showroom | Manama, Bahrain | Euro Motors BMW"
+        },
+        {
+          "url": "https://www.olacabs.com/",
+          "title": "Book Cabs Nearby at Best Price | Hire Taxi Nearby Online at Olacabs.com"
+        },
+        {
+          "url": "https://www.myukpost.com/latest-offers-prices",
+          "title": "Myukpost.com | Latest Offers"
+        },
+        {
+          "url": "https://ford.oemdtc.com/category/recalls",
+          "title": "Recalls | Ford & Lincoln - OEMDTC"
         }
       ],
       "count": 4
@@ -263,10 +285,6 @@
     {
       "name": "business-solutions-hardware-software",
       "bookmarks": [
-        {
-          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
-          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
-        },
         {
           "url": "https://decarom.ro/ro/monitoare-touchscreen/463-elopos-sistem-intel-celeron-j4105-4-gb128-gb-sata-396-cm-156-lcd-touchscreen-pcap-win-10.html",
           "title": "EloPOS sistem - Intel Celeron J4105 - 4 GB/128 GB SATA - 39.6 cm (15.6\") LCD Touchscreen Pcap, WIn 10"
@@ -278,28 +296,32 @@
         {
           "url": "https://www.redcorp.com/fr/product/services-garanties/lexmark/warranty-1-year-onsite-nbd-2349444--2349444/08626025",
           "title": "LEXMARK Warranty 1 Year Onsite Nbd (2349444) - 2349444 - Redcorp.com/fr"
+        },
+        {
+          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
+          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
         }
       ],
       "count": 4
     },
     {
-      "name": "general-utilities-resources",
+      "name": "general-resources-utilities",
       "bookmarks": [
-        {
-          "url": "https://alar.my/privacy_policy_global.html",
-          "title": "privacy policy"
-        },
-        {
-          "url": "https://getsupport.apple.com/?caller=home&PRKEYS=",
-          "title": "void"
-        },
         {
           "url": "https://holmivan.valami.info/cimke/film",
           "title": "'film' témakörhöz kapcsolódó szolgáltatások az Ön közelében"
         },
         {
+          "url": "https://alar.my/privacy_policy_global.html",
+          "title": "privacy policy"
+        },
+        {
           "url": "https://relatedwords.io/stepson",
           "title": "Stepson Words - 392 Words Related to Stepson"
+        },
+        {
+          "url": "https://getsupport.apple.com/?caller=home&PRKEYS=",
+          "title": "void"
         }
       ],
       "count": 4
@@ -327,8 +349,16 @@
       "count": 4
     },
     {
-      "name": "social-justice-community-impact",
+      "name": "social-impact-community-justice",
       "bookmarks": [
+        {
+          "url": "https://www.raceforward.org/",
+          "title": "Advancing racial justice in our policies, institutions and culture. | Race Forward"
+        },
+        {
+          "url": "https://www.itsgoodfor.biz/case-study/civil-rights-groups-criticize-facebook-censoring-police-shootings",
+          "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
+        },
         {
           "url": "https://www.clclt.org/",
           "title": "Homeownership | CLCLT | Minneapolis"
@@ -336,36 +366,6 @@
         {
           "url": "https://inpact.com/",
           "title": "in/PACT: Engage and connect with your customers through Social Good Loyalty."
-        },
-        {
-          "url": "https://www.itsgoodfor.biz/case-study/civil-rights-groups-criticize-facebook-censoring-police-shootings",
-          "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
-        },
-        {
-          "url": "https://www.raceforward.org/",
-          "title": "Advancing racial justice in our policies, institutions and culture. | Race Forward"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "transportation-automotive-services",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-bahrain.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Showroom | Manama, Bahrain | Euro Motors BMW"
-        },
-        {
-          "url": "https://ford.oemdtc.com/category/recalls",
-          "title": "Recalls | Ford & Lincoln - OEMDTC"
-        },
-        {
-          "url": "https://www.myukpost.com/latest-offers-prices",
-          "title": "Myukpost.com | Latest Offers"
-        },
-        {
-          "url": "https://www.olacabs.com/",
-          "title": "Book Cabs Nearby at Best Price | Hire Taxi Nearby Online at Olacabs.com"
         }
       ],
       "count": 4
@@ -378,12 +378,12 @@
           "title": "Coursera x Grow with Google - Career Certificates Learner Webinar Registration, Thu 2 Mar 2023 at 16:00 | Eventbrite"
         },
         {
-          "url": "https://www.careers.fiserv.com/",
-          "title": "Working at Fiserv, Inc."
-        },
-        {
           "url": "https://www.nbcunicareers.com/",
           "title": "Home | NBCUnicareers"
+        },
+        {
+          "url": "https://www.careers.fiserv.com/",
+          "title": "Working at Fiserv, Inc."
         }
       ],
       "count": 3
@@ -414,12 +414,12 @@
           "title": "Contact Us | ALA Annual 2020"
         },
         {
-          "url": "https://www.rileygrey.com/",
-          "title": "Premium Wedding Websites, Registries, RSVPs & More | Riley & Grey"
-        },
-        {
           "url": "https://ttparty.nl/login.html?view=reset",
           "title": "Login"
+        },
+        {
+          "url": "https://www.rileygrey.com/",
+          "title": "Premium Wedding Websites, Registries, RSVPs & More | Riley & Grey"
         }
       ],
       "count": 3
@@ -446,16 +446,16 @@
       "name": "software-development-resources",
       "bookmarks": [
         {
-          "url": "https://code.visualstudio.com?utm_source=developermscom",
-          "title": "Visual Studio Code - Code Editing. Redefined"
-        },
-        {
           "url": "https://forum.coppeliarobotics.com/help/faq?sid=44eea4a80e85aab7e9b50e04f353589f",
           "title": "CoppeliaSim forums - Frequently Asked Questions"
         },
         {
           "url": "https://stackoverflow.com/questions/tagged/google-maps",
           "title": "Newest 'google-maps' Questions - Stack Overflow"
+        },
+        {
+          "url": "https://code.visualstudio.com?utm_source=developermscom",
+          "title": "Visual Studio Code - Code Editing. Redefined"
         }
       ],
       "count": 3

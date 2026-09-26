@@ -4,14 +4,6 @@
       "name": "tech-development",
       "bookmarks": [
         {
-          "url": "https://developer.apple.com/documentation/swiftui/",
-          "title": "SwiftUI | Apple Developer Documentation"
-        },
-        {
-          "url": "https://chessprogramming.org/Zobrist_Hashing",
-          "title": "Zobrist Hashing - Chessprogramming wiki"
-        },
-        {
           "url": "https://mirror.ufam.edu.br/archlinux/core/?C=D;O=A",
           "title": "Index of /archlinux/core"
         },
@@ -32,6 +24,10 @@
           "title": "Showing results for tags 'hog pc'. - Vectorworks Community Board"
         },
         {
+          "url": "https://developer.apple.com/documentation/swiftui/",
+          "title": "SwiftUI | Apple Developer Documentation"
+        },
+        {
           "url": "https://effecthouse.tiktok.com/?utm_content=left_sidebar&utm_source=tiktok_webapp_main",
           "title": "TikTok effect house"
         },
@@ -42,6 +38,10 @@
         {
           "url": "https://vanceai.com/",
           "title": "VanceAI | AI Photo Enhancement, Generation & Editing Tools Provider"
+        },
+        {
+          "url": "https://chessprogramming.org/Zobrist_Hashing",
+          "title": "Zobrist Hashing - Chessprogramming wiki"
         }
       ],
       "count": 10
@@ -173,7 +173,7 @@
       "count": 9
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.comicrelief.com/",
@@ -182,6 +182,10 @@
         {
           "url": "http://www.unfpa.org/gender-equality",
           "title": "Gender equality | United Nations Population Fund"
+        },
+        {
+          "url": "https://www.usbcwomenofpower.com/",
+          "title": "Home | USBC Womens Power 50"
         },
         {
           "url": "https://www.kaporcenter.org/",
@@ -206,10 +210,6 @@
         {
           "url": "http://sailsofchange.org",
           "title": "Sails of Change"
-        },
-        {
-          "url": "https://www.usbcwomenofpower.com/",
-          "title": "Home | USBC Womens Power 50"
         }
       ],
       "count": 9
@@ -290,12 +290,12 @@
       "name": "hobbies",
       "bookmarks": [
         {
-          "url": "https://authindia.com/waguv-weaving-of-kashmir-is-the-proper-blend-of-beauty-and-austere-furnishing/",
-          "title": "AuthIndia - India's Largest Art Community"
-        },
-        {
           "url": "https://dogzine.eu/nl/auteurs/andreheuzer",
           "title": "Andre Heuzer | DogZine"
+        },
+        {
+          "url": "https://authindia.com/waguv-weaving-of-kashmir-is-the-proper-blend-of-beauty-and-austere-furnishing/",
+          "title": "AuthIndia - India's Largest Art Community"
         },
         {
           "url": "https://cgstore.co.nz/figurines/",
@@ -320,12 +320,12 @@
       "name": "media-reference",
       "bookmarks": [
         {
-          "url": "https://howlongtobeat.com/game?id=46186&s=backlogs",
-          "title": "Friday the 13th: The Game - Lists | HowLongToBeat"
-        },
-        {
           "url": "https://pubmed.ncbi.nlm.nih.gov/?term=Agnew%20DJ%5BAuthor%5D",
           "title": "Agnew DJ[Author] - Search Results - PubMed"
+        },
+        {
+          "url": "https://howlongtobeat.com/game?id=46186&s=backlogs",
+          "title": "Friday the 13th: The Game - Lists | HowLongToBeat"
         },
         {
           "url": "https://www.kunecoco.de/2012/09/review-schone-sauerei-ein-schweinekrimi.html",
@@ -369,7 +369,29 @@
       "count": 5
     },
     {
-      "name": "event-planning",
+      "name": "business-organizations",
+      "bookmarks": [
+        {
+          "url": "https://airspaceworld.com/",
+          "title": "Airspace world"
+        },
+        {
+          "url": "https://goldentriangledc.com/grow-golden/",
+          "title": "Grow Golden - Golden Triangle"
+        },
+        {
+          "url": "https://www.globalratings.com/",
+          "title": "IARC ratings for mobile and digitally delivered games from International Age Rating Coalition"
+        },
+        {
+          "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/",
+          "title": "International Downtown Association"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "events-planning",
       "bookmarks": [
         {
           "url": "https://wedsites.com/",
@@ -423,26 +445,14 @@
       "count": 3
     },
     {
-      "name": "organizations-business",
+      "name": "misc-financial",
       "bookmarks": [
         {
-          "url": "https://airspaceworld.com/",
-          "title": "Airspace world"
-        },
-        {
-          "url": "https://goldentriangledc.com/grow-golden/",
-          "title": "Grow Golden - Golden Triangle"
-        },
-        {
-          "url": "https://www.globalratings.com/",
-          "title": "IARC ratings for mobile and digitally delivered games from International Age Rating Coalition"
-        },
-        {
-          "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/",
-          "title": "International Downtown Association"
+          "url": "http://shareowneronline.com/",
+          "title": "void"
         }
       ],
-      "count": 4
+      "count": 1
     },
     {
       "name": "travel-transport",
@@ -450,16 +460,6 @@
         {
           "url": "https://bileti.bdz.bg/",
           "title": "БДЖ билетоиздаване"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "misc-financial",
-      "bookmarks": [
-        {
-          "url": "http://shareowneronline.com/",
-          "title": "void"
         }
       ],
       "count": 1

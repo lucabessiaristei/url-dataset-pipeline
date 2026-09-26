@@ -1,80 +1,6 @@
 {
   "folders": [
     {
-      "name": "news-media-blogs",
-      "bookmarks": [
-        {
-          "url": "https://boston.cbslocal.com/tag/adam-jones/",
-          "title": "Adam Jones news - Today's latest updates - CBS Boston"
-        },
-        {
-          "url": "https://ashiejx-blog.tumblr.com/",
-          "title": "@ashiejx-blog on Tumblr"
-        },
-        {
-          "url": "https://americasvoice.org/press_releases/by-the-numbers-10-key-immigration-stats-from-midterms-and-beyond/",
-          "title": "By the Numbers: 10 Key Immigration Stats From Midterms and Beyond - America's Voice"
-        },
-        {
-          "url": "https://www.commondreams.org/news/2017/07/28/defeat-trumpcare-thank-disability-rights-activists-not-john-mccain",
-          "title": "For Defeat of Trumpcare, Thank Disability Rights Activists, Not John McCain | Common Dreams"
-        },
-        {
-          "url": "https://cricblog.net/",
-          "title": "Cricket Blog, news, opinion, fantasy tips and more : CricBlog"
-        },
-        {
-          "url": "https://www.standardmedia.co.ke/topic/cultural-ties",
-          "title": "Cultural Ties - The Standard"
-        },
-        {
-          "url": "https://www.qcnews.com/charlotte/exclusive-bride-and-groom-stuck-in-grand-bohemian-elevator-all-smiles/",
-          "title": "Exclusive: Bride, groom stuck in elevator all smiles"
-        },
-        {
-          "url": "https://forms.dotdashmeredith.com/people-royals",
-          "title": "PEOPLE Royals Newsletter: Sign Up"
-        },
-        {
-          "url": "http://ktoo.org/",
-          "title": "KTOO - News & Public Media from Alaska's Capital -"
-        },
-        {
-          "url": "http://blog.linkedin.com/",
-          "title": "Official LinkedIn Blog"
-        },
-        {
-          "url": "https://memyselfandmycloset.blogspot.com/2013/05/see-stripes.html?showComment=1369647982665",
-          "title": "Me Myself and My Closet - Fashion Blogger: SEE STRIPES"
-        },
-        {
-          "url": "http://metv.com",
-          "title": "MeTV - America's #1 Classic Television Network"
-        },
-        {
-          "url": "https://mestizos.cl/tag/medio-de-transporte/",
-          "title": "#medio de transporte - Mestizos Magazine"
-        },
-        {
-          "url": "https://www.nfl.com/news/sean-payton-introduced-broncos-head-coach-russell-wilson-greg-penner",
-          "title": "Sean Payton introduced as Broncos head coach, discusses plan for QB Russell Wilson"
-        },
-        {
-          "url": "https://sportsration.com/",
-          "title": "Nigeria sports news, Nigeria football news transfers and gossips"
-        },
-        {
-          "url": "https://www.washingtontimes.com/",
-          "title": "Washington Times - Politics, Breaking News, US and World News"
-        },
-        {
-          "url": "https://www.shipsofscale.com/sosforums/threads/rope-making-for-ship-models.4076/",
-          "title": "Wreckage of WWI German battleship SMS SCHARNHORST sunk by Royal Navy in 1914 discovered off Falkland Islands | Ships of Scale"
-        }
-      ],
-      "count": 17
-    },
-    {
       "name": "government-policy-advocacy",
       "bookmarks": [
         {
@@ -110,6 +36,10 @@
           "title": "High-Level Political Forum on Sustainable Development"
         },
         {
+          "url": "http://www.ndncollective.org/",
+          "title": "Home - NDN COLLECTIVE"
+        },
+        {
           "url": "https://www.mha.gov.in",
           "title": "Home | Ministry of Home Affairs"
         },
@@ -122,8 +52,8 @@
           "title": "Home | Twin Cities Habitat For Humanity"
         },
         {
-          "url": "http://www.ndncollective.org/",
-          "title": "Home - NDN COLLECTIVE"
+          "url": "https://covid19relief.sba.gov/",
+          "title": "Manage your EIDL | U.S. Small Business Administration"
         },
         {
           "url": "https://www.moaa.org/",
@@ -132,10 +62,6 @@
         {
           "url": "https://www.nationalgeographic.com/science/article/high-seas-fishing-subsidies-oceans-science",
           "title": "Over Half of High Seas Fishing Only Profitable With Subsidies | National Geographic"
-        },
-        {
-          "url": "https://covid19relief.sba.gov/",
-          "title": "Manage your EIDL | U.S. Small Business Administration"
         },
         {
           "url": "https://www.sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/sba-rolls-out-dedicated-tool-small-businesses-connect-cdfis-small-asset-lenders-participating-ppp",
@@ -149,15 +75,89 @@
       "count": 17
     },
     {
+      "name": "news-media-blogs",
+      "bookmarks": [
+        {
+          "url": "https://mestizos.cl/tag/medio-de-transporte/",
+          "title": "#medio de transporte - Mestizos Magazine"
+        },
+        {
+          "url": "https://ashiejx-blog.tumblr.com/",
+          "title": "@ashiejx-blog on Tumblr"
+        },
+        {
+          "url": "https://boston.cbslocal.com/tag/adam-jones/",
+          "title": "Adam Jones news - Today's latest updates - CBS Boston"
+        },
+        {
+          "url": "https://americasvoice.org/press_releases/by-the-numbers-10-key-immigration-stats-from-midterms-and-beyond/",
+          "title": "By the Numbers: 10 Key Immigration Stats From Midterms and Beyond - America's Voice"
+        },
+        {
+          "url": "https://cricblog.net/",
+          "title": "Cricket Blog, news, opinion, fantasy tips and more : CricBlog"
+        },
+        {
+          "url": "https://www.standardmedia.co.ke/topic/cultural-ties",
+          "title": "Cultural Ties - The Standard"
+        },
+        {
+          "url": "https://www.qcnews.com/charlotte/exclusive-bride-and-groom-stuck-in-grand-bohemian-elevator-all-smiles/",
+          "title": "Exclusive: Bride, groom stuck in elevator all smiles"
+        },
+        {
+          "url": "https://www.commondreams.org/news/2017/07/28/defeat-trumpcare-thank-disability-rights-activists-not-john-mccain",
+          "title": "For Defeat of Trumpcare, Thank Disability Rights Activists, Not John McCain | Common Dreams"
+        },
+        {
+          "url": "http://ktoo.org/",
+          "title": "KTOO - News & Public Media from Alaska's Capital -"
+        },
+        {
+          "url": "https://memyselfandmycloset.blogspot.com/2013/05/see-stripes.html?showComment=1369647982665",
+          "title": "Me Myself and My Closet - Fashion Blogger: SEE STRIPES"
+        },
+        {
+          "url": "http://metv.com",
+          "title": "MeTV - America's #1 Classic Television Network"
+        },
+        {
+          "url": "https://sportsration.com/",
+          "title": "Nigeria sports news, Nigeria football news transfers and gossips"
+        },
+        {
+          "url": "http://blog.linkedin.com/",
+          "title": "Official LinkedIn Blog"
+        },
+        {
+          "url": "https://forms.dotdashmeredith.com/people-royals",
+          "title": "PEOPLE Royals Newsletter: Sign Up"
+        },
+        {
+          "url": "https://www.nfl.com/news/sean-payton-introduced-broncos-head-coach-russell-wilson-greg-penner",
+          "title": "Sean Payton introduced as Broncos head coach, discusses plan for QB Russell Wilson"
+        },
+        {
+          "url": "https://www.washingtontimes.com/",
+          "title": "Washington Times - Politics, Breaking News, US and World News"
+        },
+        {
+          "url": "https://www.shipsofscale.com/sosforums/threads/rope-making-for-ship-models.4076/",
+          "title": "Wreckage of WWI German battleship SMS SCHARNHORST sunk by Royal Navy in 1914 discovered off Falkland Islands | Ships of Scale"
+        }
+      ],
+      "count": 17
+    },
+    {
       "name": "technology-digital-resources",
       "bookmarks": [
         {
-          "url": "https://cs231n.github.io/",
-          "title": "CS231n Deep Learning for Computer Vision"
-        },
-        {
           "url": "https://docs.djangoproject.com/en/stable/topics/class-based-views/",
           "title": "Class-based views | Django documentation | Django"
+        },
+        {
+          "url": "https://cs231n.github.io/",
+          "title": "CS231n Deep Learning for Computer Vision"
         },
         {
           "url": "https://flymapslive.com/",
@@ -168,16 +168,12 @@
           "title": "Get Started"
         },
         {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers",
-          "title": "HTTP headers - HTTP | MDN"
-        },
-        {
           "url": "https://devblogs.microsoft.com/?utm_source=developermscom",
           "title": "Home - Microsoft Developer Blogs"
         },
         {
-          "url": "https://docs.llamaindex.ai/en/stable/",
-          "title": "Welcome to LlamaIndex 🦙 ! | LlamaIndex Python Documentation"
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers",
+          "title": "HTTP headers - HTTP | MDN"
         },
         {
           "url": "http://tiktok.com/@hamiltonfamilies",
@@ -204,6 +200,10 @@
           "title": "void"
         },
         {
+          "url": "https://docs.llamaindex.ai/en/stable/",
+          "title": "Welcome to LlamaIndex 🦙 ! | LlamaIndex Python Documentation"
+        },
+        {
           "url": "https://xgboost.readthedocs.io/en/stable/parameter.html",
           "title": "XGBoost Parameters - xgboost 3.0.5 documentation"
         }
@@ -214,32 +214,28 @@
       "name": "hobbies-arts-lifestyle",
       "bookmarks": [
         {
-          "url": "http://www.army-guide.com/eng/product321.html",
-          "title": "Army Guide"
-        },
-        {
           "url": "https://blog.sonicbids.com/3-surefire-ways-to-stay-healthy-on-tour",
           "title": "3 Surefire Ways to Stay Healthy on Tour"
         },
         {
-          "url": "https://www.astridspapiereuphorie.at/2019/03/11387/",
-          "title": "Team-sketch-challenge #209 - Astrids Papiereuphorie"
-        },
-        {
-          "url": "https://www.world.rugby/sevens-series",
-          "title": "HSBC SVNS Series | Official Website"
-        },
-        {
-          "url": "http://lavenaria.it/en/permanent-exhibitions?mini=2021-10&month=2021-10-30",
-          "title": "Permanent Exhibitions | La Venaria Reale"
+          "url": "http://www.army-guide.com/eng/product321.html",
+          "title": "Army Guide"
         },
         {
           "url": "https://www.popsugar.com/family/How-Stop-Kid-From-Whining-37548338",
           "title": "How to Stop a Kid From Whining | PS Family"
         },
         {
+          "url": "https://www.world.rugby/sevens-series",
+          "title": "HSBC SVNS Series | Official Website"
+        },
+        {
           "url": "https://maiwa.com/pages/natural-dyes",
           "title": "Natural Dyes- MAIWA"
+        },
+        {
+          "url": "http://lavenaria.it/en/permanent-exhibitions?mini=2021-10&month=2021-10-30",
+          "title": "Permanent Exhibitions | La Venaria Reale"
         },
         {
           "url": "http://www.tp-link.com/privacy?app=deco#sec_a",
@@ -258,6 +254,10 @@
           "title": "Synonyms and Antonyms of Words | Thesaurus.com"
         },
         {
+          "url": "https://www.astridspapiereuphorie.at/2019/03/11387/",
+          "title": "Team-sketch-challenge #209 - Astrids Papiereuphorie"
+        },
+        {
           "url": "https://untools.co/",
           "title": "Tools for better thinking | Untools"
         }
@@ -268,8 +268,8 @@
       "name": "business-finance-services",
       "bookmarks": [
         {
-          "url": "https://www.alkami.com/",
-          "title": "The Platform built for Anticipatory Banking"
+          "url": "https://www.latinodonorcollaborative.org/original-research/2022-ldc-u-s-latino-gdp-report",
+          "title": "2022 LDC U.S. Latino GDP Report™ - Latino Donor Collaborative"
         },
         {
           "url": "http://www.ardmoreroderick.com/",
@@ -284,16 +284,16 @@
           "title": "Contact Us"
         },
         {
-          "url": "https://www.latinodonorcollaborative.org/original-research/2022-ldc-u-s-latino-gdp-report",
-          "title": "2022 LDC U.S. Latino GDP Report™ - Latino Donor Collaborative"
-        },
-        {
           "url": "http://www.msn.com/en-us/money/stockdetails/fi-126.1.MSFT.NAS",
           "title": "MSN"
         },
         {
           "url": "https://www.olx.com.pk/islamabad-capital-territory_g2003003/sales_c62?filter=classified_type_eq_offer%2Cjob_type_eq_temporary",
           "title": "Sales Jobs in Islamabad Capital Territory"
+        },
+        {
+          "url": "https://www.alkami.com/",
+          "title": "The Platform built for Anticipatory Banking"
         },
         {
           "url": "https://www.typeform.com/?attribution_user_id=b59e8c13-bba9-4049-826b-9e93e06279af",
@@ -303,7 +303,7 @@
       "count": 8
     },
     {
-      "name": "education-careers",
+      "name": "education-career",
       "bookmarks": [
         {
           "url": "https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4",
@@ -314,16 +314,16 @@
           "title": "Career Resources for Immigrants & Refugees | Jobversity"
         },
         {
+          "url": "https://career.engr.psu.edu/students/index.aspx",
+          "title": "index | Penn State Engineering"
+        },
+        {
           "url": "https://www.montana.edu/calendar/events/35017",
           "title": "MSU Calendar | Montana State University"
         },
         {
           "url": "http://oceansci.ucsc.edu",
           "title": "Ocean Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
-        },
-        {
-          "url": "https://career.engr.psu.edu/students/index.aspx",
-          "title": "index | Penn State Engineering"
         },
         {
           "url": "https://jobs.walgreens.com",
@@ -336,12 +336,12 @@
       "name": "consumer-products-brands",
       "bookmarks": [
         {
-          "url": "https://coolpacific.net/collections/mother-kids",
-          "title": "Mother & Kids | CoolPacific"
+          "url": "https://www.woodfordreserve.com/",
+          "title": "Homepage - Woodford Reserve"
         },
         {
-          "url": "https://www.meta.com/quest/",
-          "title": "Visori VR e MR Meta Quest e accessori accessori | Meta Store"
+          "url": "https://coolpacific.net/collections/mother-kids",
+          "title": "Mother & Kids | CoolPacific"
         },
         {
           "url": "https://help.philo.com",
@@ -352,8 +352,8 @@
           "title": "Telegram: Share Web Page"
         },
         {
-          "url": "https://www.woodfordreserve.com/",
-          "title": "Homepage - Woodford Reserve"
+          "url": "https://www.meta.com/quest/",
+          "title": "Visori VR e MR Meta Quest e accessori accessori | Meta Store"
         }
       ],
       "count": 5

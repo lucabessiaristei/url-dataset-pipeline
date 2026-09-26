@@ -1,42 +1,54 @@
 {
   "folders": [
     {
-      "name": "agriculture-environmental-policy",
+      "name": "blogs-personal-developer",
       "bookmarks": [
         {
-          "url": "https://climate.nasa.gov/evidence/",
-          "title": "Evidence - NASA Science"
+          "url": "https://thestarshollowgazette.com/2010/10/09/",
+          "title": "10/09/2010 - The Stars Hollow Gazette"
         },
         {
-          "url": "https://www.fra.affrc.go.jp/english/eindex.html",
-          "title": "FRA"
+          "url": "https://mrkokko.tumblr.com/",
+          "title": "@mrkokko on Tumblr"
         },
         {
-          "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
-          "title": "UK climate maps and data - Met Office"
+          "url": "https://nycdatascience.com/blog/author/akgillermangmail-com/",
+          "title": "Adrian Gillerman | Data Science Blog"
         },
         {
-          "url": "https://ncsoy.org/media-resources/uses-of-soybeans/",
-          "title": "Uses of Soybeans - North Carolina Soybeans"
+          "url": "https://blog.cmkg.org/blog/topic/category-analytics",
+          "title": "Category management best practices & thought leadership for Retail & CPG teams. | Category Analytics"
         },
         {
-          "url": "https://oceana.org/press-releases/new-global-fisheries-transparency-coalition-releases-charter-for-public-comment/",
-          "title": "New Coaltion for Fisheries Transparency Releases Charter for Public Comment | Oceana"
+          "url": "https://coding-with-kids-blog.tumblr.com/",
+          "title": "Coding with Kids"
         },
         {
-          "url": "https://oceanriskalliance.org/",
-          "title": "Homepage - ORRAA"
+          "url": "https://building.coursera.org/",
+          "title": "Coursera Engineering"
         },
         {
-          "url": "https://www.stimson.org/2019/report-reveals-impact-massive-fishing-fleets/",
-          "title": "Report Reveals Impact of Massive Fishing Fleets • Stimson Center"
+          "url": "https://mylearningtrial.tumblr.com/",
+          "title": "Just you wait."
+        },
+        {
+          "url": "https://twowaypr.tumblr.com/",
+          "title": "Two-Way PR"
         }
       ],
-      "count": 7
+      "count": 8
     },
     {
       "name": "business-finance-corporate",
       "bookmarks": [
+        {
+          "url": "https://flex.amazon.com/faqs/",
+          "title": "Amazon Flex"
+        },
+        {
+          "url": "https://nl.linkedin.com/company/bcd-travel?trk=public_jobs_jserp-result_job-search-card-subtitle",
+          "title": "BCD Travel | LinkedIn"
+        },
         {
           "url": "https://bbamemphis.com/",
           "title": "Black Business Association of Memphis | Developing successful entrepreneurs and MWBEs through education, advocacy, and business development."
@@ -50,24 +62,16 @@
           "title": "Google Security Operations | Google Cloud"
         },
         {
+          "url": "https://www.lufthansa-industry-solutions.com/de-en/solutions-products/it-security",
+          "title": "IT security consulting for companies | LHIND"
+        },
+        {
           "url": "https://www.citizensbank.com/disclosures/msstores.aspx",
           "title": "Microsoft Stores | Citizens"
         },
         {
           "url": "https://www.eventbrite.co.uk/e/using-data-to-make-business-decisions-using-patrwmio-tickets-517639833677?aff=erelexpmlt",
           "title": "Using data to make business decisions using Patrwm.io Tickets, Wed 15 Mar 2023 at 18:00 | Eventbrite"
-        },
-        {
-          "url": "https://flex.amazon.com/faqs/",
-          "title": "Amazon Flex"
-        },
-        {
-          "url": "https://www.lufthansa-industry-solutions.com/de-en/solutions-products/it-security",
-          "title": "IT security consulting for companies | LHIND"
-        },
-        {
-          "url": "https://nl.linkedin.com/company/bcd-travel?trk=public_jobs_jserp-result_job-search-card-subtitle",
-          "title": "BCD Travel | LinkedIn"
         }
       ],
       "count": 8
@@ -76,36 +80,36 @@
       "name": "science-research-events",
       "bookmarks": [
         {
-          "url": "https://account.ncbi.nlm.nih.gov",
-          "title": "Log in / NCBI"
-        },
-        {
           "url": "https://cos2022.sites.stanford.edu/events",
           "title": "Events | Center for Ocean Solutions"
-        },
-        {
-          "url": "https://www.neuroscience.ox.ac.uk/publications/371446",
-          "title": "Radiation damage to biological macromolecules: some answers and more questions. - Oxford Neuroscience"
-        },
-        {
-          "url": "https://www.noaa.gov",
-          "title": "National Oceanic and Atmospheric Administration"
-        },
-        {
-          "url": "https://public.wmo.int/en/resources/world-meteorological-day",
-          "title": "World Meteorological Day"
         },
         {
           "url": "https://www.space.com/16830-full-moon-calendar.html",
           "title": "Full moon calendar 2025: When to see the next full moon | Space"
         },
         {
-          "url": "https://spaceoneers.io/events/obpdc-2020/",
-          "title": "UPDATED: 7th International Workshop on On-Board Payload Data Compression - ONLINE - Spaceoneers.io"
+          "url": "https://account.ncbi.nlm.nih.gov",
+          "title": "Log in / NCBI"
         },
         {
           "url": "https://viewer.wu.ac.at/viewer/api/v1/records/1505383138814/tei/en/",
           "title": "Making sure you're not a bot!"
+        },
+        {
+          "url": "https://www.noaa.gov",
+          "title": "National Oceanic and Atmospheric Administration"
+        },
+        {
+          "url": "https://www.neuroscience.ox.ac.uk/publications/371446",
+          "title": "Radiation damage to biological macromolecules: some answers and more questions. - Oxford Neuroscience"
+        },
+        {
+          "url": "https://spaceoneers.io/events/obpdc-2020/",
+          "title": "UPDATED: 7th International Workshop on On-Board Payload Data Compression - ONLINE - Spaceoneers.io"
+        },
+        {
+          "url": "https://public.wmo.int/en/resources/world-meteorological-day",
+          "title": "World Meteorological Day"
         }
       ],
       "count": 8
@@ -114,144 +118,114 @@
       "name": "academic-university-resources",
       "bookmarks": [
         {
-          "url": "https://communication.ucf.edu/person/rick-brunson/",
-          "title": "Rick Brunson - Nicholson School of Communication and Media"
+          "url": "http://www.vallauri.edu/",
+          "title": "I.I.S. G. Vallauri - Fossano"
         },
         {
           "url": "http://emps.exeter.ac.uk/mathematics/staff/crk205",
           "title": "IT Server Security project | Exeter IT Services | University of Exeter"
         },
         {
+          "url": "https://lab.kb.nl/?theme=dark&amp%3Bf%5B0%5D=field_file_format%3A18&amp%3Bf%5B1%5D=field_product_source%3A5&f%5B0%5D=field_product_type%3A2&f%5B1%5D=field_product_source%3A9&f%5B2%5D=field_category%3A30",
+          "title": "KB LAB | KB LAB"
+        },
+        {
           "url": "https://helpdesk.strw.leidenuniv.nl/wiki/doku.php?id=new_desktop&tab_files=files&do=media&tab_details=view&image=manuals%3Avdesk_paste.png&ns=strw",
           "title": "new_desktop [Computer Documentation Wiki]"
         },
         {
-          "url": "https://htu.edu/academics/colleges/cas/dept-of-natural-sciences-mathematics/sustainability",
-          "title": "Sustainability « Huston-Tillotson"
-        },
-        {
-          "url": "https://lab.kb.nl/?theme=dark&amp%3Bf%5B0%5D=field_file_format%3A18&amp%3Bf%5B1%5D=field_product_source%3A5&f%5B0%5D=field_product_type%3A2&f%5B1%5D=field_product_source%3A9&f%5B2%5D=field_category%3A30",
-          "title": "KB LAB | KB LAB"
+          "url": "https://communication.ucf.edu/person/rick-brunson/",
+          "title": "Rick Brunson - Nicholson School of Communication and Media"
         },
         {
           "url": "http://mrbs.ing.unipi.it/aulemagne/admin.php?day=21&month=7&year=2020&area=1&room=2",
           "title": "Sistema di Prenotazione Sale"
         },
         {
-          "url": "http://www.vallauri.edu/",
-          "title": "I.I.S. G. Vallauri - Fossano"
+          "url": "https://htu.edu/academics/colleges/cas/dept-of-natural-sciences-mathematics/sustainability",
+          "title": "Sustainability « Huston-Tillotson"
         }
       ],
       "count": 7
     },
     {
-      "name": "blogs-personal-developer",
+      "name": "agriculture-environmental-policy",
       "bookmarks": [
         {
-          "url": "https://blog.cmkg.org/blog/topic/category-analytics",
-          "title": "Category management best practices & thought leadership for Retail & CPG teams. | Category Analytics"
+          "url": "https://climate.nasa.gov/evidence/",
+          "title": "Evidence - NASA Science"
         },
         {
-          "url": "https://building.coursera.org/",
-          "title": "Coursera Engineering"
+          "url": "https://www.fra.affrc.go.jp/english/eindex.html",
+          "title": "FRA"
         },
         {
-          "url": "https://coding-with-kids-blog.tumblr.com/",
-          "title": "Coding with Kids"
+          "url": "https://oceanriskalliance.org/",
+          "title": "Homepage - ORRAA"
         },
         {
-          "url": "https://mrkokko.tumblr.com/",
-          "title": "@mrkokko on Tumblr"
+          "url": "https://oceana.org/press-releases/new-global-fisheries-transparency-coalition-releases-charter-for-public-comment/",
+          "title": "New Coaltion for Fisheries Transparency Releases Charter for Public Comment | Oceana"
         },
         {
-          "url": "https://mylearningtrial.tumblr.com/",
-          "title": "Just you wait."
+          "url": "https://www.stimson.org/2019/report-reveals-impact-massive-fishing-fleets/",
+          "title": "Report Reveals Impact of Massive Fishing Fleets • Stimson Center"
         },
         {
-          "url": "https://nycdatascience.com/blog/author/akgillermangmail-com/",
-          "title": "Adrian Gillerman | Data Science Blog"
+          "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
+          "title": "UK climate maps and data - Met Office"
         },
         {
-          "url": "https://thestarshollowgazette.com/2010/10/09/",
-          "title": "10/09/2010 - The Stars Hollow Gazette"
-        },
-        {
-          "url": "https://twowaypr.tumblr.com/",
-          "title": "Two-Way PR"
+          "url": "https://ncsoy.org/media-resources/uses-of-soybeans/",
+          "title": "Uses of Soybeans - North Carolina Soybeans"
         }
       ],
-      "count": 8
+      "count": 7
     },
     {
-      "name": "e-commerce-general-products",
+      "name": "ecommerce-products-general",
       "bookmarks": [
-        {
-          "url": "https://www.adrenaline-junkee.com/product-p/hcolsw12-0178.htm",
-          "title": "UTV Accessories | UTV Parts | UTV Products & More - Adrenaline Junkee"
-        },
         {
           "url": "http://www.amazon.com/",
           "title": "Amazon.com"
-        },
-        {
-          "url": "https://www.apple.com/shop/buy-iphone",
-          "title": "Buy iPhone - Apple"
         },
         {
           "url": "https://www.articole-petreceri.ro/baloane-folie-16/balon-folie-rotund-brad-45cm.html",
           "title": "Balon folie rotund Brad 45cm"
         },
         {
-          "url": "https://shop.vera.org/",
-          "title": "Vera Institute of Justice | Shop"
+          "url": "https://www.apple.com/shop/buy-iphone",
+          "title": "Buy iPhone - Apple"
+        },
+        {
+          "url": "https://w3w.magnetix-wellness.com/fr/product/bijoux-magnetiques-pour-enfants/pendentif-4788",
+          "title": "Magnetschmuck Wellness von MAGNETIX Wellness | MAGNETIX"
         },
         {
           "url": "https://tonies.com",
           "title": "tonies® EU | Buy Toniebox 2"
         },
         {
-          "url": "https://w3w.magnetix-wellness.com/fr/product/bijoux-magnetiques-pour-enfants/pendentif-4788",
-          "title": "Magnetschmuck Wellness von MAGNETIX Wellness | MAGNETIX"
+          "url": "https://www.adrenaline-junkee.com/product-p/hcolsw12-0178.htm",
+          "title": "UTV Accessories | UTV Parts | UTV Products & More - Adrenaline Junkee"
+        },
+        {
+          "url": "https://shop.vera.org/",
+          "title": "Vera Institute of Justice | Shop"
         }
       ],
       "count": 7
     },
     {
-      "name": "education-learning-development",
-      "bookmarks": [
-        {
-          "url": "https://brilliant.org/courses/linear-algebra/",
-          "title": "Courses | Brilliant"
-        },
-        {
-          "url": "http://www.ed.gov/",
-          "title": "Home | U.S. Department of Education"
-        },
-        {
-          "url": "https://www.nap.edu/catalog/24926/assessing-and-responding-to-the-growth-of-computer-science-undergraduate-enrollments",
-          "title": "Assessing and Responding to the Growth of Computer Science Undergraduate Enrollments | The National Academies Press"
-        },
-        {
-          "url": "http://outlier.uchicago.edu/TimeforCS/",
-          "title": "Time for CS"
-        },
-        {
-          "url": "https://sesamestreetincommunities.org/topics/aprender-al-juegar/",
-          "title": "Learning Through Play - Sesame Workshop"
-        },
-        {
-          "url": "https://yostem.org/",
-          "title": "Youth Outreach in Science, Technology, Engineering, and Math"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "developer-tools-documentation",
       "bookmarks": [
         {
-          "url": "https://askubuntu.com/users/311931/jitendra",
-          "title": "User Jitendra - Ask Ubuntu"
+          "url": "https://stripe.com/docs/payments/accept-a-payment",
+          "title": "Accettare un pagamento | Documentazione Stripe"
+        },
+        {
+          "url": "https://jsonformatter.org/json-pretty-print",
+          "title": "Best JSON Pretty Print Online"
         },
         {
           "url": "https://developers.planet.com/",
@@ -262,12 +236,8 @@
           "title": "The Autodiff Cookbook - JAX documentation"
         },
         {
-          "url": "https://jsonformatter.org/json-pretty-print",
-          "title": "Best JSON Pretty Print Online"
-        },
-        {
-          "url": "https://stripe.com/docs/payments/accept-a-payment",
-          "title": "Accettare un pagamento | Documentazione Stripe"
+          "url": "https://askubuntu.com/users/311931/jitendra",
+          "title": "User Jitendra - Ask Ubuntu"
         },
         {
           "url": "https://www.wix.com/",
@@ -277,59 +247,45 @@
       "count": 6
     },
     {
-      "name": "news-current-events",
+      "name": "education-learning-development",
       "bookmarks": [
         {
-          "url": "https://www.abc.net.au/news/",
-          "title": "ABC News - Trusted Source of Latest News & Headlines"
+          "url": "https://www.nap.edu/catalog/24926/assessing-and-responding-to-the-growth-of-computer-science-undergraduate-enrollments",
+          "title": "Assessing and Responding to the Growth of Computer Science Undergraduate Enrollments | The National Academies Press"
         },
         {
-          "url": "https://www.europarl.europa.eu/news/en/headlines",
-          "title": "Topics | European Parliament"
+          "url": "https://brilliant.org/courses/linear-algebra/",
+          "title": "Courses | Brilliant"
         },
         {
-          "url": "https://www.indiatimes.com/",
-          "title": "Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness"
+          "url": "http://www.ed.gov/",
+          "title": "Home | U.S. Department of Education"
         },
         {
-          "url": "https://ksltv.com/526069/police-man-locked-girlfriend-dog-in-murray-storage-unit-that-caught-fire-and-killed-them/",
-          "title": "Police: Man locked girlfriend, dog in Murray storage unit that caught fire and killed them"
+          "url": "https://sesamestreetincommunities.org/topics/aprender-al-juegar/",
+          "title": "Learning Through Play - Sesame Workshop"
         },
         {
-          "url": "https://www.tntv.pf/tntvnews/polynesie/societe/covid-19-tension-sur-la-production-de-cercueils/",
-          "title": "Covid-19 : tension sur la production de cercueils • TNTV News - Tahiti Nui Télévision"
+          "url": "http://outlier.uchicago.edu/TimeforCS/",
+          "title": "Time for CS"
+        },
+        {
+          "url": "https://yostem.org/",
+          "title": "Youth Outreach in Science, Technology, Engineering, and Math"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
-      "name": "cooking-food-recipes",
+      "name": "health-fitness-wellness",
       "bookmarks": [
         {
-          "url": "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
-          "title": "Chicken tikka masala recipe | Good Food"
+          "url": "http://www.redbookmag.com/health-wellness/advice/facing-my-mothers-dementia",
+          "title": "Facing My Mother's Dementia - Kimberly Williams-Paisley Shares Her Dementia Story"
         },
         {
-          "url": "http://www.forumforyou.it/ricettemanu/",
-          "title": "Le facili ricette di cucina di Manu. Oltre 26.000 italiane ed estere | ForumForYou.it"
-        },
-        {
-          "url": "https://greenkitchenstories.com/",
-          "title": "Green Kitchen Stories - Healthy Vegetarian Family Recipes"
-        },
-        {
-          "url": "https://www.ildolomiti.it/societa/la-festa-della-pera-arriva-anche-lo-show-cooking-di-valerio-braschi-vincitore-di-masterchef",
-          "title": "Per la 'Festa della pera' arriva anche lo show cooking di Valerio Braschi, vincitore di Masterchef 2017 - il Dolomiti"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "health-wellness-fitness",
-      "bookmarks": [
-        {
-          "url": "https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-iph_fp-apl-avl-201111",
-          "title": "‎Getting Started with Fitness+"
+          "url": "https://www.yinovacenter.com/faq/",
+          "title": "Frequently Asked Questions | The Yinova Center"
         },
         {
           "url": "https://www.msnbc.com/knowyourvalue",
@@ -340,12 +296,8 @@
           "title": "PUSH511 - Push511"
         },
         {
-          "url": "http://www.redbookmag.com/health-wellness/advice/facing-my-mothers-dementia",
-          "title": "Facing My Mother's Dementia - Kimberly Williams-Paisley Shares Her Dementia Story"
-        },
-        {
-          "url": "https://www.yinovacenter.com/faq/",
-          "title": "Frequently Asked Questions | The Yinova Center"
+          "url": "https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-iph_fp-apl-avl-201111",
+          "title": "‎Getting Started with Fitness+"
         }
       ],
       "count": 5
@@ -354,63 +306,53 @@
       "name": "media-streaming-social",
       "bookmarks": [
         {
+          "url": "http://www.prs.net/midi.html",
+          "title": "Classical Archives: MIDI"
+        },
+        {
           "url": "https://enterchatroom.com/",
           "title": "Enter Chatroom - Free Online Chat Rooms"
         },
         {
-          "url": "https://www.filmvorfuehrer.de/topic/26002-samsung-cinema-screen/?do=editlogComment&comment=287769",
-          "title": "Änderungshistorie - Filmvorführer.de"
-        },
-        {
-          "url": "http://www.prs.net/midi.html",
-          "title": "Classical Archives: MIDI"
+          "url": "https://www.spotify.com/",
+          "title": "Spotify - Web Player: Music for everyone"
         },
         {
           "url": "https://soundcloud.com/thelayover/ep-26-like-hair-we-be-conditioned",
           "title": "Stream episode EP 26: Like Hair, We Be Conditioned by The Layover podcast | Listen online for free on SoundCloud"
         },
         {
-          "url": "https://www.spotify.com/",
-          "title": "Spotify - Web Player: Music for everyone"
+          "url": "https://www.filmvorfuehrer.de/topic/26002-samsung-cinema-screen/?do=editlogComment&comment=287769",
+          "title": "Änderungshistorie - Filmvorführer.de"
         }
       ],
       "count": 5
     },
     {
-      "name": "miscellaneous-general",
+      "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://chrysler.oemdtc.com/category/recalls",
-          "title": "Recalls | FCA - OEMDTC"
+          "url": "https://www.abc.net.au/news/",
+          "title": "ABC News - Trusted Source of Latest News & Headlines"
         },
         {
-          "url": "https://www.fights.cz/udalosti/shooto-gig-west-6-94693",
-          "title": "Shooto - Gig West 6 | Fights.cz"
+          "url": "https://www.tntv.pf/tntvnews/polynesie/societe/covid-19-tension-sur-la-production-de-cercueils/",
+          "title": "Covid-19 : tension sur la production de cercueils • TNTV News - Tahiti Nui Télévision"
         },
         {
-          "url": "http://www.lawyersadvantage.com/",
-          "title": "void"
+          "url": "https://www.indiatimes.com/",
+          "title": "Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness"
+        },
+        {
+          "url": "https://ksltv.com/526069/police-man-locked-girlfriend-dog-in-murray-storage-unit-that-caught-fire-and-killed-them/",
+          "title": "Police: Man locked girlfriend, dog in Murray storage unit that caught fire and killed them"
+        },
+        {
+          "url": "https://www.europarl.europa.eu/news/en/headlines",
+          "title": "Topics | European Parliament"
         }
       ],
-      "count": 3
-    },
-    {
-      "name": "corporate-social-responsibility",
-      "bookmarks": [
-        {
-          "url": "https://www.fairtrade.net/standard",
-          "title": "Fairtrade standards"
-        },
-        {
-          "url": "https://futuretodayinc.com/privacy.html",
-          "title": "Privacy Policy | Future Today Inc"
-        },
-        {
-          "url": "https://www.lenovo.com/us/en/about/foundation/",
-          "title": "Lenovo Foundation - Making a Difference Through Innovation | Lenovo US"
-        }
-      ],
-      "count": 3
+      "count": 5
     },
     {
       "name": "design-creative-resources",
@@ -435,15 +377,11 @@
       "count": 4
     },
     {
-      "name": "e-commerce-fashion-apparel",
+      "name": "ecommerce-fashion-apparel",
       "bookmarks": [
         {
           "url": "https://www.accessorize.com/row/",
           "title": "Accessorize Global | Fashion Accessories, Jewellery & Gifts For Her"
-        },
-        {
-          "url": "https://www.garmentory.com/sale/white-warren/women-scarves/1598203-white-plus-warren-cashmere-scarf-19486",
-          "title": "White + Warren Cashmere Scarf | Garmentory"
         },
         {
           "url": "https://shop.mango.com/us/women/sweaters-and-cardigans-sweaters/oversize-knit-sweater_37043843.html?c=43&talla=22&srsltid=AR5OiO3ajuyA3_NEg-mDaz1-4pzP9DjrCayDFF1TLYfeWaaSojYGFcTgyuY",
@@ -452,6 +390,32 @@
         {
           "url": "https://www.myotees.com/product/ron-weasley-is-my-boyfriend-graphic-sweatshirt/",
           "title": "Ron Weasley Is My Boyfriend Graphic Sweatshirt | myotees.com"
+        },
+        {
+          "url": "https://www.garmentory.com/sale/white-warren/women-scarves/1598203-white-plus-warren-cashmere-scarf-19486",
+          "title": "White + Warren Cashmere Scarf | Garmentory"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "food-cooking-recipes",
+      "bookmarks": [
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
+          "title": "Chicken tikka masala recipe | Good Food"
+        },
+        {
+          "url": "https://greenkitchenstories.com/",
+          "title": "Green Kitchen Stories - Healthy Vegetarian Family Recipes"
+        },
+        {
+          "url": "http://www.forumforyou.it/ricettemanu/",
+          "title": "Le facili ricette di cucina di Manu. Oltre 26.000 italiane ed estere | ForumForYou.it"
+        },
+        {
+          "url": "https://www.ildolomiti.it/societa/la-festa-della-pera-arriva-anche-lo-show-cooking-di-valerio-braschi-vincitore-di-masterchef",
+          "title": "Per la 'Festa della pera' arriva anche lo show cooking di Valerio Braschi, vincitore di Masterchef 2017 - il Dolomiti"
         }
       ],
       "count": 4
@@ -459,10 +423,6 @@
     {
       "name": "travel-culture-reference",
       "bookmarks": [
-        {
-          "url": "https://www.nepalspiritualtrekking.com/",
-          "title": "Nepal Spiritual Tours and Trekking - Best Everest Trek Nepal Spiritual Trekking Pvt. Ltd."
-        },
         {
           "url": "https://no.wikipedia.org/wiki/Fagundes",
           "title": "Fagundes - Wikipedia"
@@ -474,24 +434,64 @@
         {
           "url": "https://volny-cas.sluzby.cz/hospody/plzensky-kraj",
           "title": "Hospody Plzeňský kraj - hodnocené hospody v Plzeňském kraji"
+        },
+        {
+          "url": "https://www.nepalspiritualtrekking.com/",
+          "title": "Nepal Spiritual Tours and Trekking - Best Everest Trek Nepal Spiritual Trekking Pvt. Ltd."
         }
       ],
       "count": 4
     },
     {
+      "name": "corporate-social-responsibility",
+      "bookmarks": [
+        {
+          "url": "https://www.fairtrade.net/standard",
+          "title": "Fairtrade standards"
+        },
+        {
+          "url": "https://www.lenovo.com/us/en/about/foundation/",
+          "title": "Lenovo Foundation - Making a Difference Through Innovation | Lenovo US"
+        },
+        {
+          "url": "https://futuretodayinc.com/privacy.html",
+          "title": "Privacy Policy | Future Today Inc"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "miscellaneous-general",
+      "bookmarks": [
+        {
+          "url": "https://chrysler.oemdtc.com/category/recalls",
+          "title": "Recalls | FCA - OEMDTC"
+        },
+        {
+          "url": "https://www.fights.cz/udalosti/shooto-gig-west-6-94693",
+          "title": "Shooto - Gig West 6 | Fights.cz"
+        },
+        {
+          "url": "http://www.lawyersadvantage.com/",
+          "title": "void"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "tech-industry-insights",
       "bookmarks": [
         {
-          "url": "https://careers.mozilla.org/",
-          "title": "Mozilla Careers - Feel good about your work again."
+          "url": "https://www.womentechmakers.com/initiatives/bwit",
+          "title": "Google's Women Techmakers Program - Google for Developers"
         },
         {
           "url": "http://www.microsim.com/",
           "title": "Introduction to Microsim of Mobile Phone"
         },
         {
-          "url": "https://www.womentechmakers.com/initiatives/bwit",
-          "title": "Google's Women Techmakers Program - Google for Developers"
+          "url": "https://careers.mozilla.org/",
+          "title": "Mozilla Careers - Feel good about your work again."
         }
       ],
       "count": 3
@@ -511,20 +511,6 @@
       "count": 2
     },
     {
-      "name": "government-public-sector",
-      "bookmarks": [
-        {
-          "url": "https://arquivocidadao.stj.jus.br/index.php/termo-pres-2002-2004",
-          "title": "Termo de Posse do Ministro Nilson Naves na Presidência do STJ - Superior Tribunal de Justiça - AtoM"
-        },
-        {
-          "url": "https://www.noaa.gov",
-          "title": "National Oceanic and Atmospheric Administration"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "royal-family-celebrity-news",
       "bookmarks": [
         {
@@ -537,8 +523,18 @@
         }
       ],
       "count": 2
+    },
+    {
+      "name": "government-public-sector",
+      "bookmarks": [
+        {
+          "url": "https://arquivocidadao.stj.jus.br/index.php/termo-pres-2002-2004",
+          "title": "Termo de Posse do Ministro Nilson Naves na Presidência do STJ - Superior Tribunal de Justiça - AtoM"
+        }
+      ],
+      "count": 1
     }
   ],
-  "total_bookmarks": 103,
+  "total_bookmarks": 102,
   "num_folders": 21
 }

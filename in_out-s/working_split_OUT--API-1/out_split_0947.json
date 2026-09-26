@@ -4,36 +4,20 @@
       "name": "community-advocacy-organizations",
       "bookmarks": [
         {
-          "url": "https://www.healthaction.org/",
-          "title": "Health Action Alliance"
-        },
-        {
           "url": "https://www.madisonblackchamber.com/",
           "title": "BLACK CHAMBER"
-        },
-        {
-          "url": "https://mulagofoundation.org/",
-          "title": "Mulago Foundation"
-        },
-        {
-          "url": "https://www.nationalgeographic.org/projects/pristine-seas/",
-          "title": "Pristine Seas - National Geographic Society"
-        },
-        {
-          "url": "http://www.ncihc.org/",
-          "title": "Home"
-        },
-        {
-          "url": "http://www.oknativeassets.org/",
-          "title": "Oklahoma Native Assets Coalition - Home"
         },
         {
           "url": "https://www.sfaacc.org/",
           "title": "Businesses | San Francisco African American Chamber Of Commerce | San Francisco"
         },
         {
-          "url": "http://skytruth.org/",
-          "title": "SkyTruth - If you can see it, you can change it"
+          "url": "https://www.healthaction.org/",
+          "title": "Health Action Alliance"
+        },
+        {
+          "url": "http://www.ncihc.org/",
+          "title": "Home"
         },
         {
           "url": "https://www.tchabitat.org/",
@@ -42,6 +26,22 @@
         {
           "url": "https://www.tent.org/become-a-member/",
           "title": "Join the Tent Partnership for Refugees"
+        },
+        {
+          "url": "https://mulagofoundation.org/",
+          "title": "Mulago Foundation"
+        },
+        {
+          "url": "http://www.oknativeassets.org/",
+          "title": "Oklahoma Native Assets Coalition - Home"
+        },
+        {
+          "url": "https://www.nationalgeographic.org/projects/pristine-seas/",
+          "title": "Pristine Seas - National Geographic Society"
+        },
+        {
+          "url": "http://skytruth.org/",
+          "title": "SkyTruth - If you can see it, you can change it"
         },
         {
           "url": "https://transkidspurplerainbow.org/",
@@ -58,20 +58,20 @@
       "name": "computer-science-development-guides",
       "bookmarks": [
         {
-          "url": "http://www.beroset.com/",
-          "title": "Assembly Language Repository"
-        },
-        {
-          "url": "https://computinged.wordpress.com",
-          "title": "Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?"
-        },
-        {
           "url": "https://www.coursera.org/learn/algorithms-part2",
           "title": "Algorithms, Part II | Coursera"
         },
         {
+          "url": "http://www.beroset.com/",
+          "title": "Assembly Language Repository"
+        },
+        {
           "url": "https://www.csteachers.org",
           "title": "Computer Science Teachers Association Connect, Grow, & Share With CS Teachers-"
+        },
+        {
+          "url": "https://computinged.wordpress.com",
+          "title": "Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?"
         },
         {
           "url": "https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html",
@@ -82,6 +82,10 @@
           "title": "Discover | Elastic Docs"
         },
         {
+          "url": "https://lightgbm.readthedocs.io/en/stable/Features.html",
+          "title": "Features - LightGBM 4.6.0 documentation"
+        },
+        {
           "url": "https://forum.qt.io/topic/64285/height-of-a-qlistview-item-in-css",
           "title": "Height of a QListView item in css | Qt Forum"
         },
@@ -90,26 +94,22 @@
           "title": "Home - The GitHub Blog"
         },
         {
-          "url": "https://lightgbm.readthedocs.io/en/stable/Features.html",
-          "title": "Features - LightGBM 4.6.0 documentation"
-        },
-        {
-          "url": "https://lists.xenproject.org/archives/html/xen-users/2005-11/msg00205.html",
-          "title": "Xen project Mailing List"
-        },
-        {
           "url": "https://nginx.org/en/docs/http/ngx_http_proxy_module.html",
           "title": "Module ngx_http_proxy_module"
         },
         {
           "url": "https://www.social-engineer.org/framework/attack-vectors/vishing/",
           "title": "Vishing - Security Through Education"
+        },
+        {
+          "url": "https://lists.xenproject.org/archives/html/xen-users/2005-11/msg00205.html",
+          "title": "Xen project Mailing List"
         }
       ],
       "count": 12
     },
     {
-      "name": "arts-entertainment-culture",
+      "name": "arts-culture-entertainment",
       "bookmarks": [
         {
           "url": "https://dollyjessy.com/2020/05/10/",
@@ -162,55 +162,51 @@
       "name": "government-international-resources",
       "bookmarks": [
         {
-          "url": "https://www.arbeitsagentur.de/jobsuche",
-          "title": "Jobsuche der BA"
-        },
-        {
           "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
           "title": "Canada and the world"
         },
         {
-          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive",
-          "title": "void"
-        },
-        {
-          "url": "https://www.europarl.europa.eu/news/en/headlines",
-          "title": "Topics | European Parliament"
-        },
-        {
-          "url": "https://ida.worldbank.org/en/home",
-          "title": "International Development Association - World Bank"
+          "url": "https://reform.un.org/content/development-reform",
+          "title": "Development Reform | United to Reform"
         },
         {
           "url": "http://www.inail.it/",
           "title": "Home"
         },
         {
+          "url": "https://ovc.ojp.gov",
+          "title": "Home | Office for Victims of Crime"
+        },
+        {
+          "url": "https://ida.worldbank.org/en/home",
+          "title": "International Development Association - World Bank"
+        },
+        {
           "url": "http://jamarc.fra.affrc.go.jp/english/index-e.html",
           "title": "JAMARC, Fisheries Research Agency"
+        },
+        {
+          "url": "https://www.arbeitsagentur.de/jobsuche",
+          "title": "Jobsuche der BA"
         },
         {
           "url": "https://www.nj.gov/dep/get-past-plastic/#reusable_bags",
           "title": "NJDEP"
         },
         {
-          "url": "https://ovc.ojp.gov",
-          "title": "Home | Office for Victims of Crime"
+          "url": "https://www.europarl.europa.eu/news/en/headlines",
+          "title": "Topics | European Parliament"
         },
         {
-          "url": "https://reform.un.org/content/development-reform",
-          "title": "Development Reform | United to Reform"
+          "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz/executive",
+          "title": "void"
         }
       ],
       "count": 10
     },
     {
-      "name": "cooking-food-restaurants",
+      "name": "food-cooking-restaurants",
       "bookmarks": [
-        {
-          "url": "https://www.adihadean.ro/tag/oua-fierte/",
-          "title": "ouă fierte - Adi Hădean"
-        },
         {
           "url": "https://cafenoseaustin.com/",
           "title": "Café No Sé"
@@ -218,6 +214,10 @@
         {
           "url": "https://cocoeco.ca/en/dry/cornstarch",
           "title": "Cornstarch | COCOÉCO"
+        },
+        {
+          "url": "https://www.adihadean.ro/tag/oua-fierte/",
+          "title": "ouă fierte - Adi Hădean"
         },
         {
           "url": "http://www.magiadivino.it/e-commerce/105_poggio-le-volpi",
@@ -238,10 +238,6 @@
       "name": "health-beauty-family-legal",
       "bookmarks": [
         {
-          "url": "https://www.doldea.it/prodotto/peggy-sage-complesso-snellente/",
-          "title": "Peggy Sage Complesso Snellente oli essenziali 30ml - Doldea srl - Capelli e Benessere"
-        },
-        {
           "url": "https://www.healthline.com/nutrition/intermittent-fasting-guide",
           "title": "Intermittent Fasting 101 - The Ultimate Beginner's Guide"
         },
@@ -250,12 +246,16 @@
           "title": "Motherhood 101 - MamaStillGotIt"
         },
         {
-          "url": "https://www.randco.com/",
-          "title": "R+Co | The Culture Of Hairdressing"
+          "url": "https://www.doldea.it/prodotto/peggy-sage-complesso-snellente/",
+          "title": "Peggy Sage Complesso Snellente oli essenziali 30ml - Doldea srl - Capelli e Benessere"
         },
         {
           "url": "http://www.vividseats.com/privacy.html",
           "title": "Privacy Policy | Vivid Seats"
+        },
+        {
+          "url": "https://www.randco.com/",
+          "title": "R+Co | The Culture Of Hairdressing"
         },
         {
           "url": "https://volkraft.com/privacy_policy",
@@ -265,37 +265,11 @@
       "count": 6
     },
     {
-      "name": "misc-site-issues-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://affarerpylr.firebaseapp.com/25075/48864.html",
-          "title": "Patrik höijer"
-        },
-        {
-          "url": "https://brownsugarbritches.com/tag/divine/",
-          "title": "Private Site"
-        },
-        {
-          "url": "https://herbiv-whore.tumblr.com/",
-          "title": "Blog Deleted."
-        },
-        {
-          "url": "http://www.infostrada.it/",
-          "title": "Radware Block Page"
-        },
-        {
-          "url": "https://xeno-canto.org/explore?query=sp%3Aqmweqr%20loc%3A%22Hills%20west%20of%20Shuhe%2C%20near%20Lijiang%2C%20Yunnan%22",
-          "title": "Making sure you're not a bot!"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "sports-data-results",
       "bookmarks": [
         {
-          "url": "https://www.bbc.com/sport/football/scores-fixtures",
-          "title": "Scores & Fixtures - Football - BBC Sport"
+          "url": "https://www.mlb.com/standings",
+          "title": "2025 MLB Standings and Records: Regular Season | MLB.com"
         },
         {
           "url": "https://www.formula1.com/en/results.html",
@@ -306,8 +280,8 @@
           "title": "Jacksonville University track coach resigns after bullying allegations"
         },
         {
-          "url": "https://www.mlb.com/standings",
-          "title": "2025 MLB Standings and Records: Regular Season | MLB.com"
+          "url": "https://www.bbc.com/sport/football/scores-fixtures",
+          "title": "Scores & Fixtures - Football - BBC Sport"
         },
         {
           "url": "https://www.soccerstats.com/",
@@ -321,30 +295,38 @@
       "count": 6
     },
     {
-      "name": "media-news-publications",
+      "name": "misc-site-issues-uncategorized",
       "bookmarks": [
         {
-          "url": "http://www.bbc.com/",
-          "title": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio"
+          "url": "https://herbiv-whore.tumblr.com/",
+          "title": "Blog Deleted."
         },
         {
-          "url": "http://digitaledition.newssunonline.chicagotribune.com/#nt=secondarynavbar",
-          "title": "Suburbs"
+          "url": "https://xeno-canto.org/explore?query=sp%3Aqmweqr%20loc%3A%22Hills%20west%20of%20Shuhe%2C%20near%20Lijiang%2C%20Yunnan%22",
+          "title": "Making sure you're not a bot!"
         },
         {
-          "url": "https://www.straitstimes.com/asia/se-asia/jakarta-detains-chinese-trawler-off-sumatra",
-          "title": "The Straits Times - Breaking news, Singapore news, Asia and world news & multimedia"
+          "url": "https://affarerpylr.firebaseapp.com/25075/48864.html",
+          "title": "Patrik höijer"
         },
         {
-          "url": "http://vsichkozaknigite.bg/news/%D1%85%D0%B5%D1%80%D0%BC%D0%B0%D0%BD-%D0%BA%D0%BE%D1%85-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B3%D0%B0-%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5/",
-          "title": "Обичай всичко за книгите ⋆ Reading Trolls"
+          "url": "https://brownsugarbritches.com/tag/divine/",
+          "title": "Private Site"
+        },
+        {
+          "url": "http://www.infostrada.it/",
+          "title": "Radware Block Page"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
       "name": "travel-urban-development-planning",
       "bookmarks": [
+        {
+          "url": "https://www.smartcitiesdive.com/news/death-of-the-downtown-how-cities-can-rebuild-using-tactical-urbanism/587291/",
+          "title": "Death of the downtown: How cities can rebuild using 'tactical urbanism' | Smart Cities Dive"
+        },
         {
           "url": "https://www.justpacked.com/",
           "title": "Just Packed | Lydia Mansel | Substack"
@@ -352,10 +334,6 @@
         {
           "url": "https://pumaworldhq.com/",
           "title": "Progressive Urban Management Associates (P.U.M.A.) | immersive, market-based, tactical | Denver, CO, USA"
-        },
-        {
-          "url": "https://www.smartcitiesdive.com/news/death-of-the-downtown-how-cities-can-rebuild-using-tactical-urbanism/587291/",
-          "title": "Death of the downtown: How cities can rebuild using 'tactical urbanism' | Smart Cities Dive"
         },
         {
           "url": "https://www.tropicanaalibaug.com/",
@@ -398,16 +376,38 @@
           "title": "200 military families receive free Christmas trees | FOX 5 San Diego & KUSI News"
         },
         {
+          "url": "https://www.utsa.edu/budget/resources/forms-tools.html",
+          "title": "Forms and Tools | Budget and Financial Planning | UTSA | University of Texas at San Antonio"
+        },
+        {
           "url": "https://hopin.com/events/target-lab-x-military",
           "title": "Target Lab x USO: A Community Mingle - Nov 08 | RingCentral Events"
         },
         {
           "url": "http://www.unipd.it/",
           "title": "Università di Padova"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-media-publications",
+      "bookmarks": [
+        {
+          "url": "http://www.bbc.com/",
+          "title": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio"
         },
         {
-          "url": "https://www.utsa.edu/budget/resources/forms-tools.html",
-          "title": "Forms and Tools | Budget and Financial Planning | UTSA | University of Texas at San Antonio"
+          "url": "http://digitaledition.newssunonline.chicagotribune.com/#nt=secondarynavbar",
+          "title": "Suburbs"
+        },
+        {
+          "url": "https://www.straitstimes.com/asia/se-asia/jakarta-detains-chinese-trawler-off-sumatra",
+          "title": "The Straits Times - Breaking news, Singapore news, Asia and world news & multimedia"
+        },
+        {
+          "url": "http://vsichkozaknigite.bg/news/%D1%85%D0%B5%D1%80%D0%BC%D0%B0%D0%BD-%D0%BA%D0%BE%D1%85-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B3%D0%B0-%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5/",
+          "title": "Обичай всичко за книгите ⋆ Reading Trolls"
         }
       ],
       "count": 4
@@ -456,12 +456,12 @@
           "title": "On Demand Webinar: Airtable Features & Spotlight | Airtable - Airtable"
         },
         {
-          "url": "https://www.nyse.com/index",
-          "title": "The New York Stock Exchange | NYSE"
-        },
-        {
           "url": "https://sinc.business",
           "title": "Sinc | Staff Time Card And Location Tracking App | Hourly Workforce Tracking"
+        },
+        {
+          "url": "https://www.nyse.com/index",
+          "title": "The New York Stock Exchange | NYSE"
         }
       ],
       "count": 3

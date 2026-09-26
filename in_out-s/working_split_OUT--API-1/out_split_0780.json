@@ -1,19 +1,11 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://cartercenter.org/",
-          "title": "The Carter Center | Waging Peace, Fighting Disease & Building Hope"
-        },
         {
           "url": "https://www.gavi.org/",
           "title": "Gavi, the Vaccine Alliance"
-        },
-        {
-          "url": "http://www.greatplacetowork.com/certified-company/7023741",
-          "title": "Working at Vera Institute of Justice | Great Place To Work®"
         },
         {
           "url": "https://highcarbonstock.org/",
@@ -24,8 +16,16 @@
           "title": "Home - WattTime"
         },
         {
+          "url": "https://www.oceanteacher.org",
+          "title": "Home | OceanTeacher Global Academy"
+        },
+        {
           "url": "https://support.bestfriends.org/site/SPageNavigator/osd_pmx_search_one_api.html",
           "title": "How you can help homeless pets | Best Friends Animal Society - Save Them All"
+        },
+        {
+          "url": "http://www.inclusiv.org/",
+          "title": "Inclusiv"
         },
         {
           "url": "http://odinblacksea.iode.org/",
@@ -40,20 +40,12 @@
           "title": "IUCN Red List of Threatened Species"
         },
         {
-          "url": "http://www.inclusiv.org/",
-          "title": "Inclusiv"
-        },
-        {
           "url": "http://www.sanita.it/",
           "title": "Ministero della Salute"
         },
         {
           "url": "https://www.mnafricansunited.org/",
           "title": "Minnesota Africans United | African Diaspora Network"
-        },
-        {
-          "url": "https://www.oceanteacher.org",
-          "title": "Home | OceanTeacher Global Academy"
         },
         {
           "url": "https://getmyinternet.org/?page_id=5",
@@ -66,13 +58,25 @@
         {
           "url": "http://bch.cbd.int/protocol",
           "title": "The Cartagena Protocol on Biosafety"
+        },
+        {
+          "url": "https://cartercenter.org/",
+          "title": "The Carter Center | Waging Peace, Fighting Disease & Building Hope"
+        },
+        {
+          "url": "http://www.greatplacetowork.com/certified-company/7023741",
+          "title": "Working at Vera Institute of Justice | Great Place To Work®"
         }
       ],
       "count": 16
     },
     {
-      "name": "media-arts-culture",
+      "name": "arts-culture-media",
       "bookmarks": [
+        {
+          "url": "https://madebyshape.co.uk/web-design-blog/50-best-free-fonts-for-designers-in-2025/",
+          "title": "50 Best Free Fonts for Designers in 2025 | MadeByShape"
+        },
         {
           "url": "https://gallery.bleeding4metal.de/login.php?reload_once&referer=thumbnails.php%3Falbum%3Dlastup%26cat%3D-44%26page%3D5&message_id=e5fd98e321f13bcea8576dd846d596cd&message_icon=info#cpgMessageBlock",
           "title": "Anmeldung (Login) - Gallery4Metal"
@@ -80,10 +84,6 @@
         {
           "url": "https://www.artforgood.cz/en/virtualni-prohlidky/rozcestniky/dilo/10566/detail",
           "title": "Art for Good New Life for Exhibitions LoupeImage object (10566)"
-        },
-        {
-          "url": "https://madebyshape.co.uk/web-design-blog/50-best-free-fonts-for-designers-in-2025/",
-          "title": "50 Best Free Fonts for Designers in 2025 | MadeByShape"
         },
         {
           "url": "http://www.sororimmonde.com/article-7324236.html",
@@ -174,10 +174,6 @@
       "name": "leisure-lifestyle",
       "bookmarks": [
         {
-          "url": "https://2nite.uk.net/spring-equinox/ceredigion/lledrod/",
-          "title": "Lledrod (SY25) Spring Equinox | Spring Equinox tonight Lledrod (SY25) in Ceredigion - 2nite.uk.net: in and out! | whats going on tonight!"
-        },
-        {
           "url": "https://www.bonappetit.com/recipe/cacio-e-pepe",
           "title": "Cacio e Pepe Recipe | Bon Appétit"
         },
@@ -188,6 +184,10 @@
         {
           "url": "https://www.dbricette.it/altri_programmi.htm",
           "title": "DBRicette: Altri programmi"
+        },
+        {
+          "url": "https://2nite.uk.net/spring-equinox/ceredigion/lledrod/",
+          "title": "Lledrod (SY25) Spring Equinox | Spring Equinox tonight Lledrod (SY25) in Ceredigion - 2nite.uk.net: in and out! | whats going on tonight!"
         },
         {
           "url": "http://www.southislandaquarium.com/",

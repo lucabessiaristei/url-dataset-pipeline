@@ -1,85 +1,45 @@
 {
   "folders": [
     {
-      "name": "news-media",
+      "name": "corporate-websites",
       "bookmarks": [
         {
-          "url": "https://www.diariogol.com/",
-          "title": "Diario Gol | Real Madrid, FC Barcelona, Florentino Pérez"
+          "url": "https://www.theconsumergoodsforum.com/environmental-sustainability/forest-positive-deforestation/beef/",
+          "title": "Commodity Roadmaps - The Consumer Goods Forum"
         },
         {
-          "url": "https://magazine.mines.edu/",
-          "title": "Mines Magazine - The Colorado School of Mines Magazine Website"
+          "url": "https://www.stantec.com/en/ideas/topic/covid-19/covid-19-recovery-strategies-for-downtowns",
+          "title": "COVID-19 Recovery Strategies for Downtowns"
         },
         {
-          "url": "https://www.berlin.de/museum/",
-          "title": "Museumsführer - Berlin.de"
+          "url": "https://novoverde.pt/",
+          "title": "Novo Verde | Resíduos de Embalagens"
         },
         {
-          "url": "https://polskaplyta-polskamuzyka.pl/2021/10/02/doda-w-odswiezonej-wersji-dont-wanna-hide/",
-          "title": "Doda w odświeżonej wersji \"Don't Wanna Hide\" - Polska Płyta / Polska Muzyka"
+          "url": "https://www.viacomcbsprivacy.com/en/policy",
+          "title": "Paramount Skydance | Privacy Policy"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/urban-places",
+          "title": "Urban Places"
+        },
+        {
+          "url": "https://www.ins4fl.com/insurance-companies/chubb-group/",
+          "title": "Your Local Apopka Chubb Group Agency | DeClue Brothers Insurance Solutions"
         }
       ],
-      "count": 4
-    },
-    {
-      "name": "technology-companies",
-      "bookmarks": [
-        {
-          "url": "https://spire.com",
-          "title": "Spire : Global Data and Analytics"
-        },
-        {
-          "url": "https://fingersoft.com/",
-          "title": "Fingersoft • Good Games | Great People"
-        },
-        {
-          "url": "https://www.epix.com",
-          "title": "MGM+ | Instant Access to Movies, TV Series & More"
-        },
-        {
-          "url": "https://postersw.com/",
-          "title": "Poster Software - Poster, Banner, and Sign Software"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "https://www.sernapesca.cl/informacion-utilidad/monitoreo-satelital-de-naves-y-embarcaciones-pesqueras",
-          "title": "Monitoreo satelital de naves y embarcaciones pesqueras - sernapesca"
-        },
-        {
-          "url": "https://www.ilmatieteenlaitos.fi/saa",
-          "title": "Sää ja meri - Ilmatieteen laitos"
-        },
-        {
-          "url": "https://bkk.hu/menetrendek/",
-          "title": "Menetrend - BKK.hu"
-        },
-        {
-          "url": "https://nrifs.fra.affrc.go.jp/index_e.html",
-          "title": "NRIFS-FRA"
-        }
-      ],
-      "count": 4
+      "count": 6
     },
     {
       "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://www.aclu.org/",
+          "url": "http://www.afterschoolalliance.org/policyStateMap.cfm",
+          "title": "Afterschool Alliance"
+        },
+        {
+          "url": "http://www.aclu.org/",
           "title": "American Civil Liberties Union | The ACLU dares to create a more perfect union - beyond one person, party, or side. Our mission is to realize this promise of the United States Constitution for all and expand the reach of its guarantees."
-        },
-        {
-          "url": "https://deathpenaltyinfo.org/policy-issues/innocence",
-          "title": "Innocence | Death Penalty Information Center"
-        },
-        {
-          "url": "https://exoduslending.org/",
-          "title": "What We Do - Exodus Lending - Exodus Lending"
         },
         {
           "url": "https://www.buyfromablackwoman.org/",
@@ -90,48 +50,78 @@
           "title": "Center for Fine Art Photography"
         },
         {
-          "url": "https://www.afterschoolalliance.org/policyStateMap.cfm",
-          "title": "Afterschool Alliance"
+          "url": "https://deathpenaltyinfo.org/policy-issues/innocence",
+          "title": "Innocence | Death Penalty Information Center"
+        },
+        {
+          "url": "https://exoduslending.org/",
+          "title": "What We Do - Exodus Lending - Exodus Lending"
         }
       ],
       "count": 6
     },
     {
-      "name": "corporate-websites",
+      "name": "misc-organizations",
       "bookmarks": [
         {
-          "url": "https://www.stantec.com/en/ideas/topic/covid-19/covid-19-recovery-strategies-for-downtowns",
-          "title": "COVID-19 Recovery Strategies for Downtowns"
+          "url": "https://deltasigmatheta.org/about-delta#Timeline",
+          "title": "About Delta - Delta Sigma Theta Sorority Inc"
         },
         {
-          "url": "https://www.stantec.com/en/markets/urban-places",
-          "title": "Urban Places"
+          "url": "https://www.iode.org/",
+          "title": "IODE - International Oceanographic Data and Information Exchange"
         },
         {
-          "url": "https://www.viacomcbsprivacy.com/en/policy",
-          "title": "Paramount Skydance | Privacy Policy"
+          "url": "https://resourcewatch.org/dashboards/ocean-watch",
+          "title": "Ocean Watch - Introduction | Resource Watch"
         },
         {
-          "url": "https://www.ins4fl.com/insurance-companies/chubb-group/",
-          "title": "Your Local Apopka Chubb Group Agency | DeClue Brothers Insurance Solutions"
+          "url": "https://wiki.osmfoundation.org/wiki/Takedown_procedure",
+          "title": "Takedown procedure - OpenStreetMap Foundation"
         },
         {
-          "url": "https://www.theconsumergoodsforum.com/environmental-sustainability/forest-positive-deforestation/beef/",
-          "title": "Commodity Roadmaps - The Consumer Goods Forum"
-        },
-        {
-          "url": "https://novoverde.pt/",
-          "title": "Novo Verde | Resíduos de Embalagens"
+          "url": "https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-december-2021",
+          "title": "Voting Laws Roundup: December 2021 | Brennan Center for Justice"
         }
       ],
-      "count": 6
+      "count": 5
+    },
+    {
+      "name": "misc-personal",
+      "bookmarks": [
+        {
+          "url": "https://web.cvent.com/event/c3dd1954-99a4-4cf1-862c-12a5a65ba58a/summary",
+          "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - Naples - September 25, 2022"
+        },
+        {
+          "url": "https://www.otto.de/damen/mode/",
+          "title": "Damenbekleidung online kaufen | OTTO"
+        },
+        {
+          "url": "https://safety.blr.com/",
+          "title": "EHS Hero"
+        },
+        {
+          "url": "https://mykhumphrey.com/",
+          "title": "MykHumphrey.com - Earn Anywhere - Live Anywhere - Play Anywhere"
+        },
+        {
+          "url": "http://www.toddjdanforth.com/",
+          "title": "Todd Joseph Danforth"
+        }
+      ],
+      "count": 5
     },
     {
       "name": "tech-education",
       "bookmarks": [
         {
-          "url": "https://firefox-source-docs.mozilla.org/devtools-user/",
+          "url": "https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers",
           "title": "Firefox DevTools User Docs - Firefox Source Docs documentation"
+        },
+        {
+          "url": "https://jasoncanty01.tumblr.com/post/126527477477",
+          "title": "Jason Canty's Tumblr Stuffs - Is learning computer science linked to improved learning in other subjects? - Is learning computer science linked to improved..."
         },
         {
           "url": "https://university.mongodb.com/",
@@ -142,10 +132,6 @@
           "title": "State of the Tech Workforce 2024 | CompTIA Report"
         },
         {
-          "url": "https://jasoncanty01.tumblr.com/post/126527477477",
-          "title": "Jason Canty's Tumblr Stuffs - Is learning computer science linked to improved learning in other subjects? - Is learning computer science linked to improved..."
-        },
-        {
           "url": "https://spiders-in-the-sky.tumblr.com/post/145707587226",
           "title": "The class students like the most - Untitled"
         }
@@ -153,45 +139,23 @@
       "count": 5
     },
     {
-      "name": "travel-streaming",
+      "name": "government-agencies",
       "bookmarks": [
         {
-          "url": "https://www.yidio.com",
-          "title": "Yidio - Streaming Guide for TV Shows & Movies"
+          "url": "https://bkk.hu/menetrendek/",
+          "title": "Menetrend - BKK.hu"
         },
         {
-          "url": "https://www.ebookers.com/",
-          "title": "ebookers UK is ending"
+          "url": "http://www.sernapesca.cl/informacion-utilidad/monitoreo-satelital-de-naves-y-embarcaciones-pesqueras",
+          "title": "Monitoreo satelital de naves y embarcaciones pesqueras - sernapesca"
         },
         {
-          "url": "https://www.tristandacunha.org/",
-          "title": "TristanDaCunha.org"
+          "url": "http://nrifs.fra.affrc.go.jp/index_e.html",
+          "title": "NRIFS-FRA"
         },
         {
-          "url": "https://www.distancesfrom.com/in/how-far-is-Dankuni-from-Indore-via-Ranchi/HowFarHistory/43878018.aspx",
-          "title": "How far is Dankuni from Indore via Ranchi"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "social-platforms",
-      "bookmarks": [
-        {
-          "url": "https://tr.pinterest.com/search/pins/",
-          "title": "Pinterest - Türkiye"
-        },
-        {
-          "url": "https://seniorchatters.co.uk/",
-          "title": "Safe Senior Chat Rooms Online & Over 50s Chatting Site - Senior Chatters"
-        },
-        {
-          "url": "https://www.linkedin.com/company/family-online-safety-institute",
-          "title": "Family Online Safety Institute | LinkedIn"
-        },
-        {
-          "url": "https://nl.linkedin.com/company/randstad",
-          "title": "Randstad | LinkedIn"
+          "url": "https://www.ilmatieteenlaitos.fi/saa",
+          "title": "Sää ja meri - Ilmatieteen laitos"
         }
       ],
       "count": 4
@@ -199,6 +163,10 @@
     {
       "name": "hobbies-crafts",
       "bookmarks": [
+        {
+          "url": "https://www.lowimpact.org/categories/permaculture",
+          "title": "Category Intro - Lowimpact.org"
+        },
         {
           "url": "https://knitty.com/archive.php",
           "title": "Knitty.com - Deep Fall 2025"
@@ -208,12 +176,74 @@
           "title": "The Classic Typewriter Page : All About Typewriters"
         },
         {
-          "url": "https://www.lowimpact.org/categories/permaculture",
-          "title": "Category Intro - Lowimpact.org"
-        },
-        {
           "url": "https://www.tarotsara.cz/velka-arkana-0-22/",
           "title": "VELKÁ ARKÁNA 0-22 - Tarotsara.cz"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.diariogol.com/",
+          "title": "Diario Gol | Real Madrid, FC Barcelona, Florentino Pérez"
+        },
+        {
+          "url": "https://polskaplyta-polskamuzyka.pl/2021/10/02/doda-w-odswiezonej-wersji-dont-wanna-hide/",
+          "title": "Doda w odświeżonej wersji „Don't Wanna Hide\" - Polska Płyta / Polska Muzyka"
+        },
+        {
+          "url": "http://magazine.mines.edu/",
+          "title": "Mines Magazine - The Colorado School of Mines Magazine Website"
+        },
+        {
+          "url": "https://www.berlin.de/museum/",
+          "title": "Museumsführer - Berlin.de"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "reference-wikipedia",
+      "bookmarks": [
+        {
+          "url": "https://authindia.com/waguv-weaving-of-kashmir-is-the-proper-blend-of-beauty-and-austere-furnishing/",
+          "title": "AuthIndia - India's Largest Art Community"
+        },
+        {
+          "url": "https://www.investopedia.com/terms/d/dull-market.asp",
+          "title": "Dull Market: What It Is, How It Works, Examples"
+        },
+        {
+          "url": "https://www.everything-about-concrete.com/how-to-minimize-having-a-slippery-driveway-in-the-winter.html",
+          "title": "How to minimize having a slippery driveway in the winter"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/South_Atlantic_Anomaly",
+          "title": "South Atlantic Anomaly - Wikipedia"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "social-platforms",
+      "bookmarks": [
+        {
+          "url": "https://www.linkedin.com/company/family-online-safety-institute",
+          "title": "Family Online Safety Institute | LinkedIn"
+        },
+        {
+          "url": "https://tr.pinterest.com/search/pins/?q=email design",
+          "title": "Pinterest - Türkiye"
+        },
+        {
+          "url": "https://nl.linkedin.com/company/randstad?trk=public_jobs_jserp-result_job-search-card-subtitle",
+          "title": "Randstad | LinkedIn"
+        },
+        {
+          "url": "https://seniorchatters.co.uk/",
+          "title": "Safe Senior Chat Rooms Online & Over 50s Chatting Site - Senior Chatters"
         }
       ],
       "count": 4
@@ -230,103 +260,59 @@
           "title": "Latest News from Google Research Blog - Google Research"
         },
         {
-          "url": "https://developpaper.com/open-source-c-implementation-of-console-random-maze/",
-          "title": "Simcast News portal."
-        },
-        {
           "url": "https://www.gmtpost.com/post/new-gucci-dive-watches",
           "title": "New Gucci Dive Watches"
+        },
+        {
+          "url": "https://developpaper.com/open-source-c-implementation-of-console-random-maze/",
+          "title": "Simcast News portal."
         }
       ],
       "count": 4
     },
     {
-      "name": "reference-wikipedia",
+      "name": "technology-companies",
       "bookmarks": [
         {
-          "url": "https://en.wikipedia.org/wiki/South_Atlantic_Anomaly",
-          "title": "South Atlantic Anomaly - Wikipedia"
+          "url": "https://fingersoft.com/",
+          "title": "Fingersoft • Good Games | Great People"
         },
         {
-          "url": "https://www.investopedia.com/terms/d/dull-market.asp",
-          "title": "Dull Market: What It Is, How It Works, Examples"
+          "url": "https://www.epix.com",
+          "title": "MGM+ | Instant Access to Movies, TV Series & More"
         },
         {
-          "url": "https://www.everything-about-concrete.com/how-to-minimize-having-a-slippery-driveway-in-the-winter.html",
-          "title": "How to minimize having a slippery driveway in the winter"
+          "url": "http://www.postersw.com/",
+          "title": "Poster Software - Poster, Banner, and Sign Software"
         },
         {
-          "url": "https://authindia.com/waguv-weaving-of-kashmir-is-the-proper-blend-of-beauty-and-austere-furnishing/",
-          "title": "AuthIndia - India's Largest Art Community"
+          "url": "https://spire.com",
+          "title": "Spire : Global Data and Analytics"
         }
       ],
       "count": 4
     },
     {
-      "name": "paypal-newsrooms",
+      "name": "travel-streaming",
       "bookmarks": [
         {
-          "url": "https://newsroom.apac.paypal-corp.com/",
-          "title": "PayPal Newsroom - Home"
+          "url": "https://www.ebookers.com/?AFFCID=EBOOKERS-UK.network.affiliatewindow.85386&awc=7904_1606029543_518c2af76500871f76cadec26f8eb055",
+          "title": "ebookers UK is ending"
         },
         {
-          "url": "https://newsroom.br.paypal-corp.com/",
-          "title": "Conheça o Newsroom, o portal de notícias do PayPal Brasil"
+          "url": "https://www.distancesfrom.com/in/how-far-is-Dankuni-from-Indore-via-Ranchi/HowFarHistory/43878018.aspx",
+          "title": "How far is Dankuni from Indore via Ranchi"
+        },
+        {
+          "url": "https://www.tristandacunha.org/",
+          "title": "TristanDaCunha.org"
+        },
+        {
+          "url": "https://www.yidio.com",
+          "title": "Yidio - Streaming Guide for TV Shows & Movies"
         }
       ],
-      "count": 2
-    },
-    {
-      "name": "misc-organizations",
-      "bookmarks": [
-        {
-          "url": "https://deltasigmatheta.org/about-delta",
-          "title": "About Delta - Delta Sigma Theta Sorority Inc"
-        },
-        {
-          "url": "https://www.iode.org/",
-          "title": "IODE - International Oceanographic Data and Information Exchange"
-        },
-        {
-          "url": "https://resourcewatch.org/dashboards/ocean-watch",
-          "title": "Ocean Watch - Introduction | Resource Watch"
-        },
-        {
-          "url": "https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-december-2021",
-          "title": "Voting Laws Roundup: December 2021 | Brennan Center for Justice"
-        },
-        {
-          "url": "https://wiki.osmfoundation.org/wiki/Takedown_procedure",
-          "title": "Takedown procedure - OpenStreetMap Foundation"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "misc-personal",
-      "bookmarks": [
-        {
-          "url": "https://toddjdanforth.com/",
-          "title": "Todd Joseph Danforth"
-        },
-        {
-          "url": "https://mykhumphrey.com/",
-          "title": "MykHumphrey.com - Earn Anywhere - Live Anywhere - Play Anywhere"
-        },
-        {
-          "url": "https://www.otto.de/damen/mode/",
-          "title": "Damenbekleidung online kaufen | OTTO"
-        },
-        {
-          "url": "https://web.cvent.com/event/c3dd1954-99a4-4cf1-862c-12a5a65ba58a/summary",
-          "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - Naples - September 25, 2022"
-        },
-        {
-          "url": "https://safety.blr.com/",
-          "title": "EHS Hero"
-        }
-      ],
-      "count": 5
+      "count": 4
     },
     {
       "name": "legacy-computing",
@@ -336,8 +322,22 @@
           "title": "CP/M Main Page"
         },
         {
-          "url": "https://filegate.net/",
+          "url": "http://www.filegate.net/",
           "title": "Filegate.html"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "paypal-newsrooms",
+      "bookmarks": [
+        {
+          "url": "https://newsroom.br.paypal-corp.com/",
+          "title": "Conheça o Newsroom, o portal de notícias do PayPal Brasil"
+        },
+        {
+          "url": "https://newsroom.apac.paypal-corp.com/",
+          "title": "PayPal Newsroom - Home"
         }
       ],
       "count": 2
@@ -346,7 +346,7 @@
       "name": "microsoft-admin",
       "bookmarks": [
         {
-          "url": "https://devicemanagement.portal.azure.com/",
+          "url": "https://devicemanagement.portal.azure.com/?l=en.en-us",
           "title": "Microsoft Intune admin center"
         }
       ],

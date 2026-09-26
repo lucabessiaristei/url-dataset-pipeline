@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "resource-guides",
+      "name": "guides-resources",
       "bookmarks": [
         {
           "url": "https://collections.plos.org/",
@@ -70,16 +70,16 @@
           "title": "This workshop is full, please select another date."
         },
         {
-          "url": "https://login.wordpress.org/register?locale=en_US&redirect_to=https%3A%2F%2Fprofiles.wordpress.org%2Fjulianyanover%2F",
-          "title": "WordPress.org Login | WordPress.org English"
-        },
-        {
           "url": "https://www.emt.es/portal/en/horarios-y-recorridos",
           "title": "void"
         },
         {
           "url": "http://www.neotipi.it/",
           "title": "void"
+        },
+        {
+          "url": "https://login.wordpress.org/register?locale=en_US&redirect_to=https%3A%2F%2Fprofiles.wordpress.org%2Fjulianyanover%2F",
+          "title": "WordPress.org Login | WordPress.org English"
         }
       ],
       "count": 8
@@ -119,7 +119,7 @@
       "count": 7
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://recyclebc.ca/",
@@ -147,32 +147,6 @@
         }
       ],
       "count": 6
-    },
-    {
-      "name": "services-ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://www.eurocars.ro/de/mietwagen-Arad/SUV/Opel/Opel-Antara_107",
-          "title": "Autovermietung Arad | SUV Klasse"
-        },
-        {
-          "url": "https://www.contrado.it/",
-          "title": "Contrado: crea, acquista e vendi prodotti | Stampa su richiesta"
-        },
-        {
-          "url": "https://www.grandhoteltremezzo.com/en/home/",
-          "title": "Grand Hotel Tremezzo: luxury 5 star hotel on Lake Como, Italy"
-        },
-        {
-          "url": "https://mesnotices.20minutes.fr/pieces-detachees-electromenager/lave-linge/whirlpool/AWO12563.html?piece=carroserie",
-          "title": "Pied, plinthe, plan de travail, côté,... machine à laver Whirlpool AWO12563..."
-        },
-        {
-          "url": "https://desenio.se/sv/posters/storlekar-poster/stora-posters?page=3",
-          "title": "Stora tavlor i 70x100 cm | Moderna stora tavlor | Desenio.se"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "web-tools",
@@ -203,6 +177,32 @@
         }
       ],
       "count": 6
+    },
+    {
+      "name": "services-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://www.eurocars.ro/de/mietwagen-Arad/SUV/Opel/Opel-Antara_107",
+          "title": "Autovermietung Arad | SUV Klasse"
+        },
+        {
+          "url": "https://www.contrado.it/",
+          "title": "Contrado: crea, acquista e vendi prodotti | Stampa su richiesta"
+        },
+        {
+          "url": "https://www.grandhoteltremezzo.com/en/home/",
+          "title": "Grand Hotel Tremezzo: luxury 5 star hotel on Lake Como, Italy"
+        },
+        {
+          "url": "https://mesnotices.20minutes.fr/pieces-detachees-electromenager/lave-linge/whirlpool/AWO12563.html?piece=carroserie",
+          "title": "Pied, plinthe, plan de travail, côté,... machine à laver Whirlpool AWO12563..."
+        },
+        {
+          "url": "https://desenio.se/sv/posters/storlekar-poster/stora-posters?page=3",
+          "title": "Stora tavlor i 70x100 cm | Moderna stora tavlor | Desenio.se"
+        }
+      ],
+      "count": 5
     },
     {
       "name": "blogs-portfolios",

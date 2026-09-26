@@ -32,10 +32,6 @@
           "title": "News | Cranbrook Daily Townsman"
         },
         {
-          "url": "https://www.kathimerini.gr/politics/",
-          "title": "ΠΟΛΙΤΙΚΗ | Η ΚΑΘΗΜΕΡΙΝΗ"
-        },
-        {
           "url": "https://www.rawstory.com/",
           "title": "Raw Story - Celebrating 20 Years of Independent Journalism"
         },
@@ -46,12 +42,16 @@
         {
           "url": "https://www.nytimes.com/section/world",
           "title": "World News - The New York Times"
+        },
+        {
+          "url": "https://www.kathimerini.gr/politics/",
+          "title": "ΠΟΛΙΤΙΚΗ | Η ΚΑΘΗΜΕΡΙΝΗ"
         }
       ],
       "count": 11
     },
     {
-      "name": "non-profit-social-services",
+      "name": "nonprofit-social-services",
       "bookmarks": [
         {
           "url": "https://borderhumanity.soapboxx.com/category/639b33081b3ddc804109447b",
@@ -104,8 +104,8 @@
           "title": "Con Edison - Powering New York City and Westchester"
         },
         {
-          "url": "https://foursquare.com/",
-          "title": "The Future of Geospatial Technology | Foursquare"
+          "url": "https://roundingsquares.com/",
+          "title": "Home - Rounding Squares"
         },
         {
           "url": "https://newsroom.it.paypal-corp.com/",
@@ -116,12 +116,12 @@
           "title": "REKOPOL Organizacja Odzysku Opakowań S.A."
         },
         {
-          "url": "https://roundingsquares.com/",
-          "title": "Home - Rounding Squares"
-        },
-        {
           "url": "http://www.imbdc.com/",
           "title": "Thanks for visiting! | imbdc 2020 site"
+        },
+        {
+          "url": "https://foursquare.com/",
+          "title": "The Future of Geospatial Technology | Foursquare"
         }
       ],
       "count": 7
@@ -213,7 +213,7 @@
       "count": 5
     },
     {
-      "name": "e-commerce",
+      "name": "ecommerce",
       "bookmarks": [
         {
           "url": "https://agrobolder.com/products/bobina-50",
@@ -239,7 +239,7 @@
       "count": 5
     },
     {
-      "name": "non-profit-conservation",
+      "name": "nonprofit-conservation",
       "bookmarks": [
         {
           "url": "https://www.msc.org/",
@@ -294,6 +294,10 @@
       "name": "web-platforms-misc",
       "bookmarks": [
         {
+          "url": "https://about.medium.com/creators/?source=---two_column_layout_sidebar----------------------------------",
+          "title": "Medium Partner Program"
+        },
+        {
           "url": "https://youradchoices.ca/en/tools",
           "title": "Opt-Out Tools - AdChoices in Canada"
         },
@@ -308,10 +312,6 @@
         {
           "url": "http://www.neotipi.it/",
           "title": "void"
-        },
-        {
-          "url": "https://about.medium.com/creators/?source=---two_column_layout_sidebar----------------------------------",
-          "title": "Medium Partner Program"
         }
       ],
       "count": 5

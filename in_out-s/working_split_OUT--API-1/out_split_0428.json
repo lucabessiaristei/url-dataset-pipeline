@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "nonprofit-government-resources",
+      "name": "government-nonprofit-resources",
       "bookmarks": [
         {
           "url": "https://nvbdc.org/about-the-nvbdc/",
@@ -35,7 +35,7 @@
       "count": 7
     },
     {
-      "name": "software-platforms-tools",
+      "name": "software-tools-platforms",
       "bookmarks": [
         {
           "url": "https://ids.craig.fr/geocat/srv/eng/catalog.search#/home",
@@ -72,16 +72,16 @@
           "title": "10 Dicembre 2015 • SaggiaMente"
         },
         {
-          "url": "https://franceslin90.tumblr.com/post/154540762137",
-          "title": "Randon-mess - Computer science really is computer science!"
-        },
-        {
           "url": "https://fairmountpetservice.com/Blog/pet-services-blog/losing-a-pet-having-to-put-my-dog-to-sleep/",
           "title": "Losing A Pet: Having To Put My Dog To Sleep - Fairmount Pet Service"
         },
         {
           "url": "http://mamastillgotit.com/motherhood-101/",
           "title": "Motherhood 101 - MamaStillGotIt"
+        },
+        {
+          "url": "https://franceslin90.tumblr.com/post/154540762137",
+          "title": "Randon-mess - Computer science really is computer science!"
         },
         {
           "url": "https://mgp770.tumblr.com/",
@@ -94,10 +94,6 @@
       "name": "arts-entertainment-virtual-worlds",
       "bookmarks": [
         {
-          "url": "https://aspngalerie.de/en/show/robert-seidel-stichtag/",
-          "title": "Robert Seidel: Stichtag - ASPN"
-        },
-        {
           "url": "https://secure.imvu.com/welcome/ftux/",
           "title": "IMVU - #1 3D Avatar Social App, Virtual Worlds, Virtual Reality, VR, Avatars, Free 3D Chat"
         },
@@ -108,6 +104,10 @@
         {
           "url": "https://www.pixelistes.com/forum/mycalendar3.php?month=12&year=2022&sid=b7a799b02a930f0995e5488ed89fa26a",
           "title": "Pixelistes • Calendrier"
+        },
+        {
+          "url": "https://aspngalerie.de/en/show/robert-seidel-stichtag/",
+          "title": "Robert Seidel: Stichtag - ASPN"
         }
       ],
       "count": 4
@@ -120,18 +120,18 @@
           "title": "BMW New Car Dealer | Pakistan | BMW Dewan"
         },
         {
-          "url": "https://www.blueorigin.com/",
-          "title": "Home | Blue Origin"
-        },
-        {
           "url": "https://www.citizensbank.com/",
           "title": "Citizens Bank | Personal & Business Banking, Student Loans, Retirement"
+        },
+        {
+          "url": "https://www.blueorigin.com/",
+          "title": "Home | Blue Origin"
         }
       ],
       "count": 3
     },
     {
-      "name": "creative-design-tools",
+      "name": "design-creative-tools",
       "bookmarks": [
         {
           "url": "https://craftwork.design/catalog/?_sft_download_category=freebies",
@@ -149,43 +149,25 @@
       "count": 3
     },
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://coloringwatch.com",
           "title": "Coloring Watch - Coloring Watch - Apple Watch Coloring Book"
         },
         {
-          "url": "https://jollygoodbeer.co.uk/pollys-smooth_grove-keg/",
-          "title": "Pollys-Smooth_Grove-KEG - Jolly Good Beer"
-        },
-        {
           "url": "https://photo.walgreens.com",
           "title": "Photo Prints, Custom Cards, and Posters | Walgreens Photo"
+        },
+        {
+          "url": "https://jollygoodbeer.co.uk/pollys-smooth_grove-keg/",
+          "title": "Pollys-Smooth_Grove-KEG - Jolly Good Beer"
         }
       ],
       "count": 3
     },
     {
-      "name": "health-beauty-wellness",
-      "bookmarks": [
-        {
-          "url": "https://www.ipsy.com",
-          "title": "Personalized Monthly Makeup & Beauty Sample Subscription | IPSY"
-        },
-        {
-          "url": "https://www.orangetheory.com/en-in/",
-          "title": "Group Fitness Class & Interval Training | Orangetheory Fitness India"
-        },
-        {
-          "url": "https://www.shi.ch/schule-vortraege/informationen/ueber-uns-schule/dozenten-homoeopathie/elfriede-schaeffler",
-          "title": "Elfriede Schäffler"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "internet-resources-general",
+      "name": "general-internet-resources",
       "bookmarks": [
         {
           "url": "https://mclanecnc.com/Uux0lgl-Thicker/R3cwxu-Thicker/Penis/",
@@ -203,16 +185,26 @@
       "count": 3
     },
     {
-      "name": "news-information-science",
+      "name": "health-wellness-beauty",
       "bookmarks": [
         {
-          "url": "https://www.saggiamente.com/2015/12/10/",
-          "title": "10 Dicembre 2015 • SaggiaMente"
+          "url": "https://www.shi.ch/schule-vortraege/informationen/ueber-uns-schule/dozenten-homoeopathie/elfriede-schaeffler",
+          "title": "Elfriede Schäffler"
         },
         {
-          "url": "https://www.amministrazionicomunali.it/calabria/san-sosti/meteo",
-          "title": "Meteo nel Comune di San Sosti - amministrazionicomunali.it"
+          "url": "https://www.orangetheory.com/en-in/",
+          "title": "Group Fitness Class & Interval Training | Orangetheory Fitness India"
         },
+        {
+          "url": "https://www.ipsy.com",
+          "title": "Personalized Monthly Makeup & Beauty Sample Subscription | IPSY"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "news-information-science",
+      "bookmarks": [
         {
           "url": "http://blog.ucsusa.org/rachael-nealer/average-vs-marginal-electric-emissions-802?",
           "title": "Electric Vehicles Are Getting Marginally Better, In A Big Way - Union of Concerned Scientists"
@@ -220,11 +212,15 @@
         {
           "url": "https://www.kptv.com/2023/02/21/foot-found-nw-washington-belongs-missing-woman/",
           "title": "Foot found in NW Washington belongs to missing woman"
+        },
+        {
+          "url": "https://www.amministrazionicomunali.it/calabria/san-sosti/meteo",
+          "title": "Meteo nel Comune di San Sosti - amministrazionicomunali.it"
         }
       ],
-      "count": 4
+      "count": 3
     }
   ],
-  "total_bookmarks": 41,
+  "total_bookmarks": 40,
   "num_folders": 10
 }

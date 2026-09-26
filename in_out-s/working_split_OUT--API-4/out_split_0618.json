@@ -1,45 +1,11 @@
 {
   "folders": [
     {
-      "name": "entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.thebeachboyscruise.com/artist/john-stamos/",
-          "title": "The Beach Boys Cruise - The Beach Boys Cruise"
-        },
-        {
-          "url": "https://channelstore.roku.com/details/300d1f91b5e583145c8a3fba6f08dafd/frndly-tv",
-          "title": "Roku"
-        },
-        {
-          "url": "https://www.newsamericasnow.com/tag/guadeloupe-2/",
-          "title": "#GUADELOUPE Articles | News Americas Now"
-        },
-        {
-          "url": "https://index.hu/tech/",
-          "title": "Tech hírek - Index"
-        },
-        {
-          "url": "https://sahistory.org.za/form/contribute?referrernid=93525&referrertitle=Press%20Comments%20made%20by%20South%20African%20President%20Thabo%20Mbeki%20and%20Prime%20Minister%20of%20C%C3%B4te%20d%E2%80%99Ivoire%20Guillaume%20Soro,%20Cape%20Town,%2020%20June%202007",
-          "title": "Contribute | South African History Online"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "business",
       "bookmarks": [
         {
-          "url": "http://www.tradefirst.com/",
-          "title": "TradeFirst - The Smart Network for Business"
-        },
-        {
           "url": "https://learningconsole.amazonadvertising.com/",
           "title": "Amazon Ads Academy - Explore training courses, certifications, and more"
-        },
-        {
-          "url": "https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd",
-          "title": "Target's Corporate Commitments"
         },
         {
           "url": "http://www.aeropostale.com/",
@@ -48,6 +14,40 @@
         {
           "url": "https://online.flipbuilder.com/wool/gsun/mobile/index.html",
           "title": "Penn State Civil and Environmental Engineering 2021 Annual Report"
+        },
+        {
+          "url": "https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=Acoronavirusupd",
+          "title": "Target's Corporate Commitments"
+        },
+        {
+          "url": "http://www.tradefirst.com/",
+          "title": "TradeFirst - The Smart Network for Business"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "culture",
+      "bookmarks": [
+        {
+          "url": "http://catalogo.villanuevadelaserena.es/dataset?tags=Unidades+Administrativas&tags=IDEVVA&groups=sociedad-bienestar&res_format=CSV&license_id=cc-by&tags=Sanidad+y+consumo&tags=Residencias+de+Mayores&res_format=GeoJSON&organization=concejalia-comercio-y-desarrollo-local",
+          "title": "Conjunto de datos - Open Data Villanueva de la Serena"
+        },
+        {
+          "url": "https://www.gatorama.com/2023/02/17/georgie-the-taped-alligator-finds-new-home-at-gatorama/",
+          "title": "Georgie the Taped Alligator Finds New Home at Gatorama - Gatorama"
+        },
+        {
+          "url": "http://www.realcollegelife.com/",
+          "title": "Real College Life - Student Jobs & Employment, University Study & Eco Friendly Tips"
+        },
+        {
+          "url": "https://my.tonies.com/legals/privacy-policy",
+          "title": "tonies® - Welcome to mytonies"
+        },
+        {
+          "url": "https://pitlochry.de/wohnung-runa",
+          "title": "Wohnung Runa | Ferienwohnungen Pitlochry auf Amrum"
         }
       ],
       "count": 5
@@ -56,34 +56,90 @@
       "name": "education",
       "bookmarks": [
         {
-          "url": "https://sharpen.design/",
-          "title": "Sharpen - Design Challenge Generator"
-        },
-        {
-          "url": "https://josuttis.com/tmplbook/",
-          "title": "Nicolai Josuttis: Objektorientiertes Programmieren in C++"
+          "url": "https://hu.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress bővítmény | WordPress.org Magyar"
         },
         {
           "url": "https://github.com/GlobalFishingWatch/gfwr",
           "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
         },
         {
-          "url": "https://hu.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress bővítmény | WordPress.org Magyar"
-        },
-        {
           "url": "https://ourworldindata.org/grapher/life-expectancy",
           "title": "Life expectancy - Our World in Data"
+        },
+        {
+          "url": "http://www.josuttis.com/tmplbook/",
+          "title": "Nicolai Josuttis: Objektorientiertes Programmieren in C++"
+        },
+        {
+          "url": "https://sharpen.design/",
+          "title": "Sharpen - Design Challenge Generator"
         }
       ],
       "count": 5
     },
     {
-      "name": "non-profit",
+      "name": "entertainment",
+      "bookmarks": [
+        {
+          "url": "https://www.newsamericasnow.com/tag/guadeloupe-2/",
+          "title": "#GUADELOUPE Articles | News Americas Now"
+        },
+        {
+          "url": "https://sahistory.org.za/form/contribute?referrernid=93525&referrertitle=Press%20Comments%20made%20by%20South%20African%20President%20Thabo%20Mbeki%20and%20Prime%20Minister%20of%20C%C3%B4te%20d%E2%80%99Ivoire%20Guillaume%20Soro,%20Cape%20Town,%2020%20June%202007",
+          "title": "Contribute | South African History Online"
+        },
+        {
+          "url": "https://channelstore.roku.com/details/300d1f91b5e583145c8a3fba6f08dafd/frndly-tv",
+          "title": "Roku"
+        },
+        {
+          "url": "https://index.hu/tech/",
+          "title": "Tech hírek - Index"
+        },
+        {
+          "url": "https://www.thebeachboyscruise.com/artist/john-stamos/",
+          "title": "The Beach Boys Cruise - The Beach Boys Cruise"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "health",
+      "bookmarks": [
+        {
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
+          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
+        },
+        {
+          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
+          "title": "Mental health"
+        },
+        {
+          "url": "https://www.ns.nl/reisinformatie",
+          "title": "Reisinformatie l Blijf op de hoogte | NS"
+        },
+        {
+          "url": "https://uscenterforsafesport.org/report-a-concern/#:~:text=If%20you%20need%20crisis%20intervention,at%20866%2D200%2D0796.",
+          "title": "Report a Concern | U.S. Center for SafeSport"
+        },
+        {
+          "url": "https://tylkotorun.pl/sterowiec-wolnosc-zawisl-nad-rynkiem-staromiejskim-potrzebny-jest-dyskurs-na-temat-wolnosci/?replytocom=14644",
+          "title": "Sterowiec Wolność zawisł nad Rynkiem Staromiejskim. „Potrzebny jest dyskurs na temat wolności\""
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "nonprofits",
       "bookmarks": [
         {
           "url": "https://www.spmcf.org/minnesota-disaster-recovery-fund",
           "title": "Minnesota Disaster Recovery Fund | Saint Paul & Minnesota Foundation"
+        },
+        {
+          "url": "https://www.unitedway.org/our-impact/featured-programs/2-1-1/ride-united",
+          "title": "Ride United: An Innovative Solution to Transportation Gaps | United Way Worldwide"
         },
         {
           "url": "https://unmhealth.org/stories/project-echo.html",
@@ -96,36 +152,6 @@
         {
           "url": "https://womenwatchafrika.org/",
           "title": "Women Watch Afrika - Eliminating all forms of discrimination against women."
-        },
-        {
-          "url": "https://www.unitedway.org/our-impact/featured-programs/2-1-1/ride-united",
-          "title": "Ride United: An Innovative Solution to Transportation Gaps | United Way Worldwide"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "health",
-      "bookmarks": [
-        {
-          "url": "https://uscenterforsafesport.org/report-a-concern/#:~:text=If%20you%20need%20crisis%20intervention,at%20866%2D200%2D0796.",
-          "title": "Report a Concern | U.S. Center for SafeSport"
-        },
-        {
-          "url": "https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response",
-          "title": "Mental health"
-        },
-        {
-          "url": "https://www.ns.nl/reisinformatie",
-          "title": "Reisinformatie l Blijf op de hoogte | NS"
-        },
-        {
-          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
-          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
-        },
-        {
-          "url": "https://tylkotorun.pl/sterowiec-wolnosc-zawisl-nad-rynkiem-staromiejskim-potrzebny-jest-dyskurs-na-temat-wolnosci/?replytocom=14644",
-          "title": "Sterowiec Wolność zawisł nad Rynkiem Staromiejskim. „Potrzebny jest dyskurs na temat wolności\""
         }
       ],
       "count": 5
@@ -134,50 +160,24 @@
       "name": "technology",
       "bookmarks": [
         {
-          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
-          "title": "‎YouTube TV on the App Store"
+          "url": "https://reman-engine.com/remanufactured-engines/ford/windstar/1995/3.0l-vin-u-8th-digit-6-183",
+          "title": "3.0L Engine for 1995 Ford Windstar"
         },
         {
           "url": "https://player.blubrry.com/?media_url=https%3A%2F%2Fmedia.blubrry.com%2Fyalepress%2Fp%2Fmedia.blubrry.com%2Fyalepodcasts%2Fp%2Fcontent.blubrry.com%2Fyalepodcasts%2F337-4373241344226031166-ybmc_1930_MP3_for_Audio_Podcasting.mp3&podcast_link=https%3A%2F%2Fyalepodcasts.blubrry.net%2F2017%2F03%2F30%2Fthe-poetry-of-pop-music%2F",
           "title": "Blubrry Player"
         },
         {
+          "url": "https://www.doksite.de/de/video/5418-Hingerissen_von_einem_ungewoehnlichen_Schicksal_im_azurblauen_Meer_im_August",
+          "title": "Hingerissen von einem ungewöhnlichen Schicksal im azurblauen Meer im August | DOKsite Filmportal"
+        },
+        {
           "url": "https://www.elinux.org/index.php?title=Pt-BR:_Raspberry_Pi_Board&oldid=96800&printable=yes",
           "title": "Making sure you're not a bot!"
         },
         {
-          "url": "https://reman-engine.com/remanufactured-engines/ford/windstar/1995/3.0l-vin-u-8th-digit-6-183",
-          "title": "3.0L Engine for 1995 Ford Windstar"
-        },
-        {
-          "url": "https://doksite.de/de/video/5418-Hingerissen_von_einem_ungewoehnlichen_Schicksal_im_azurblauen_Meer_im_August",
-          "title": "Hingerissen von einem ungewöhnlichen Schicksal im azurblauen Meer im August | DOKsite Filmportal"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "culture",
-      "bookmarks": [
-        {
-          "url": "https://my.tonies.com/legals/privacy-policy",
-          "title": "tonies® - Welcome to mytonies"
-        },
-        {
-          "url": "https://www.gatorama.com/2023/02/17/georgie-the-taped-alligator-finds-new-home-at-gatorama/",
-          "title": "Georgie the Taped Alligator Finds New Home at Gatorama - Gatorama"
-        },
-        {
-          "url": "https://pitlochry.de/wohnung-runa",
-          "title": "Wohnung Runa | Ferienwohnungen Pitlochry auf Amrum"
-        },
-        {
-          "url": "https://catalogo.villanuevadelaserena.es/dataset?tags=Unidades+Administrativas&tags=IDEVVA&groups=sociedad-bienestar&res_format=CSV&license_id=cc-by&tags=Sanidad+y+consumo&tags=Residencias+de+Mayores&res_format=GeoJSON&organization=concejalia-comercio-y-desarrollo-local",
-          "title": "Conjunto de datos - Open Data Villanueva de la Serena"
-        },
-        {
-          "url": "https://realcollegelife.com/",
-          "title": "Real College Life - Student Jobs & Employment, University Study & Eco Friendly Tips"
+          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
+          "title": "‎YouTube TV on the App Store"
         }
       ],
       "count": 5
@@ -186,21 +186,21 @@
       "name": "food",
       "bookmarks": [
         {
-          "url": "https://wildfermentation.com/making-sauerkraut-2/",
-          "title": "Making Sauerkraut | Wild Fermentation :: Wild Fermentation"
+          "url": "https://www.harpercollinsfocus.com/harper-horizon/meghan-trainor-dear-future-mama/",
+          "title": "Dear Future Mama - Harper Horizon"
         },
         {
           "url": "https://reesesbookclub.com/",
           "title": "Home - Reese's Book Club"
         },
         {
-          "url": "https://harpercollinsfocus.com/harper-horizon/meghan-trainor-dear-future-mama/",
-          "title": "Dear Future Mama - Harper Horizon"
+          "url": "https://www.wildfermentation.com/making-sauerkraut-2/",
+          "title": "Making Sauerkraut | Wild Fermentation :: Wild Fermentation"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 46,
-  "num_folders": 7
+  "total_bookmarks": 38,
+  "num_folders": 8
 }

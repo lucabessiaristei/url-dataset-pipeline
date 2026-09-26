@@ -43,37 +43,7 @@
       "count": 9
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://www.eadeswallpaper.com/blog/?p=236",
-          "title": "Eades Wallpaper and Fabrics Blog - Eades Wallpaper & Fabrics"
-        },
-        {
-          "url": "http://lupo73.altervista.org/",
-          "title": "Lupo73 - Innovazione Digitale: Esplorando le Frontiere dell'Informatica"
-        },
-        {
-          "url": "https://blog.acvwilson.me/post/150071746014",
-          "title": "puts post - Another year of record growth for AP Computer..."
-        },
-        {
-          "url": "https://superherowithoutacape.tumblr.com/",
-          "title": "Ramblings of a Wannabe Superhero"
-        },
-        {
-          "url": "https://malpracticer.tumblr.com/",
-          "title": "Squiggle Zone"
-        },
-        {
-          "url": "https://passtheknowledge.wordpress.com/tag/squirrels/",
-          "title": "squirrels | PASS THE KNOWLEDGE (LIGHT & LIFE)"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.azti.es/",
@@ -98,6 +68,36 @@
         {
           "url": "http://www.responsiblemineralsinitiative.org/",
           "title": "Responsible Minerals Initiative"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://www.eadeswallpaper.com/blog/?p=236",
+          "title": "Eades Wallpaper and Fabrics Blog - Eades Wallpaper & Fabrics"
+        },
+        {
+          "url": "http://lupo73.altervista.org/",
+          "title": "Lupo73 - Innovazione Digitale: Esplorando le Frontiere dell'Informatica"
+        },
+        {
+          "url": "https://blog.acvwilson.me/post/150071746014",
+          "title": "puts post - Another year of record growth for AP Computer..."
+        },
+        {
+          "url": "https://superherowithoutacape.tumblr.com/",
+          "title": "Ramblings of a Wannabe Superhero"
+        },
+        {
+          "url": "https://malpracticer.tumblr.com/",
+          "title": "Squiggle Zone"
+        },
+        {
+          "url": "https://passtheknowledge.wordpress.com/tag/squirrels/",
+          "title": "squirrels | PASS THE KNOWLEDGE (LIGHT & LIFE)"
         }
       ],
       "count": 6
@@ -129,12 +129,8 @@
       "count": 5
     },
     {
-      "name": "leisure-entertainment",
+      "name": "entertainment-leisure",
       "bookmarks": [
-        {
-          "url": "https://music.apple.com?itscg=10000&itsct=pod-services-music-apl-tvhm-21_1019",
-          "title": "‎Apple Music - Web Player"
-        },
         {
           "url": "https://flightaware.com/photos/view/447116-d07a85c727f57a4d146d0c81fafac071881bab08",
           "title": "Photo of Piper L-21 Super (N10YV) - FlightAware"
@@ -150,6 +146,10 @@
         {
           "url": "https://www.midway.org/",
           "title": "USS Midway Aircraft Carrier | San Diego Museum | San Diego Tours - USS Midway Museum®"
+        },
+        {
+          "url": "https://music.apple.com?itscg=10000&itsct=pod-services-music-apl-tvhm-21_1019",
+          "title": "‎Apple Music - Web Player"
         }
       ],
       "count": 5
@@ -177,7 +177,7 @@
       "count": 4
     },
     {
-      "name": "career-jobs",
+      "name": "careers-jobs",
       "bookmarks": [
         {
           "url": "https://demandatrabajo.com/109-ofertas-de-trabajo-de-fontanero-encontradas/",
@@ -231,7 +231,7 @@
       "count": 3
     },
     {
-      "name": "legal-gov",
+      "name": "gov-legal",
       "bookmarks": [
         {
           "url": "http://freedomdefined.org/",

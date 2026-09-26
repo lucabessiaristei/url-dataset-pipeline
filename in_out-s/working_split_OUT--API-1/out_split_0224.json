@@ -4,12 +4,12 @@
       "name": "news",
       "bookmarks": [
         {
-          "url": "https://fortune.com/2021/04/02/aclu-shares-data-facebook-third-parties-digital-privacy/",
-          "title": "ACLU, a defender of digital privacy, reveals that it shares user data with Facebook | Fortune"
-        },
-        {
           "url": "https://www.fox5atlanta.com/news/3-teens-charged-with-murder-of-15-year-old-peachtree-city-girl",
           "title": "3 men, 18, charged with murder of Peachtree City teen | FOX 5 Atlanta"
+        },
+        {
+          "url": "https://fortune.com/2021/04/02/aclu-shares-data-facebook-third-parties-digital-privacy/",
+          "title": "ACLU, a defender of digital privacy, reveals that it shares user data with Facebook | Fortune"
         },
         {
           "url": "https://www.consumerreports.org/fees-billing/cable-company-fees-add-to-tv-bill/",
@@ -55,7 +55,7 @@
       "count": 12
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "http://www.aclu.org/",
@@ -108,10 +108,6 @@
           "title": "ASA | Generating value across generations"
         },
         {
-          "url": "https://www.beyondvisualrange.net/links/--1/",
-          "title": "Neckarwyoming Model Magic - --"
-        },
-        {
           "url": "https://instantly.ai/#Testimonials",
           "title": "Instantly.ai - Sales Engagement & Lead Intelligence"
         },
@@ -122,6 +118,10 @@
         {
           "url": "https://magikbee.com/",
           "title": "Learning Through Play - Inspiring Kid's Imagination With Magikbee"
+        },
+        {
+          "url": "https://www.beyondvisualrange.net/links/--1/",
+          "title": "Neckarwyoming Model Magic - --"
         },
         {
           "url": "https://www.bigcommerce.com/",
@@ -147,7 +147,7 @@
       "count": 10
     },
     {
-      "name": "blogs-and-social",
+      "name": "blogs-social",
       "bookmarks": [
         {
           "url": "https://bergqvist13.tumblr.com/",
@@ -185,7 +185,7 @@
       "count": 8
     },
     {
-      "name": "government-public-service",
+      "name": "government-public-services",
       "bookmarks": [
         {
           "url": "https://regional-open-data-capcog.opendata.arcgis.com/",
@@ -219,7 +219,7 @@
       "count": 7
     },
     {
-      "name": "hobbies-and-crafts",
+      "name": "hobbies-crafts",
       "bookmarks": [
         {
           "url": "https://www.homemodelenginemachinist.com/forums/",
@@ -249,7 +249,7 @@
       "count": 6
     },
     {
-      "name": "media-and-people",
+      "name": "media-people",
       "bookmarks": [
         {
           "url": "http://www.zeichnerdermatology.com/about",
@@ -309,7 +309,7 @@
       "count": 6
     },
     {
-      "name": "reference-and-data",
+      "name": "reference-data",
       "bookmarks": [
         {
           "url": "https://wildlifedashboard.c4ads.org/",
@@ -339,7 +339,7 @@
       "count": 6
     },
     {
-      "name": "shopping-and-products",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://shop.australiazoo.com.au/robert-irwins-australia-photography-book/",
@@ -421,7 +421,7 @@
       "count": 5
     },
     {
-      "name": "legal-and-policy",
+      "name": "legal-policy",
       "bookmarks": [
         {
           "url": "https://www.interruptingcriminalization.com/defundpolice-update",
@@ -461,7 +461,7 @@
       "count": 3
     },
     {
-      "name": "food-and-recipes",
+      "name": "food-recipes",
       "bookmarks": [
         {
           "url": "http://www.ricettepercucinare.com/",

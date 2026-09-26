@@ -4,16 +4,16 @@
       "name": "news-articles",
       "bookmarks": [
         {
-          "url": "https://yle.fi/a/3-11893855",
-          "title": "Atletico Madrid, Inter ja AC Milan tekivät seuraa englantilaisjoukkueille, vetäytyivät Superliigasta | Yle"
-        },
-        {
           "url": "https://www.businessinsider.com/1-in-4-us-workers-plan-new-job-after-coronavirus-pandemic-survey-2021-4",
           "title": "26% US Workers Plan New Job Hunt After COVID-19 Pandemic: Survey - Business Insider"
         },
         {
           "url": "https://www.uncut.co.uk/news/arctic-monkeys-alex-turner-i-want-to-start-writing-follow-up-to-suck-it-and-see-31195/",
           "title": "Arctic Monkeys' Alex Turner: 'I want to start writing follow-up to 'Suck It And See'' - UNCUT"
+        },
+        {
+          "url": "https://yle.fi/a/3-11893855",
+          "title": "Atletico Madrid, Inter ja AC Milan tekivät seuraa englantilaisjoukkueille, vetäytyivät Superliigasta | Yle"
         },
         {
           "url": "https://www.forbes.com.mx/buffett-dona-2000-millones-a-la-gates-foundation/",
@@ -63,7 +63,7 @@
       "count": 14
     },
     {
-      "name": "brands-and-companies",
+      "name": "companies-brands",
       "bookmarks": [
         {
           "url": "https://www.cbs.com",
@@ -199,7 +199,7 @@
       "count": 6
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://support.uptogether.org/hc/en-us",
@@ -273,6 +273,28 @@
       "count": 4
     },
     {
+      "name": "health-services",
+      "bookmarks": [
+        {
+          "url": "https://counsellingonline.org.au",
+          "title": "Counselling Online - free drug and alcohol counselling in Australia"
+        },
+        {
+          "url": "https://sgrh.com/",
+          "title": "Sir Ganga Ram Hospital, Delhi NCR India, Best Multi speciality hospital, Healthcare"
+        },
+        {
+          "url": "https://www.sankaranethralaya.org/",
+          "title": "Welcome to Sankara Nethralaya: India's Largest Super Speciality Eye Care Hospital"
+        },
+        {
+          "url": "http://www.yunkeracupuncture.com/",
+          "title": "Yunkeracupuncture | Wellness | Maplewood NJ"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "reference-data",
       "bookmarks": [
         {
@@ -290,28 +312,6 @@
         {
           "url": "https://csdap.earthdata.nasa.gov/",
           "title": "Satellite Data Explorer"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "services-health",
-      "bookmarks": [
-        {
-          "url": "https://counsellingonline.org.au",
-          "title": "Counselling Online - free drug and alcohol counselling in Australia"
-        },
-        {
-          "url": "https://sgrh.com/",
-          "title": "Sir Ganga Ram Hospital, Delhi NCR India, Best Multi speciality hospital, Healthcare"
-        },
-        {
-          "url": "https://www.sankaranethralaya.org/",
-          "title": "Welcome to Sankara Nethralaya: India's Largest Super Speciality Eye Care Hospital"
-        },
-        {
-          "url": "http://www.yunkeracupuncture.com/",
-          "title": "Yunkeracupuncture | Wellness | Maplewood NJ"
         }
       ],
       "count": 4
@@ -357,7 +357,7 @@
       "count": 3
     },
     {
-      "name": "reference-misc",
+      "name": "misc-reference",
       "bookmarks": [
         {
           "url": "https://yearup.widen.net/s/tmzgd2jt2j/2022-corporate-partner-list-oct-22",
@@ -375,7 +375,7 @@
       "count": 3
     },
     {
-      "name": "science-and-nature",
+      "name": "science-nature",
       "bookmarks": [
         {
           "url": "https://xeno-canto.org/species/Turdus-merula",
@@ -393,7 +393,7 @@
       "count": 3
     },
     {
-      "name": "services-web",
+      "name": "web-services",
       "bookmarks": [
         {
           "url": "https://www.atlantikhome.fr/09/1283606421_Sat_mercado+libre+polvos/",

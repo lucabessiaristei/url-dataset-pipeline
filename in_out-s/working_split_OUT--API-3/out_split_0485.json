@@ -1,212 +1,6 @@
 {
   "folders": [
     {
-      "name": "developer-tools-documentation",
-      "bookmarks": [
-        {
-          "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
-          "title": "3.1. Cross-validation: evaluating estimator performance - scikit-learn 1.7.2 documentation"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
-          "title": "async function - JavaScript | MDN"
-        },
-        {
-          "url": "https://crontab.guru/",
-          "title": "Crontab.guru - The cron schedule expression generator"
-        },
-        {
-          "url": "https://readthedocs.org",
-          "title": "Full featured documentation deployment platform - Read the Docs"
-        },
-        {
-          "url": "http://www.generexe.nl/",
-          "title": "GenerExe IT - Software Development"
-        },
-        {
-          "url": "https://leafletjs.com/examples/quick-start/",
-          "title": "Quick Start Guide - Leaflet - a JavaScript library for interactive maps"
-        },
-        {
-          "url": "https://docs.mapbox.com/#maps",
-          "title": "Mapbox Docs"
-        },
-        {
-          "url": "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/",
-          "title": "Install MongoDB Community Edition - Database Manual - MongoDB Docs"
-        },
-        {
-          "url": "https://www.postgresql.org/docs/current/monitoring-stats.html",
-          "title": "PostgreSQL: Documentation: 18: 27.2. The Cumulative Statistics System"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "education-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.acca-x.com/",
-          "title": "ACCA-X online courses in accounting, business and finance"
-        },
-        {
-          "url": "http://cs.mak.ac.ug/",
-          "title": "Department Of Computer Science | Makerere University"
-        },
-        {
-          "url": "https://kids.nationalgeographic.com",
-          "title": "National Geographic Kids | National Geographic Kids"
-        },
-        {
-          "url": "https://www.militarychild.org/",
-          "title": "Homepage - Military Child Education Coalition® (MCEC®)"
-        },
-        {
-          "url": "https://bulletin.stanford.edu/pages/c7vDgeOuJIfpZe8GKmW3/",
-          "title": "Nondiscrimination Policy | Stanford University Bulletin"
-        },
-        {
-          "url": "https://online.salempress.com/home.do;jsessionid=443B1F74BC31EAAE753BC02CCA864922",
-          "title": "Salem Press"
-        },
-        {
-          "url": "https://www.somaiya.edu/en",
-          "title": "Somaiya Vidyavihar University"
-        },
-        {
-          "url": "https://www.radc.rush.edu/docs/parentStudyDesigns.htm;jsessionid=228FF4F01D85B9C8D3A22EEC666D615D",
-          "title": "Study Design Summaries | RADC"
-        },
-        {
-          "url": "https://title2.ed.gov/Public/Home.aspx",
-          "title": "Title II - Welcome"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "government-policy-international",
-      "bookmarks": [
-        {
-          "url": "https://www.aclu-mn.org/en/press-releases/aclu-mn-responds-supreme-court-ruling-against-restoring-voting-rights-minnesotans",
-          "title": "ACLU-MN RESPONDS TO SUPREME COURT RULING AGAINST RESTORING VOTING RIGHTS TO MINNESOTANS | ACLU of Minnesota"
-        },
-        {
-          "url": "http://www.aclumich.org/article/rejecting-heckler%E2%80%99s-veto",
-          "title": "The Heckler's Veto | ACLU of Michigan"
-        },
-        {
-          "url": "https://caru.bbbprograms.org/seal/Confirmation/346177012",
-          "title": "CARU - CaruSeal"
-        },
-        {
-          "url": "https://www.fdp-koeln.de/politik/kapazit%C3%A4tserweiterung-der-pr-anlage-k%C3%B6nigsforst/antr%C3%A4ge",
-          "title": "Kapazitätserweiterung der P+R-Anlage Königsforst | FDP Köln"
-        },
-        {
-          "url": "https://hlpf.un.org/",
-          "title": "High-Level Political Forum on Sustainable Development"
-        },
-        {
-          "url": "https://riobravo.com.ar/itemlist/tag/dictadura?limit=10&start=10",
-          "title": "Mostrando artículos por etiqueta: dictadura - Río Bravo Entre Ríos"
-        },
-        {
-          "url": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
-          "title": "Passport Seva Home | Indian Passport | Passport | Passport Seva Project"
-        },
-        {
-          "url": "https://www.royal-house.nl/latest/news/2022/04/29/their-majesties-king-willem-alexander-and-queen-maxima-to-travel-california-and-texas-on-economic-working-visit",
-          "title": "Their Majesties King Willem-Alexander and Queen Máxima to travel California and Texas on economic working visit | News item | Royal House of the Netherlands"
-        },
-        {
-          "url": "https://sanctionsexplorer.org/",
-          "title": "Sanctions Explorer"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "organizations-nonprofit-foundations",
-      "bookmarks": [
-        {
-          "url": "https://echoinggreen.org/",
-          "title": "Echoing Green: Funding Social Entrepreneurship & Innovation"
-        },
-        {
-          "url": "https://www.florafamily.org/",
-          "title": "Flora Family Foundation"
-        },
-        {
-          "url": "https://hjweinbergfoundation.org/",
-          "title": "The Harry and Jeanette Weinberg Foundation - The Harry and Jeanette Weinberg Foundation"
-        },
-        {
-          "url": "https://www.linkedin.com/company/family-online-safety-institute",
-          "title": "Family Online Safety Institute | LinkedIn"
-        },
-        {
-          "url": "https://www.minderoo.org/",
-          "title": "Minderoo Foundation"
-        },
-        {
-          "url": "https://www.motorolasolutions.com/en_xu/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html",
-          "title": "Motorola Solutions Foundation - Motorola Solutions EMEA"
-        },
-        {
-          "url": "https://nativegov.org/",
-          "title": "Sovereignty matters. Native Governance Center"
-        },
-        {
-          "url": "https://www.phylliswheatley.org/",
-          "title": "Phyllis Wheatley Community Center"
-        },
-        {
-          "url": "https://www.tobaccofreekids.org/",
-          "title": "Home | Campaign for Tobacco-Free Kids"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "art-design-crafts",
-      "bookmarks": [
-        {
-          "url": "https://craftwork.design/catalog/?_sft_download_category=freebies",
-          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
-        },
-        {
-          "url": "https://www.gereve63.net/collections/beaux-arts/",
-          "title": "Dans les musées - Blocs-photos"
-        },
-        {
-          "url": "https://www.metmuseum.org/art/collection/search/436121",
-          "title": "Edgar Degas - A Woman Seated beside a Vase of Flowers (Madame Paul Valpinçon?) - The Metropolitan Museum of Art"
-        },
-        {
-          "url": "https://glazy.org/articles/understanding-seger-unity",
-          "title": "Glazy"
-        },
-        {
-          "url": "https://www.gnsi.org/",
-          "title": "Guild of Natural Science Illustrators, GNSI"
-        },
-        {
-          "url": "https://www.joyclair.com/collections/only-stamps/products/prayer-warrior",
-          "title": "Prayer Warrior"
-        },
-        {
-          "url": "https://sometimesdrawn.com/2009/12/05/mov-art-of-craft-exhibit-design/",
-          "title": "MOV Art of Craft exhibit design - Kirsti Wakelin"
-        },
-        {
-          "url": "https://www.typographicposters.com/",
-          "title": "typo/graphic posters"
-        }
-      ],
-      "count": 8
-    },
-    {
       "name": "business-finance-tax",
       "bookmarks": [
         {
@@ -218,12 +12,12 @@
           "title": "Bulk downloads | BIS Data Portal"
         },
         {
-          "url": "https://www.handelsblatt.com/finanzen",
-          "title": "Handelsblatt"
-        },
-        {
           "url": "https://www.hightowerspetroleum.com/",
           "title": "Bulk Fuel Delivery | Wholesale Fuel Supplier & Jobber | Hightowers Petroleum"
+        },
+        {
+          "url": "https://www.handelsblatt.com/finanzen",
+          "title": "Handelsblatt"
         },
         {
           "url": "http://www.jobonline.it/",
@@ -253,8 +47,230 @@
       "count": 10
     },
     {
+      "name": "developer-tools-documentation",
+      "bookmarks": [
+        {
+          "url": "https://scikit-learn.org/stable/modules/cross_validation.html",
+          "title": "3.1. Cross-validation: evaluating estimator performance - scikit-learn 1.7.2 documentation"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
+          "title": "async function - JavaScript | MDN"
+        },
+        {
+          "url": "https://crontab.guru/",
+          "title": "Crontab.guru - The cron schedule expression generator"
+        },
+        {
+          "url": "https://readthedocs.org",
+          "title": "Full featured documentation deployment platform - Read the Docs"
+        },
+        {
+          "url": "http://www.generexe.nl/",
+          "title": "GenerExe IT - Software Development"
+        },
+        {
+          "url": "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/",
+          "title": "Install MongoDB Community Edition - Database Manual - MongoDB Docs"
+        },
+        {
+          "url": "https://docs.mapbox.com/#maps",
+          "title": "Mapbox Docs"
+        },
+        {
+          "url": "https://www.postgresql.org/docs/current/monitoring-stats.html",
+          "title": "PostgreSQL: Documentation: 18: 27.2. The Cumulative Statistics System"
+        },
+        {
+          "url": "https://leafletjs.com/examples/quick-start/",
+          "title": "Quick Start Guide - Leaflet - a JavaScript library for interactive maps"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "government-international-policy",
+      "bookmarks": [
+        {
+          "url": "https://www.aclu-mn.org/en/press-releases/aclu-mn-responds-supreme-court-ruling-against-restoring-voting-rights-minnesotans",
+          "title": "ACLU-MN RESPONDS TO SUPREME COURT RULING AGAINST RESTORING VOTING RIGHTS TO MINNESOTANS | ACLU of Minnesota"
+        },
+        {
+          "url": "https://caru.bbbprograms.org/seal/Confirmation/346177012",
+          "title": "CARU - CaruSeal"
+        },
+        {
+          "url": "https://hlpf.un.org/",
+          "title": "High-Level Political Forum on Sustainable Development"
+        },
+        {
+          "url": "https://www.fdp-koeln.de/politik/kapazit%C3%A4tserweiterung-der-pr-anlage-k%C3%B6nigsforst/antr%C3%A4ge",
+          "title": "Kapazitätserweiterung der P+R-Anlage Königsforst | FDP Köln"
+        },
+        {
+          "url": "https://riobravo.com.ar/itemlist/tag/dictadura?limit=10&start=10",
+          "title": "Mostrando artículos por etiqueta: dictadura - Río Bravo Entre Ríos"
+        },
+        {
+          "url": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+          "title": "Passport Seva Home | Indian Passport | Passport | Passport Seva Project"
+        },
+        {
+          "url": "https://sanctionsexplorer.org/",
+          "title": "Sanctions Explorer"
+        },
+        {
+          "url": "http://www.aclumich.org/article/rejecting-heckler%E2%80%99s-veto",
+          "title": "The Heckler's Veto | ACLU of Michigan"
+        },
+        {
+          "url": "https://www.royal-house.nl/latest/news/2022/04/29/their-majesties-king-willem-alexander-and-queen-maxima-to-travel-california-and-texas-on-economic-working-visit",
+          "title": "Their Majesties King Willem-Alexander and Queen Máxima to travel California and Texas on economic working visit | News item | Royal House of the Netherlands"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "organizations-nonprofit-foundations",
+      "bookmarks": [
+        {
+          "url": "https://echoinggreen.org/",
+          "title": "Echoing Green: Funding Social Entrepreneurship & Innovation"
+        },
+        {
+          "url": "https://www.linkedin.com/company/family-online-safety-institute",
+          "title": "Family Online Safety Institute | LinkedIn"
+        },
+        {
+          "url": "https://www.florafamily.org/",
+          "title": "Flora Family Foundation"
+        },
+        {
+          "url": "https://www.tobaccofreekids.org/",
+          "title": "Home | Campaign for Tobacco-Free Kids"
+        },
+        {
+          "url": "https://www.minderoo.org/",
+          "title": "Minderoo Foundation"
+        },
+        {
+          "url": "https://www.motorolasolutions.com/en_xu/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html",
+          "title": "Motorola Solutions Foundation - Motorola Solutions EMEA"
+        },
+        {
+          "url": "https://www.phylliswheatley.org/",
+          "title": "Phyllis Wheatley Community Center"
+        },
+        {
+          "url": "https://nativegov.org/",
+          "title": "Sovereignty matters. Native Governance Center"
+        },
+        {
+          "url": "https://hjweinbergfoundation.org/",
+          "title": "The Harry and Jeanette Weinberg Foundation - The Harry and Jeanette Weinberg Foundation"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "art-design-crafts",
+      "bookmarks": [
+        {
+          "url": "https://craftwork.design/catalog/?_sft_download_category=freebies",
+          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
+        },
+        {
+          "url": "https://www.gereve63.net/collections/beaux-arts/",
+          "title": "Dans les musées - Blocs-photos"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/436121",
+          "title": "Edgar Degas - A Woman Seated beside a Vase of Flowers (Madame Paul Valpinçon?) - The Metropolitan Museum of Art"
+        },
+        {
+          "url": "https://glazy.org/articles/understanding-seger-unity",
+          "title": "Glazy"
+        },
+        {
+          "url": "https://www.gnsi.org/",
+          "title": "Guild of Natural Science Illustrators, GNSI"
+        },
+        {
+          "url": "https://sometimesdrawn.com/2009/12/05/mov-art-of-craft-exhibit-design/",
+          "title": "MOV Art of Craft exhibit design - Kirsti Wakelin"
+        },
+        {
+          "url": "https://www.joyclair.com/collections/only-stamps/products/prayer-warrior",
+          "title": "Prayer Warrior"
+        },
+        {
+          "url": "https://www.typographicposters.com/",
+          "title": "typo/graphic posters"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.acca-x.com/",
+          "title": "ACCA-X online courses in accounting, business and finance"
+        },
+        {
+          "url": "http://cs.mak.ac.ug/",
+          "title": "Department Of Computer Science | Makerere University"
+        },
+        {
+          "url": "https://kids.nationalgeographic.com",
+          "title": "National Geographic Kids | National Geographic Kids"
+        },
+        {
+          "url": "https://bulletin.stanford.edu/pages/c7vDgeOuJIfpZe8GKmW3/",
+          "title": "Nondiscrimination Policy | Stanford University Bulletin"
+        },
+        {
+          "url": "https://online.salempress.com/home.do;jsessionid=443B1F74BC31EAAE753BC02CCA864922",
+          "title": "Salem Press"
+        },
+        {
+          "url": "https://www.somaiya.edu/en",
+          "title": "Somaiya Vidyavihar University"
+        },
+        {
+          "url": "https://www.radc.rush.edu/docs/parentStudyDesigns.htm;jsessionid=228FF4F01D85B9C8D3A22EEC666D615D",
+          "title": "Study Design Summaries | RADC"
+        },
+        {
+          "url": "https://title2.ed.gov/Public/Home.aspx",
+          "title": "Title II - Welcome"
+        }
+      ],
+      "count": 8
+    },
+    {
       "name": "environmental-sustainable-development",
       "bookmarks": [
+        {
+          "url": "https://sustainabledevelopment.un.org/sdg14",
+          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
+        },
+        {
+          "url": "https://rfcx.org/",
+          "title": "Rainforest connection"
+        },
+        {
+          "url": "https://www.nyu.edu/about/news-publications/news/2020/december/satellite-data-identifies-companies-fishing-in-high-seas.html",
+          "title": "Satellite Data Identifies Companies Fishing in High Seas"
+        },
+        {
+          "url": "http://un.org/sdgmediazone",
+          "title": "SDG Media Zone | United Nations"
+        },
+        {
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216819",
+          "title": "Seasonal variability in global industrial fishing effort | PLOS One"
+        },
         {
           "url": "https://www.climate-charter.org/signatures/",
           "title": "Signatures - Climate Charter"
@@ -262,26 +278,6 @@
         {
           "url": "https://www.ecopack.bg/bg",
           "title": "Начало - Екопак"
-        },
-        {
-          "url": "https://www.nyu.edu/about/news-publications/news/2020/december/satellite-data-identifies-companies-fishing-in-high-seas.html",
-          "title": "Satellite Data Identifies Companies Fishing in High Seas"
-        },
-        {
-          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216819",
-          "title": "Seasonal variability in global industrial fishing effort | PLOS One"
-        },
-        {
-          "url": "https://rfcx.org/",
-          "title": "Rainforest connection"
-        },
-        {
-          "url": "https://sustainabledevelopment.un.org/sdg14",
-          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
-        },
-        {
-          "url": "http://un.org/sdgmediazone",
-          "title": "SDG Media Zone | United Nations"
         }
       ],
       "count": 7
@@ -294,12 +290,12 @@
           "title": "Exercise in the prevention of cancer"
         },
         {
-          "url": "https://www.health.mil/News/Authors/m/MHS-Communications",
-          "title": "MHS Communications | Health.mil"
-        },
-        {
           "url": "https://www.militaryonesource.mil/coronavirus/",
           "title": "Health Resources for Prevention & Care | Military OneSource"
+        },
+        {
+          "url": "https://www.health.mil/News/Authors/m/MHS-Communications",
+          "title": "MHS Communications | Health.mil"
         },
         {
           "url": "https://www.projecthealthyminds.com/",
@@ -317,11 +313,45 @@
       "count": 6
     },
     {
-      "name": "news-sports-local",
+      "name": "miscellaneous-web-resources",
+      "bookmarks": [
+        {
+          "url": "https://jobgirls.de/damen-stellen-sich-vor/4-21/",
+          "title": "Arielle | Jobgirls-Gewerblich prostituierte Damen zeigen sich."
+        },
+        {
+          "url": "https://it.spagos.es/",
+          "title": "Home | Spago's"
+        },
+        {
+          "url": "http://appt.ly/privacy-policy",
+          "title": "How to Improve your Baby Photos | HeyBaby.sg"
+        },
+        {
+          "url": "https://blog.slowianskibestiariusz.pl/tag/slowianskie-demony/",
+          "title": "słowiańskie demony - Słowiański Bestiariusz"
+        },
+        {
+          "url": "https://www.mortiseandtenonmag.com/blogs/blog",
+          "title": "The Mortise & Tenon Magazine Blog"
+        },
+        {
+          "url": "https://tunebend.com",
+          "title": "TuneBend"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-local-sports",
       "bookmarks": [
         {
           "url": "http://www.robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device/",
           "title": "\"Bell aims to steal iPhone thunder with limitless data on rival device\""
+        },
+        {
+          "url": "http://www.radioampm.com.ar/2017/10/direcotora-de-turismo.html",
+          "title": "Direcotora de Turismo"
         },
         {
           "url": "https://brigantinenow.com/hooked-on-fishing-this-saturday-july-27/",
@@ -330,10 +360,6 @@
         {
           "url": "https://crickettimes.com/",
           "title": "Latest Cricket News, Live Scores, Schedule, Match Predictions, Fantasy Tips, Dream11 Team, Results, ICC Rankings, Stats, Videos, Podcast & Exclusive Interviews| Cricket Times"
-        },
-        {
-          "url": "http://www.radioampm.com.ar/2017/10/direcotora-de-turismo.html",
-          "title": "Direcotora de Turismo"
         },
         {
           "url": "https://sportsration.com/",
@@ -354,10 +380,6 @@
           "title": "Airspace world"
         },
         {
-          "url": "http://www.rodeohouston.com/",
-          "title": "The Official Houston Livestock Show and Rodeo Website"
-        },
-        {
           "url": "https://www.hkpoint.cz/cs/mista-konani/45-knihovna-mesta-hradce-kralove",
           "title": "Knihovna města Hradce Králové - HKPoint - Vstupenky, předplatné, předprodej"
         },
@@ -370,6 +392,10 @@
           "title": "otel.com"
         },
         {
+          "url": "http://www.rodeohouston.com/",
+          "title": "The Official Houston Livestock Show and Rodeo Website"
+        },
+        {
           "url": "https://tiempo.laopiniondemurcia.es/suecia/lidingo",
           "title": "Tiempo en Lidingo - La Opinión de Murcia"
         }
@@ -377,82 +403,34 @@
       "count": 6
     },
     {
-      "name": "web-platforms-tools",
+      "name": "web-tools-platforms",
       "bookmarks": [
         {
           "url": "https://wallet.google/",
-          "title": "Google Wallet: Il tuo portafortoglio digitale veloce e sicuro"
+          "title": "Google Wallet: Il tuo portafoglio digitale veloce e sicuro"
         },
         {
           "url": "http://www.higherlogic.com",
           "title": "Powerful Online Community Software | Higher Logic"
         },
         {
-          "url": "http://nbc.researchresults.com/?s=639",
-          "title": "Viewers Voice"
+          "url": "https://seniorchatters.co.uk/",
+          "title": "Safe Senior Chat Rooms Online & Over 50s Chatting Site - Senior Chatters"
         },
         {
-          "url": "https://wpml.org",
-          "title": "WPML - The WordPress Multilingual Plugin"
+          "url": "http://nbc.researchresults.com/?s=639",
+          "title": "Viewers Voice"
         },
         {
           "url": "https://wordsmith.social/read/p/2",
           "title": "Wordsmith Reader"
         },
         {
-          "url": "https://seniorchatters.co.uk/",
-          "title": "Safe Senior Chat Rooms Online & Over 50s Chatting Site - Senior Chatters"
+          "url": "https://wpml.org",
+          "title": "WPML - The WordPress Multilingual Plugin"
         }
       ],
       "count": 6
-    },
-    {
-      "name": "ai-ml-tools",
-      "bookmarks": [
-        {
-          "url": "https://www.copy.ai/",
-          "title": "Future proof your business with GTM AI"
-        },
-        {
-          "url": "https://deeplearning.ai/courses/ai-for-everyone/",
-          "title": "AI for Everyone - DeepLearning.AI"
-        },
-        {
-          "url": "https://deepmind.google/discover/blog",
-          "title": "Blog - Google DeepMind"
-        },
-        {
-          "url": "https://instantly.ai/#Testimonials",
-          "title": "Instantly.ai - Sales Engagement & Lead Intelligence"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment-media-news",
-      "bookmarks": [
-        {
-          "url": "https://www.bravotv.com/the-daily-dish/rhonj-is-gia-giudice-still-dating-her-boyfriend-christian-carmichael",
-          "title": "RHONJ: Is Gia Giudice Still Dating Her Boyfriend Christian Carmichael?"
-        },
-        {
-          "url": "https://extratv.com/2023/02/28/michael-b-jordan-talks-directing-creed-iii-while-co-stars-react-to-calvin-klein-ad-exclusive/",
-          "title": "Michael B. Jordan's 'Creed III' Co-Stars React to Calvin Klein Ad (Exclusive)"
-        },
-        {
-          "url": "https://sixonbroadway.com/",
-          "title": "Home - SIX on Broadway"
-        },
-        {
-          "url": "https://www.twitch.tv/mozillahubs",
-          "title": "Twitch"
-        },
-        {
-          "url": "https://www.xumo.tv/",
-          "title": "Xumo Play"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "hobbies-interests",
@@ -481,19 +459,67 @@
       "count": 5
     },
     {
-      "name": "marketing-design-tools",
+      "name": "news-media-entertainment",
       "bookmarks": [
         {
-          "url": "https://www.eventbrite.ca/e/search-engine-optimization-for-small-businesses-tickets-537752621567?aff=erelexpmlt",
-          "title": "Search Engine Optimization for Small Businesses Tickets, Wed, 15 Mar 2023 at 10:00 AM | Eventbrite"
+          "url": "https://sixonbroadway.com/",
+          "title": "Home - SIX on Broadway"
+        },
+        {
+          "url": "https://extratv.com/2023/02/28/michael-b-jordan-talks-directing-creed-iii-while-co-stars-react-to-calvin-klein-ad-exclusive/",
+          "title": "Michael B. Jordan's 'Creed III' Co-Stars React to Calvin Klein Ad (Exclusive)"
+        },
+        {
+          "url": "https://www.bravotv.com/the-daily-dish/rhonj-is-gia-giudice-still-dating-her-boyfriend-christian-carmichael",
+          "title": "RHONJ: Is Gia Giudice Still Dating Her Boyfriend Christian Carmichael?"
+        },
+        {
+          "url": "https://www.twitch.tv/mozillahubs",
+          "title": "Twitch"
+        },
+        {
+          "url": "https://www.xumo.tv/",
+          "title": "Xumo Play"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "ai-ml-tools",
+      "bookmarks": [
+        {
+          "url": "https://deeplearning.ai/courses/ai-for-everyone/",
+          "title": "AI for Everyone - DeepLearning.AI"
+        },
+        {
+          "url": "https://deepmind.google/discover/blog",
+          "title": "Blog - Google DeepMind"
+        },
+        {
+          "url": "https://www.copy.ai/",
+          "title": "Future proof your business with GTM AI"
+        },
+        {
+          "url": "https://instantly.ai/#Testimonials",
+          "title": "Instantly.ai - Sales Engagement & Lead Intelligence"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "design-marketing-tools",
+      "bookmarks": [
+        {
+          "url": "https://refactoringui.com/previews/building-your-color-palette/",
+          "title": "Building Your Color Palette - Refactoring UI"
         },
         {
           "url": "https://www.postermywall.com/index.php/email/templates/all/all/all?utm_source=nav&utm_content=allemailtemplates&utm_medium=link&utm_campaign=emailtemplategallerynav",
           "title": "Free Email Templates, Responsive With Easy Editing | PosterMyWall"
         },
         {
-          "url": "https://refactoringui.com/previews/building-your-color-palette/",
-          "title": "Building Your Color Palette - Refactoring UI"
+          "url": "https://www.eventbrite.ca/e/search-engine-optimization-for-small-businesses-tickets-537752621567?aff=erelexpmlt",
+          "title": "Search Engine Optimization for Small Businesses Tickets, Wed, 15 Mar 2023 at 10:00 AM | Eventbrite"
         },
         {
           "url": "https://typescale.io/",
@@ -501,36 +527,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "miscellaneous-web-resources",
-      "bookmarks": [
-        {
-          "url": "http://appt.ly/privacy-policy",
-          "title": "How to Improve your Baby Photos | HeyBaby.sg"
-        },
-        {
-          "url": "https://jobgirls.de/damen-stellen-sich-vor/4-21/",
-          "title": "Arielle | Jobgirls-Gewerblich prostituierte Damen zeigen sich."
-        },
-        {
-          "url": "https://it.spagos.es/",
-          "title": "Home | Spago's"
-        },
-        {
-          "url": "https://blog.slowianskibestiariusz.pl/tag/slowianskie-demony/",
-          "title": "słowiańskie demony - Słowiański Bestiariusz"
-        },
-        {
-          "url": "https://www.mortiseandtenonmag.com/blogs/blog",
-          "title": "The Mortise & Tenon Magazine Blog"
-        },
-        {
-          "url": "https://tunebend.com",
-          "title": "TuneBend"
-        }
-      ],
-      "count": 6
     },
     {
       "name": "cooking-recipes",
@@ -576,12 +572,12 @@
           "title": "Indian Accessories Online - Buy Women & Girls Designer Ethnic Fashion Accessories - Indya"
         },
         {
-          "url": "https://www.eloquii.com/",
-          "title": "Plus size Clothing, Dresses, Skirts, Suits, Tops, Jeans and Pants for Women | ELOQUII"
-        },
-        {
           "url": "https://qvc.uikc.net/c/249354/565130/9368?subId1=PEOTheseSculptingJeansOnceGracedOprahsFavoriteThingsListandTheyreonSaleforJustaLittleLongermsapozhnikovFasAff13922534202302I&u=https%3A%2F%2Fwww.qvc.com%2Fproduct.A564775.html",
           "title": "NYDJ Sculpt Her Denim Pull-On Straight Jeans - QVC.com"
+        },
+        {
+          "url": "https://www.eloquii.com/",
+          "title": "Plus size Clothing, Dresses, Skirts, Suits, Tops, Jeans and Pants for Women | ELOQUII"
         }
       ],
       "count": 3
@@ -594,17 +590,17 @@
           "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
         },
         {
-          "url": "https://www.myvanilladebitcard.com/myvanilla/static/pdf/MyVanilla_Privacy_Policy_ENG.pdf",
-          "title": "Pardon Our Interruption"
-        },
-        {
           "url": "https://www.ywcaofcleveland.org/about-ywca-cleveland/meet-our-president-ceo/",
           "title": "Our Team - YWCA Greater Cleveland | YWCA Greater Cleveland"
+        },
+        {
+          "url": "https://www.myvanilladebitcard.com/myvanilla/static/pdf/MyVanilla_Privacy_Policy_ENG.pdf",
+          "title": "Pardon Our Interruption"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 69,
-  "num_folders": 19
+  "total_bookmarks": 120,
+  "num_folders": 20
 }

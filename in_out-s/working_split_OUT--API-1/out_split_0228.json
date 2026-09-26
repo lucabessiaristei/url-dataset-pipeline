@@ -1,36 +1,6 @@
 {
   "folders": [
     {
-      "name": "business-corporate",
-      "bookmarks": [
-        {
-          "url": "https://www.ey.com/en_us",
-          "title": "EY - US | Shape the future with confidence"
-        },
-        {
-          "url": "http://lightningstrikestudios.com/",
-          "title": "Home - LightningStrike Studios"
-        },
-        {
-          "url": "http://www.usblackchambers.org/certification",
-          "title": "ByBlack Certification"
-        },
-        {
-          "url": "https://www.maxar.com/one-maxar",
-          "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
-        },
-        {
-          "url": "https://www.vizzuality.com/",
-          "title": "Vizzuality"
-        },
-        {
-          "url": "https://www.nationalgrid.com/",
-          "title": "Welcome to National Grid Group"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "design-dev",
       "bookmarks": [
         {
@@ -46,6 +16,10 @@
           "title": "Cleanup.pictures - Remove objects, people, text and defects from any picture for free"
         },
         {
+          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
+          "title": "Como sites lentos impactam meu negócio? - GoCache"
+        },
+        {
           "url": "http://www.filegate.net/",
           "title": "Filegate.html"
         },
@@ -56,10 +30,6 @@
         {
           "url": "https://jfathersdesign.com/muster",
           "title": "Joshua Fathers Graphic Design - Muster"
-        },
-        {
-          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
-          "title": "Como sites lentos impactam meu negócio? - GoCache"
         }
       ],
       "count": 7
@@ -72,16 +42,16 @@
           "title": "Conoco Phillips Center for a Sustainable WE2ST - ConocoPhillips Center for a Sustainable WE2ST"
         },
         {
+          "url": "https://plos.org/resources/editor-center",
+          "title": "Editor Center - PLOS"
+        },
+        {
           "url": "https://rebeccarhodes.teachable.com/courses/how-to-paint-a-pet-portrait-from-beginning-to-end/lectures/34382851",
           "title": "Introduction, Goals | Watercolors with Rebecca Rhodes"
         },
         {
           "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
           "title": "Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare"
-        },
-        {
-          "url": "https://plos.org/resources/editor-center",
-          "title": "Editor Center - PLOS"
         },
         {
           "url": "https://authors.apple.com",
@@ -99,41 +69,7 @@
       "count": 7
     },
     {
-      "name": "events-planning",
-      "bookmarks": [
-        {
-          "url": "https://alexandria.dk/nb/data?con=1295",
-          "title": "Borås Spelkonvent 27 (2009) - Alexandria"
-        },
-        {
-          "url": "https://www.eventbrite.ie/e/coursera-x-grow-with-google-career-certificates-learner-webinar-registration-483109592797?aff=erelexpmlt",
-          "title": "Coursera x Grow with Google - Career Certificates Learner Webinar Registration, Thu 2 Mar 2023 at 16:00 | Eventbrite"
-        },
-        {
-          "url": "https://bilete.cfrcalatori.ro/en-GB/Itineraries",
-          "title": "Itineraries + buy - CFR Călători online tickets"
-        },
-        {
-          "url": "https://makethefuturesummit.org",
-          "title": "Make the Future Summit | March 28-30, 2022"
-        },
-        {
-          "url": "https://www.unworldoceansday.org/index.php/",
-          "title": "Homepage - United Nations World Oceans Day"
-        },
-        {
-          "url": "https://info.uptogether.org/infosession/general",
-          "title": "UpTogether Info Session 2021 | UpTogether"
-        },
-        {
-          "url": "https://www.eventbrite.co.uk/e/using-data-to-make-business-decisions-using-patrwmio-tickets-517639833677?aff=erelexpmlt",
-          "title": "Using data to make business decisions using Patrwm.io Tickets, Wed 15 Mar 2023 at 18:00 | Eventbrite"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://justbecausebook.com/",
@@ -167,6 +103,70 @@
       "count": 7
     },
     {
+      "name": "events-planning",
+      "bookmarks": [
+        {
+          "url": "https://alexandria.dk/nb/data?con=1295",
+          "title": "Borås Spelkonvent 27 (2009) - Alexandria"
+        },
+        {
+          "url": "https://www.eventbrite.ie/e/coursera-x-grow-with-google-career-certificates-learner-webinar-registration-483109592797?aff=erelexpmlt",
+          "title": "Coursera x Grow with Google - Career Certificates Learner Webinar Registration, Thu 2 Mar 2023 at 16:00 | Eventbrite"
+        },
+        {
+          "url": "https://www.unworldoceansday.org/index.php/",
+          "title": "Homepage - United Nations World Oceans Day"
+        },
+        {
+          "url": "https://bilete.cfrcalatori.ro/en-GB/Itineraries",
+          "title": "Itineraries + buy - CFR Călători online tickets"
+        },
+        {
+          "url": "https://makethefuturesummit.org",
+          "title": "Make the Future Summit | March 28-30, 2022"
+        },
+        {
+          "url": "https://info.uptogether.org/infosession/general",
+          "title": "UpTogether Info Session 2021 | UpTogether"
+        },
+        {
+          "url": "https://www.eventbrite.co.uk/e/using-data-to-make-business-decisions-using-patrwmio-tickets-517639833677?aff=erelexpmlt",
+          "title": "Using data to make business decisions using Patrwm.io Tickets, Wed 15 Mar 2023 at 18:00 | Eventbrite"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "http://www.usblackchambers.org/certification",
+          "title": "ByBlack Certification"
+        },
+        {
+          "url": "https://www.ey.com/en_us",
+          "title": "EY - US | Shape the future with confidence"
+        },
+        {
+          "url": "http://lightningstrikestudios.com/",
+          "title": "Home - LightningStrike Studios"
+        },
+        {
+          "url": "https://www.maxar.com/one-maxar",
+          "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
+        },
+        {
+          "url": "https://www.vizzuality.com/",
+          "title": "Vizzuality"
+        },
+        {
+          "url": "https://www.nationalgrid.com/",
+          "title": "Welcome to National Grid Group"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "government-services",
       "bookmarks": [
         {
@@ -197,7 +197,7 @@
       "count": 6
     },
     {
-      "name": "hobby-interests",
+      "name": "hobbies-interests",
       "bookmarks": [
         {
           "url": "https://sharonsloan.org/2009/09/annual-all-fun-no-chores-day/",
@@ -218,6 +218,32 @@
         {
           "url": "http://www.di.fc.ul.pt/~jpn/gv/",
           "title": "The World of Abstract Games"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "misc-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b507760d-76bc-11ec-8922-7374547a4a4a&url=L2FwcHMvbmV3cz9waWQ9d2FzaGluZ3RvbnN0b3J5JnNpZD1hZUVBQkJOeGZzQ3M=",
+          "title": "Bloomberg - Are you a robot?"
+        },
+        {
+          "url": "http://dabdeveloper.wixsite.com/dabdeveloper/contact",
+          "title": "Contact | dabdeveloper"
+        },
+        {
+          "url": "https://helionsf.ro/2019/09/stiri-sf/evenimente/festivalul-flight-un-pas-inainte-pentru-timisoara/attachment/img_5566/",
+          "title": "IMG_5566 | Helion Online"
+        },
+        {
+          "url": "https://panerabread.wgiftcard.com/responsive/personalize_responsive/chooseDesign/panerabread/1",
+          "title": "Radware Bot Manager Captcha"
+        },
+        {
+          "url": "https://lounge.nintendo.com/redirect/support",
+          "title": "Region & Language Selector - Support Site"
         }
       ],
       "count": 5
@@ -249,15 +275,15 @@
       "count": 5
     },
     {
-      "name": "products-shopping",
+      "name": "shopping-products",
       "bookmarks": [
-        {
-          "url": "https://www.elitegymnastics.co.uk/collections/womens-leotards",
-          "title": "Gymnastics Leotards for Girls | Girls Leotards for Gymnastics | Girls Gymnastics Leotards uk"
-        },
         {
           "url": "https://www.paypal-gifts.com/us/brands/google-play.html",
           "title": "Google Play Gift Card: Buy, Access Games & Apps | PayPal US"
+        },
+        {
+          "url": "https://www.elitegymnastics.co.uk/collections/womens-leotards",
+          "title": "Gymnastics Leotards for Girls | Girls Leotards for Gymnastics | Girls Gymnastics Leotards uk"
         },
         {
           "url": "https://www.hendersonmowers.com.au/brands/rover-mowers-log-splitters-spare-parts-lawn-tillers-rotary-hoes/ride-on-mowers-tractors-ballarat-lawn/display/11199-rover-rancher-547-42-ride-on-mower/",
@@ -270,32 +296,6 @@
         {
           "url": "https://www.corneliajames.com/en-us/products/melissa-long-velvet-glove",
           "title": "Velvet Opera Gloves - Melissa"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "uncategorized-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b507760d-76bc-11ec-8922-7374547a4a4a&url=L2FwcHMvbmV3cz9waWQ9d2FzaGluZ3RvbnN0b3J5JnNpZD1hZUVBQkJOeGZzQ3M=",
-          "title": "Bloomberg - Are you a robot?"
-        },
-        {
-          "url": "http://dabdeveloper.wixsite.com/dabdeveloper/contact",
-          "title": "Contact | dabdeveloper"
-        },
-        {
-          "url": "https://helionsf.ro/2019/09/stiri-sf/evenimente/festivalul-flight-un-pas-inainte-pentru-timisoara/attachment/img_5566/",
-          "title": "IMG_5566 | Helion Online"
-        },
-        {
-          "url": "https://panerabread.wgiftcard.com/responsive/personalize_responsive/chooseDesign/panerabread/1",
-          "title": "Radware Bot Manager Captcha"
-        },
-        {
-          "url": "https://lounge.nintendo.com/redirect/support",
-          "title": "Region & Language Selector - Support Site"
         }
       ],
       "count": 5
@@ -318,6 +318,28 @@
         {
           "url": "https://tools.totaleconomicimpact.com/go/Apple/TEI/",
           "title": "The Total Economic Impact™ Of Mac In Enterprise"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "environment-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://www.closedlooppartners.com/beyond-the-bag/",
+          "title": "Beyond the Bag - Closed Loop Partners"
+        },
+        {
+          "url": "https://www.blueprosperity.org",
+          "title": "Blue Prosperity Coalition | Global Network Advancing Sustainable Ocean Management"
+        },
+        {
+          "url": "http://www.erp-recycling.de",
+          "title": "Home - Über die European Recycling Platform - Germany (DE)"
+        },
+        {
+          "url": "https://otga.wufoo.com/forms/z1s9qpjo025j40t/",
+          "title": "Implementing the Ocean Data and Information System"
         }
       ],
       "count": 4
@@ -389,42 +411,6 @@
       "count": 4
     },
     {
-      "name": "sustainability-environment",
-      "bookmarks": [
-        {
-          "url": "https://www.closedlooppartners.com/beyond-the-bag/",
-          "title": "Beyond the Bag - Closed Loop Partners"
-        },
-        {
-          "url": "https://www.blueprosperity.org",
-          "title": "Blue Prosperity Coalition | Global Network Advancing Sustainable Ocean Management"
-        },
-        {
-          "url": "http://www.erp-recycling.de",
-          "title": "Home - Über die European Recycling Platform - Germany (DE)"
-        },
-        {
-          "url": "https://otga.wufoo.com/forms/z1s9qpjo025j40t/",
-          "title": "Implementing the Ocean Data and Information System"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "blog-personal",
-      "bookmarks": [
-        {
-          "url": "https://sabiyamalbari11.tumblr.com/",
-          "title": "Sabiya malbari"
-        },
-        {
-          "url": "https://rxhaellsk.tumblr.com/",
-          "title": "💀"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "health-wellness",
       "bookmarks": [
         {
@@ -450,12 +436,12 @@
           "title": "17-29-018 | CIE"
         },
         {
-          "url": "https://www.raps.org/news-and-articles/news-articles?DocumentTags=Labeling",
-          "title": "Regulatory Affairs Professionals Society | RAPS"
-        },
-        {
           "url": "https://www.research4life.org/access/eligibility/",
           "title": "Eligibility for access to Research4Life - Research4Life"
+        },
+        {
+          "url": "https://www.raps.org/news-and-articles/news-articles?DocumentTags=Labeling",
+          "title": "Regulatory Affairs Professionals Society | RAPS"
         }
       ],
       "count": 3
@@ -470,6 +456,20 @@
         {
           "url": "http://www.aprilia.com/",
           "title": "Moto e Scooter: Urban e Adventure Experience | Aprilia IT"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://sabiyamalbari11.tumblr.com/",
+          "title": "Sabiya malbari"
+        },
+        {
+          "url": "https://rxhaellsk.tumblr.com/",
+          "title": "💀"
         }
       ],
       "count": 2

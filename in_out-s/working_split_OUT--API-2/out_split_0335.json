@@ -1,203 +1,77 @@
 {
   "folders": [
     {
-      "name": "recipes-cooking",
-      "bookmarks": [
-        {
-          "url": "https://germanabendbrot.de/2017/07/28/friday-night-dinner-date-lamm-kichererbsen-und-ras-el-hanout/",
-          "title": "Friday Night Dinner Date: Lamm, Kichererbsen und Ras el Hanout - Germanabendbrot"
-        },
-        {
-          "url": "https://www.bbcgoodfood.com/recipes/ultimate-chocolate-cake",
-          "title": "Moist chocolate cake recipe | Good Food"
-        },
-        {
-          "url": "http://www.ininternet.org/ricette_cucina.htm",
-          "title": "Ricette di cucina prese dal ricettario italiano di culinaria"
-        },
-        {
-          "url": "https://hebbarskitchen.com/",
-          "title": "Hebbars Kitchen - Indian Veg Recipes | Vegetarian Indian Recipes blog"
-        },
-        {
-          "url": "https://greenkitchenstories.com/",
-          "title": "Green Kitchen Stories - Healthy Vegetarian Family Recipes"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "privacy-policies",
-      "bookmarks": [
-        {
-          "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
-          "title": "void"
-        },
-        {
-          "url": "http://store.steampowered.com/privacy_agreement/",
-          "title": "Privacy Policy Agreement"
-        },
-        {
-          "url": "https://www.termsfeed.com/live/600c73e8-1226-430e-ace9-8d5272c9c705",
-          "title": "Privacy Policy for Omnitrix for Apple Watch - TermsFeed"
-        },
-        {
-          "url": "https://squeakosaurus.com/privacy-policy",
-          "title": "Privacy Policy - Squeakosaurus Squeakosaurus"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "news-media",
       "bookmarks": [
         {
-          "url": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/",
-          "title": "Milwaukee man dies in an avalanche while on vacation in Wyoming"
-        },
-        {
-          "url": "https://www.dallasnews.com/news/politics/2021/12/28/texas-new-election-law-challenged-over-provision-making-it-a-crime-to-encourage-voting-by-mail/",
-          "title": "Texas' new election law challenged over provision making it a crime to encourage voting by mail"
-        },
-        {
-          "url": "http://msnlatino.telemundo.com/contact_us",
-          "title": "Telemundo | Noticias, Shows, Entretenimiento, Series y Novelas | Telemundo"
-        },
-        {
-          "url": "https://www.liverpoolecho.co.uk/",
-          "title": "Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on"
+          "url": "https://blogs.worldbank.org/opendata/chart-globally-70-freshwater-used-agriculture",
+          "title": "Chart: Globally, 70% of Freshwater is Used for Agriculture"
         },
         {
           "url": "https://brigantinenow.com/hooked-on-fishing-this-saturday-july-27/",
           "title": "Hooked on Fishing This Saturday, July 27 - BrigantineNOW"
         },
         {
-          "url": "http://www.cosmopolitan.co.uk/entertainment/news/a34598/idris-elba-dad-quotes-winston-isan/",
-          "title": "What Idris Elba has to say about being a dad will melt your heart"
+          "url": "https://www.liverpoolecho.co.uk/",
+          "title": "Liverpool Echo: Latest Liverpool and Merseyside news, sports and what's on"
         },
         {
-          "url": "https://www.people.com/tag/marlon-brando/",
+          "url": "http://www.people.com/tag/marlon-brando/",
           "title": "Marlon Brando"
         },
         {
-          "url": "https://blogs.worldbank.org/opendata/chart-globally-70-freshwater-used-agriculture",
-          "title": "Chart: Globally, 70% of Freshwater is Used for Agriculture"
+          "url": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/",
+          "title": "Milwaukee man dies in an avalanche while on vacation in Wyoming"
+        },
+        {
+          "url": "http://msnlatino.telemundo.com/contact_us",
+          "title": "Telemundo | Noticias, Shows, Entretenimiento, Series y Novelas | Telemundo"
+        },
+        {
+          "url": "https://www.dallasnews.com/news/politics/2021/12/28/texas-new-election-law-challenged-over-provision-making-it-a-crime-to-encourage-voting-by-mail/",
+          "title": "Texas' new election law challenged over provision making it a crime to encourage voting by mail"
+        },
+        {
+          "url": "http://www.cosmopolitan.co.uk/entertainment/news/a34598/idris-elba-dad-quotes-winston-isan/",
+          "title": "What Idris Elba has to say about being a dad will melt your heart"
         }
       ],
       "count": 8
     },
     {
-      "name": "educational-kids",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "http://kindness.sesamestreet.org",
-          "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
-        },
-        {
-          "url": "https://www.smarttales.app",
-          "title": "Smart Tales: Learning App for Kids | Math & Reading Games"
-        },
-        {
-          "url": "https://sesamo.com/cuidandonos/index.html",
-          "title": "Cuidándonos unos a otros | Sésamo"
-        },
-        {
-          "url": "https://kahoot.it/challenge/007996792",
-          "title": "Kahoot!"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "programming-tools",
-      "bookmarks": [
-        {
-          "url": "https://go.dev/tour/welcome/1",
-          "title": "A Tour of Go"
-        },
-        {
-          "url": "https://electronjs.org/docs/latest",
-          "title": "Introduction | Electron"
-        },
-        {
-          "url": "https://mlflow.org/docs/latest/python_api/mlflow.sklearn.html",
-          "title": "mlflow.sklearn"
-        },
-        {
-          "url": "https://www.desmos.com/3d",
-          "title": "Desmos | 3D Graphing Calculator"
-        },
-        {
-          "url": "https://clipbucket.com",
-          "title": "ClipBucket - Open Source, VOD, OTT, Enterprise Video Hosting & Management Solution"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "organizations-nonprofits",
-      "bookmarks": [
-        {
-          "url": "http://horizonschildren.org/",
-          "title": "Horizons For Homeless Children | Volunteer Opportunities Boston"
-        },
-        {
-          "url": "http://hope-community.org/",
-          "title": "Hope Community - Strengthening the power of communities."
-        },
-        {
-          "url": "https://www.youthbusiness.org/",
-          "title": "Youth Business International - Youth Business International"
-        },
-        {
-          "url": "https://www.carolina-loving-hound-rescue.com/",
-          "title": "Contact Us"
-        },
-        {
-          "url": "https://procartoonists.org/awards-success-for-pco-members/",
-          "title": "Awards Success for PCO Members - Professional Cartoonists Organisation"
-        },
-        {
-          "url": "https://www.kg-nirmernarrenzunft.de/2012/01/28/stadtgarde-herzogenrath-2012/",
-          "title": "Stadtgarde Herzogenrath 2012 - KG Nirmer Narrenzunft 1954 e.V."
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "ecommerce-shopping",
-      "bookmarks": [
-        {
-          "url": "https://www.moje-siti.cz/strojove-jehly-schmetz/jehly-strojove-705-h-universal-90-14/",
-          "title": "Jehly strojové 705 H UNIVERSAL 90/14 - Moje šití"
+          "url": "https://www.artbazaar.com/publisher/art-101-usa/",
+          "title": "Art 101 USA Archives - Art Bazaar"
         },
         {
           "url": "https://www.bolkplants.nl/product/1501192/potgrond",
           "title": "bolkplants"
         },
         {
-          "url": "https://www.streetracer.cz/damske-kozene-moto-kalhoty-vyprodej/",
-          "title": "Kožené , Výprodej | StreetRacer.cz"
+          "url": "https://www.eopticon.ro/rame-de-ochelari/rama-de-ochelari-luca-ls001-1.html",
+          "title": "Cumpara ochelari de vedere incepand de la 57,80 RON"
         },
         {
           "url": "https://www.freepeople.com/shop/hailey-dress2/?color=066&type=REGULAR&quantity=1",
           "title": "Hailey Dress | Free People"
         },
         {
-          "url": "https://www.dsw.com/en/us/product/vince-camuto-aimery-sandal/535385?activeColor=040",
-          "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW"
+          "url": "https://www.moje-siti.cz/strojove-jehly-schmetz/jehly-strojove-705-h-universal-90-14/",
+          "title": "Jehly strojové 705 H UNIVERSAL 90/14 - Moje šití"
         },
         {
-          "url": "https://www.eopticon.ro/rame-de-ochelari/rama-de-ochelari-luca-ls001-1.html",
-          "title": "Cumpara ochelari de vedere incepand de la 57,80 RON"
+          "url": "https://www.streetracer.cz/damske-kozene-moto-kalhoty-vyprodej/",
+          "title": "Kožené , Výprodej | StreetRacer.cz"
         },
         {
           "url": "https://www.retro-darky.cz/plechova-retro-cedule-plakat-prazska-kolbovka/",
           "title": "Plechová retro cedule - Pražská Kolbovka - retro-darky.cz"
         },
         {
-          "url": "https://www.artbazaar.com/publisher/art-101-usa/",
-          "title": "Art 101 USA Archives - Art Bazaar"
+          "url": "https://www.dsw.com/en/us/product/vince-camuto-aimery-sandal/535385?activeColor=040",
+          "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW"
         }
       ],
       "count": 8
@@ -206,46 +80,140 @@
       "name": "business-services",
       "bookmarks": [
         {
-          "url": "https://www.thebearchitects.com/",
-          "title": "The Behavioural Architects: Global Insight, Research and Consultancy"
+          "url": "https://www.kimmo.co.za/about.php",
+          "title": "About Us | Packaging Specialists | Kimmo"
         },
         {
-          "url": "https://majestic.com/",
-          "title": "SEO Backlink Checker & Link Building Toolset | Majestic.com"
+          "url": "https://securustech.net/contact-us",
+          "title": "Contact Us - Securus Technologies"
         },
         {
           "url": "https://www.emploimedecin.com/offres-emploi/detail/878844/medecin-generaliste/jobergroup/amiens/cdi",
           "title": "Offres d'emploi médicales : médecin, pharmacien, chirurgien..."
         },
         {
-          "url": "https://www.kimmo.co.za/about.php",
-          "title": "About Us | Packaging Specialists | Kimmo"
-        },
-        {
-          "url": "https://execed.economist.com",
-          "title": "void"
-        },
-        {
           "url": "https://hccundc.de/partner/",
           "title": "Partner - HCC&C"
         },
         {
-          "url": "https://securustech.net/contact-us",
-          "title": "Contact Us - Securus Technologies"
+          "url": "https://majestic.com/",
+          "title": "SEO Backlink Checker & Link Building Toolset | Majestic.com"
+        },
+        {
+          "url": "https://www.thebearchitects.com/",
+          "title": "The Behavioural Architects: Global Insight, Research and Consultancy"
+        },
+        {
+          "url": "https://execed.economist.com",
+          "title": "void"
         }
       ],
       "count": 7
     },
     {
+      "name": "personal-websites",
+      "bookmarks": [
+        {
+          "url": "https://kosturanov.com/books/a-star-called-slavica",
+          "title": "A Star Called Slavica - Book Illustrated by Vane Kosturanov"
+        },
+        {
+          "url": "https://alex-warner.com/",
+          "title": "Alex Warner"
+        },
+        {
+          "url": "http://www.arlenealda.com/AboutTheAuthor.html",
+          "title": "Arlene Alda Author and Photographer"
+        },
+        {
+          "url": "https://doughenningproject.com/2020/09/17/happy-belated-birthday-david-copperfield/",
+          "title": "Happy Belated Birthday David Copperfield! - THE DOUG HENNING PROJECT"
+        },
+        {
+          "url": "http://gailly.net/",
+          "title": "Jean-loup's home page"
+        },
+        {
+          "url": "https://www.marcvanzeeland.nl/tag/lichtenvoorde/",
+          "title": "lichtenvoorde - marc-van-zeeland"
+        },
+        {
+          "url": "http://www.photopreneur.com/",
+          "title": "Photopreneur - Photography Books, Photography ebooks and Photography Courses"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://procartoonists.org/awards-success-for-pco-members/",
+          "title": "Awards Success for PCO Members - Professional Cartoonists Organisation"
+        },
+        {
+          "url": "https://www.carolina-loving-hound-rescue.com/",
+          "title": "Contact Us"
+        },
+        {
+          "url": "http://hope-community.org/",
+          "title": "Hope Community - Strengthening the power of communities."
+        },
+        {
+          "url": "http://horizonschildren.org/",
+          "title": "Horizons For Homeless Children | Volunteer Opportunities Boston"
+        },
+        {
+          "url": "https://www.kg-nirmernarrenzunft.de/2012/01/28/stadtgarde-herzogenrath-2012/",
+          "title": "Stadtgarde Herzogenrath 2012 - KG Nirmer Narrenzunft 1954 e.V."
+        },
+        {
+          "url": "https://www.youthbusiness.org/",
+          "title": "Youth Business International - Youth Business International"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "technology-engineering",
+      "bookmarks": [
+        {
+          "url": "http://cie.co.at/eilvterm/17-29-018",
+          "title": "17-29-018 | CIE"
+        },
+        {
+          "url": "http://www.cee.psu.edu",
+          "title": "Civil and Environmental Engineering Department | Penn State Engineering"
+        },
+        {
+          "url": "https://www.planet.com/pulse/introducing-planetary-variables-soil-water-content-land-surface-temperature-and-vegetation-biomass/",
+          "title": "Introducing Planetary Variables: Soil Water Content, Land Surface Temperature, and Vegetation Biomass"
+        },
+        {
+          "url": "https://www.earth.tu-berlin.de/menue/service/parameter/maxhilfe/",
+          "title": "Satellitengeodäsie - TU Berlin"
+        },
+        {
+          "url": "https://flugbetrieb.com/flugplatz/Montabaur-montabaur/",
+          "title": "VFRnav - VFR Flugnavigation und Moving-Map für Android"
+        },
+        {
+          "url": "https://eogdata.mines.edu/products/vbd/",
+          "title": "VIIRS Boat Detection"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "travel-events",
       "bookmarks": [
         {
-          "url": "http://www.sailacrossthesun.com/",
-          "title": "Sail Across the Sun"
-        },
-        {
           "url": "https://www.ryanair.com/gb/en/useful-info/help-centre/faq-overview/baggage",
           "title": "Book cheap flights using Fare Finder | Ryanair"
+        },
+        {
+          "url": "https://www.fernandoremedio.com.br/portfolio/casamento/86618-fotos-casamento-casal-brunna-e-willians-americana-sp-fotografo-fernando-remedio-americana-sao-paulo",
+          "title": "Casamento - Brunna & Willians - Americana-SP"
         },
         {
           "url": "https://www.tacobell.co.in/",
@@ -256,30 +224,152 @@
           "title": "Redirect page for inactive events"
         },
         {
-          "url": "https://www.louvre.fr/visiter",
-          "title": "Visiter - L'essentiel pour préparer votre visite"
+          "url": "http://www.sailacrossthesun.com/",
+          "title": "Sail Across the Sun"
         },
         {
-          "url": "https://www.fernandoremedio.com.br/portfolio/casamento/86618-fotos-casamento-casal-brunna-e-willians-americana-sp-fotografo-fernando-remedio-americana-sao-paulo",
-          "title": "Casamento - Brunna & Willians - Americana-SP"
+          "url": "https://www.louvre.fr/visiter",
+          "title": "Visiter - L'essentiel pour préparer votre visite"
         }
       ],
       "count": 6
     },
     {
-      "name": "security-privacy",
+      "name": "cooking-recipes",
       "bookmarks": [
         {
-          "url": "https://www.social-engineer.org/framework/attack-vectors/phishing-attacks-2/",
-          "title": "Phishing - Security Through Education"
+          "url": "https://germanabendbrot.de/2017/07/28/friday-night-dinner-date-lamm-kichererbsen-und-ras-el-hanout/",
+          "title": "Friday Night Dinner Date: Lamm, Kichererbsen und Ras el Hanout - Germanabendbrot"
+        },
+        {
+          "url": "https://greenkitchenstories.com/",
+          "title": "Green Kitchen Stories - Healthy Vegetarian Family Recipes"
+        },
+        {
+          "url": "https://hebbarskitchen.com/",
+          "title": "Hebbars Kitchen - Indian Veg Recipes | Vegetarian Indian Recipes blog"
+        },
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/ultimate-chocolate-cake",
+          "title": "Moist chocolate cake recipe | Good Food"
+        },
+        {
+          "url": "http://www.ininternet.org/ricette_cucina.htm",
+          "title": "Ricette di cucina prese dal ricettario italiano di culinaria"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "government-data",
+      "bookmarks": [
+        {
+          "url": "https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm",
+          "title": "FDA Drug Shortages"
+        },
+        {
+          "url": "http://www.fayetteville-ar.gov/384/GIS-Interactive-Maps",
+          "title": "GIS Maps | Fayetteville, AR - Official Website"
+        },
+        {
+          "url": "https://iotc.org/",
+          "title": "IOTC | Indian Ocean Tuna Commission / Commission des Thons de l'Océan Indien"
+        },
+        {
+          "url": "https://app.mt.gov/cal/html/event/comm/2021/7/26/;jsessionid=iByXYXDXbCquM5W_8wEmtglrNdOurASXf0_DTbuz.entdoaahs0374?week=31&viewtype=2&viewperiod=2&currentViewtype=2",
+          "title": "mt.gov - Calendars"
+        },
+        {
+          "url": "https://gisis.imo.org/Public/SHIPS/Default.aspx",
+          "title": "Working..."
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "programming-tools",
+      "bookmarks": [
+        {
+          "url": "https://go.dev/tour/welcome/1",
+          "title": "A Tour of Go"
+        },
+        {
+          "url": "https://clipbucket.com",
+          "title": "ClipBucket - Open Source, VOD, OTT, Enterprise Video Hosting & Management Solution"
+        },
+        {
+          "url": "https://www.desmos.com/3d",
+          "title": "Desmos | 3D Graphing Calculator"
+        },
+        {
+          "url": "https://electronjs.org/docs/latest",
+          "title": "Introduction | Electron"
+        },
+        {
+          "url": "https://mlflow.org/docs/latest/python_api/mlflow.sklearn.html",
+          "title": "mlflow.sklearn"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "educational-kids",
+      "bookmarks": [
+        {
+          "url": "https://sesamo.com/cuidandonos/index.html",
+          "title": "Cuidándonos unos a otros | Sésamo"
+        },
+        {
+          "url": "https://kahoot.it/challenge/007996792",
+          "title": "Kahoot!"
+        },
+        {
+          "url": "http://kindness.sesamestreet.org",
+          "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
+        },
+        {
+          "url": "https://www.smarttales.app",
+          "title": "Smart Tales: Learning App for Kids | Math & Reading Games"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "privacy-policies",
+      "bookmarks": [
+        {
+          "url": "https://squeakosaurus.com/privacy-policy",
+          "title": "Privacy Policy - Squeakosaurus Squeakosaurus"
+        },
+        {
+          "url": "http://store.steampowered.com/privacy_agreement/",
+          "title": "Privacy Policy Agreement"
+        },
+        {
+          "url": "https://www.termsfeed.com/live/600c73e8-1226-430e-ace9-8d5272c9c705",
+          "title": "Privacy Policy for Omnitrix for Apple Watch - TermsFeed"
+        },
+        {
+          "url": "https://gototop.b-cdn.net/Gototop%20Privacy%20Policy.html",
+          "title": "void"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "privacy-security",
+      "bookmarks": [
+        {
+          "url": "https://aviation-docs.spire.com/api/authentication",
+          "title": "Authentication | Spire Aviation"
         },
         {
           "url": "https://de.wordpress.org/plugins/gdpr-cookie-compliance/",
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress-Plugin | WordPress.org Deutsch"
         },
         {
-          "url": "https://aviation-docs.spire.com/api/authentication",
-          "title": "Authentication | Spire Aviation"
+          "url": "https://www.social-engineer.org/framework/attack-vectors/phishing-attacks-2/",
+          "title": "Phishing - Security Through Education"
         },
         {
           "url": "https://www.airslate.com/captcha?ref=http://www.airslate.com/bot/explore/pre-fill-from-corda-bot",
@@ -287,6 +377,24 @@
         }
       ],
       "count": 4
+    },
+    {
+      "name": "education-learning",
+      "bookmarks": [
+        {
+          "url": "https://blog.computus-druck.com/tag/brandkatastrophen/",
+          "title": "Brandkatastrophen - Altertum und Bücher aus Gutenberg"
+        },
+        {
+          "url": "https://centrodeidiomas.cientifica.edu.pe/",
+          "title": "Centro de Idiomas | Universidad Científica del Sur"
+        },
+        {
+          "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
+          "title": "Ubstadt-Weiher - Vikipedio"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "sports",
@@ -307,7 +415,7 @@
       "count": 3
     },
     {
-      "name": "diy-crafts",
+      "name": "crafts-diy",
       "bookmarks": [
         {
           "url": "https://www.shelterness.com/diy-oil-reed-diffusers/pictures/67188/",
@@ -321,123 +429,29 @@
       "count": 2
     },
     {
-      "name": "government-data",
-      "bookmarks": [
-        {
-          "url": "https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm",
-          "title": "FDA Drug Shortages"
-        },
-        {
-          "url": "https://iotc.org/",
-          "title": "IOTC | Indian Ocean Tuna Commission / Commission des Thons de l'Océan Indien"
-        },
-        {
-          "url": "https://app.mt.gov/cal/html/event/comm/2021/7/26/;jsessionid=iByXYXDXbCquM5W_8wEmtglrNdOurASXf0_DTbuz.entdoaahs0374?week=31&viewtype=2&viewperiod=2&currentViewtype=2",
-          "title": "mt.gov - Calendars"
-        },
-        {
-          "url": "https://gisis.imo.org/Public/SHIPS/Default.aspx",
-          "title": "Working..."
-        },
-        {
-          "url": "http://www.fayetteville-ar.gov/384/GIS-Interactive-Maps",
-          "title": "GIS Maps | Fayetteville, AR - Official Website"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education-learning",
-      "bookmarks": [
-        {
-          "url": "https://centrodeidiomas.cientifica.edu.pe/",
-          "title": "Centro de Idiomas | Universidad Científica del Sur"
-        },
-        {
-          "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
-          "title": "Ubstadt-Weiher - Vikipedio"
-        },
-        {
-          "url": "https://blog.computus-druck.com/tag/brandkatastrophen/",
-          "title": "Brandkatastrophen - Altertum und Bücher aus Gutenberg"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "technology-engineering",
-      "bookmarks": [
-        {
-          "url": "https://www.earth.tu-berlin.de/menue/service/parameter/maxhilfe/",
-          "title": "Satellitengeodäsie - TU Berlin"
-        },
-        {
-          "url": "http://www.cee.psu.edu",
-          "title": "Civil and Environmental Engineering Department | Penn State Engineering"
-        },
-        {
-          "url": "https://flugbetrieb.com/flugplatz/Montabaur-montabaur/",
-          "title": "VFRnav - VFR Flugnavigation und Moving-Map für Android"
-        },
-        {
-          "url": "https://eogdata.mines.edu/products/vbd/",
-          "title": "VIIRS Boat Detection"
-        },
-        {
-          "url": "https://www.planet.com/pulse/introducing-planetary-variables-soil-water-content-land-surface-temperature-and-vegetation-biomass/",
-          "title": "Introducing Planetary Variables: Soil Water Content, Land Surface Temperature, and Vegetation Biomass"
-        },
-        {
-          "url": "http://cie.co.at/eilvterm/17-29-018",
-          "title": "17-29-018 | CIE"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "personal-websites",
-      "bookmarks": [
-        {
-          "url": "https://alex-warner.com/",
-          "title": "Alex Warner"
-        },
-        {
-          "url": "http://gailly.net/",
-          "title": "Jean-loup's home page"
-        },
-        {
-          "url": "http://www.photopreneur.com/",
-          "title": "Photopreneur - Photography Books, Photography ebooks and Photography Courses"
-        },
-        {
-          "url": "https://www.marcvanzeeland.nl/tag/lichtenvoorde/",
-          "title": "lichtenvoorde - marc-van-zeeland"
-        },
-        {
-          "url": "http://www.arlenealda.com/AboutTheAuthor.html",
-          "title": "Arlene Alda Author and Photographer"
-        },
-        {
-          "url": "https://kosturanov.com/books/a-star-called-slavica",
-          "title": "A Star Called Slavica - Book Illustrated by Vane Kosturanov"
-        },
-        {
-          "url": "https://doughenningproject.com/2020/09/17/happy-belated-birthday-david-copperfield/",
-          "title": "Happy Belated Birthday David Copperfield! - THE DOUG HENNING PROJECT"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://watch.tbn.org/",
-          "title": "TBN+ | Stream Bible Teachers, Worship, and Christian Shows"
-        },
-        {
           "url": "https://googleonlinesecurity.blogspot.com/atom.xml",
           "title": "Google Online Security Blog"
+        },
+        {
+          "url": "https://watch.tbn.org/",
+          "title": "TBN+ | Stream Bible Teachers, Worship, and Christian Shows"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "surveys-feedback",
+      "bookmarks": [
+        {
+          "url": "https://www.walmarthealth.com/?utm_source=walmart&utm_medium=referral&utm_campaign=mNav",
+          "title": "Robot or human?"
+        },
+        {
+          "url": "http://survey.walmart.com",
+          "title": "Survey"
         }
       ],
       "count": 2
@@ -451,22 +465,8 @@
         }
       ],
       "count": 1
-    },
-    {
-      "name": "surveys-feedback",
-      "bookmarks": [
-        {
-          "url": "https://survey.walmart.com",
-          "title": "Survey"
-        },
-        {
-          "url": "https://www.walmarthealth.com/?utm_source=walmart&utm_medium=referral&utm_campaign=mNav",
-          "title": "Robot or human?"
-        }
-      ],
-      "count": 2
     }
   ],
-  "total_bookmarks": 89,
-  "num_folders": 18
+  "total_bookmarks": 88,
+  "num_folders": 19
 }

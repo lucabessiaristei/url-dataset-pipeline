@@ -16,6 +16,10 @@
           "title": "Home | Freerice"
         },
         {
+          "url": "https://www.ucsb.edu/",
+          "title": "Home | UC Santa Barbara"
+        },
+        {
           "url": "https://www.khanacademy.org/humanities/medieval-world/medieval/europe-1300-1400-beginners/v/egg-tempera-painting",
           "title": "Khan Academy"
         },
@@ -38,16 +42,12 @@
         {
           "url": "https://www.nciea.org/blog/instruction/what-leads-positive-changes-student-learning",
           "title": "void"
-        },
-        {
-          "url": "https://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
         }
       ],
       "count": 10
     },
     {
-      "name": "hobbies-entertainment-media",
+      "name": "entertainment-media-hobbies",
       "bookmarks": [
         {
           "url": "http://agaveuptown.com/",
@@ -89,40 +89,6 @@
       "count": 9
     },
     {
-      "name": "corporate-nonprofit-organizations",
-      "bookmarks": [
-        {
-          "url": "https://about.flipboard.com",
-          "title": "Home - About Flipboard"
-        },
-        {
-          "url": "https://corporate.bestbuy.com/our-commitments/",
-          "title": "Our Goals - Best Buy Corporate News and Information"
-        },
-        {
-          "url": "http://geographx.co.nz/",
-          "title": "Geographx - maps, cartographic design, 3D visualisation"
-        },
-        {
-          "url": "http://g.co/supplier-responsibility",
-          "title": "Supporting Supplier Responsibility - Google Sustainability"
-        },
-        {
-          "url": "https://www.iworksmc.org/assistance",
-          "title": "Get Assistance - Interfaith Works"
-        },
-        {
-          "url": "https://thelawrencefoundation.org/",
-          "title": "The Lawrence Foundation"
-        },
-        {
-          "url": "https://www.mccormickfoundation.org/",
-          "title": "Homepage - Robert R. Mccormick Foundation"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "business-finance-marketing",
       "bookmarks": [
         {
@@ -157,8 +123,46 @@
       "count": 7
     },
     {
+      "name": "corporate-nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "http://geographx.co.nz/",
+          "title": "Geographx - maps, cartographic design, 3D visualisation"
+        },
+        {
+          "url": "https://www.iworksmc.org/assistance",
+          "title": "Get Assistance - Interfaith Works"
+        },
+        {
+          "url": "https://about.flipboard.com",
+          "title": "Home - About Flipboard"
+        },
+        {
+          "url": "https://www.mccormickfoundation.org/",
+          "title": "Homepage - Robert R. Mccormick Foundation"
+        },
+        {
+          "url": "https://corporate.bestbuy.com/our-commitments/",
+          "title": "Our Goals - Best Buy Corporate News and Information"
+        },
+        {
+          "url": "http://g.co/supplier-responsibility",
+          "title": "Supporting Supplier Responsibility - Google Sustainability"
+        },
+        {
+          "url": "https://thelawrencefoundation.org/",
+          "title": "The Lawrence Foundation"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "technology-software",
       "bookmarks": [
+        {
+          "url": "https://www.verisign.com/",
+          "title": "A global provider of domain name registry services and internet infrastructure | Verisign"
+        },
         {
           "url": "https://www.bytedance.com/",
           "title": "ByteDance - Inspire Creativity, Enrich Life"
@@ -176,16 +180,12 @@
           "title": "Google Workspace Updates: Upcoming Hangouts service consolidation for all G Suite customers"
         },
         {
-          "url": "http://siemplifycommunity.slack.com/",
-          "title": "Workspace Suspended | Slack"
-        },
-        {
-          "url": "https://www.verisign.com/",
-          "title": "A global provider of domain name registry services and internet infrastructure | Verisign"
-        },
-        {
           "url": "https://www.visualstudio.com/",
           "title": "Visual Studio: IDE and Code Editor for Software Development"
+        },
+        {
+          "url": "http://siemplifycommunity.slack.com/",
+          "title": "Workspace Suspended | Slack"
         }
       ],
       "count": 7
@@ -194,8 +194,8 @@
       "name": "health-medical",
       "bookmarks": [
         {
-          "url": "https://www.centene.com/",
-          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
+          "url": "https://ostrovit.com/en/menu/superfoods-18763.html",
+          "title": "Advanced search engine - Official store | OstroVit"
         },
         {
           "url": "https://crisistrends.org/",
@@ -210,8 +210,8 @@
           "title": "Find a COVID-19 Vaccine in Oregon"
         },
         {
-          "url": "https://ostrovit.com/en/menu/superfoods-18763.html",
-          "title": "Advanced search engine - Official store | OstroVit"
+          "url": "https://www.centene.com/",
+          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
         },
         {
           "url": "https://www.questhealth.com/product/covid-19-active-infection-test-39448.html?elqTrackId=c8ffdbef244e4da5ab89a3f6a7c7be2b&elqaid=93&elqat=2",
@@ -221,11 +221,15 @@
       "count": 6
     },
     {
-      "name": "personal-social-blogs",
+      "name": "personal-blogs-social",
       "bookmarks": [
         {
           "url": "https://www.suzannes.se/271607502_502687727816019_5709728333999177448_n/",
           "title": "271607502_502687727816019_5709728333999177448_n - Suzannes.se"
+        },
+        {
+          "url": "https://randomgifgirlwrites.tumblr.com/",
+          "title": "Random Gif Girl Writes"
         },
         {
           "url": "https://giftsofthejourney.com/tag/sarah-suzanne/",
@@ -234,10 +238,6 @@
         {
           "url": "https://arthropleuridea.tumblr.com/",
           "title": "viaduct"
-        },
-        {
-          "url": "https://randomgifgirlwrites.tumblr.com/",
-          "title": "Random Gif Girl Writes"
         },
         {
           "url": "https://www.instagram.com/youtube/",
@@ -272,12 +272,12 @@
       "name": "government-policy",
       "bookmarks": [
         {
-          "url": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa/",
-          "title": "Open Calgary Terms of Use | Open Calgary"
-        },
-        {
           "url": "http://www.ecfr.gov/",
           "title": "eCFR :: Home"
+        },
+        {
+          "url": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa/",
+          "title": "Open Calgary Terms of Use | Open Calgary"
         },
         {
           "url": "http://www.fsa.usda.gov/help/policies-and-links",
@@ -302,12 +302,12 @@
           "title": "Indland | Nyheder Indland | Vi holder dig orienteret døgnet rundt | DR"
         },
         {
-          "url": "https://www.bbc.com/future/article/20200909-the-origin-of-north-koreas-ghost-boats",
-          "title": "The origin of North Korea's 'ghost boats'"
-        },
-        {
           "url": "https://www.svt.se/sport/",
           "title": "SVT Sport"
+        },
+        {
+          "url": "https://www.bbc.com/future/article/20200909-the-origin-of-north-koreas-ghost-boats",
+          "title": "The origin of North Korea's 'ghost boats'"
         }
       ],
       "count": 4
@@ -316,16 +316,16 @@
       "name": "cultural-history",
       "bookmarks": [
         {
+          "url": "https://ich.unesco.org/en/",
+          "title": "ICH - UNESCO Intangible Cultural Heritage"
+        },
+        {
           "url": "https://riobravo.com.ar/itemlist/tag/dictadura?limit=10&start=10",
           "title": "Mostrando artículos por etiqueta: dictadura - Río Bravo Entre Ríos"
         },
         {
           "url": "https://www.britannica.com/place/Tokyo",
           "title": "Tokyo | Japan, Population, Map, History, & Facts | Britannica"
-        },
-        {
-          "url": "https://ich.unesco.org/en/",
-          "title": "ICH - UNESCO Intangible Cultural Heritage"
         }
       ],
       "count": 3
@@ -334,12 +334,12 @@
       "name": "environmental-conservation",
       "bookmarks": [
         {
-          "url": "https://alerts.mongabay.com/",
-          "title": "Subscribe to Mongabay news alerts"
-        },
-        {
           "url": "https://www.cbc.ca/news/canada/montreal/national-geographic-pristine-seas-labrador-quebec-expedition-1.6541693",
           "title": "National Geographic expedition teaming up with Inuit to visit Nunavik, Que., on conservation mission | CBC News"
+        },
+        {
+          "url": "https://alerts.mongabay.com/",
+          "title": "Subscribe to Mongabay news alerts"
         },
         {
           "url": "http://web.undp.org/evaluation/evaluations/te/energy-environment.shtml",
@@ -352,16 +352,16 @@
       "name": "legal-privacy",
       "bookmarks": [
         {
+          "url": "https://www.unm.edu/legal.html",
+          "title": "Legal :: New Mexico's Flagship University | The University of New Mexico"
+        },
+        {
           "url": "http://www.outerspacious.com/privacy-policy",
           "title": "Outerspacious Software - Privacy Policy"
         },
         {
           "url": "https://securustech.net/privacy",
           "title": "Privacy - Securus Technologies"
-        },
-        {
-          "url": "https://www.unm.edu/legal.html",
-          "title": "Legal :: New Mexico's Flagship University | The University of New Mexico"
         }
       ],
       "count": 3

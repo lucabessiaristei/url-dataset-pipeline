@@ -16,11 +16,15 @@
           "title": "B2B & B2C Market Research Company"
         },
         {
-          "url": "https://www.aerfish.com/privacypolicy",
+          "url": "https://wpengine.com/legal/",
+          "title": "Legal | WP Engine"
+        },
+        {
+          "url": "http://aerfish.com/privacypolicy",
           "title": "PrivacyPolicy | Aerfish"
         },
         {
-          "url": "https://smallbusinessresources.wf.com/running-your-business",
+          "url": "http://smallbusinessresources.wf.com/running-your-business",
           "title": "Small Business Resource Center | Wells Fargo"
         },
         {
@@ -34,10 +38,6 @@
         {
           "url": "https://tedatwork.ted.com",
           "title": "TED@Work : Inspire new ways of working"
-        },
-        {
-          "url": "https://wpengine.com/legal/",
-          "title": "Legal | WP Engine"
         }
       ],
       "count": 9
@@ -108,7 +108,7 @@
           "title": "Home - Mozilla Dot Design"
         },
         {
-          "url": "https://www.mailapps.me",
+          "url": "http://www.mailapps.me",
           "title": "Mailapps.me - awesome mobile apps for your mail!"
         },
         {
@@ -130,12 +130,12 @@
           "title": "ESA - Sentinel-3"
         },
         {
-          "url": "https://blog.resourcewatch.org/",
-          "title": "Homepage - Resource Watch Blog"
-        },
-        {
           "url": "https://oceanriskalliance.org/",
           "title": "Homepage - ORRAA"
+        },
+        {
+          "url": "https://blog.resourcewatch.org/",
+          "title": "Homepage - Resource Watch Blog"
         },
         {
           "url": "https://www.faa.gov/hazmat/resources/lithium_batteries/incidents",
@@ -146,11 +146,11 @@
           "title": "Ocean Best Practices System"
         },
         {
-          "url": "https://www.oceandataportal.org",
+          "url": "http://www.oceandataportal.org",
           "title": "Ocean Data Portal - Preserving maritime wonders"
         },
         {
-          "url": "https://www.rekopol.pl",
+          "url": "http://www.rekopol.pl",
           "title": "REKOPOL Organizacja Odzysku Opakowań S.A."
         }
       ],
@@ -206,21 +206,47 @@
           "title": "Pied, plinthe, plan de travail, côté,... machine à laver Whirlpool AWO12563..."
         },
         {
-          "url": "https://www.spencersretail.com/",
-          "title": "Spencer's Retail is a leading retailer that operates multiple retail formats in India."
-        },
-        {
           "url": "https://www.wefeedraw.com/",
           "title": "Raw Dog Food Delivery Company | We Feed Raw"
+        },
+        {
+          "url": "http://www.spencersretail.com/",
+          "title": "Spencer's Retail is a leading retailer that operates multiple retail formats in India."
         }
       ],
       "count": 6
     },
     {
-      "name": "culture-museums",
+      "name": "misc-web",
       "bookmarks": [
         {
-          "url": "https://www.exploratorium.edu/",
+          "url": "https://wellbeing.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+          "title": "About Google: Our products, technology and company information - About Google"
+        },
+        {
+          "url": "https://www.eleftheroudakis.gr/",
+          "title": "Account Suspended"
+        },
+        {
+          "url": "http://ci.carson.ca.us/",
+          "title": "City of Carson, CA"
+        },
+        {
+          "url": "http://kathieleegiffordnft.com",
+          "title": "KLG Pioneers"
+        },
+        {
+          "url": "https://lounge.nintendo.com/redirect/support",
+          "title": "Region & Language Selector - Support Site"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "museums-culture",
+      "bookmarks": [
+        {
+          "url": "http://www.exploratorium.edu/",
           "title": "Experience the Exploratorium at Pier 15"
         },
         {
@@ -243,36 +269,10 @@
       "count": 5
     },
     {
-      "name": "misc-web",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://wellbeing.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
-          "title": "About Google: Our products, technology and company information - About Google"
-        },
-        {
-          "url": "https://www.eleftheroudakis.gr/",
-          "title": "Account Suspended"
-        },
-        {
-          "url": "https://ci.carson.ca.us/",
-          "title": "City of Carson, CA"
-        },
-        {
-          "url": "https://kathieleegiffordnft.com",
-          "title": "KLG Pioneers"
-        },
-        {
-          "url": "https://lounge.nintendo.com/redirect/support",
-          "title": "Region & Language Selector - Support Site"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://network.creativecommons.org/?ref=global-affiliate-network",
+          "url": "http://network.creativecommons.org/?ref=global-affiliate-network",
           "title": "CC Global Network Community Site"
         },
         {
@@ -295,14 +295,14 @@
       "count": 5
     },
     {
-      "name": "blogs-personal",
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://zeaphra.tumblr.com/",
           "title": "Blog"
         },
         {
-          "url": "https://georgium.ucoz.hu/news/2016-01-20",
+          "url": "http://georgium.ucoz.hu/news/2016-01-20",
           "title": "György Béla Honlapja | Főoldal - Hírek, hasznos információk"
         },
         {
@@ -320,7 +320,7 @@
       "name": "education-kids",
       "bookmarks": [
         {
-          "url": "https://www.foxandsheep.com",
+          "url": "http://www.foxandsheep.com",
           "title": "Fox & Sheep - Digital Kids Studio"
         },
         {
@@ -346,7 +346,7 @@
           "title": "Easy but impressive recipes | Good Food"
         },
         {
-          "url": "https://www.thegraphicfoodie.co.uk/",
+          "url": "http://www.thegraphicfoodie.co.uk/",
           "title": "The Graphic Foodie | Brighton Food Blog & Restaurant Reviews"
         }
       ],
@@ -371,18 +371,18 @@
       "count": 3
     },
     {
-      "name": "tools-utility",
+      "name": "tools-utilities",
       "bookmarks": [
         {
           "url": "https://astronomy.tools/calculators/field_of_view/",
           "title": "astronomy.tools"
         },
         {
-          "url": "https://www.calculator.org/",
+          "url": "http://www.calculator.org/",
           "title": "calculator.org - calculator.org"
         },
         {
-          "url": "https://www.jaapsch.net/mechcalc/",
+          "url": "http://www.jaapsch.net/mechcalc/",
           "title": "Jaap's Mechanical Calculators Page"
         }
       ],
@@ -400,13 +400,13 @@
           "title": "Itineraries + buy - CFR Călători online tickets"
         },
         {
-          "url": "https://www.jjbtravel.com/",
+          "url": "http://www.jjbtravel.com/",
           "title": "JJBargains Travel - Your Professional Travel Consultants"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 82,
+  "total_bookmarks": 79,
   "num_folders": 15
 }

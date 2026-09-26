@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "products-consumer",
+      "name": "consumer-products",
       "bookmarks": [
         {
           "url": "https://www.miltons.com/collections/all/christopher-lena",
@@ -66,12 +66,12 @@
           "title": "Nine's Wide World of Sports, Match Results, Fixtures, Videos & Live Scores - Nine.com.au"
         },
         {
-          "url": "https://www.nrk.no/nyheter/",
-          "title": "Siste nytt - NRK"
-        },
-        {
           "url": "https://www.latham.london/2016/06/shanghai-set-to-improve-air-quality-ahead-of-g20-summit/",
           "title": "Shanghai Set to Improve Air Quality Ahead of G20 Summit | Latham.London"
+        },
+        {
+          "url": "https://www.nrk.no/nyheter/",
+          "title": "Siste nytt - NRK"
         }
       ],
       "count": 7
@@ -127,6 +127,28 @@
         }
       ],
       "count": 5
+    },
+    {
+      "name": "arts-culture-history",
+      "bookmarks": [
+        {
+          "url": "https://www.elle.com/culture/celebrities/a37598890/billie-eilish-is-calling-the-shots/",
+          "title": "Billie Eilish Is Calling the Shots"
+        },
+        {
+          "url": "https://www.centrostudilaruna.it/tag/misteri-orfici",
+          "title": "misteri orfici - Centro Studi La Runa"
+        },
+        {
+          "url": "https://aqua.org/visit",
+          "title": "National Aquarium - Plan Your Visit"
+        },
+        {
+          "url": "https://lamilano.it/eventi/un-canto-per-milano-e-per-la-ripresa/",
+          "title": "Un canto per Milano e per la ripresa"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "environmental-science-research",
@@ -317,28 +339,6 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "culture-history-arts",
-      "bookmarks": [
-        {
-          "url": "https://www.elle.com/culture/celebrities/a37598890/billie-eilish-is-calling-the-shots/",
-          "title": "Billie Eilish Is Calling the Shots"
-        },
-        {
-          "url": "https://www.centrostudilaruna.it/tag/misteri-orfici",
-          "title": "misteri orfici - Centro Studi La Runa"
-        },
-        {
-          "url": "https://aqua.org/visit",
-          "title": "National Aquarium - Plan Your Visit"
-        },
-        {
-          "url": "https://lamilano.it/eventi/un-canto-per-milano-e-per-la-ripresa/",
-          "title": "Un canto per Milano e per la ripresa"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "legal-policy-documents",

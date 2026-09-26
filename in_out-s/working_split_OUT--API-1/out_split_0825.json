@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "social-civic-organizations",
+      "name": "organizations-social-civic",
       "bookmarks": [
+        {
+          "url": "https://www.aclu-mo.org/en/news/aclu-missouri-statement-book-ban-action-wentzville-school-district",
+          "title": "ACLU of Missouri Statement on Book Ban Action by Wentzville School District | ACLU of Missouri"
+        },
         {
           "url": "https://braverangels.org/",
           "title": "Braver Angels"
@@ -12,12 +16,8 @@
           "title": "COVID-19 Response Fund - Seattle Foundation"
         },
         {
-          "url": "https://www.unglobalcompact.org/what-is-gc/our-work/social/poverty",
-          "title": "Poverty | UN Global Compact"
-        },
-        {
-          "url": "https://www.aclu-mo.org/en/news/aclu-missouri-statement-book-ban-action-wentzville-school-district",
-          "title": "ACLU of Missouri Statement on Book Ban Action by Wentzville School District | ACLU of Missouri"
+          "url": "http://www.worldywca.org/",
+          "title": "Home - World YWCA"
         },
         {
           "url": "https://www.inco-group.co/",
@@ -32,16 +32,16 @@
           "title": "New Mexico Community Capital | Empower Indigenous Futures Today"
         },
         {
+          "url": "https://www.unglobalcompact.org/what-is-gc/our-work/social/poverty",
+          "title": "Poverty | UN Global Compact"
+        },
+        {
           "url": "https://prginc.org/",
           "title": "PRG, Inc."
         },
         {
           "url": "https://utahblackchamber.com/",
           "title": "Utah Black Chamber of Commerce"
-        },
-        {
-          "url": "http://www.worldywca.org/",
-          "title": "Home - World YWCA"
         }
       ],
       "count": 10
@@ -50,8 +50,8 @@
       "name": "tech-support-policies",
       "bookmarks": [
         {
-          "url": "https://support.apple.com",
-          "title": "Official Apple Support"
+          "url": "https://suporte.handtalk.me/kb",
+          "title": "Central de ajuda - HAND TALK"
         },
         {
           "url": "https://getchannels.com/privacy/",
@@ -66,94 +66,30 @@
           "title": "LG Premium Care"
         },
         {
+          "url": "https://support.apple.com",
+          "title": "Official Apple Support"
+        },
+        {
           "url": "http://shavedham.blogspot.com/p/big-button-box-support.html",
           "title": "Shaved Labs - iPhone Apps: Big Button Box Support"
         },
         {
           "url": "http://sticknodes.com/tos-privacy-policy/#atospp-pp-snp",
           "title": "TOS and Privacy Policy | StickNodes.com"
-        },
-        {
-          "url": "https://suporte.handtalk.me/kb",
-          "title": "Central de ajuda - HAND TALK"
         }
       ],
       "count": 7
     },
     {
-      "name": "environmental-science-data",
+      "name": "developer-tech-resources",
       "bookmarks": [
-        {
-          "url": "https://bnhs.net/events/calendar/?cat1=indoor&event_id1=863",
-          "title": "Events Calendar - Basildon Natural History Society"
-        },
-        {
-          "url": "https://www.canarymedia.com/articles/energy-markets/a-deeper-dive-into-24-7-carbon-free-energy",
-          "title": "A deeper dive into 24/7 carbon-free energy | Canary Media"
-        },
-        {
-          "url": "https://cos2022.sites.stanford.edu/events",
-          "title": "Events | Center for Ocean Solutions"
-        },
-        {
-          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
-          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
-        },
-        {
-          "url": "https://oceansolutions.stanford.edu/",
-          "title": "Center for Ocean Solutions"
-        },
-        {
-          "url": "https://p4gpartnerships.org/",
-          "title": "P4G"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "hobbies-entertainment",
-      "bookmarks": [
-        {
-          "url": "http://boardgamegeek.com/boardgame/369/5ive-straight",
-          "title": "5ive Straight | Board Game | BoardGameGeek"
-        },
-        {
-          "url": "https://www.howardstern.com/show/",
-          "title": "Show | Howard Stern"
-        },
-        {
-          "url": "https://www.papermag.com/luke-hemmings-5sos-calm-2645628626.html?rebelltitem=17#rebelltitem17",
-          "title": "Luke Hemmings Deconstructs 5 Seconds of Summer's \"CALM\" - PAPER Magazine"
-        },
-        {
-          "url": "https://www.speedsolving.com/wiki/index.php/CFOP_method",
-          "title": "CFOP method - Speedsolving.com Wiki"
-        },
-        {
-          "url": "https://tendadaalma.pt/categoria-produto/baralhos-de-tarot-e-adivinhacao/",
-          "title": "Baralhos de Tarot e Adivinhação - Tenda da Alma - Produtos Esotéricos"
-        },
-        {
-          "url": "https://teksciory.interia.pl/szukaj?q=mamusia+nie+moze",
-          "title": "mamusia nie moze - Teksciory.pl"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "tech-developer-resources",
-      "bookmarks": [
-        {
-          "url": "https://docs.mapbox.com/#maps",
-          "title": "Mapbox Docs"
-        },
         {
           "url": "https://thenounproject.com/",
           "title": "8M+ Free Icons & Stock Photos | SVG & PNG | Download Today"
         },
         {
-          "url": "https://photography.tutsplus.com",
-          "title": "Video Courses and Tutorials | Envato Tuts+"
+          "url": "https://youtu.be/iWkgapKbJWg",
+          "title": "Downloading data from the Global Fishing Watch platform - YouTube"
         },
         {
           "url": "https://forum.qt.io/topic/64285/height-of-a-qlistview-item-in-css",
@@ -164,22 +100,138 @@
           "title": "Iconism - Showcasing the best icon packs"
         },
         {
-          "url": "https://youtu.be/iWkgapKbJWg",
-          "title": "Downloading data from the Global Fishing Watch platform - YouTube"
+          "url": "https://docs.mapbox.com/#maps",
+          "title": "Mapbox Docs"
+        },
+        {
+          "url": "https://photography.tutsplus.com",
+          "title": "Video Courses and Tutorials | Envato Tuts+"
         }
       ],
       "count": 6
     },
     {
+      "name": "entertainment-hobbies",
+      "bookmarks": [
+        {
+          "url": "http://boardgamegeek.com/boardgame/369/5ive-straight",
+          "title": "5ive Straight | Board Game | BoardGameGeek"
+        },
+        {
+          "url": "https://tendadaalma.pt/categoria-produto/baralhos-de-tarot-e-adivinhacao/",
+          "title": "Baralhos de Tarot e Adivinhação - Tenda da Alma - Produtos Esotéricos"
+        },
+        {
+          "url": "https://www.speedsolving.com/wiki/index.php/CFOP_method",
+          "title": "CFOP method - Speedsolving.com Wiki"
+        },
+        {
+          "url": "https://www.papermag.com/luke-hemmings-5sos-calm-2645628626.html?rebelltitem=17#rebelltitem17",
+          "title": "Luke Hemmings Deconstructs 5 Seconds of Summer's \"CALM\" - PAPER Magazine"
+        },
+        {
+          "url": "https://teksciory.interia.pl/szukaj?q=mamusia+nie+moze",
+          "title": "mamusia nie moze - Teksciory.pl"
+        },
+        {
+          "url": "https://www.howardstern.com/show/",
+          "title": "Show | Howard Stern"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "environmental-science-data",
+      "bookmarks": [
+        {
+          "url": "https://www.canarymedia.com/articles/energy-markets/a-deeper-dive-into-24-7-carbon-free-energy",
+          "title": "A deeper dive into 24/7 carbon-free energy | Canary Media"
+        },
+        {
+          "url": "https://oceansolutions.stanford.edu/",
+          "title": "Center for Ocean Solutions"
+        },
+        {
+          "url": "https://bnhs.net/events/calendar/?cat1=indoor&event_id1=863",
+          "title": "Events Calendar - Basildon Natural History Society"
+        },
+        {
+          "url": "https://cos2022.sites.stanford.edu/events",
+          "title": "Events | Center for Ocean Solutions"
+        },
+        {
+          "url": "https://p4gpartnerships.org/",
+          "title": "P4G"
+        },
+        {
+          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
+          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "food-culinary-products",
+      "bookmarks": [
+        {
+          "url": "https://www.aspicyperspective.com/",
+          "title": "A Spicy Perspective - Approachable, Easy Recipes for Everyday Cooking"
+        },
+        {
+          "url": "https://www.allenrosewine.com/about",
+          "title": "about - Allen Rose Wine"
+        },
+        {
+          "url": "https://www.globalgap.org/uk_en/what-we-do/globalg.a.p.-certification/",
+          "title": "About GLOBALG.A.P."
+        },
+        {
+          "url": "https://www.pingodoce.pt/produtos/",
+          "title": "Loja online | Pingo Doce"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85938",
+          "title": "Searchable Recipe Database - Summer Shrimp Scampi With Tomatoes and Corn"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "social-media-platforms",
+      "bookmarks": [
+        {
+          "url": "https://evaturanzo.tumblr.com/",
+          "title": "@evaturanzo on Tumblr"
+        },
+        {
+          "url": "https://queertactics.tumblr.com/",
+          "title": "@queertactics on Tumblr"
+        },
+        {
+          "url": "https://buddypress.org/",
+          "title": "BuddyPress.org"
+        },
+        {
+          "url": "https://hi5.com/",
+          "title": "hi5 - Il social network per incontrare nuove persone"
+        },
+        {
+          "url": "https://theartguy.tumblr.com/",
+          "title": "The Art Guy"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "beauty-personal-care",
       "bookmarks": [
         {
-          "url": "https://www.beautybay.com/p/melt-cosmetics/liquid-set-lipstick/rebound/",
-          "title": "BEAUTY BAY: The destination to explore your beauty obsessions"
-        },
-        {
           "url": "https://www.blackcurlmagic.com/wash-your-damn-hair/",
           "title": "About 5 - Black Curl Magic"
+        },
+        {
+          "url": "https://www.beautybay.com/p/melt-cosmetics/liquid-set-lipstick/rebound/",
+          "title": "BEAUTY BAY: The destination to explore your beauty obsessions"
         },
         {
           "url": "https://lacelock.net/",
@@ -196,16 +248,16 @@
       "name": "digital-tools-utilities",
       "bookmarks": [
         {
-          "url": "https://confirmsubscription.com/h/i/463208600EB4D89A",
-          "title": "void"
+          "url": "https://api.whatsapp.com/send/?phone=14437877678&text=HOME&app_absent=0",
+          "title": "Share on WhatsApp"
         },
         {
           "url": "https://relatedwords.io/stepson",
           "title": "Stepson Words - 392 Words Related to Stepson"
         },
         {
-          "url": "https://api.whatsapp.com/send/?phone=14437877678&text=HOME&app_absent=0",
-          "title": "Share on WhatsApp"
+          "url": "https://confirmsubscription.com/h/i/463208600EB4D89A",
+          "title": "void"
         },
         {
           "url": "https://www.woorank.com/",
@@ -213,94 +265,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "food-culinary-products",
-      "bookmarks": [
-        {
-          "url": "https://www.globalgap.org/uk_en/what-we-do/globalg.a.p.-certification/",
-          "title": "About GLOBALG.A.P."
-        },
-        {
-          "url": "https://www.allenrosewine.com/about",
-          "title": "about - Allen Rose Wine"
-        },
-        {
-          "url": "https://www.aspicyperspective.com/",
-          "title": "A Spicy Perspective - Approachable, Easy Recipes for Everyday Cooking"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85938",
-          "title": "Searchable Recipe Database - Summer Shrimp Scampi With Tomatoes and Corn"
-        },
-        {
-          "url": "https://www.pingodoce.pt/produtos/",
-          "title": "Loja online | Pingo Doce"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "social-media-platforms",
-      "bookmarks": [
-        {
-          "url": "https://buddypress.org/",
-          "title": "BuddyPress.org"
-        },
-        {
-          "url": "https://hi5.com/",
-          "title": "hi5 - Il social network per incontrare nuove persone"
-        },
-        {
-          "url": "https://evaturanzo.tumblr.com/",
-          "title": "@evaturanzo on Tumblr"
-        },
-        {
-          "url": "https://queertactics.tumblr.com/",
-          "title": "@queertactics on Tumblr"
-        },
-        {
-          "url": "https://theartguy.tumblr.com/",
-          "title": "The Art Guy"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "ai-tech-content",
-      "bookmarks": [
-        {
-          "url": "https://allenai.org/business-code-of-conduct",
-          "title": "Business partner code of conduct | Ai2"
-        },
-        {
-          "url": "https://emmafcownie.medium.com/ai-and-art-what-you-need-to-know-a1fd76311b8b",
-          "title": "AI and Art:What You Need to Know. The Robots are coming for our Art... | by Emma Cownie | Medium"
-        },
-        {
-          "url": "https://octoverse.github.com",
-          "title": "Octoverse 2024: The state of open source | The State of the Octoverse"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "fashion-style-content",
-      "bookmarks": [
-        {
-          "url": "https://www.lillypulitzer.com/belle-tassel-necklace/007656.html?dwvar_007656_color=962",
-          "title": "Women's Resort Wear, Dresses & Swimwear | Lilly Pulitzer"
-        },
-        {
-          "url": "https://www.aliveshoes.com/yanim-silvia/terms",
-          "title": "Yanim Silvia | A Custom Shoe concept by Yanim Silvia"
-        },
-        {
-          "url": "https://www.vogue.com/article/nyfw-editors-street-style-looks-ss26",
-          "title": "The Fall-Perfect Street Style Vogue Editors Brought to New York Fashion Week | Vogue"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "literary-religious-archives",
@@ -328,23 +292,41 @@
       "name": "news-politics-current",
       "bookmarks": [
         {
-          "url": "https://grapee.jp/en/131858",
-          "title": "Popular Japanese Actress Suzu Hirose Subjected to Racist Coronavirus Comments on Instagram - grape Japan"
-        },
-        {
-          "url": "https://www.la-croix.com/elections/resultats-presidentielles/bas-rhin-67/bernolsheim-67170",
-          "title": "Résultats présidentielle 2022 : Bernolsheim (67170)"
-        },
-        {
           "url": "https://www.metrojacksonville.com/forum/index.php?topic=36694.msg515939",
           "title": "Jacksonville Mayoral Election 2023"
         },
         {
           "url": "https://siol.net/kljucne-besede/nepremagljivi-dvojec-79165/articles",
           "title": "Nepremagljivi dvojec na Siol.net"
+        },
+        {
+          "url": "https://grapee.jp/en/131858",
+          "title": "Popular Japanese Actress Suzu Hirose Subjected to Racist Coronavirus Comments on Instagram - grape Japan"
+        },
+        {
+          "url": "https://www.la-croix.com/elections/resultats-presidentielles/bas-rhin-67/bernolsheim-67170",
+          "title": "Résultats présidentielle 2022 : Bernolsheim (67170)"
         }
       ],
       "count": 4
+    },
+    {
+      "name": "ai-tech-content",
+      "bookmarks": [
+        {
+          "url": "https://emmafcownie.medium.com/ai-and-art-what-you-need-to-know-a1fd76311b8b",
+          "title": "AI and Art:What You Need to Know. The Robots are coming for our Art... | by Emma Cownie | Medium"
+        },
+        {
+          "url": "https://allenai.org/business-code-of-conduct",
+          "title": "Business partner code of conduct | Ai2"
+        },
+        {
+          "url": "https://octoverse.github.com",
+          "title": "Octoverse 2024: The state of open source | The State of the Octoverse"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "business-it-services",
@@ -372,23 +354,19 @@
           "title": "Login or Sign Up - Dropbox"
         },
         {
-          "url": "https://www.vplayed.com",
-          "title": "VPlayed: #1 Streaming Platform to Launch & Monetize Videos"
-        },
-        {
           "url": "https://www.ventunotech.com",
           "title": "Ventuno | The Leading OTT Platform & VOD Platform Provider"
+        },
+        {
+          "url": "https://www.vplayed.com",
+          "title": "VPlayed: #1 Streaming Platform to Launch & Monetize Videos"
         }
       ],
       "count": 3
     },
     {
-      "name": "e-commerce-mobile-apps",
+      "name": "ecommerce-mobile-apps",
       "bookmarks": [
-        {
-          "url": "https://market.android.com/details?id=com.usablenet.mobile.walgreen",
-          "title": "Walgreens - Apps on Google Play"
-        },
         {
           "url": "https://www.gyft.com",
           "title": "Gyft: Buy, Send & Redeem Gift Cards Online or with Mobile App"
@@ -396,6 +374,28 @@
         {
           "url": "https://www.vijaysales.com/?gclid=Cj0KCQiAkuP9BRCkARIsAKGLE8XNFFBps909mKzX4jdv7mqfunBVwGYRtAEKDq0EUJ25g7eJ_S8KLqQaAktIEALw_wcB",
           "title": "Home Page"
+        },
+        {
+          "url": "https://market.android.com/details?id=com.usablenet.mobile.walgreen",
+          "title": "Walgreens - Apps on Google Play"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "fashion-style-content",
+      "bookmarks": [
+        {
+          "url": "https://www.vogue.com/article/nyfw-editors-street-style-looks-ss26",
+          "title": "The Fall-Perfect Street Style Vogue Editors Brought to New York Fashion Week | Vogue"
+        },
+        {
+          "url": "https://www.lillypulitzer.com/belle-tassel-necklace/007656.html?dwvar_007656_color=962",
+          "title": "Women's Resort Wear, Dresses & Swimwear | Lilly Pulitzer"
+        },
+        {
+          "url": "https://www.aliveshoes.com/yanim-silvia/terms",
+          "title": "Yanim Silvia | A Custom Shoe concept by Yanim Silvia"
         }
       ],
       "count": 3
@@ -422,30 +422,30 @@
       "name": "healthcare-education",
       "bookmarks": [
         {
-          "url": "https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html",
-          "title": "The ECHO Model - Project ECHO"
-        },
-        {
           "url": "http://www.pewresearch.org/",
           "title": "Pew Research Center | Numbers, Facts and Trends Shaping Your World"
         },
         {
           "url": "https://www.pritikin.com/health-experts",
           "title": "Physicians & Health Experts - Pritikin Longevity Center"
+        },
+        {
+          "url": "https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html",
+          "title": "The ECHO Model - Project ECHO"
         }
       ],
       "count": 3
     },
     {
-      "name": "transportation-travel",
+      "name": "travel-transportation",
       "bookmarks": [
-        {
-          "url": "http://tech-m.com.pl/oferta/rodzaj-montazu/na-zewnatrz-pojazdu/",
-          "title": "NA ZEWNĄTRZ POJAZDU | Techmot"
-        },
         {
           "url": "https://www.cp.pt/passageiros/pt/informacoes/atrasos-e-supressoes",
           "title": "CP - Comboios de Portugal"
+        },
+        {
+          "url": "http://tech-m.com.pl/oferta/rodzaj-montazu/na-zewnatrz-pojazdu/",
+          "title": "NA ZEWNĄTRZ POJAZDU | Techmot"
         },
         {
           "url": "https://worldpackersplatform.herokuapp.com/search/europe/italy/province_of_bergamo?skills%5B%5D=night_shift&special_rewards%5B%5D=free_laundry",

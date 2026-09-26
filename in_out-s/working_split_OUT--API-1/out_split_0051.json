@@ -39,7 +39,7 @@
       "count": 8
     },
     {
-      "name": "home-shopping-lifestyle",
+      "name": "home-lifestyle-shopping",
       "bookmarks": [
         {
           "url": "https://www.10best.com/",
@@ -62,12 +62,12 @@
           "title": "Professional Organizer Washington DC | The Model Home"
         },
         {
-          "url": "https://www.joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
-          "title": "Rolling Facial Massager - Joanna Czech"
-        },
-        {
           "url": "http://walmart.com/",
           "title": "Robot or human?"
+        },
+        {
+          "url": "https://www.joannaczech.com/collections/joanna-czech-tools-accessories/products/joanna-czech-face-massage-roller",
+          "title": "Rolling Facial Massager - Joanna Czech"
         }
       ],
       "count": 7
@@ -137,7 +137,7 @@
       "count": 6
     },
     {
-      "name": "software-tools-tech",
+      "name": "tech-software-tools",
       "bookmarks": [
         {
           "url": "https://www.ownbackup.com/blog/10-steps-transition-salesforce-lightning/",
@@ -229,24 +229,6 @@
       "count": 4
     },
     {
-      "name": "cooking-recipes-food",
-      "bookmarks": [
-        {
-          "url": "https://www.bbcgoodfood.com/howto/guide/what-to-cook-for-dinner",
-          "title": "30 dinners for when you don't know what to cook | Good Food"
-        },
-        {
-          "url": "https://thewoksoflife.com/",
-          "title": "Home - The Woks of Life"
-        },
-        {
-          "url": "https://www.grubhub.com/restaurant/hop-shing-5000-us-17-fleming-island/1546533?utm_medium=grubhub-owned-menu-properties&utm_source=allmenus.com&utm_content=1546533&utm_campaign=menu-page&affiliate=",
-          "title": "Prepare your taste buds..."
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "entertainment-media",
       "bookmarks": [
         {
@@ -265,7 +247,25 @@
       "count": 3
     },
     {
-      "name": "nonprofit-organizations-social",
+      "name": "food-cooking-recipes",
+      "bookmarks": [
+        {
+          "url": "https://www.bbcgoodfood.com/howto/guide/what-to-cook-for-dinner",
+          "title": "30 dinners for when you don't know what to cook | Good Food"
+        },
+        {
+          "url": "https://thewoksoflife.com/",
+          "title": "Home - The Woks of Life"
+        },
+        {
+          "url": "https://www.grubhub.com/restaurant/hop-shing-5000-us-17-fleming-island/1546533?utm_medium=grubhub-owned-menu-properties&utm_source=allmenus.com&utm_content=1546533&utm_campaign=menu-page&affiliate=",
+          "title": "Prepare your taste buds..."
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "organizations-nonprofit-social",
       "bookmarks": [
         {
           "url": "https://www.leap.org/",

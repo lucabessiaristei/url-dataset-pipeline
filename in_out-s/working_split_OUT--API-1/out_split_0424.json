@@ -4,10 +4,6 @@
       "name": "news-articles",
       "bookmarks": [
         {
-          "url": "https://www.bnnbloomberg.ca/chicago-crime-defines-mayor-s-race-as-spending-lawbreaking-surge-1.1889271",
-          "title": "BNN Bloomberg - Canada Business News, TSX Today, Oil and Energy Prices"
-        },
-        {
           "url": "https://www.laphamsquarterly.org/archive/voices-in-time?field_region_value=pb&amp%3Bamp%3Bfield_time_period_tid=11&amp%3Bamp%3Bfield_issue_content_tid=251&amp%3Bfield_issue_content_tid=270&field_time_period_tid=11&field_issue_content_tid=256",
           "title": "Archived Voices in Time | Lapham's Quarterly"
         },
@@ -16,16 +12,20 @@
           "title": "Berea Internacional - Últimas Noticias, Fotos y Videos"
         },
         {
+          "url": "https://www.bnnbloomberg.ca/chicago-crime-defines-mayor-s-race-as-spending-lawbreaking-surge-1.1889271",
+          "title": "BNN Bloomberg - Canada Business News, TSX Today, Oil and Energy Prices"
+        },
+        {
           "url": "http://www.myarmoury.com/feature_oakeshott.html",
           "title": "Ewart Oakeshott: The Man and his Legacy -- myArmoury.com"
         },
         {
-          "url": "https://www.federalregister.gov/documents/2019/10/04/2019-21702/notice-of-availability-of-the-draft-supplemental-environmental-impact-statement-for-the-proposed",
-          "title": "Federal Register :: Notice of Availability of the Draft Supplemental Environmental Impact Statement for the Proposed Keystone XL Pipeline; Public Meeting Announcement"
-        },
-        {
           "url": "https://www.itsgoodfor.biz/case-study/facebook-criticized-censoring-aclu-blog-post-about-censorship",
           "title": "Facebook Criticized for Censoring ACLU Blog Post About Censorship | Case Study"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2019/10/04/2019-21702/notice-of-availability-of-the-draft-supplemental-environmental-impact-statement-for-the-proposed",
+          "title": "Federal Register :: Notice of Availability of the Draft Supplemental Environmental Impact Statement for the Proposed Keystone XL Pipeline; Public Meeting Announcement"
         },
         {
           "url": "https://thinkprogress.org/house-bill-endangers-sex-workers-advocates-say-7a47ce9b2b4f/",
@@ -59,61 +59,31 @@
       "count": 13
     },
     {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://3-sided-cube.hivebrite.com/",
-          "title": "Home | The Ocean Decade"
-        },
-        {
-          "url": "https://www.thecommunityfoundation.org/",
-          "title": "Greater Washington Community Foundation"
-        },
-        {
-          "url": "https://girlsinc.org",
-          "title": "Girls Inc. | Inspiring All Girls to be Strong, Smart & Bold"
-        },
-        {
-          "url": "https://usow.org/",
-          "title": "Homepage - USOW"
-        },
-        {
-          "url": "https://huridocs.org/",
-          "title": "Home | HURIDOCS"
-        },
-        {
-          "url": "https://osmfoundation.org/",
-          "title": "OpenStreetMap Foundation"
-        },
-        {
-          "url": "https://www.thefamilyconservancy.org/",
-          "title": "The Family Conservancy | Happy, Healthy, Educated Children"
-        },
-        {
-          "url": "https://wordpressfoundation.org/donate/",
-          "title": "Donate - WordPress Foundation"
-        }
-      ],
-      "count": 8
-    },
-    {
       "name": "business-resources",
       "bookmarks": [
         {
-          "url": "https://jobs.medium.com/?source=about_page---jobs_module_link-----------------------about_page_jobs_module_link-&utm_source=about&utm_medium=landing-page&utm_campaign=jobs&utm_content=module",
-          "title": "Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium"
+          "url": "https://www.sfaacc.org/",
+          "title": "Businesses | San Francisco African American Chamber Of Commerce | San Francisco"
         },
         {
-          "url": "https://canalpersonal.com/seguros-para-empresas/responsabilidad-civil/directivos",
-          "title": "Directivos - Seguros Canal Personal"
+          "url": "https://jobs.medium.com/?source=about_page---jobs_module_link-----------------------about_page_jobs_module_link-&utm_source=about&utm_medium=landing-page&utm_campaign=jobs&utm_content=module",
+          "title": "Careers at Medium | by Jobs @ Medium | Jobs at Medium | Medium"
         },
         {
           "url": "https://partnerships.nature.com/product/digital-advertising/",
           "title": "Digital Advertising | Engage with Scientists | Nature Partnerships"
         },
         {
+          "url": "https://canalpersonal.com/seguros-para-empresas/responsabilidad-civil/directivos",
+          "title": "Directivos - Seguros Canal Personal"
+        },
+        {
           "url": "https://www.score.org/",
           "title": "Free Small Business Mentorship and Resources | SCORE"
+        },
+        {
+          "url": "https://www.ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
         },
         {
           "url": "https://cardconnect.com/company/copilot",
@@ -122,14 +92,44 @@
         {
           "url": "https://business.guinnessworldrecords.com/br/contact-us?source=Website-PT-B2B-FORM-HOME-PAGE",
           "title": "ONE FORM. ENDLESS POSSIBILITIES."
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://wordpressfoundation.org/donate/",
+          "title": "Donate - WordPress Foundation"
         },
         {
-          "url": "https://www.sfaacc.org/",
-          "title": "Businesses | San Francisco African American Chamber Of Commerce | San Francisco"
+          "url": "https://girlsinc.org",
+          "title": "Girls Inc. | Inspiring All Girls to be Strong, Smart & Bold"
         },
         {
-          "url": "https://www.ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
+          "url": "https://www.thecommunityfoundation.org/",
+          "title": "Greater Washington Community Foundation"
+        },
+        {
+          "url": "https://huridocs.org/",
+          "title": "Home | HURIDOCS"
+        },
+        {
+          "url": "https://3-sided-cube.hivebrite.com/",
+          "title": "Home | The Ocean Decade"
+        },
+        {
+          "url": "https://usow.org/",
+          "title": "Homepage - USOW"
+        },
+        {
+          "url": "https://osmfoundation.org/",
+          "title": "OpenStreetMap Foundation"
+        },
+        {
+          "url": "https://www.thefamilyconservancy.org/",
+          "title": "The Family Conservancy | Happy, Healthy, Educated Children"
         }
       ],
       "count": 8
@@ -146,12 +146,12 @@
           "title": "Find DevTools bugs"
         },
         {
-          "url": "https://github.com/GlobalFishingWatch/gfwr",
-          "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
-        },
-        {
           "url": "https://make.wordpress.org/",
           "title": "Get Involved - WordPress.org"
+        },
+        {
+          "url": "https://github.com/GlobalFishingWatch/gfwr",
+          "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
         },
         {
           "url": "https://proj.org/usage/quickstart.html",
@@ -169,45 +169,11 @@
       "count": 7
     },
     {
-      "name": "hobbies-guides",
-      "bookmarks": [
-        {
-          "url": "https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-iph_fp-apl-avl-201111",
-          "title": "‎Getting Started with Fitness+"
-        },
-        {
-          "url": "https://pt.ifixit.com/Guide/translate/18385/52978/jp",
-          "title": "Traduzir passo nº 8 a iPhone 5s Front Panel Assembly Replacement - iFixit"
-        },
-        {
-          "url": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/",
-          "title": "Minor Arcana Tarot Card Meanings | Biddy Tarot"
-        },
-        {
-          "url": "https://www.officialkwanzaawebsite.org/the-greetings.html",
-          "title": "Official Kwanzaa Website"
-        },
-        {
-          "url": "https://www.sbattezzati.it/debaptisms/show?code=LMl1FPFyxs6so",
-          "title": "Scheda sbattezzo [S. Giovanni Battista - VILLORBA (TV), 13/11/2009]"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85916",
-          "title": "Searchable Recipe Database - ASPIC DI FRAGOLA E PISTACCHI"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "culture-design",
       "bookmarks": [
         {
           "url": "https://www.allesoverboekenenschrijvers.nl/tag/2011/",
           "title": "2011 Archieven - Alles over boeken en schrijvers"
-        },
-        {
-          "url": "https://www.flickr.com/photos/faonews/albums/",
-          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
         },
         {
           "url": "https://leseditionsextensibles.com/collections/sur-la-page-abandonnes/sur%20la%20page,%20abandonn%C3%A9s%20vol.2",
@@ -224,6 +190,10 @@
         {
           "url": "https://www.typewolf.com/resources",
           "title": "The Best Typography Resources for 2025 · Typewolf"
+        },
+        {
+          "url": "https://www.flickr.com/photos/faonews/albums/",
+          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
         }
       ],
       "count": 6
@@ -232,28 +202,58 @@
       "name": "government-civic",
       "bookmarks": [
         {
-          "url": "https://forms.gle/f52Dk28DmJNgzwCp8",
-          "title": "Evaluación de satisfacción página Web INCOPESCA"
-        },
-        {
           "url": "https://www.istat.it/it/dati",
           "title": "Dati - Istat"
         },
         {
-          "url": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
-          "title": "Passport Seva Home | Indian Passport | Passport | Passport Seva Project"
+          "url": "https://forms.gle/f52Dk28DmJNgzwCp8",
+          "title": "Evaluación de satisfacción página Web INCOPESCA"
         },
         {
           "url": "https://scorecard.worldbank.org/",
           "title": "Measuring Impact | World Bank Group Scorecard"
         },
         {
-          "url": "https://www.nass.org/can-I-vote/voter-registration-status",
-          "title": "Voter Registration Status | NASS"
+          "url": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
+          "title": "Passport Seva Home | Indian Passport | Passport | Passport Seva Project"
         },
         {
           "url": "https://www.dpp.cz/en/timetables",
           "title": "Timetables | Prague Public Transit Company, joint-stock company"
+        },
+        {
+          "url": "https://www.nass.org/can-I-vote/voter-registration-status",
+          "title": "Voter Registration Status | NASS"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "hobby-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/",
+          "title": "Minor Arcana Tarot Card Meanings | Biddy Tarot"
+        },
+        {
+          "url": "https://www.officialkwanzaawebsite.org/the-greetings.html",
+          "title": "Official Kwanzaa Website"
+        },
+        {
+          "url": "https://www.sbattezzati.it/debaptisms/show?code=LMl1FPFyxs6so",
+          "title": "Scheda sbattezzo [S. Giovanni Battista - VILLORBA (TV), 13/11/2009]"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85916",
+          "title": "Searchable Recipe Database - ASPIC DI FRAGOLA E PISTACCHI"
+        },
+        {
+          "url": "https://pt.ifixit.com/Guide/translate/18385/52978/jp",
+          "title": "Traduzir passo nº 8 a iPhone 5s Front Panel Assembly Replacement - iFixit"
+        },
+        {
+          "url": "https://fitness.apple.com/subscribe?itscg=10000&itsct=fit-promo-iph_fp-apl-avl-201111",
+          "title": "‎Getting Started with Fitness+"
         }
       ],
       "count": 6
@@ -348,6 +348,10 @@
       "name": "entertainment-media",
       "bookmarks": [
         {
+          "url": "https://www.wykop.pl/tag/technologia/",
+          "title": "#technologia :: Wykop.pl"
+        },
+        {
           "url": "https://www.fredrogers.org/",
           "title": "Home - Fred Rogers Productions"
         },
@@ -362,10 +366,6 @@
         {
           "url": "https://www.draysbay.com/2011/8/3/2341570/thoughts-on-matt-moore",
           "title": "Thoughts on Matt Moore | DRaysBay"
-        },
-        {
-          "url": "https://www.wykop.pl/tag/technologia/",
-          "title": "#technologia :: Wykop.pl"
         }
       ],
       "count": 5

@@ -12,38 +12,38 @@
           "title": "BNP Paribas | The bank for a changing world"
         },
         {
-          "url": "https://data.calgary.ca/",
-          "title": "Open Calgary | Open Calgary"
-        },
-        {
           "url": "https://discovery.nationalarchives.gov.uk/",
           "title": "Discovery | The National Archives"
+        },
+        {
+          "url": "http://www.ucsb.edu/",
+          "title": "Home | UC Santa Barbara"
         },
         {
           "url": "https://invest.bnpparibas/en",
           "title": "Investors & Shareholders | BNP Paribas Bank"
         },
         {
-          "url": "https://opendata.paris.fr/explore/dataset/quartier_paris/information/",
-          "title": "Quartiers administratifs - Paris Data"
+          "url": "https://data.calgary.ca/",
+          "title": "Open Calgary | Open Calgary"
         },
         {
-          "url": "https://partnerships.nature.com/product/researcher-training/",
-          "title": "Training | Support Your Researchers | Nature Partnerships"
+          "url": "https://opendata.paris.fr/explore/dataset/quartier_paris/information/",
+          "title": "Quartiers administratifs - Paris Data"
         },
         {
           "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
           "title": "Staff Directory | Unitec"
         },
         {
-          "url": "http://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
+          "url": "https://partnerships.nature.com/product/researcher-training/",
+          "title": "Training | Support Your Researchers | Nature Partnerships"
         }
       ],
       "count": 9
     },
     {
-      "name": "shopping-e-commerce-products",
+      "name": "ecommerce-shopping-products",
       "bookmarks": [
         {
           "url": "https://www.bmw-bahrain.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
@@ -81,70 +81,6 @@
       "count": 8
     },
     {
-      "name": "tech-software-development",
-      "bookmarks": [
-        {
-          "url": "https://www.apple.com/itunes/",
-          "title": "iTunes - Apple"
-        },
-        {
-          "url": "https://wiki.openstreetmap.org/wiki/Contributors",
-          "title": "Contributors - OpenStreetMap Wiki"
-        },
-        {
-          "url": "https://hacks.mozilla.org/",
-          "title": "Home - Mozilla Hacks - the Web developer blog"
-        },
-        {
-          "url": "http://www.microsim.com/",
-          "title": "Introduction to Microsim of Mobile Phone"
-        },
-        {
-          "url": "http://www.nborg.com",
-          "title": "nB0rg - Home"
-        },
-        {
-          "url": "https://docs.npmjs.com/",
-          "title": "npm Docs"
-        },
-        {
-          "url": "https://blog.whatsapp.com/",
-          "title": "WhatsApp Blog"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "environmental-sustainability",
-      "bookmarks": [
-        {
-          "url": "https://www.ipcc.ch/report/ar6/wg2/",
-          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
-        },
-        {
-          "url": "https://www.conservation.org/what/Pages/forests.aspx",
-          "title": "Stabilizing Our Climate by Protecting and Restoring Nature"
-        },
-        {
-          "url": "https://apnews.com/article/china-oceans-overfishing-squid-294ff1e489589b2510cc806ec898c78f",
-          "title": "Great Wall of Lights: China's sea power on Darwin's doorstep | AP News"
-        },
-        {
-          "url": "https://donabertarelli.com/dona-bertarelli/",
-          "title": "Our Founder - Dona Bertarelli Philanthropy"
-        },
-        {
-          "url": "http://www.oceansatlas.org/",
-          "title": "UN Atlas of the Oceans: Home"
-        },
-        {
-          "url": "https://belize.oceana.org/",
-          "title": "Home - Oceana Belize"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "hobbies-arts-general",
       "bookmarks": [
         {
@@ -179,37 +115,41 @@
       "count": 7
     },
     {
-      "name": "news-media-sports",
+      "name": "software-development-tech",
       "bookmarks": [
         {
-          "url": "https://newsroom.accenture.com",
-          "title": "Newsroom | Accenture"
+          "url": "https://wiki.openstreetmap.org/wiki/Contributors",
+          "title": "Contributors - OpenStreetMap Wiki"
         },
         {
-          "url": "http://CekFakta.com?trk=organization_guest_main-feed-card-text",
-          "title": "CekFakta"
+          "url": "https://hacks.mozilla.org/",
+          "title": "Home - Mozilla Hacks - the Web developer blog"
         },
         {
-          "url": "https://www.sevesteen.com/feeds/3240310945383736767/comments/default",
-          "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
+          "url": "http://www.microsim.com/",
+          "title": "Introduction to Microsim of Mobile Phone"
         },
         {
-          "url": "https://www.formula1.com/en/latest/all.html",
-          "title": "Latest F1 News"
+          "url": "https://www.apple.com/itunes/",
+          "title": "iTunes - Apple"
         },
         {
-          "url": "https://www.goal.com/en",
-          "title": "Football News, Live Scores, Results & Transfers | Goal.com"
+          "url": "http://www.nborg.com",
+          "title": "nB0rg - Home"
         },
         {
-          "url": "https://ipsnews.be",
-          "title": "Home | Inter Press Service"
+          "url": "https://docs.npmjs.com/",
+          "title": "npm Docs"
+        },
+        {
+          "url": "https://blog.whatsapp.com/",
+          "title": "WhatsApp Blog"
         }
       ],
-      "count": 6
+      "count": 7
     },
     {
-      "name": "social-justice-community",
+      "name": "community-social-justice",
       "bookmarks": [
         {
           "url": "https://www.aclu-mn.org",
@@ -220,12 +160,12 @@
           "title": "Heartland St. Louis Black Chamber of Commerce"
         },
         {
-          "url": "https://www.ncnw.org",
-          "title": "NCNW | Lead, Advocate, and Empower Women of African descent"
-        },
-        {
           "url": "https://www.usbcwomenofpower.com/",
           "title": "Home | USBC Womens Power 50"
+        },
+        {
+          "url": "https://www.ncnw.org",
+          "title": "NCNW | Lead, Advocate, and Empower Women of African descent"
         },
         {
           "url": "https://thenevadaindependent.com/article/why-is-the-nevada-department-of-corrections-profiting-off-struggling-families",
@@ -234,6 +174,66 @@
         {
           "url": "https://www.ywca-berkeley.org/",
           "title": "YWCA Berkeley/Oakland | Social Justice | Career Readiness | Financial Literacy"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "environmental-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://www.ipcc.ch/report/ar6/wg2/",
+          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
+        },
+        {
+          "url": "https://apnews.com/article/china-oceans-overfishing-squid-294ff1e489589b2510cc806ec898c78f",
+          "title": "Great Wall of Lights: China's sea power on Darwin's doorstep | AP News"
+        },
+        {
+          "url": "https://belize.oceana.org/",
+          "title": "Home - Oceana Belize"
+        },
+        {
+          "url": "https://donabertarelli.com/dona-bertarelli/",
+          "title": "Our Founder - Dona Bertarelli Philanthropy"
+        },
+        {
+          "url": "https://www.conservation.org/what/Pages/forests.aspx",
+          "title": "Stabilizing Our Climate by Protecting and Restoring Nature"
+        },
+        {
+          "url": "http://www.oceansatlas.org/",
+          "title": "UN Atlas of the Oceans: Home"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-media-sports",
+      "bookmarks": [
+        {
+          "url": "http://CekFakta.com?trk=organization_guest_main-feed-card-text",
+          "title": "CekFakta"
+        },
+        {
+          "url": "https://www.sevesteen.com/feeds/3240310945383736767/comments/default",
+          "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
+        },
+        {
+          "url": "https://www.goal.com/en",
+          "title": "Football News, Live Scores, Results & Transfers | Goal.com"
+        },
+        {
+          "url": "https://ipsnews.be",
+          "title": "Home | Inter Press Service"
+        },
+        {
+          "url": "https://www.formula1.com/en/latest/all.html",
+          "title": "Latest F1 News"
+        },
+        {
+          "url": "https://newsroom.accenture.com",
+          "title": "Newsroom | Accenture"
         }
       ],
       "count": 6
@@ -250,12 +250,12 @@
           "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
         },
         {
-          "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre/",
-          "title": "Festa del cioccolato artigianale sui Navigli Milanesi - MILANOEVENTS.IT | News 2.0 ed Eventi a Milano"
-        },
-        {
           "url": "http://haus-anna.eu/Haus-Anna-Ferienwohnung_pid,11489,N,12,y,2021,m,1,type,fbcal.html",
           "title": "Ferienwohnung - Haus Anna - Kössen in Tirol"
+        },
+        {
+          "url": "https://milanoevents.it/2021/10/29/festa-del-cioccolato-milano-navigli-novembre/",
+          "title": "Festa del cioccolato artigianale sui Navigli Milanesi - MILANOEVENTS.IT | News 2.0 ed Eventi a Milano"
         },
         {
           "url": "https://bk.asia-city.com/restaurants/news/bangkok-best-street-food",

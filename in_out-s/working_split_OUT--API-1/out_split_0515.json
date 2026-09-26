@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://2016annualreport.bloomberg.org/",
@@ -16,8 +16,20 @@
           "title": "Black Women's Wealth Alliance"
         },
         {
+          "url": "https://neighborhoodtrust.org/",
+          "title": "Financial security for all workers - Neighborhood Trust Financial Partners"
+        },
+        {
+          "url": "https://www.google.org/our-work/",
+          "title": "Google.org: Google's philanthropy"
+        },
+        {
           "url": "https://www.focusingphilanthropy.org/",
           "title": "Home - Focusing Philanthropy"
+        },
+        {
+          "url": "https://prepareandprosper.org/",
+          "title": "Home - Prepare + Prosper"
         },
         {
           "url": "https://www.firstnations.org/",
@@ -26,14 +38,6 @@
         {
           "url": "http://www.stoptb.org/",
           "title": "Home | Stop TB Partnership"
-        },
-        {
-          "url": "https://prepareandprosper.org/",
-          "title": "Home - Prepare + Prosper"
-        },
-        {
-          "url": "https://www.google.org/our-work/",
-          "title": "Google.org: Google's philanthropy"
         },
         {
           "url": "https://www.mccormickfoundation.org/",
@@ -46,10 +50,6 @@
         {
           "url": "https://www.inspiringchildren.org/",
           "title": "Inspiring Children Foundation"
-        },
-        {
-          "url": "https://neighborhoodtrust.org/",
-          "title": "Financial security for all workers - Neighborhood Trust Financial Partners"
         },
         {
           "url": "https://iibuffalo.org/new-american-integration/",
@@ -90,16 +90,16 @@
           "title": "Contact 1 - Apps You Love"
         },
         {
-          "url": "http://www.inegi.org.mx/terminos/terminos_info.aspx",
-          "title": "Página no encontrada"
-        },
-        {
           "url": "https://creatoracademy.youtube.com/page/home",
           "title": "Prima di continuare su YouTube"
         },
         {
           "url": "https://portuguese.alibaba.com/product-detail/artilady-artificial-wall-hanging-plants-with-wooden-sticks-home-decoration-1600378062143.html",
           "title": "Product Not Available"
+        },
+        {
+          "url": "http://www.inegi.org.mx/terminos/terminos_info.aspx",
+          "title": "Página no encontrada"
         },
         {
           "url": "https://api.whatsapp.com/send/?phone=14437877678&text=HOME&app_absent=0",
@@ -245,29 +245,7 @@
       "count": 6
     },
     {
-      "name": "hobbies-lifestyle",
-      "bookmarks": [
-        {
-          "url": "http://theaterdeverbeelding.nl/",
-          "title": "Home - Theater de Verbeelding"
-        },
-        {
-          "url": "https://microsoft.com/edge/features/surf-game",
-          "title": "Microsoft Edge Surf"
-        },
-        {
-          "url": "https://www.ildolomiti.it/societa/la-festa-della-pera-arriva-anche-lo-show-cooking-di-valerio-braschi-vincitore-di-masterchef",
-          "title": "Per la 'Festa della pera' arriva anche lo show cooking di Valerio Braschi, vincitore di Masterchef 2017 - il Dolomiti"
-        },
-        {
-          "url": "https://www.bonsainut.com/tags/tokaname/",
-          "title": "tokaname | Bonsai Nut"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://ellinikiagogi.gr/18-%CE%B8%CE%B1%CE%BB%CE%B1%CF%83%CF%83%CE%B9%CE%BD%CE%AC-%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1/",
@@ -371,34 +349,8 @@
       "count": 5
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://angusmon.tumblr.com/",
-          "title": "Angusmon"
-        },
-        {
-          "url": "https://maryannyutzy.com/2007/12/24/christmas-card-and-letter-2007/",
-          "title": "Christmas Card and Letter, 2007 | Delaware Grammy"
-        },
-        {
-          "url": "https://105northtower.tumblr.com/",
-          "title": "Obscure Star Trek References"
-        },
-        {
-          "url": "https://rainbowdash0223.tumblr.com/",
-          "title": "Rainbowdash0223 Design"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "government-sites",
       "bookmarks": [
-        {
-          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
-          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
-        },
         {
           "url": "https://Census.gov",
           "title": "Census.gov | U.S. Census Bureau Homepage"
@@ -410,6 +362,10 @@
         {
           "url": "http://www.senato.it/",
           "title": "Homepage | Senato della Repubblica"
+        },
+        {
+          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
+          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
         }
       ],
       "count": 4
@@ -432,6 +388,50 @@
         {
           "url": "https://www.whatsthebest.co.uk/tech/photography/",
           "title": "The Best Photography Products, Reviews and Advice | What's The Best"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "lifestyle-hobbies",
+      "bookmarks": [
+        {
+          "url": "http://theaterdeverbeelding.nl/",
+          "title": "Home - Theater de Verbeelding"
+        },
+        {
+          "url": "https://microsoft.com/edge/features/surf-game",
+          "title": "Microsoft Edge Surf"
+        },
+        {
+          "url": "https://www.ildolomiti.it/societa/la-festa-della-pera-arriva-anche-lo-show-cooking-di-valerio-braschi-vincitore-di-masterchef",
+          "title": "Per la 'Festa della pera' arriva anche lo show cooking di Valerio Braschi, vincitore di Masterchef 2017 - il Dolomiti"
+        },
+        {
+          "url": "https://www.bonsainut.com/tags/tokaname/",
+          "title": "tokaname | Bonsai Nut"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://angusmon.tumblr.com/",
+          "title": "Angusmon"
+        },
+        {
+          "url": "https://maryannyutzy.com/2007/12/24/christmas-card-and-letter-2007/",
+          "title": "Christmas Card and Letter, 2007 | Delaware Grammy"
+        },
+        {
+          "url": "https://105northtower.tumblr.com/",
+          "title": "Obscure Star Trek References"
+        },
+        {
+          "url": "https://rainbowdash0223.tumblr.com/",
+          "title": "Rainbowdash0223 Design"
         }
       ],
       "count": 4

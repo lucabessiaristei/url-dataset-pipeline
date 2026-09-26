@@ -1,18 +1,14 @@
 {
   "folders": [
     {
-      "name": "civic-and-legal",
+      "name": "civic-legal",
       "bookmarks": [
         {
-          "url": "https://www.acluaz.org/",
-          "title": "Home - ACLU of Arizona"
-        },
-        {
-          "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
+          "url": "http://international.gc.ca/world-monde/index.aspx?lang=eng",
           "title": "Canada and the world"
         },
         {
-          "url": "https://www.openstreetmap.org/copyright",
+          "url": "http://www.openstreetmap.org/copyright",
           "title": "Copyright and License | OpenStreetMap"
         },
         {
@@ -32,11 +28,15 @@
           "title": "FastDemocracy - Fast, Simple Legislative Bill Tracking"
         },
         {
+          "url": "https://www.acluaz.org",
+          "title": "Home - ACLU of Arizona"
+        },
+        {
           "url": "https://www.legis.iowa.gov/legislation/BillBook?ba=HJR8&ga=90",
           "title": "Iowa Legislature - BillBook"
         },
         {
-          "url": "https://www.ticketmaster.com/h/privacy.html",
+          "url": "http://www.ticketmaster.com/h/privacy.html",
           "title": "Privacy Policy"
         },
         {
@@ -55,10 +55,10 @@
       "count": 12
     },
     {
-      "name": "corporate-and-education",
+      "name": "corporate-education",
       "bookmarks": [
         {
-          "url": "https://brandradianz.com/",
+          "url": "http://brandradianz.com/",
           "title": "brand radianz"
         },
         {
@@ -70,12 +70,12 @@
           "title": "Celebrating 100 Years of Disney and the Wonder of Mickey and Minnie - Disney Parks Blog"
         },
         {
-          "url": "https://www.blueorigin.com/",
-          "title": "Home | Blue Origin"
-        },
-        {
           "url": "https://hr.unm.edu/",
           "title": "Home :: Human Resources | The University of New Mexico"
+        },
+        {
+          "url": "https://www.blueorigin.com/",
+          "title": "Home | Blue Origin"
         },
         {
           "url": "https://engage.walmart-jump.com/",
@@ -86,12 +86,16 @@
           "title": "Latest News"
         },
         {
-          "url": "https://newsroom.accenture.com/",
+          "url": "https://newsroom.accenture.com",
           "title": "Newsroom | Accenture"
         },
         {
-          "url": "https://uw.edu/",
+          "url": "http://uw.edu",
           "title": "UW Homepage"
+        },
+        {
+          "url": "https://www.multilingualvacancies.com/jobs/estonian/packaging-printing/greece",
+          "title": "void"
         },
         {
           "url": "https://walmart.guildeducation.com/partner/",
@@ -100,10 +104,6 @@
         {
           "url": "https://fi-fi.workplace.com/resources/getting-started/quick-launch-guide?ref=AVs4psWqGaLKBkzCgKlfBEj_KEfmffImxOU7Z15i-LH5TVKPVeCLTSUULosvei4FPv9zyyinqKV_QggwEC_AoKMQtWeJUkctO1virvFqYiIT5LEFVQ7xp_f8tXNH3nNpqEjsgZEGO4voFxasUrMHtRo4AsAznrQ2p-a_0CmsLk290_Fm7yXi2YP7ngnVw4lJ-VEGhY4dm3DvzHtlqKCMqWIl3-wQEAV-HvFu2tLYOLTDIhxY_jJUHuS3VloA_eoGLjYaaBNGa8XB7ib4Cpt3XD5t",
           "title": "Workplace has entered read-only mode | Ohje- ja tukikeskus: Workplace"
-        },
-        {
-          "url": "https://www.multilingualvacancies.com/jobs/estonian/packaging-printing/greece",
-          "title": "void"
         }
       ],
       "count": 12
@@ -136,7 +136,7 @@
           "title": "KNMI - Weer - Verwachtingen"
         },
         {
-          "url": "https://docs.mapbox.com/",
+          "url": "https://docs.mapbox.com/#maps",
           "title": "Mapbox Docs"
         },
         {
@@ -178,7 +178,7 @@
           "title": "Europe | Financial Times"
         },
         {
-          "url": "https://ipsnews.be/",
+          "url": "https://ipsnews.be",
           "title": "Home | Inter Press Service"
         },
         {
@@ -201,15 +201,15 @@
       "count": 9
     },
     {
-      "name": "misc-international-and-niche",
+      "name": "misc-international-niche",
       "bookmarks": [
-        {
-          "url": "https://www.svwoltersdorf.de/2008/08/17/erfolgreicher-start-in-die-meisterschaft/",
-          "title": "Erfolgreicher Start in die Meisterschaft | SV 1919 Woltersdorf"
-        },
         {
           "url": "https://noticiassalamanca.com/campo/el-lobo-ataca-en-monleras-el-rebano-de-la-queseria-montiermo/",
           "title": "El lobo ataca en Monleras el rebaño de la quesería Montiermo - 【NOTICIAS de Salamanca】"
+        },
+        {
+          "url": "https://www.svwoltersdorf.de/2008/08/17/erfolgreicher-start-in-die-meisterschaft/",
+          "title": "Erfolgreicher Start in die Meisterschaft | SV 1919 Woltersdorf"
         },
         {
           "url": "https://www.ihuonline.unisinos.br/edicao/260",
@@ -239,7 +239,7 @@
       "count": 8
     },
     {
-      "name": "shopping-and-services",
+      "name": "shopping-services",
       "bookmarks": [
         {
           "url": "https://sbskin-nyc.com/about-us",
@@ -277,49 +277,15 @@
       "count": 8
     },
     {
-      "name": "culture-and-entertainment",
+      "name": "community-organizations",
       "bookmarks": [
-        {
-          "url": "http://allroseshavethorns.com/comic/643",
-          "title": "20100625 - All Roses Have Thorns"
-        },
-        {
-          "url": "https://www.angel.com/",
-          "title": "Angel: Stream Original, Uplifting Shows for the Whole Family"
-        },
-        {
-          "url": "https://www.awwwards.com/websites/colour/",
-          "title": "Awwwards Nominees"
-        },
-        {
-          "url": "https://www.mpkelley.com/",
-          "title": "Mike Kelley: Architectural Photographer"
-        },
-        {
-          "url": "https://cdn.sesamedigital.net/cdn.sesamestreetincommunities.org/SSICStory081_SummerSips/index.html",
-          "title": "Summer Sips"
-        },
-        {
-          "url": "https://www.annefrank.org/en/museum/tickets/",
-          "title": "Tickets | Anne Frank House"
-        },
-        {
-          "url": "https://www.vam.ac.uk/collections/metalwork",
-          "title": "Metalwork - Explore the Collections · V&A"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "organizations-community",
-      "bookmarks": [
-        {
-          "url": "https://www.clclt.org/",
-          "title": "Homeownership | CLCLT | Minneapolis"
-        },
         {
           "url": "http://studio-180.org/",
           "title": "HOME | STUDIO-180"
+        },
+        {
+          "url": "https://www.clclt.org/",
+          "title": "Homeownership | CLCLT | Minneapolis"
         },
         {
           "url": "https://www.midlandtxchamber.com/list/member/midland-african-american-chamber-of-entrepreneurs-inc-midland-1312",
@@ -345,7 +311,41 @@
       "count": 7
     },
     {
-      "name": "guides-and-how-to",
+      "name": "entertainment-culture",
+      "bookmarks": [
+        {
+          "url": "http://allroseshavethorns.com/comic/643",
+          "title": "20100625 - All Roses Have Thorns"
+        },
+        {
+          "url": "https://www.angel.com/",
+          "title": "Angel: Stream Original, Uplifting Shows for the Whole Family"
+        },
+        {
+          "url": "https://www.awwwards.com/websites/colour/",
+          "title": "Awwwards Nominees"
+        },
+        {
+          "url": "https://www.vam.ac.uk/collections/metalwork",
+          "title": "Metalwork - Explore the Collections · V&A"
+        },
+        {
+          "url": "https://www.mpkelley.com",
+          "title": "Mike Kelley: Architectural Photographer"
+        },
+        {
+          "url": "https://cdn.sesamedigital.net/cdn.sesamestreetincommunities.org/SSICStory081_SummerSips/index.html",
+          "title": "Summer Sips"
+        },
+        {
+          "url": "https://www.annefrank.org/en/museum/tickets/",
+          "title": "Tickets | Anne Frank House"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "guides-how-to",
       "bookmarks": [
         {
           "url": "https://www.ifixit.com/Guide/iPhone+SE+Battery+Replacement/61385",
@@ -405,7 +405,7 @@
       "count": 6
     },
     {
-      "name": "tech-tools-and-software",
+      "name": "tech-software-tools",
       "bookmarks": [
         {
           "url": "https://reviveapp.net/",
@@ -416,7 +416,7 @@
           "title": "Surfer: SEO Content Optimization Platform"
         },
         {
-          "url": "https://www.tgrmn.com/",
+          "url": "http://www.tgrmn.com/",
           "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
         },
         {

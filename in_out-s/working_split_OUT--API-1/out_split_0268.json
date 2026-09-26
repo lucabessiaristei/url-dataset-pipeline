@@ -1,12 +1,8 @@
 {
   "folders": [
     {
-      "name": "non-profits-and-advocacy",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
-        {
-          "url": "https://www.abrahamhouseofgod.com/",
-          "title": "DESOTO ISLAMIC CENTER"
-        },
         {
           "url": "https://www.aioic.org/",
           "title": "American Indian OIC - Education and Career Services in Minneapolis, MN"
@@ -14,6 +10,18 @@
         {
           "url": "https://www.itsgoodfor.biz/case-study/civil-rights-groups-criticize-facebook-censoring-police-shootings",
           "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
+        },
+        {
+          "url": "https://www.abrahamhouseofgod.com/",
+          "title": "DESOTO ISLAMIC CENTER"
+        },
+        {
+          "url": "https://www.groupraise.com/ontheborder/grand-rapids-mi?filters%5Btod%5D=true&lat=42.9633599&lng=-85.6680863&order=donation_rate",
+          "title": "Find Fundraisers at On The Border near Grand Rapids, MI | GroupRaise"
+        },
+        {
+          "url": "https://secure.vera.org/a/donate",
+          "title": "Help end mass incarceration. DONATE NOW. - Vera Institute of Justice"
         },
         {
           "url": "https://www.eval4action.org/",
@@ -24,10 +32,6 @@
           "title": "Home | Official website of UN World Wildlife Day"
         },
         {
-          "url": "https://www.jff.org/subscribe/",
-          "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
-        },
-        {
           "url": "https://keystoneservices.org/",
           "title": "Keystone Community Services - Services for youth, families and seniors."
         },
@@ -36,34 +40,30 @@
           "title": "Repak: Ireland's leading environmental not for profit organisation"
         },
         {
-          "url": "https://www.sams-usa.net/sams-responds-to-devastating-7-8-earthquake-impacting-syria/",
-          "title": "» SAMS Responds to Devastating 7.8 Earthquake Impacting Syria"
-        },
-        {
           "url": "https://getmyinternet.org/?page_id=5",
           "title": "Save the Affordable Connectivity Program | Common Sense Media"
+        },
+        {
+          "url": "https://www.jff.org/subscribe/",
+          "title": "Subscribe for JFF News and Updates | JFF - Jobs for the Future (JFF)"
         },
         {
           "url": "http://www.tuna-org.org",
           "title": "Tuna-org"
         },
         {
-          "url": "https://secure.vera.org/a/donate",
-          "title": "Help end mass incarceration. DONATE NOW. - Vera Institute of Justice"
-        },
-        {
           "url": "https://www.youthbusiness.org/",
           "title": "Youth Business International - Youth Business International"
         },
         {
-          "url": "https://www.groupraise.com/ontheborder/grand-rapids-mi?filters%5Btod%5D=true&lat=42.9633599&lng=-85.6680863&order=donation_rate",
-          "title": "Find Fundraisers at On The Border near Grand Rapids, MI | GroupRaise"
+          "url": "https://www.sams-usa.net/sams-responds-to-devastating-7-8-earthquake-impacting-syria/",
+          "title": "» SAMS Responds to Devastating 7.8 Earthquake Impacting Syria"
         }
       ],
       "count": 14
     },
     {
-      "name": "blogs-and-commentary",
+      "name": "blogs-commentary",
       "bookmarks": [
         {
           "url": "https://gracenerissa10.tumblr.com/",
@@ -90,12 +90,12 @@
           "title": "misteri orfici - Centro Studi La Runa"
         },
         {
-          "url": "https://blog.slowianskibestiariusz.pl/tag/slowianskie-demony/",
-          "title": "słowiańskie demony - Słowiański Bestiariusz"
-        },
-        {
           "url": "https://malpracticer.tumblr.com/",
           "title": "Squiggle Zone"
+        },
+        {
+          "url": "https://blog.slowianskibestiariusz.pl/tag/slowianskie-demony/",
+          "title": "słowiańskie demony - Słowiański Bestiariusz"
         },
         {
           "url": "https://brainfoodstudio.com/tag/vacuum-flask/",
@@ -105,7 +105,7 @@
       "count": 9
     },
     {
-      "name": "news-and-media",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://www.bnnbloomberg.ca/chicago-crime-defines-mayor-s-race-as-spending-lawbreaking-surge-1.1889271",
@@ -185,7 +185,7 @@
       "count": 8
     },
     {
-      "name": "tech-and-development",
+      "name": "tech-development",
       "bookmarks": [
         {
           "url": "https://www.ideart.si/blog/brezplacna-spletna-stran",
@@ -226,6 +226,10 @@
       "name": "company-profiles",
       "bookmarks": [
         {
+          "url": "https://savanta.com",
+          "title": "B2B & B2C Market Research Company"
+        },
+        {
           "url": "https://ca.linkedin.com/company/dawn-staffing-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
           "title": "Dawn Staffing Solutions Inc | LinkedIn"
         },
@@ -234,24 +238,20 @@
           "title": "Elsevier Pharma Solutions"
         },
         {
-          "url": "https://it.linkedin.com/company/pradagroup?trk=public_jobs_jserp-result_job-search-card-subtitle",
-          "title": "Prada Group | LinkedIn"
-        },
-        {
-          "url": "https://savanta.com",
-          "title": "B2B & B2C Market Research Company"
+          "url": "https://www.woodplc.com/",
+          "title": "Global engineering and consulting for energy and materials | Wood"
         },
         {
           "url": "http://www.vulcan.com",
           "title": "Home - Vulcan Real Estate"
         },
         {
-          "url": "http://www.tbs.com",
-          "title": "Warner Bros. Discovery"
+          "url": "https://it.linkedin.com/company/pradagroup?trk=public_jobs_jserp-result_job-search-card-subtitle",
+          "title": "Prada Group | LinkedIn"
         },
         {
-          "url": "https://www.woodplc.com/",
-          "title": "Global engineering and consulting for energy and materials | Wood"
+          "url": "http://www.tbs.com",
+          "title": "Warner Bros. Discovery"
         }
       ],
       "count": 7
@@ -259,6 +259,10 @@
     {
       "name": "business-tools",
       "bookmarks": [
+        {
+          "url": "https://www.jasper.ai/",
+          "title": "AI built for marketing | Jasper"
+        },
         {
           "url": "https://www.blackrock.com/aladdin",
           "title": "Aladdin® by BlackRock - software for portfolio management"
@@ -276,10 +280,6 @@
           "title": "Get Started with Google My Business by Bob [WEB] Tickets, Tue 07/03/2023 at 10:00 am | Eventbrite"
         },
         {
-          "url": "https://www.jasper.ai/",
-          "title": "AI built for marketing | Jasper"
-        },
-        {
           "url": "https://stripo.email/templates/womens-day-email-template-the-best-for-women-for-jewelry-industry/",
           "title": "The best for women Email Template by Stripo.email"
         }
@@ -289,10 +289,6 @@
     {
       "name": "education-online-learning",
       "bookmarks": [
-        {
-          "url": "https://authors.apple.com",
-          "title": "Self-publish an ebook - Apple Books for Authors"
-        },
         {
           "url": "https://gb.coursera.org/",
           "title": "Coursera | Degrees, Certificates, & Free Online Courses"
@@ -304,6 +300,10 @@
         {
           "url": "https://www.examveda.com/chemical-engineering/practice-mcq-question-on-refractory-technology/",
           "title": "Refractory Technology MCQ Questions & Answers | Chemical Engineering"
+        },
+        {
+          "url": "https://authors.apple.com",
+          "title": "Self-publish an ebook - Apple Books for Authors"
         },
         {
           "url": "https://web.stanford.edu/class/cs224n/",
@@ -324,8 +324,8 @@
           "title": "Florence Travel Guide by Rick Steves"
         },
         {
-          "url": "https://www.koifaire.com/ile-de-france/paris,11eme,arrondissement-75011/loisirs/musees-126/",
-          "title": "You are being redirected..."
+          "url": "https://waterfrontshaw.com/",
+          "title": "Lavasa Hotels | The Waterfront Shaw"
         },
         {
           "url": "https://www.wildmadagascar.org/",
@@ -340,8 +340,8 @@
           "title": "NS Flex webshop | NS"
         },
         {
-          "url": "https://waterfrontshaw.com/",
-          "title": "Lavasa Hotels | The Waterfront Shaw"
+          "url": "https://www.koifaire.com/ile-de-france/paris,11eme,arrondissement-75011/loisirs/musees-126/",
+          "title": "You are being redirected..."
         }
       ],
       "count": 6
@@ -362,37 +362,15 @@
           "title": "SUBSCRIBER TERMS AND CONDITIONS - Tribune Publishing"
         },
         {
-          "url": "https://its.ucsc.edu/terms/",
-          "title": "Website Privacy and Terms and Conditions - Information Technology Services"
-        },
-        {
           "url": "https://www.jiahometechs.com/support/",
           "title": "void"
+        },
+        {
+          "url": "https://its.ucsc.edu/terms/",
+          "title": "Website Privacy and Terms and Conditions - Information Technology Services"
         }
       ],
       "count": 5
-    },
-    {
-      "name": "art-and-photography",
-      "bookmarks": [
-        {
-          "url": "https://orasul.ro/photos/view/83873",
-          "title": "Asociatia Bucurestiul meu drag | Vizualizare fotografie"
-        },
-        {
-          "url": "https://www.louvre.fr/en/explore/collections",
-          "title": "Collections"
-        },
-        {
-          "url": "https://soundoftheearth.org/",
-          "title": "Sound of The Earth: Chapter 3"
-        },
-        {
-          "url": "https://www.whatsthebest.co.uk/tech/photography/",
-          "title": "The Best Photography Products, Reviews and Advice | What's The Best"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "education-university",
@@ -439,25 +417,29 @@
       "count": 4
     },
     {
-      "name": "misc-uncategorized",
+      "name": "photography-art",
       "bookmarks": [
         {
-          "url": "https://www.bing.com/give/?publ=&crea=&pn=",
-          "title": "Catalogo di riscatto Microsoft Rewards"
+          "url": "https://orasul.ro/photos/view/83873",
+          "title": "Asociatia Bucurestiul meu drag | Vizualizare fotografie"
         },
         {
-          "url": "http://www.pably.pl/znalezione-w-kraju/splonela-choc-byla-piekna-i-zadbana",
-          "title": "Domena pably.pl jest utrzymywana na serwerach nazwa.pl"
+          "url": "https://www.louvre.fr/en/explore/collections",
+          "title": "Collections"
         },
         {
-          "url": "https://api.goyellow.de/suche/elektrotechnik-und-montage/schwerte",
-          "title": "▷ Die 5 besten Betriebe für Elektrotechnik & Montage in Schwerte | Adresse | Telefonnummer | Bewertungen | Leistungen | Öffnungszeiten"
+          "url": "https://soundoftheearth.org/",
+          "title": "Sound of The Earth: Chapter 3"
+        },
+        {
+          "url": "https://www.whatsthebest.co.uk/tech/photography/",
+          "title": "The Best Photography Products, Reviews and Advice | What's The Best"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "reference-and-encyclopedias",
+      "name": "reference-encyclopedias",
       "bookmarks": [
         {
           "url": "https://ui-patterns.com/patterns",
@@ -497,7 +479,25 @@
       "count": 3
     },
     {
-      "name": "science-and-environment",
+      "name": "misc-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://www.bing.com/give/?publ=&crea=&pn=",
+          "title": "Catalogo di riscatto Microsoft Rewards"
+        },
+        {
+          "url": "http://www.pably.pl/znalezione-w-kraju/splonela-choc-byla-piekna-i-zadbana",
+          "title": "Domena pably.pl jest utrzymywana na serwerach nazwa.pl"
+        },
+        {
+          "url": "https://api.goyellow.de/suche/elektrotechnik-und-montage/schwerte",
+          "title": "▷ Die 5 besten Betriebe für Elektrotechnik & Montage in Schwerte | Adresse | Telefonnummer | Bewertungen | Leistungen | Öffnungszeiten"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "science-environment",
       "bookmarks": [
         {
           "url": "https://www.la7.it/laria-che-tira/video/cristoforetti-la-prima-italiana-nello-spazio-24-11-2014-141680",
@@ -515,7 +515,7 @@
       "count": 3
     },
     {
-      "name": "social-and-community",
+      "name": "social-community",
       "bookmarks": [
         {
           "url": "https://www.321chat.com/",

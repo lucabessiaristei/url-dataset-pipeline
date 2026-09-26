@@ -31,7 +31,7 @@
       "count": 6
     },
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://www.eburytrading.com/items/a-large-english-sixteen-arm-cut-glass-chandelier-of-fine-quality",
@@ -87,7 +87,7 @@
       "count": 5
     },
     {
-      "name": "online-tools-and-services",
+      "name": "online-tools-services",
       "bookmarks": [
         {
           "url": "https://bbpress.org/",
@@ -113,25 +113,7 @@
       "count": 5
     },
     {
-      "name": "news-and-information",
-      "bookmarks": [
-        {
-          "url": "https://www.padelfederacion.es/Estadisticas.asp?Id=199323",
-          "title": "Estadísticas | FEP"
-        },
-        {
-          "url": "https://www.napbots.com/post/polygon-upgrade-fixes-bug-to-secure-9-27-billion-matic-tokens",
-          "title": "napbots.com"
-        },
-        {
-          "url": "https://www.latham.london/2016/06/shanghai-set-to-improve-air-quality-ahead-of-g20-summit/",
-          "title": "Shanghai Set to Improve Air Quality Ahead of G20 Summit | Latham.London"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "gaming-and-recreation",
+      "name": "gaming-recreation",
       "bookmarks": [
         {
           "url": "http://www.destinationunreal.com/modules.php?name=maps&file=viewmap&id=2113",
@@ -149,7 +131,7 @@
       "count": 3
     },
     {
-      "name": "home-and-lifestyle-guides",
+      "name": "home-lifestyle-guides",
       "bookmarks": [
         {
           "url": "https://nationaleczema.org/eczema-products/about-nea-seal-of-acceptance/",
@@ -167,7 +149,25 @@
       "count": 3
     },
     {
-      "name": "personal-blog-tumblr",
+      "name": "news-information",
+      "bookmarks": [
+        {
+          "url": "https://www.padelfederacion.es/Estadisticas.asp?Id=199323",
+          "title": "Estadísticas | FEP"
+        },
+        {
+          "url": "https://www.napbots.com/post/polygon-upgrade-fixes-bug-to-secure-9-27-billion-matic-tokens",
+          "title": "napbots.com"
+        },
+        {
+          "url": "https://www.latham.london/2016/06/shanghai-set-to-improve-air-quality-ahead-of-g20-summit/",
+          "title": "Shanghai Set to Improve Air Quality Ahead of G20 Summit | Latham.London"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-blogs-tumblr",
       "bookmarks": [
         {
           "url": "https://smartandunsettled.tumblr.com/",

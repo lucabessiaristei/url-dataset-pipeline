@@ -95,6 +95,28 @@
       "count": 6
     },
     {
+      "name": "nonprofit-social-advocacy",
+      "bookmarks": [
+        {
+          "url": "https://hamiltonfamilies.org",
+          "title": "Hamilton Families"
+        },
+        {
+          "url": "https://everytown.org/",
+          "title": "Home | Everytown"
+        },
+        {
+          "url": "https://sczaction.org/",
+          "title": "S&PAA - Schizophrenia & Psychosis Action Alliance"
+        },
+        {
+          "url": "https://www.uso.org/uso-stands-ready-to-support",
+          "title": "United Service Organizations"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "public-scientific-data",
       "bookmarks": [
         {
@@ -112,28 +134,6 @@
         {
           "url": "https://v15.proteinatlas.org/ENSG00000159363-ATP13A2/cell/HEK+293",
           "title": "The Human Protein Atlas"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "social-non-profit-advocacy",
-      "bookmarks": [
-        {
-          "url": "https://hamiltonfamilies.org",
-          "title": "Hamilton Families"
-        },
-        {
-          "url": "https://everytown.org/",
-          "title": "Home | Everytown"
-        },
-        {
-          "url": "https://sczaction.org/",
-          "title": "S&PAA - Schizophrenia & Psychosis Action Alliance"
-        },
-        {
-          "url": "https://www.uso.org/uso-stands-ready-to-support",
-          "title": "United Service Organizations"
         }
       ],
       "count": 4
@@ -175,7 +175,7 @@
       "count": 3
     },
     {
-      "name": "sports-games-hobbies",
+      "name": "sports-hobbies-games",
       "bookmarks": [
         {
           "url": "http://www.5straight.net/",

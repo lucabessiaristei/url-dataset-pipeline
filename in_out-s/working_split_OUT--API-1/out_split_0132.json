@@ -43,7 +43,7 @@
       "count": 9
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.bloomberg.org/",
@@ -140,12 +140,12 @@
       "name": "government-services",
       "bookmarks": [
         {
-          "url": "https://www.asis.gov.au",
-          "title": "Home"
-        },
-        {
           "url": "https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule",
           "title": "Children's Online Privacy Protection Rule (\"COPPA\") | Federal Trade Commission"
+        },
+        {
+          "url": "https://www.asis.gov.au",
+          "title": "Home"
         },
         {
           "url": "https://www.ncjrs.gov",
@@ -161,28 +161,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://left.gr/mayri-ergasia?page=2",
-          "title": "μαύρη εργασία :: 3 :: left.gr"
-        },
-        {
-          "url": "https://news.sky.com/story/missing-man-found-in-sharks-stomach-after-family-identifies-his-tattoo-12821808",
-          "title": "Missing man found in shark's stomach after family identifies his tattoo | World News | Sky News"
-        },
-        {
-          "url": "http://www.thedaily.com/article/2012/12/10/121012-news-bus-audio-surveillance/",
-          "title": "New York Post - Breaking News, Top Headlines, Photos & Videos"
-        },
-        {
-          "url": "https://elpais.com/tecnologia/",
-          "title": "Tecnología en EL PAÍS"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "science-tech",
@@ -228,6 +206,28 @@
         {
           "url": "https://dreampirates.us/world/streams-free-all-around-the-world-thank-for-miami-heat-vs-oklahoma-city-thunder-dec-th-live-sportingnews-nba-gamecenter-miamihea-22-02-2021",
           "title": "streams free all around the world Thank for Miami Heat vs Oklahoma City Thunder Dec th Live sportingnews nba gamecenter miamihea"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://news.sky.com/story/missing-man-found-in-sharks-stomach-after-family-identifies-his-tattoo-12821808",
+          "title": "Missing man found in shark's stomach after family identifies his tattoo | World News | Sky News"
+        },
+        {
+          "url": "http://www.thedaily.com/article/2012/12/10/121012-news-bus-audio-surveillance/",
+          "title": "New York Post - Breaking News, Top Headlines, Photos & Videos"
+        },
+        {
+          "url": "https://elpais.com/tecnologia/",
+          "title": "Tecnología en EL PAÍS"
+        },
+        {
+          "url": "https://left.gr/mayri-ergasia?page=2",
+          "title": "μαύρη εργασία :: 3 :: left.gr"
         }
       ],
       "count": 4

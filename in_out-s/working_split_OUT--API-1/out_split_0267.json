@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-and-media",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://www.cbs.com",
@@ -35,7 +35,7 @@
       "count": 7
     },
     {
-      "name": "art-and-design",
+      "name": "art-design",
       "bookmarks": [
         {
           "url": "https://www.artforgood.cz/en/virtualni-prohlidky/rozcestniky/dilo/10566/detail",
@@ -95,7 +95,7 @@
       "count": 6
     },
     {
-      "name": "business-and-careers",
+      "name": "business-career",
       "bookmarks": [
         {
           "url": "http://ecotecnia.com.mx/",
@@ -136,18 +136,18 @@
           "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
         },
         {
-          "url": "http://www.inegi.org.mx/terminos/terminos_info.aspx",
-          "title": "Página no encontrada"
-        },
-        {
           "url": "https://usnavyseals.einnews.com/amp/pr_news/572814177/small-business-opportunities-for-military-spouses-to-sell-to-the-u-s-air-force-and-u-s-army",
           "title": "Please verify you are human."
+        },
+        {
+          "url": "http://www.inegi.org.mx/terminos/terminos_info.aspx",
+          "title": "Página no encontrada"
         }
       ],
       "count": 5
     },
     {
-      "name": "science-and-health",
+      "name": "science-health",
       "bookmarks": [
         {
           "url": "http://globalforestwatch.org",
@@ -173,7 +173,7 @@
       "count": 5
     },
     {
-      "name": "tech-and-development",
+      "name": "tech-development",
       "bookmarks": [
         {
           "url": "https://juicycube.net/?id=ctx",
@@ -197,6 +197,28 @@
         }
       ],
       "count": 5
+    },
+    {
+      "name": "consumer-products",
+      "bookmarks": [
+        {
+          "url": "https://www.tuftandpaw.com/products/cove-litter-box-full",
+          "title": "Cove Modern Litter Box - Tuft & Paw"
+        },
+        {
+          "url": "https://www.patagonia.com/product/womens-insulated-powder-town-ski-snowboard-jacket/195699211773.html",
+          "title": "Patagonia Women's Insulated Powder Town Ski/Snowboard Jacket"
+        },
+        {
+          "url": "https://www.shop.solisaudio.com/collections/frontpage/products/so-2000",
+          "title": "SO-2000 - SŌLIS Audio"
+        },
+        {
+          "url": "https://www.tinglyteds.co.uk/",
+          "title": "Tingly Ted's (@tinglyteds) • Instagram photos and videos"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "data-portals",
@@ -265,29 +287,7 @@
       "count": 4
     },
     {
-      "name": "products-consumer",
-      "bookmarks": [
-        {
-          "url": "https://www.tuftandpaw.com/products/cove-litter-box-full",
-          "title": "Cove Modern Litter Box - Tuft & Paw"
-        },
-        {
-          "url": "https://www.patagonia.com/product/womens-insulated-powder-town-ski-snowboard-jacket/195699211773.html",
-          "title": "Patagonia Women's Insulated Powder Town Ski/Snowboard Jacket"
-        },
-        {
-          "url": "https://www.shop.solisaudio.com/collections/frontpage/products/so-2000",
-          "title": "SO-2000 - SŌLIS Audio"
-        },
-        {
-          "url": "https://www.tinglyteds.co.uk/",
-          "title": "Tingly Ted's (@tinglyteds) • Instagram photos and videos"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "travel-and-dining",
+      "name": "travel-dining",
       "bookmarks": [
         {
           "url": "http://agaveuptown.com/",
@@ -307,24 +307,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "culture-and-history",
-      "bookmarks": [
-        {
-          "url": "https://99books.freedomarchives.org/document/half-century-commemoration-august-1971-2021/",
-          "title": "Half-Century Commemoration Statement: August 1971-2021 - 99 Books"
-        },
-        {
-          "url": "https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00021283",
-          "title": "Politische Geschichte des Eichsfeldes : mit Urkunden erläutert"
-        },
-        {
-          "url": "https://divinelight.org.gr/category/news/new-publications/",
-          "title": "Νέες Εκδόσεις Archive - Πνευματιστικός Όμιλος Αθηνών \"Τό Θείον Φως\""
-        }
-      ],
-      "count": 3
     },
     {
       "name": "finance-investing",
@@ -363,7 +345,25 @@
       "count": 3
     },
     {
-      "name": "hobby-and-crafts",
+      "name": "history-culture",
+      "bookmarks": [
+        {
+          "url": "https://99books.freedomarchives.org/document/half-century-commemoration-august-1971-2021/",
+          "title": "Half-Century Commemoration Statement: August 1971-2021 - 99 Books"
+        },
+        {
+          "url": "https://collections.thulb.uni-jena.de/receive/HisBest_cbu_00021283",
+          "title": "Politische Geschichte des Eichsfeldes : mit Urkunden erläutert"
+        },
+        {
+          "url": "https://divinelight.org.gr/category/news/new-publications/",
+          "title": "Νέες Εκδόσεις Archive - Πνευματιστικός Όμιλος Αθηνών \"Τό Θείον Φως\""
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-crafts",
       "bookmarks": [
         {
           "url": "https://algrium.com/products/1-lbs-6-mm-10-mm-mixed-polishing-sphere-ceramic-tumbling-media",

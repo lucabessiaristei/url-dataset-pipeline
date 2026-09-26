@@ -28,10 +28,6 @@
           "title": "Mississippi Aquarium"
         },
         {
-          "url": "https://www.plantedtank.net/forums/",
-          "title": "The Planted Tank Forum"
-        },
-        {
           "url": "https://www.popphoto.com",
           "title": "Popular Photography: Techniques and How-Tos, Camera Reviews"
         },
@@ -52,6 +48,10 @@
           "title": "Searchable Recipe Database - White Beans with Rosemary and Caramelized Onions"
         },
         {
+          "url": "https://www.plantedtank.net/forums/",
+          "title": "The Planted Tank Forum"
+        },
+        {
           "url": "https://uxplanet.org/",
           "title": "UX Planet"
         },
@@ -63,48 +63,6 @@
       "count": 14
     },
     {
-      "name": "corporate-tech",
-      "bookmarks": [
-        {
-          "url": "http://www.climatiq.io/",
-          "title": "Climatiq - API for Carbon Footprint Calculations"
-        },
-        {
-          "url": "http://www.iol.it/",
-          "title": "Creazione siti web, E-Commerce e presenza online | Italiaonline"
-        },
-        {
-          "url": "https://dynamics.microsoft.com/en-us/ai/customer-insights/",
-          "title": "Customer Insights and Journeys | Microsoft Dynamics 365"
-        },
-        {
-          "url": "https://district-360.com/?utm_source=IDA&utm_medium=website&utm_campaign=PartnerPage",
-          "title": "CRM Software for Downtown Districts | Business Improvement Downtown Districts"
-        },
-        {
-          "url": "https://partner.microsoft.com/en-US/membership/cloud-solution-provider",
-          "title": "Drive profitability as a Cloud Solution Provider"
-        },
-        {
-          "url": "https://partner.microsoft.com/en-US/",
-          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
-        },
-        {
-          "url": "https://au.linkedin.com/company/noggin-it?trk=public_jobs_jserp-result_job-search-card-subtitle",
-          "title": "Noggin | LinkedIn"
-        },
-        {
-          "url": "https://www.vicinft.com/company",
-          "title": "Vici Network"
-        },
-        {
-          "url": "http://www.lenzetech.com",
-          "title": "蓝牙6.1芯片支持Find My Network及其解决方案 | 伦茨科技"
-        }
-      ],
-      "count": 9
-    },
-    {
       "name": "news-articles",
       "bookmarks": [
         {
@@ -112,12 +70,12 @@
           "title": "Brothers Accused of Killing Chino Newlywed at His Wedding Reception | KTLA"
         },
         {
-          "url": "https://india.mongabay.com/",
-          "title": "Environmental news and information in India - Landing"
-        },
-        {
           "url": "https://sagawards.us18.list-manage.com/track/click?u=5d326b56cf6c1f8b0552973ea&id=eb565e34cd&e=514c0af493",
           "title": "Entertainment Weekly: Entertainment News for Pop Culture Fans"
+        },
+        {
+          "url": "https://india.mongabay.com/",
+          "title": "Environmental news and information in India - Landing"
         },
         {
           "url": "https://kleinanzeigen.rp-online.de/nersingen/fahrzeuge/autoteile-zubehoer/sonstige/",
@@ -142,6 +100,48 @@
         {
           "url": "http://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
           "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "tech-corporate",
+      "bookmarks": [
+        {
+          "url": "https://partner.microsoft.com/en-US/",
+          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
+        },
+        {
+          "url": "http://www.climatiq.io/",
+          "title": "Climatiq - API for Carbon Footprint Calculations"
+        },
+        {
+          "url": "http://www.iol.it/",
+          "title": "Creazione siti web, E-Commerce e presenza online | Italiaonline"
+        },
+        {
+          "url": "https://district-360.com/?utm_source=IDA&utm_medium=website&utm_campaign=PartnerPage",
+          "title": "CRM Software for Downtown Districts | Business Improvement Downtown Districts"
+        },
+        {
+          "url": "https://dynamics.microsoft.com/en-us/ai/customer-insights/",
+          "title": "Customer Insights and Journeys | Microsoft Dynamics 365"
+        },
+        {
+          "url": "https://partner.microsoft.com/en-US/membership/cloud-solution-provider",
+          "title": "Drive profitability as a Cloud Solution Provider"
+        },
+        {
+          "url": "https://au.linkedin.com/company/noggin-it?trk=public_jobs_jserp-result_job-search-card-subtitle",
+          "title": "Noggin | LinkedIn"
+        },
+        {
+          "url": "https://www.vicinft.com/company",
+          "title": "Vici Network"
+        },
+        {
+          "url": "http://www.lenzetech.com",
+          "title": "蓝牙6.1芯片支持Find My Network及其解决方案 | 伦茨科技"
         }
       ],
       "count": 9
@@ -309,7 +309,7 @@
       "count": 6
     },
     {
-      "name": "corporate-business",
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://amplypower.com/amply-power-integrates-watttime-api-to-enable-electric-fleets-to-minimize-and-report-total-greenhouse-gas-emissions/",
@@ -465,7 +465,7 @@
       "count": 5
     },
     {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "http://www.games-db.com/Arcade/",
@@ -487,7 +487,7 @@
       "count": 4
     },
     {
-      "name": "nonprofit-foundations",
+      "name": "nonprofits-foundations",
       "bookmarks": [
         {
           "url": "https://scorefoundation.org/about/",
@@ -509,7 +509,7 @@
       "count": 4
     },
     {
-      "name": "product-services",
+      "name": "products-services",
       "bookmarks": [
         {
           "url": "https://www.rajhracky.cz/bezpecnostni-prvky-c8729",
@@ -531,7 +531,7 @@
       "count": 4
     },
     {
-      "name": "social-media-blog",
+      "name": "social-media-blogs",
       "bookmarks": [
         {
           "url": "https://captainsnugglefuck.tumblr.com/",

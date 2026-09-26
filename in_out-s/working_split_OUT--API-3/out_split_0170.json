@@ -1,50 +1,58 @@
 {
   "folders": [
     {
-      "name": "dev-guides-tools",
+      "name": "business-corporate",
       "bookmarks": [
         {
-          "url": "https://training.contentful.com/",
-          "title": "Contentful Learning Center"
+          "url": "https://usnybcc.org/about/",
+          "title": "About Us | UpState New York Black Chamber of Commerce"
         },
         {
-          "url": "https://enterprise.github.com/contact",
-          "title": "Enterprise · A smarter way to work together · GitHub"
+          "url": "https://2019annualreport.bloomberg.org/",
+          "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://nextjs.org/docs/app/building-your-application/data-fetching",
-          "title": "Getting Started: Fetching Data | Next.js"
+          "url": "http://adcolor.org/conference?trk=organization_guest_main-feed-card_reshare-text",
+          "title": "Conference | ADCOLOR"
         },
         {
-          "url": "https://tailwindcss.com/docs/installation",
-          "title": "Installing Tailwind CSS with Vite - Tailwind CSS"
+          "url": "http://fusionlayer.com/",
+          "title": "FusionLayer | Network Source of Truth | IPAM DNS & DHCP (DDI)"
         },
         {
-          "url": "https://stat.ethz.ch/pipermail/r-devel/2012-March/063602.html",
-          "title": "[Rd] issue with Rd2pdf and \\Sexpr in Rd files"
+          "url": "https://nbmbaa.org/",
+          "title": "Home - Slider - NBMBAA"
         },
         {
-          "url": "https://optuna.readthedocs.io/en/stable/reference/generated/optuna.study.Study.html",
-          "title": "optuna.study.Study - Optuna 4.5.0 documentation"
+          "url": "https://www.agencyjr.com/post/i-audited-351-klaviyo-accounts-here-are-my-11-takeaways-to-help-you-sell-more",
+          "title": "I Audited 351+ Klaviyo Accounts, Here Are My 11 Takeaways To Help You Sell More | agencyJR"
         },
         {
-          "url": "https://www.applefritter.com/taxonomy/term/122",
-          "title": "PDS | Applefritter"
+          "url": "https://ir.spire.com/",
+          "title": "Investor Relations :: Spire Global, Inc. (SPIR)"
         },
         {
-          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
-          "title": "PolicyDetail - AWS Identity and Access Management"
+          "url": "https://looker.com/",
+          "title": "Looker business intelligence platform embedded analytics | Google Cloud"
         },
         {
-          "url": "https://mxtoolbox.com/spf.aspx",
-          "title": "SPF Check & SPF Lookup - Sender Policy Framework (SPF) - MxToolBox"
+          "url": "https://dotdashmeredith.mediaroom.com/",
+          "title": "Meredith Corporation MediaRoom - News Releases"
         },
         {
-          "url": "https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html",
-          "title": "Training a Classifier - PyTorch Tutorials 2.8.0+cu128 documentation"
+          "url": "https://sklep.izakrejcapawski.pl/plan-newsletterow-5/",
+          "title": "Plan newsletterów | IKP Szkolenia"
+        },
+        {
+          "url": "https://www.carat.fiserv.com/en-us/resources/",
+          "title": "Resources"
+        },
+        {
+          "url": "https://press.stripe.com/",
+          "title": "Stripe Press - Ideas for progress"
         }
       ],
-      "count": 10
+      "count": 12
     },
     {
       "name": "gov-legal-advocacy",
@@ -54,15 +62,15 @@
           "title": "ACLU of Missouri Statement on Book Ban Action by Wentzville School District | ACLU of Missouri"
         },
         {
-          "url": "https://dhhr.wv.gov/bms/Members/Apply/Pages/default.aspx",
+          "url": "https://dhhr.wv.gov/bms/Members/Apply/Pages/default.aspx?elqTrackId=d71b672f62824436a7ef4213214b2c86&elqaid=93&elqat=2#:~:text=%E2%80%8BThere%20are%20several%20ways,%2D855%2D889%2D4325",
           "title": "Applying for Healthcare: Medicaid, West Virginia Children's Health Insurance Program or Private Insurance at the Health Insurance Marketplace"
         },
         {
-          "url": "https://www.atf.gov/",
+          "url": "https://www.atf.gov",
           "title": "Bureau of Alcohol, Tobacco, Firearms and Explosives |"
         },
         {
-          "url": "https://leginfo.legislature.ca.gov/",
+          "url": "https://leginfo.legislature.ca.gov",
           "title": "California Legislative Information"
         },
         {
@@ -95,48 +103,6 @@
         }
       ],
       "count": 11
-    },
-    {
-      "name": "health-science",
-      "bookmarks": [
-        {
-          "url": "https://www.notimetowait.com/afib-explained",
-          "title": "AFib Symptoms And Other Info | No Time To Wait | Official Site"
-        },
-        {
-          "url": "http://www.mobilehealthteam.com/blog/post/all-salt-is-not-created-equal.html",
-          "title": "All Salt is Not Created Equal"
-        },
-        {
-          "url": "https://www.first-nature.com/fungi/amanita-muscaria.php",
-          "title": "Amanita muscaria, Fly Agaric mushroom"
-        },
-        {
-          "url": "https://nova.astrometry.net/",
-          "title": "Astrometry.net"
-        },
-        {
-          "url": "https://kratomguides.com/category/kratom-strains/?filter_by=review_high",
-          "title": "Best Kratom Strains, Types, Effects, Dosage - KratomGuides.com"
-        },
-        {
-          "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series",
-          "title": "Climate at a Glance | Global Time Series | National Centers for Environmental Information (NCEI)"
-        },
-        {
-          "url": "https://www.mba.ac.uk/",
-          "title": "Marine Biological Association | Marine Biology UK"
-        },
-        {
-          "url": "https://www.northeastanimalhospital.com/",
-          "title": "Northeast Animal Hospital | St. Petersburg"
-        },
-        {
-          "url": "https://viirsland.gsfc.nasa.gov/index.html",
-          "title": "VIIRS Land Team"
-        }
-      ],
-      "count": 9
     },
     {
       "name": "blogs-social-forums",
@@ -185,120 +151,6 @@
       "count": 10
     },
     {
-      "name": "business-corporate",
-      "bookmarks": [
-        {
-          "url": "https://2019annualreport.bloomberg.org/",
-          "title": "Annual Report | Bloomberg Philanthropies"
-        },
-        {
-          "url": "http://adcolor.org/conference?trk=organization_guest_main-feed-card_reshare-text",
-          "title": "Conference | ADCOLOR"
-        },
-        {
-          "url": "http://fusionlayer.com/",
-          "title": "FusionLayer | Network Source of Truth | IPAM DNS & DHCP (DDI)"
-        },
-        {
-          "url": "https://nbmbaa.org/",
-          "title": "Home - Slider - NBMBAA"
-        },
-        {
-          "url": "https://www.agencyjr.com/post/i-audited-351-klaviyo-accounts-here-are-my-11-takeaways-to-help-you-sell-more",
-          "title": "I Audited 351+ Klaviyo Accounts, Here Are My 11 Takeaways To Help You Sell More | agencyJR"
-        },
-        {
-          "url": "https://ir.spire.com/",
-          "title": "Investor Relations :: Spire Global, Inc. (SPIR)"
-        },
-        {
-          "url": "https://looker.com/",
-          "title": "Looker business intelligence platform embedded analytics | Google Cloud"
-        },
-        {
-          "url": "https://dotdashmeredith.mediaroom.com/",
-          "title": "Meredith Corporation MediaRoom - News Releases"
-        },
-        {
-          "url": "https://sklep.izakrejcapawski.pl/plan-newsletterow-5/",
-          "title": "Plan newsletterów | IKP Szkolenia"
-        },
-        {
-          "url": "https://www.carat.fiserv.com/en-us/resources/",
-          "title": "Resources"
-        },
-        {
-          "url": "https://press.stripe.com/",
-          "title": "Stripe Press - Ideas for progress"
-        },
-        {
-          "url": "https://usnybcc.org/about/",
-          "title": "About Us | UpState New York Black Chamber of Commerce"
-        }
-      ],
-      "count": 12
-    },
-    {
-      "name": "culture-history-museums",
-      "bookmarks": [
-        {
-          "url": "https://www.livescience.com/26903-35-ancient-pyramids-sudan.html",
-          "title": "35 Ancient Pyramids Discovered in Sudan Necropolis | Live Science"
-        },
-        {
-          "url": "https://www.forces-war-records.co.uk/medals/the-most-excellent-order-of-the-british-empire-dame-commander-dbe",
-          "title": "Dame Commander of the Most Excellent Order of the British Empire - Forces War Records"
-        },
-        {
-          "url": "https://sliderulemuseum.com/",
-          "title": "International Slide Rule Museum home page. ISRM is the world's largest free digital repository of all things concerning slide rules and other math artifacts. There are over 7000 Images or PDF's in the ISRM Galleries."
-        },
-        {
-          "url": "http://www.jaapsch.net/mechcalc/",
-          "title": "Jaap's Mechanical Calculators Page"
-        },
-        {
-          "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-gregoriano-egizio.html",
-          "title": "Museo Gregoriano Egizio"
-        },
-        {
-          "url": "https://artsexperiments.withgoogle.com/meroe/",
-          "title": "Pyramids of Meroë"
-        },
-        {
-          "url": "https://esotericarchives.com/agrippa/",
-          "title": "Writings of Heinrich Cornelius Agrippa (1486-1535)"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://www.che.nl/opleidingen-aanbod?amp%3Bf%5B1%5D=type%3AMaster&amp%3Bf%5B2%5D=type%3APost-HBO&amp%3Bf%5B3%5D=type%3APost-hbo&amp%3Bf%5B4%5D=vakgebied%3AEducatie&f%5B0%5D=type%3AModule&f%5B1%5D=type%3APost-hbo&f%5B2%5D=vorm%3ADeeltijd",
-          "title": "CHE | Studeren doe je in Ede | Opleidingen"
-        },
-        {
-          "url": "https://library.mines.edu/",
-          "title": "Colorado School of Mines - Arthur Lakes Library"
-        },
-        {
-          "url": "http://www.cs.hmc.edu/~hadas/",
-          "title": "Ran Libeskind-Hadas's Homepage"
-        },
-        {
-          "url": "https://www.somaiya.edu/en",
-          "title": "Somaiya Vidyavihar University"
-        },
-        {
-          "url": "https://proyectosinternacionales.educa2.madrid.org/noticias/-/blogs/webinario-scientix",
-          "title": "Webinar Scientix 24 de abril 2017 - Noticias | Proyectos Internacionales | EducaMadrid"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "entertainment-media",
       "bookmarks": [
         {
@@ -322,15 +174,15 @@
           "title": "Jochen Busse - Info zur Person mit Bilder, News & Links - Personensuche Yasni.de"
         },
         {
-          "url": "https://www.libreriadelsanto.it/libri/9788899005726/la-celebrazione-delleucaristia.html",
+          "url": "https://www.libreriadelsanto.it/libri/9788899005726/la-celebrazione-delleucaristia.html?utm_source=internal&utm_medium=link&utm_campaign=related_products&utm_content=auto",
           "title": "La celebrazione dell'eucaristia - Le Catechesi di papa Francesco libro, Francesco (Jorge Mario Bergoglio), Centro Eucaristico, settembre 2018, Eucaristia/Messa - LibreriadelSanto.it"
         },
         {
-          "url": "https://www.lieben.no/",
+          "url": "https://www.lieben.no",
           "title": "Lieben Fotografi, fotograf i Molde - Lieben Foto"
         },
         {
-          "url": "postermemorabilia.com/zh-cn/products/sanandreas",
+          "url": "https://postermemorabilia.com/zh-cn/products/sanandreas",
           "title": "San Andreas Signed Poster with COA"
         },
         {
@@ -343,106 +195,6 @@
         }
       ],
       "count": 10
-    },
-    {
-      "name": "gov-international",
-      "bookmarks": [
-        {
-          "url": "http://fdt.de/",
-          "title": "FDT Flachdach Technologie GmbH - Der Spezialist in der Flachdach-Abdichtung"
-        },
-        {
-          "url": "https://www.fostplus.be/en",
-          "title": "Homepage | Fost Plus"
-        },
-        {
-          "url": "https://www.zaragoza.es/",
-          "title": "La Web de la Ciudad de Zaragoza. Ayuntamiento de Zaragoza"
-        },
-        {
-          "url": "http://www.misau.gov.mz/index.php",
-          "title": "MINISTÉRIO DA SAÚDE"
-        },
-        {
-          "url": "https://data.calgary.ca/",
-          "title": "Open Calgary | Open Calgary"
-        },
-        {
-          "url": "http://www.ripe.net/",
-          "title": "Welcome to RIPE and the RIPE NCC - RIPE Network Coordination Centre"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "legal-policies",
-      "bookmarks": [
-        {
-          "url": "http://gsesmartiptv.com/privacy/index.html",
-          "title": "App Privacy Policy Generator"
-        },
-        {
-          "url": "https://www.walmartmexico.com/aviso-de-privacidad",
-          "title": "Aviso de Privacidad"
-        },
-        {
-          "url": "http://outfit7.com/privacy/",
-          "title": "PRIVACY POLICY FOR GAMES"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.bdcnetwork.com/investing-downtowns-pays-cities-regions",
-          "title": "Investing in downtowns pays off for cities, regions | Building Design+Construction"
-        },
-        {
-          "url": "http://one.npr.org/?sharedMediaId=491296791:491296928",
-          "title": "Should Your Next Car Be Electric? : NPR One"
-        },
-        {
-          "url": "https://electrek.co/2022/03/08/smart-ev-charging-results-in-substantial-emissions-reduction-new-study/",
-          "title": "Smart EV charging results in substantial emissions reduction - new study"
-        },
-        {
-          "url": "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/18631/Statement-from-Central-Park-Zoo-on-Eurasian-Eagle-Owl.aspx",
-          "title": "Statement from Central Park Zoo on Eurasian Eagle Owl > Newsroom"
-        },
-        {
-          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
-          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
-        },
-        {
-          "url": "https://arabpress.com/saudi-aid-agency-chief-meets-mexican-envoy-to-saudi-arabia",
-          "title": "Saudi aid agency chief meets Mexican envoy to Saudi Arabia - Arab Press"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "nonprofits-charities",
-      "bookmarks": [
-        {
-          "url": "https://www.accessability.org/",
-          "title": "AccessAbility, Inc. Serving the Twin Cities Area"
-        },
-        {
-          "url": "https://donate.nationalgeographic.org/donate",
-          "title": "Donate to National Geographic - National Geographic Society"
-        },
-        {
-          "url": "https://www.industree.org.in/",
-          "title": "Home | Industree Foundation"
-        },
-        {
-          "url": "https://interfaithworks-bloom.kindful.com/",
-          "title": "Interfaith Works, Inc. | Kindful"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "shopping-products",
@@ -468,7 +220,7 @@
           "title": "Email Countdown Timer - Sendtric"
         },
         {
-          "url": "https://www.bb-shop.ro/bijuterie-vida_colored_diamonds-100934.html",
+          "url": "https://www.bb-shop.ro/bijuterie-vida_colored_diamonds-100934.html?utm_source=splendor.ro&utm_campaign=Bijuterii&utm_medium=referral&utm_content=PaginaProdus",
           "title": "Inele de logodna Vida Colored Diamonds 43983R-LD8WP | Bijuterii dama | B&B SHOP Magazin online de bijuterii si accesorii"
         },
         {
@@ -489,6 +241,90 @@
         }
       ],
       "count": 10
+    },
+    {
+      "name": "dev-guides-tools",
+      "bookmarks": [
+        {
+          "url": "https://stat.ethz.ch/pipermail/r-devel/2012-March/063602.html",
+          "title": "[Rd] issue with Rd2pdf and \\Sexpr in Rd files"
+        },
+        {
+          "url": "https://training.contentful.com/",
+          "title": "Contentful Learning Center"
+        },
+        {
+          "url": "https://enterprise.github.com/contact",
+          "title": "Enterprise · A smarter way to work together · GitHub"
+        },
+        {
+          "url": "https://tailwindcss.com/docs/installation",
+          "title": "Installing Tailwind CSS with Vite - Tailwind CSS"
+        },
+        {
+          "url": "https://optuna.readthedocs.io/en/stable/reference/generated/optuna.study.Study.html",
+          "title": "optuna.study.Study - Optuna 4.5.0 documentation"
+        },
+        {
+          "url": "https://www.applefritter.com/taxonomy/term/122",
+          "title": "PDS | Applefritter"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
+          "title": "PolicyDetail - AWS Identity and Access Management"
+        },
+        {
+          "url": "https://mxtoolbox.com/spf.aspx",
+          "title": "SPF Check & SPF Lookup - Sender Policy Framework (SPF) - MxToolBox"
+        },
+        {
+          "url": "https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html",
+          "title": "Training a Classifier - PyTorch Tutorials 2.8.0+cu128 documentation"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "science-health",
+      "bookmarks": [
+        {
+          "url": "https://www.notimetowait.com/afib-explained",
+          "title": "AFib Symptoms And Other Info | No Time To Wait | Official Site"
+        },
+        {
+          "url": "http://www.mobilehealthteam.com/blog/post/all-salt-is-not-created-equal.html",
+          "title": "All Salt is Not Created Equal"
+        },
+        {
+          "url": "https://www.first-nature.com/fungi/amanita-muscaria.php",
+          "title": "Amanita muscaria, Fly Agaric mushroom"
+        },
+        {
+          "url": "https://nova.astrometry.net/",
+          "title": "Astrometry.net"
+        },
+        {
+          "url": "https://kratomguides.com/category/kratom-strains/?filter_by=review_high",
+          "title": "Best Kratom Strains, Types, Effects, Dosage - KratomGuides.com"
+        },
+        {
+          "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series",
+          "title": "Climate at a Glance | Global Time Series | National Centers for Environmental Information (NCEI)"
+        },
+        {
+          "url": "https://www.mba.ac.uk/",
+          "title": "Marine Biological Association | Marine Biology UK"
+        },
+        {
+          "url": "https://www.northeastanimalhospital.com/",
+          "title": "Northeast Animal Hospital | St. Petersburg"
+        },
+        {
+          "url": "https://viirsland.gsfc.nasa.gov/index.html",
+          "title": "VIIRS Land Team"
+        }
+      ],
+      "count": 9
     },
     {
       "name": "sports",
@@ -529,10 +365,130 @@
       "count": 8
     },
     {
+      "name": "history-culture-museums",
+      "bookmarks": [
+        {
+          "url": "https://www.livescience.com/26903-35-ancient-pyramids-sudan.html",
+          "title": "35 Ancient Pyramids Discovered in Sudan Necropolis | Live Science"
+        },
+        {
+          "url": "https://www.forces-war-records.co.uk/medals/the-most-excellent-order-of-the-british-empire-dame-commander-dbe#:~:text=Dame%20Commander%20%28DBE%29-,The%20Most%20Excellent%20Order%20of%20the%20British%20Empire%20%2D%20Dame%20Commander,recognition%20of%20outstanding%20public%20service.",
+          "title": "Dame Commander of the Most Excellent Order of the British Empire - Forces War Records"
+        },
+        {
+          "url": "https://sliderulemuseum.com/",
+          "title": "International Slide Rule Museum home page. ISRM is the world's largest free digital repository of all things concerning slide rules and other math artifacts. There are over 7000 Images or PDF's in the ISRM Galleries."
+        },
+        {
+          "url": "http://www.jaapsch.net/mechcalc/",
+          "title": "Jaap's Mechanical Calculators Page"
+        },
+        {
+          "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-gregoriano-egizio.html",
+          "title": "Museo Gregoriano Egizio"
+        },
+        {
+          "url": "https://artsexperiments.withgoogle.com/meroe/",
+          "title": "Pyramids of Meroë"
+        },
+        {
+          "url": "https://esotericarchives.com/agrippa/",
+          "title": "Writings of Heinrich Cornelius Agrippa (1486-1535)"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "gov-international",
+      "bookmarks": [
+        {
+          "url": "http://fdt.de/",
+          "title": "FDT Flachdach Technologie GmbH - Der Spezialist in der Flachdach-Abdichtung"
+        },
+        {
+          "url": "https://www.fostplus.be/en",
+          "title": "Homepage | Fost Plus"
+        },
+        {
+          "url": "https://www.zaragoza.es/",
+          "title": "La Web de la Ciudad de Zaragoza. Ayuntamiento de Zaragoza"
+        },
+        {
+          "url": "http://www.misau.gov.mz/index.php",
+          "title": "MINISTÉRIO DA SAÚDE"
+        },
+        {
+          "url": "https://data.calgary.ca/",
+          "title": "Open Calgary | Open Calgary"
+        },
+        {
+          "url": "http://www.ripe.net/",
+          "title": "Welcome to RIPE and the RIPE NCC - RIPE Network Coordination Centre"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.bdcnetwork.com/investing-downtowns-pays-cities-regions",
+          "title": "Investing in downtowns pays off for cities, regions | Building Design+Construction"
+        },
+        {
+          "url": "https://arabpress.com/saudi-aid-agency-chief-meets-mexican-envoy-to-saudi-arabia",
+          "title": "Saudi aid agency chief meets Mexican envoy to Saudi Arabia - Arab Press"
+        },
+        {
+          "url": "http://one.npr.org/?sharedMediaId=491296791:491296928",
+          "title": "Should Your Next Car Be Electric? : NPR One"
+        },
+        {
+          "url": "https://electrek.co/2022/03/08/smart-ev-charging-results-in-substantial-emissions-reduction-new-study/",
+          "title": "Smart EV charging results in substantial emissions reduction - new study"
+        },
+        {
+          "url": "https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/18631/Statement-from-Central-Park-Zoo-on-Eurasian-Eagle-Owl.aspx",
+          "title": "Statement from Central Park Zoo on Eurasian Eagle Owl > Newsroom"
+        },
+        {
+          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
+          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "education",
+      "bookmarks": [
+        {
+          "url": "https://www.che.nl/opleidingen-aanbod?amp%3Bf%5B1%5D=type%3AMaster&amp%3Bf%5B2%5D=type%3APost-HBO&amp%3Bf%5B3%5D=type%3APost-hbo&amp%3Bf%5B4%5D=vakgebied%3AEducatie&f%5B0%5D=type%3AModule&f%5B1%5D=type%3APost-hbo&f%5B2%5D=vorm%3ADeeltijd",
+          "title": "CHE | Studeren doe je in Ede | Opleidingen"
+        },
+        {
+          "url": "https://library.mines.edu/",
+          "title": "Colorado School of Mines - Arthur Lakes Library"
+        },
+        {
+          "url": "http://www.cs.hmc.edu/~hadas/",
+          "title": "Ran Libeskind-Hadas's Homepage"
+        },
+        {
+          "url": "https://www.somaiya.edu/en",
+          "title": "Somaiya Vidyavihar University"
+        },
+        {
+          "url": "https://proyectosinternacionales.educa2.madrid.org/noticias/-/blogs/webinario-scientix?_33_redirect=%2Fnoticias%2F-%2Fblogs%2Fejemplo-de-difusion-de-proyectos-erasmus-ka1%3F_33_redirect%3D%252Fnoticias%252F-%252Fblogs%252Finfografia-el-camino-erasmus-%253F_33_redirect%253D%25252Fnoticias%25252F-%25252Fblogs%25252Flistas-provisionales-de-admitidos-ka1-2017%25253F_33_redirect%25253D%2525252Fnoticias%2525252F-%2525252Fblogs%2525252Fwebinar-par%2525253F_33_redirect%2525253D%252525252Fnoticias%252525252F-%252525252Fblogs%252525252Fnuevo-curso-diseno-y-presentacion-de-un-proyecto-erasmus-ka1-y-ka2-para-fp%252525253F_33_redirect%252525253D%25252525252Fnoticias%25252525252F-%25252525252Fblogs%25252525252Fste-a-m-aprender-y-ensenar-aprendiendo%25252525253F_33_redirect%25252525253D%2525252525252Fnoticias%2525252525252F-%2525252525252Fblogs%2525252525252Fconvocatoria-de-actividades-de-cooperacion-transnacional-para-educacion-de-adultos%2525252525253F_33_redirect%2525252525253D%252525252525252Fnoticias%252525252525252F-%252525252525252Fblogs%252525252525252Fentrega-de-los-sellos-de-calidad-etwinning-2016-en-la-comunidad-de-madrid%252525252525253F_33_redirect%252525252525253D%25252525252525252Fnoticias%25252525252525252F-%25252525252525252Fblogs%25252525252525252Fpremios-nacionales-etwinnig%25252525252525253F_33_redirect%25252525252525253D%2525252525252525252Fnoticias%2525252525252525252F-%2525252525252525252Fblogs%2525252525252525252Fentrevista-a-estibaliz-de-miguel-coordinadora-del-proyecto-etwinning-eu-games%2525252525252525253F_33_redirect%2525252525252525253D%252525252525252525252Fnoticias%252525252525252525252F-%252525252525252525252Fblogs%252525252525252525252Fnuevo-curso-diseno-y-presentacion-de-un-proyecto-erasmus-ka1-y-ka2-para-fp%252525252525252525253F_33_redirect%252525252525252525253D%25252525252525252525252Fnoticias%25252525252525252525252F-%25252525252525252525252Fblogs%25252525252525252525252Fejemplo-de-difusion-de-proyectos-erasmus-ka1%25252525252525252525253F_33_redirect%25252525252525252525253D%2525252525252525252525252F",
+          "title": "Webinar Scientix 24 de abril 2017 - Noticias | Proyectos Internacionales | EducaMadrid"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "tech-design-assets",
       "bookmarks": [
         {
-          "url": "https://burst.shopify.com/",
+          "url": "https://burst.shopify.com",
           "title": "20,000+ Free Stock Photos and Royalty-Free Images"
         },
         {
@@ -555,10 +511,50 @@
       "count": 5
     },
     {
+      "name": "nonprofit-charity",
+      "bookmarks": [
+        {
+          "url": "https://www.accessability.org/",
+          "title": "AccessAbility, Inc. Serving the Twin Cities Area"
+        },
+        {
+          "url": "https://donate.nationalgeographic.org/donate",
+          "title": "Donate to National Geographic - National Geographic Society"
+        },
+        {
+          "url": "https://www.industree.org.in/",
+          "title": "Home | Industree Foundation"
+        },
+        {
+          "url": "https://interfaithworks-bloom.kindful.com",
+          "title": "Interfaith Works, Inc. | Kindful"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "legal-policy",
+      "bookmarks": [
+        {
+          "url": "http://gsesmartiptv.com/privacy/index.html",
+          "title": "App Privacy Policy Generator"
+        },
+        {
+          "url": "https://www.walmartmexico.com/aviso-de-privacidad",
+          "title": "Aviso de Privacidad"
+        },
+        {
+          "url": "http://outfit7.com/privacy/",
+          "title": "PRIVACY POLICY FOR GAMES"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "tech-services",
       "bookmarks": [
         {
-          "url": "https://one.apple.com/us",
+          "url": "https://one.apple.com/us?itscg=10000&itsct=one-NA-ipad-tile-apl-avl-102020",
           "title": "Apple One - Apple - Upgrade Your OS"
         },
         {
@@ -569,6 +565,6 @@
       "count": 2
     }
   ],
-  "total_bookmarks": 120,
+  "total_bookmarks": 117,
   "num_folders": 16
 }

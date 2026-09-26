@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "research-data-reports",
+      "name": "data-research-reports",
       "bookmarks": [
         {
           "url": "https://www.acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
@@ -35,32 +35,6 @@
       "count": 7
     },
     {
-      "name": "nonprofit-social-causes",
-      "bookmarks": [
-        {
-          "url": "https://support.bestfriends.org/site/SPageNavigator/osd_pmx_search_one_api.html",
-          "title": "How you can help homeless pets | Best Friends Animal Society - Save Them All"
-        },
-        {
-          "url": "https://iimn.org/",
-          "title": "International Institute of Minnesota | We Make Minnesota Welcoming"
-        },
-        {
-          "url": "https://cfnj.org/new-jersey-pandemic-relief-fund/",
-          "title": "New Jersey Pandemic Relief Fund"
-        },
-        {
-          "url": "https://www.nexuscp.org/",
-          "title": "Nexus Community Partners"
-        },
-        {
-          "url": "http://www.pillsburyunited.org/",
-          "title": "Pillsbury United Communities"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "news-general",
       "bookmarks": [
         {
@@ -87,8 +61,38 @@
       "count": 5
     },
     {
-      "name": "shopping-product",
+      "name": "nonprofit-social-causes",
       "bookmarks": [
+        {
+          "url": "https://support.bestfriends.org/site/SPageNavigator/osd_pmx_search_one_api.html",
+          "title": "How you can help homeless pets | Best Friends Animal Society - Save Them All"
+        },
+        {
+          "url": "https://iimn.org/",
+          "title": "International Institute of Minnesota | We Make Minnesota Welcoming"
+        },
+        {
+          "url": "https://cfnj.org/new-jersey-pandemic-relief-fund/",
+          "title": "New Jersey Pandemic Relief Fund"
+        },
+        {
+          "url": "https://www.nexuscp.org/",
+          "title": "Nexus Community Partners"
+        },
+        {
+          "url": "http://www.pillsburyunited.org/",
+          "title": "Pillsbury United Communities"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "shopping-products",
+      "bookmarks": [
+        {
+          "url": "https://www.geosupplies.co.uk/acatalog/-E009--Rothbury-3346.html",
+          "title": "(E219) Buckingham (Explanation)"
+        },
         {
           "url": "https://shop.energetix.tv/en/jewellery/for-her/rings/polished-stainless-steel-ring-with-swarovski-crystals",
           "title": "ENERGETIX - Magnetic jewellery and wellness"
@@ -104,10 +108,6 @@
         {
           "url": "https://www.svietidla-eshop.sk/svietidlo/serenity-svietidlo-zavesne-biele",
           "title": "Serenity - svietidlo závesné biele | Svietidla-eshop.sk"
-        },
-        {
-          "url": "https://www.geosupplies.co.uk/acatalog/-E009--Rothbury-3346.html",
-          "title": "(E219) Buckingham (Explanation)"
         }
       ],
       "count": 5
@@ -139,7 +139,7 @@
       "count": 5
     },
     {
-      "name": "web-development-guide",
+      "name": "web-development-guides",
       "bookmarks": [
         {
           "url": "https://powerplatform.microsoft.com/en-us/",
@@ -165,24 +165,6 @@
       "count": 5
     },
     {
-      "name": "business-corporate-info",
-      "bookmarks": [
-        {
-          "url": "https://btseventmanagement.com/",
-          "title": "Home - BTS Event Management"
-        },
-        {
-          "url": "https://www.carrefour.com/en/actuality/carrefour-reinforces-its-leading-position-brazil-acquisition-grupo-big",
-          "title": "Carrefour reinforces its leading position in Brazil with the acquisition of Grupo BIG | Carrefour Group"
-        },
-        {
-          "url": "https://modesto.craigslist.org/d/tickets/search/tia?hints=static&sale_date=2021-01-26&sort=date&lang=de",
-          "title": "Modesto Tickets - craigslist"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "nonprofit-policy-advocacy",
       "bookmarks": [
         {
@@ -205,25 +187,7 @@
       "count": 4
     },
     {
-      "name": "consumer-services",
-      "bookmarks": [
-        {
-          "url": "https://diettogo.35p2.net/c/3408212/173242/3159?subid3=people",
-          "title": "Diet-to-Go® Weight Loss Meal Delivery - Diet Meal Delivery - Diet Food Delivery"
-        },
-        {
-          "url": "https://www.glossybox.com/",
-          "title": "GLOSSYBOX: The UK's Most Trusted Beauty Box"
-        },
-        {
-          "url": "https://tulerie.com/",
-          "title": "Tulerie | The Only Luxury Peer-to-Peer Closet Rental App"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "culture-history-art",
+      "name": "art-culture-history",
       "bookmarks": [
         {
           "url": "https://johnratajkowskiart.com/",
@@ -241,7 +205,25 @@
       "count": 3
     },
     {
-      "name": "media-entertainment",
+      "name": "business-corporate-info",
+      "bookmarks": [
+        {
+          "url": "https://www.carrefour.com/en/actuality/carrefour-reinforces-its-leading-position-brazil-acquisition-grupo-big",
+          "title": "Carrefour reinforces its leading position in Brazil with the acquisition of Grupo BIG | Carrefour Group"
+        },
+        {
+          "url": "https://btseventmanagement.com/",
+          "title": "Home - BTS Event Management"
+        },
+        {
+          "url": "https://modesto.craigslist.org/d/tickets/search/tia?hints=static&sale_date=2021-01-26&sort=date&lang=de",
+          "title": "Modesto Tickets - craigslist"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://www.gq-magazine.co.uk/culture/article/bella-ramsey-interview-2023",
@@ -259,7 +241,43 @@
       "count": 3
     },
     {
-      "name": "blog-commentary",
+      "name": "international-relations-law",
+      "bookmarks": [
+        {
+          "url": "https://www.britishasiantrust.org/",
+          "title": "British Asian Trust"
+        },
+        {
+          "url": "http://www.globaltiesus.org/",
+          "title": "Global Ties U.S. : Global Ties U.S."
+        },
+        {
+          "url": "http://bch.cbd.int/protocol",
+          "title": "The Cartagena Protocol on Biosafety"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "services-consumer",
+      "bookmarks": [
+        {
+          "url": "https://diettogo.35p2.net/c/3408212/173242/3159?subid3=people",
+          "title": "Diet-to-Go® Weight Loss Meal Delivery - Diet Meal Delivery - Diet Food Delivery"
+        },
+        {
+          "url": "https://www.glossybox.com/",
+          "title": "GLOSSYBOX: The UK's Most Trusted Beauty Box"
+        },
+        {
+          "url": "https://tulerie.com/",
+          "title": "Tulerie | The Only Luxury Peer-to-Peer Closet Rental App"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "blogs-commentary",
       "bookmarks": [
         {
           "url": "https://www.frizzifrizzi.it/category/rubriche/lazy-news/",
@@ -273,25 +291,7 @@
       "count": 2
     },
     {
-      "name": "international-relations-law",
-      "bookmarks": [
-        {
-          "url": "https://www.britishasiantrust.org/",
-          "title": "British Asian Trust"
-        },
-        {
-          "url": "http://bch.cbd.int/protocol",
-          "title": "The Cartagena Protocol on Biosafety"
-        },
-        {
-          "url": "http://www.globaltiesus.org/",
-          "title": "Global Ties U.S. : Global Ties U.S."
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "travel-guide",
+      "name": "travel-guides",
       "bookmarks": [
         {
           "url": "https://bkk.hu/menetrendek/",
@@ -308,12 +308,12 @@
       "name": "web-development-tool-utility",
       "bookmarks": [
         {
-          "url": "https://get.webgl.org",
-          "title": "void"
-        },
-        {
           "url": "https://www.weebly.com/",
           "title": "Free Website Builder: Build a Free Website or Online Store | Weebly"
+        },
+        {
+          "url": "https://get.webgl.org",
+          "title": "void"
         }
       ],
       "count": 2

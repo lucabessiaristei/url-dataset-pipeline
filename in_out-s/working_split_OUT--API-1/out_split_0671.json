@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "non-profit-advocacy",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
         {
           "url": "http://www.afterschoolalliance.org/",
@@ -153,32 +153,6 @@
       "count": 6
     },
     {
-      "name": "gaming-gambling",
-      "bookmarks": [
-        {
-          "url": "https://alamocitychamber.org/",
-          "title": "Casino online en México: bonos sin depósito, bingo y slots"
-        },
-        {
-          "url": "https://board.playzo.de/index.php/Board/4245-Middengebied/?s=24aec7ed40cf96a6744290bb0dcdf62048a2020c",
-          "title": "Middengebied - playzo Board"
-        },
-        {
-          "url": "https://youtube.com/gaming",
-          "title": "Prima di continuare su YouTube"
-        },
-        {
-          "url": "https://www.xbox.com/",
-          "title": "Sito ufficiale Xbox: console, giochi e community | Xbox"
-        },
-        {
-          "url": "http://ptekarrieriroda.hu/allasajanlat/junior-lawyer-specialized-in-banking-finance-762.html",
-          "title": "Vave Magyarország: Sportfogadások és online kaszinó"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "news-general",
       "bookmarks": [
         {
@@ -209,7 +183,33 @@
       "count": 6
     },
     {
-      "name": "culture-arts-literature",
+      "name": "gaming-gambling",
+      "bookmarks": [
+        {
+          "url": "https://alamocitychamber.org/",
+          "title": "Casino online en México: bonos sin depósito, bingo y slots"
+        },
+        {
+          "url": "https://board.playzo.de/index.php/Board/4245-Middengebied/?s=24aec7ed40cf96a6744290bb0dcdf62048a2020c",
+          "title": "Middengebied - playzo Board"
+        },
+        {
+          "url": "https://youtube.com/gaming",
+          "title": "Prima di continuare su YouTube"
+        },
+        {
+          "url": "https://www.xbox.com/",
+          "title": "Sito ufficiale Xbox: console, giochi e community | Xbox"
+        },
+        {
+          "url": "http://ptekarrieriroda.hu/allasajanlat/junior-lawyer-specialized-in-banking-finance-762.html",
+          "title": "Vave Magyarország: Sportfogadások és online kaszinó"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "arts-culture-literature",
       "bookmarks": [
         {
           "url": "https://www.missourireview.com/1803full-2/",
@@ -231,7 +231,7 @@
       "count": 4
     },
     {
-      "name": "developer-design-resources",
+      "name": "design-developer-resources",
       "bookmarks": [
         {
           "url": "https://bestbuyapis.github.io/bby-query-builder/#/productSearch",
@@ -248,6 +248,28 @@
         {
           "url": "https://kotilabdulkadir.notion.site/Multicolor-CSS-Gradients-JPG-Downloads-100-Free-e70a6fb365b14575ae30616b22dcc2d4?pvs=25",
           "title": "Notion"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "ecommerce-retail",
+      "bookmarks": [
+        {
+          "url": "https://cennik.poczta-polska.pl/",
+          "title": "Cennik - Informacje"
+        },
+        {
+          "url": "https://www.amc-esk.pl/koszyk/",
+          "title": "Koszyk - amc-esk"
+        },
+        {
+          "url": "https://www.technika-stroje.cz/dilna-zahrada-les/eshop/99-1-nove-produkty/520-3-Sedak",
+          "title": "Nářadí a stroje pro dům, dílnu, zahradu a stavbu"
+        },
+        {
+          "url": "https://www.s-kaupat.fi/",
+          "title": "S-kaupat - Suomen suosituin ruoan verkkokauppa"
         }
       ],
       "count": 4
@@ -275,28 +297,6 @@
       "count": 4
     },
     {
-      "name": "retail-e-commerce",
-      "bookmarks": [
-        {
-          "url": "https://cennik.poczta-polska.pl/",
-          "title": "Cennik - Informacje"
-        },
-        {
-          "url": "https://www.amc-esk.pl/koszyk/",
-          "title": "Koszyk - amc-esk"
-        },
-        {
-          "url": "https://www.technika-stroje.cz/dilna-zahrada-les/eshop/99-1-nove-produkty/520-3-Sedak",
-          "title": "Nářadí a stroje pro dům, dílnu, zahradu a stavbu"
-        },
-        {
-          "url": "https://www.s-kaupat.fi/",
-          "title": "S-kaupat - Suomen suosituin ruoan verkkokauppa"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "government-public-data",
       "bookmarks": [
         {
@@ -304,12 +304,12 @@
           "title": "Downloadable Datasets | Gunnison County, CO - Official Website"
         },
         {
-          "url": "http://datosabiertos.laspalmasgc.es/condiciones-de-reutilizacion/",
-          "title": "Portal de Datos Abiertos Las Palmas de Gran Canaria | Condiciones de reutilización"
-        },
-        {
           "url": "https://www.usa.gov/",
           "title": "Making government services easier to find | USAGov"
+        },
+        {
+          "url": "http://datosabiertos.laspalmasgc.es/condiciones-de-reutilizacion/",
+          "title": "Portal de Datos Abiertos Las Palmas de Gran Canaria | Condiciones de reutilización"
         }
       ],
       "count": 3

@@ -51,6 +51,52 @@
       "count": 11
     },
     {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://ceoworks.org/contact",
+          "title": "CEO | Contact"
+        },
+        {
+          "url": "https://join.mongabay.org?utm_source=mongabay.com&utm_medium=bottom-of-news-post&utm_campaign=support-our-journalism-2022",
+          "title": "Donate to Mongabay"
+        },
+        {
+          "url": "https://commonsensemedia.org/donate",
+          "title": "Donate | Common Sense Media"
+        },
+        {
+          "url": "https://girlsinc.org",
+          "title": "Girls Inc. | Inspiring All Girls to be Strong, Smart & Bold"
+        },
+        {
+          "url": "https://almaauun.org/",
+          "title": "Home - Al-Maa'uun"
+        },
+        {
+          "url": "https://www.musiciansoncall.org/",
+          "title": "Home - Musicians On Call"
+        },
+        {
+          "url": "https://www.mnphilanthropiccollective.org/",
+          "title": "Minnesota Black Collective Foundation"
+        },
+        {
+          "url": "http://www.minnesotanonprofits.org/",
+          "title": "Minnesota Council of Nonprofits"
+        },
+        {
+          "url": "http://www.latinospro.org/runforlatinos",
+          "title": "Run for Latinos - Latinos Progresando"
+        },
+        {
+          "url": "https://thelawrencefoundation.org/",
+          "title": "The Lawrence Foundation"
+        }
+      ],
+      "count": 10
+    },
+    {
       "name": "news-articles",
       "bookmarks": [
         {
@@ -93,52 +139,6 @@
       "count": 9
     },
     {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://ceoworks.org/contact",
-          "title": "CEO | Contact"
-        },
-        {
-          "url": "https://commonsensemedia.org/donate",
-          "title": "Donate | Common Sense Media"
-        },
-        {
-          "url": "https://join.mongabay.org?utm_source=mongabay.com&utm_medium=bottom-of-news-post&utm_campaign=support-our-journalism-2022",
-          "title": "Donate to Mongabay"
-        },
-        {
-          "url": "https://girlsinc.org",
-          "title": "Girls Inc. | Inspiring All Girls to be Strong, Smart & Bold"
-        },
-        {
-          "url": "https://almaauun.org/",
-          "title": "Home - Al-Maa'uun"
-        },
-        {
-          "url": "https://www.musiciansoncall.org/",
-          "title": "Home - Musicians On Call"
-        },
-        {
-          "url": "https://www.mnphilanthropiccollective.org/",
-          "title": "Minnesota Black Collective Foundation"
-        },
-        {
-          "url": "http://www.minnesotanonprofits.org/",
-          "title": "Minnesota Council of Nonprofits"
-        },
-        {
-          "url": "http://www.latinospro.org/runforlatinos",
-          "title": "Run for Latinos - Latinos Progresando"
-        },
-        {
-          "url": "https://thelawrencefoundation.org/",
-          "title": "The Lawrence Foundation"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "tech-resources",
       "bookmarks": [
         {
@@ -177,62 +177,6 @@
       "count": 8
     },
     {
-      "name": "corporate-pages",
-      "bookmarks": [
-        {
-          "url": "https://about.google/",
-          "title": "About Google: Our products, technology and company information - About Google"
-        },
-        {
-          "url": "https://downandfeathercouncil.com/",
-          "title": "American Down and Feather Council - The ADFC Seal of Approval"
-        },
-        {
-          "url": "https://www.catherinewalker.com/",
-          "title": "Catherine Walker - now and since 1977"
-        },
-        {
-          "url": "http://www.centene.com/",
-          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
-        },
-        {
-          "url": "https://merchants.fiserv.com",
-          "title": "Merchant Services | Payment Processing Enterprise Solutions | Fiserv"
-        },
-        {
-          "url": "https://www.walmartsustainabilityhub.com/",
-          "title": "Walmart Sustainability Hub"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "organizations-advocacy",
-      "bookmarks": [
-        {
-          "url": "http://www.unfpa.org/female-genital-mutilation",
-          "title": "Female genital mutilation | United Nations Population Fund"
-        },
-        {
-          "url": "https://www.gavi.org/",
-          "title": "Gavi, the Vaccine Alliance"
-        },
-        {
-          "url": "https://hcvnetwork.org/",
-          "title": "HCV Network | We protect people and nature"
-        },
-        {
-          "url": "https://www.hrc.org/press-releases/major-health-education-and-child-welfare-organizations-oppose-anti-lgbtq-state-based-legislation",
-          "title": "HRC | Major Health, Education, and Child Welfare Organizations Oppose..."
-        },
-        {
-          "url": "https://www.youthbusiness.org/",
-          "title": "Youth Business International - Youth Business International"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "art-design-media",
       "bookmarks": [
         {
@@ -258,6 +202,36 @@
         {
           "url": "https://arthropleuridea.tumblr.com/",
           "title": "viaduct"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "corporate-pages",
+      "bookmarks": [
+        {
+          "url": "https://about.google/",
+          "title": "About Google: Our products, technology and company information - About Google"
+        },
+        {
+          "url": "https://downandfeathercouncil.com/",
+          "title": "American Down and Feather Council - The ADFC Seal of Approval"
+        },
+        {
+          "url": "https://www.catherinewalker.com/",
+          "title": "Catherine Walker - now and since 1977"
+        },
+        {
+          "url": "http://www.centene.com/",
+          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
+        },
+        {
+          "url": "https://merchants.fiserv.com",
+          "title": "Merchant Services | Payment Processing Enterprise Solutions | Fiserv"
+        },
+        {
+          "url": "https://www.walmartsustainabilityhub.com/",
+          "title": "Walmart Sustainability Hub"
         }
       ],
       "count": 6
@@ -353,48 +327,30 @@
       "count": 6
     },
     {
-      "name": "education-resources",
+      "name": "organizations-advocacy",
       "bookmarks": [
         {
-          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
-          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
+          "url": "http://www.unfpa.org/female-genital-mutilation",
+          "title": "Female genital mutilation | United Nations Population Fund"
         },
         {
-          "url": "https://ahlansimsim.org/caring.html",
-          "title": "Caring for Each Other Resources | Sesame Street"
+          "url": "https://www.gavi.org/",
+          "title": "Gavi, the Vaccine Alliance"
         },
         {
-          "url": "https://sesamo.com/",
-          "title": "Inicio | Sésamo"
+          "url": "https://hcvnetwork.org/",
+          "title": "HCV Network | We protect people and nature"
         },
         {
-          "url": "https://k12cs.org/",
-          "title": "k12cs.org - K-12 Computer Science Framework"
+          "url": "https://www.hrc.org/press-releases/major-health-education-and-child-welfare-organizations-oppose-anti-lgbtq-state-based-legislation",
+          "title": "HRC | Major Health, Education, and Child Welfare Organizations Oppose..."
+        },
+        {
+          "url": "https://www.youthbusiness.org/",
+          "title": "Youth Business International - Youth Business International"
         }
       ],
-      "count": 4
-    },
-    {
-      "name": "legal-policies",
-      "bookmarks": [
-        {
-          "url": "https://creativecommons.org/policies#license",
-          "title": "Policies - Creative Commons"
-        },
-        {
-          "url": "https://www.nortonlifelock.com/privacy",
-          "title": "Privacy | Norton"
-        },
-        {
-          "url": "https://wildlifestudios.com/privacy-policy/",
-          "title": "Privacy Policy | Wildlife"
-        },
-        {
-          "url": "http://www.vividseats.com/privacy.html",
-          "title": "Privacy Policy | Vivid Seats"
-        }
-      ],
-      "count": 4
+      "count": 5
     },
     {
       "name": "services-directory",
@@ -423,8 +379,56 @@
       "count": 5
     },
     {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
+          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
+        },
+        {
+          "url": "https://ahlansimsim.org/caring.html",
+          "title": "Caring for Each Other Resources | Sesame Street"
+        },
+        {
+          "url": "https://sesamo.com/",
+          "title": "Inicio | Sésamo"
+        },
+        {
+          "url": "https://k12cs.org/",
+          "title": "k12cs.org - K-12 Computer Science Framework"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "legal-policy",
+      "bookmarks": [
+        {
+          "url": "https://creativecommons.org/policies#license",
+          "title": "Policies - Creative Commons"
+        },
+        {
+          "url": "http://www.vividseats.com/privacy.html",
+          "title": "Privacy Policy | Vivid Seats"
+        },
+        {
+          "url": "https://wildlifestudios.com/privacy-policy/",
+          "title": "Privacy Policy | Wildlife"
+        },
+        {
+          "url": "https://www.nortonlifelock.com/privacy",
+          "title": "Privacy | Norton"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "apple-services",
       "bookmarks": [
+        {
+          "url": "http://store.apple.com/us/help/shopping_experience",
+          "title": "Shopping Experience - Shopping Help - Apple"
+        },
         {
           "url": "https://music.apple.com?itscg=10000&itsct=pod-services-music-apl-tvhm-21_1019",
           "title": "‎Apple Music - Web Player"
@@ -432,10 +436,6 @@
         {
           "url": "https://apps.apple.com/story/id1538632801",
           "title": "‎Learn More About App Privacy : App Store Story"
-        },
-        {
-          "url": "http://store.apple.com/us/help/shopping_experience",
-          "title": "Shopping Experience - Shopping Help - Apple"
         }
       ],
       "count": 3

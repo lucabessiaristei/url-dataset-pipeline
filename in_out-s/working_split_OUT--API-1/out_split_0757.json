@@ -1,119 +1,7 @@
 {
   "folders": [
     {
-      "name": "non-profits-foundations",
-      "bookmarks": [
-        {
-          "url": "https://action.earthday.org/partnerships_1",
-          "title": "2025 Partnerships - Step 1 - EARTHDAY.ORG"
-        },
-        {
-          "url": "https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KELL020",
-          "title": "Anna-Maria and Stephen Kellen Foundation Inc C/o Joel E Sammet & Co LLP | Foundation Directory | Candid"
-        },
-        {
-          "url": "https://support.savethechildren.org/site/Donation2?df_id=4988&mfc_pref=T&4988.donation=form1&cid=Social_Network:Twitter:Emer_CEF:Scus_1x_Post1:020623",
-          "title": "Children's Emergency Fund - Save the Children"
-        },
-        {
-          "url": "http://www.emmanorton.org/",
-          "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
-        },
-        {
-          "url": "https://www.feedingamerica.org/our-work/reduce-food-waste",
-          "title": "Food Waste in America: How You Can Help Rescue Food | Feeding America"
-        },
-        {
-          "url": "https://janesdueprocess.org/",
-          "title": "Jane's Due Process"
-        },
-        {
-          "url": "https://www.kaporcenter.org/",
-          "title": "Homepage - Kapor Center"
-        },
-        {
-          "url": "https://mnisotafund.org/about",
-          "title": "About Us - Mni Sota Fund"
-        },
-        {
-          "url": "http://www.nexuscp.org/",
-          "title": "Nexus Community Partners"
-        },
-        {
-          "url": "https://www.nature.org/en-us/",
-          "title": "The Nature Conservancy: A World Where People & Nature Thrive"
-        },
-        {
-          "url": "https://flotillafoundation.org/",
-          "title": "The Flotilla Foundation"
-        },
-        {
-          "url": "https://voxatl.org/about/",
-          "title": "About - VOX ATL"
-        },
-        {
-          "url": "https://www.walmart.org",
-          "title": "Walmart Foundation"
-        }
-      ],
-      "count": 13
-    },
-    {
-      "name": "design-web-dev",
-      "bookmarks": [
-        {
-          "url": "https://builtwith.com/",
-          "title": "BuiltWith Technology Lookup"
-        },
-        {
-          "url": "https://fonts.ilovetypography.com/",
-          "title": "Buy fonts from your favorite indie foundries.... | I Love Typography"
-        },
-        {
-          "url": "https://potion.so/",
-          "title": "Create custom Notion websites in minutes"
-        },
-        {
-          "url": "https://cssgradient.io/gradient-backgrounds/",
-          "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
-        },
-        {
-          "url": "https://es.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org España"
-        },
-        {
-          "url": "https://graphicburger.com/",
-          "title": "GraphicBurger"
-        },
-        {
-          "url": "https://help.zenodo.org/#citations",
-          "title": "Help | Zenodo"
-        },
-        {
-          "url": "https://tailwindcss.com/docs/installation",
-          "title": "Installing Tailwind CSS with Vite - Tailwind CSS"
-        },
-        {
-          "url": "http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625",
-          "title": "ISO/IEC 40500:2012 - Information technology - W3C Web Content Accessibility Guidelines (WCAG) 2.0"
-        },
-        {
-          "url": "https://opensource.org",
-          "title": "Open Source Initiative - The steward of the Open Source Definition, setting the foundation for the Open Source Software ecosystem."
-        },
-        {
-          "url": "https://slidesgo.com/",
-          "title": "Free Google Slides themes and Powerpoint templates | Slidesgo"
-        },
-        {
-          "url": "https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Customer+Support",
-          "title": "Software per knowledge base basato sull'AI"
-        }
-      ],
-      "count": 12
-    },
-    {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://www.rap-up.com/2010/01/17/67th-annual-golden-globe-awards-arrivals/",
@@ -171,11 +59,127 @@
       "count": 13
     },
     {
+      "name": "nonprofits-foundations",
+      "bookmarks": [
+        {
+          "url": "https://action.earthday.org/partnerships_1",
+          "title": "2025 Partnerships - Step 1 - EARTHDAY.ORG"
+        },
+        {
+          "url": "https://voxatl.org/about/",
+          "title": "About - VOX ATL"
+        },
+        {
+          "url": "https://mnisotafund.org/about",
+          "title": "About Us - Mni Sota Fund"
+        },
+        {
+          "url": "https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KELL020",
+          "title": "Anna-Maria and Stephen Kellen Foundation Inc C/o Joel E Sammet & Co LLP | Foundation Directory | Candid"
+        },
+        {
+          "url": "https://support.savethechildren.org/site/Donation2?df_id=4988&mfc_pref=T&4988.donation=form1&cid=Social_Network:Twitter:Emer_CEF:Scus_1x_Post1:020623",
+          "title": "Children's Emergency Fund - Save the Children"
+        },
+        {
+          "url": "http://www.emmanorton.org/",
+          "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
+        },
+        {
+          "url": "https://www.feedingamerica.org/our-work/reduce-food-waste",
+          "title": "Food Waste in America: How You Can Help Rescue Food | Feeding America"
+        },
+        {
+          "url": "https://www.kaporcenter.org/",
+          "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://janesdueprocess.org/",
+          "title": "Jane's Due Process"
+        },
+        {
+          "url": "http://www.nexuscp.org/",
+          "title": "Nexus Community Partners"
+        },
+        {
+          "url": "https://flotillafoundation.org/",
+          "title": "The Flotilla Foundation"
+        },
+        {
+          "url": "https://www.nature.org/en-us/",
+          "title": "The Nature Conservancy: A World Where People & Nature Thrive"
+        },
+        {
+          "url": "https://www.walmart.org",
+          "title": "Walmart Foundation"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "design-web-dev",
+      "bookmarks": [
+        {
+          "url": "https://builtwith.com/",
+          "title": "BuiltWith Technology Lookup"
+        },
+        {
+          "url": "https://fonts.ilovetypography.com/",
+          "title": "Buy fonts from your favorite indie foundries.... | I Love Typography"
+        },
+        {
+          "url": "https://potion.so/",
+          "title": "Create custom Notion websites in minutes"
+        },
+        {
+          "url": "https://slidesgo.com/",
+          "title": "Free Google Slides themes and Powerpoint templates | Slidesgo"
+        },
+        {
+          "url": "https://es.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org España"
+        },
+        {
+          "url": "https://cssgradient.io/gradient-backgrounds/",
+          "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
+        },
+        {
+          "url": "https://graphicburger.com/",
+          "title": "GraphicBurger"
+        },
+        {
+          "url": "https://help.zenodo.org/#citations",
+          "title": "Help | Zenodo"
+        },
+        {
+          "url": "https://tailwindcss.com/docs/installation",
+          "title": "Installing Tailwind CSS with Vite - Tailwind CSS"
+        },
+        {
+          "url": "http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625",
+          "title": "ISO/IEC 40500:2012 - Information technology - W3C Web Content Accessibility Guidelines (WCAG) 2.0"
+        },
+        {
+          "url": "https://opensource.org",
+          "title": "Open Source Initiative - The steward of the Open Source Definition, setting the foundation for the Open Source Software ecosystem."
+        },
+        {
+          "url": "https://www.zendesk.com/service/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=Customer+Support",
+          "title": "Software per knowledge base basato sull'AI"
+        }
+      ],
+      "count": 12
+    },
+    {
       "name": "education-research",
       "bookmarks": [
         {
           "url": "https://genealogy.cjh.org/synagogue/1132",
           "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
+        },
+        {
+          "url": "https://courses.mak.ac.ug/courses",
+          "title": "Courses Catalogue | Makerere University Courses"
         },
         {
           "url": "https://cos2022.sites.stanford.edu/events",
@@ -184,10 +188,6 @@
         {
           "url": "https://www.genuki.org.uk/",
           "title": "GENUKI: Home page"
-        },
-        {
-          "url": "https://courses.mak.ac.ug/courses",
-          "title": "Courses Catalogue | Makerere University Courses"
         },
         {
           "url": "https://orbilu.uni.lu/handle/10993/42473",
@@ -221,50 +221,54 @@
       "count": 11
     },
     {
-      "name": "shopping-brands",
+      "name": "misc-utility",
       "bookmarks": [
         {
-          "url": "https://algrium.com/products/1-lbs-6-mm-10-mm-mixed-polishing-sphere-ceramic-tumbling-media",
-          "title": "1 Lb. 6 & 10 mm Polishing Sphere Non-Abrasive Ceramic Tumbling Tumbler - Algrium"
+          "url": "https://ecommerce.apple.com/asb2bstorefront/login?country=US&segment=GOV-STLOC&language=en&public=true",
+          "title": "Apple Store for Government : Home"
         },
         {
-          "url": "https://www.acehardware.com/departments/lawn-and-garden/snow-removal-and-equipment/snow-blowers/7002414",
-          "title": "Ariens Classic Two Stage Gas Snow Blower 24\" 208cc Electric Start Mfr# 92002500 - Ace Hardware"
+          "url": "http://www.usanetwork.com/page/help",
+          "title": "Availability Notice"
         },
         {
-          "url": "https://www.corneliajames.com/?gadid=637287656153&gclid=CjwKCAiA0cyfBhBREiwAAtStHKiiL5ukqH-_5x9nJsO2urImFRTJoTbCdJA-Yiw7uGNheeX7oWFrNRoCPKIQAvD_BwE&utm_campaign=1655166926&utm_content=65327481244&utm_medium=paid&utm_source=google&utm_term=cornelia%20james%20gloves",
-          "title": "Cornelia James • Handmade Gloves Since 1946"
+          "url": "https://www.google.nu/url?q=http%3A%2F%2Fwww.Berita%20Harian.my.id%2F",
+          "title": "Avviso di reindirizzamento"
         },
         {
-          "url": "https://www.aafes.com/about-exchange/doing-business/",
-          "title": "Exchange | Military Discount - Tax Free Shopping"
+          "url": "https://cat.barchemicals.it/prodotto/bp-bioglayd/",
+          "title": "BIOGLAYD | Catalogo Barchemicals Group"
         },
         {
-          "url": "https://shop.lonelyplanet.com/categories/canada?city%5B%5D=Churchill&city%5B%5D=Vancouver&city%5B%5D=Ottawa&series%5B%5D=Pocket&series%5B%5D=Regional+Guide&series%5B%5D=Trips+Country&series%5B%5D=City+Map&series%5B%5D=Country+Guide&series%5B%5D=Best+of+Country&sort%5B%5D=featured&sort%5B%5D=top_sellers",
-          "title": "Lonely Planet books for Canada"
+          "url": "https://www.cp.pt/passageiros/pt/consultar-horarios",
+          "title": "CP - Comboios de Portugal"
         },
         {
-          "url": "https://octagonshop.pl/p1423,worek-bokserski-octagon-160x45-standard-gold.html",
-          "title": "Oficjalny sklep Octagon - polskiej marki sportowej"
+          "url": "https://s05.flagcounter.com/more/EY45",
+          "title": "Flag Counter » Overview"
         },
         {
-          "url": "https://sell.amazon.com/grow#nsi",
-          "title": "Sell more with the New Seller Guide | Sell on Amazon"
+          "url": "https://git.bettercrypto.org/ach-master.git/history/722b6ded8bd2caf3a36fd8c13a3f2d90054e8c1c:/src/llncs.cls",
+          "title": "GitHub - BetterCrypto/Applied-Crypto-Hardening: Best Current Practices regarding secure online communication and configuration of services using cryptography."
         },
         {
-          "url": "https://www.shopbop.com/horizontal-duck-bag-baggu/vp/v=1/1524887805.htm",
-          "title": "Shopbop Designers - Fashion Designer Category Index"
+          "url": "https://my.accessportals.com/app/blk/login?redirectUrl=/us/individual?signInAppWithOkta=true",
+          "title": "Login"
         },
         {
-          "url": "https://thekitvintage.com/",
-          "title": "The Kit Vintage"
+          "url": "https://www.match.com/",
+          "title": "Online Dating Site - Register For Free on Match UK!"
         },
         {
-          "url": "https://www.threadbeast.com/",
-          "title": "ThreadBeast Men's Clothing Subscription Box"
+          "url": "https://revodoc.valdoise.fr/resultat.php?q=1&spec_expand=1&sort_define=tri_annee&sort_order=1&rows=10&fq=frbr%3A%281%29+AND+sujets_ac%3A%28%22Cordes%2C+vents%22%29+AND+sujets_ac%3A%28%22Piano%22%29+AND+auteurs_ac%3A%28%22Berg%2C+Alban%22%29+AND+auteurs_ac%3A%28%22Jude%2C+Marie-Jos%C3%A8phe%22%29+AND+type_fonds%3A%28%22g%22%29+AND+nombib_frbr%3A%28%22Val+de+France+%3A+Arnouville%2C+Garges-l%C3%A8s-Gonesse%2C+Sarcelles%2C+Villiers-le-Bel%22%29",
+          "title": "Résultats (oeuvres) - RéVOdoc"
+        },
+        {
+          "url": "http://survey.walmart.com/",
+          "title": "Survey"
         }
       ],
-      "count": 10
+      "count": 11
     },
     {
       "name": "blogs-commentary",
@@ -320,6 +324,10 @@
           "title": "C Thing Software"
         },
         {
+          "url": "https://www.jbr.nl/begrippen/debt-advisory/",
+          "title": "Debt Advisory - JBR"
+        },
+        {
           "url": "https://developers.googleblog.com/2019/09/enabling-developers-and-organizations.html",
           "title": "Enabling developers and organizations to use differential privacy - Google Developers Blog"
         },
@@ -336,14 +344,6 @@
           "title": "Interpretation Services For Utica Residents | The Center"
         },
         {
-          "url": "https://www.jbr.nl/begrippen/debt-advisory/",
-          "title": "Debt Advisory - JBR"
-        },
-        {
-          "url": "https://www.orbcomm.com/",
-          "title": "Where IoT powers asset intelligence | ORBCOMM"
-        },
-        {
           "url": "https://ch.linkedin.com/company/quantis-intl?trk=public_jobs_jserp-result_job-search-card-subtitle",
           "title": "Quantis | LinkedIn"
         },
@@ -354,6 +354,10 @@
         {
           "url": "http://msds.walmartstores.com/",
           "title": "Wercs UPC/Barcode - Powered By The Wercs"
+        },
+        {
+          "url": "https://www.orbcomm.com/",
+          "title": "Where IoT powers asset intelligence | ORBCOMM"
         }
       ],
       "count": 10
@@ -400,6 +404,52 @@
         {
           "url": "https://www.adl.org/education/references/hate-symbols/confederate-flag",
           "title": "You are being redirected..."
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "shopping-brands",
+      "bookmarks": [
+        {
+          "url": "https://algrium.com/products/1-lbs-6-mm-10-mm-mixed-polishing-sphere-ceramic-tumbling-media",
+          "title": "1 Lb. 6 & 10 mm Polishing Sphere Non-Abrasive Ceramic Tumbling Tumbler - Algrium"
+        },
+        {
+          "url": "https://www.acehardware.com/departments/lawn-and-garden/snow-removal-and-equipment/snow-blowers/7002414",
+          "title": "Ariens Classic Two Stage Gas Snow Blower 24\" 208cc Electric Start Mfr# 92002500 - Ace Hardware"
+        },
+        {
+          "url": "https://www.corneliajames.com/?gadid=637287656153&gclid=CjwKCAiA0cyfBhBREiwAAtStHKiiL5ukqH-_5x9nJsO2urImFRTJoTbCdJA-Yiw7uGNheeX7oWFrNRoCPKIQAvD_BwE&utm_campaign=1655166926&utm_content=65327481244&utm_medium=paid&utm_source=google&utm_term=cornelia%20james%20gloves",
+          "title": "Cornelia James • Handmade Gloves Since 1946"
+        },
+        {
+          "url": "https://www.aafes.com/about-exchange/doing-business/",
+          "title": "Exchange | Military Discount - Tax Free Shopping"
+        },
+        {
+          "url": "https://shop.lonelyplanet.com/categories/canada?city%5B%5D=Churchill&city%5B%5D=Vancouver&city%5B%5D=Ottawa&series%5B%5D=Pocket&series%5B%5D=Regional+Guide&series%5B%5D=Trips+Country&series%5B%5D=City+Map&series%5B%5D=Country+Guide&series%5B%5D=Best+of+Country&sort%5B%5D=featured&sort%5B%5D=top_sellers",
+          "title": "Lonely Planet books for Canada"
+        },
+        {
+          "url": "https://octagonshop.pl/p1423,worek-bokserski-octagon-160x45-standard-gold.html",
+          "title": "Oficjalny sklep Octagon - polskiej marki sportowej"
+        },
+        {
+          "url": "https://sell.amazon.com/grow#nsi",
+          "title": "Sell more with the New Seller Guide | Sell on Amazon"
+        },
+        {
+          "url": "https://www.shopbop.com/horizontal-duck-bag-baggu/vp/v=1/1524887805.htm",
+          "title": "Shopbop Designers - Fashion Designer Category Index"
+        },
+        {
+          "url": "https://thekitvintage.com/",
+          "title": "The Kit Vintage"
+        },
+        {
+          "url": "https://www.threadbeast.com/",
+          "title": "ThreadBeast Men's Clothing Subscription Box"
         }
       ],
       "count": 10
@@ -480,10 +530,6 @@
       "name": "organizations-events",
       "bookmarks": [
         {
-          "url": "https://www.actusf.com/forumimaginaire/memberlist.php?mode=contactadmin&sid=5d1d8991a65815d957880828b7aa6936",
-          "title": "L'Appel de l'imaginaire - Envoyer un courriel"
-        },
-        {
           "url": "https://www.leserattenhoehle.de/rl_gallery/de-germany-klett-publisher/",
           "title": "DE-Germany - Klett [publisher] › Leserattenhöhle"
         },
@@ -494,6 +540,10 @@
         {
           "url": "http://www.catonbed.de/jan2/pictures/galerie-w/carpentier/first.html",
           "title": "Galerie Manfred Carpentier, Jan Sobottka, Meinekestr. Berlin, Carpentier Galerie"
+        },
+        {
+          "url": "https://www.actusf.com/forumimaginaire/memberlist.php?mode=contactadmin&sid=5d1d8991a65815d957880828b7aa6936",
+          "title": "L'Appel de l'imaginaire - Envoyer un courriel"
         },
         {
           "url": "https://www.kg-nirmernarrenzunft.de/2012/01/28/stadtgarde-herzogenrath-2012/",
@@ -507,19 +557,19 @@
       "count": 6
     },
     {
-      "name": "environment-science",
+      "name": "science-environment",
       "bookmarks": [
         {
-          "url": "https://commercialisation.esa.int/",
-          "title": "ESA Commercialisation Gateway"
+          "url": "https://sdgstoday.org/eco-ambassadors-program",
+          "title": "EASL"
         },
         {
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice",
           "title": "ESA - Juice"
         },
         {
-          "url": "https://sdgstoday.org/eco-ambassadors-program",
-          "title": "EASL"
+          "url": "https://commercialisation.esa.int/",
+          "title": "ESA Commercialisation Gateway"
         },
         {
           "url": "https://www.iucncontributionsfornature.org",
@@ -537,69 +587,19 @@
       "count": 6
     },
     {
-      "name": "misc-utility",
-      "bookmarks": [
-        {
-          "url": "https://ecommerce.apple.com/asb2bstorefront/login?country=US&segment=GOV-STLOC&language=en&public=true",
-          "title": "Apple Store for Government : Home"
-        },
-        {
-          "url": "https://www.google.nu/url?q=http%3A%2F%2Fwww.Berita%20Harian.my.id%2F",
-          "title": "Avviso di reindirizzamento"
-        },
-        {
-          "url": "https://cat.barchemicals.it/prodotto/bp-bioglayd/",
-          "title": "BIOGLAYD | Catalogo Barchemicals Group"
-        },
-        {
-          "url": "https://www.cp.pt/passageiros/pt/consultar-horarios",
-          "title": "CP - Comboios de Portugal"
-        },
-        {
-          "url": "https://s05.flagcounter.com/more/EY45",
-          "title": "Flag Counter » Overview"
-        },
-        {
-          "url": "https://git.bettercrypto.org/ach-master.git/history/722b6ded8bd2caf3a36fd8c13a3f2d90054e8c1c:/src/llncs.cls",
-          "title": "GitHub - BetterCrypto/Applied-Crypto-Hardening: Best Current Practices regarding secure online communication and configuration of services using cryptography."
-        },
-        {
-          "url": "https://my.accessportals.com/app/blk/login?redirectUrl=/us/individual?signInAppWithOkta=true",
-          "title": "Login"
-        },
-        {
-          "url": "https://www.match.com/",
-          "title": "Online Dating Site - Register For Free on Match UK!"
-        },
-        {
-          "url": "https://revodoc.valdoise.fr/resultat.php?q=1&spec_expand=1&sort_define=tri_annee&sort_order=1&rows=10&fq=frbr%3A%281%29+AND+sujets_ac%3A%28%22Cordes%2C+vents%22%29+AND+sujets_ac%3A%28%22Piano%22%29+AND+auteurs_ac%3A%28%22Berg%2C+Alban%22%29+AND+auteurs_ac%3A%28%22Jude%2C+Marie-Jos%C3%A8phe%22%29+AND+type_fonds%3A%28%22g%22%29+AND+nombib_frbr%3A%28%22Val+de+France+%3A+Arnouville%2C+Garges-l%C3%A8s-Gonesse%2C+Sarcelles%2C+Villiers-le-Bel%22%29",
-          "title": "Résultats (oeuvres) - RéVOdoc"
-        },
-        {
-          "url": "http://survey.walmart.com/",
-          "title": "Survey"
-        },
-        {
-          "url": "http://www.usanetwork.com/page/help",
-          "title": "Availability Notice"
-        }
-      ],
-      "count": 11
-    },
-    {
-      "name": "jobs-careers",
+      "name": "careers-jobs",
       "bookmarks": [
         {
           "url": "https://pt.jobrapido.com/Ofertas-de-Emprego-para-Assistente-Comunica%C3%A7%C3%A3o-em-Porto?p=5&shm=all",
           "title": "Emprego Assistente Comunicação Porto, Ofertas de Emprego | Jobrapido.com"
         },
         {
-          "url": "https://www.selfpublisherpodcast.de/tag/pr/",
-          "title": "PR"
-        },
-        {
           "url": "http://mtia.labs.si.umich.edu/search/?selected_facets=host_exact:Rita%20Rochelle&selected_facets=locations_exact:Guinea&selected_facets=performers_exact:Antoine%20Mundanda&selected_facets=locations_exact:Angola&selected_facets=performers_exact:Antoine%20Mundanda&selected_facets=locations_exact:Tanzania&selected_facets=completeness_exact:Platinum&selected_facets=performers_exact:Sunny%20Ade&selected_facets=performers_exact:Urafiki%20Band",
           "title": "Leo Sarkisian MTiA Archive"
+        },
+        {
+          "url": "https://www.selfpublisherpodcast.de/tag/pr/",
+          "title": "PR"
         }
       ],
       "count": 3

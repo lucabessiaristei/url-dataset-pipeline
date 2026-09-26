@@ -1,19 +1,19 @@
 {
   "folders": [
     {
-      "name": "academic-education-resources",
+      "name": "education-academic-resources",
       "bookmarks": [
         {
           "url": "https://nycdatascience.com/blog/author/akgillermangmail-com/",
           "title": "Adrian Gillerman | Data Science Blog"
         },
         {
-          "url": "https://bbbprograms.org/programs/all-programs/children's-advertising-review-unit",
-          "title": "Children's Advertising Review Unit (CARU) - BBB National Programs"
-        },
-        {
           "url": "https://ahlansimsim.org/caring.html",
           "title": "Caring for Each Other Resources | Sesame Street"
+        },
+        {
+          "url": "https://bbbprograms.org/programs/all-programs/children's-advertising-review-unit",
+          "title": "Children's Advertising Review Unit (CARU) - BBB National Programs"
         },
         {
           "url": "https://maltaonlinebookshop.com/book_author/daniel-mainwering/",
@@ -42,12 +42,8 @@
       "name": "lifestyle-entertainment-culture",
       "bookmarks": [
         {
-          "url": "https://www.theatlantic.com/education/archive/2025/01/learning-loss-pandemic-impact/673123/",
-          "title": "The '90s Blockbuster That's Also a Symphony - The Atlantic"
-        },
-        {
           "url": "https://mindblower.ro/blog/cadouri-barbati-7-idei-si-sfaturi-pretioase-pentru-2020.html",
-          "title": "Cadouri barbati: 7 idei si sfaturi pretioase para 2020"
+          "title": "Cadouri barbati: 7 idei si sfaturi pretioase pentru 2020"
         },
         {
           "url": "http://www.desoreillesdansbabylone.com/2007/02/sean-lennon-concert-bordeaux-220207.html",
@@ -68,6 +64,10 @@
         {
           "url": "https://www.caldeiraomagico.pt/produto/tarot-esoterico/",
           "title": "TAROT ESOTERICO - Caldeirão Mágico - Artigos Esótericos"
+        },
+        {
+          "url": "https://www.theatlantic.com/education/archive/2025/01/learning-loss-pandemic-impact/673123/",
+          "title": "The '90s Blockbuster That's Also a Symphony - The Atlantic"
         }
       ],
       "count": 7
@@ -80,12 +80,12 @@
           "title": "Bugzilla Main Page"
         },
         {
-          "url": "https://bun.sh/docs/runtime",
-          "title": "File types - Runtime | Bun Docs"
-        },
-        {
           "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
           "title": "CSS Grid Layout Guide | CSS-Tricks"
+        },
+        {
+          "url": "https://bun.sh/docs/runtime",
+          "title": "File types - Runtime | Bun Docs"
         },
         {
           "url": "https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/",
@@ -103,6 +103,32 @@
       "count": 6
     },
     {
+      "name": "brands-company-profiles",
+      "bookmarks": [
+        {
+          "url": "https://bestbadinfluence.com/",
+          "title": "Best Bad Influence"
+        },
+        {
+          "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Uruguay | Autos Deportivos, Eléctricos y Más"
+        },
+        {
+          "url": "http://store.apple.com/us_epp_55499",
+          "title": "Government Purchase Program - Shopping Agreement - Apple"
+        },
+        {
+          "url": "https://kr.linkedin.com/company/samsungmobile?trk=organization_guest_main-feed-card_reshare_feed-actor-image",
+          "title": "Samsung Mobile | LinkedIn"
+        },
+        {
+          "url": "https://www.economistgroup.com/group-news",
+          "title": "The Economist Group - Groups news"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "business-digital-tools",
       "bookmarks": [
         {
@@ -114,42 +140,16 @@
           "title": "Email Marketing Platform | Litmus"
         },
         {
-          "url": "https://letsoftware.com",
-          "title": "Udvikling af apps og brætspil"
-        },
-        {
           "url": "https://nvbdc.org/",
           "title": "National Veteran Business Development Council Certification"
         },
         {
+          "url": "https://letsoftware.com",
+          "title": "Udvikling af apps og brætspil"
+        },
+        {
           "url": "https://www.unblock.coffee/",
           "title": "Unblock Coffee - Award-winning ads only"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "company-brand-profiles",
-      "bookmarks": [
-        {
-          "url": "http://store.apple.com/us_epp_55499",
-          "title": "Government Purchase Program - Shopping Agreement - Apple"
-        },
-        {
-          "url": "https://bestbadinfluence.com/",
-          "title": "Best Bad Influence"
-        },
-        {
-          "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Uruguay | Autos Deportivos, Eléctricos y Más"
-        },
-        {
-          "url": "https://www.economistgroup.com/group-news",
-          "title": "The Economist Group - Groups news"
-        },
-        {
-          "url": "https://kr.linkedin.com/company/samsungmobile?trk=organization_guest_main-feed-card_reshare_feed-actor-image",
-          "title": "Samsung Mobile | LinkedIn"
         }
       ],
       "count": 5
@@ -246,12 +246,12 @@
       "name": "online-platforms-privacy",
       "bookmarks": [
         {
-          "url": "https://prod.outgoing.prod.webservices.mozgcp.net/v1/3b0aa1a488ff9809554e48743a9b592944d358a0ffa3f88e394cd3ddfc36894b/http%3A//facebook.com",
-          "title": "Redirecting to http://facebook.com"
-        },
-        {
           "url": "https://experience.intellum.com/student/page/497283",
           "title": "Privacy : Intellum"
+        },
+        {
+          "url": "https://prod.outgoing.prod.webservices.mozgcp.net/v1/3b0aa1a488ff9809554e48743a9b592944d358a0ffa3f88e394cd3ddfc36894b/http%3A//facebook.com",
+          "title": "Redirecting to http://facebook.com"
         },
         {
           "url": "https://crisssemm.tumblr.com/",
@@ -272,16 +272,16 @@
           "title": "Availability | HBO Max"
         },
         {
-          "url": "https://www.kanopy.com",
-          "title": "Kanopy - Stream Classic Cinema, Indie Film and Top Documentaries"
-        },
-        {
           "url": "https://www.vam.ac.uk/collections/furniture",
           "title": "Furniture - Explore the Collections · V&A"
         },
         {
           "url": "https://esawebb.org/images/",
           "title": "Images |ESA/Webb"
+        },
+        {
+          "url": "https://www.kanopy.com",
+          "title": "Kanopy - Stream Classic Cinema, Indie Film and Top Documentaries"
         }
       ],
       "count": 4
@@ -308,22 +308,40 @@
       "name": "consumer-products",
       "bookmarks": [
         {
-          "url": "https://www.burtsbees.com/product/facial-oil-with-rosehip-seed-extract",
-          "title": "Hoop Earrings for Women | Jennifer Fisher"
+          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
+          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
         },
         {
           "url": "https://jenniferfisherjewelry.com/products/baby-samira-hoops?tag=people-onsite-backup-20",
           "title": "Hoop Earrings for Women | Jennifer Fisher"
         },
         {
-          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
-          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
+          "url": "https://www.burtsbees.com/product/facial-oil-with-rosehip-seed-extract",
+          "title": "void"
         }
       ],
       "count": 3
     },
     {
-      "name": "crafts-hobbies-guides",
+      "name": "environment-climate-action",
+      "bookmarks": [
+        {
+          "url": "https://nhess.copernicus.org/articles/21/2643/2021/",
+          "title": "NHESS - Sea-level rise in Venice: historic and future trends (review article)"
+        },
+        {
+          "url": "https://www.nj.gov/dep/get-past-plastic/",
+          "title": "NJDEP"
+        },
+        {
+          "url": "https://www.fondation-bertarelli.org/tristan-da-cunha-creates-planets-fourth-largest-fully-protected-mpa/",
+          "title": "Tristan da Cunha creates planet's fourth-largest fully protected MPA - Fondation Bertarelli"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-crafts-guides",
       "bookmarks": [
         {
           "url": "https://www.ravelry.com/patterns/sources/the-crochet-project",
@@ -341,33 +359,15 @@
       "count": 3
     },
     {
-      "name": "environment-climate-action",
-      "bookmarks": [
-        {
-          "url": "https://www.nj.gov/dep/get-past-plastic/",
-          "title": "NJDEP"
-        },
-        {
-          "url": "https://nhess.copernicus.org/articles/21/2643/2021/",
-          "title": "NHESS - Sea-level rise in Venice: historic and future trends (review article)"
-        },
-        {
-          "url": "https://www.fondation-bertarelli.org/tristan-da-cunha-creates-planets-fourth-largest-fully-protected-mpa/",
-          "title": "Tristan da Cunha creates planet's fourth-largest fully protected MPA - Fondation Bertarelli"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "sports-recreation-travel",
       "bookmarks": [
         {
-          "url": "https://pulpmx.com/podcast/guest-chris-betts/",
-          "title": "Guest: Chris Betts - PulpMX"
-        },
-        {
           "url": "https://tsg-pastetten.de/bildergalerie/2017-spartan-lauf/",
           "title": "2017 TSG Teilnahme am Spartan Lauf München - TSG-Pastetten 1972 e.V."
+        },
+        {
+          "url": "https://pulpmx.com/podcast/guest-chris-betts/",
+          "title": "Guest: Chris Betts - PulpMX"
         },
         {
           "url": "https://flugbetrieb.com/flugplatz/Montabaur-montabaur/",
@@ -377,6 +377,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 71,
+  "total_bookmarks": 70,
   "num_folders": 16
 }

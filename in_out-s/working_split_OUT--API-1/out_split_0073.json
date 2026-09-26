@@ -1,56 +1,6 @@
 {
   "folders": [
     {
-      "name": "technology-software",
-      "bookmarks": [
-        {
-          "url": "https://fireflies.ai/",
-          "title": "Fireflies.ai | AI Teammate to Transcribe, Summarize, Analyze Meetings, Real Time AI Note Taker"
-        },
-        {
-          "url": "https://www.chessprogramming.org/Bitboards",
-          "title": "Bitboards - Chessprogramming wiki"
-        },
-        {
-          "url": "https://issuu.com/features/visual-stories?issuu_product=header&issuu_subproduct=%2F5070%2Fdocs%2Fedo_mazi_support_281111%3Fmode%3Dembed%26viewMode%3Dpresentation%26layout%3Dhttp%253A%252F%252Fskin.issuu.com%252Fv%252Fwood%252Flayout.xml%26showFlipBtn%3Dtrue&issuu_context=link&issuu_cta=visual_stories",
-          "title": "Boost engagement with Social Posts | Issuu"
-        },
-        {
-          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
-          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
-          "title": "CSS grid layout - CSS | MDN"
-        },
-        {
-          "url": "https://www.airtable.com/downloads",
-          "title": "Downloads - Airtable"
-        },
-        {
-          "url": "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=firefox-home",
-          "title": "Facebook Container - Get this Extension for 🦊 Firefox (en-US)"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/Notelet-Beautiful-websites-and-blogs-published-with-Notion-a6d4db450800466f94448b8611e92923?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://developers.hive.io/nodeop/seed-node.html",
-          "title": "Seed Node"
-        },
-        {
-          "url": "https://www.treccani.it/vocabolario/tecnologia/",
-          "title": "Tecnologìa - Significato ed etimologia - Vocabolario - Treccani"
-        },
-        {
-          "url": "http://www.youronlinechoices.eu/",
-          "title": "Your Online Choices | EDAA"
-        }
-      ],
-      "count": 11
-    },
-    {
       "name": "culture-society",
       "bookmarks": [
         {
@@ -58,12 +8,12 @@
           "title": "Brandkatastrophen - Altertum und Bücher aus Gutenberg"
         },
         {
-          "url": "https://studeeblurred.tumblr.com/post/129444749794",
-          "title": "Is learning computer science linked to improved... - STUDee Above the Rock"
-        },
-        {
           "url": "https://www.la-retro-d-aniche.com/2021/07/histoire-de-l-estaminet-de-la-verrerie-d-en-haut-la-cantine.html",
           "title": "Histoire de l'estaminet de la verrerie d'en haut : LA CANTINE - Centre de Mémoire de la Verrerie d'en Haut à ANICHE"
+        },
+        {
+          "url": "https://studeeblurred.tumblr.com/post/129444749794",
+          "title": "Is learning computer science linked to improved... - STUDee Above the Rock"
         },
         {
           "url": "https://nmaahc.si.edu/kwanzaa",
@@ -96,6 +46,56 @@
         {
           "url": "https://www.iwrite.gr/bookstore/symvolismos-tarw/",
           "title": "Ο Συμβολισμός των Ταρώ - Εκδόσεις iWrite"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "technology-software",
+      "bookmarks": [
+        {
+          "url": "https://www.chessprogramming.org/Bitboards",
+          "title": "Bitboards - Chessprogramming wiki"
+        },
+        {
+          "url": "https://issuu.com/features/visual-stories?issuu_product=header&issuu_subproduct=%2F5070%2Fdocs%2Fedo_mazi_support_281111%3Fmode%3Dembed%26viewMode%3Dpresentation%26layout%3Dhttp%253A%252F%252Fskin.issuu.com%252Fv%252Fwood%252Flayout.xml%26showFlipBtn%3Dtrue&issuu_context=link&issuu_cta=visual_stories",
+          "title": "Boost engagement with Social Posts | Issuu"
+        },
+        {
+          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
+          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
+          "title": "CSS grid layout - CSS | MDN"
+        },
+        {
+          "url": "https://www.airtable.com/downloads",
+          "title": "Downloads - Airtable"
+        },
+        {
+          "url": "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=firefox-home",
+          "title": "Facebook Container - Get this Extension for 🦊 Firefox (en-US)"
+        },
+        {
+          "url": "https://fireflies.ai/",
+          "title": "Fireflies.ai | AI Teammate to Transcribe, Summarize, Analyze Meetings, Real Time AI Note Taker"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Notelet-Beautiful-websites-and-blogs-published-with-Notion-a6d4db450800466f94448b8611e92923?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://developers.hive.io/nodeop/seed-node.html",
+          "title": "Seed Node"
+        },
+        {
+          "url": "https://www.treccani.it/vocabolario/tecnologia/",
+          "title": "Tecnologìa - Significato ed etimologia - Vocabolario - Treccani"
+        },
+        {
+          "url": "http://www.youronlinechoices.eu/",
+          "title": "Your Online Choices | EDAA"
         }
       ],
       "count": 11
@@ -302,10 +302,6 @@
       "name": "government-public-services",
       "bookmarks": [
         {
-          "url": "https://www.comune.roma.it/web/it/servizi.page",
-          "title": "Roma Capitale | Sito Istituzionale | Servizi"
-        },
-        {
           "url": "https://energy.gov/",
           "title": "Department of Energy"
         },
@@ -328,6 +324,10 @@
         {
           "url": "https://www.downtowndayton.org/rediscover/",
           "title": "Rediscover Downtown Dayton | Downtown Dayton Partnership"
+        },
+        {
+          "url": "https://www.comune.roma.it/web/it/servizi.page",
+          "title": "Roma Capitale | Sito Istituzionale | Servizi"
         }
       ],
       "count": 7
@@ -348,12 +348,12 @@
           "title": "New in Lingerie & Underwear | New in Ladies Nightwear at M&S"
         },
         {
-          "url": "https://www.obaly-dekorace.cz/pap-uterky-zasobniky/uterky-rolovane/",
-          "title": "PAP.UTĚRKY, ZÁSOBNÍKY » Utěrky rolované » obaly-dekorace.cz"
-        },
-        {
           "url": "https://www.instyle.com/oprah-nydj-denim-amazon-prime-early-access-sale-6746654",
           "title": "Oprah's Favorite Things List Includes On-Sale Cozy Fashion"
+        },
+        {
+          "url": "https://www.obaly-dekorace.cz/pap-uterky-zasobniky/uterky-rolovane/",
+          "title": "PAP.UTĚRKY, ZÁSOBNÍKY » Utěrky rolované » obaly-dekorace.cz"
         },
         {
           "url": "https://returns.kosas.com/",
@@ -363,7 +363,7 @@
       "count": 6
     },
     {
-      "name": "social-media-communities",
+      "name": "social-media-community",
       "bookmarks": [
         {
           "url": "https://a2tunes.tumblr.com/",
@@ -389,7 +389,7 @@
       "count": 5
     },
     {
-      "name": "tourism-travel",
+      "name": "travel-tourism",
       "bookmarks": [
         {
           "url": "https://book.passkey.com/go/IDA69thAnnualConference",
@@ -459,6 +459,28 @@
       "count": 4
     },
     {
+      "name": "legal-documents",
+      "bookmarks": [
+        {
+          "url": "https://apple.com/legal/internet-services/terms/site.html",
+          "title": "Legal - Website Terms of Use - Apple"
+        },
+        {
+          "url": "https://www.mwm-apps.com/legals/procolor/policies",
+          "title": "MWM"
+        },
+        {
+          "url": "https://www.networkforgood.com/legal/privacy-policy/",
+          "title": "Privacy policy | Bonterra"
+        },
+        {
+          "url": "https://pmc.com/privacy-policy/",
+          "title": "Privacy Policy | PMC"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "home-living-decor",
       "bookmarks": [
         {
@@ -477,28 +499,6 @@
       "count": 3
     },
     {
-      "name": "legal-documents",
-      "bookmarks": [
-        {
-          "url": "https://apple.com/legal/internet-services/terms/site.html",
-          "title": "Legal - Website Terms of Use - Apple"
-        },
-        {
-          "url": "https://www.mwm-apps.com/legals/procolor/policies",
-          "title": "MWM"
-        },
-        {
-          "url": "https://pmc.com/privacy-policy/",
-          "title": "Privacy Policy | PMC"
-        },
-        {
-          "url": "https://www.networkforgood.com/legal/privacy-policy/",
-          "title": "Privacy policy | Bonterra"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "automotive",
       "bookmarks": [
         {
@@ -513,21 +513,7 @@
       "count": 2
     },
     {
-      "name": "gaming-audio",
-      "bookmarks": [
-        {
-          "url": "https://corporate.bang-olufsen.com/en/exclusive-services",
-          "title": "Exclusive online services | Bang & Olufsen"
-        },
-        {
-          "url": "https://www.fighterchile.cl/plunger-boton-sanwa-obsf-24?similar_product=true",
-          "title": "Boton Sanwa OBSF-24"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "recipes-food",
+      "name": "food-recipes",
       "bookmarks": [
         {
           "url": "https://gimmedelicious.com/",
@@ -536,6 +522,20 @@
         {
           "url": "http://www.moldrek.com/",
           "title": "Ricette di cucina italiane e regionali tutte gratis"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "gaming-audio",
+      "bookmarks": [
+        {
+          "url": "https://www.fighterchile.cl/plunger-boton-sanwa-obsf-24?similar_product=true",
+          "title": "Boton Sanwa OBSF-24"
+        },
+        {
+          "url": "https://corporate.bang-olufsen.com/en/exclusive-services",
+          "title": "Exclusive online services | Bang & Olufsen"
         }
       ],
       "count": 2

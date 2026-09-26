@@ -13,12 +13,6 @@
       "preview": "Please enable JavaScript to continue using this application."
     },
     {
-      "url": "https://m.novinite.com/view_news.php?id=181332",
-      "title": "Heavy Rainfall and Storm Hit Turkey's Istanbul - Novinite.com - Sofia News Agency",
-      "description": "Heavy rainfall disrupted daily life in Istanbul Tuesday with floods and storms taking over the city, reported Daily Sabah Istanbul. The Directorate General of Meteorology warned Monday of heavy rains and possible flooding, saying that summer temperatures were expected to drop from over 30 Celsius to 20.",
-      "preview": "Login Heavy Rainfall and Storm Hit Turkey's Istanbul World | July 18, 2017, Tuesday // 11:23 | views pixabay.com Heavy rainfall disrupted daily life i"
-    },
-    {
       "url": "https://www.gordonengland.co.uk/pog/index.php?/tags/31-nature/665-anisoptera/669-odonata",
       "title": "Keywords nature + Anisoptera + Odonata | Photography Obsession",
       "description": "void",
@@ -41,12 +35,6 @@
       "title": "Event Calendar",
       "description": "void",
       "preview": "Member Login Search Home About Leadership TCA Past Presidents Membership Associations Chapters vs Divisions Chapters Divisions Advocacy News & Article"
-    },
-    {
-      "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2017-2018/information/",
-      "title": "Orthophotographie aérienne 2017-2018 sur Rennes Métropole - Open Data Rennes",
-      "description": "Il s'agit d'une vue aériennes verticales orthorectifiées du territoire de Rennes Métropole. L'orthorectification consiste à déformer l'image afin de corriger les déformations inhérentes au relief.Si les bâtiments ne sont pas orthorectifiés (des dévers peuvent masquer l'environnement immédiat des bâtiments haut), c'est le cas pour les ouvrages d'art ou les superstructures liés à la voirie.vous trouverez une description plus complète d'une orthophotographie dans un document annexé à la métadonnée.- Projection utilisée pour l'acquisition des données : Lambert 93 / IGN69- Livrables livrés en RGF93-CC48- Classe de précision planimétrique des données : 20 cm (2 pixels)- Résolution native : 10 cm- Recouvrement : 80%-80% sur une bande Est-Ouest couvrant l'ensemble de Rennes et 65%-65% sur le reste du territoire métropolitain- Livraison sous forme de tuiles de 1 km x 1 km et sous la forme d'une dalle unique- Syntaxe utilisée pour la dénomination des tuiles : XXXX_YYYY, issus des coordonnées X-Y en RGF93-CC48- Dates des prises de vues : du fait des mauvaises conditions météorologiques rencontrées durant la période propice à la prise de vues aériennes en 2017, seul le sud de l'agglomération n'a pu être couvert. Toute la partie nord du territoire a été acquis durant l'été 2018. Du fait que la prise de vues aériennes n'a pas été continue dans le temps, des différences colorimétriques sont visibles.Suite à la disponibilité des dalles d'orthophotographie aérienne sur le reste du département d'Ille-et-Vilaine (résolution 20 cm entièrement réalisée en 2017), les données de l'orthophotographie 2017-2018 du territoire métropolitain ont été complétées par des dalles de l'orthophotographie départementale pour couvrir le territoire hors Rennes Métropole et former une emprise rectangulaire.Ce jeu de données est composé de 893 dalles de 1 km x 1 km pour un volume d'environ 33 Go dans le format JPEG 2000 (JP2) pour la résolution 10 cm. Une cartographie présentant l'ensemble du dallage, l'année de prise de vue des dalles et le nom des dalles est annexée à la métadonnée.Pour les usages internes à la Ville de Rennes et Rennes Métropole, afin de faciliter son usage sur les outils SIG (ArcGIS et QGIS); une dalle unique multi-échelles au format JPG2000 (JP2) a été créée.La pleine propriété de l'orthophotographie 2017-2018 appartient au syndicat Mégalis Bretagne et à l'ensemble des collectivités territoriales bretonnes.Les dalles à 10cm au format JP2 sur le territoire de Rennes Métropole sont téléchargeables de façon individuelle sur le site Open Data de Rennes Métropole. Pour lire le format JP2 sous Photoshop, un plugin est nécessaire (par exemple : https://www.web3.lu/photoshop-plugins-jpeg-ls-jpeg-xr-jpeg-2000/).Pour des questions de performance, il est conseillé d'utiliser, par ordre décroissant de priorité (et en fonction des possibilités logicielles) :1. les services en cache / les services de tuiles WMTS ou TMS du GeoWebCache2. le service WMS du GeoWebCache3. le service WMS du GeoServer",
-      "preview": "{{ ctx.nhits | number }} record Filters {{ ctx.nhits | number }} record Active filters No active filters Filters La recherche texte n'est pas appliqué"
     },
     {
       "url": "https://www.mccormickfoundation.org/about-us/",
@@ -113,12 +101,6 @@
       "title": "Thema In eigener Sache im Media Center | SINUS-Institut",
       "description": "Studien, Videos, News oder Pressemitteilungen - hier finden Sie (fast) alles, was wir In eigener Sache zu sagen haben.",
       "preview": "In eigener Sache Studien, Videos, News oder Pressemitteilungen - hier finden Sie (fast) alles, was wir In eigener Sache zu sagen haben. Sie möchten me"
-    },
-    {
-      "url": "https://prod.outgoing.prod.webservices.mozgcp.net/v1/3b0aa1a488ff9809554e48743a9b592944d358a0ffa3f88e394cd3ddfc36894b/http%3A//facebook.com",
-      "title": "Redirecting to http://facebook.com",
-      "description": "void",
-      "preview": "Redirecting to http://facebook.com Please use caution when installing third-party add-ons. If you are immediately prompted to install an add-on, pleas"
     },
     {
       "url": "https://www.bigsmall.in/",
@@ -482,6 +464,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 80
+    "total_bookmarks": 77
   }
 }

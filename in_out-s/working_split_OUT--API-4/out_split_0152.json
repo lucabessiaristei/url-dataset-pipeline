@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "nonprofits-advocacy",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
         {
           "url": "https://acumen.org/america/",
@@ -16,32 +16,32 @@
           "title": "Color Of Change"
         },
         {
-          "url": "https://www.goodwilleasterseals.org/",
-          "title": "Home :: Goodwill Easter Seals"
+          "url": "https://ywcaatlanta.org/conversations/",
+          "title": "Donate to our Programs - YWCA Greater Atlanta | Advocacy | Social Justice | Education"
         },
         {
           "url": "https://riaclu.org/",
           "title": "Home - ACLU of Rhode Island"
         },
         {
-          "url": "https://www.srsh.org/",
-          "title": "Scott's Run Settlement House | Food Pantry | Monongalia | Morgantown, WV"
-        },
-        {
-          "url": "https://www.stoptb.org/",
-          "title": "Home | Stop TB Partnership"
-        },
-        {
-          "url": "https://www.aclumich.org/article/rejecting-heckler%E2%80%99s-veto",
-          "title": "The Heckler's Veto | ACLU of Michigan"
-        },
-        {
           "url": "https://www.welcomingamerica.org/",
           "title": "Home - Welcoming America"
         },
         {
-          "url": "https://ywcaatlanta.org/conversations/",
-          "title": "Donate to our Programs - YWCA Greater Atlanta | Advocacy | Social Justice | Education"
+          "url": "https://www.goodwilleasterseals.org/",
+          "title": "Home :: Goodwill Easter Seals"
+        },
+        {
+          "url": "http://www.stoptb.org/",
+          "title": "Home | Stop TB Partnership"
+        },
+        {
+          "url": "http://www.srsh.org/",
+          "title": "Scott's Run Settlement House | Food Pantry | Monongalia | Morgantown, WV"
+        },
+        {
+          "url": "http://www.aclumich.org/article/rejecting-heckler%E2%80%99s-veto",
+          "title": "The Heckler's Veto | ACLU of Michigan"
         }
       ],
       "count": 10
@@ -62,15 +62,15 @@
           "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
         },
         {
-          "url": "https://math.hws.edu/javanotes/",
-          "title": "Javanotes 9, JavaFX Edition -- Title Page"
-        },
-        {
           "url": "https://regexplanet.com/advanced/java/index.html",
           "title": "Java regex testing - RegexPlanet"
         },
         {
-          "url": "https://mathworld.wolfram.com/topics/LinearAlgebra.html",
+          "url": "http://math.hws.edu/javanotes/",
+          "title": "Javanotes 9, JavaFX Edition -- Title Page"
+        },
+        {
+          "url": "http://mathworld.wolfram.com/topics/LinearAlgebra.html",
           "title": "Linear Algebra -- from Wolfram MathWorld"
         },
         {
@@ -82,25 +82,25 @@
           "title": "PageSpeed Insights"
         },
         {
-          "url": "https://catb.org/~esr/gif2png/",
+          "url": "http://catb.org/~esr/gif2png/",
           "title": "Resource page for gif2png 3.0.3"
         }
       ],
       "count": 9
     },
     {
-      "name": "lifestyle-shopping",
+      "name": "shopping-lifestyle",
       "bookmarks": [
-        {
-          "url": "https://betweennapsontheporch.net/christmas-in-heaven/?replytocom=646275",
-          "title": "Christmas in Heaven"
-        },
         {
           "url": "https://buzzbakeshop.com/",
           "title": "Buzz Bakeshop | Alexandria VA"
         },
         {
-          "url": "https://www.cottonseedusa.com/",
+          "url": "https://betweennapsontheporch.net/christmas-in-heaven/?replytocom=646275",
+          "title": "Christmas in Heaven"
+        },
+        {
+          "url": "http://www.cottonseedusa.com/",
           "title": "Cotton Casual Clothing Men & Women- Resort Wear"
         },
         {
@@ -142,11 +142,11 @@
           "title": "Computer science: the impact of K-12 on university enrollment - @mahxipad on Tumblr"
         },
         {
-          "url": "https://uis.unesco.org/",
+          "url": "http://uis.unesco.org/",
           "title": "Data for the Sustainable Development Goals | Institute for Statistics (UIS)"
         },
         {
-          "url": "https://www.politicalscience.ualberta.ca/",
+          "url": "http://www.politicalscience.ualberta.ca/",
           "title": "Department of Political Science"
         },
         {
@@ -154,7 +154,7 @@
           "title": "Educator Center Overview - Microsoft Learn Educator Center | Microsoft Learn"
         },
         {
-          "url": "https://www.ucsf.edu/",
+          "url": "http://www.ucsf.edu/",
           "title": "Home | UC San Francisco"
         },
         {
@@ -165,44 +165,10 @@
       "count": 7
     },
     {
-      "name": "corporate-orgs",
-      "bookmarks": [
-        {
-          "url": "https://flex.amazon.com/faqs/",
-          "title": "Amazon Flex"
-        },
-        {
-          "url": "https://azuremarketplace.microsoft.com/en-us/",
-          "title": "Microsoft Azure Marketplace"
-        },
-        {
-          "url": "https://eskalera.com/request-a-demo/",
-          "title": "Eskalera : Request a Demo"
-        },
-        {
-          "url": "https://www.skype.com/go/skype/?cm_mmc=MSFT|TRAF_B1-_-mscom-hero-us",
-          "title": "Free Online Meetings & Video Calls | Microsoft Teams"
-        },
-        {
-          "url": "https://privacy.microsoft.com/privacystatement",
-          "title": "Informativa sulla privacy di Microsoft - Privacy Microsoft"
-        },
-        {
-          "url": "https://zoom.us/",
-          "title": "One platform to connect | Zoom"
-        },
-        {
-          "url": "https://circle.target.com/",
-          "title": "Target Circle™"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://naacpimageawards.net/",
+          "url": "https://naacpimageawards.net",
           "title": "57th NAACP Image Awards"
         },
         {
@@ -226,14 +192,112 @@
           "title": "Watch Insecure (HBO) | HBO Max"
         },
         {
-          "url": "https://fireflyfans.net/mthread.aspx?bid=11&tid=33415&p=2",
+          "url": "http://fireflyfans.net/mthread.aspx?bid=11&tid=33415&p=2",
           "title": "What Song Are You Listening To, What's My Age Again? by deepgirl187"
         }
       ],
       "count": 7
     },
     {
-      "name": "conservation-sustainability",
+      "name": "general-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://voxatl.org/about/",
+          "title": "About - VOX ATL"
+        },
+        {
+          "url": "https://www.eleftheroudakis.gr/",
+          "title": "Account Suspended"
+        },
+        {
+          "url": "http://www.brendentheatres.com/actor/jay-lycurgo/",
+          "title": "Brenden Theatres"
+        },
+        {
+          "url": "https://www.tripindigo.com/fly/guide/airlines/airkenya-express/",
+          "title": "Easyota - Loading..."
+        },
+        {
+          "url": "https://katalog.skd.museum/Search/Results?filter%5B%5D=~institution%3A%22DE-L228%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-referencebooks%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-techniquefinearts%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-studiesbooksmanuscripts%22&filter%5B%5D=format_de15%3A%22Software%22&filter%5B%5D=-mega_collection%3A%22Verbunddaten+SWB%22&dfApplied=1&type=AllFields",
+          "title": "Suchergebnisse :: Staatliche Kunstsammlungen Dresden, Kunstbibliothek"
+        },
+        {
+          "url": "http://szerep.hu/faultetes/1",
+          "title": "Szerep Község"
+        },
+        {
+          "url": "http://www.jedasoftwaresystems.com/GHPrivacyPolicy.html",
+          "title": "void"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "organizations-corporate",
+      "bookmarks": [
+        {
+          "url": "https://flex.amazon.com/faqs/",
+          "title": "Amazon Flex"
+        },
+        {
+          "url": "https://eskalera.com/request-a-demo/",
+          "title": "Eskalera : Request a Demo"
+        },
+        {
+          "url": "http://www.skype.com/go/skype/?cm_mmc=MSFT|TRAF_B1-_-mscom-hero-us",
+          "title": "Free Online Meetings & Video Calls | Microsoft Teams"
+        },
+        {
+          "url": "https://privacy.microsoft.com/privacystatement",
+          "title": "Informativa sulla privacy di Microsoft - Privacy Microsoft"
+        },
+        {
+          "url": "https://azuremarketplace.microsoft.com/en-us/",
+          "title": "Microsoft Azure Marketplace"
+        },
+        {
+          "url": "https://zoom.us/",
+          "title": "One platform to connect | Zoom"
+        },
+        {
+          "url": "https://circle.target.com",
+          "title": "Target Circle™"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.militarytimes.com/pay-benefits/2019/12/10/it-changed-my-life-these-nonprofits-are-honored-for-making-a-difference-in-the-military-community/",
+          "title": "'It changed my life': These nonprofits are honored for making a difference in the military community"
+        },
+        {
+          "url": "https://www.fox4news.com/news/janitor-fundraiser-mr-james-callisburg-high-unretire-go-fund-me",
+          "title": "Fundraiser for 80-year-old North Texas janitor who had to unretire tops $160,000 | FOX 4 Dallas-Fort Worth"
+        },
+        {
+          "url": "https://www.top10wettenerfahrungen.com/wettquoten/fussball/",
+          "title": "Fussball Quotenvergleich 2025 ᐅ [TOP10] Fußball Wettquoten Heute"
+        },
+        {
+          "url": "https://www.desmoinesregister.com/story/news/politics/2021/03/08/iowa-governor-kim-reynolds-signs-law-shortening-early-voting-closing-polls-earlier-election-day/6869317002/",
+          "title": "Iowa voting law: Gov. Kim Reynolds signs law shortening early voting"
+        },
+        {
+          "url": "https://abc7news.com/starbucks-recall-2023-frappuccino-drink-coffee/12832701/",
+          "title": "Starbucks recall 2023: Frappuccino bottles recalled due to some drinks possibly containing glass - ABC7 San Francisco"
+        },
+        {
+          "url": "https://www.belfastlive.co.uk/whats-on/music-nightlife-news/x-factor-finalists-out-belfast-10905167",
+          "title": "X-Factor finalists out and about in Belfast before tonight's show | Belfast Live"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "sustainability-conservation",
       "bookmarks": [
         {
           "url": "https://www.asc-aqua.org/",
@@ -244,7 +308,7 @@
           "title": "Earth Day Quiz | Official Earth Day Website | earthday.org"
         },
         {
-          "url": "https://www.mpatlas.org/",
+          "url": "http://www.mpatlas.org/",
           "title": "Home | Marine Protection Atlas"
         },
         {
@@ -270,16 +334,16 @@
           "title": "Coface News, Economy and Insights: Source for Strategic Knowledge | Coface"
         },
         {
-          "url": "https://www.equitypandit.com/",
+          "url": "http://www.equitypandit.com/",
           "title": "EquityPandit | Breaking News, NSE/BSE, Share Price, Nifty, Sensex Today"
-        },
-        {
-          "url": "https://www.banquemondiale.org/",
-          "title": "Le Groupe de la Banque mondiale"
         },
         {
           "url": "https://blogs.alternatives-economiques.fr/hubert-de-vauplane/2021/03/06/l-annulation-des-dettes-par-la-bce-analyse-juridique",
           "title": "L'annulation des dettes par la BCE : analyse juridique | La finance décryptée par le droit | Hubert de Vauplane | Les blogs d'Alternatives Économiques"
+        },
+        {
+          "url": "https://www.banquemondiale.org/",
+          "title": "Le Groupe de la Banque mondiale"
         },
         {
           "url": "https://fred.stlouisfed.org/series/GS10",
@@ -289,36 +353,6 @@
       "count": 5
     },
     {
-      "name": "news-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.top10wettenerfahrungen.com/wettquoten/fussball/",
-          "title": "Fussball Quotenvergleich 2025 ᐅ [TOP10] Fußball Wettquoten Heute"
-        },
-        {
-          "url": "https://www.fox4news.com/news/janitor-fundraiser-mr-james-callisburg-high-unretire-go-fund-me",
-          "title": "Fundraiser for 80-year-old North Texas janitor who had to unretire tops $160,000 | FOX 4 Dallas-Fort Worth"
-        },
-        {
-          "url": "https://www.desmoinesregister.com/story/news/politics/2021/03/08/iowa-governor-kim-reynolds-signs-law-shortening-early-voting-closing-polls-earlier-election-day/6869317002/",
-          "title": "Iowa voting law: Gov. Kim Reynolds signs law shortening early voting"
-        },
-        {
-          "url": "https://www.militarytimes.com/pay-benefits/2019/12/10/it-changed-my-life-these-nonprofits-are-honored-for-making-a-difference-in-the-military-community/",
-          "title": "'It changed my life': These nonprofits are honored for making a difference in the military community"
-        },
-        {
-          "url": "https://abc7news.com/starbucks-recall-2023-frappuccino-drink-coffee/12832701/",
-          "title": "Starbucks recall 2023: Frappuccino bottles recalled due to some drinks possibly containing glass - ABC7 San Francisco"
-        },
-        {
-          "url": "https://www.belfastlive.co.uk/whats-on/music-nightlife-news/x-factor-finalists-out-belfast-10905167",
-          "title": "X-Factor finalists out and about in Belfast before tonight's show | Belfast Live"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "misc-reference",
       "bookmarks": [
         {
@@ -326,20 +360,20 @@
           "title": "Cubism | The Guggenheim Museums and Foundation"
         },
         {
+          "url": "http://www.ecfr.gov/",
+          "title": "eCFR :: Home"
+        },
+        {
           "url": "https://sandiegozoowildlifealliance.org/pr/PPMWorldRecord",
           "title": "Endangered Mouse Raised by San Diego Zoo Wildlife Alliance Certified by GUINNESS WORLD RECORDS as Oldest Living Mouse in Human Care | San Diego Zoo Wildlife Alliance"
         },
         {
-          "url": "https://www.fao.org/documents/card/en/c/ca7012en",
+          "url": "http://www.fao.org/documents/card/en/c/ca7012en",
           "title": "FAO Knowledge Repository"
         },
         {
           "url": "https://phoible.org/",
           "title": "PHOIBLE 2.0 -"
-        },
-        {
-          "url": "https://www.ecfr.gov/",
-          "title": "eCFR :: Home"
         }
       ],
       "count": 5
@@ -356,7 +390,7 @@
           "title": "Ingradients - Hand-picked mesh gradients for your next design project"
         },
         {
-          "url": "https://my.studiopress.com/themes/enterprise/",
+          "url": "http://my.studiopress.com/themes/enterprise/",
           "title": "Themes Archive - StudioPress"
         },
         {
@@ -367,10 +401,32 @@
       "count": 4
     },
     {
+      "name": "misc-marketing",
+      "bookmarks": [
+        {
+          "url": "https://privacyinternational.org/search?keywords=&f%5B0%5D=learn_more%3ALocation%20Surveillance%20Technology&f%5B1%5D=learn_more%3APrivacy&f%5B2%5D=learn_more%3AProtest%20Surveillance&f%5B3%5D=learn_more%3ASmart%20Cities",
+          "title": "Privacy International | Search"
+        },
+        {
+          "url": "https://info.cell.com/request-access-to-cell-press-content",
+          "title": "Request access to Cell Press content today!"
+        },
+        {
+          "url": "https://pt.slideshare.net/rss/user/olaitanfalomo",
+          "title": "Slideshows by User: olaitanfalomo"
+        },
+        {
+          "url": "https://market.unicefusa.org/",
+          "title": "The Ultimate Online Gifts Shopping Catalog Featuring Artisans from Around the World | UNICEF Market"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "social-support",
       "bookmarks": [
         {
-          "url": "https://www.sesamestreetformilitaryfamilies.org/topic/afliccion",
+          "url": "http://www.sesamestreetformilitaryfamilies.org/topic/afliccion",
           "title": "Aflicción | Sesame Street for Military Families"
         },
         {
@@ -389,7 +445,79 @@
       "count": 4
     },
     {
-      "name": "blogs-personal",
+      "name": "culture-venues",
+      "bookmarks": [
+        {
+          "url": "https://www.manhattantheatreclub.com/",
+          "title": "Home Page - Manhattan Theatre Club"
+        },
+        {
+          "url": "https://aqua.org/visit",
+          "title": "National Aquarium - Plan Your Visit"
+        },
+        {
+          "url": "http://www.scienceworld.bc.ca/",
+          "title": "Today - Science World"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-misc",
+      "bookmarks": [
+        {
+          "url": "https://astronet.borsonline.hu/ezoteria/tarot-kartya-titkai-misztikum-es-vagy-tudatossag/",
+          "title": "A Tarot kártya titkai: misztikum és/vagy tudatosság? | Astronet.hu Ezotéria"
+        },
+        {
+          "url": "https://cgstore.co.nz/figurines/",
+          "title": "Figurines - Cerberus Games Wellington (NZ)"
+        },
+        {
+          "url": "https://mysticsmoons.fr/",
+          "title": "Mystic Moon - l'ésotérisme accessible à tous"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "misc-articles",
+      "bookmarks": [
+        {
+          "url": "https://mestizos.cl/tag/medio-de-transporte/",
+          "title": "#medio de transporte - Mestizos Magazine"
+        },
+        {
+          "url": "https://www.rent.com/blog/empty-office-building-turned-into-homes-next-apartment-trend/",
+          "title": "Are Empty Downtown Offices America's Next Hot Apartment Trend? | Rent. Blog"
+        },
+        {
+          "url": "https://filmtoro.cz/film/hydra",
+          "title": "Hydra (2009) ▶️ Kde sledovat"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "organizations-global",
+      "bookmarks": [
+        {
+          "url": "https://www.handelsblatt.com/unternehmen/industrie",
+          "title": "Handelsblatt"
+        },
+        {
+          "url": "https://conferences.nature.com",
+          "title": "Nature Conferences"
+        },
+        {
+          "url": "https://support.theguardian.com?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
+          "title": "Support the Guardian"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://sci-chic.tumblr.com/post/143086629474",
@@ -407,90 +535,18 @@
       "count": 3
     },
     {
-      "name": "culture-venues",
+      "name": "professional-services",
       "bookmarks": [
-        {
-          "url": "https://www.manhattantheatreclub.com/",
-          "title": "Home Page - Manhattan Theatre Club"
-        },
-        {
-          "url": "https://aqua.org/visit",
-          "title": "National Aquarium - Plan Your Visit"
-        },
-        {
-          "url": "https://www.scienceworld.bc.ca/",
-          "title": "Today - Science World"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "hobbies-misc",
-      "bookmarks": [
-        {
-          "url": "https://cgstore.co.nz/figurines/",
-          "title": "Figurines - Cerberus Games Wellington (NZ)"
-        },
-        {
-          "url": "https://mysticsmoons.fr/",
-          "title": "Mystic Moon - l'ésotérisme accessible à tous"
-        },
-        {
-          "url": "https://astronet.borsonline.hu/ezoteria/tarot-kartya-titkai-misztikum-es-vagy-tudatossag/",
-          "title": "A Tarot kártya titkai: misztikum és/vagy tudatosság? | Astronet.hu Ezotéria"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "misc-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.rent.com/blog/empty-office-building-turned-into-homes-next-apartment-trend/",
-          "title": "Are Empty Downtown Offices America's Next Hot Apartment Trend? | Rent. Blog"
-        },
-        {
-          "url": "https://filmtoro.cz/film/hydra",
-          "title": "Hydra (2009) ▶️ Kde sledovat"
-        },
-        {
-          "url": "https://mestizos.cl/tag/medio-de-transporte/",
-          "title": "#medio de transporte - Mestizos Magazine"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "organizations-global",
-      "bookmarks": [
-        {
-          "url": "https://www.handelsblatt.com/unternehmen/industrie",
-          "title": "Handelsblatt"
-        },
-        {
-          "url": "https://conferences.nature.com/",
-          "title": "Nature Conferences"
-        },
-        {
-          "url": "https://support.theguardian.com?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
-          "title": "Support the Guardian"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "services-professional",
-      "bookmarks": [
-        {
-          "url": "https://www.permis-de-exploitation.com/1643-3-ville-courcelles-lens-hygiene-alimentaire.html",
-          "title": "HACCP - Hygiène Alimentaire Courcelles-lès-Lens 62"
-        },
         {
           "url": "https://www.moneygram.com/replacement",
           "title": "Get a Money Order Fast with MoneyGram | MoneyGram"
         },
         {
-          "url": "https://www.script-fix.com/",
+          "url": "https://www.permis-de-exploitation.com/1643-3-ville-courcelles-lens-hygiene-alimentaire.html",
+          "title": "HACCP - Hygiène Alimentaire Courcelles-lès-Lens 62"
+        },
+        {
+          "url": "http://www.script-fix.com/",
           "title": "Script & Screenplay Coverage | The Choice of Industry PRODUCERS & WRITERS"
         }
       ],
@@ -504,71 +560,15 @@
           "title": "HŽ Putnički prijevoz - Timetable"
         },
         {
-          "url": "https://dovolenka.sme.sk/i/turecko/plaze?typ=pauschal&trt=p&epc=2&ka1=&ka2=&ka3=&vnd=26.10.2021&bsd=11.01.2022&lmn=7&lmx=15&opi%5B0%5D=ALL-SK&opi%5B1%5D=ALL-AT&stc=3&zac=&vpc=AI&sub=all&qst=pmn&qdr=up&price_to=9999&trip_length=&length=&journej_attributes=&max_number_of_stops=&aph=ALL-DEF&opx%5B0%5D=SATU&opx%5B1%5D=BU&opx%5B2%5D=OGE&opx%5B3%5D=TOC&opx%5B4%5D=XOGE&opx%5B5%5D=XBU&traffic=&cha1=&cha2=&cha3=&form_sended=1&lmn_text=7&lmx_text=15",
-          "title": "🏖️ Najkrajšie pláže v Turecku | Dovolenka.SME.sk"
-        },
-        {
           "url": "https://lyft.sng.link/Adnq0/l8f8?_dl=lyft%3A%2F%2F",
           "title": "Ride with Lyft"
+        },
+        {
+          "url": "https://dovolenka.sme.sk/i/turecko/plaze?typ=pauschal&trt=p&epc=2&ka1=&ka2=&ka3=&vnd=26.10.2021&bsd=11.01.2022&lmn=7&lmx=15&opi%5B0%5D=ALL-SK&opi%5B1%5D=ALL-AT&stc=3&zac=&vpc=AI&sub=all&qst=pmn&qdr=up&price_to=9999&trip_length=&length=&journej_attributes=&max_number_of_stops=&aph=ALL-DEF&opx%5B0%5D=SATU&opx%5B1%5D=BU&opx%5B2%5D=OGE&opx%5B3%5D=TOC&opx%5B4%5D=XOGE&opx%5B5%5D=XBU&traffic=&cha1=&cha2=&cha3=&form_sended=1&lmn_text=7&lmx_text=15",
+          "title": "🏖️ Najkrajšie pláže v Turecku | Dovolenka.SME.sk"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "general-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://www.eleftheroudakis.gr/",
-          "title": "Account Suspended"
-        },
-        {
-          "url": "https://www.brendentheatres.com/actor/jay-lycurgo/",
-          "title": "Brenden Theatres"
-        },
-        {
-          "url": "https://www.tripindigo.com/fly/guide/airlines/airkenya-express/",
-          "title": "Easyota - Loading..."
-        },
-        {
-          "url": "https://katalog.skd.museum/Search/Results?filter%5B%5D=~institution%3A%22DE-L228%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-referencebooks%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-techniquefinearts%22&filter%5B%5D=-local_class_skd_txtF_mv%3A%22class-skd-studiesbooksmanuscripts%22&filter%5B%5D=format_de15%3A%22Software%22&filter%5B%5D=-mega_collection%3A%22Verbunddaten+SWB%22&dfApplied=1&type=AllFields",
-          "title": "Suchergebnisse :: Staatliche Kunstsammlungen Dresden, Kunstbibliothek"
-        },
-        {
-          "url": "https://szerep.hu/faultetes/1",
-          "title": "Szerep Község"
-        },
-        {
-          "url": "https://voxatl.org/about/",
-          "title": "About - VOX ATL"
-        },
-        {
-          "url": "https://www.jedasoftwaresystems.com/GHPrivacyPolicy.html",
-          "title": "void"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "misc-marketing",
-      "bookmarks": [
-        {
-          "url": "https://info.cell.com/request-access-to-cell-press-content",
-          "title": "Request access to Cell Press content today!"
-        },
-        {
-          "url": "https://market.unicefusa.org/",
-          "title": "The Ultimate Online Gifts Shopping Catalog Featuring Artisans from Around the World | UNICEF Market"
-        },
-        {
-          "url": "https://privacyinternational.org/search?keywords=&f%5B0%5D=learn_more%3ALocation%20Surveillance%20Technology&f%5B1%5D=learn_more%3APrivacy&f%5B2%5D=learn_more%3AProtest%20Surveillance&f%5B3%5D=learn_more%3ASmart%20Cities",
-          "title": "Privacy International | Search"
-        },
-        {
-          "url": "https://pt.slideshare.net/rss/user/olaitanfalomo",
-          "title": "Slideshows by User: olaitanfalomo"
-        }
-      ],
-      "count": 4
     }
   ],
   "total_bookmarks": 111,

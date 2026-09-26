@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "tech-and-software-resources",
+      "name": "software-tech-resources",
       "bookmarks": [
         {
           "url": "https://forum.openoffice.org/it/forum/ucp.php?mode=delete_cookies&sid=c7ebb141d68569166048e415e842d0f2",
@@ -35,16 +35,8 @@
       "count": 7
     },
     {
-      "name": "travel-and-local-guides",
+      "name": "travel-local-guides",
       "bookmarks": [
-        {
-          "url": "https://www.airbnb.com/rooms/817501972769927091?source_impression_id=p3_1676344653_1cIvBhqvh9EVkvF%2B",
-          "title": "Home of Phantom of the Opera in Paris, Île-de-France, France - Airbnb"
-        },
-        {
-          "url": "https://www.booking.com/help.en-gb.html",
-          "title": "void"
-        },
         {
           "url": "https://www.quesecueceenbcn.com/2020/02/06/buenisima-cocteleria-en-barcelona-mamaine/",
           "title": "Buenísima coctelería en Barcelona Mamainé en el Born"
@@ -52,6 +44,10 @@
         {
           "url": "http://www.justcruisinplus.com/",
           "title": "Home - Just Cruisin' Plus"
+        },
+        {
+          "url": "https://www.airbnb.com/rooms/817501972769927091?source_impression_id=p3_1676344653_1cIvBhqvh9EVkvF%2B",
+          "title": "Home of Phantom of the Opera in Paris, Île-de-France, France - Airbnb"
         },
         {
           "url": "https://palacesouthbeach.com/",
@@ -64,20 +60,24 @@
         {
           "url": "https://www.downtownboston.org/",
           "title": "The Official Downtown Boston Alliance Website - Things to do"
+        },
+        {
+          "url": "https://www.booking.com/help.en-gb.html",
+          "title": "void"
         }
       ],
       "count": 7
     },
     {
-      "name": "government-and-policy-resources",
+      "name": "government-policy-resources",
       "bookmarks": [
-        {
-          "url": "https://www.ams.usda.gov/rules-regulations/be",
-          "title": "BE Disclosure | Agricultural Marketing Service"
-        },
         {
           "url": "https://www.bancomundial.org/es/country/argentina",
           "title": "Banco Mundial en Argentina: Proyectos, investigación y datos para el desarrollo"
+        },
+        {
+          "url": "https://www.ams.usda.gov/rules-regulations/be",
+          "title": "BE Disclosure | Agricultural Marketing Service"
         },
         {
           "url": "https://www.springernature.com/ccpa",
@@ -99,7 +99,7 @@
       "count": 6
     },
     {
-      "name": "arts-entertainment-and-lifestyle",
+      "name": "arts-entertainment-lifestyle",
       "bookmarks": [
         {
           "url": "https://www.mojekuchennerewelacje.pl/2016/01/saatka-z-kurczakiem-mango-awokado-i.html?m=0",
@@ -125,7 +125,7 @@
       "count": 5
     },
     {
-      "name": "careers-and-corporate-information",
+      "name": "careers-corporate-information",
       "bookmarks": [
         {
           "url": "https://www.gallup.com/corporate/212117/global-offices.aspx",
@@ -151,29 +151,7 @@
       "count": 5
     },
     {
-      "name": "community-and-advocacy",
-      "bookmarks": [
-        {
-          "url": "http://lavetten.se/foreningen/board",
-          "title": "Brf Lavetten i Varberg - Styrelsen"
-        },
-        {
-          "url": "http://www.scbcc.us/",
-          "title": "Chamber of Commerce | Bridgeport, CT"
-        },
-        {
-          "url": "https://www.policylink.org/",
-          "title": "PolicyLink | PolicyLink"
-        },
-        {
-          "url": "https://www.southfieldchamber.com/",
-          "title": "Southfield Area Chamber of Commerce"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "news-and-social-issues",
+      "name": "news-social-issues",
       "bookmarks": [
         {
           "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
@@ -199,7 +177,29 @@
       "count": 5
     },
     {
-      "name": "academic-resources-and-research",
+      "name": "community-advocacy",
+      "bookmarks": [
+        {
+          "url": "http://lavetten.se/foreningen/board",
+          "title": "Brf Lavetten i Varberg - Styrelsen"
+        },
+        {
+          "url": "http://www.scbcc.us/",
+          "title": "Chamber of Commerce | Bridgeport, CT"
+        },
+        {
+          "url": "https://www.policylink.org/",
+          "title": "PolicyLink | PolicyLink"
+        },
+        {
+          "url": "https://www.southfieldchamber.com/",
+          "title": "Southfield Area Chamber of Commerce"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "academic-research-resources",
       "bookmarks": [
         {
           "url": "https://www.coe.uh.edu/dir/coedirectory/faculty_template.cfm?id=908&CFID=974647&CFTOKEN=ea62c124bb0cdc36-FB89575D-BB92-9ABD-3CECEB794CEC1466",
@@ -217,15 +217,15 @@
       "count": 3
     },
     {
-      "name": "consumer-and-wellbeing-guides",
+      "name": "consumer-wellbeing-guides",
       "bookmarks": [
-        {
-          "url": "https://www.popsugar.com/family/How-Stop-Kid-From-Whining-37548338",
-          "title": "How to Stop a Kid From Whining | PS Family"
-        },
         {
           "url": "https://www.consumer.ftc.gov/articles/0060-10-things-you-can-do-avoid-fraud",
           "title": "How To Avoid a Scam | Consumer Advice"
+        },
+        {
+          "url": "https://www.popsugar.com/family/How-Stop-Kid-From-Whining-37548338",
+          "title": "How to Stop a Kid From Whining | PS Family"
         },
         {
           "url": "https://www.cochrane.org/evidence",
@@ -235,7 +235,7 @@
       "count": 3
     },
     {
-      "name": "personal-hobbies-and-interests",
+      "name": "hobbies-personal-interests",
       "bookmarks": [
         {
           "url": "http://www.chessvideos.tv/",

@@ -4,10 +4,6 @@
       "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://music.apple.com?itscg=10000&itsct=pod-services-music-apl-tvhm-21_1019",
-          "title": "‎Apple Music - Web Player"
-        },
-        {
           "url": "http://digitaledition.chicagotribune.com#nt=secondarynavbar",
           "title": "Chicago Tribune"
         },
@@ -58,75 +54,21 @@
         {
           "url": "https://tinychat.com/",
           "title": "TinyChat - Random Video Chat with Strangers"
+        },
+        {
+          "url": "https://music.apple.com?itscg=10000&itsct=pod-services-music-apl-tvhm-21_1019",
+          "title": "‎Apple Music - Web Player"
         }
       ],
       "count": 14
     },
     {
-      "name": "tech-software",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
         {
-          "url": "https://ahrefs.com/",
-          "title": "Ahrefs-AI Marketing Platform Powered by Big Data"
+          "url": "https://www.comicrelief.com/",
+          "title": "A just world free from poverty | Comic Relief"
         },
-        {
-          "url": "https://beefree.io/",
-          "title": "Free Drag & Drop HTML Email Template Builder | Beefree"
-        },
-        {
-          "url": "https://fastdemocracy.com/",
-          "title": "FastDemocracy - Fast, Simple Legislative Bill Tracking"
-        },
-        {
-          "url": "https://readthedocs.org",
-          "title": "Full featured documentation deployment platform - Read the Docs"
-        },
-        {
-          "url": "https://github.com/GlobalFishingWatch/gfwr",
-          "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
-        },
-        {
-          "url": "https://insights.sustainability.google/#request",
-          "title": "Google Environmental Insights Explorer - Make Informed Decisions"
-        },
-        {
-          "url": "https://www.joemerrill.com",
-          "title": "Joe Merrill"
-        },
-        {
-          "url": "https://www.motorola.com/us/smartphones-motorola-edge-plus/p",
-          "title": "motorola edge Phones | motorola | motorola"
-        },
-        {
-          "url": "https://nexleaf.org/",
-          "title": "Accelerating the Digital Transformation of Health Systems infrastructure with AI - Nexleaf Analytics"
-        },
-        {
-          "url": "https://docs.npmjs.com/",
-          "title": "npm Docs"
-        },
-        {
-          "url": "https://onecast.me",
-          "title": "OneCast - Xbox remote play for Mac, iOS and Apple TV"
-        },
-        {
-          "url": "https://patchwork.ffmpeg.org/project/ffmpeg/patch/20200523040122.83476-1-rcombs@rcombs.me/",
-          "title": "[FFmpeg-devel,1/2] compat/cuda/ptx2c: remove shell loop - Patchwork"
-        },
-        {
-          "url": "https://www.maxar.com/one-maxar",
-          "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
-        },
-        {
-          "url": "https://wordpress.com/?ref=wporg-footer",
-          "title": "WordPress.com: Everything You Need to Build Your Website"
-        }
-      ],
-      "count": 14
-    },
-    {
-      "name": "advocacy-non-profits",
-      "bookmarks": [
         {
           "url": "https://www.aclu-mo.org/en/news/aclu-missouri-statement-book-ban-action-wentzville-school-district",
           "title": "ACLU of Missouri Statement on Book Ban Action by Wentzville School District | ACLU of Missouri"
@@ -138,6 +80,10 @@
         {
           "url": "https://www.beaconinterfaith.org/",
           "title": "Beacon Interfaith Housing Collaborative - We Believe In Home"
+        },
+        {
+          "url": "https://godwhosees.com/donate/",
+          "title": "Donate - The God Who Sees"
         },
         {
           "url": "https://www.cct.org/",
@@ -164,10 +110,6 @@
           "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
         },
         {
-          "url": "https://godwhosees.com/donate/",
-          "title": "Donate - The God Who Sees"
-        },
-        {
           "url": "https://usowishbook.uso.org/phone-calls-home",
           "title": "USO Wishbook | USO.org"
         },
@@ -178,13 +120,125 @@
         {
           "url": "https://live.worldbank.org/",
           "title": "We Livestream Events on International Development | World Bank Live"
-        },
-        {
-          "url": "https://www.comicrelief.com/",
-          "title": "A just world free from poverty | Comic Relief"
         }
       ],
       "count": 14
+    },
+    {
+      "name": "tech-software",
+      "bookmarks": [
+        {
+          "url": "https://patchwork.ffmpeg.org/project/ffmpeg/patch/20200523040122.83476-1-rcombs@rcombs.me/",
+          "title": "[FFmpeg-devel,1/2] compat/cuda/ptx2c: remove shell loop - Patchwork"
+        },
+        {
+          "url": "https://nexleaf.org/",
+          "title": "Accelerating the Digital Transformation of Health Systems infrastructure with AI - Nexleaf Analytics"
+        },
+        {
+          "url": "https://ahrefs.com/",
+          "title": "Ahrefs-AI Marketing Platform Powered by Big Data"
+        },
+        {
+          "url": "https://fastdemocracy.com/",
+          "title": "FastDemocracy - Fast, Simple Legislative Bill Tracking"
+        },
+        {
+          "url": "https://beefree.io/",
+          "title": "Free Drag & Drop HTML Email Template Builder | Beefree"
+        },
+        {
+          "url": "https://readthedocs.org",
+          "title": "Full featured documentation deployment platform - Read the Docs"
+        },
+        {
+          "url": "https://github.com/GlobalFishingWatch/gfwr",
+          "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
+        },
+        {
+          "url": "https://insights.sustainability.google/#request",
+          "title": "Google Environmental Insights Explorer - Make Informed Decisions"
+        },
+        {
+          "url": "https://www.joemerrill.com",
+          "title": "Joe Merrill"
+        },
+        {
+          "url": "https://www.motorola.com/us/smartphones-motorola-edge-plus/p",
+          "title": "motorola edge Phones | motorola | motorola"
+        },
+        {
+          "url": "https://docs.npmjs.com/",
+          "title": "npm Docs"
+        },
+        {
+          "url": "https://onecast.me",
+          "title": "OneCast - Xbox remote play for Mac, iOS and Apple TV"
+        },
+        {
+          "url": "https://www.maxar.com/one-maxar",
+          "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
+        },
+        {
+          "url": "https://wordpress.com/?ref=wporg-footer",
+          "title": "WordPress.com: Everything You Need to Build Your Website"
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "business-services",
+      "bookmarks": [
+        {
+          "url": "https://activationideas.com/",
+          "title": "Activation Ideas"
+        },
+        {
+          "url": "http://www.garrettatddi.com/",
+          "title": "Commercial Christmas Decorations | Garrett at DDI"
+        },
+        {
+          "url": "https://careers.southwestair.com/flight-attendants",
+          "title": "Flight Attendants | Southwest"
+        },
+        {
+          "url": "https://www.nextenergysolarfund.com/",
+          "title": "Home - NextEnergy Solar Fund"
+        },
+        {
+          "url": "https://www.sagese.com/",
+          "title": "Home | Sage ITAD Company | IT Asset Disposition"
+        },
+        {
+          "url": "https://jaipur.craigslist.org/d/garage-moving-sales/search/gms?hints=static&sort=upcoming&lang=en&cc=gb&sale_date=2021-12-09",
+          "title": "Jaipur garage & moving sales - craigslist"
+        },
+        {
+          "url": "https://www.googlecloudpresscorner.com/",
+          "title": "Latest News"
+        },
+        {
+          "url": "https://merchants.fiserv.com/en-us/products/merchants/mid-sized-commerce-solutions/",
+          "title": "Mid-Sized Commerce Solutions | Merchants U.S. | Fiserv"
+        },
+        {
+          "url": "https://newsroom.fr.paypal-corp.com/accueil-newsroom",
+          "title": "PayPal Newsroom - Accueil Newsroom"
+        },
+        {
+          "url": "https://www.rileygrey.com/",
+          "title": "Premium Wedding Websites, Registries, RSVPs & More | Riley & Grey"
+        },
+        {
+          "url": "https://bavc.org/programs/productions/",
+          "title": "Production Services - BAVC Media"
+        },
+        {
+          "url": "https://www.sima.org/",
+          "title": "SIMA Home"
+        }
+      ],
+      "count": 12
     },
     {
       "name": "shopping-ecommerce",
@@ -241,60 +295,6 @@
       "count": 12
     },
     {
-      "name": "business-services",
-      "bookmarks": [
-        {
-          "url": "https://activationideas.com/",
-          "title": "Activation Ideas"
-        },
-        {
-          "url": "http://www.garrettatddi.com/",
-          "title": "Commercial Christmas Decorations | Garrett at DDI"
-        },
-        {
-          "url": "https://careers.southwestair.com/flight-attendants",
-          "title": "Flight Attendants | Southwest"
-        },
-        {
-          "url": "https://www.sagese.com/",
-          "title": "Home | Sage ITAD Company | IT Asset Disposition"
-        },
-        {
-          "url": "https://www.nextenergysolarfund.com/",
-          "title": "Home - NextEnergy Solar Fund"
-        },
-        {
-          "url": "https://jaipur.craigslist.org/d/garage-moving-sales/search/gms?hints=static&sort=upcoming&lang=en&cc=gb&sale_date=2021-12-09",
-          "title": "Jaipur garage & moving sales - craigslist"
-        },
-        {
-          "url": "https://www.googlecloudpresscorner.com/",
-          "title": "Latest News"
-        },
-        {
-          "url": "https://merchants.fiserv.com/en-us/products/merchants/mid-sized-commerce-solutions/",
-          "title": "Mid-Sized Commerce Solutions | Merchants U.S. | Fiserv"
-        },
-        {
-          "url": "https://newsroom.fr.paypal-corp.com/accueil-newsroom",
-          "title": "PayPal Newsroom - Accueil Newsroom"
-        },
-        {
-          "url": "https://www.rileygrey.com/",
-          "title": "Premium Wedding Websites, Registries, RSVPs & More | Riley & Grey"
-        },
-        {
-          "url": "https://bavc.org/programs/productions/",
-          "title": "Production Services - BAVC Media"
-        },
-        {
-          "url": "https://www.sima.org/",
-          "title": "SIMA Home"
-        }
-      ],
-      "count": 12
-    },
-    {
       "name": "culture-hobbies",
       "bookmarks": [
         {
@@ -304,6 +304,14 @@
         {
           "url": "http://www.brickcommander.com/",
           "title": "Brick Commander"
+        },
+        {
+          "url": "https://www.academylittleleague.org/academyll",
+          "title": "Home"
+        },
+        {
+          "url": "https://astrologie.aufeminin.com/forum/je-viens-de-faire-une-rencontre-fd4899550",
+          "title": "Je viens de faire une rencontre...."
         },
         {
           "url": "https://dykesonbikeslondon.uk/members-info/meeting-minutes/",
@@ -328,14 +336,6 @@
         {
           "url": "https://www.esotericablog.es/",
           "title": "Tarot • Astro & Yoga : el retorno al Ser"
-        },
-        {
-          "url": "https://www.academylittleleague.org/academyll",
-          "title": "Home"
-        },
-        {
-          "url": "https://astrologie.aufeminin.com/forum/je-viens-de-faire-une-rencontre-fd4899550",
-          "title": "Je viens de faire une rencontre...."
         }
       ],
       "count": 10
@@ -383,8 +383,12 @@
       "count": 9
     },
     {
-      "name": "blogs-personal",
+      "name": "personal-blogs",
       "bookmarks": [
+        {
+          "url": "https://mrsense.tistory.com/tag/%EC%8A%A4%ED%8F%B0%ED%8B%B0%EB%8B%88",
+          "title": "'스폰티니' 태그의 글 목록"
+        },
         {
           "url": "https://anabeatriz1201.tumblr.com/",
           "title": "@anabeatriz1201 on Tumblr"
@@ -408,10 +412,6 @@
         {
           "url": "https://venividigames.tumblr.com/post/90353269558",
           "title": "VeniVidiGames"
-        },
-        {
-          "url": "https://mrsense.tistory.com/tag/%EC%8A%A4%ED%8F%B0%ED%8B%B0%EB%8B%88",
-          "title": "'스폰티니' 태그의 글 목록"
         }
       ],
       "count": 7

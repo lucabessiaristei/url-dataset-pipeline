@@ -1,15 +1,81 @@
 {
   "folders": [
     {
+      "name": "organizations-advocacy",
+      "bookmarks": [
+        {
+          "url": "http://www.afterschoolalliance.org/",
+          "title": "Afterschool Alliance"
+        },
+        {
+          "url": "https://www.carolina-loving-hound-rescue.com/",
+          "title": "Contact Us"
+        },
+        {
+          "url": "https://ipbes.net/global-assessment",
+          "title": "Global Assessment Report on Biodiversity and Ecosystem Services | IPBES secretariat"
+        },
+        {
+          "url": "https://www.marylandbcc.org/",
+          "title": "Home - The Maryland Black Chamber of Commerce"
+        },
+        {
+          "url": "https://www.nicwa.org/",
+          "title": "Homepage - NICWA"
+        },
+        {
+          "url": "https://wrimexico.org/",
+          "title": "Instituto de Recursos Mundiales (WRI) | Convirtiendo las Grandes Ideas en Realidades"
+        },
+        {
+          "url": "https://www.iworksmc.org/",
+          "title": "Interfaith Works"
+        },
+        {
+          "url": "https://www.ledcmn.org/",
+          "title": "Latino Economic Development Center - LEDC - An association of Latino entrepreneurs and leaders in the state of Minnesota"
+        },
+        {
+          "url": "http://www2.ohchr.org/english/issues/millenium-development/",
+          "title": "Millennium Development Goals and Human Rights"
+        },
+        {
+          "url": "https://www.minnesotanonprofits.org/",
+          "title": "Minnesota Council of Nonprofits"
+        },
+        {
+          "url": "http://archives.nereusprogram.org/tag/Nereus-Scientific-&-Technical-Briefs-on-ABNJ-series/",
+          "title": "Nereus Scientific & Technical Briefs on ABNJ series | Nereus Program"
+        },
+        {
+          "url": "https://seabos.org/",
+          "title": "SeaBOS - Connecting science with industry leaders for biosphere stewardship"
+        },
+        {
+          "url": "http://fao.org/contact-us/terms/en/",
+          "title": "Terms and Conditions | FAO | Food and Agriculture Organization of the United Nations"
+        },
+        {
+          "url": "https://betterwork.org/the-better-work-academy/",
+          "title": "The Better Work Academy: approach and impact in Gap Inc. factories. - Better Work"
+        },
+        {
+          "url": "https://action.earthday.org/the-fashion-industry-must-change",
+          "title": "The Fashion Industry Must Change"
+        }
+      ],
+      "count": 15
+    },
+    {
       "name": "news-articles",
       "bookmarks": [
         {
-          "url": "https://www.dw.com/en/business/s-1431",
-          "title": "Business | Economy and finance news from a German perspective - DW"
-        },
-        {
           "url": "https://blogs.windows.com/windowsexperience/?p=176849",
           "title": "Bringing you closer to what you love with new experiences in Windows 11 | Windows Experience Blog"
+        },
+        {
+          "url": "https://www.dw.com/en/business/s-1431",
+          "title": "Business | Economy and finance news from a German perspective - DW"
         },
         {
           "url": "https://www.solarpowerworldonline.com/2018/10/flexibility-is-a-master-key-that-unlocks-solars-potential-for-grid-emissions-reductions/",
@@ -22,6 +88,10 @@
         {
           "url": "https://www.sandiegouniontribune.com/military/sdut-rosie-network-military-entrepreneurs-2014apr07-story.html",
           "title": "Group promotes military entrepreneurs - San Diego Union-Tribune"
+        },
+        {
+          "url": "https://www.idnes.cz/technet",
+          "title": "iDNES.cz - s námi víte víc"
         },
         {
           "url": "https://www.imf.org/en/Blogs",
@@ -44,16 +114,12 @@
           "title": "Suburbs"
         },
         {
-          "url": "https://www.nbc.com/today?nbc=1",
-          "title": "TODAY - NBC.com"
-        },
-        {
           "url": "http://www.vulture.com/2015/06/dukes-hazzard-confederate-flag-warner-bros-stop-licensing.html",
           "title": "The Controversy Over the Confederate Flag Has Reached Hazzard County"
         },
         {
-          "url": "https://www.idnes.cz/technet",
-          "title": "iDNES.cz - s námi víte víc"
+          "url": "https://www.nbc.com/today?nbc=1",
+          "title": "TODAY - NBC.com"
         },
         {
           "url": "https://www.kathimerini.gr/politics/",
@@ -61,72 +127,6 @@
         }
       ],
       "count": 14
-    },
-    {
-      "name": "orgs-advocacy",
-      "bookmarks": [
-        {
-          "url": "http://www.afterschoolalliance.org/",
-          "title": "Afterschool Alliance"
-        },
-        {
-          "url": "https://betterwork.org/the-better-work-academy/",
-          "title": "The Better Work Academy: approach and impact in Gap Inc. factories. - Better Work"
-        },
-        {
-          "url": "https://www.carolina-loving-hound-rescue.com/",
-          "title": "Contact Us"
-        },
-        {
-          "url": "http://fao.org/contact-us/terms/en/",
-          "title": "Terms and Conditions | FAO | Food and Agriculture Organization of the United Nations"
-        },
-        {
-          "url": "https://ipbes.net/global-assessment",
-          "title": "Global Assessment Report on Biodiversity and Ecosystem Services | IPBES secretariat"
-        },
-        {
-          "url": "https://www.iworksmc.org/",
-          "title": "Interfaith Works"
-        },
-        {
-          "url": "https://www.ledcmn.org/",
-          "title": "Latino Economic Development Center - LEDC - An association of Latino entrepreneurs and leaders in the state of Minnesota"
-        },
-        {
-          "url": "https://www.marylandbcc.org/",
-          "title": "Home - The Maryland Black Chamber of Commerce"
-        },
-        {
-          "url": "http://www2.ohchr.org/english/issues/millenium-development/",
-          "title": "Millennium Development Goals and Human Rights"
-        },
-        {
-          "url": "https://www.minnesotanonprofits.org/",
-          "title": "Minnesota Council of Nonprofits"
-        },
-        {
-          "url": "https://www.nicwa.org/",
-          "title": "Homepage - NICWA"
-        },
-        {
-          "url": "http://archives.nereusprogram.org/tag/Nereus-Scientific-&-Technical-Briefs-on-ABNJ-series/",
-          "title": "Nereus Scientific & Technical Briefs on ABNJ series | Nereus Program"
-        },
-        {
-          "url": "https://seabos.org/",
-          "title": "SeaBOS - Connecting science with industry leaders for biosphere stewardship"
-        },
-        {
-          "url": "https://action.earthday.org/the-fashion-industry-must-change",
-          "title": "The Fashion Industry Must Change"
-        },
-        {
-          "url": "https://wrimexico.org/",
-          "title": "Instituto de Recursos Mundiales (WRI) | Convirtiendo las Grandes Ideas en Realidades"
-        }
-      ],
-      "count": 15
     },
     {
       "name": "shopping-products",
@@ -186,10 +186,6 @@
           "title": "Ada Home: the Home of the Brave Ada Programmers (HBAP)"
         },
         {
-          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
-          "title": "PolicyDetail - AWS Identity and Access Management"
-        },
-        {
           "url": "https://catboost.ai/en/docs/concepts/python-reference_catboostregressor",
           "title": "CatBoostRegressor | CatBoost"
         },
@@ -210,6 +206,10 @@
           "title": "Latest News from Google Research Blog - Google Research"
         },
         {
+          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
+          "title": "PolicyDetail - AWS Identity and Access Management"
+        },
+        {
           "url": "https://www.qrcode-monkey.com/",
           "title": "QRCode Monkey - The free QR Code Generator to create custom QR Codes with Logo"
         },
@@ -225,7 +225,45 @@
       "count": 10
     },
     {
-      "name": "education-science",
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.epidemicsound.com",
+          "title": "Bring your story to life | Music & SFX for videos | Epidemic Sound"
+        },
+        {
+          "url": "https://omny.fm/shows/the-undressing-room/cry-me-a-river-episode-3?fbclid=IwAR2tkSUQ9pmRZTCwy1RvFJk4BxmCqHTgMnb7sKOp-IQqsONTjAkyYh4Su2I",
+          "title": "Cry Me A River | Episode 3 - The Undressing Room Podcast - Omny.fm"
+        },
+        {
+          "url": "https://www.daveandbusters.com/",
+          "title": "Dave & Buster's | Events - Arcade - Sports Bar and Restaurant"
+        },
+        {
+          "url": "http://www.arcade-history.com/",
+          "title": "Gaming: video games, arcade, slots, consoles and computers history"
+        },
+        {
+          "url": "https://www.last.fm",
+          "title": "Last.fm | Play music, find songs, and discover artists"
+        },
+        {
+          "url": "https://www.spotify.com/in/",
+          "title": "Spotify - Web Player: Music for everyone"
+        },
+        {
+          "url": "https://store.steampowered.com/mobile",
+          "title": "Steam, The Ultimate Online Game Platform"
+        },
+        {
+          "url": "https://artists.youtube.com/",
+          "title": "YouTube for Artists - Where Music Grows"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "science-education",
       "bookmarks": [
         {
           "url": "https://ourworldindata.org/grapher/child-mortality",
@@ -258,44 +296,6 @@
         {
           "url": "https://central.wordcamp.org/",
           "title": "WordCamp Central - WordCamp is a conference that focuses on everything WordPress."
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "media-entertainment",
-      "bookmarks": [
-        {
-          "url": "http://www.arcade-history.com/",
-          "title": "Gaming: video games, arcade, slots, consoles and computers history"
-        },
-        {
-          "url": "https://omny.fm/shows/the-undressing-room/cry-me-a-river-episode-3?fbclid=IwAR2tkSUQ9pmRZTCwy1RvFJk4BxmCqHTgMnb7sKOp-IQqsONTjAkyYh4Su2I",
-          "title": "Cry Me A River | Episode 3 - The Undressing Room Podcast - Omny.fm"
-        },
-        {
-          "url": "https://www.daveandbusters.com/",
-          "title": "Dave & Buster's | Events - Arcade - Sports Bar and Restaurant"
-        },
-        {
-          "url": "https://www.epidemicsound.com",
-          "title": "Bring your story to life | Music & SFX for videos | Epidemic Sound"
-        },
-        {
-          "url": "https://www.last.fm",
-          "title": "Last.fm | Play music, find songs, and discover artists"
-        },
-        {
-          "url": "https://www.spotify.com/in/",
-          "title": "Spotify - Web Player: Music for everyone"
-        },
-        {
-          "url": "https://store.steampowered.com/mobile",
-          "title": "Steam, The Ultimate Online Game Platform"
-        },
-        {
-          "url": "https://artists.youtube.com/",
-          "title": "YouTube for Artists - Where Music Grows"
         }
       ],
       "count": 8
@@ -365,8 +365,38 @@
       "count": 6
     },
     {
+      "name": "services-portals",
+      "bookmarks": [
+        {
+          "url": "https://webpass.net/denver/",
+          "title": "Denver Fiber Internet | GFiber Webpass"
+        },
+        {
+          "url": "http://talkingpts.org/",
+          "title": "Home - TalkingPoints"
+        },
+        {
+          "url": "https://vote-watch.com/2021/04/18/labour-councillor-suspended-after-receiving-ban-from-teaching/",
+          "title": "Private Site"
+        },
+        {
+          "url": "https://www.helsenorge.no/vaksiner/",
+          "title": "Sjekk hvilke vaksiner du har tatt - Helsenorge"
+        },
+        {
+          "url": "http://targetpayandbenefits.com/",
+          "title": "Your Benefits Resources -- Greeting Page"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "travel-local",
       "bookmarks": [
+        {
+          "url": "https://molbubi.hu/",
+          "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
+        },
         {
           "url": "https://bilety.polregio.pl/",
           "title": "Bilety online: Twój kolejowy partner w podróży"
@@ -382,36 +412,6 @@
         {
           "url": "https://www.eazydiner.com/mumbai?loc=mumbai",
           "title": "List of Best Restaurants in Mumbai | Get Up to 50% Off"
-        },
-        {
-          "url": "https://molbubi.hu/",
-          "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "services-portals",
-      "bookmarks": [
-        {
-          "url": "https://webpass.net/denver/",
-          "title": "Denver Fiber Internet | GFiber Webpass"
-        },
-        {
-          "url": "https://vote-watch.com/2021/04/18/labour-councillor-suspended-after-receiving-ban-from-teaching/",
-          "title": "Private Site"
-        },
-        {
-          "url": "https://www.helsenorge.no/vaksiner/",
-          "title": "Sjekk hvilke vaksiner du har tatt - Helsenorge"
-        },
-        {
-          "url": "http://talkingpts.org/",
-          "title": "Home - TalkingPoints"
-        },
-        {
-          "url": "http://targetpayandbenefits.com/",
-          "title": "Your Benefits Resources -- Greeting Page"
         }
       ],
       "count": 5

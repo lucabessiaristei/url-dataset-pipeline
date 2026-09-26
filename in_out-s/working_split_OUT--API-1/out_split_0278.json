@@ -1,12 +1,8 @@
 {
   "folders": [
     {
-      "name": "hobbies-entertainment",
+      "name": "entertainment-hobbies",
       "bookmarks": [
-        {
-          "url": "https://apps.apple.com/us/app/basemap-hunting-gps-maps/id1305237481",
-          "title": "‎BaseMap: Hunting GPS Maps on the App Store"
-        },
         {
           "url": "https://www.flitetest.com/articles",
           "title": "Flite Test Articles | Read about RC Planes & Drones"
@@ -26,6 +22,10 @@
         {
           "url": "https://tnaqua.org/",
           "title": "Tennessee Aquarium | Chattanooga Attractions | IMAX Movies"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/basemap-hunting-gps-maps/id1305237481",
+          "title": "‎BaseMap: Hunting GPS Maps on the App Store"
         }
       ],
       "count": 6
@@ -57,28 +57,6 @@
       "count": 5
     },
     {
-      "name": "business-marketing-tools",
-      "bookmarks": [
-        {
-          "url": "https://blog.hubspot.com/marketing/email-design-templates-and-inspiration",
-          "title": "14 of the Best Examples of Beautiful Email Design"
-        },
-        {
-          "url": "http://hosting.tighebond.com/AvonCT_public/index.html",
-          "title": "Avon, CT Web GIS"
-        },
-        {
-          "url": "https://smallbusiness.withgoogle.com/?utm_source=gwg&utm_medium=ep&utm_campaign=gwg_footer",
-          "title": "Before you continue"
-        },
-        {
-          "url": "https://www.squarespace.com/",
-          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "blogging-community-resources",
       "bookmarks": [
         {
@@ -101,6 +79,28 @@
       "count": 4
     },
     {
+      "name": "business-marketing-tools",
+      "bookmarks": [
+        {
+          "url": "https://blog.hubspot.com/marketing/email-design-templates-and-inspiration",
+          "title": "14 of the Best Examples of Beautiful Email Design"
+        },
+        {
+          "url": "http://hosting.tighebond.com/AvonCT_public/index.html",
+          "title": "Avon, CT Web GIS"
+        },
+        {
+          "url": "https://smallbusiness.withgoogle.com/?utm_source=gwg&utm_medium=ep&utm_campaign=gwg_footer",
+          "title": "Before you continue"
+        },
+        {
+          "url": "https://www.squarespace.com/",
+          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "health-wellness-lifestyle",
       "bookmarks": [
         {
@@ -112,18 +112,18 @@
           "title": "Family Online Safety Institute (FOSI)"
         },
         {
-          "url": "https://www.glsen.org/",
-          "title": "Homepage | GLSEN"
-        },
-        {
           "url": "https://www.holdingdownthefortpodcast.com/",
           "title": "Holding Down the Fort by US VetWealth Podcast | Jen Amos | Substack"
+        },
+        {
+          "url": "https://www.glsen.org/",
+          "title": "Homepage | GLSEN"
         }
       ],
       "count": 4
     },
     {
-      "name": "current-events-politics",
+      "name": "politics-current-events",
       "bookmarks": [
         {
           "url": "https://www.nass.org/can-i-vote/absentee-early-voting",
@@ -144,16 +144,16 @@
       "name": "science-research-history",
       "bookmarks": [
         {
-          "url": "https://www.analogmuseum.org/english/",
-          "title": "void"
-        },
-        {
           "url": "http://www.chemguide.co.uk/",
           "title": "chemguide: helping you to understand Chemistry - Main Menu"
         },
         {
           "url": "https://en.wikipedia.org/wiki/South_Atlantic_Anomaly",
           "title": "South Atlantic Anomaly - Wikipedia"
+        },
+        {
+          "url": "https://www.analogmuseum.org/english/",
+          "title": "void"
         }
       ],
       "count": 3
@@ -177,6 +177,20 @@
       "count": 3
     },
     {
+      "name": "business-financial-services",
+      "bookmarks": [
+        {
+          "url": "https://www.mojgrad.rs/Sremska-Mitrovica/Finansije-i-pravo/Finansijsko-posredovanje-investicioni-fondovi-leasing",
+          "title": "Finansijsko posredovanje, investicioni fondovi, leasing - Sremska Mitrovica, Sremska Mitrovica | mojgrad.rs"
+        },
+        {
+          "url": "https://donate.stripe.com/aEUbLhbeYgR5aYwfYZ",
+          "title": "Stripe Checkout"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "computer-science-education",
       "bookmarks": [
         {
@@ -186,20 +200,6 @@
         {
           "url": "https://wrappedup-nca-wa.tumblr.com/post/116652519683",
           "title": "Wrappedup NCA WA - codeorg: With all the national debate on..."
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "financial-business-services",
-      "bookmarks": [
-        {
-          "url": "https://www.mojgrad.rs/Sremska-Mitrovica/Finansije-i-pravo/Finansijsko-posredovanje-investicioni-fondovi-leasing",
-          "title": "Finansijsko posredovanje, investicioni fondovi, leasing - Sremska Mitrovica, Sremska Mitrovica | mojgrad.rs"
-        },
-        {
-          "url": "https://donate.stripe.com/aEUbLhbeYgR5aYwfYZ",
-          "title": "Stripe Checkout"
         }
       ],
       "count": 2

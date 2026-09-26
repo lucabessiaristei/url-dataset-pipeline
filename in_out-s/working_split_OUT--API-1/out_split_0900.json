@@ -1,15 +1,45 @@
 {
   "folders": [
     {
+      "name": "community-nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://greensciencepolicy.org/",
+          "title": "Green Science Policy Institute"
+        },
+        {
+          "url": "https://www.greenpeace.org/international/",
+          "title": "Greenpeace International - Greenpeace International"
+        },
+        {
+          "url": "https://www.firstnations.org/",
+          "title": "Home | First Nations Development Institute"
+        },
+        {
+          "url": "https://www.shredfoundation.org/",
+          "title": "SHRED Foundation - Home"
+        },
+        {
+          "url": "https://www.missioncontinues.org/",
+          "title": "The Mission Continues - Volunteer Today | The Mission Continues"
+        },
+        {
+          "url": "https://ultcmn.org/",
+          "title": "Urban League Twin Cities - Empowering communities. Changing lives."
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "news-media-current-affairs",
       "bookmarks": [
         {
-          "url": "https://www.ft.com/markets",
-          "title": "Markets | Financial Times"
-        },
-        {
           "url": "https://www.frizzifrizzi.it/category/rubriche/lazy-news/",
           "title": "Lazy News Archivi - Frizzifrizzi"
+        },
+        {
+          "url": "https://www.ft.com/markets",
+          "title": "Markets | Financial Times"
         },
         {
           "url": "https://www.rtve.es/noticias/",
@@ -26,36 +56,6 @@
         {
           "url": "https://workingnation.com/",
           "title": "WorkingNation - Stories That Empower America's Workforce"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "nonprofit-community-organizations",
-      "bookmarks": [
-        {
-          "url": "https://www.firstnations.org/",
-          "title": "Home | First Nations Development Institute"
-        },
-        {
-          "url": "https://greensciencepolicy.org/",
-          "title": "Green Science Policy Institute"
-        },
-        {
-          "url": "https://www.greenpeace.org/international/",
-          "title": "Greenpeace International - Greenpeace International"
-        },
-        {
-          "url": "https://www.shredfoundation.org/",
-          "title": "SHRED Foundation - Home"
-        },
-        {
-          "url": "https://www.missioncontinues.org/",
-          "title": "The Mission Continues - Volunteer Today | The Mission Continues"
-        },
-        {
-          "url": "https://ultcmn.org/",
-          "title": "Urban League Twin Cities - Empowering communities. Changing lives."
         }
       ],
       "count": 6
@@ -131,7 +131,7 @@
       "count": 4
     },
     {
-      "name": "e-commerce-product-listings",
+      "name": "ecommerce-product-listings",
       "bookmarks": [
         {
           "url": "https://www.beautybay.com/p/melt-cosmetics/liquid-set-lipstick/rebound/",
@@ -203,7 +203,7 @@
       "count": 3
     },
     {
-      "name": "legal-privacy-policies",
+      "name": "legal-privacy-policy",
       "bookmarks": [
         {
           "url": "https://www.iubenda.com/privacy-policy/59274660/cookie-policy",
@@ -221,7 +221,7 @@
       "count": 3
     },
     {
-      "name": "leisure-travel-events",
+      "name": "travel-leisure-events",
       "bookmarks": [
         {
           "url": "https://www.cilentopark.it/agropoli/",

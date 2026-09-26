@@ -1,121 +1,27 @@
 {
   "folders": [
     {
-      "name": "education-learning",
-      "bookmarks": [
-        {
-          "url": "https://learningcommunity.accaglobal.com/",
-          "title": "ACCA Learning Community | ACCA Tips & Support - Homepage"
-        },
-        {
-          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
-          "title": "Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare"
-        },
-        {
-          "url": "https://training.linuxfoundation.org/training/kubernetes-fundamentals/",
-          "title": "Kubernetes Fundamentals (LFS258) - Linux Foundation - Education"
-        },
-        {
-          "url": "https://www.che.nl/opleidingen-aanbod?amp%3Bf%5B1%5D=type%3AMaster&amp%3Bf%5B2%5D=type%3APost-HBO&amp%3Bf%5B3%5D=type%3APost-hbo&amp%3Bf%5B4%5D=vakgebied%3AEducatie&f%5B0%5D=type%3AModule&f%5B1%5D=type%3APost-hbo&f%5B2%5D=vorm%3ADeeltijd",
-          "title": "CHE | Studeren doe je in Ede | Opleidingen"
-        },
-        {
-          "url": "https://cranbournesc.com/2020/08/23/examples-of-teaching-practical-subjects-in-the-remote-setting/",
-          "title": "Examples of Teaching Practical Subjects in the Remote Setting. - Cranbourne Secondary College PEDAGOGY TOOLBOX"
-        },
-        {
-          "url": "https://afrotech.com/spelman-college-smash-cohort-program",
-          "title": "Spelman College Teams Up With SMASH To Increase The Number Of WOC In STEM - AfroTech"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://www.fox4news.com/news/forney-isd-student-allegedly-taped-to-chair-crosby-elementary",
-          "title": "10-year-old Forney student claims teacher taped him to chair, school police investigating | FOX 4 Dallas-Fort Worth"
-        },
-        {
-          "url": "https://www.revealnews.org/article/how-activists-of-color-lose-battles-against-facebooks-moderator-army/",
-          "title": "How activists of color lose battles against Facebook's moderator army - Reveal"
-        },
-        {
-          "url": "https://pix11.com/news/local-news/brooklyn/alligator-found-in-brooklyns-prospect-park-lake/",
-          "title": "Alligator found in Brooklyn's Prospect Park Lake | PIX11"
-        },
-        {
-          "url": "https://securityx.space/2016/09/01/electronic-arts-ea-servers-down-poodlecorp-claims-it-ddosed-gaming-giant-hack-read/",
-          "title": "Electronic Arts, EA Servers Down? PoodleCorp claims it DDoSed Gaming Giant - Hack Read - securityXspace"
-        },
-        {
-          "url": "https://tvn24.pl/swiat",
-          "title": "Wiadomości ze świata - najnowsze informacje ze świata - TVN24"
-        },
-        {
-          "url": "https://www.vogue.co.uk/arts-and-lifestyle/article/priyanka-chopra-jonas-british-vogue-interview",
-          "title": "Priyanka Chopra Jonas's Vogue Cover Interview In Full: Her Daughter Malti & Life With Nick Jonas | British Vogue"
-        },
-        {
-          "url": "https://www.rcfp.org/",
-          "title": "Reporters Committee for Freedom of the Press - Home"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "environment-conservation",
-      "bookmarks": [
-        {
-          "url": "https://usa.oceana.org/blog/global-fishing-watch-put-test-monitoring-phoenix-islands-protected-area",
-          "title": "Global Fishing Watch Put to the Test: Monitoring the Phoenix Islands Protected Area - Oceana USA"
-        },
-        {
-          "url": "https://www.arborday.org/programs/tree-campus-healthcare/",
-          "title": "Tree Campus Healthcare | Arbor Day Foundation"
-        },
-        {
-          "url": "https://www.cdp.net/en",
-          "title": "CDP: Turning Transparency to Action"
-        },
-        {
-          "url": "http://un.org/oceanconference",
-          "title": "2022 UN Ocean Conference | United Nations"
-        },
-        {
-          "url": "https://www.extension.purdue.edu/extmedia/ct/ct-1.html",
-          "title": "CT-1"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "company-homepages",
       "bookmarks": [
         {
-          "url": "https://www.goldmansachs.com/",
-          "title": "Home | Goldman Sachs"
-        },
-        {
           "url": "https://www.collegeboard.org/",
           "title": "College Board - SAT, AP, College Search and Admission Tools"
+        },
+        {
+          "url": "https://www.cp.pt/passageiros/pt/comprar-bilhete",
+          "title": "CP - Comboios de Portugal"
         },
         {
           "url": "https://www.epsecommerce.com/",
           "title": "eProcurement Services - ePS"
         },
         {
+          "url": "https://www.goldmansachs.com/",
+          "title": "Home | Goldman Sachs"
+        },
+        {
           "url": "http://www.invictusafrica.com/",
           "title": "Invictus Africa Group LLC"
-        },
-        {
-          "url": "http://www.tucows.com/",
-          "title": "Tucows | Making the Internet Better Since 1993"
-        },
-        {
-          "url": "https://www.userzoom.com/ux-blog/",
-          "title": "UserZoom Platform | UserTesting | UX Research Capabilities"
         },
         {
           "url": "https://www.myollie.com/",
@@ -126,30 +32,140 @@
           "title": "SATShow 2026 - SATShow Week"
         },
         {
-          "url": "https://www.cp.pt/passageiros/pt/comprar-bilhete",
-          "title": "CP - Comboios de Portugal"
+          "url": "http://www.tucows.com/",
+          "title": "Tucows | Making the Internet Better Since 1993"
+        },
+        {
+          "url": "https://www.userzoom.com/ux-blog/",
+          "title": "UserZoom Platform | UserTesting | UX Research Capabilities"
         }
       ],
       "count": 9
     },
     {
+      "name": "misc-general",
+      "bookmarks": [
+        {
+          "url": "https://ccblackchamber.org/",
+          "title": "Collin county black chamber of commerce"
+        },
+        {
+          "url": "https://allontario.ca/grants-for-crafts-and-design/",
+          "title": "Grants for Crafts and Design - AllOntario"
+        },
+        {
+          "url": "http://georgium.ucoz.hu/news/2016-01-20",
+          "title": "György Béla Honlapja | Főoldal - Hírek, hasznos információk"
+        },
+        {
+          "url": "https://about.coursera.org/how-coursera-works/",
+          "title": "How does Coursera work? Get started on Coursera | Coursera"
+        },
+        {
+          "url": "https://www.editionsfavre.com/livres/jai-ose/",
+          "title": "J'ai osé - Éditions Favre"
+        },
+        {
+          "url": "https://www.produce.gob.pe/index.php/dgsfs-pa/seguimiento-satelital",
+          "title": "Seguimiento Satelital"
+        },
+        {
+          "url": "https://dunshaughlin-culmullenparish.ie/galleries/st-patricks-hall/",
+          "title": "St. Patrick's Hall | Dunshaughlin and Culmullen Parishes"
+        },
+        {
+          "url": "https://confirmsubscription.com/h/i/463208600EB4D89A",
+          "title": "void"
+        },
+        {
+          "url": "http://psychologyofconversions.com/",
+          "title": "void"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.fox4news.com/news/forney-isd-student-allegedly-taped-to-chair-crosby-elementary",
+          "title": "10-year-old Forney student claims teacher taped him to chair, school police investigating | FOX 4 Dallas-Fort Worth"
+        },
+        {
+          "url": "https://pix11.com/news/local-news/brooklyn/alligator-found-in-brooklyns-prospect-park-lake/",
+          "title": "Alligator found in Brooklyn's Prospect Park Lake | PIX11"
+        },
+        {
+          "url": "https://securityx.space/2016/09/01/electronic-arts-ea-servers-down-poodlecorp-claims-it-ddosed-gaming-giant-hack-read/",
+          "title": "Electronic Arts, EA Servers Down? PoodleCorp claims it DDoSed Gaming Giant - Hack Read - securityXspace"
+        },
+        {
+          "url": "https://www.revealnews.org/article/how-activists-of-color-lose-battles-against-facebooks-moderator-army/",
+          "title": "How activists of color lose battles against Facebook's moderator army - Reveal"
+        },
+        {
+          "url": "https://www.vogue.co.uk/arts-and-lifestyle/article/priyanka-chopra-jonas-british-vogue-interview",
+          "title": "Priyanka Chopra Jonas's Vogue Cover Interview In Full: Her Daughter Malti & Life With Nick Jonas | British Vogue"
+        },
+        {
+          "url": "https://www.rcfp.org/",
+          "title": "Reporters Committee for Freedom of the Press - Home"
+        },
+        {
+          "url": "https://tvn24.pl/swiat",
+          "title": "Wiadomości ze świata - najnowsze informacje ze świata - TVN24"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "education-learning",
+      "bookmarks": [
+        {
+          "url": "https://learningcommunity.accaglobal.com/",
+          "title": "ACCA Learning Community | ACCA Tips & Support - Homepage"
+        },
+        {
+          "url": "https://www.che.nl/opleidingen-aanbod?amp%3Bf%5B1%5D=type%3AMaster&amp%3Bf%5B2%5D=type%3APost-HBO&amp%3Bf%5B3%5D=type%3APost-hbo&amp%3Bf%5B4%5D=vakgebied%3AEducatie&f%5B0%5D=type%3AModule&f%5B1%5D=type%3APost-hbo&f%5B2%5D=vorm%3ADeeltijd",
+          "title": "CHE | Studeren doe je in Ede | Opleidingen"
+        },
+        {
+          "url": "https://cranbournesc.com/2020/08/23/examples-of-teaching-practical-subjects-in-the-remote-setting/",
+          "title": "Examples of Teaching Practical Subjects in the Remote Setting. - Cranbourne Secondary College PEDAGOGY TOOLBOX"
+        },
+        {
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+          "title": "Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare"
+        },
+        {
+          "url": "https://training.linuxfoundation.org/training/kubernetes-fundamentals/",
+          "title": "Kubernetes Fundamentals (LFS258) - Linux Foundation - Education"
+        },
+        {
+          "url": "https://afrotech.com/spelman-college-smash-cohort-program",
+          "title": "Spelman College Teams Up With SMASH To Increase The Number Of WOC In STEM - AfroTech"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://gaana.com",
-          "title": "Download Latest MP3 Songs Online: Play Old & New MP3 Music Online on Gaana.com"
-        },
-        {
-          "url": "https://dwtstour.com/",
-          "title": "Dancing With The Stars Tour"
+          "url": "https://peabodyawards.com/alwaysinseasonisland/",
+          "title": "Always In Season Island - The Peabody Awards"
         },
         {
           "url": "https://content.jwplatform.com/players/oGMODbP9-qInh6Xrr.html",
           "title": "Braxton Family Values - Tamar Shares Sad News"
         },
         {
-          "url": "https://peabodyawards.com/alwaysinseasonisland/",
-          "title": "Always In Season Island - The Peabody Awards"
+          "url": "https://dwtstour.com/",
+          "title": "Dancing With The Stars Tour"
+        },
+        {
+          "url": "https://gaana.com",
+          "title": "Download Latest MP3 Songs Online: Play Old & New MP3 Music Online on Gaana.com"
         },
         {
           "url": "https://www.daviddavisson.com/full-moon-story-the-night-parade/",
@@ -163,27 +179,27 @@
       "count": 6
     },
     {
-      "name": "tech-tools",
+      "name": "environment-conservation",
       "bookmarks": [
         {
-          "url": "https://www.gradientos.app/",
-          "title": "Gradientos"
+          "url": "http://un.org/oceanconference",
+          "title": "2022 UN Ocean Conference | United Nations"
         },
         {
-          "url": "https://glyphsapp.com/",
-          "title": "Glyphs"
+          "url": "https://www.cdp.net/en",
+          "title": "CDP: Turning Transparency to Action"
         },
         {
-          "url": "https://aws.amazon.com/training/learn-about/serverless/",
-          "title": "Serverless - Learn about | AWS Training"
+          "url": "https://www.extension.purdue.edu/extmedia/ct/ct-1.html",
+          "title": "CT-1"
         },
         {
-          "url": "https://github.community",
-          "title": "community · Discussions · GitHub"
+          "url": "https://usa.oceana.org/blog/global-fishing-watch-put-test-monitoring-phoenix-islands-protected-area",
+          "title": "Global Fishing Watch Put to the Test: Monitoring the Phoenix Islands Protected Area - Oceana USA"
         },
         {
-          "url": "https://kotilabdulkadir.notion.site/MyFonts-Buy-and-Download-Fonts-f14da000a65649c9b6bf30ae77fc482e?pvs=25",
-          "title": "Notion"
+          "url": "https://www.arborday.org/programs/tree-campus-healthcare/",
+          "title": "Tree Campus Healthcare | Arbor Day Foundation"
         }
       ],
       "count": 5
@@ -191,10 +207,6 @@
     {
       "name": "shopping-ecommerce",
       "bookmarks": [
-        {
-          "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089P71.html",
-          "title": "Le Pliage Original L Tote bag Paper - Recycled canvas | Longchamp US"
-        },
         {
           "url": "https://nuecesgundin.es/carro/",
           "title": "Carro de la Compra - Nueces Gundín"
@@ -208,6 +220,10 @@
           "title": "Kožené , Výprodej | StreetRacer.cz"
         },
         {
+          "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089P71.html",
+          "title": "Le Pliage Original L Tote bag Paper - Recycled canvas | Longchamp US"
+        },
+        {
           "url": "https://ebags.evyy.net/c/249354/207595/3588?subId1=PEOTheBestChristmasSalestoShopfromOurFavoriteStoresmsapozhnikovLifAff13830521202212I&u=https%3A%2F%2Fwww.ebags.com%2Fbackpacks-bags%2Ftravel-backpacks%2Fpro-slim-weekender%2F117783XXXX.html",
           "title": "Mother Lode Travel Backpacks | Samsonite"
         }
@@ -215,37 +231,41 @@
       "count": 5
     },
     {
-      "name": "legal-docs",
+      "name": "tech-tools",
       "bookmarks": [
         {
-          "url": "https://opendatacommons.org/licenses/odbl/",
-          "title": "Open Data Commons Open Database License (ODbL) - Open Data Commons: legal tools for open data"
+          "url": "https://github.community",
+          "title": "community · Discussions · GitHub"
         },
         {
-          "url": "https://pmc.com/terms-of-use/",
-          "title": "Terms of Use | PMC"
+          "url": "https://glyphsapp.com/",
+          "title": "Glyphs"
         },
         {
-          "url": "http://info.yahoo.com/privacy/ios/yahoo/us/",
-          "title": "Yahoo Terms International | Yahoo"
+          "url": "https://www.gradientos.app/",
+          "title": "Gradientos"
         },
         {
-          "url": "https://gdpr.cision.com",
-          "title": "Cision GDPR - Data Privacy"
+          "url": "https://kotilabdulkadir.notion.site/MyFonts-Buy-and-Download-Fonts-f14da000a65649c9b6bf30ae77fc482e?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://aws.amazon.com/training/learn-about/serverless/",
+          "title": "Serverless - Learn about | AWS Training"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
-      "name": "games-hobbies",
+      "name": "hobbies-games",
       "bookmarks": [
-        {
-          "url": "http://www.pagat.com/rummy/handfoot.html",
-          "title": "Hand and Foot - Card Game Rules"
-        },
         {
           "url": "https://www.kudyznudy.cz/aktivity",
           "title": "Co chcete dělat? - Kudy z nudy"
+        },
+        {
+          "url": "http://www.pagat.com/rummy/handfoot.html",
+          "title": "Hand and Foot - Card Game Rules"
         },
         {
           "url": "https://www.wxforum.net/index.php?PHPSESSID=28m1pkjhbnc0637445mfr893o4&topic=40004.0",
@@ -259,68 +279,48 @@
       "count": 4
     },
     {
+      "name": "legal-docs",
+      "bookmarks": [
+        {
+          "url": "https://gdpr.cision.com",
+          "title": "Cision GDPR - Data Privacy"
+        },
+        {
+          "url": "https://opendatacommons.org/licenses/odbl/",
+          "title": "Open Data Commons Open Database License (ODbL) - Open Data Commons: legal tools for open data"
+        },
+        {
+          "url": "https://pmc.com/terms-of-use/",
+          "title": "Terms of Use | PMC"
+        },
+        {
+          "url": "http://info.yahoo.com/privacy/ios/yahoo/us/",
+          "title": "Yahoo Terms International | Yahoo"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "support-services",
       "bookmarks": [
         {
-          "url": "https://support.norton.com/sp/en/us/home/current/info",
-          "title": "Official Norton™ Support"
+          "url": "https://www.gofundme.com/f/samantha-cains-medical-and-emergency-expenses?member=25368189&utm_campaign=p_cp+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined",
+          "title": "Fundraiser for Macy Gamel by Kalie Clark : Samantha Cain's Emergency Expenses"
         },
         {
           "url": "https://account.ncbi.nlm.nih.gov",
           "title": "Log in / NCBI"
         },
         {
-          "url": "https://lamborghini.oemdtc.com/category/recalls",
-          "title": "Recalls | Lamborghini - OEMDTC"
+          "url": "https://support.norton.com/sp/en/us/home/current/info",
+          "title": "Official Norton™ Support"
         },
         {
-          "url": "https://www.gofundme.com/f/samantha-cains-medical-and-emergency-expenses?member=25368189&utm_campaign=p_cp+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined",
-          "title": "Fundraiser for Macy Gamel by Kalie Clark : Samantha Cain's Emergency Expenses"
+          "url": "https://lamborghini.oemdtc.com/category/recalls",
+          "title": "Recalls | Lamborghini - OEMDTC"
         }
       ],
       "count": 4
-    },
-    {
-      "name": "misc-general",
-      "bookmarks": [
-        {
-          "url": "https://confirmsubscription.com/h/i/463208600EB4D89A",
-          "title": "void"
-        },
-        {
-          "url": "http://psychologyofconversions.com/",
-          "title": "void"
-        },
-        {
-          "url": "https://allontario.ca/grants-for-crafts-and-design/",
-          "title": "Grants for Crafts and Design - AllOntario"
-        },
-        {
-          "url": "https://ccblackchamber.org/",
-          "title": "Collin county black chamber of commerce"
-        },
-        {
-          "url": "https://dunshaughlin-culmullenparish.ie/galleries/st-patricks-hall/",
-          "title": "St. Patrick's Hall | Dunshaughlin and Culmullen Parishes"
-        },
-        {
-          "url": "http://georgium.ucoz.hu/news/2016-01-20",
-          "title": "György Béla Honlapja | Főoldal - Hírek, hasznos információk"
-        },
-        {
-          "url": "https://www.editionsfavre.com/livres/jai-ose/",
-          "title": "J'ai osé - Éditions Favre"
-        },
-        {
-          "url": "https://www.produce.gob.pe/index.php/dgsfs-pa/seguimiento-satelital",
-          "title": "Seguimiento Satelital"
-        },
-        {
-          "url": "https://about.coursera.org/how-coursera-works/",
-          "title": "How does Coursera work? Get started on Coursera | Coursera"
-        }
-      ],
-      "count": 9
     }
   ],
   "total_bookmarks": 64,

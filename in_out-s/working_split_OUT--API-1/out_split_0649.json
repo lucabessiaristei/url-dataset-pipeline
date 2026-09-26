@@ -55,52 +55,6 @@
       "count": 12
     },
     {
-      "name": "organizations-public-sector",
-      "bookmarks": [
-        {
-          "url": "https://apply.royal.uk/Apply/",
-          "title": "Apply.royal.gov.uk"
-        },
-        {
-          "url": "https://covid19.colorado.gov/",
-          "title": "COVID19 | Colorado Department of Public Health and Environment"
-        },
-        {
-          "url": "https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-implement-fair-debt-collection-practices-act/",
-          "title": "Consumer Financial Protection Bureau Issues Final Rule to Implement the Fair Debt Collection Practices Act | Consumer Financial Protection Bureau"
-        },
-        {
-          "url": "http://fao.org/contact-us/en/",
-          "title": "Contact us | FAO | Food and Agriculture Organization of the United Nations"
-        },
-        {
-          "url": "http://doc.ok.gov/",
-          "title": "Department of Corrections"
-        },
-        {
-          "url": "http://www.faa.gov/",
-          "title": "Federal Aviation Administration"
-        },
-        {
-          "url": "https://oceanexplorer.noaa.gov/",
-          "title": "Homepage - NOAA Ocean Exploration"
-        },
-        {
-          "url": "https://www.istat.it/",
-          "title": "Istat"
-        },
-        {
-          "url": "https://data.calgary.ca/",
-          "title": "Open Calgary | Open Calgary"
-        },
-        {
-          "url": "http://www.unwomen.org/en",
-          "title": "Welcome | UN Women - Headquarters"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "news-articles",
       "bookmarks": [
         {
@@ -147,7 +101,53 @@
       "count": 10
     },
     {
-      "name": "organizations-non-profit",
+      "name": "organizations-public-sector",
+      "bookmarks": [
+        {
+          "url": "https://apply.royal.uk/Apply/",
+          "title": "Apply.royal.gov.uk"
+        },
+        {
+          "url": "https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-implement-fair-debt-collection-practices-act/",
+          "title": "Consumer Financial Protection Bureau Issues Final Rule to Implement the Fair Debt Collection Practices Act | Consumer Financial Protection Bureau"
+        },
+        {
+          "url": "http://fao.org/contact-us/en/",
+          "title": "Contact us | FAO | Food and Agriculture Organization of the United Nations"
+        },
+        {
+          "url": "https://covid19.colorado.gov/",
+          "title": "COVID19 | Colorado Department of Public Health and Environment"
+        },
+        {
+          "url": "http://doc.ok.gov/",
+          "title": "Department of Corrections"
+        },
+        {
+          "url": "http://www.faa.gov/",
+          "title": "Federal Aviation Administration"
+        },
+        {
+          "url": "https://oceanexplorer.noaa.gov/",
+          "title": "Homepage - NOAA Ocean Exploration"
+        },
+        {
+          "url": "https://www.istat.it/",
+          "title": "Istat"
+        },
+        {
+          "url": "https://data.calgary.ca/",
+          "title": "Open Calgary | Open Calgary"
+        },
+        {
+          "url": "http://www.unwomen.org/en",
+          "title": "Welcome | UN Women - Headquarters"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.votervoice.net/GOODWILL/Register",
@@ -170,12 +170,12 @@
           "title": "Simple Generosity"
         },
         {
-          "url": "https://postkodstiftelsen.se/en/nyheter/",
-          "title": "Svenska Postkodlotteriets Stiftelse | News - Svenska Postkodlotteriets Stiftelse"
-        },
-        {
           "url": "https://support.brookings.edu/",
           "title": "Support Brookings | Brookings"
+        },
+        {
+          "url": "https://postkodstiftelsen.se/en/nyheter/",
+          "title": "Svenska Postkodlotteriets Stiftelse | News - Svenska Postkodlotteriets Stiftelse"
         },
         {
           "url": "https://www.youthbusiness.org/",
@@ -230,16 +230,16 @@
       "name": "advocacy-civic-engagement",
       "bookmarks": [
         {
+          "url": "https://accessiblevoting.net/",
+          "title": "Accessible voting - Your guide to a private and independent voting experience"
+        },
+        {
           "url": "https://www.aclu-il.org/en",
           "title": "ACLU of Illinois"
         },
         {
           "url": "https://www.aclu-mn.org/en/press-releases/aclu-mn-responds-supreme-court-ruling-against-restoring-voting-rights-minnesotans",
           "title": "ACLU-MN RESPONDS TO SUPREME COURT RULING AGAINST RESTORING VOTING RIGHTS TO MINNESOTANS | ACLU of Minnesota"
-        },
-        {
-          "url": "https://accessiblevoting.net/",
-          "title": "Accessible voting - Your guide to a private and independent voting experience"
         },
         {
           "url": "https://www.facingsouth.org/2019/10/floridas-judicial-pipeline-filled-right-wing-federalist-society",
@@ -261,7 +261,7 @@
       "count": 7
     },
     {
-      "name": "conservation-environment",
+      "name": "environment-conservation",
       "bookmarks": [
         {
           "url": "https://www.sare.org/resources/cover-crops/",
@@ -403,7 +403,7 @@
       "count": 5
     },
     {
-      "name": "media-and-hobbies",
+      "name": "hobbies-media",
       "bookmarks": [
         {
           "url": "https://a2tunes.tumblr.com/",
@@ -451,7 +451,7 @@
       "count": 4
     },
     {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "http://www.playstation.com/support/",
@@ -556,12 +556,12 @@
       "name": "misc-logins",
       "bookmarks": [
         {
-          "url": "http://www.cybergrants.com/target/Foundation-General-Submission-Form",
-          "title": "CyberGrants Jump Page"
-        },
-        {
           "url": "https://www.tricktionary.com/en/customer/account/login/referer/aHR0cHM6Ly93d3cudHJpY2t0aW9uYXJ5LmNvbS9mci9oaWdobGlnaHQvbmV3Lmh0bWw%2C/",
           "title": "Customer Login"
+        },
+        {
+          "url": "http://www.cybergrants.com/target/Foundation-General-Submission-Form",
+          "title": "CyberGrants Jump Page"
         },
         {
           "url": "https://login.ey.com/myey/login",

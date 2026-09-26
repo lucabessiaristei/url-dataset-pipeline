@@ -58,20 +58,12 @@
           "title": "Bureau of Alcohol, Tobacco, Firearms and Explosives |"
         },
         {
-          "url": "https://www.dof.gov.ph",
-          "title": "Homepage - Department of Finance"
-        },
-        {
           "url": "http://www.inail.it/",
           "title": "Home"
         },
         {
-          "url": "https://wordsmith.social/read/p/2",
-          "title": "Wordsmith Reader"
-        },
-        {
-          "url": "https://left.gr/mayri-ergasia?page=2",
-          "title": "μαύρη εργασία :: 3 :: left.gr"
+          "url": "https://www.dof.gov.ph",
+          "title": "Homepage - Department of Finance"
         },
         {
           "url": "https://tslaindexes.tn.gov/database-tn-research/tennessee-supreme-court-cases?f%5B0%5D=field_county%3A90&f%5B1%5D=field_sc_cause_crime%3Adisturb&f%5B2%5D=field_sc_case_date%3A1876&f%5B3%5D=field_sc_cause_crime%3Aworship&f%5B4%5D=field_sc_court_origin%3Acrimin&f%5B5%5D=field_sc_cause_crime%3Aof",
@@ -80,6 +72,14 @@
         {
           "url": "https://www.rcfp.org/reporters-recording-guide/wisconsin/",
           "title": "Wisconsin | The Reporters Committee for Freedom of the Press"
+        },
+        {
+          "url": "https://wordsmith.social/read/p/2",
+          "title": "Wordsmith Reader"
+        },
+        {
+          "url": "https://left.gr/mayri-ergasia?page=2",
+          "title": "μαύρη εργασία :: 3 :: left.gr"
         }
       ],
       "count": 8
@@ -96,12 +96,12 @@
           "title": "Common Sense"
         },
         {
-          "url": "https://support.bestfriends.org/site/SPageNavigator/osd_pmx_search_one_api.html",
-          "title": "How you can help homeless pets | Best Friends Animal Society - Save Them All"
-        },
-        {
           "url": "http://www.napawf.org/",
           "title": "Home - NAPAWF"
+        },
+        {
+          "url": "https://support.bestfriends.org/site/SPageNavigator/osd_pmx_search_one_api.html",
+          "title": "How you can help homeless pets | Best Friends Animal Society - Save Them All"
         },
         {
           "url": "http://www.compassinterpreters.org/",
@@ -130,12 +130,12 @@
           "title": "Awards Success for PCO Members - Professional Cartoonists Organisation"
         },
         {
-          "url": "https://www.deviantart.com/",
-          "title": "DeviantArt - The Largest Online Art Gallery and Community"
-        },
-        {
           "url": "https://www.designgradients.com/",
           "title": "Design Gradients - designgradients.com"
+        },
+        {
+          "url": "https://www.deviantart.com/",
+          "title": "DeviantArt - The Largest Online Art Gallery and Community"
         },
         {
           "url": "https://www.guggenheim.org/exhibitions",
@@ -236,6 +236,10 @@
           "title": "Atletico Madrid, Inter ja AC Milan tekivät seuraa englantilaisjoukkueille, vetäytyivät Superliigasta | Yle"
         },
         {
+          "url": "https://www.idnes.cz/technet",
+          "title": "iDNES.cz - s námi víte víc"
+        },
+        {
           "url": "https://www.lefigaro.fr/international",
           "title": "Le Figaro - International : Actualité internationale en direct"
         },
@@ -250,39 +254,9 @@
         {
           "url": "https://www.washingtontimes.com/",
           "title": "Washington Times - Politics, Breaking News, US and World News"
-        },
-        {
-          "url": "https://www.idnes.cz/technet",
-          "title": "iDNES.cz - s námi víte víc"
         }
       ],
       "count": 7
-    },
-    {
-      "name": "cooking-recipes-food",
-      "bookmarks": [
-        {
-          "url": "http://www.barbero.com/",
-          "title": "Delizie Bakery - Un mondo di cose buone"
-        },
-        {
-          "url": "https://www.gopapaya.co.in/",
-          "title": "PA PA YA test"
-        },
-        {
-          "url": "http://www.saporietradizioni.it/",
-          "title": "Ricette di cucina e piatti tradizionali"
-        },
-        {
-          "url": "https://www.arcoirisnacozinha.com/2016/tortilha-de-batata-cenoura-e-cebola/",
-          "title": "Tortilha de Batata, Cenoura e Cebola - Arco-íris na Cozinha"
-        },
-        {
-          "url": "https://www.paul.fr/default/viennoiserie/familliales?allergens_bis=16983%2C16986%2C17031",
-          "title": "Viennoiserie Familiales - Brioches - Cramiques - PAUL"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "development-learning-guides",
@@ -306,6 +280,32 @@
         {
           "url": "https://msdn.microsoft.com/en-us/microsoft-sdks-msdn",
           "title": "Microsoft Developer"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "food-cooking-recipes",
+      "bookmarks": [
+        {
+          "url": "http://www.barbero.com/",
+          "title": "Delizie Bakery - Un mondo di cose buone"
+        },
+        {
+          "url": "https://www.gopapaya.co.in/",
+          "title": "PA PA YA test"
+        },
+        {
+          "url": "http://www.saporietradizioni.it/",
+          "title": "Ricette di cucina e piatti tradizionali"
+        },
+        {
+          "url": "https://www.arcoirisnacozinha.com/2016/tortilha-de-batata-cenoura-e-cebola/",
+          "title": "Tortilha de Batata, Cenoura e Cebola - Arco-íris na Cozinha"
+        },
+        {
+          "url": "https://www.paul.fr/default/viennoiserie/familliales?allergens_bis=16983%2C16986%2C17031",
+          "title": "Viennoiserie Familiales - Brioches - Cramiques - PAUL"
         }
       ],
       "count": 5
@@ -355,7 +355,7 @@
       "count": 3
     },
     {
-      "name": "business-tools-organizations",
+      "name": "business-organizations-tools",
       "bookmarks": [
         {
           "url": "https://appsource.microsoft.com/",
@@ -373,7 +373,7 @@
       "count": 3
     },
     {
-      "name": "mapping-geospatial-data",
+      "name": "geospatial-data-mapping",
       "bookmarks": [
         {
           "url": "https://www.openstreetmap.org/copyright",

@@ -46,10 +46,6 @@
       "name": "government-public-services",
       "bookmarks": [
         {
-          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
-          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
-        },
-        {
           "url": "https://shop.deutschepost.de/briefmarken",
           "title": "Briefmarken bestellen | Shop Deutsche Post"
         },
@@ -80,12 +76,16 @@
         {
           "url": "https://public.wmo.int/en/resources/world-meteorological-day",
           "title": "World Meteorological Day"
+        },
+        {
+          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
+          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
         }
       ],
       "count": 9
     },
     {
-      "name": "personal-lifestyle",
+      "name": "lifestyle-personal",
       "bookmarks": [
         {
           "url": "https://www.baobabcollection.com/eu/en/scented-candles/rainforest/",
@@ -123,7 +123,7 @@
       "count": 8
     },
     {
-      "name": "online-utilities-resources",
+      "name": "online-resources-utilities",
       "bookmarks": [
         {
           "url": "https://gdpr.cision.com/",
@@ -187,33 +187,7 @@
       "count": 6
     },
     {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "http://www.amc.com",
-          "title": "AMC | Watch TV Shows & Movies Online | Stream Current Episodes"
-        },
-        {
-          "url": "https://noticiassalamanca.com/campo/el-lobo-ataca-en-monleras-el-rebano-de-la-queseria-montiermo/",
-          "title": "El lobo ataca en Monleras el rebaño de la quesería Montiermo - 【NOTICIAS de Salamanca】"
-        },
-        {
-          "url": "https://www.ipsnoticias.net",
-          "title": "Home : IPS Agencia de Noticias"
-        },
-        {
-          "url": "https://extratv.com/2023/02/17/outer-banks-star-chase-stokes-adores-kelsea-ballerini-exclusive/",
-          "title": "'Outer Banks' Star Chase Stokes 'Adores' Kelsea Ballerini (Exclusive)"
-        },
-        {
-          "url": "https://www.syracuse.com/highschoolsports/2023/02/remembering-dale-mccormick-oneida-coachs-impact-stretched-well-beyond-soccer.html",
-          "title": "Remembering Dale McCormick: Coach who drowned had an impact well beyond soccer - syracuse.com"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "software-technology",
+      "name": "technology-software",
       "bookmarks": [
         {
           "url": "https://coder-girls.tumblr.com/",
@@ -243,26 +217,30 @@
       "count": 6
     },
     {
-      "name": "health-wellness",
+      "name": "news-media",
       "bookmarks": [
         {
-          "url": "http://www.gentili.net/list4.asp?ID=176",
-          "title": "Diaphyseal lesion"
+          "url": "https://extratv.com/2023/02/17/outer-banks-star-chase-stokes-adores-kelsea-ballerini-exclusive/",
+          "title": "'Outer Banks' Star Chase Stokes 'Adores' Kelsea Ballerini (Exclusive)"
         },
         {
-          "url": "https://www.saintfrancis.com/",
-          "title": "Home | Saint Francis Health System"
+          "url": "http://www.amc.com",
+          "title": "AMC | Watch TV Shows & Movies Online | Stream Current Episodes"
         },
         {
-          "url": "https://www.oxygenmag.com/byline/jaclyn-cordeiro/",
-          "title": "Jaclyn Cordeiro Archives - Oxygen Mag"
+          "url": "https://noticiassalamanca.com/campo/el-lobo-ataca-en-monleras-el-rebano-de-la-queseria-montiermo/",
+          "title": "El lobo ataca en Monleras el rebaño de la quesería Montiermo - 【NOTICIAS de Salamanca】"
         },
         {
-          "url": "https://healthy.kaiserpermanente.org/front-door/machine-readable",
-          "title": "Transparency In Pricing Machine-Readable Files | Kaiser Permanente"
+          "url": "https://www.ipsnoticias.net",
+          "title": "Home : IPS Agencia de Noticias"
+        },
+        {
+          "url": "https://www.syracuse.com/highschoolsports/2023/02/remembering-dale-mccormick-oneida-coachs-impact-stretched-well-beyond-soccer.html",
+          "title": "Remembering Dale McCormick: Coach who drowned had an impact well beyond soccer - syracuse.com"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
       "name": "sports-recreation",
@@ -330,6 +308,28 @@
         {
           "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
           "title": "Ubstadt-Weiher - Vikipedio"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "http://www.gentili.net/list4.asp?ID=176",
+          "title": "Diaphyseal lesion"
+        },
+        {
+          "url": "https://www.saintfrancis.com/",
+          "title": "Home | Saint Francis Health System"
+        },
+        {
+          "url": "https://www.oxygenmag.com/byline/jaclyn-cordeiro/",
+          "title": "Jaclyn Cordeiro Archives - Oxygen Mag"
+        },
+        {
+          "url": "https://healthy.kaiserpermanente.org/front-door/machine-readable",
+          "title": "Transparency In Pricing Machine-Readable Files | Kaiser Permanente"
         }
       ],
       "count": 4

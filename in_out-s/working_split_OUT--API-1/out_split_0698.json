@@ -1,11 +1,15 @@
 {
   "folders": [
     {
-      "name": "academic--research-education",
+      "name": "academic-research-education",
       "bookmarks": [
         {
           "url": "https://csp.ucsc.edu/about/",
           "title": "ABOUT | Coastal Science and Policy Program"
+        },
+        {
+          "url": "http://emlab.msi.ucsb.edu/",
+          "title": "Environmental Markets Lab (emLab) | emLab"
         },
         {
           "url": "http://pubs.sciepub.com/aees/9/7/7/figure/1",
@@ -50,16 +54,12 @@
         {
           "url": "http://developingchild.harvard.edu/science/key-concepts/toxic-stress/",
           "title": "Toxic Stress : What is toxic stress?"
-        },
-        {
-          "url": "http://emlab.msi.ucsb.edu/",
-          "title": "Environmental Markets Lab (emLab) | emLab"
         }
       ],
       "count": 13
     },
     {
-      "name": "social-justice--community",
+      "name": "community-social-justice",
       "bookmarks": [
         {
           "url": "http://lavetten.se/foreningen/board",
@@ -105,41 +105,7 @@
       "count": 10
     },
     {
-      "name": "business--corporate-services",
-      "bookmarks": [
-        {
-          "url": "https://advertising.theguardian.com/us/advertising",
-          "title": "Home | Guardian Advertising"
-        },
-        {
-          "url": "https://ir.spire.com/",
-          "title": "Investor Relations :: Spire Global, Inc. (SPIR)"
-        },
-        {
-          "url": "http://www.centene.com/",
-          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
-        },
-        {
-          "url": "https://newsroom.apac.paypal-corp.com/home",
-          "title": "PayPal Newsroom - Home"
-        },
-        {
-          "url": "https://www.bluecamroo.com/support/home/selectplan",
-          "title": "Select Your BlueCamroo Plan"
-        },
-        {
-          "url": "https://thetextileexpert.com/",
-          "title": "The Textile Expert"
-        },
-        {
-          "url": "https://tools.totaleconomicimpact.com/go/Apple/TEI/",
-          "title": "The Total Economic Impact™ Of Mac In Enterprise"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "app-dev--tools-resources",
+      "name": "app-dev-tools-resources",
       "bookmarks": [
         {
           "url": "https://capitaloneshopping.com/capitalone",
@@ -173,71 +139,45 @@
       "count": 7
     },
     {
-      "name": "online-services--account-status",
+      "name": "business-corporate-services",
       "bookmarks": [
         {
-          "url": "https://www.eleftheroudakis.gr/",
-          "title": "Account Suspended"
+          "url": "https://advertising.theguardian.com/us/advertising",
+          "title": "Home | Guardian Advertising"
         },
         {
-          "url": "http://www.ricettaricette.com/",
-          "title": "Cute And Fluffy"
+          "url": "https://ir.spire.com/",
+          "title": "Investor Relations :: Spire Global, Inc. (SPIR)"
         },
         {
-          "url": "https://my.ucsc.edu",
-          "title": "MyUCSC redirect to Login Page"
+          "url": "http://www.centene.com/",
+          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
         },
         {
-          "url": "https://www.skillsoft.com/login-skillsoft",
-          "title": "Sign in to Skillsoft Percipio or Skillsoft Coaching - Skillsoft"
+          "url": "https://newsroom.apac.paypal-corp.com/home",
+          "title": "PayPal Newsroom - Home"
         },
         {
-          "url": "http://bpmob.com/voicetranslator/support/",
-          "title": "Voice Translator Support Form"
+          "url": "https://www.bluecamroo.com/support/home/selectplan",
+          "title": "Select Your BlueCamroo Plan"
+        },
+        {
+          "url": "https://thetextileexpert.com/",
+          "title": "The Textile Expert"
+        },
+        {
+          "url": "https://tools.totaleconomicimpact.com/go/Apple/TEI/",
+          "title": "The Total Economic Impact™ Of Mac In Enterprise"
         }
       ],
-      "count": 5
+      "count": 7
     },
     {
-      "name": "visual-arts--design-media",
-      "bookmarks": [
-        {
-          "url": "https://nl.vecteezy.com/foto/1134086-grappig-man-wegkijken",
-          "title": "Download Gratis Vectoren, Afbeeldingen, Foto's en Video's"
-        },
-        {
-          "url": "https://create.microsoft.com/?utm_source=m356edge&utm_medium=microsite&utm_campaign=creation",
-          "title": "Free templates for social media, documents & designs | Microsoft Create"
-        },
-        {
-          "url": "https://www.nateluebbe.com",
-          "title": "Nate Luebbe - Landscape, Wildlife, Travel & Adventure Photography"
-        },
-        {
-          "url": "https://www.sciencemuseum.org.uk/objects-and-stories",
-          "title": "Objects and stories | Science Museum"
-        },
-        {
-          "url": "https://flickeringlamps.com/2015/09/04/the-spectacular-tradescant-tomb-a-world-of-wonders-in-one-closet-shut/?like_comment=5176&_wpnonce=739ca7eef0",
-          "title": "The spectacular Tradescant tomb: \"a world of wonders in one closet shut\" - Flickering Lamps"
-        },
-        {
-          "url": "https://www.metmuseum.org/art/collection/search/436440",
-          "title": "Thomas Gainsborough - Cottage Children (The Wood Gatherers) - The Metropolitan Museum of Art"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "e-commerce--clothing-accessories",
+      "name": "ecommerce-clothing-accessories",
       "bookmarks": [
         {
           "url": "http://www.beltsdirect.com/",
           "title": "Fashion and Pet Accessories - Buckle-Down"
-        },
-        {
-          "url": "https://www.freepeople.com/shop/wrangler-ranch-coat/?color=040&type=REGULAR&quantity=1",
-          "title": "Wrangler Ranch Coat | Free People"
         },
         {
           "url": "https://michelleleaverjewellery.co.uk/product-tag/horseridingjewellery/",
@@ -250,60 +190,16 @@
         {
           "url": "https://saysh.com/",
           "title": "Saysh - Women Deserve Better"
+        },
+        {
+          "url": "https://www.freepeople.com/shop/wrangler-ranch-coat/?color=040&type=REGULAR&quantity=1",
+          "title": "Wrangler Ranch Coat | Free People"
         }
       ],
       "count": 5
     },
     {
-      "name": "e-commerce--home-electronics",
-      "bookmarks": [
-        {
-          "url": "https://www.unikdekor.se/tapet/barntapeter-standard/disney-pixar-bilar/",
-          "title": "Disney Pixar Bilar - Unikdekor.se"
-        },
-        {
-          "url": "https://www.stagecom.eu/product-page/edge-led-ultra-hd-monitor-84-213-5cm-philips-bdl8470qu",
-          "title": "Edge-LED Ultra HD Monitor 84\" (213.5cm) PHILIPS BDL8470QU | STAGECOM"
-        },
-        {
-          "url": "https://lacremerie.fr/produit/chaise-cl10b-vert/",
-          "title": "Chaise CL10B - Vert - La Crémerie, Meubles design français"
-        },
-        {
-          "url": "https://www.tumblestonschools.com/product-tag/young/",
-          "title": "Young"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment--media-streaming",
-      "bookmarks": [
-        {
-          "url": "https://www.fiaformulae.com/en/championship/race-calendar",
-          "title": "Formula E Calendar | 2026 Racing Schedule | ABB FIA Formula E World Championship"
-        },
-        {
-          "url": "https://www.nettavisen.no/livsstil/denne-scenen-fra-the-office-har-du-aldri-sett-for/s/12-95-3424070396",
-          "title": "Kjendis, The office | Denne scenen fra «The Office» har du aldri sett før"
-        },
-        {
-          "url": "https://www.instyle.com/madelyn-cline-outer-banks-season-3-interview-7112295",
-          "title": "Madelyn Cline Says She Drew Inspiration From Her Personal Life for 'Outer Banks' Season 3"
-        },
-        {
-          "url": "https://www.listennotes.com/podcasts/moving-up-together-moving-up-together-qNSPIX3VDKn/",
-          "title": "Moving Up Together (podcast) - Moving Up Together | Listen Notes"
-        },
-        {
-          "url": "https://stirr.com",
-          "title": "STIRR - Stream Free Movies, TV Shows & Series"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "government--public-sector",
+      "name": "government-public-sector",
       "bookmarks": [
         {
           "url": "http://www.cepal.org/en",
@@ -329,7 +225,125 @@
       "count": 5
     },
     {
-      "name": "news--current-events",
+      "name": "online-services-account-status",
+      "bookmarks": [
+        {
+          "url": "https://www.eleftheroudakis.gr/",
+          "title": "Account Suspended"
+        },
+        {
+          "url": "http://www.ricettaricette.com/",
+          "title": "Cute And Fluffy"
+        },
+        {
+          "url": "https://my.ucsc.edu",
+          "title": "MyUCSC redirect to Login Page"
+        },
+        {
+          "url": "https://www.skillsoft.com/login-skillsoft",
+          "title": "Sign in to Skillsoft Percipio or Skillsoft Coaching - Skillsoft"
+        },
+        {
+          "url": "http://bpmob.com/voicetranslator/support/",
+          "title": "Voice Translator Support Form"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "visual-arts-design-media",
+      "bookmarks": [
+        {
+          "url": "https://nl.vecteezy.com/foto/1134086-grappig-man-wegkijken",
+          "title": "Download Gratis Vectoren, Afbeeldingen, Foto's en Video's"
+        },
+        {
+          "url": "https://www.nateluebbe.com",
+          "title": "Nate Luebbe - Landscape, Wildlife, Travel & Adventure Photography"
+        },
+        {
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories",
+          "title": "Objects and stories | Science Museum"
+        },
+        {
+          "url": "https://flickeringlamps.com/2015/09/04/the-spectacular-tradescant-tomb-a-world-of-wonders-in-one-closet-shut/?like_comment=5176&_wpnonce=739ca7eef0",
+          "title": "The spectacular Tradescant tomb: \"a world of wonders in one closet shut\" - Flickering Lamps"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/436440",
+          "title": "Thomas Gainsborough - Cottage Children (The Wood Gatherers) - The Metropolitan Museum of Art"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "ecommerce-home-electronics",
+      "bookmarks": [
+        {
+          "url": "https://lacremerie.fr/produit/chaise-cl10b-vert/",
+          "title": "Chaise CL10B - Vert - La Crémerie, Meubles design français"
+        },
+        {
+          "url": "https://www.unikdekor.se/tapet/barntapeter-standard/disney-pixar-bilar/",
+          "title": "Disney Pixar Bilar - Unikdekor.se"
+        },
+        {
+          "url": "https://www.stagecom.eu/product-page/edge-led-ultra-hd-monitor-84-213-5cm-philips-bdl8470qu",
+          "title": "Edge-LED Ultra HD Monitor 84\" (213.5cm) PHILIPS BDL8470QU | STAGECOM"
+        },
+        {
+          "url": "https://www.tumblestonschools.com/product-tag/young/",
+          "title": "Young"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "entertainment-media-streaming",
+      "bookmarks": [
+        {
+          "url": "https://www.fiaformulae.com/en/championship/race-calendar",
+          "title": "Formula E Calendar | 2026 Racing Schedule | ABB FIA Formula E World Championship"
+        },
+        {
+          "url": "https://www.nettavisen.no/livsstil/denne-scenen-fra-the-office-har-du-aldri-sett-for/s/12-95-3424070396",
+          "title": "Kjendis, The office | Denne scenen fra «The Office» har du aldri sett før"
+        },
+        {
+          "url": "https://www.instyle.com/madelyn-cline-outer-banks-season-3-interview-7112295",
+          "title": "Madelyn Cline Says She Drew Inspiration From Her Personal Life for 'Outer Banks' Season 3"
+        },
+        {
+          "url": "https://stirr.com",
+          "title": "STIRR - Stream Free Movies, TV Shows & Series"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "finance-personal-forms",
+      "bookmarks": [
+        {
+          "url": "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
+          "title": "Apple Card Application"
+        },
+        {
+          "url": "https://www.theoutletstoresalicante.es/bases-legales-sorteo-summer-boom-puma/",
+          "title": "BASES LEGALES SORTEO SUMMER BOOM: TARJETA REGALO 100€ PUMA - Centro Comercial The Outlet Stores Alicante"
+        },
+        {
+          "url": "https://facturacion.walmartmexico.com.mx/arco/forma-arco.asp",
+          "title": "void"
+        },
+        {
+          "url": "http://www.moneystation.gr",
+          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-current-events",
       "bookmarks": [
         {
           "url": "https://www.bbc.com/",
@@ -351,29 +365,7 @@
       "count": 4
     },
     {
-      "name": "finance--personal-forms",
-      "bookmarks": [
-        {
-          "url": "https://card.apple.com/apply/application?referrer=cid%3Dapy-200-10000036&start=false",
-          "title": "Apple Card Application"
-        },
-        {
-          "url": "https://www.theoutletstoresalicante.es/bases-legales-sorteo-summer-boom-puma/",
-          "title": "BASES LEGALES SORTEO SUMMER BOOM: TARJETA REGALO 100€ PUMA - Centro Comercial The Outlet Stores Alicante"
-        },
-        {
-          "url": "http://www.moneystation.gr",
-          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
-        },
-        {
-          "url": "https://facturacion.walmartmexico.com.mx/arco/forma-arco.asp",
-          "title": "void"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "e-commerce--beauty-food",
+      "name": "ecommerce-beauty-food",
       "bookmarks": [
         {
           "url": "https://www.beautybay.com/p/melt-cosmetics/liquid-set-lipstick/rebound/",
@@ -391,35 +383,7 @@
       "count": 3
     },
     {
-      "name": "automotive--vehicles-guides",
-      "bookmarks": [
-        {
-          "url": "https://www.truck1.rs/dealers/wantian/stock/kamioni/sve?page=3&stock=1",
-          "title": "Truck1"
-        },
-        {
-          "url": "https://volvo.oemdtc.com",
-          "title": "Volvo - OEMDTC"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "lifestyle--travel-dining",
-      "bookmarks": [
-        {
-          "url": "https://www.nelliessouthernkitchen.com/",
-          "title": "Nellie's Southern Kitchen"
-        },
-        {
-          "url": "https://www.heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
-          "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "online--personal-pages",
+      "name": "online-personal-pages",
       "bookmarks": [
         {
           "url": "https://parish107.tumblr.com/",
@@ -435,8 +399,36 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "automotive-vehicles-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.truck1.rs/dealers/wantian/stock/kamioni/sve?page=3&stock=1",
+          "title": "Truck1"
+        },
+        {
+          "url": "https://volvo.oemdtc.com",
+          "title": "Volvo - OEMDTC"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "lifestyle-dining-travel",
+      "bookmarks": [
+        {
+          "url": "https://www.nelliessouthernkitchen.com/",
+          "title": "Nellie's Southern Kitchen"
+        },
+        {
+          "url": "https://www.heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
+          "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 85,
+  "total_bookmarks": 83,
   "num_folders": 16
 }

@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-blogs-media",
+      "name": "news-media-blogs",
       "bookmarks": [
         {
           "url": "https://www.bereainternacional.com",
@@ -114,12 +114,12 @@
           "title": "Sphinx - Sphinx documentation"
         },
         {
-          "url": "https://nlp.stanford.edu/software/lex-parser.html",
-          "title": "The Stanford Natural Language Processing Group"
-        },
-        {
           "url": "https://www.typewolf.com/resources",
           "title": "The Best Typography Resources for 2025 · Typewolf"
+        },
+        {
+          "url": "https://nlp.stanford.edu/software/lex-parser.html",
+          "title": "The Stanford Natural Language Processing Group"
         },
         {
           "url": "https://webcourseworks.com/",
@@ -127,6 +127,52 @@
         }
       ],
       "count": 13
+    },
+    {
+      "name": "health-social-justice",
+      "bookmarks": [
+        {
+          "url": "https://aalftc.org/",
+          "title": "African American Leadership Forum"
+        },
+        {
+          "url": "http://www.ustranssurvey.org/reports",
+          "title": "Download Reports - US Trans Survey"
+        },
+        {
+          "url": "http://kaporcenter.org",
+          "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://www.salon.com/2022/07/10/is-it-an-abortion-or-a-dandc-medically-speaking-the-steps-are-the-same/",
+          "title": "Is it an abortion or a D&C? Medically speaking, \"the steps are the same\" - Salon.com"
+        },
+        {
+          "url": "http://www.missingkids.org/",
+          "title": "National Center for Missing & Exploited Children"
+        },
+        {
+          "url": "http://www.northlandfdn.org/",
+          "title": "Northland Foundation"
+        },
+        {
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx",
+          "title": "Starting Solid Foods - HealthyChildren.org"
+        },
+        {
+          "url": "https://www.aclumich.org/en/news/year-ahead",
+          "title": "The year ahead | ACLU of Michigan"
+        },
+        {
+          "url": "https://naacpepi.tfaforms.net/10",
+          "title": "void"
+        },
+        {
+          "url": "https://www.sams-usa.net/sams-responds-to-devastating-7-8-earthquake-impacting-syria/",
+          "title": "» SAMS Responds to Devastating 7.8 Earthquake Impacting Syria"
+        }
+      ],
+      "count": 10
     },
     {
       "name": "environmental-conservation",
@@ -171,52 +217,6 @@
       "count": 9
     },
     {
-      "name": "health-social-justice",
-      "bookmarks": [
-        {
-          "url": "https://aalftc.org/",
-          "title": "African American Leadership Forum"
-        },
-        {
-          "url": "http://www.ustranssurvey.org/reports",
-          "title": "Download Reports - US Trans Survey"
-        },
-        {
-          "url": "http://kaporcenter.org",
-          "title": "Homepage - Kapor Center"
-        },
-        {
-          "url": "https://www.salon.com/2022/07/10/is-it-an-abortion-or-a-dandc-medically-speaking-the-steps-are-the-same/",
-          "title": "Is it an abortion or a D&C? Medically speaking, \"the steps are the same\" - Salon.com"
-        },
-        {
-          "url": "http://www.missingkids.org/",
-          "title": "National Center for Missing & Exploited Children"
-        },
-        {
-          "url": "http://www.northlandfdn.org/",
-          "title": "Northland Foundation"
-        },
-        {
-          "url": "https://www.sams-usa.net/sams-responds-to-devastating-7-8-earthquake-impacting-syria/",
-          "title": "» SAMS Responds to Devastating 7.8 Earthquake Impacting Syria"
-        },
-        {
-          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx",
-          "title": "Starting Solid Foods - HealthyChildren.org"
-        },
-        {
-          "url": "https://www.aclumich.org/en/news/year-ahead",
-          "title": "The year ahead | ACLU of Michigan"
-        },
-        {
-          "url": "https://naacpepi.tfaforms.net/10",
-          "title": "void"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "travel-leisure-hobbies",
       "bookmarks": [
         {
@@ -232,8 +232,8 @@
           "title": "Browse in Arcade < Games-db.com: computer games, video games, arcade, pinball, handheld, traditional >"
         },
         {
-          "url": "https://www.cheurlin.com/our-champagne",
-          "title": "Our Champagne"
+          "url": "https://orienteering.sport/iof/education/",
+          "title": "Education material | International Orienteering Federation"
         },
         {
           "url": "https://www.fariyas.com/resort-in-lonavala/",
@@ -248,8 +248,8 @@
           "title": "METEO PARIS par Météo-France - Prévisions Météo gratuites pour aujourd'hui, demain et à 15 jours."
         },
         {
-          "url": "https://orienteering.sport/iof/education/",
-          "title": "Education material | International Orienteering Federation"
+          "url": "https://www.cheurlin.com/our-champagne",
+          "title": "Our Champagne"
         },
         {
           "url": "https://www.hachettebookgroup.com/genre/travel/united-states-travel/west-united-states-travel/pacific-ak-ca-hi-or-wa/?lens=avalon-travel",
@@ -262,12 +262,16 @@
       "name": "academic-research",
       "bookmarks": [
         {
-          "url": "https://generalspace.ggc.edu/handle/10675.3/607660/browse?type=author",
-          "title": "DSpace"
+          "url": "https://ldl.gatech.edu/publications?s=year&amp%3Bf%5Bag%5D=R&f%5Bauthor%5D=872&o=asc",
+          "title": "[current-page:page-title] | [site:name]"
         },
         {
           "url": "https://wikis.swarthmore.edu/ling073/index.php?title=Wamesa_and_Tongan/Lexical_Selection&diff=prev&oldid=4220",
           "title": "Difference between revisions of \"Wamesa and Tongan/Lexical Selection\" - LING073"
+        },
+        {
+          "url": "https://generalspace.ggc.edu/handle/10675.3/607660/browse?type=author",
+          "title": "DSpace"
         },
         {
           "url": "https://math.meta.stackexchange.com/help/badges/54/enthusiast?userid=471884",
@@ -282,10 +286,6 @@
           "title": "Fraunhofer IIS (DE)"
         },
         {
-          "url": "https://ldl.gatech.edu/publications?s=year&amp%3Bf%5Bag%5D=R&f%5Bauthor%5D=872&o=asc",
-          "title": "[current-page:page-title] | [site:name]"
-        },
-        {
           "url": "https://survey.alchemer.com/s3/6280963/PLOS-Editorial-Board-Application",
           "title": "PLOS Editorial Board Application 2022"
         },
@@ -295,40 +295,6 @@
         }
       ],
       "count": 8
-    },
-    {
-      "name": "consumer-products-household",
-      "bookmarks": [
-        {
-          "url": "https://www.qvc.com/qvc.product.A422232.html",
-          "title": "Benefit Cosmetics They're Real LengtheningMascara - QVC.com"
-        },
-        {
-          "url": "https://www.captainds.com",
-          "title": "Captain D's"
-        },
-        {
-          "url": "https://www.dbricette.it/contatti.htm",
-          "title": "DBRicette: Contatti"
-        },
-        {
-          "url": "https://lonehawkhats.com/",
-          "title": "Lone Hawk Hats"
-        },
-        {
-          "url": "https://mailback-msft.tes-amm.com/_Content/de-AT/",
-          "title": "Microsoft Mail-back Program"
-        },
-        {
-          "url": "https://mesmodesdemploi.be/electromenagers/lave-vaisselle/indesit/",
-          "title": "Modes d'emploi pour Lave-vaisselle - Indesit | Modes d'emploi"
-        },
-        {
-          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
-          "title": "void"
-        }
-      ],
-      "count": 7
     },
     {
       "name": "business-corporate",
@@ -369,6 +335,40 @@
       "count": 8
     },
     {
+      "name": "consumer-products-household",
+      "bookmarks": [
+        {
+          "url": "https://www.qvc.com/qvc.product.A422232.html",
+          "title": "Benefit Cosmetics They're Real LengtheningMascara - QVC.com"
+        },
+        {
+          "url": "https://www.captainds.com",
+          "title": "Captain D's"
+        },
+        {
+          "url": "https://www.dbricette.it/contatti.htm",
+          "title": "DBRicette: Contatti"
+        },
+        {
+          "url": "https://lonehawkhats.com/",
+          "title": "Lone Hawk Hats"
+        },
+        {
+          "url": "https://mailback-msft.tes-amm.com/_Content/de-AT/",
+          "title": "Microsoft Mail-back Program"
+        },
+        {
+          "url": "https://mesmodesdemploi.be/electromenagers/lave-vaisselle/indesit/",
+          "title": "Modes d'emploi pour Lave-vaisselle - Indesit | Modes d'emploi"
+        },
+        {
+          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
+          "title": "void"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "government-public-services",
       "bookmarks": [
         {
@@ -403,28 +403,6 @@
       "count": 7
     },
     {
-      "name": "industrial-automotive-tech",
-      "bookmarks": [
-        {
-          "url": "https://bugatti.oemdtc.com",
-          "title": "Bugatti - OEMDTC"
-        },
-        {
-          "url": "http://www.smtworldwide.com/pf/bursting/",
-          "title": "BURSTING - Smt Worldwide"
-        },
-        {
-          "url": "http://www.erp-recycling.de",
-          "title": "Home - Über die European Recycling Platform - Germany (DE)"
-        },
-        {
-          "url": "https://www.kenkenkikki.jp/qa/answer/e_a11-003.html",
-          "title": "Q&A: Construction Equipment | Kikki's Workshop"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "legal-policy",
       "bookmarks": [
         {
@@ -449,6 +427,28 @@
         }
       ],
       "count": 5
+    },
+    {
+      "name": "industrial-automotive-tech",
+      "bookmarks": [
+        {
+          "url": "https://bugatti.oemdtc.com",
+          "title": "Bugatti - OEMDTC"
+        },
+        {
+          "url": "http://www.smtworldwide.com/pf/bursting/",
+          "title": "BURSTING - Smt Worldwide"
+        },
+        {
+          "url": "http://www.erp-recycling.de",
+          "title": "Home - Über die European Recycling Platform - Germany (DE)"
+        },
+        {
+          "url": "https://www.kenkenkikki.jp/qa/answer/e_a11-003.html",
+          "title": "Q&A: Construction Equipment | Kikki's Workshop"
+        }
+      ],
+      "count": 4
     }
   ],
   "total_bookmarks": 96,

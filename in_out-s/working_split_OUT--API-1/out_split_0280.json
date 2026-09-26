@@ -1,31 +1,23 @@
 {
   "folders": [
     {
-      "name": "organizations-civic-nonprofit",
+      "name": "civic-nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.apo-observers.org/about-observers",
           "title": "About Observers | Association for Professional Observers (APO)"
         },
         {
-          "url": "https://www.acm.org",
-          "title": "Association for Computing Machinery"
-        },
-        {
           "url": "https://accounts.acm.org?redirectUri=%2Fdoi%2F10.1145%2F3343195",
           "title": "ACM Account"
         },
         {
+          "url": "https://www.acm.org",
+          "title": "Association for Computing Machinery"
+        },
+        {
           "url": "https://www.carolina-loving-hound-rescue.com/",
           "title": "Contact Us"
-        },
-        {
-          "url": "https://craignewmarkphilanthropies.org/",
-          "title": "Home"
-        },
-        {
-          "url": "https://citizensleague.org/",
-          "title": "The Citizens League Creates and Advances Solutions for Minnesota"
         },
         {
           "url": "http://mcspartners.ning.com/forum/topic/listForTag?tag=direct",
@@ -36,20 +28,24 @@
           "title": "Donate to our Programs - YWCA Greater Atlanta | Advocacy | Social Justice | Education"
         },
         {
-          "url": "http://www.ecotrel.lu",
-          "title": "Home | Ecotrel"
-        },
-        {
           "url": "https://fundtexaschoice.org/",
           "title": "Fund Texas Choice | Funding Texans' Travel to Abortion Clinics"
+        },
+        {
+          "url": "https://www.gamvp.org/",
+          "title": "Georgia Muslim Voter Project"
         },
         {
           "url": "https://www.campaignfornature.org/global-steering-committee",
           "title": "Global Steering Committee - Campaign For Nature"
         },
         {
-          "url": "https://www.gamvp.org/",
-          "title": "Georgia Muslim Voter Project"
+          "url": "https://craignewmarkphilanthropies.org/",
+          "title": "Home"
+        },
+        {
+          "url": "http://www.ecotrel.lu",
+          "title": "Home | Ecotrel"
         },
         {
           "url": "http://www.aib.it/",
@@ -70,6 +66,10 @@
         {
           "url": "https://www.msc.org/",
           "title": "Italia Pesca Certificata | Marine Stewardship Council"
+        },
+        {
+          "url": "https://citizensleague.org/",
+          "title": "The Citizens League Creates and Advances Solutions for Minnesota"
         },
         {
           "url": "https://www.hearstfdn.org/",
@@ -110,12 +110,12 @@
           "title": "Lady Scientists of Tumblr"
         },
         {
-          "url": "https://www.nature.com/news",
-          "title": "Latest science news, discoveries and analysis"
-        },
-        {
           "url": "https://www.motogp.com/en/news",
           "title": "Latest News MotoGP™ | Moto2 | Moto3 | MotoE"
+        },
+        {
+          "url": "https://www.nature.com/news",
+          "title": "Latest science news, discoveries and analysis"
         },
         {
           "url": "https://pierikosnews.blogspot.com/2017/04/blog-post_21.html",
@@ -148,10 +148,6 @@
       "name": "tech-development-tools",
       "bookmarks": [
         {
-          "url": "https://bugs.firefox-dev.tools/",
-          "title": "Find DevTools bugs"
-        },
-        {
           "url": "https://carbon.now.sh/",
           "title": "Carbon | Create and share beautiful images of your source code"
         },
@@ -162,6 +158,10 @@
         {
           "url": "https://docs.mapbox.com/mapbox-gl-js/example/",
           "title": "Examples | Mapbox GL JS | Mapbox"
+        },
+        {
+          "url": "https://bugs.firefox-dev.tools/",
+          "title": "Find DevTools bugs"
         },
         {
           "url": "https://desktop.github.com/",
@@ -176,12 +176,12 @@
           "title": "Log in - HaskellWiki"
         },
         {
-          "url": "https://ignite.microsoft.com/",
-          "title": "Microsoft Ignite - November 18-21, 2025"
-        },
-        {
           "url": "http://www.freevbcode.com/",
           "title": "Microsoft Developer News | C++,C# & .NET Framework & More | CodeGuru"
+        },
+        {
+          "url": "https://ignite.microsoft.com/",
+          "title": "Microsoft Ignite - November 18-21, 2025"
         },
         {
           "url": "https://blog.onyxbits.de/category/tinkering/",
@@ -242,12 +242,12 @@
           "title": "Synalpheus heroni"
         },
         {
-          "url": "https://viirsland.gsfc.nasa.gov/index.html",
-          "title": "VIIRS Land Team"
-        },
-        {
           "url": "https://checkcoverage.apple.com/us/en/",
           "title": "View Coverage - AppleCare & Warranty"
+        },
+        {
+          "url": "https://viirsland.gsfc.nasa.gov/index.html",
+          "title": "VIIRS Land Team"
         },
         {
           "url": "https://www.bewellsolutions.com/tag/osu/",
@@ -257,7 +257,7 @@
       "count": 12
     },
     {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "http://allroseshavethorns.com/comic/643",
@@ -270,10 +270,6 @@
         {
           "url": "https://www.tiktok.com/@people",
           "title": "Log in | TikTok"
-        },
-        {
-          "url": "http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3F&showlogo=0&appsrc=cUcI1A",
-          "title": "登录 - 微博"
         },
         {
           "url": "https://www.pissedandproud.org/ni-ju-san-besser-als-schlecht-live-in-remscheid-cd/",
@@ -298,9 +294,55 @@
         {
           "url": "https://weplayapp.com/protocol-yszc-ios",
           "title": "WePlay - Online Board Game Lounge"
+        },
+        {
+          "url": "http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3F&showlogo=0&appsrc=cUcI1A",
+          "title": "登录 - 微博"
         }
       ],
       "count": 10
+    },
+    {
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.bmw-kuwait.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Showroom | Kuwait | Ali Alghanim & Sons BMW"
+        },
+        {
+          "url": "https://risk.lexisnexis.com/",
+          "title": "LexisNexis Risk Solutions | Transform Your Risk Decision Making"
+        },
+        {
+          "url": "https://matchingham.gs/?sfb65_qg584y4k6750958la/500462/5112946",
+          "title": "Matchingham Games"
+        },
+        {
+          "url": "https://maserati.oemdtc.com/category/recalls",
+          "title": "Recalls | Maserati - OEMDTC"
+        },
+        {
+          "url": "https://invest.bnpparibas/en/search/reports/documents/financial-reports?s%5Bsubthemes%5D%5B%5D=18",
+          "title": "Search & Documents | Financial reports | Investors & Shareholders | BNP Paribas Bank"
+        },
+        {
+          "url": "https://www.questdiagnostics.com/social-media?elqTrackId=ca7dff9e794942668828e4f7c98645dc&elqaid=93&elqat=2",
+          "title": "Social media | Quest Diagnostics"
+        },
+        {
+          "url": "https://www.ul.com/services/sustainability-and-stewardship",
+          "title": "ULTRUS: The Software Portfolio of UL Solutions | UL Solutions"
+        },
+        {
+          "url": "https://www.cintas.com/",
+          "title": "Uniforms - Corporate Apparel | Cintas"
+        },
+        {
+          "url": "http://www.lenzetech.com",
+          "title": "蓝牙6.1芯片支持Find My Network及其解决方案 | 伦茨科技"
+        }
+      ],
+      "count": 9
     },
     {
       "name": "shopping-products",
@@ -340,48 +382,6 @@
         {
           "url": "https://aqbutik.se/sv/tarot-angla-orakelkort/tarotkort/large-thoth-tarot-deck-aleister-crowley.html",
           "title": "void"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "corporate-business",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-kuwait.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Showroom | Kuwait | Ali Alghanim & Sons BMW"
-        },
-        {
-          "url": "https://risk.lexisnexis.com/",
-          "title": "LexisNexis Risk Solutions | Transform Your Risk Decision Making"
-        },
-        {
-          "url": "https://matchingham.gs/?sfb65_qg584y4k6750958la/500462/5112946",
-          "title": "Matchingham Games"
-        },
-        {
-          "url": "https://maserati.oemdtc.com/category/recalls",
-          "title": "Recalls | Maserati - OEMDTC"
-        },
-        {
-          "url": "https://invest.bnpparibas/en/search/reports/documents/financial-reports?s%5Bsubthemes%5D%5B%5D=18",
-          "title": "Search & Documents | Financial reports | Investors & Shareholders | BNP Paribas Bank"
-        },
-        {
-          "url": "https://www.questdiagnostics.com/social-media?elqTrackId=ca7dff9e794942668828e4f7c98645dc&elqaid=93&elqat=2",
-          "title": "Social media | Quest Diagnostics"
-        },
-        {
-          "url": "https://www.ul.com/services/sustainability-and-stewardship",
-          "title": "ULTRUS: The Software Portfolio of UL Solutions | UL Solutions"
-        },
-        {
-          "url": "https://www.cintas.com/",
-          "title": "Uniforms - Corporate Apparel | Cintas"
-        },
-        {
-          "url": "http://www.lenzetech.com",
-          "title": "蓝牙6.1芯片支持Find My Network及其解决方案 | 伦茨科技"
         }
       ],
       "count": 9

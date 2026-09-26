@@ -1,12 +1,8 @@
 {
   "folders": [
     {
-      "name": "non-profit-organizations",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://actorsfund.org/",
-          "title": "Entertainment Community Fund"
-        },
         {
           "url": "https://avpn.asia/",
           "title": "AVPN: Moving capital towards impact in Asia"
@@ -20,12 +16,16 @@
           "title": "DESOTO ISLAMIC CENTER"
         },
         {
-          "url": "http://www.decadeonrestoration.org/",
-          "title": "UN Decade on Restoration"
-        },
-        {
           "url": "https://godwhosees.com/donate/",
           "title": "Donate - The God Who Sees"
+        },
+        {
+          "url": "https://actorsfund.org/",
+          "title": "Entertainment Community Fund"
+        },
+        {
+          "url": "https://www.musiciansoncall.org/",
+          "title": "Home - Musicians On Call"
         },
         {
           "url": "https://iimn.org/",
@@ -36,12 +36,12 @@
           "title": "Make a loan, change a life | Kiva"
         },
         {
-          "url": "https://www.musiciansoncall.org/",
-          "title": "Home - Musicians On Call"
-        },
-        {
           "url": "https://newwf.org/",
           "title": "New World Foundation | Funding Social Movements"
+        },
+        {
+          "url": "http://www.decadeonrestoration.org/",
+          "title": "UN Decade on Restoration"
         },
         {
           "url": "https://www.rewild.org/",
@@ -55,19 +55,11 @@
       "count": 12
     },
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://www.agavecom.cz/avg-antivirus-business-edition-edu-1-4-pc-2-roky",
           "title": "AVG Antivirus Business Edition EDU pro 1-4 PC na 2 roky"
-        },
-        {
-          "url": "https://coolpacific.net/collections/mother-kids",
-          "title": "Mother & Kids | CoolPacific"
-        },
-        {
-          "url": "https://hairhub.com/products/remote-cutting-and-base-resizing-service",
-          "title": "Remote cutting and styling - Hair Hub"
         },
         {
           "url": "https://www.igkhair.com/",
@@ -78,12 +70,20 @@
           "title": "Imbera"
         },
         {
-          "url": "https://www.oceng.cz/produkty/zubovy-system-elite-trida/",
-          "title": "Zubový systém ELITE třída | Oceng.cz"
-        },
-        {
           "url": "https://zpwholesale.com/products/infinity-stackable-ring-in-sterling-silver-6924-ss",
           "title": "Infinity Stackable Ring in Sterling Silver, #6924-ss - Zoe & Piper Wholesale"
+        },
+        {
+          "url": "https://coolpacific.net/collections/mother-kids",
+          "title": "Mother & Kids | CoolPacific"
+        },
+        {
+          "url": "https://hairhub.com/products/remote-cutting-and-base-resizing-service",
+          "title": "Remote cutting and styling - Hair Hub"
+        },
+        {
+          "url": "https://www.oceng.cz/produkty/zubovy-system-elite-trida/",
+          "title": "Zubový systém ELITE třída | Oceng.cz"
         }
       ],
       "count": 7
@@ -92,16 +92,12 @@
       "name": "education-academic-resources",
       "bookmarks": [
         {
-          "url": "https://www.ala.org/aboutala/sitesdirectory",
-          "title": "Directory of ALA Websites | ALA"
-        },
-        {
           "url": "https://coding-with-kids-blog.tumblr.com/post/116835195814",
           "title": "Coding with Kids - codeorg: With all the national debate on..."
         },
         {
-          "url": "https://www.duo.nl/particulier/studiefinanciering/",
-          "title": "Studiefinanciering - DUO"
+          "url": "https://www.ala.org/aboutala/sitesdirectory",
+          "title": "Directory of ALA Websites | ALA"
         },
         {
           "url": "http://emlab.msi.ucsb.edu/",
@@ -116,6 +112,10 @@
           "title": "Home page IT | Università di Pavia"
         },
         {
+          "url": "https://www.duo.nl/particulier/studiefinanciering/",
+          "title": "Studiefinanciering - DUO"
+        },
+        {
           "url": "http://washington.edu/news/video/?utm_source=UW%20News&utm_medium=nav&utm_campaign=multimedia",
           "title": "Video stories | UW News"
         }
@@ -123,19 +123,49 @@
       "count": 7
     },
     {
+      "name": "entertainment-leisure",
+      "bookmarks": [
+        {
+          "url": "http://www.brendentheatres.com/actor/jay-lycurgo/",
+          "title": "Brenden Theatres"
+        },
+        {
+          "url": "https://www.cirk-foto.cz/fotoalbum/cirkusy/rok-2021/humberto---pardubice/dsc_5536--kopirovat-.html",
+          "title": "Cirkusové fotografie - Fotoalbum - Cirkusy - Rok 2021 - Humberto - Pardubice - DSC_5536 (Kopírovat)"
+        },
+        {
+          "url": "https://www.fandango.com/mobilemovietickets",
+          "title": "Fandango | A Message To Our Fans"
+        },
+        {
+          "url": "http://www.nickjr.com/appsupport",
+          "title": "Nickelodeon Italia | Homepage"
+        },
+        {
+          "url": "https://linnemagazine.com/2021/07/28/si-tu-amigue-te-pide-mas-lofi-y-dream-pop-pasale-lo-nuevo-de-classic-park-paula-pera-y-moriras-lejos/",
+          "title": "Si tu amigue te pide más lofi y dream pop, pásale lo nuevo de Classic Park, Paula Pera y Morirás Lejos | LINNE"
+        },
+        {
+          "url": "https://www.hbo.com/insecure",
+          "title": "Watch Insecure (HBO) | HBO Max"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "software-development-resources",
       "bookmarks": [
         {
-          "url": "https://aws.amazon.com/training/learn-about/serverless/",
-          "title": "Serverless - Learn about | AWS Training"
+          "url": "https://pytorch.org/get-started/locally/",
+          "title": "Get Started"
         },
         {
           "url": "https://data.guix.gnu.org/gnu/store/yhgv1vbm1myb0pnsdcgm5kpg9xv41l9n-module-import-compiled",
           "title": "Guix Data Service"
         },
         {
-          "url": "https://pytorch.org/get-started/locally/",
-          "title": "Get Started"
+          "url": "https://aws.amazon.com/training/learn-about/serverless/",
+          "title": "Serverless - Learn about | AWS Training"
         },
         {
           "url": "https://studio.swiperjs.com/",
@@ -153,7 +183,7 @@
       "count": 6
     },
     {
-      "name": "web-tools-utility",
+      "name": "web-tools-utilities",
       "bookmarks": [
         {
           "url": "https://www.diigo.com/",
@@ -164,6 +194,10 @@
           "title": "Privacy Policy"
         },
         {
+          "url": "https://www.airslate.com/captcha?ref=http://www.airslate.com/bot/explore/pre-fill-from-corda-bot",
+          "title": "Recaptcha"
+        },
+        {
           "url": "http://www.lawyersadvantage.com/",
           "title": "void"
         },
@@ -172,42 +206,8 @@
           "title": "WebChoices"
         },
         {
-          "url": "https://www.airslate.com/captcha?ref=http://www.airslate.com/bot/explore/pre-fill-from-corda-bot",
-          "title": "Recaptcha"
-        },
-        {
           "url": "https://www.whatsapp.com/",
           "title": "WhatsApp | Secure and Reliable Free Private Messaging and Calling"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "leisure-entertainment",
-      "bookmarks": [
-        {
-          "url": "http://www.brendentheatres.com/actor/jay-lycurgo/",
-          "title": "Brenden Theatres"
-        },
-        {
-          "url": "https://www.fandango.com/mobilemovietickets",
-          "title": "Fandango | A Message To Our Fans"
-        },
-        {
-          "url": "https://www.hbo.com/insecure",
-          "title": "Watch Insecure (HBO) | HBO Max"
-        },
-        {
-          "url": "https://linnemagazine.com/2021/07/28/si-tu-amigue-te-pide-mas-lofi-y-dream-pop-pasale-lo-nuevo-de-classic-park-paula-pera-y-moriras-lejos/",
-          "title": "Si tu amigue te pide más lofi y dream pop, pásale lo nuevo de Classic Park, Paula Pera y Morirás Lejos | LINNE"
-        },
-        {
-          "url": "https://www.cirk-foto.cz/fotoalbum/cirkusy/rok-2021/humberto---pardubice/dsc_5536--kopirovat-.html",
-          "title": "Cirkusové fotografie - Fotoalbum - Cirkusy - Rok 2021 - Humberto - Pardubice - DSC_5536 (Kopírovat)"
-        },
-        {
-          "url": "http://www.nickjr.com/appsupport",
-          "title": "Nickelodeon Italia | Homepage"
         }
       ],
       "count": 6
@@ -268,16 +268,16 @@
       "name": "tech-blogs-news-reports",
       "bookmarks": [
         {
-          "url": "https://blog.johnmark.org/2014/02/03/gluster-cloud-night-amsterdam/",
-          "title": "Gluster Cloud Night Amsterdam - JohnMark.Org"
+          "url": "https://blog.opensource.org",
+          "title": "Blog - Open Source Initiative"
         },
         {
           "url": "https://www.devops-research.com/research.html#reports",
           "title": "DORA | Get Better at Getting Better"
         },
         {
-          "url": "https://blog.opensource.org",
-          "title": "Blog - Open Source Initiative"
+          "url": "https://blog.johnmark.org/2014/02/03/gluster-cloud-night-amsterdam/",
+          "title": "Gluster Cloud Night Amsterdam - JohnMark.Org"
         },
         {
           "url": "http://qualgorithms.blogspot.com/",
@@ -289,46 +289,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "business-finance-economy",
-      "bookmarks": [
-        {
-          "url": "https://www.businessoffashion.com/articles/luxury/the-plan-for-off-white-after-virgil-abloh/",
-          "title": "The Plan for Off-White After Virgil Abloh | BoF"
-        },
-        {
-          "url": "https://www.td.com/us/en/personal-banking/",
-          "title": "Online Banking, Loans, Credit Cards & Home Lending | TD Bank"
-        },
-        {
-          "url": "https://express.adobe.com/page/EBco39ojRZKyQ/",
-          "title": "Walmart Constituent Relations Annual Report 2021"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "community-local-interest",
-      "bookmarks": [
-        {
-          "url": "https://www.cirk-foto.cz/fotoalbum/cirkusy/rok-2021/humberto---pardubice/dsc_5536--kopirovat-.html",
-          "title": "Cirkusové fotografie - Fotoalbum - Cirkusy - Rok 2021 - Humberto - Pardubice - DSC_5536 (Kopírovat)"
-        },
-        {
-          "url": "https://www.gofundme.com/f/1ud7sdx49c?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",
-          "title": "Fundraiser for Isela Dubon by Alice Alvarez : Joe Melgoza Fund"
-        },
-        {
-          "url": "https://365thingssyracuse.wordpress.com/2013/01/07/7-cobblestone/",
-          "title": "7. Cobblestone | 365 Things Syracuse"
-        },
-        {
-          "url": "https://web.cvent.com/event/c3dd1954-99a4-4cf1-862c-12a5a65ba58a/summary",
-          "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - Naples - September 25, 2022"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "digital-services-subscriptions",
@@ -351,24 +311,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "health-medical-resources",
-      "bookmarks": [
-        {
-          "url": "https://govstatus.egov.com/find-covid-19-vaccine",
-          "title": "Find a COVID-19 Vaccine in Oregon"
-        },
-        {
-          "url": "https://nyulangone.org/doctors/1336430081/mary-l-stevenson",
-          "title": "Mary L. Stevenson, MD | NYU Langone Health"
-        },
-        {
-          "url": "https://www.walmarthealth.com/?utm_source=walmart&utm_medium=referral&utm_campaign=LHN",
-          "title": "Robot or human?"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "news-current-events",
@@ -400,19 +342,55 @@
           "title": "AT&T Careers: Shape the future of connectivity"
         },
         {
-          "url": "https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-spam-trigger-words.aspx",
-          "title": "Spam trigger words: How to keep your emails out of the spam folder"
-        },
-        {
           "url": "https://beta.springernature.com/pre-submission?journalId=11625",
           "title": "Get your manuscript ready for journal editors | Springer Nature"
         },
         {
           "url": "https://www.skillsoft.com/login-skillsoft",
           "title": "Sign in to Skillsoft Percipio or Skillsoft Coaching - Skillsoft"
+        },
+        {
+          "url": "https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-spam-trigger-words.aspx",
+          "title": "Spam trigger words: How to keep your emails out of the spam folder"
         }
       ],
       "count": 4
+    },
+    {
+      "name": "business-finance-economy",
+      "bookmarks": [
+        {
+          "url": "https://www.td.com/us/en/personal-banking/",
+          "title": "Online Banking, Loans, Credit Cards & Home Lending | TD Bank"
+        },
+        {
+          "url": "https://www.businessoffashion.com/articles/luxury/the-plan-for-off-white-after-virgil-abloh/",
+          "title": "The Plan for Off-White After Virgil Abloh | BoF"
+        },
+        {
+          "url": "https://express.adobe.com/page/EBco39ojRZKyQ/",
+          "title": "Walmart Constituent Relations Annual Report 2021"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "community-local-interest",
+      "bookmarks": [
+        {
+          "url": "https://365thingssyracuse.wordpress.com/2013/01/07/7-cobblestone/",
+          "title": "7. Cobblestone | 365 Things Syracuse"
+        },
+        {
+          "url": "https://web.cvent.com/event/c3dd1954-99a4-4cf1-862c-12a5a65ba58a/summary",
+          "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - Naples - September 25, 2022"
+        },
+        {
+          "url": "https://www.gofundme.com/f/1ud7sdx49c?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet",
+          "title": "Fundraiser for Isela Dubon by Alice Alvarez : Joe Melgoza Fund"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "company-homepages-info",
@@ -451,6 +429,24 @@
       "count": 3
     },
     {
+      "name": "health-medical-resources",
+      "bookmarks": [
+        {
+          "url": "https://govstatus.egov.com/find-covid-19-vaccine",
+          "title": "Find a COVID-19 Vaccine in Oregon"
+        },
+        {
+          "url": "https://nyulangone.org/doctors/1336430081/mary-l-stevenson",
+          "title": "Mary L. Stevenson, MD | NYU Langone Health"
+        },
+        {
+          "url": "https://www.walmarthealth.com/?utm_source=walmart&utm_medium=referral&utm_campaign=LHN",
+          "title": "Robot or human?"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "hobbies-community-platforms",
       "bookmarks": [
         {
@@ -458,12 +454,30 @@
           "title": "Arena"
         },
         {
-          "url": "https://www.criclines.com/",
-          "title": "Today Match Prediction - Cricket Match Prediction Tips - Who Will Win Today"
-        },
-        {
           "url": "https://puzzling.stackexchange.com/",
           "title": "Puzzling Stack Exchange"
+        },
+        {
+          "url": "https://www.criclines.com/",
+          "title": "Today Match Prediction - Cricket Match Prediction Tips - Who Will Win Today"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-blogs-tumblr",
+      "bookmarks": [
+        {
+          "url": "https://mangakoibitochan.tumblr.com/",
+          "title": "ADHD Ahead!"
+        },
+        {
+          "url": "https://wrappedup-nca-wa.tumblr.com/",
+          "title": "Wrappedup NCA WA"
+        },
+        {
+          "url": "https://xchaoticrage.tumblr.com/",
+          "title": "💗VII-XVIII-MCMXCIII 💗"
         }
       ],
       "count": 3
@@ -485,26 +499,8 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "tumblr-blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://mangakoibitochan.tumblr.com/",
-          "title": "ADHD Ahead!"
-        },
-        {
-          "url": "https://wrappedup-nca-wa.tumblr.com/",
-          "title": "Wrappedup NCA WA"
-        },
-        {
-          "url": "https://xchaoticrage.tumblr.com/",
-          "title": "💗VII-XVIII-MCMXCIII 💗"
-        }
-      ],
-      "count": 3
     }
   ],
-  "total_bookmarks": 96,
+  "total_bookmarks": 95,
   "num_folders": 20
 }

@@ -1,30 +1,30 @@
 {
   "folders": [
     {
-      "name": "business-and-finance",
+      "name": "business-finance",
       "bookmarks": [
         {
           "url": "https://jobs.accaglobal.com/?utm_source=ACCAglobal&utm_medium=referral&utm_campaign=footer",
           "title": "ACCA Careers | jobs | Choose from 26,089 live vacancies"
         },
         {
-          "url": "https://accountservices.com/",
+          "url": "http://www.accountservices.com/",
           "title": "ACCOUNT SERVICES INC"
+        },
+        {
+          "url": "http://cbaworks.org/",
+          "title": "Chatham Business Association | Small Business Development | Chicago small business"
         },
         {
           "url": "https://www.benevity.com/",
           "title": "Community & Workforce Corporate Purpose Software | Benevity"
         },
         {
-          "url": "https://cbaworks.org/",
-          "title": "Chatham Business Association | Small Business Development | Chicago small business"
-        },
-        {
-          "url": "https://comcraftfr.com/",
+          "url": "http://www.comcraftfr.com/",
           "title": "End-to-End Deep Network Observability Solutions | Profitap"
         },
         {
-          "url": "https://madrona.com/",
+          "url": "http://www.madrona.com/",
           "title": "Madrona"
         },
         {
@@ -39,12 +39,8 @@
       "count": 8
     },
     {
-      "name": "food-and-recipes",
+      "name": "food-recipes",
       "bookmarks": [
-        {
-          "url": "https://canelasf.com/our-story/",
-          "title": "Our Story - Canela Bistro Bar"
-        },
         {
           "url": "https://amybakesintheburgh.com/tag/danish-butter-cookies/",
           "title": "Danish butter cookies - amy bakes in the 'burgh"
@@ -58,8 +54,12 @@
           "title": "Home - famoushighpie"
         },
         {
-          "url": "https://forumforyou.it/ricettemanu/",
+          "url": "http://www.forumforyou.it/ricettemanu/",
           "title": "Le facili ricette di cucina di Manu. Oltre 26.000 italiane ed estere | ForumForYou.it"
+        },
+        {
+          "url": "https://canelasf.com/our-story/",
+          "title": "Our Story - Canela Bistro Bar"
         },
         {
           "url": "https://trifectanutrition.llbyf9.net/c/3408212/1467354/4609?subid3=people",
@@ -73,12 +73,8 @@
       "count": 7
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://aworld.app.link/RuGYTvUs2Z",
-          "title": "void"
-        },
         {
           "url": "https://members.opensource.org/join/",
           "title": "Become a Member of OSI - OSI Members Site"
@@ -100,6 +96,10 @@
           "title": "Unregulated fishing on the high seas of the Indian Ocean | WWF"
         },
         {
+          "url": "https://aworld.app.link/RuGYTvUs2Z",
+          "title": "void"
+        },
+        {
           "url": "https://www.youngaudiences.org/",
           "title": "Young Audiences | Arts for Learning - National Organization"
         }
@@ -107,27 +107,27 @@
       "count": 7
     },
     {
-      "name": "shopping-and-fashion",
+      "name": "shopping-fashion",
       "bookmarks": [
         {
-          "url": "https://www.adornbridal.com/adornnashville",
-          "title": "Nashville, TN Bridal Shop | Your Dress Is Here"
-        },
-        {
-          "url": "https://centrepoint.app.link/s/956361bb88bb3af572c71a39e6d0776a67a33b57da39721586fa22a483422979",
-          "title": "Fashion, Beauty, Home & Kids' Essentials | Centrepoint UAE"
+          "url": "https://www.rougier-ple-toulouse.fr/store/bons-plans",
+          "title": "Bons plans - Rougier&Plé Toulouse"
         },
         {
           "url": "https://www.harrods.com/en-us/shopping/dolce-gabbana-tulle-pleated-wrap-dress-15176005",
           "title": "Dolce & Gabbana | Harrods US"
         },
         {
-          "url": "https://dnaathletix.com/products/riverdale-sweat-pants",
-          "title": "RIVERDALE RAIDERS SWEAT PANTS - dnaathletix"
+          "url": "https://centrepoint.app.link/s/956361bb88bb3af572c71a39e6d0776a67a33b57da39721586fa22a483422979",
+          "title": "Fashion, Beauty, Home & Kids' Essentials | Centrepoint UAE"
         },
         {
-          "url": "https://www.rougier-ple-toulouse.fr/store/bons-plans",
-          "title": "Bons plans - Rougier&Plé Toulouse"
+          "url": "https://www.adornbridal.com/adornnashville",
+          "title": "Nashville, TN Bridal Shop | Your Dress Is Here"
+        },
+        {
+          "url": "https://dnaathletix.com/products/riverdale-sweat-pants",
+          "title": "RIVERDALE RAIDERS SWEAT PANTS - dnaathletix"
         },
         {
           "url": "https://www.solakauppa.fi/kauppa/skt-virtuaalimessut-1080x1920-olenmukana_3596/",
@@ -140,7 +140,7 @@
       "name": "education",
       "bookmarks": [
         {
-          "url": "https://bridges4kids.org/HelpForKids-US.html",
+          "url": "http://www.bridges4kids.org/HelpForKids-US.html",
           "title": "Bridges4Kids State Resources and Information: USA Map"
         },
         {
@@ -152,11 +152,11 @@
           "title": "Engineering Penn State: Fall/Winter 2021"
         },
         {
-          "url": "https://sonderbooks.com/blog/?cat=206",
+          "url": "http://sonderbooks.com/blog/?cat=206",
           "title": "Prime Factorization - Sonderbooks"
         },
         {
-          "url": "https://qac.ac.uk/",
+          "url": "http://www.qac.ac.uk/",
           "title": "QAC Queen Alexandra College Birmingham - National college for people with disabilities."
         }
       ],
@@ -170,7 +170,7 @@
           "title": "DraStic - Frequently Asked Questions"
         },
         {
-          "url": "https://www.hogwartslegacy.com/en-us/faq",
+          "url": "https://www.hogwartslegacy.com/en-us/faq#:~:text=To%20get%20everyone%20in%20the,4%2C%202023%20without%20Early%20Access.",
           "title": "Hogwarts Legacy - Frequently Asked Questions"
         },
         {
@@ -182,14 +182,14 @@
           "title": "RCU Forums"
         },
         {
-          "url": "https://mothernatureshelper.com/a-history-of-these-happy-vermonters",
+          "url": "http://mothernatureshelper.com/a-history-of-these-happy-vermonters",
           "title": "Vermont's Plant Experts | Mother Nature's Helper"
         }
       ],
       "count": 5
     },
     {
-      "name": "tech-news-and-articles",
+      "name": "tech-news-articles",
       "bookmarks": [
         {
           "url": "https://www.hydro-group.com/blog/pompe-auto-amorcante-a-volute-seche-avantages-et-inconvenients/",
@@ -215,7 +215,7 @@
       "count": 5
     },
     {
-      "name": "web-legal-and-maintenance",
+      "name": "web-legal-maintenance",
       "bookmarks": [
         {
           "url": "https://apple.com/legal",
@@ -226,7 +226,7 @@
           "title": "boersianer.info Domain steht zum Verkauf"
         },
         {
-          "url": "https://cpra-intake-form.target.com/",
+          "url": "https://cpra-intake-form.target.com",
           "title": "cprarequestform"
         },
         {
@@ -241,10 +241,10 @@
       "count": 5
     },
     {
-      "name": "government-and-data",
+      "name": "government-data",
       "bookmarks": [
         {
-          "url": "https://ids.craig.fr/geocat/srv/eng/catalog.search",
+          "url": "https://ids.craig.fr/geocat/srv/eng/catalog.search#/home",
           "title": "CRAIG"
         },
         {
@@ -263,12 +263,8 @@
       "count": 4
     },
     {
-      "name": "lifestyle-and-brands",
+      "name": "lifestyle-brands",
       "bookmarks": [
-        {
-          "url": "https://luministic.tumblr.com/",
-          "title": "「✰。」"
-        },
         {
           "url": "https://sbskin-nyc.com/about-us",
           "title": "About Us - SB Skin"
@@ -280,12 +276,16 @@
         {
           "url": "https://blog.koraorganics.com/how-to-order-kora-organics-skincare/",
           "title": "How to Order An Organic Skincare Routine - KORA Organics"
+        },
+        {
+          "url": "https://luministic.tumblr.com/",
+          "title": "「✰。」"
         }
       ],
       "count": 4
     },
     {
-      "name": "tech-art-and-design",
+      "name": "tech-art-design",
       "bookmarks": [
         {
           "url": "https://kustomthrills.com/pages/adam-the-kid",
@@ -296,7 +296,7 @@
           "title": "Bloomberg Connects"
         },
         {
-          "url": "https://catonbed.de/jan2/pictures/galerie-w/carpentier/first.html",
+          "url": "http://www.catonbed.de/jan2/pictures/galerie-w/carpentier/first.html",
           "title": "Galerie Manfred Carpentier, Jan Sobottka, Meinekestr. Berlin, Carpentier Galerie"
         },
         {
@@ -318,7 +318,7 @@
           "title": "Teresa Giudice's Daughter Gabriella Giudice College, Career Plans"
         },
         {
-          "url": "https://www.primevideo.com/",
+          "url": "https://www.primevideo.com",
           "title": "Welcome to Prime Video"
         }
       ],
@@ -368,7 +368,7 @@
           "title": "Chicago Cubs Spring Training - Spring Training Online"
         },
         {
-          "url": "https://dailysport.co.ke/",
+          "url": "http://dailysport.co.ke/",
           "title": "HOME - DAILY SPORT"
         },
         {
@@ -379,6 +379,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 73,
+  "total_bookmarks": 72,
   "num_folders": 15
 }

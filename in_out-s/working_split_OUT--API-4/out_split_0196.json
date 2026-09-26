@@ -1,60 +1,22 @@
 {
   "folders": [
     {
-      "name": "entertainment-news",
-      "bookmarks": [
-        {
-          "url": "https://hosted2.ap.org/APDefault/Article_2015-03-05-US--Blurred Lines-Song Dispute/id-a6024f2efd254832b069c86a57c70c44",
-          "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News"
-        },
-        {
-          "url": "https://pittsburgh.cbslocal.com/2020/01/19/mac-miller-birthday-celebration-pittsburgh/",
-          "title": "Fans Gather In Pittsburgh To Celebrate And Remember Mac Miller On His 28th Birthday - CBS Pittsburgh"
-        },
-        {
-          "url": "https://complex.com/music/jay-z-beyonce-michael-rubin-july-4th-party-performances-drake-lil-baby-travis-scott",
-          "title": "Jay-Z, Beyoncé, and More Attend Michael Rubin's July 4th ..."
-        },
-        {
-          "url": "https://mlb.com/live-stream-games/subscribe",
-          "title": "MLB.TV Out-Of-Market Packages | Buy MLB.TV | MLB.com"
-        },
-        {
-          "url": "https://blog.youtube/",
-          "title": "Official YouTube Blog for Latest YouTube News & Insights"
-        },
-        {
-          "url": "https://au.rollingstone.com/t/anthony-scaramucci/",
-          "title": "Anthony Scaramucci - Rolling Stone Australia"
-        },
-        {
-          "url": "https://login.providencejournal.com/NPRJ-GUP/authenticate",
-          "title": "Unsupported EU page"
-        },
-        {
-          "url": "https://vg.no/sport",
-          "title": "VG Sport - Alt om sport"
-        }
-      ],
-      "count": 8
-    },
-    {
       "name": "learning-resources",
       "bookmarks": [
         {
-          "url": "https://blog.coursera.org/",
+          "url": "https://blog.coursera.org",
           "title": "Coursera Blog | Online learning news for learners, educators, & employers"
         },
         {
-          "url": "https://eventbrite.ie/e/coursera-x-grow-with-google-google-data-analytics-webinar-registration-557036881307",
+          "url": "https://www.eventbrite.ie/e/coursera-x-grow-with-google-google-data-analytics-webinar-registration-557036881307?aff=erelexpmlt",
           "title": "Coursera Learner Series - Google Data Analytics Webinar Registration, Thu 23 Mar 2023 at 10:00 | Eventbrite"
         },
         {
-          "url": "https://learning.google/",
+          "url": "https://learning.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav",
           "title": "Google Learning - Digital Learning Tools & Solutions"
         },
         {
-          "url": "https://yourprimer.com/",
+          "url": "https://www.yourprimer.com/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F",
           "title": "Italia in Digitale - Formazione Online Aziende e Professionisti"
         },
         {
@@ -73,19 +35,87 @@
       "count": 7
     },
     {
-      "name": "business-careers",
+      "name": "news-entertainment",
       "bookmarks": [
         {
-          "url": "https://cardconnect.com/company/copilot",
-          "title": "Merchant Portfolio Management System | CardConnect"
+          "url": "https://au.rollingstone.com/t/anthony-scaramucci/",
+          "title": "Anthony Scaramucci - Rolling Stone Australia"
         },
         {
-          "url": "https://diyappreview.com/",
+          "url": "https://pittsburgh.cbslocal.com/2020/01/19/mac-miller-birthday-celebration-pittsburgh/",
+          "title": "Fans Gather In Pittsburgh To Celebrate And Remember Mac Miller On His 28th Birthday - CBS Pittsburgh"
+        },
+        {
+          "url": "https://www.complex.com/music/jay-z-beyonce-michael-rubin-july-4th-party-performances-drake-lil-baby-travis-scott",
+          "title": "Jay-Z, Beyoncé, and More Attend Michael Rubin's July 4th ..."
+        },
+        {
+          "url": "https://www.mlb.com/live-stream-games/subscribe?mlbkw=ds-g-p30039016412&gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXEnn26WiD6DtX4X9Fnb5p0tUAv-VnDgcDXZgBbQHkPpK1hgnq9xdoaAiGcEALw_wcB&gclsrc=aw.ds",
+          "title": "MLB.TV Out-Of-Market Packages | Buy MLB.TV | MLB.com"
+        },
+        {
+          "url": "https://blog.youtube/",
+          "title": "Official YouTube Blog for Latest YouTube News & Insights"
+        },
+        {
+          "url": "https://login.providencejournal.com/NPRJ-GUP/authenticate/?success-url=https%3A%2F%2Fwww.providencejournal.com%2Fstory%2Fnews%2Flocal%2F2022%2F07%2F26%2Frecording-system-east-providence-city-hall-raises-flags-aclu%2F10143873002%2F&cancel-url=https%3A%2F%2Fwww.providencejournal.com%2Fstory%2Fnews%2Flocal%2F2022%2F07%2F26%2Frecording-system-east-providence-city-hall-raises-flags-aclu%2F10143873002%2F",
+          "title": "Unsupported EU page"
+        },
+        {
+          "url": "https://www.vg.no/sport",
+          "title": "VG Sport - Alt om sport"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "reference-legal-tech",
+      "bookmarks": [
+        {
+          "url": "https://forum.openoffice.org/it/forum/ucp.php?mode=delete_cookies&sid=c7ebb141d68569166048e415e842d0f2",
+          "title": "Apache OpenOffice: forum della comunità - Pannello di Controllo Utente - Apache OpenOffice: forum della comunità"
+        },
+        {
+          "url": "https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343",
+          "title": "Apple Inc. - BBB National Programs Global Privacy Seals"
+        },
+        {
+          "url": "https://www.vero.fi/henkiloasiakkaat/",
+          "title": "Henkilöasiakkaat - vero.fi"
+        },
+        {
+          "url": "https://celebrityvoicechanger.com/privacy",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "https://lamborghini.oemdtc.com/category/recalls",
+          "title": "Recalls | Lamborghini - OEMDTC"
+        },
+        {
+          "url": "http://www.jamsadr.com/rules-streamlined-arbitration/",
+          "title": "Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services"
+        },
+        {
+          "url": "https://wiki.openstreetmap.org/wiki/Web_Mercator",
+          "title": "Web Mercator - OpenStreetMap Wiki"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "business-career",
+      "bookmarks": [
+        {
+          "url": "http://www.diyappreview.com",
           "title": "Importance of Gold IRA Companies, THCa, Delta 9, Peptides, and Mushrooms - Diya Preview"
         },
         {
-          "url": "https://community.downtown.org/communities/community-home/librarydocuments",
+          "url": "https://community.downtown.org/communities/community-home/librarydocuments?LibraryKey=3584fc24-0efe-4557-a4cc-0edaf6910e4d",
           "title": "International Downtown Association"
+        },
+        {
+          "url": "https://cardconnect.com/company/copilot",
+          "title": "Merchant Portfolio Management System | CardConnect"
         },
         {
           "url": "https://goldentriangledc.com/return-to-office/",
@@ -103,44 +133,10 @@
       "count": 6
     },
     {
-      "name": "reference-legal-tech",
-      "bookmarks": [
-        {
-          "url": "https://forum.openoffice.org/it/forum/ucp.php",
-          "title": "Apache OpenOffice: forum della comunità - Pannello di Controllo Utente - Apache OpenOffice: forum della comunità"
-        },
-        {
-          "url": "https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343",
-          "title": "Apple Inc. - BBB National Programs Global Privacy Seals"
-        },
-        {
-          "url": "https://vero.fi/henkiloasiakkaat/",
-          "title": "Henkilöasiakkaat - vero.fi"
-        },
-        {
-          "url": "https://celebrityvoicechanger.com/privacy",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "https://lamborghini.oemdtc.com/category/recalls",
-          "title": "Recalls | Lamborghini - OEMDTC"
-        },
-        {
-          "url": "https://jamsadr.com/rules-streamlined-arbitration/",
-          "title": "Streamlined Arbitration Rules & Procedures | JAMS Mediation, Arbitration, ADR Services"
-        },
-        {
-          "url": "https://wiki.openstreetmap.org/wiki/Web_Mercator",
-          "title": "Web Mercator - OpenStreetMap Wiki"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "tools-utilities",
       "bookmarks": [
         {
-          "url": "https://ebookcompiler.com/",
+          "url": "http://www.ebookcompiler.com/",
           "title": "eBook Compiler Software: create your own eBooks"
         },
         {
@@ -148,20 +144,20 @@
           "title": "Find the nearest Best Buy store location near you | Best Buy Canada"
         },
         {
-          "url": "https://arbeitsagentur.de/jobsuche",
+          "url": "https://www.arbeitsagentur.de/jobsuche",
           "title": "Jobsuche der BA"
         },
         {
-          "url": "https://dovolenka.sme.sk/i/turecko/plaze",
-          "title": "🏖️ Najkrajšie pláže v Turecku | Dovolenka.SME.sk"
-        },
-        {
-          "url": "https://pdfmerge.w69b.com/",
+          "url": "http://pdfmerge.w69b.com/",
           "title": "PDF Mergy - WebApp to merge PDF files"
         },
         {
           "url": "https://sites.research.google/relate/",
           "title": "Project Relate: An App for Non-Standard Speech - Google Research"
+        },
+        {
+          "url": "https://dovolenka.sme.sk/i/turecko/plaze?typ=pauschal&trt=p&epc=2&ka1=&ka2=&ka3=&vnd=26.10.2021&bsd=11.01.2022&lmn=7&lmx=15&opi%5B0%5D=ALL-SK&opi%5B1%5D=ALL-AT&stc=3&zac=&vpc=AI&sub=all&qst=pmn&qdr=up&price_to=9999&trip_length=&length=&journej_attributes=&max_number_of_stops=&aph=ALL-DEF&opx%5B0%5D=SATU&opx%5B1%5D=BU&opx%5B2%5D=OGE&opx%5B3%5D=TOC&opx%5B4%5D=XOGE&opx%5B5%5D=XBU&traffic=&cha1=&cha2=&cha3=&form_sended=1&lmn_text=7&lmx_text=15",
+          "title": "🏖️ Najkrajšie pláže v Turecku | Dovolenka.SME.sk"
         }
       ],
       "count": 6
@@ -170,7 +166,11 @@
       "name": "culture-humanities",
       "bookmarks": [
         {
-          "url": "https://tate.org.uk/art/art-terms/c/cubism",
+          "url": "https://www.rijksmuseum.nl/en/rijksstudio",
+          "title": "Collection - Rijksmuseum"
+        },
+        {
+          "url": "https://www.tate.org.uk/art/art-terms/c/cubism",
           "title": "Cubism | Tate"
         },
         {
@@ -178,47 +178,21 @@
           "title": "David Lindsay-Abaire, Jeanine Tesori, Kimberly Akimbo Original Broadway Cast - Kimberly Akimbo (Original Broadway Cast Recording)"
         },
         {
-          "url": "https://goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
+          "url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
           "title": "Loading..."
         },
         {
-          "url": "https://rijksmuseum.nl/en/rijksstudio",
-          "title": "Collection - Rijksmuseum"
-        },
-        {
-          "url": "https://sacred-texts.com/eso/index.htm",
+          "url": "https://www.sacred-texts.com/eso/index.htm",
           "title": "Western Esoteric Texts | Sacred Texts Archive"
         }
       ],
       "count": 5
     },
     {
-      "name": "online-communities-media",
+      "name": "science-health-research",
       "bookmarks": [
         {
-          "url": "https://fishka3-blog.tumblr.com/",
-          "title": "@fishka3-blog on Tumblr"
-        },
-        {
-          "url": "https://pakomusic.it/tag/gabryel/",
-          "title": "gabryel - PaKo Music Magazine"
-        },
-        {
-          "url": "https://community.clickteam.com/activity.php",
-          "title": "Login - Clickteam Community Hub"
-        },
-        {
-          "url": "https://spinchat.com/",
-          "title": "Spinchat.com - Free chat, Meet friends, Play games online"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-research-health",
-      "bookmarks": [
-        {
-          "url": "https://asthmastory.com/",
+          "url": "http://www.asthmastory.com/",
           "title": "Asthma cure research relating asthma to bacteria Chlamydia pneumoniae and mycoplasma after experiencing a near fatal asthma attack- Main page"
         },
         {
@@ -226,15 +200,15 @@
           "title": "Environmental Markets Lab (emLab) | emLab"
         },
         {
-          "url": "https://visibleearth.nasa.gov/images/89678/fires-threaten-christchurch",
+          "url": "https://www.visibleearth.nasa.gov/images/89678/fires-threaten-christchurch",
           "title": "Fires Threaten Christchurch"
         },
         {
-          "url": "https://noaa.gov/",
+          "url": "https://www.noaa.gov",
           "title": "National Oceanic and Atmospheric Administration"
         },
         {
-          "url": "https://pewresearch.org/",
+          "url": "http://www.pewresearch.org/",
           "title": "Pew Research Center | Numbers, Facts and Trends Shaping Your World"
         }
       ],
@@ -248,55 +222,33 @@
           "title": "Award-Winning Luxury Skincare Products | Augustinus Bader EU"
         },
         {
-          "url": "https://boxycharm.com/",
-          "title": "BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription"
-        },
-        {
-          "url": "https://theboxwalla.com/product/beauty-box/",
+          "url": "https://www.theboxwalla.com/product/beauty-box/",
           "title": "Beauty Box Subscription - Luxury Clean Beauty Products"
         },
         {
-          "url": "https://onyxstore.it/product/21596645/ciglia-curva-c-spessore-0-15-misura-14-mm-",
+          "url": "https://www.boxycharm.com/",
+          "title": "BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription"
+        },
+        {
+          "url": "https://www.onyxstore.it/product/21596645/ciglia-curva-c-spessore-0-15-misura-14-mm-",
           "title": "Ciglia - Curva C / Spessore 0,15 - Misura 14 mm. | OnyxStore.it"
         },
         {
-          "url": "https://nainasingla.com/",
+          "url": "https://www.nainasingla.com/",
           "title": "Naina Singla - Fashion Stylist and Style Expert. Virtual Capsule Styling for Women"
         }
       ],
       "count": 5
     },
     {
-      "name": "non-profit-orgs",
+      "name": "environment-sustainability",
       "bookmarks": [
         {
-          "url": "https://emmanorton.org/",
-          "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
-        },
-        {
-          "url": "https://healthaction.org/",
-          "title": "Health Action Alliance"
-        },
-        {
-          "url": "https://plannedgiving.feedingamerica.org/",
-          "title": "Planned Giving | Feeding America"
-        },
-        {
-          "url": "https://projecteagle.org/",
-          "title": "Project Eagle"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "sustainability-environment",
-      "bookmarks": [
-        {
-          "url": "https://call2recycle.org/",
+          "url": "http://www.call2recycle.org/",
           "title": "Call2Recycle.org | Leading the Charge for Battery Recycling"
         },
         {
-          "url": "https://waittinstitute.org/",
+          "url": "http://www.waittinstitute.org",
           "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
         },
         {
@@ -311,14 +263,58 @@
       "count": 4
     },
     {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "http://www.emmanorton.org/",
+          "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
+        },
+        {
+          "url": "https://www.healthaction.org/",
+          "title": "Health Action Alliance"
+        },
+        {
+          "url": "https://plannedgiving.feedingamerica.org/",
+          "title": "Planned Giving | Feeding America"
+        },
+        {
+          "url": "http://projecteagle.org/",
+          "title": "Project Eagle"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "online-communities-media",
+      "bookmarks": [
+        {
+          "url": "https://fishka3-blog.tumblr.com/",
+          "title": "@fishka3-blog on Tumblr"
+        },
+        {
+          "url": "https://www.pakomusic.it/tag/gabryel/",
+          "title": "gabryel - PaKo Music Magazine"
+        },
+        {
+          "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
+          "title": "Login - Clickteam Community Hub"
+        },
+        {
+          "url": "https://www.spinchat.com/",
+          "title": "Spinchat.com - Free chat, Meet friends, Play games online"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "food-drink",
       "bookmarks": [
         {
-          "url": "https://moldrek.com/",
+          "url": "http://www.moldrek.com/",
           "title": "Ricette di cucina italiane e regionali tutte gratis"
         },
         {
-          "url": "https://arcoirisnacozinha.com/2016/tortilha-de-batata-cenoura-e-cebola/",
+          "url": "https://www.arcoirisnacozinha.com/2016/tortilha-de-batata-cenoura-e-cebola/",
           "title": "Tortilha de Batata, Cenoura e Cebola - Arco-íris na Cozinha"
         },
         {
@@ -332,7 +328,7 @@
       "name": "science-data-portals",
       "bookmarks": [
         {
-          "url": "https://uis.unesco.org/",
+          "url": "http://uis.unesco.org/",
           "title": "Data for the Sustainable Development Goals | Institute for Statistics (UIS)"
         },
         {
@@ -340,13 +336,13 @@
           "title": "EMPRES-i +"
         },
         {
-          "url": "https://odis.org/",
+          "url": "https://odis.org",
           "title": "Ocean Data Information System"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 67,
+  "total_bookmarks": 66,
   "num_folders": 13
 }

@@ -1,18 +1,14 @@
 {
   "folders": [
     {
-      "name": "business-and-finance",
+      "name": "business-finance",
       "bookmarks": [
         {
           "url": "https://newsroom.accenture.com/news/accenture-reports-very-strong-fourth-quarter-and-full-year-fiscal-2022-results.htm",
           "title": "Accenture Reports Very Strong Fourth-Quarter and Full-Year Fiscal 2022 Results"
         },
         {
-          "url": "https://www.alkami.com/",
-          "title": "The Platform built for Anticipatory Banking"
-        },
-        {
-          "url": "https://adcolor.org/conference?trk=organization_guest_main-feed-card_reshare-text",
+          "url": "http://adcolor.org/conference?trk=organization_guest_main-feed-card_reshare-text",
           "title": "Conference | ADCOLOR"
         },
         {
@@ -20,7 +16,7 @@
           "title": "Ecuador es el segundo productor de atún en el mundo, después de Tailandia - El Comercio"
         },
         {
-          "url": "https://www.sella.it/",
+          "url": "http://www.sella.it/",
           "title": "Home | Banca Sella"
         },
         {
@@ -28,7 +24,11 @@
           "title": "How Resale, Sustainability and its 3,300 Stores Support Goodwill's Key Mission - Jobs - Retail TouchPoints"
         },
         {
-          "url": "https://blog.linkedin.com/",
+          "url": "https://www.vandamme.eu/fr/actualites",
+          "title": "Nouvelles | Van Damme"
+        },
+        {
+          "url": "http://blog.linkedin.com/",
           "title": "Official LinkedIn Blog"
         },
         {
@@ -40,37 +40,41 @@
           "title": "Renewable power's growth is being turbocharged as countries seek to strengthen energy security - News - IEA"
         },
         {
-          "url": "https://www.brighttalk.com/webcast/18400/455268?utm_source=brighttalk-portal&utm_medium=web&utm_campaign=channel-feed",
-          "title": "The Sustainability-Linked Loan (SLL) market: opportunities in North America"
+          "url": "https://www.alkami.com/",
+          "title": "The Platform built for Anticipatory Banking"
         },
         {
-          "url": "https://www.vandamme.eu/fr/actualites",
-          "title": "Nouvelles | Van Damme"
+          "url": "https://www.brighttalk.com/webcast/18400/455268?utm_source=brighttalk-portal&utm_medium=web&utm_campaign=channel-feed",
+          "title": "The Sustainability-Linked Loan (SLL) market: opportunities in North America"
         }
       ],
       "count": 11
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://belize.oceana.org/",
-          "title": "Home - Oceana Belize"
-        },
-        {
-          "url": "https://www.call2recycle.org/",
-          "title": "Call2Recycle.org | Leading the Charge for Battery Recycling"
-        },
         {
           "url": "https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KELL020",
           "title": "Anna-Maria and Stephen Kellen Foundation Inc C/o Joel E Sammet & Co LLP | Foundation Directory | Candid"
+        },
+        {
+          "url": "http://www.call2recycle.org/",
+          "title": "Call2Recycle.org | Leading the Charge for Battery Recycling"
         },
         {
           "url": "https://www.gamvp.org/",
           "title": "Georgia Muslim Voter Project"
         },
         {
-          "url": "https://missingkids.org",
+          "url": "https://belize.oceana.org/",
+          "title": "Home - Oceana Belize"
+        },
+        {
+          "url": "https://worldheritageoutlook.iucn.org/",
+          "title": "Home page | World Heritage Outlook"
+        },
+        {
+          "url": "http://missingkids.org",
           "title": "National Center for Missing & Exploited Children"
         },
         {
@@ -84,16 +88,12 @@
         {
           "url": "https://springboardforthearts.org/",
           "title": "Springboard For The Arts"
-        },
-        {
-          "url": "https://worldheritageoutlook.iucn.org/",
-          "title": "Home page | World Heritage Outlook"
         }
       ],
       "count": 9
     },
     {
-      "name": "shopping-and-ecommerce",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://www.alibaba.com/",
@@ -138,16 +138,16 @@
       "name": "academic-research",
       "bookmarks": [
         {
-          "url": "https://frontiersin.org/articles/10.3389/fmars.2020.00165/full",
+          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2020.00165/full",
           "title": "Frontiers | Global Patterns in Marine Sediment Carbon Stocks"
-        },
-        {
-          "url": "https://www.springer.com/biomed/journal/418",
-          "title": "Home | Histochemistry and Cell Biology"
         },
         {
           "url": "https://www.usna.edu/Users/oceano/pguth/md_help/html/navfix.htm",
           "title": "Home :: User Sites :: USNA"
+        },
+        {
+          "url": "http://www.springer.com/biomed/journal/418",
+          "title": "Home | Histochemistry and Cell Biology"
         },
         {
           "url": "https://www.sfemt.fr/lecturer-in-buddhist-studies-at-soas%E2%80%8F/",
@@ -169,7 +169,7 @@
       "count": 7
     },
     {
-      "name": "government-and-civic",
+      "name": "government-civic",
       "bookmarks": [
         {
           "url": "https://www.banquemondiale.org/fr/country/algeria",
@@ -184,11 +184,11 @@
           "title": "Help and advice for EU nationals and their family - Your Europe"
         },
         {
-          "url": "https://webtv.un.org/",
+          "url": "http://webtv.un.org/",
           "title": "Home | UN Web TV"
         },
         {
-          "url": "https://www.istruzione.it/",
+          "url": "http://www.istruzione.it/",
           "title": "Ministero dell'Istruzione e del Merito - MIM"
         },
         {
@@ -203,8 +203,16 @@
       "count": 7
     },
     {
-      "name": "guides-and-resources",
+      "name": "guides-resources",
       "bookmarks": [
+        {
+          "url": "http://wiki.creativecommons.org/FAQ",
+          "title": "Frequently Asked Questions - Creative Commons"
+        },
+        {
+          "url": "https://www.velvetyne.fr/",
+          "title": "Home - Velvetyne"
+        },
         {
           "url": "https://www.guitarfam.com/fingerstyle",
           "title": "How to Play Fingerstyle Guitar | Guitar Fam"
@@ -214,30 +222,22 @@
           "title": "Learn Mobile Design | A curated list of mobile design resources"
         },
         {
-          "url": "https://mpa-guide.protectedplanet.net",
-          "title": "The MPA Guide"
-        },
-        {
           "url": "https://opensource.guide",
           "title": "Open Source Guides | Learn how to launch and grow your project."
         },
         {
-          "url": "https://www.velvetyne.fr/",
-          "title": "Home - Velvetyne"
+          "url": "https://mpa-guide.protectedplanet.net",
+          "title": "The MPA Guide"
         },
         {
           "url": "https://maze.co/guides/usability-testing/",
           "title": "What is Usability Testing? How to Evaluate the User Experience | Maze"
-        },
-        {
-          "url": "https://wiki.creativecommons.org/FAQ",
-          "title": "Frequently Asked Questions - Creative Commons"
         }
       ],
       "count": 7
     },
     {
-      "name": "software-and-apps",
+      "name": "software-apps",
       "bookmarks": [
         {
           "url": "https://www.acronis.com/en-us/",
@@ -248,11 +248,11 @@
           "title": "Free Online Meetings & Video Calls | Microsoft Teams"
         },
         {
-          "url": "https://www.nplayer.tv",
+          "url": "http://www.nplayer.tv",
           "title": "nPlayer - The best mobile player in the world"
         },
         {
-          "url": "https://www.putty3d.com",
+          "url": "http://www.putty3d.com",
           "title": "Putty 3D"
         },
         {
@@ -301,12 +301,8 @@
       "count": 6
     },
     {
-      "name": "education-and-learning",
+      "name": "education-learning",
       "bookmarks": [
-        {
-          "url": "https://want-her-midnights.tumblr.com/post/150210507340",
-          "title": "it's lib: Another year of record growth for AP Computer..."
-        },
         {
           "url": "https://brilliant.org/courses/linear-algebra/",
           "title": "Courses | Brilliant"
@@ -320,6 +316,10 @@
           "title": "Home - Learning Edge"
         },
         {
+          "url": "https://want-her-midnights.tumblr.com/post/150210507340",
+          "title": "it's lib: Another year of record growth for AP Computer..."
+        },
+        {
           "url": "https://learn.microsoft.com/",
           "title": "Microsoft Learn: Build skills that open doors in your career"
         },
@@ -331,15 +331,41 @@
       "count": 6
     },
     {
-      "name": "blogs-and-articles",
+      "name": "misc-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://dime.dot.ca.gov/index.php?r=sample/printreport&sample_id=16929",
+          "title": "DIME - Print Sample Record"
+        },
+        {
+          "url": "https://www.pacificcremationservices.com/obituaries/Thomas--Walter--Smith?obId=25875204",
+          "title": "Most Recent Obituaries | Pacific Cremation Services"
+        },
+        {
+          "url": "https://wikitech-static.wikimedia.org/w/index.php?title=Special:WhatLinksHere/Server_Admin_Log/Archive_30&hidelinks=1",
+          "title": "Pages that link to \"Server Admin Log/Archive 30\" - Wikitech-static"
+        },
+        {
+          "url": "http://survey.walmart.com/",
+          "title": "Survey"
+        },
+        {
+          "url": "https://tree-tc.tributestore.com/?oId=25875204&tag=&tn=FreeTreeTestFC&otv=&source=tco_description&mtph=1",
+          "title": "Tribute Store | Memorial Tree"
+        },
+        {
+          "url": "http://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/Transcript223.docx?version=e69dc7f8-a0b8-7d09-ff82-f821891ad767",
+          "title": "void"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "articles-blogs",
       "bookmarks": [
         {
           "url": "https://cristianchinabirta.ro/tag/masina/",
           "title": "Despre masina - Cristian China-Birta"
-        },
-        {
-          "url": "https://elamefora.wordpress.com/2021/07/",
-          "title": "Ιούλιος | 2021 | Blog: \"elamefora\""
         },
         {
           "url": "https://level.medium.com/",
@@ -352,6 +378,10 @@
         {
           "url": "https://sagansense.tumblr.com/",
           "title": "SAGAN SENSE"
+        },
+        {
+          "url": "https://elamefora.wordpress.com/2021/07/",
+          "title": "Ιούλιος | 2021 | Blog: \"elamefora\""
         }
       ],
       "count": 5
@@ -383,7 +413,7 @@
       "count": 5
     },
     {
-      "name": "health-and-wellness",
+      "name": "health-wellness",
       "bookmarks": [
         {
           "url": "https://blackdoctor.org/author/30dayhairdetox/",
@@ -409,14 +439,14 @@
       "count": 5
     },
     {
-      "name": "hobbies-and-travel",
+      "name": "hobbies-travel",
       "bookmarks": [
         {
           "url": "https://www.completesports.com/",
           "title": "Complete Sports Nigeria Latest Sports News And Updates"
         },
         {
-          "url": "https://www.odafishing.com/?p=34&a=view&r=62",
+          "url": "http://www.odafishing.com/?p=34&a=view&r=62",
           "title": "DM04-2 - Minnow - ODA-ODA Fishing tackle Co., LTD,"
         },
         {
@@ -433,106 +463,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://dime.dot.ca.gov/index.php?r=sample/printreport&sample_id=16929",
-          "title": "DIME - Print Sample Record"
-        },
-        {
-          "url": "https://www.pacificcremationservices.com/obituaries/Thomas--Walter--Smith?obId=25875204",
-          "title": "Most Recent Obituaries | Pacific Cremation Services"
-        },
-        {
-          "url": "https://wikitech-static.wikimedia.org/w/index.php?title=Special:WhatLinksHere/Server_Admin_Log/Archive_30&hidelinks=1",
-          "title": "Pages that link to \"Server Admin Log/Archive 30\" - Wikitech-static"
-        },
-        {
-          "url": "https://survey.walmart.com/",
-          "title": "Survey"
-        },
-        {
-          "url": "https://tree-tc.tributestore.com/?oId=25875204&tag=&tn=FreeTreeTestFC&otv=&source=tco_description&mtph=1",
-          "title": "Tribute Store | Memorial Tree"
-        },
-        {
-          "url": "https://view.officeapps.live.com/op/view.aspx?src=https://c.s-microsoft.com/en-us/CMSFiles/Transcript223.docx?version=e69dc7f8-a0b8-7d09-ff82-f821891ad767",
-          "title": "void"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "programming-docs-and-reference",
-      "bookmarks": [
-        {
-          "url": "https://www.cisco.com/c/en/us/td/docs/net_mgmt/wae/7-0-1/design/user/guide/WAE_Design_701_User_Guide/wd_701_ug_vpn.html",
-          "title": "Cisco WAN Automation Engine (WAE) - Cisco"
-        },
-        {
-          "url": "https://www.textuality.com/xml/",
-          "title": "Extensible Markup Language (XML)"
-        },
-        {
-          "url": "https://www.quirksmode.org/js/index.html?dhtmloptions.html",
-          "title": "QuirksMode - JavaScript"
-        },
-        {
-          "url": "https://www.tensorflow.org/api_docs/python/tf/keras/layers/Discretization?hl=pt-BR",
-          "title": "tf.keras.layers.Discretization | TensorFlow v2.16.1"
-        },
-        {
-          "url": "https://docs.djangoproject.com/en/stable/topics/forms/",
-          "title": "Working with forms | Django documentation | Django"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "government-data",
-      "bookmarks": [
-        {
-          "url": "https://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
-          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
-        },
-        {
-          "url": "https://dati.ustat.miur.it/organization/ace58834-5a0b-40f6-9b0e-ed6c34ea8de0?tags=Stranieri&tags=AFAM&tags=Corsi&tags=Accademie+di+Belle+Arti&tags=Diplomi+accademici&tags=Diplomati&tags=Et%C3%A0&res_format=XLSX&_tags_limit=0",
-          "title": "MUR - Organizzazioni - Open Data dell'istruzione superiore"
-        },
-        {
-          "url": "https://www.data.gouv.fr/fr/datasets/quartiers-de-marseille",
-          "title": "Quartiers de Marseille"
-        },
-        {
-          "url": "https://deepsea9.taipei/index.php/2020/06/03/eyeoftheseas/",
-          "title": "台灣的海洋之眼 - Advanced Computation Laboratory"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "legal-and-privacy",
-      "bookmarks": [
-        {
-          "url": "https://www.crazyegg.com/privacy",
-          "title": "Crazy Egg | Privacy Policy"
-        },
-        {
-          "url": "https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts",
-          "title": "Global Privacy Statement | Intuit"
-        },
-        {
-          "url": "https://www.outerspacious.com/privacy-policy",
-          "title": "Outerspacious Software - Privacy Policy"
-        },
-        {
-          "url": "https://www.jiahometechs.com/support/",
-          "title": "void"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "local-services",
@@ -561,7 +491,77 @@
       "count": 5
     },
     {
-      "name": "news-science-and-environment",
+      "name": "programming-docs-reference",
+      "bookmarks": [
+        {
+          "url": "https://www.cisco.com/c/en/us/td/docs/net_mgmt/wae/7-0-1/design/user/guide/WAE_Design_701_User_Guide/wd_701_ug_vpn.html",
+          "title": "Cisco WAN Automation Engine (WAE) - Cisco"
+        },
+        {
+          "url": "http://www.textuality.com/xml/",
+          "title": "Extensible Markup Language (XML)"
+        },
+        {
+          "url": "http://www.quirksmode.org/js/index.html?dhtmloptions.html",
+          "title": "QuirksMode - JavaScript"
+        },
+        {
+          "url": "https://www.tensorflow.org/api_docs/python/tf/keras/layers/Discretization?hl=pt-BR",
+          "title": "tf.keras.layers.Discretization | TensorFlow v2.16.1"
+        },
+        {
+          "url": "https://docs.djangoproject.com/en/stable/topics/forms/",
+          "title": "Working with forms | Django documentation | Django"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "government-data",
+      "bookmarks": [
+        {
+          "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
+          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
+        },
+        {
+          "url": "http://dati.ustat.miur.it/organization/ace58834-5a0b-40f6-9b0e-ed6c34ea8de0?tags=Stranieri&tags=AFAM&tags=Corsi&tags=Accademie+di+Belle+Arti&tags=Diplomi+accademici&tags=Diplomati&tags=Et%C3%A0&res_format=XLSX&_tags_limit=0",
+          "title": "MUR - Organizzazioni - Open Data dell'istruzione superiore"
+        },
+        {
+          "url": "https://www.data.gouv.fr/fr/datasets/quartiers-de-marseille",
+          "title": "Quartiers de Marseille"
+        },
+        {
+          "url": "http://www.deepsea9.taipei/index.php/2020/06/03/eyeoftheseas/",
+          "title": "台灣的海洋之眼 - Advanced Computation Laboratory"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "legal-privacy",
+      "bookmarks": [
+        {
+          "url": "https://www.crazyegg.com/privacy",
+          "title": "Crazy Egg | Privacy Policy"
+        },
+        {
+          "url": "https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts",
+          "title": "Global Privacy Statement | Intuit"
+        },
+        {
+          "url": "http://www.outerspacious.com/privacy-policy",
+          "title": "Outerspacious Software - Privacy Policy"
+        },
+        {
+          "url": "https://www.jiahometechs.com/support/",
+          "title": "void"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-science-environment",
       "bookmarks": [
         {
           "url": "https://blog.nationalgeographic.org/2021/11/02/cop26-colombia-costa-rica-ecuador-and-panama-announce-new-protections-for-ocean-highway/",
@@ -590,16 +590,16 @@
           "title": "Covid-19 : tension sur la production de cercueils • TNTV News - Tahiti Nui Télévision"
         },
         {
-          "url": "https://www.thenewsolutions.org/nevzhe-prypeklo/",
-          "title": "Невже припекло? | Центр нових рішень"
-        },
-        {
           "url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-24-22",
           "title": "October 24, 2022 Russia-Ukraine news | CNN"
         },
         {
           "url": "https://news.yahoo.com/russian-president-putin-announces-further-181316751.html",
           "title": "Russian President Putin announces further invasion of Ukraine"
+        },
+        {
+          "url": "https://www.thenewsolutions.org/nevzhe-prypeklo/",
+          "title": "Невже припекло? | Центр нових рішень"
         }
       ],
       "count": 4
@@ -645,7 +645,7 @@
       "count": 3
     },
     {
-      "name": "forums-and-communities",
+      "name": "community-forums",
       "bookmarks": [
         {
           "url": "https://www.dendroboard.com/",
@@ -681,10 +681,10 @@
       "count": 3
     },
     {
-      "name": "reference-and-tools",
+      "name": "reference-tools",
       "bookmarks": [
         {
-          "url": "https://cekfakta.com/?trk=organization_guest_main-feed-card-text",
+          "url": "http://CekFakta.com?trk=organization_guest_main-feed-card-text",
           "title": "CekFakta"
         },
         {
@@ -699,6 +699,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 138,
-  "num_folders": 24
+  "total_bookmarks": 137,
+  "num_folders": 25
 }

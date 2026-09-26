@@ -1,15 +1,11 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://adycenter.org/",
-          "title": "Home | Ain Dah Yung Center"
-        },
-        {
-          "url": "https://bridgecollaborativeglobal.org/solutions/cross-sector-stories/bridge-spark-fund-2020/",
-          "title": "The Bridge Collaborative | The Nicholas Institute for Energy, Environment & Sustainability"
+          "url": "https://servantokc.org/the-servant-foundation",
+          "title": "Church of the Servant - The Servant Foundation"
         },
         {
           "url": "https://cebuyers.org/",
@@ -24,16 +20,24 @@
           "title": "DonorsChoose: Check Cookies"
         },
         {
-          "url": "https://fortunesociety.org/",
-          "title": "The Fortune Society | Building People, Not Prisons"
-        },
-        {
           "url": "https://getset-tc.org/",
           "title": "GetSet Transylvania"
         },
         {
+          "url": "https://www.ywcahouston.org/",
+          "title": "Home"
+        },
+        {
           "url": "https://www.gwbcc.org/",
           "title": "Home - Greater Washington DC Black Chamber of Commerce"
+        },
+        {
+          "url": "https://www.seattlefoundation.org/",
+          "title": "Home - Seattle Foundation"
+        },
+        {
+          "url": "https://adycenter.org/",
+          "title": "Home | Ain Dah Yung Center"
         },
         {
           "url": "https://www.operationgratitude.com/",
@@ -48,16 +52,12 @@
           "title": "Meet The Team - Blue Latitudes"
         },
         {
-          "url": "https://www.seattlefoundation.org/",
-          "title": "Home - Seattle Foundation"
+          "url": "https://bridgecollaborativeglobal.org/solutions/cross-sector-stories/bridge-spark-fund-2020/",
+          "title": "The Bridge Collaborative | The Nicholas Institute for Energy, Environment & Sustainability"
         },
         {
-          "url": "https://servantokc.org/the-servant-foundation",
-          "title": "Church of the Servant - The Servant Foundation"
-        },
-        {
-          "url": "https://www.ywcahouston.org/",
-          "title": "Home"
+          "url": "https://fortunesociety.org/",
+          "title": "The Fortune Society | Building People, Not Prisons"
         }
       ],
       "count": 14
@@ -66,11 +66,15 @@
       "name": "business-services",
       "bookmarks": [
         {
+          "url": "https://www.jumpto365.com/tools/power-bi",
+          "title": "About \"Power BI\""
+        },
+        {
           "url": "https://www.adpri.org/",
           "title": "ADP Research | Data-Driven Business Insights"
         },
         {
-          "url": "https://argonblue.com/",
+          "url": "http://www.argonblue.com/",
           "title": "Argon Blue -- Your leading source for premier colocation, web hosting and Internet services!"
         },
         {
@@ -78,32 +82,28 @@
           "title": "Bachman Hebble Funeral Service | Battle Creek, MI"
         },
         {
-          "url": "https://bavc.org/programs/productions/",
-          "title": "Production Services - BAVC Media"
-        },
-        {
-          "url": "https://www.bmelaw.com/lawyers-Jason_Carter.html",
-          "title": "Jason J. Carter - Bondurant"
+          "url": "https://www.sendtric.com/",
+          "title": "Email Countdown Timer - Sendtric"
         },
         {
           "url": "https://www.enlightened.com/",
           "title": "Home - Enlightened"
         },
         {
-          "url": "https://www.jumpto365.com/tools/power-bi",
-          "title": "About \"Power BI\""
+          "url": "https://www.bmelaw.com/lawyers-Jason_Carter.html",
+          "title": "Jason J. Carter - Bondurant"
         },
         {
           "url": "https://www.klaviyo.com/",
           "title": "Klaviyo: AI Marketing Platform & B2C CRM | Email, SMS & WhatsApp"
         },
         {
-          "url": "https://onepixeldev.com/contactappsupport",
+          "url": "http://www.onepixeldev.com/contactappsupport",
           "title": "One Pixel Dev - Contact/App Support"
         },
         {
-          "url": "https://www.sendtric.com/",
-          "title": "Email Countdown Timer - Sendtric"
+          "url": "https://bavc.org/programs/productions/",
+          "title": "Production Services - BAVC Media"
         }
       ],
       "count": 10
@@ -112,16 +112,16 @@
       "name": "news-articles",
       "bookmarks": [
         {
+          "url": "https://www.businessinsider.com/1-in-4-us-workers-plan-new-job-after-coronavirus-pandemic-survey-2021-4",
+          "title": "26% US Workers Plan New Job Hunt After COVID-19 Pandemic: Survey - Business Insider"
+        },
+        {
           "url": "https://chicagocrusader.com/advocacy-and-industry-organizations-urge-treasury-secretary-mnuchin-to-set-aside-10-billion-to-provide-relief-for%E2%80%AFbusiness-owners%E2%80%AFof%E2%80%AF-color%E2%80%AF/",
           "title": "Advocacy and Industry Organizations Urge Treasury Secretary Mnuchin to Set Aside $10 Billion to Provide Relief for Business Owners of Color"
         },
         {
           "url": "https://z-news.link/anniversary-of-the-olympics-80-what-were-the-most-pure-moscow-games/",
           "title": "Anniversary of the Olympics-80: what were the most \"pure\" Moscow Games"
-        },
-        {
-          "url": "https://www.businessinsider.com/1-in-4-us-workers-plan-new-job-after-coronavirus-pandemic-survey-2021-4",
-          "title": "26% US Workers Plan New Job Hunt After COVID-19 Pandemic: Survey - Business Insider"
         },
         {
           "url": "https://world.wng.org/",
@@ -144,7 +144,7 @@
           "title": "The Four Sacred Months Favoured In the Islamic Tradition | Samar Yahya | New Age Islam | Islamic News and Views | Moderate Muslims & Islam"
         },
         {
-          "url": "https://weirdwwii.com/2012/03/das-boot.html",
+          "url": "http://www.weirdwwii.com/2012/03/das-boot.html",
           "title": "Weird WWII: \"Das Boot\""
         },
         {
@@ -157,10 +157,6 @@
     {
       "name": "online-resources",
       "bookmarks": [
-        {
-          "url": "https://author-welcome.nature.com/41598",
-          "title": "Submission Welcome Page"
-        },
         {
           "url": "https://wikis.swarthmore.edu/ling073/index.php?title=Wamesa_and_Tongan/Lexical_Selection&diff=prev&oldid=4220",
           "title": "Difference between revisions of \"Wamesa and Tongan/Lexical Selection\" - LING073"
@@ -182,11 +178,15 @@
           "title": "Ocean Watch - Introduction | Resource Watch"
         },
         {
+          "url": "https://author-welcome.nature.com/41598",
+          "title": "Submission Welcome Page"
+        },
+        {
           "url": "https://untools.co/",
           "title": "Tools for better thinking | Untools"
         },
         {
-          "url": "https://hivdoula.work/27-questions",
+          "url": "http://hivdoula.work/27-questions",
           "title": "Twenty-Seven Questions to Consider When Writing About COVID-19 and HIV/AIDS - HIV DOULA work"
         },
         {
@@ -197,8 +197,12 @@
       "count": 9
     },
     {
-      "name": "e-commerce",
+      "name": "ecommerce",
       "bookmarks": [
+        {
+          "url": "https://www.charmcitycakes.com/",
+          "title": "Charm City Cakes | Chef Duff's Baltimore Cake Studio"
+        },
         {
           "url": "https://cgstore.co.nz/figurines/",
           "title": "Figurines - Cerberus Games Wellington (NZ)"
@@ -208,24 +212,20 @@
           "title": "Hosiery - Women's Tights & Sheer Pantyhose | SKIMS"
         },
         {
-          "url": "https://www.autoscout24.nl/aanbod/audi-a1-sportback-1-0-tfsi-design-pro-line-plus-benzine-zwart-1f46d73c-665e-43f9-afc4-1a2588af47e1",
+          "url": "https://www.autoscout24.nl/aanbod/audi-a1-sportback-1-0-tfsi-design-pro-line-plus-benzine-zwart-1f46d73c-665e-43f9-afc4-1a2588af47e1?ipc=opt_listings&ipl=list_page_link",
           "title": "Koop Audi A1 occasions op AutoScout24"
         },
         {
-          "url": "https://aeropostale.com/",
+          "url": "http://www.aeropostale.com/",
           "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
         },
         {
-          "url": "https://emag.hu/mobiltelefonok/c",
+          "url": "https://www.emag.hu/mobiltelefonok/c",
           "title": "Mobiltelefon - eMAG.hu"
         },
         {
           "url": "https://www.ipsy.com/",
           "title": "Personalized Monthly Makeup & Beauty Sample Subscription | IPSY"
-        },
-        {
-          "url": "https://www.charmcitycakes.com/",
-          "title": "Charm City Cakes | Chef Duff's Baltimore Cake Studio"
         },
         {
           "url": "https://shop.yohofate.com/SalePage/Index/7212950",
@@ -235,7 +235,7 @@
       "count": 8
     },
     {
-      "name": "web-platforms-services",
+      "name": "web-services-platforms",
       "bookmarks": [
         {
           "url": "https://plex.tv/contact",
@@ -246,7 +246,7 @@
           "title": "Find the right app | Microsoft AppSource"
         },
         {
-          "url": "https://store.steampowered.com/privacy_agreement/",
+          "url": "http://store.steampowered.com/privacy_agreement/",
           "title": "Privacy Policy Agreement"
         },
         {
@@ -254,11 +254,11 @@
           "title": "Reddit - The heart of the internet"
         },
         {
-          "url": "https://yacreader.com/support",
+          "url": "http://www.yacreader.com/support",
           "title": "Support"
         },
         {
-          "url": "https://www.att.com/orders/checkmyorder",
+          "url": "https://www.att.com/orders/checkmyorder?source=ESsWCfCTA0000000L&wtExtndSource=cfm_AddRes_CheckOrderStatus",
           "title": "Track your Order | AT&T"
         },
         {
@@ -266,7 +266,7 @@
           "title": "Video Conferencing, Web Conferencing, Webinars, Screen Sharing - Zoom"
         },
         {
-          "url": "https://excite.com/",
+          "url": "http://www.excite.com/",
           "title": "www.excite.com"
         }
       ],
@@ -306,11 +306,11 @@
           "title": "1000PS Motorrad Forum - Die stärkste Motorradseite im Internet"
         },
         {
-          "url": "https://funshare.mobi/",
+          "url": "http://www.funshare.mobi/",
           "title": "Mobile Fun Share - Free Mobile Softwares, Nokia Themes, Sony Ericsson Themes, Wallpapers"
         },
         {
-          "url": "https://pevans.co.uk/Reviews/BigCheese.html",
+          "url": "http://www.pevans.co.uk/Reviews/BigCheese.html",
           "title": "Review of The Big Cheese"
         },
         {
@@ -340,7 +340,7 @@
           "title": "IHRB - The Employer Pays Principle"
         },
         {
-          "url": "https://www.fsa.usda.gov/help/policies-and-links",
+          "url": "http://www.fsa.usda.gov/help/policies-and-links",
           "title": "Policies and Links | Farm Service Agency"
         }
       ],
@@ -376,16 +376,16 @@
           "title": "Electronics collection and recycling | Minnesota Pollution Control Agency"
         },
         {
-          "url": "https://erp-recycling.at",
+          "url": "http://www.mmsk.ca/",
+          "title": "Home - SK Recycles"
+        },
+        {
+          "url": "http://www.erp-recycling.at",
           "title": "Home • About European Recycling Platform • ERP Global"
         },
         {
-          "url": "https://landbell.de",
+          "url": "http://www.landbell.de",
           "title": "Rücknahmesysteme & Verpackungslizenz in Deutschland"
-        },
-        {
-          "url": "https://mmsk.ca/",
-          "title": "Home - SK Recycles"
         }
       ],
       "count": 4
@@ -394,16 +394,16 @@
       "name": "travel-local-info",
       "bookmarks": [
         {
+          "url": "https://ussconstitutionmuseum.org/",
+          "title": "Home - USS Constitution Museum"
+        },
+        {
           "url": "https://theworldpursuit.com/",
           "title": "The World Pursuit - Informative Travel Guides"
         },
         {
           "url": "https://www.heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
           "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
-        },
-        {
-          "url": "https://ussconstitutionmuseum.org/",
-          "title": "Home - USS Constitution Museum"
         },
         {
           "url": "https://www.smhi.se/vader/prognoser/ortsprognoser",
@@ -438,11 +438,11 @@
       "name": "general-uncategorized",
       "bookmarks": [
         {
-          "url": "https://mindbodyfocus.net/",
+          "url": "http://mindbodyfocus.net/",
           "title": "Coming Soon"
         },
         {
-          "url": "https://cvent.com/d/bjqgzd",
+          "url": "https://www.cvent.com/d/bjqgzd",
           "title": "Redirect page for inactive events"
         },
         {
@@ -456,11 +456,11 @@
       "name": "government",
       "bookmarks": [
         {
-          "url": "https://aipa.it/",
+          "url": "http://www.aipa.it/",
           "title": "Homepage | Agid"
         },
         {
-          "url": "https://emploimedecin.com/offres-emploi/detail/878844/medecin-generaliste/jobergroup/amiens/cdi",
+          "url": "https://www.emploimedecin.com/offres-emploi/detail/878844/medecin-generaliste/jobergroup/amiens/cdi",
           "title": "Offres d'emploi médicales : médecin, pharmacien, chirurgien..."
         },
         {
@@ -471,6 +471,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 98,
+  "total_bookmarks": 95,
   "num_folders": 15
 }

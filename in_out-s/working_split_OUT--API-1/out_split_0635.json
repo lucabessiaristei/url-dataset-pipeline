@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "non-profit-advocacy",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
         {
           "url": "https://action.uso.org/2106_EVERGREEN_2?sc=WW18STRYINL",
@@ -18,6 +18,10 @@
         {
           "url": "http://marpatagonico.org/",
           "title": "Foro para la Conservación del Mar Patagónico y Áreas de Influencia - Foro para la Conservación del Mar Patagónico"
+        },
+        {
+          "url": "https://girlup.org/",
+          "title": "Girl Up | Uniting Girls to Change the World"
         },
         {
           "url": "http://www.firstnations.org/",
@@ -42,10 +46,6 @@
         {
           "url": "https://unitedforwildlife.org/",
           "title": "United for Wildlife - Ending the Illegal Wildlife Trade - United for Wildlife"
-        },
-        {
-          "url": "https://girlup.org/",
-          "title": "Girl Up | Uniting Girls to Change the World"
         },
         {
           "url": "https://www.prisonpolicy.org/reports/pie2018women.html",
@@ -74,12 +74,12 @@
           "title": "Maryland moves to increase diversity in computer... - The Spinning Compass: GIS Student Resources"
         },
         {
-          "url": "https://www.gadget-talk.ro/tag/nokia-8-1/",
-          "title": "Nokia 8.1 - Gadget Talk Romania | Tehnologia la control"
-        },
-        {
           "url": "http://www.josuttis.com/tmplbook/",
           "title": "Nicolai Josuttis: Objektorientiertes Programmieren in C++"
+        },
+        {
+          "url": "https://www.gadget-talk.ro/tag/nokia-8-1/",
+          "title": "Nokia 8.1 - Gadget Talk Romania | Tehnologia la control"
         },
         {
           "url": "https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/",
@@ -112,10 +112,6 @@
       "name": "business-corporate",
       "bookmarks": [
         {
-          "url": "https://www.biotyfoule.org/project_patrick-lambert/",
-          "title": "Patrick Lambert | Biotyfoule"
-        },
-        {
           "url": "https://brightcove.com",
           "title": "Brightcove | Leading Video Hosting & Streaming Platform"
         },
@@ -126,6 +122,10 @@
         {
           "url": "https://status.cardconnect.com",
           "title": "CardConnect Status"
+        },
+        {
+          "url": "https://www.biotyfoule.org/project_patrick-lambert/",
+          "title": "Patrick Lambert | Biotyfoule"
         },
         {
           "url": "https://stock.walmart.com/stock-information/default.aspx",
@@ -148,7 +148,7 @@
           "title": "White Paper: Making It Count - REsurety"
         },
         {
-          "url": "http://targetpayandbenefits.com",
+          "url": "http://www.targetpayandbenefits.com/",
           "title": "Your Benefits Resources -- Greeting Page"
         }
       ],
@@ -199,6 +199,44 @@
         }
       ],
       "count": 10
+    },
+    {
+      "name": "online-tools-services",
+      "bookmarks": [
+        {
+          "url": "https://otter.ai/u/p5KxApF-sDEp7JdC2aJ4MhuEUvU",
+          "title": "8.4.2021 Ask Me Anything Business | Otter.ai"
+        },
+        {
+          "url": "https://www.bscscan.com/txsInternal?block=12518551",
+          "title": "BNB Smart Chain (BNB) Blockchain Explorer"
+        },
+        {
+          "url": "https://enterchatroom.com/",
+          "title": "Enter Chatroom - Free Online Chat Rooms"
+        },
+        {
+          "url": "https://celebrityvoicechanger.com",
+          "title": "Free Online Voice Changer App - Celebirty Voices"
+        },
+        {
+          "url": "https://about.flipboard.com",
+          "title": "Home - About Flipboard"
+        },
+        {
+          "url": "https://us02web.zoom.us/j/82663842838?pwd=NTkwSzBSQ2c5UFExUCtZc0dIdDBkZz09",
+          "title": "Launch Meeting - Zoom"
+        },
+        {
+          "url": "https://www.iheart.com/podcast/",
+          "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
+        },
+        {
+          "url": "https://help.getpocket.com",
+          "title": "Pocket Help"
+        }
+      ],
+      "count": 8
     },
     {
       "name": "reference-docs",
@@ -272,44 +310,6 @@
         {
           "url": "https://www.cuffdowntown.com/us/taylor-mi/escorts/teen",
           "title": "Taylor: escorts - Cuff Down Town"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "tools-online-services",
-      "bookmarks": [
-        {
-          "url": "https://otter.ai/u/p5KxApF-sDEp7JdC2aJ4MhuEUvU",
-          "title": "8.4.2021 Ask Me Anything Business | Otter.ai"
-        },
-        {
-          "url": "https://www.bscscan.com/txsInternal?block=12518551",
-          "title": "BNB Smart Chain (BNB) Blockchain Explorer"
-        },
-        {
-          "url": "https://enterchatroom.com/",
-          "title": "Enter Chatroom - Free Online Chat Rooms"
-        },
-        {
-          "url": "https://celebrityvoicechanger.com",
-          "title": "Free Online Voice Changer App - Celebirty Voices"
-        },
-        {
-          "url": "https://about.flipboard.com",
-          "title": "Home - About Flipboard"
-        },
-        {
-          "url": "https://us02web.zoom.us/j/82663842838?pwd=NTkwSzBSQ2c5UFExUCtZc0dIdDBkZz09",
-          "title": "Launch Meeting - Zoom"
-        },
-        {
-          "url": "https://www.iheart.com/podcast/",
-          "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
-        },
-        {
-          "url": "https://help.getpocket.com",
-          "title": "Pocket Help"
         }
       ],
       "count": 8
@@ -435,7 +435,7 @@
       "count": 5
     },
     {
-      "name": "hobbies-lifestyle",
+      "name": "lifestyle-hobbies",
       "bookmarks": [
         {
           "url": "https://www.geocaching.com/geocache/GC94HWW_10-arten-von-menschen",

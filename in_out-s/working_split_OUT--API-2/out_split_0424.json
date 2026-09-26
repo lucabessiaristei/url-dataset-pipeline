@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "academic-education-resources",
+      "name": "education-academic-resources",
       "bookmarks": [
         {
           "url": "https://training.apple.com/us/en/appdeveloper",
@@ -12,7 +12,11 @@
           "title": "Discover the Google for Startups Campus network - Google for Startups"
         },
         {
-          "url": "https://www.hfs.psu.edu/",
+          "url": "http://studentactivities.mines.edu",
+          "title": "Home - Student Activities"
+        },
+        {
+          "url": "http://www.hfs.psu.edu/",
           "title": "Home Page | LiveOn"
         },
         {
@@ -20,8 +24,12 @@
           "title": "import os;, Is learning computer science linked to improved..."
         },
         {
-          "url": "https://horilab.jp/publications/style/refereed-intl-article/2021/international-trends-in-k-12computer-science-curricula-through-comparative-analysis-implications-for-the-primary-curricula",
+          "url": "http://horilab.jp/publications/style/refereed-intl-article/2021/international-trends-in-k-12computer-science-curricula-through-comparative-analysis-implications-for-the-primary-curricula",
           "title": "International Trends in K-12 Computer Science Curricula Through Comparative Analysis: Implications for the Primary Curricula - メディア教育論ゼミ"
+        },
+        {
+          "url": "http://www.research.umd.edu/lm",
+          "title": "Partnership Overview: Lockheed Martin | Division of Research"
         },
         {
           "url": "https://www.nationalgallery.org.uk/research/research-centre",
@@ -30,40 +38,32 @@
         {
           "url": "https://communication.ucf.edu/person/rick-brunson/",
           "title": "Rick Brunson - Nicholson School of Communication and Media"
-        },
-        {
-          "url": "https://www.research.umd.edu/lm",
-          "title": "Partnership Overview: Lockheed Martin | Division of Research"
-        },
-        {
-          "url": "https://studentactivities.mines.edu",
-          "title": "Home - Student Activities"
         }
       ],
       "count": 9
     },
     {
-      "name": "nonprofit-advocacy-community",
+      "name": "nonprofit-community-advocacy",
       "bookmarks": [
-        {
-          "url": "https://www.iucn.org/about/donors-and-partners/patrons-nature",
-          "title": "Patrons of Nature | IUCN"
-        },
         {
           "url": "https://www.jewishcommunityaction.org/",
           "title": "Home - Jewish Community Action Minnesota (JCA MN)"
-        },
-        {
-          "url": "https://www.mnkaren.org/",
-          "title": "Karen Organization of Minnesota"
         },
         {
           "url": "https://schoolquest.militarychild.org/",
           "title": "Homepage - Military Child Education Coalition® (MCEC®)"
         },
         {
+          "url": "https://www.mnkaren.org/",
+          "title": "Karen Organization of Minnesota"
+        },
+        {
           "url": "https://naacpstore.org/",
           "title": "NAACP Store"
+        },
+        {
+          "url": "https://www.iucn.org/about/donors-and-partners/patrons-nature",
+          "title": "Patrons of Nature | IUCN"
         },
         {
           "url": "https://rfcx.org/",
@@ -88,12 +88,8 @@
       "name": "software-development-tools",
       "bookmarks": [
         {
-          "url": "https://www.adahome.com/",
+          "url": "http://www.adahome.com/",
           "title": "Ada Home: the Home of the Brave Ada Programmers (HBAP)"
-        },
-        {
-          "url": "https://git.bettercrypto.org/ach-master.git/history/722b6ded8bd2caf3a36fd8c13a3f2d90054e8c1c:/src/llncs.cls",
-          "title": "GitHub - BetterCrypto/Applied-Crypto-Hardening: Best Current Practices regarding secure online communication and configuration of services using cryptography."
         },
         {
           "url": "https://www.elastic.co/guide/en/kibana/current/discover.html",
@@ -104,12 +100,16 @@
           "title": "Enterprise · A smarter way to work together · GitHub"
         },
         {
-          "url": "https://www.overleaf.com/learn/latex/Mathematical_expressions",
-          "title": "Mathematical expressions - Overleaf, Online LaTeX Editor"
+          "url": "https://git.bettercrypto.org/ach-master.git/history/722b6ded8bd2caf3a36fd8c13a3f2d90054e8c1c:/src/llncs.cls",
+          "title": "GitHub - BetterCrypto/Applied-Crypto-Hardening: Best Current Practices regarding secure online communication and configuration of services using cryptography."
         },
         {
           "url": "https://ideas.mozilla.org/",
           "title": "Home - Mozilla Connect"
+        },
+        {
+          "url": "https://www.overleaf.com/learn/latex/Mathematical_expressions",
+          "title": "Mathematical expressions - Overleaf, Online LaTeX Editor"
         },
         {
           "url": "https://www.social-engineer.org/framework/attack-vectors/phishing-attacks-2/",
@@ -142,16 +142,16 @@
           "title": "Corporate Finance - Prominence Bank"
         },
         {
-          "url": "https://wearemtm.com/",
+          "url": "http://wearemtm.com/",
           "title": "International strategy & research consultancy | MTM"
-        },
-        {
-          "url": "https://www.tapestry.com/",
-          "title": "Tapestry"
         },
         {
           "url": "https://www.venmo.com",
           "title": "Pay Friends | Payments App | Venmo"
+        },
+        {
+          "url": "https://www.tapestry.com/",
+          "title": "Tapestry"
         }
       ],
       "count": 7
@@ -160,12 +160,8 @@
       "name": "shopping-products",
       "bookmarks": [
         {
-          "url": "https://www.aromatherapyassociates.com/usa/revive-polishing-body-brush.html",
-          "title": "Revive Body Brush for Exfoliation | Aromatherapy Associates"
-        },
-        {
-          "url": "https://cozyearth.com/collections/online-warehouse-sale",
-          "title": "Online Warehouse Sale | Cozy Earth"
+          "url": "https://www.tchibo.de/cashmere-pullover-schwarz-p402016721.html?dim1=46",
+          "title": "Cashmere-Pullover online bestellen bei Tchibo 621612"
         },
         {
           "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089P71.html",
@@ -176,16 +172,20 @@
           "title": "Marina Raphael"
         },
         {
+          "url": "https://cozyearth.com/collections/online-warehouse-sale",
+          "title": "Online Warehouse Sale | Cozy Earth"
+        },
+        {
+          "url": "https://www.aromatherapyassociates.com/usa/revive-polishing-body-brush.html",
+          "title": "Revive Body Brush for Exfoliation | Aromatherapy Associates"
+        },
+        {
           "url": "https://pk-termeptuj.si/Sales/Order-18611/",
           "title": "RKC NEBO Pro Kolesarski Dres Mens AERO Usposabljanje Kolesarski Dres lahki Mtb Kolo Kolesarjenje Oblačila Majica Kit Maillot Ciclismo popust ~ Kolesarjenje Clothings / Pk-termeptuj.si"
         },
         {
           "url": "https://www.rammeter.com/test-equipment-tools?cat=21&rating=626&type=154",
           "title": "Test Equipment & Tools Ram Meter, Inc."
-        },
-        {
-          "url": "https://www.tchibo.de/cashmere-pullover-schwarz-p402016721.html",
-          "title": "Cashmere-Pullover online bestellen bei Tchibo 621612"
         }
       ],
       "count": 7
@@ -194,28 +194,28 @@
       "name": "government-agencies-policy",
       "bookmarks": [
         {
-          "url": "https://www.agcensus.usda.gov",
-          "title": "USDA - National Agricultural Statistics Service - Census of Agriculture"
+          "url": "https://go.nature.com/3f7vL5M",
+          "title": "[Withdrawn] Global Strategic Trends - The Future Starts Today - GOV.UK"
         },
         {
-          "url": "https://www.comune.mottola.ta.it/",
+          "url": "http://www.comune.mottola.ta.it/",
           "title": "Comune di Mottola"
+        },
+        {
+          "url": "https://reportfraud.ftc.gov/#/?orgcode=WMT",
+          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
         },
         {
           "url": "https://www.energystar.gov",
           "title": "Homepage | ENERGY STAR"
         },
         {
-          "url": "https://go.nature.com/3f7vL5M",
-          "title": "[Withdrawn] Global Strategic Trends - The Future Starts Today - GOV.UK"
-        },
-        {
           "url": "https://www.noaa.gov/",
           "title": "National Oceanic and Atmospheric Administration"
         },
         {
-          "url": "https://reportfraud.ftc.gov/",
-          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
+          "url": "https://www.agcensus.usda.gov",
+          "title": "USDA - National Agricultural Statistics Service - Census of Agriculture"
         }
       ],
       "count": 6
@@ -224,24 +224,24 @@
       "name": "entertainment-pop-culture",
       "bookmarks": [
         {
-          "url": "https://www.accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337",
+          "url": "http://www.accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337",
           "title": "Access: Entertainment News, Celebrity, TV, Music & Movie Videos | Access"
-        },
-        {
-          "url": "https://bachelornation.com/2021/12/16/thomas-jacobs-posts-sweet-6-month-anniversary-photos-with-becca-kufrin-i-m-so-proud-to-share-this-life-with-you/",
-          "title": "Thomas Jacobs Posts Sweet 6-Month Anniversary Photos with Becca Kufrin: 'I'm So Proud to Share This Life with You'"
-        },
-        {
-          "url": "https://www.etonline.com/bachelorette-star-kaitlyn-bristowe-engaged-to-jason-tartick-exclusive-156837",
-          "title": "Kaitlyn Bristowe Engaged to Jason Tartick (Exclusive Details) | Entertainment Tonight"
         },
         {
           "url": "https://likewise.com/privacy-policy",
           "title": "Find New TV Shows, Movies, Books, Podcasts & More"
         },
         {
+          "url": "https://www.etonline.com/bachelorette-star-kaitlyn-bristowe-engaged-to-jason-tartick-exclusive-156837",
+          "title": "Kaitlyn Bristowe Engaged to Jason Tartick (Exclusive Details) | Entertainment Tonight"
+        },
+        {
           "url": "https://www.plex.tv",
           "title": "Stream Movies & Find Shows On The Best Streaming Services"
+        },
+        {
+          "url": "https://bachelornation.com/2021/12/16/thomas-jacobs-posts-sweet-6-month-anniversary-photos-with-becca-kufrin-i-m-so-proud-to-share-this-life-with-you/",
+          "title": "Thomas Jacobs Posts Sweet 6-Month Anniversary Photos with Becca Kufrin: 'I'm So Proud to Share This Life with You'"
         }
       ],
       "count": 5
@@ -250,23 +250,23 @@
       "name": "international-organizations-compliance",
       "bookmarks": [
         {
-          "url": "https://tr.apec.org/",
+          "url": "http://tr.apec.org/",
           "title": "APEC Trade Repository"
-        },
-        {
-          "url": "https://www.erp-recycling.ie",
-          "title": "Home • About European Recycling Platform • ERP Global"
         },
         {
           "url": "https://www.inspectionpanel.org/",
           "title": "Home | Inspection Panel"
         },
         {
-          "url": "https://www.networkforgood.com",
+          "url": "http://www.erp-recycling.ie",
+          "title": "Home • About European Recycling Platform • ERP Global"
+        },
+        {
+          "url": "http://www.networkforgood.com",
           "title": "Network for Good | Bonterra"
         },
         {
-          "url": "https://www.oceanbestpractices.org",
+          "url": "http://www.oceanbestpractices.org",
           "title": "Ocean Best Practices System"
         }
       ],
@@ -280,34 +280,30 @@
           "title": "Bruteforce Prevention"
         },
         {
-          "url": "https://confirmsubscription.com/h/i/463208600EB4D89A",
-          "title": "void"
-        },
-        {
-          "url": "https://www.moodworks.com",
-          "title": "Domain parking page"
-        },
-        {
-          "url": "https://www.nielsen.com/digitalprivacy",
+          "url": "http://www.nielsen.com/digitalprivacy",
           "title": "Digital measurement privacy statement | Nielsen"
+        },
+        {
+          "url": "http://www.moodworks.com",
+          "title": "Domain parking page"
         },
         {
           "url": "https://www.betterkids.education/privacy-policy/",
           "title": "Privacy Policy - Better Kids"
+        },
+        {
+          "url": "https://confirmsubscription.com/h/i/463208600EB4D89A",
+          "title": "void"
         }
       ],
       "count": 5
     },
     {
-      "name": "personal-interests-community",
+      "name": "personal-community-interests",
       "bookmarks": [
         {
-          "url": "https://bebehblog.com/carolines-nursery/",
+          "url": "http://bebehblog.com/carolines-nursery/",
           "title": "Caroline's Nursery - bebehblog"
-        },
-        {
-          "url": "https://www.esotericablog.es/",
-          "title": "Tarot • Astro & Yoga : el retorno al Ser"
         },
         {
           "url": "https://houseofbanana.tumblr.com/",
@@ -318,8 +314,12 @@
           "title": "KULT FORUM • Zaloguj"
         },
         {
-          "url": "https://www.startrekthecruise.com/",
+          "url": "http://www.startrekthecruise.com/",
           "title": "Star Trek: The Cruise 2026 - Star Trek: The Cruise 2026"
+        },
+        {
+          "url": "https://www.esotericablog.es/",
+          "title": "Tarot • Astro & Yoga : el retorno al Ser"
         }
       ],
       "count": 5
@@ -328,20 +328,20 @@
       "name": "health-environmental-science",
       "bookmarks": [
         {
-          "url": "https://www.healthline.com/nutrition/ketogenic-diet-101",
-          "title": "The Ketogenic Diet: A Detailed Beginner's Guide to Keto"
-        },
-        {
-          "url": "https://hivdoula.work/27-questions",
-          "title": "Twenty-Seven Questions to Consider When Writing About COVID-19 and HIV/AIDS - HIV DOULA work"
-        },
-        {
           "url": "https://map.imcsnet.org",
           "title": "Map of maritime regions | IMCS"
         },
         {
-          "url": "https://news.ucsb.edu/2018/019138/troubled-waters",
+          "url": "https://www.healthline.com/nutrition/ketogenic-diet-101",
+          "title": "The Ketogenic Diet: A Detailed Beginner's Guide to Keto"
+        },
+        {
+          "url": "http://www.news.ucsb.edu/2018/019138/troubled-waters",
           "title": "Troubled Waters | The Current"
+        },
+        {
+          "url": "http://hivdoula.work/27-questions",
+          "title": "Twenty-Seven Questions to Consider When Writing About COVID-19 and HIV/AIDS - HIV DOULA work"
         }
       ],
       "count": 4
@@ -349,6 +349,10 @@
     {
       "name": "news-current-events",
       "bookmarks": [
+        {
+          "url": "https://www.rtve.es/noticias/",
+          "title": "Noticias, la última hora de España y el mundo - RTVE.es"
+        },
         {
           "url": "https://abc11.com/society/teen-in-viral-picture-at-raleigh-target-store-gets-the-job/515850/",
           "title": "Teen in viral picture at Raleigh Target store gets the job - ABC11 Raleigh-Durham"
@@ -360,10 +364,6 @@
         {
           "url": "https://www.hiclub.bg/Article/10459036",
           "title": "„Ню Йорк таймс\": Тесла създава „ефекта на сома\" в Китай | Хай Клуб"
-        },
-        {
-          "url": "https://www.rtve.es/noticias/",
-          "title": "Noticias, la última hora de España y el mundo - RTVE.es"
         }
       ],
       "count": 4
@@ -371,10 +371,6 @@
     {
       "name": "sports-gaming-fandom",
       "bookmarks": [
-        {
-          "url": "https://www.arcade-history.com/",
-          "title": "Gaming: video games, arcade, slots, consoles and computers history"
-        },
         {
           "url": "https://www.completesports.com/",
           "title": "Complete Sports Nigeria Latest Sports News And Updates"
@@ -386,27 +382,13 @@
         {
           "url": "https://sc-ug.de/index.php/26-firmen-olympiade-donnerstag-den-04-07-2019",
           "title": "Firmen-Olympiade - Donnerstag den 04.07.2019"
+        },
+        {
+          "url": "http://www.arcade-history.com/",
+          "title": "Gaming: video games, arcade, slots, consoles and computers history"
         }
       ],
       "count": 4
-    },
-    {
-      "name": "data-ai-platforms",
-      "bookmarks": [
-        {
-          "url": "https://developers.planet.com/",
-          "title": "Planet Documentation | Planet Documentation"
-        },
-        {
-          "url": "https://www.shift72.com",
-          "title": "Shift72: Secure video on demand platforms"
-        },
-        {
-          "url": "https://sprig.com/",
-          "title": "Sprig: Modern Research Platform for UX Teams"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "career-professional-development",
@@ -427,12 +409,26 @@
       "count": 3
     },
     {
-      "name": "hobbies-diy-guides",
+      "name": "data-ai-platforms",
       "bookmarks": [
         {
-          "url": "https://gardening.stackexchange.com/help/badges/2/student",
-          "title": "Student - Badge - Gardening & Landscaping Stack Exchange"
+          "url": "https://developers.planet.com/",
+          "title": "Planet Documentation | Planet Documentation"
         },
+        {
+          "url": "https://www.shift72.com",
+          "title": "Shift72: Secure video on demand platforms"
+        },
+        {
+          "url": "https://sprig.com/",
+          "title": "Sprig: Modern Research Platform for UX Teams"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-diy-guides",
+      "bookmarks": [
         {
           "url": "https://www.interessante-geschenke.de/eshop/einzigartige-holzgeschenke/militar-geschenke/us-panzer-abrams-militar-tank-holzspielzeug-geschenke-fur-soldaten-und-kinder/",
           "title": "HOLZ Militär Panzer Abrams 23 cm | mit Ihrer Gravur"
@@ -440,6 +436,10 @@
         {
           "url": "https://www.pinrepair.com/begin/index.htm",
           "title": "PINBALL: Beginning Pinball Repair and Circuit Board Repair"
+        },
+        {
+          "url": "https://gardening.stackexchange.com/help/badges/2/student?userid=29656",
+          "title": "Student - Badge - Gardening & Landscaping Stack Exchange"
         }
       ],
       "count": 3
@@ -448,7 +448,7 @@
       "name": "media-industry-resources",
       "bookmarks": [
         {
-          "url": "https://together.nbcuni.com/advertise/",
+          "url": "https://together.nbcuni.com/advertise/?utm_source=nbc_news&utm_medium=referral&utm_campaign=property_ad_pages",
           "title": "Advertise With Us | NBCUniversal Together"
         },
         {
@@ -466,16 +466,16 @@
       "name": "web-design-development",
       "bookmarks": [
         {
-          "url": "https://www.mooveagency.com",
-          "title": "WordPress Agency London • WordPress Support • Web Development"
+          "url": "https://themes.shopify.com/?locale=en",
+          "title": "Ecommerce Website Templates - Free and Premium Themes for Your Online Store."
         },
         {
           "url": "https://mozilla.design",
           "title": "Home - Mozilla Dot Design"
         },
         {
-          "url": "https://themes.shopify.com/?locale=en",
-          "title": "Ecommerce Website Templates - Free and Premium Themes for Your Online Store."
+          "url": "https://www.mooveagency.com",
+          "title": "WordPress Agency London • WordPress Support • Web Development"
         }
       ],
       "count": 3

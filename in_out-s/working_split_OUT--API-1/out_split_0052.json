@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profits",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.airqo.net/",
@@ -12,12 +12,24 @@
           "title": "Arbor Day Foundation | Tree Planting Non-Profit"
         },
         {
+          "url": "https://www.npfc.int/about_npfc/convention_and_npfc_area_of_application",
+          "title": "Convention & NPFC Area of Application | NPFC"
+        },
+        {
           "url": "https://www.dasra.org/",
           "title": "Dasra Home Page"
         },
         {
           "url": "https://www.hiringourheroes.org/",
           "title": "Hiring Our Heroes: Bridging the Job Gap for Veterans"
+        },
+        {
+          "url": "https://www.networkadvertising.org",
+          "title": "Home - NAI: Network Advertising Initiative"
+        },
+        {
+          "url": "https://www.welcomingamerica.org/",
+          "title": "Home - Welcoming America"
         },
         {
           "url": "https://www.iccat.int/en/",
@@ -28,28 +40,16 @@
           "title": "IRENA - International Renewable Energy Agency"
         },
         {
-          "url": "https://www.lisc.org/twin-cities/",
-          "title": "Twin Cities | LISC Twin Cities"
+          "url": "https://www.pnatuna.com/",
+          "title": "Parties to the Nauru Agreement (PNA) | www.pnatuna.com"
         },
         {
           "url": "https://www.medseaalliance.org",
           "title": "Together for a thriving Mediterranean"
         },
         {
-          "url": "https://www.networkadvertising.org",
-          "title": "Home - NAI: Network Advertising Initiative"
-        },
-        {
-          "url": "https://www.npfc.int/about_npfc/convention_and_npfc_area_of_application",
-          "title": "Convention & NPFC Area of Application | NPFC"
-        },
-        {
-          "url": "https://www.pnatuna.com/",
-          "title": "Parties to the Nauru Agreement (PNA) | www.pnatuna.com"
-        },
-        {
-          "url": "https://www.welcomingamerica.org/",
-          "title": "Home - Welcoming America"
+          "url": "https://www.lisc.org/twin-cities/",
+          "title": "Twin Cities | LISC Twin Cities"
         }
       ],
       "count": 12
@@ -142,6 +142,10 @@
       "name": "news-articles",
       "bookmarks": [
         {
+          "url": "https://www.stltoday.com/news/local/crime-and-courts/i-can-still-hear-the-roaring-of-the-engine-says-father-of-teen-maimed-in/article_d981ca12-4e76-5351-8ade-bf0ca0e08214.html",
+          "title": "'I can still hear the roaring of the engine,' says father of teen maimed in downtown St. Louis"
+        },
+        {
           "url": "https://boston.cbslocal.com/tag/adam-jones/",
           "title": "Adam Jones news - Today's latest updates - CBS Boston"
         },
@@ -156,10 +160,6 @@
         {
           "url": "https://www.hsph.harvard.edu/nutritionsource/healthy-weight/diet-reviews/paleo-diet/",
           "title": "Diet Review: Paleo Diet for Weight Loss • The Nutrition Source"
-        },
-        {
-          "url": "https://www.stltoday.com/news/local/crime-and-courts/i-can-still-hear-the-roaring-of-the-engine-says-father-of-teen-maimed-in/article_d981ca12-4e76-5351-8ade-bf0ca0e08214.html",
-          "title": "'I can still hear the roaring of the engine,' says father of teen maimed in downtown St. Louis"
         },
         {
           "url": "https://www.thehindu.com/sci-tech/technology/microsoft-along-with-seeds-launch-2nd-phase-of-ai-model-to-predict-heat-waves-risks-in-india/article35555104.ece#:~:text=%22Phase%20II%20begins%20with%20model,warnings%20in%202021%2C%20it%20said",
@@ -199,34 +199,12 @@
       "count": 5
     },
     {
-      "name": "science-data-research",
-      "bookmarks": [
-        {
-          "url": "https://data.humdata.org/dataset/cod-ab-afg",
-          "title": "Afghanistan - Subnational Administrative Boundaries | Humanitarian Dataset | HDX"
-        },
-        {
-          "url": "https://gis.citrusbocc.com/data-downloads.html",
-          "title": "Citrus County Geographic Information Systems (GIS) - Test Template"
-        },
-        {
-          "url": "http://www.springer.com/biomed/journal/418",
-          "title": "Home | Histochemistry and Cell Biology"
-        },
-        {
-          "url": "http://hrscview.fu-berlin.de/",
-          "title": "HRSC webGIS @ FU-Berlin Planetary Sciences"
-        },
-        {
-          "url": "https://www.invasivespeciesinfo.gov/resources-indexed?f%5B0%5D=field_location%3A117&f%5B1%5D=field_location%3A104&f%5B2%5D=field_location%3A127&f%5B3%5D=field_location%3A109&f%5B4%5D=field_source%3A67&f%5B5%5D=field_location%3A135&f%5B6%5D=field_location%3A98&f%5B7%5D=field_location%3A106&f%5B8%5D=field_location%3A107&f%5B9%5D=field_location%3A118&amp%3Bf%5B1%5D=field_location%3A110",
-          "title": "Resource Search 1 | National Invasive Species Information Center"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "general-low-info",
       "bookmarks": [
+        {
+          "url": "http://emps.exeter.ac.uk/mathematics/staff/crk205",
+          "title": "IT Server Security project | Exeter IT Services | University of Exeter"
+        },
         {
           "url": "https://cta-redirect.hubspot.com/cta/redirect/5981609/ffe07749-0055-4a95-85b3-bce123fc330c",
           "title": "Redirecting..."
@@ -234,10 +212,6 @@
         {
           "url": "https://www.ada.gov/ada_voting/ada_voting_ta.htm",
           "title": "Redirecting..."
-        },
-        {
-          "url": "http://emps.exeter.ac.uk/mathematics/staff/crk205",
-          "title": "IT Server Security project | Exeter IT Services | University of Exeter"
         },
         {
           "url": "https://renner.org/article/what-should-you-do-when-you-get-offended/",
@@ -277,26 +251,30 @@
       "count": 5
     },
     {
-      "name": "blogs-personal",
+      "name": "science-research-data",
       "bookmarks": [
         {
-          "url": "https://juicycube.net/?id=ctx",
-          "title": ":: JuicyCube.net ::"
+          "url": "https://data.humdata.org/dataset/cod-ab-afg",
+          "title": "Afghanistan - Subnational Administrative Boundaries | Humanitarian Dataset | HDX"
         },
         {
-          "url": "https://mickey-the-doll.tumblr.com/",
-          "title": "50m3 Th1ng5 D0 N0t C0mput3"
+          "url": "https://gis.citrusbocc.com/data-downloads.html",
+          "title": "Citrus County Geographic Information Systems (GIS) - Test Template"
         },
         {
-          "url": "https://www.pixyblog.com/",
-          "title": "PixyBlog | Expose Yourself - Photo Sharing Community, Digital Photography Blogs."
+          "url": "http://www.springer.com/biomed/journal/418",
+          "title": "Home | Histochemistry and Cell Biology"
         },
         {
-          "url": "https://stuff-that-interests-me.tumblr.com/",
-          "title": "@stuff-that-interests-me on Tumblr"
+          "url": "http://hrscview.fu-berlin.de/",
+          "title": "HRSC webGIS @ FU-Berlin Planetary Sciences"
+        },
+        {
+          "url": "https://www.invasivespeciesinfo.gov/resources-indexed?f%5B0%5D=field_location%3A117&f%5B1%5D=field_location%3A104&f%5B2%5D=field_location%3A127&f%5B3%5D=field_location%3A109&f%5B4%5D=field_source%3A67&f%5B5%5D=field_location%3A135&f%5B6%5D=field_location%3A98&f%5B7%5D=field_location%3A106&f%5B8%5D=field_location%3A107&f%5B9%5D=field_location%3A118&amp%3Bf%5B1%5D=field_location%3A110",
+          "title": "Resource Search 1 | National Invasive Species Information Center"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
       "name": "education-programming",
@@ -321,7 +299,7 @@
       "count": 4
     },
     {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://offers.applemusic.apple/six-month-offer",
@@ -338,6 +316,28 @@
         {
           "url": "https://www.medici.tv/en/",
           "title": "The best of classical and jazz at your fingertips | medici.tv"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://mickey-the-doll.tumblr.com/",
+          "title": "50m3 Th1ng5 D0 N0t C0mput3"
+        },
+        {
+          "url": "https://juicycube.net/?id=ctx",
+          "title": ":: JuicyCube.net ::"
+        },
+        {
+          "url": "https://stuff-that-interests-me.tumblr.com/",
+          "title": "@stuff-that-interests-me on Tumblr"
+        },
+        {
+          "url": "https://www.pixyblog.com/",
+          "title": "PixyBlog | Expose Yourself - Photo Sharing Community, Digital Photography Blogs."
         }
       ],
       "count": 4

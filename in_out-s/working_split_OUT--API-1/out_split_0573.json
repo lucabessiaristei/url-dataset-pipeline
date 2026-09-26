@@ -1,61 +1,15 @@
 {
   "folders": [
     {
-      "name": "news-and-media",
-      "bookmarks": [
-        {
-          "url": "https://www.bbc.co.uk/news/uk-64815323",
-          "title": "Constance Marten arrest: Police continue questioning after baby found - BBC News"
-        },
-        {
-          "url": "https://buckfifty.org/tag/cynthia-a-jennings/",
-          "title": "Cynthia A. Jennings | buckfifty.org"
-        },
-        {
-          "url": "https://www.idnes.cz/technet",
-          "title": "iDNES.cz - s námi víte víc"
-        },
-        {
-          "url": "https://www.texastribune.org/2022/04/06/texas-mail-in-ballot-rejection-voting/",
-          "title": "More than 12% of Texas mail-in ballots rejected in March primary | The Texas Tribune"
-        },
-        {
-          "url": "https://www.desmoinesregister.com/story/news/politics/2022/06/30/iowa-caucus-2024-nikki-haley-will-run-president-if-theres-place-me/7747121001/",
-          "title": "Nikki Haley says during Iowa visit she is considering presidential run"
-        },
-        {
-          "url": "http://www.thedaily.com/article/2012/12/10/121012-news-bus-audio-surveillance/",
-          "title": "New York Post - Breaking News, Top Headlines, Photos & Videos"
-        },
-        {
-          "url": "https://brasil.mongabay.com/",
-          "title": "Notícias ambientais - Mongabay Brasil"
-        },
-        {
-          "url": "https://www.nyu.edu/about/news-publications/news/2020/december/satellite-data-identifies-companies-fishing-in-high-seas.html",
-          "title": "Satellite Data Identifies Companies Fishing in High Seas"
-        },
-        {
-          "url": "https://veterans.nbcnews.com/",
-          "title": "Veterans | NBC News"
-        },
-        {
-          "url": "https://www.newshidalgo.com.mx/?tag=zoe-robledo-aburto",
-          "title": "Zoé Robledo Aburto - News Hidalgo"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://blankfoundation.org/",
           "title": "Arthur M. Blank Family Foundation | Atlanta, Georgia | Home"
         },
         {
-          "url": "https://www.bbbprograms.org",
-          "title": "Home - BBB National Programs"
+          "url": "https://bettercotton.org/",
+          "title": "Better Cotton Initiative: It starts with farmers"
         },
         {
           "url": "https://www.ebresearch.org",
@@ -66,6 +20,10 @@
           "title": "Health Action Alliance"
         },
         {
+          "url": "https://www.bbbprograms.org",
+          "title": "Home - BBB National Programs"
+        },
+        {
           "url": "https://npafc.org/",
           "title": "NPAFC - North Pacific Anadromous Fish Commission"
         },
@@ -74,12 +32,12 @@
           "title": "Restoring Promise Initiative | Vera Institute"
         },
         {
-          "url": "http://newsletters.fao.org/k/Fao/subscription_form_sdg_indicators",
-          "title": "void"
-        },
-        {
           "url": "https://aclu.org/abortion-pledge",
           "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
+        },
+        {
+          "url": "http://newsletters.fao.org/k/Fao/subscription_form_sdg_indicators",
+          "title": "void"
         },
         {
           "url": "https://unhabitat.org/water-for-handwashing-in-slums-is-critical-to-prevent-covid-19-spreading",
@@ -88,16 +46,12 @@
         {
           "url": "https://peacekeeping.un.org/en/promoting-women-peace-and-security",
           "title": "Women, peace and security | United Nations Peacekeeping"
-        },
-        {
-          "url": "https://bettercotton.org/",
-          "title": "Better Cotton Initiative: It starts with farmers"
         }
       ],
       "count": 11
     },
     {
-      "name": "dev-tools-and-resources",
+      "name": "dev-tools-resources",
       "bookmarks": [
         {
           "url": "http://andreasviklund.com/",
@@ -143,7 +97,7 @@
       "count": 10
     },
     {
-      "name": "general-misc",
+      "name": "misc-general",
       "bookmarks": [
         {
           "url": "https://borrisokane.com/freer/1mas7sf22.html",
@@ -162,24 +116,24 @@
           "title": "EY login - My EY"
         },
         {
-          "url": "https://gdacc.org/tag/power-grid/",
-          "title": "power grid | GDACC"
-        },
-        {
           "url": "http://hackr.de/2021/12/20/1473035551297183749",
           "title": "hackr worldwide: 1473035551297183749"
-        },
-        {
-          "url": "https://mastodon.social/@Mozilla",
-          "title": "Mozilla (@mozilla@mastodon.social) - Mastodon"
         },
         {
           "url": "https://mailback-msft.tes-amm.com/_Content/de-AT/",
           "title": "Microsoft Mail-back Program"
         },
         {
+          "url": "https://mastodon.social/@Mozilla",
+          "title": "Mozilla (@mozilla@mastodon.social) - Mastodon"
+        },
+        {
           "url": "https://www.emploimedecin.com/offres-emploi/detail/878844/medecin-generaliste/jobergroup/amiens/cdi",
           "title": "Offres d'emploi médicales : médecin, pharmacien, chirurgien..."
+        },
+        {
+          "url": "https://gdacc.org/tag/power-grid/",
+          "title": "power grid | GDACC"
         },
         {
           "url": "https://login.microsoftonline.com/51a9fa56-3f32-449a-a721-3e3f49aa5e9a/saml2?SAMLRequest=fVJLb9swDP4rhu7yQ7bjWkgCZA2GBei2oMl22GWgZboRKkueKO%2F16%2BvYG9ZdchJE8nvwA9cEvRnkbgwX%2B4jfRqQQ%2FeyNJTk3Nmz0VjogTdJCjySDkqfd%2Bwcp4lQO3gWnnGGvILcRQIQ%2BaGdZdNhv2NdS5WUNTVUJhaoqSqzuVkUtAKqsrhsFomjuiiYVqmPRZ%2FQ0ITdsIprgRCMeLAWwYSqlQvA049nqnKUyr2S5%2BsKi%2FbSNthBm1CWEgWSSGPekbdxr5R25LjhrtMVYuT4pM6g7KFc873LBi6IGDpXIeI55N32gxBqS646CRbu%2Fi9w7S2OP%2FoT%2Bu1b46fHhnxSRi3UbP6MNMah4fE50OyS9a0eD8XAZZrKElldwUDRX4ffokdPAouOfgN9o22r7dDvbZhki%2Be58PvLjx9OZbddXZjln5be3bc0eFoMYoIUAVzPr5DXDermWD5P2YX90Rqtf0Vvnewi3rV0ruuXdPCqDB0t6Up9iNMb9uPcIATcs%2BBFZsl0k%2F7%2FJ7Qs%3D",
@@ -189,11 +143,61 @@
       "count": 10
     },
     {
-      "name": "lifestyle-and-hobbies",
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.bbc.co.uk/news/uk-64815323",
+          "title": "Constance Marten arrest: Police continue questioning after baby found - BBC News"
+        },
+        {
+          "url": "https://buckfifty.org/tag/cynthia-a-jennings/",
+          "title": "Cynthia A. Jennings | buckfifty.org"
+        },
+        {
+          "url": "https://www.idnes.cz/technet",
+          "title": "iDNES.cz - s námi víte víc"
+        },
+        {
+          "url": "https://www.texastribune.org/2022/04/06/texas-mail-in-ballot-rejection-voting/",
+          "title": "More than 12% of Texas mail-in ballots rejected in March primary | The Texas Tribune"
+        },
+        {
+          "url": "http://www.thedaily.com/article/2012/12/10/121012-news-bus-audio-surveillance/",
+          "title": "New York Post - Breaking News, Top Headlines, Photos & Videos"
+        },
+        {
+          "url": "https://www.desmoinesregister.com/story/news/politics/2022/06/30/iowa-caucus-2024-nikki-haley-will-run-president-if-theres-place-me/7747121001/",
+          "title": "Nikki Haley says during Iowa visit she is considering presidential run"
+        },
+        {
+          "url": "https://brasil.mongabay.com/",
+          "title": "Notícias ambientais - Mongabay Brasil"
+        },
+        {
+          "url": "https://www.nyu.edu/about/news-publications/news/2020/december/satellite-data-identifies-companies-fishing-in-high-seas.html",
+          "title": "Satellite Data Identifies Companies Fishing in High Seas"
+        },
+        {
+          "url": "https://veterans.nbcnews.com/",
+          "title": "Veterans | NBC News"
+        },
+        {
+          "url": "https://www.newshidalgo.com.mx/?tag=zoe-robledo-aburto",
+          "title": "Zoé Robledo Aburto - News Hidalgo"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "lifestyle-hobbies",
       "bookmarks": [
         {
           "url": "https://upstatediving.com/about/",
           "title": "About - Upstate NY Diving"
+        },
+        {
+          "url": "http://www.italiaricette.it/",
+          "title": "ITALIARICETTE.IT - Il tuo ricettario online"
         },
         {
           "url": "https://www.vagabond.se/europa/grekland/nonstopflyg-till-kreta",
@@ -204,12 +208,12 @@
           "title": "Pio Clementino Museum"
         },
         {
-          "url": "https://www-fourier.univ-grenoble-alpes.fr/~molinier/crochet.html",
-          "title": "Rémi Molinier - Crochet"
-        },
-        {
           "url": "http://www.cucinarefacile.com/",
           "title": "Ricette di cucina e video ricette"
+        },
+        {
+          "url": "https://www-fourier.univ-grenoble-alpes.fr/~molinier/crochet.html",
+          "title": "Rémi Molinier - Crochet"
         },
         {
           "url": "https://uploads.knightlab.com/storymapjs/857f1335b5790bba701ae445533b2c8e/lynchings-and-executions-in-kansas/index.html",
@@ -222,10 +226,6 @@
         {
           "url": "https://heart2homecreations.net/2017/12/19/woodland-globe-ornaments/?like_comment=178&_wpnonce=34663814ef",
           "title": "Woodland Globe Ornaments! | Heart2HomeCreations"
-        },
-        {
-          "url": "http://www.italiaricette.it/",
-          "title": "ITALIARICETTE.IT - Il tuo ricettario online"
         }
       ],
       "count": 9
@@ -273,7 +273,7 @@
       "count": 9
     },
     {
-      "name": "shopping-and-commerce",
+      "name": "shopping-commerce",
       "bookmarks": [
         {
           "url": "http://www.basketcreationsplus.com/",
@@ -315,7 +315,7 @@
       "count": 9
     },
     {
-      "name": "tech-ai-and-cs",
+      "name": "tech-ai-cs",
       "bookmarks": [
         {
           "url": "https://runningout-of-words.tumblr.com/post/89305551696",
@@ -357,7 +357,7 @@
       "count": 9
     },
     {
-      "name": "legal-and-reference",
+      "name": "reference-legal",
       "bookmarks": [
         {
           "url": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -395,7 +395,7 @@
       "count": 8
     },
     {
-      "name": "media-and-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
@@ -425,7 +425,7 @@
       "count": 6
     },
     {
-      "name": "organizations-community",
+      "name": "community-organizations",
       "bookmarks": [
         {
           "url": "https://www.champaigncounty.org/list/member/rolling-acres-ag-solutions-30107.htm",

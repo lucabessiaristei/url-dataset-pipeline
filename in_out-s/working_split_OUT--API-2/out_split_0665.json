@@ -1,185 +1,81 @@
 {
   "folders": [
     {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "https://bja.ojp.gov",
-          "title": "Home | Bureau of Justice Assistance"
-        },
-        {
-          "url": "https://consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-implement-fair-debt-collection-practices-act/",
-          "title": "Consumer Financial Protection Bureau Issues Final Rule to Implement the Fair Debt Collection Practices Act | Consumer Financial Protection Bureau"
-        },
-        {
-          "url": "https://gis.mesacounty.us/",
-          "title": "Geographic Information Systems (GIS) Department | Mesa County"
-        },
-        {
-          "url": "https://raskin.house.gov/2022/12/statement-of-congressman-jamie-raskin-to-the-people-of-maryland-s-8th-district",
-          "title": "Statement of Congressman Jamie Raskin to the People of Maryland's 8th District | Press Releases | Congressman Jamie Raskin"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "business-organizations",
-      "bookmarks": [
-        {
-          "url": "https://eastsidefundersgroup.org/",
-          "title": "East Side Funders Group"
-        },
-        {
-          "url": "https://industree.org.in/",
-          "title": "Home | Industree Foundation"
-        },
-        {
-          "url": "https://jff.org/",
-          "title": "Transforming systems for the workforce of the future - Jobs for the Future (JFF) - Jobs for the Future (JFF)"
-        },
-        {
-          "url": "https://nvbdc.org/",
-          "title": "National Veteran Business Development Council Certification"
-        },
-        {
-          "url": "https://ushcccares.netlify.app/",
-          "title": "USHCC CARES"
-        },
-        {
-          "url": "https://usblackchambers.org",
-          "title": "U.S. Black Chambers, Inc."
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "technology-tools",
-      "bookmarks": [
-        {
-          "url": "https://astronomy.tools/calculators/field_of_view/",
-          "title": "astronomy.tools"
-        },
-        {
-          "url": "https://developer.github.com/",
-          "title": "GitHub Docs"
-        },
-        {
-          "url": "https://juggle.gaertner.de/",
-          "title": "Juggle Home Page"
-        },
-        {
-          "url": "https://randoma11y.com/",
-          "title": "RandomA11y - Endless collection of accessible color combos"
-        },
-        {
-          "url": "https://renderforest.com/#Videos",
-          "title": "All your design tools in one place | Renderforest"
-        },
-        {
-          "url": "https://rufenacht.com/",
-          "title": "Rufenacht Innovative - new solutions for old problems"
-        },
-        {
-          "url": "https://typeform.com/",
-          "title": "Typeform: People-Friendly Forms and Surveys"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://artsexperiments.withgoogle.com/periodic-table/",
           "title": "3D Periodic Table"
         },
         {
-          "url": "https://ew.com/article/2016/02/25/explosions-in-sky-ted-cruz-campaign",
-          "title": "Explosions In the Sky 'not okay' with Ted Cruz using their song in campaign video"
+          "url": "https://www.syfy.com/syfy-wire/sarah-michelle-gellar-done-with-buffy-the-vampire-slayer",
+          "title": "Buffy the Vampire Slayer: Sarah Michelle Gellar won't return"
         },
         {
-          "url": "https://jogorama.com.br/jogos/playstation-4/6198/destiny/",
-          "title": "Jogo Destiny para PlayStation 4 - Dicas, análise e imagens"
+          "url": "https://www.siriusxm.com/channels/elvis-radio",
+          "title": "Elvis Radio: Music from Elvis Presley | SiriusXM"
+        },
+        {
+          "url": "http://www.ew.com/article/2016/02/25/explosions-in-sky-ted-cruz-campaign",
+          "title": "Explosions In the Sky 'not okay' with Ted Cruz using their song in campaign video"
         },
         {
           "url": "https://pittsburgh.cbslocal.com/2020/01/19/mac-miller-birthday-celebration-pittsburgh/",
           "title": "Fans Gather In Pittsburgh To Celebrate And Remember Mac Miller On His 28th Birthday - CBS Pittsburgh"
         },
         {
-          "url": "https://play.xumo.com",
-          "title": "Xumo Play"
-        },
-        {
-          "url": "https://shift72.com",
-          "title": "Shift72: Secure video on demand platforms"
-        },
-        {
-          "url": "https://siriusxm.com/channels/elvis-radio",
-          "title": "Elvis Radio: Music from Elvis Presley | SiriusXM"
-        },
-        {
-          "url": "https://syfy.com/syfy-wire/sarah-michelle-gellar-done-with-buffy-the-vampire-slayer",
-          "title": "Buffy the Vampire Slayer: Sarah Michelle Gellar won't return"
+          "url": "https://jogorama.com.br/jogos/playstation-4/6198/destiny/",
+          "title": "Jogo Destiny para PlayStation 4 - Dicas, análise e imagens"
         },
         {
           "url": "https://thewaltdisneycompany.com/remembering-disney-legend-burny-mattinson/",
           "title": "Remembering Disney Legend Burny Mattinson - The Walt Disney Company"
+        },
+        {
+          "url": "https://www.shift72.com",
+          "title": "Shift72: Secure video on demand platforms"
+        },
+        {
+          "url": "https://play.xumo.com",
+          "title": "Xumo Play"
         }
       ],
       "count": 9
     },
     {
-      "name": "health-beauty",
-      "bookmarks": [
-        {
-          "url": "https://blackgirlsunscreen.com/about/",
-          "title": "Black Owned Sunscreen Brand & Company | Black Girl Sunscreen"
-        },
-        {
-          "url": "https://idrissderm.com/",
-          "title": "Home - Idriss Dermatology"
-        },
-        {
-          "url": "https://pritikin.com/health-experts",
-          "title": "Physicians & Health Experts - Pritikin Longevity Center"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "shopping-retail",
       "bookmarks": [
         {
-          "url": "https://123inkt.nl/HP-89X-CF289X-toner-zwart-hoge-capaciteit-123inkt-huismerk-CF289XC-i73482-t602712.html",
+          "url": "https://www.123inkt.nl/HP-89X-CF289X-toner-zwart-hoge-capaciteit-123inkt-huismerk-CF289XC-i73482-t602712.html",
           "title": "123inkt huismerk vervangt HP 89X (CF289X) toner zwart hoge capaciteit 123inkt.nl"
         },
         {
-          "url": "https://daiberls-campingshop.de/kederoese-universal-halterung-2er-set.html",
-          "title": "Camping-Zubehör: 200 m² großer Shop - JOHANN DAIBERL"
-        },
-        {
-          "url": "https://firstordercode.com/category/baby",
-          "title": "Baby Gear Promo Codes for October 2025 | FirstOrderCode Canada"
-        },
-        {
-          "url": "https://homeyou.com/directory/hvac/washington/spanaway",
+          "url": "https://www.homeyou.com/directory/hvac/washington/spanaway",
           "title": "13 Best HVAC Contractors in WA (2025), Spanaway 98387 - homeyou"
         },
         {
-          "url": "https://marksandspencer.com/l/mens",
-          "title": "Men's Cashmere Clothing at M&S"
+          "url": "https://www.firstordercode.com/category/baby",
+          "title": "Baby Gear Promo Codes for October 2025 | FirstOrderCode Canada"
         },
         {
-          "url": "https://shopclues.com/",
-          "title": "Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues"
+          "url": "http://www.stripesfleetcards.com/?cc=H3L&utm_medium=referral&utm_campaign=stripes+website&utm_source=stripesstores.com",
+          "title": "Business Universal Card | Take Control of Business Fueling"
+        },
+        {
+          "url": "https://www.daiberls-campingshop.de/kederoese-universal-halterung-2er-set.html",
+          "title": "Camping-Zubehör: 200 m² großer Shop - JOHANN DAIBERL"
         },
         {
           "url": "https://special-led.de/led-leuchtmittell-lamps-light-retrofit.html?led_watt_roehren=1052",
           "title": "LED Leuchtmittel Retrofit (austauschbar)"
         },
         {
-          "url": "https://stripesfleetcards.com/?cc=H3L",
-          "title": "Business Universal Card | Take Control of Business Fueling"
+          "url": "https://www.marksandspencer.com/l/mens",
+          "title": "Men's Cashmere Clothing at M&S"
+        },
+        {
+          "url": "https://www.shopclues.com/",
+          "title": "Online Shopping Site India - Shop Online for men, women and kids fashion, home, kitchen, health, sports and more products at ShopClues"
         }
       ],
       "count": 8
@@ -188,20 +84,16 @@
       "name": "education-learning",
       "bookmarks": [
         {
+          "url": "https://partnerships.coursera.org",
+          "title": "Coursera Partnerships | Coursera"
+        },
+        {
+          "url": "https://gsb.urosario.edu.co/Inicio/?_ga=2.50986857.1991745945.1660754957-1637710740.1648474320",
+          "title": "Graduate School of Business Universidad del Rosario - Business School Bogotá | GSB"
+        },
+        {
           "url": "https://allontario.ca/grants-for-crafts-and-design/",
           "title": "Grants for Crafts and Design - AllOntario"
-        },
-        {
-          "url": "https://doc.rust-lang.org/book/",
-          "title": "The Rust Programming Language - The Rust Programming Language"
-        },
-        {
-          "url": "https://elastic.co/guide/en/elasticsearch/reference/current/analysis.html",
-          "title": "Text analysis | Elastic Docs"
-        },
-        {
-          "url": "https://gsb.urosario.edu.co/Inicio/",
-          "title": "Graduate School of Business Universidad del Rosario - Business School Bogotá | GSB"
         },
         {
           "url": "https://kahoot.it/challenge/007996792",
@@ -212,78 +104,154 @@
           "title": "Quantitative Biosciences and Engineering helps students make sense of biological systems | Colorado School of Mines | Newsroom"
         },
         {
-          "url": "https://partnerships.coursera.org",
-          "title": "Coursera Partnerships | Coursera"
+          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html",
+          "title": "Text analysis | Elastic Docs"
+        },
+        {
+          "url": "https://doc.rust-lang.org/book/",
+          "title": "The Rust Programming Language - The Rust Programming Language"
         }
       ],
       "count": 7
     },
     {
+      "name": "technology-tools",
+      "bookmarks": [
+        {
+          "url": "https://www.renderforest.com/#Videos",
+          "title": "All your design tools in one place | Renderforest"
+        },
+        {
+          "url": "https://astronomy.tools/calculators/field_of_view/",
+          "title": "astronomy.tools"
+        },
+        {
+          "url": "https://developer.github.com/",
+          "title": "GitHub Docs"
+        },
+        {
+          "url": "http://juggle.gaertner.de/",
+          "title": "Juggle Home Page"
+        },
+        {
+          "url": "https://randoma11y.com/",
+          "title": "RandomA11y - Endless collection of accessible color combos"
+        },
+        {
+          "url": "http://www.rufenacht.com/",
+          "title": "Rufenacht Innovative - new solutions for old problems"
+        },
+        {
+          "url": "https://www.typeform.com/?attribution_user_id=b59e8c13-bba9-4049-826b-9e93e06279af",
+          "title": "Typeform: People-Friendly Forms and Surveys"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "business-organizations",
+      "bookmarks": [
+        {
+          "url": "https://www.eastsidefundersgroup.org/",
+          "title": "East Side Funders Group"
+        },
+        {
+          "url": "https://industree.org.in/",
+          "title": "Home | Industree Foundation"
+        },
+        {
+          "url": "https://nvbdc.org/",
+          "title": "National Veteran Business Development Council Certification"
+        },
+        {
+          "url": "https://www.jff.org/",
+          "title": "Transforming systems for the workforce of the future - Jobs for the Future (JFF) - Jobs for the Future (JFF)"
+        },
+        {
+          "url": "https://usblackchambers.org",
+          "title": "U.S. Black Chambers, Inc."
+        },
+        {
+          "url": "https://ushcccares.netlify.app/",
+          "title": "USHCC CARES"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "misc-web-resources",
+      "bookmarks": [
+        {
+          "url": "https://piotrzawada.pl/kasia-michal-palac-mala-wies/20210813_041/",
+          "title": "20210813_041 | Piotr Zawada - Fotografia Ślubna"
+        },
+        {
+          "url": "https://about.medium.com/creators/?source=---two_column_layout_sidebar----------------------------------",
+          "title": "Medium Partner Program"
+        },
+        {
+          "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
+          "title": "MikraotGedolot - AlHaTorah.org"
+        },
+        {
+          "url": "https://go.missingkids.org/l/808593/2019-12-18/5n4b",
+          "title": "Stay in Touch"
+        },
+        {
+          "url": "https://www.lespressesdureel.com/EN/auteur.php?id=661&",
+          "title": "Susan Hiller - Les presses du réel"
+        },
+        {
+          "url": "https://lists.xenproject.org/archives/html/xen-users/2005-11/msg00205.html",
+          "title": "Xen project Mailing List"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "news-publications",
       "bookmarks": [
         {
-          "url": "https://ama-assn.org/health-care-advocacy/advocacy-update/march-26-2021-state-advocacy-update",
-          "title": "March 26, 2021: State Advocacy Update | American Medical Association"
-        },
-        {
-          "url": "https://cm.providencejournal.com/advertise-with-us/",
-          "title": "Unsupported EU page"
-        },
-        {
-          "url": "https://madisonyauger.com",
-          "title": "Madison Yauger"
+          "url": "https://www.renewableenergyworld.com/articles/2019/01/a-study-in-emissionality-why-boston-university-looked-beyond-new-england-for-its-first-wind-power-pu.html",
+          "title": "A Study in Emissionality: Why Boston University Looked Beyond New England for Its First Wind Power Purchase"
         },
         {
           "url": "https://nycdatascience.com/blog/author/akgillermangmail-com/",
           "title": "Adrian Gillerman | Data Science Blog"
         },
         {
-          "url": "https://renewableenergyworld.com/articles/2019/01/a-study-in-emissionality-why-boston-university-looked-beyond-new-england-for-its-first-wind-power-pu.html",
-          "title": "A Study in Emissionality: Why Boston University Looked Beyond New England for Its First Wind Power Purchase"
+          "url": "https://www.madisonyauger.com",
+          "title": "Madison Yauger"
+        },
+        {
+          "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/march-26-2021-state-advocacy-update",
+          "title": "March 26, 2021: State Advocacy Update | American Medical Association"
+        },
+        {
+          "url": "https://cm.providencejournal.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=the_providence_journal&utm_source=local_publication&utm_medium=topnav&utm_campaign=advertise_with_us",
+          "title": "Unsupported EU page"
         }
       ],
       "count": 5
     },
     {
-      "name": "environment-sustainability",
-      "bookmarks": [
-        {
-          "url": "https://aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics",
-          "title": "U.S. Animal Shelter Statistics | Shelter Intake and Surrender | ASPCA"
-        },
-        {
-          "url": "https://bloomberg.org/environment/protecting-the-oceans/bloomberg-ocean/",
-          "title": "Protecting the Ocean | Bloomberg Philanthropies"
-        },
-        {
-          "url": "https://lgrecyclingprogram.com/",
-          "title": "LG Recycling Program | Life's Good when you recycle"
-        },
-        {
-          "url": "https://walmartsustainabilityhub.com/",
-          "title": "Walmart Sustainability Hub"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "personal-blogs",
       "bookmarks": [
-        {
-          "url": "https://artesanointerior.blogspot.com/2011/12/radarcan-la-opcion-mas-saludable-segura.html",
-          "title": "Mi Ser Cordial : Radarcan: la opción mas saludable segura y duradera para evitar molestias y daños de insectos, animales y aves en nuestro entorno y hogar"
-        },
-        {
-          "url": "https://briansit.tumblr.com/",
-          "title": "Sure, If you say so."
-        },
         {
           "url": "https://katespadeny.tumblr.com/",
           "title": "kate spade new york"
         },
         {
+          "url": "http://artesanointerior.blogspot.com/2011/12/radarcan-la-opcion-mas-saludable-segura.html",
+          "title": "Mi Ser Cordial : Radarcan: la opción mas saludable segura y duradera para evitar molestias y daños de insectos, animales y aves en nuestro entorno y hogar"
+        },
+        {
           "url": "https://superherowithoutacape.tumblr.com/",
           "title": "Ramblings of a Wannabe Superhero"
+        },
+        {
+          "url": "https://briansit.tumblr.com/",
+          "title": "Sure, If you say so."
         },
         {
           "url": "https://whatisprivilege-blog.tumblr.com/",
@@ -293,94 +261,118 @@
       "count": 5
     },
     {
-      "name": "reference-data",
-      "bookmarks": [
-        {
-          "url": "https://data.nevcounty.opendata.arcgis.com/",
-          "title": "ArcGIS Hub"
-        },
-        {
-          "url": "https://factmonster.com/encyclopedia/ecology/animals/invertebrates/pink-bollworm",
-          "title": "pink bollworm | FactMonster"
-        },
-        {
-          "url": "https://proteinatlas.org/ENSG00000159363-ATP13A2/cell/HEK+293",
-          "title": "The Human Protein Atlas"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "company-homepages",
       "bookmarks": [
         {
-          "url": "https://help.samsclub.com/app/answers/detail/a_id/354",
-          "title": "Shipping FAQ"
+          "url": "https://www.walmartworld.com/content/walmart-world/en_us/articles/2022/11/chasing-the-dream.html",
+          "title": "Chasing the Dream"
         },
         {
           "url": "https://newsroom.apac.paypal-corp.com/home",
           "title": "PayPal Newsroom - Home"
         },
         {
-          "url": "https://walmartworld.com/content/walmart-world/en_us/articles/2022/11/chasing-the-dream.html",
-          "title": "Chasing the Dream"
+          "url": "https://help.samsclub.com/app/answers/detail/a_id/354?xid=ftr:shipping-faqs",
+          "title": "Shipping FAQ"
         },
         {
-          "url": "https://xumo.com/privacy",
+          "url": "https://www.xumo.com/privacy",
           "title": "Xumo | Privacy"
         }
       ],
       "count": 4
     },
     {
-      "name": "how-to-guides",
+      "name": "environment-sustainability",
       "bookmarks": [
         {
-          "url": "https://goodhousekeeping.com/home/cleaning/a24885/tidy-home-tips/",
-          "title": "An Expert Guide on How to Make Homemade Cleaning Sprays"
+          "url": "http://www.lgrecyclingprogram.com/",
+          "title": "LG Recycling Program | Life's Good when you recycle"
         },
         {
-          "url": "https://ifixit.com/Guide/translate/18385/52978/jp",
-          "title": "Traduzir passo nº 8 a iPhone 5s Front Panel Assembly Replacement - iFixit"
+          "url": "https://www.bloomberg.org/environment/protecting-the-oceans/bloomberg-ocean/",
+          "title": "Protecting the Ocean | Bloomberg Philanthropies"
         },
         {
-          "url": "https://seamwork.com/tutorials/how-to-bind-a-neckline",
-          "title": "Seamwork"
+          "url": "https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics#:~:text=Approximately%206.3%20million%20companion%20animals,and%203.2%20million%20are%20cats.",
+          "title": "U.S. Animal Shelter Statistics | Shelter Intake and Surrender | ASPCA"
+        },
+        {
+          "url": "https://www.walmartsustainabilityhub.com/",
+          "title": "Walmart Sustainability Hub"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "government-agencies",
+      "bookmarks": [
+        {
+          "url": "https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-implement-fair-debt-collection-practices-act/",
+          "title": "Consumer Financial Protection Bureau Issues Final Rule to Implement the Fair Debt Collection Practices Act | Consumer Financial Protection Bureau"
+        },
+        {
+          "url": "https://gis.mesacounty.us/",
+          "title": "Geographic Information Systems (GIS) Department | Mesa County"
+        },
+        {
+          "url": "https://bja.ojp.gov",
+          "title": "Home | Bureau of Justice Assistance"
+        },
+        {
+          "url": "https://raskin.house.gov/2022/12/statement-of-congressman-jamie-raskin-to-the-people-of-maryland-s-8th-district",
+          "title": "Statement of Congressman Jamie Raskin to the People of Maryland's 8th District | Press Releases | Congressman Jamie Raskin"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "health-beauty",
+      "bookmarks": [
+        {
+          "url": "https://www.blackgirlsunscreen.com/about/",
+          "title": "Black Owned Sunscreen Brand & Company | Black Girl Sunscreen"
+        },
+        {
+          "url": "https://www.idrissderm.com/",
+          "title": "Home - Idriss Dermatology"
+        },
+        {
+          "url": "https://www.pritikin.com/health-experts",
+          "title": "Physicians & Health Experts - Pritikin Longevity Center"
         }
       ],
       "count": 3
     },
     {
-      "name": "misc-web-resources",
+      "name": "guides-how-to",
       "bookmarks": [
         {
-          "url": "https://about.medium.com/creators/",
-          "title": "Medium Partner Program"
+          "url": "https://www.goodhousekeeping.com/home/cleaning/a24885/tidy-home-tips/",
+          "title": "An Expert Guide on How to Make Homemade Cleaning Sprays"
         },
         {
-          "url": "https://go.missingkids.org/l/808593/2019-12-18/5n4b",
-          "title": "Stay in Touch"
-        },
-        {
-          "url": "https://lespressesdureel.com/EN/auteur.php?id=661&",
-          "title": "Susan Hiller - Les presses du réel"
-        },
-        {
-          "url": "https://lists.xenproject.org/archives/html/xen-users/2005-11/msg00205.html",
-          "title": "Xen project Mailing List"
-        },
-        {
-          "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
-          "title": "MikraotGedolot - AlHaTorah.org"
-        },
-        {
-          "url": "https://piotrzawada.pl/kasia-michal-palac-mala-wies/20210813_041/",
-          "title": "20210813_041 | Piotr Zawada - Fotografia Ślubna"
+          "url": "https://www.seamwork.com/tutorials/how-to-bind-a-neckline",
+          "title": "Seamwork"
         }
       ],
-      "count": 6
+      "count": 2
+    },
+    {
+      "name": "reference-data",
+      "bookmarks": [
+        {
+          "url": "http://data.nevcounty.opendata.arcgis.com/",
+          "title": "ArcGIS Hub"
+        },
+        {
+          "url": "https://www.factmonster.com/encyclopedia/ecology/animals/invertebrates/pink-bollworm",
+          "title": "pink bollworm | FactMonster"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 74,
-  "num_folders": 13
+  "total_bookmarks": 72,
+  "num_folders": 14
 }

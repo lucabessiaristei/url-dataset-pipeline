@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "academic-education-research",
+      "name": "academic-research-education",
       "bookmarks": [
+        {
+          "url": "https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4",
+          "title": "1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide"
+        },
         {
           "url": "http://www.uw.edu/accessibility",
           "title": "Accessibility at the UW"
@@ -24,16 +28,24 @@
           "title": "Environmental Markets Lab (emLab) | emLab"
         },
         {
+          "url": "https://socratic.org/questions/what-is-the-electron-dot-diagram",
+          "title": "Google Lens - Search What You See"
+        },
+        {
           "url": "http://www.historie-online.dk/boger/i-krig-for-information",
           "title": "I krig for Information"
         },
         {
-          "url": "http://mathworld.wolfram.com/topics/LinearAlgebra.html",
-          "title": "Linear Algebra -- from Wolfram MathWorld"
-        },
-        {
           "url": "https://career.engr.psu.edu/students/index.aspx",
           "title": "index | Penn State Engineering"
+        },
+        {
+          "url": "https://www.eltiempo.com/archivo/documento/CMS-16590901",
+          "title": "Influencia del entorno urbano en la salud del hombre"
+        },
+        {
+          "url": "http://mathworld.wolfram.com/topics/LinearAlgebra.html",
+          "title": "Linear Algebra -- from Wolfram MathWorld"
         },
         {
           "url": "https://www.psoriasis.org/about-psoriasis/",
@@ -42,68 +54,56 @@
         {
           "url": "https://sageprints-blog.tumblr.com/post/150100999272",
           "title": "sage"
-        },
-        {
-          "url": "https://socratic.org/questions/what-is-the-electron-dot-diagram",
-          "title": "Google Lens - Search What You See"
-        },
-        {
-          "url": "https://adminguide.stanford.edu/chapter-1/subchapter-5/policy-1-5-4",
-          "title": "1.5.4 Ownership and Use of Stanford Trademarks and Images | Administrative Guide"
-        },
-        {
-          "url": "https://www.eltiempo.com/archivo/documento/CMS-16590901",
-          "title": "Influencia del entorno urbano en la salud del hombre"
         }
       ],
       "count": 13
     },
     {
-      "name": "news-current-events-general",
+      "name": "general-news-current-events",
       "bookmarks": [
-        {
-          "url": "https://www.berlingske.dk/kommentarer",
-          "title": "Kirkeordførerne hykler i sagen om Morten Kvist | Berlingske"
-        },
-        {
-          "url": "https://cstoredecisions.com/2021/12/02/quiktrip-brings-back-jollytown-mobile-app-contest/",
-          "title": "QuikTrip Brings Back 'JollyTown' Mobile App Contest - CStore Decisions"
-        },
         {
           "url": "https://fr.vietnamplus.vn/4e-session-de-la-commission-de-cooperation-vietnamargentine/57164.vnp",
           "title": "4e Session de la Commission de coopération Vietnam-Argentine | Vietnam+ (VietnamPlus)"
-        },
-        {
-          "url": "https://www.hotnews.ro/stiri-esential-24452530-usr-plus-acuza-guvernul-pnl-isi-bate-joc-romani-decis-noaptea-hotii-prelungirea-carantinei-alba-iulia.htm",
-          "title": "USR PLUS acuză guvernul PNL că își bate joc de români: Au decis noaptea ca hoții prelungirea carantinei în Alba Iulia - HotNews.ro"
-        },
-        {
-          "url": "https://www.iea.org/news/renewable-power-s-growth-is-being-turbocharged-as-countries-seek-to-strengthen-energy-security",
-          "title": "Renewable power's growth is being turbocharged as countries seek to strengthen energy security - News - IEA"
-        },
-        {
-          "url": "https://www.nottinghampost.com/sport/football/",
-          "title": "Football - Latest football news from Nottingham and the UK - Nottinghamshire Live"
-        },
-        {
-          "url": "https://quicktrendnews.wordpress.com/",
-          "title": "quicktrendnews - The news above control"
-        },
-        {
-          "url": "https://www.severe-weather.eu/",
-          "title": "Severe Weather Europe » Global Weather News and Forecasts, covering the United States, Canada and Europe"
-        },
-        {
-          "url": "http://spd-oststeinbek.de/kreisverkehr-an-der-moela/",
-          "title": "Kreisverkehr an der MöLa - SPD Oststeinbek"
         },
         {
           "url": "https://thetechrevolutionist.com/2017/05/finnish-hit-game-big-bang-legends.html",
           "title": "FINNISH HIT GAME BIG BANG LEGENDS LAUNCHES ANDROID VERSION FOR EAST ASIA IN HONG KONG - The Tech Revolutionist"
         },
         {
+          "url": "https://www.nottinghampost.com/sport/football/",
+          "title": "Football - Latest football news from Nottingham and the UK - Nottinghamshire Live"
+        },
+        {
+          "url": "https://www.berlingske.dk/kommentarer",
+          "title": "Kirkeordførerne hykler i sagen om Morten Kvist | Berlingske"
+        },
+        {
+          "url": "http://spd-oststeinbek.de/kreisverkehr-an-der-moela/",
+          "title": "Kreisverkehr an der MöLa - SPD Oststeinbek"
+        },
+        {
+          "url": "https://quicktrendnews.wordpress.com/",
+          "title": "quicktrendnews - The news above control"
+        },
+        {
+          "url": "https://cstoredecisions.com/2021/12/02/quiktrip-brings-back-jollytown-mobile-app-contest/",
+          "title": "QuikTrip Brings Back 'JollyTown' Mobile App Contest - CStore Decisions"
+        },
+        {
+          "url": "https://www.iea.org/news/renewable-power-s-growth-is-being-turbocharged-as-countries-seek-to-strengthen-energy-security",
+          "title": "Renewable power's growth is being turbocharged as countries seek to strengthen energy security - News - IEA"
+        },
+        {
+          "url": "https://www.severe-weather.eu/",
+          "title": "Severe Weather Europe » Global Weather News and Forecasts, covering the United States, Canada and Europe"
+        },
+        {
           "url": "https://en.unesco.org/news/covid-19-ocean-ally-against-virus",
           "title": "UNESCO : Building Peace through Education, Science and Culture, communication and information"
+        },
+        {
+          "url": "https://www.hotnews.ro/stiri-esential-24452530-usr-plus-acuza-guvernul-pnl-isi-bate-joc-romani-decis-noaptea-hotii-prelungirea-carantinei-alba-iulia.htm",
+          "title": "USR PLUS acuză guvernul PNL că își bate joc de români: Au decis noaptea ca hoții prelungirea carantinei în Alba Iulia - HotNews.ro"
         }
       ],
       "count": 11
@@ -112,12 +112,16 @@
       "name": "developer-web-design-resources",
       "bookmarks": [
         {
-          "url": "https://alistapart.com/topics/",
-          "title": "Topics - A List Apart"
+          "url": "https://www.ifixit.com/Guide/iPhone+SE+Battery+Replacement/61385",
+          "title": "Back Case - iFixit Repair Guide"
         },
         {
           "url": "https://bestbuyapis.github.io/api-documentation/#user-guide",
           "title": "Best Buy Developer API Documentation"
+        },
+        {
+          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
+          "title": "Como sites lentos impactam meu negócio? - GoCache"
         },
         {
           "url": "https://www.designlibs.com/",
@@ -128,16 +132,12 @@
           "title": "Developing | Flutter"
         },
         {
-          "url": "https://www.gocache.com.br/dicas/como-sites-lentos-impactam-meu-site/",
-          "title": "Como sites lentos impactam meu negócio? - GoCache"
-        },
-        {
-          "url": "https://www.ifixit.com/Guide/iPhone+SE+Battery+Replacement/61385",
-          "title": "Back Case - iFixit Repair Guide"
-        },
-        {
           "url": "https://developer.microsoft.com/en-us/",
           "title": "Microsoft Developer"
+        },
+        {
+          "url": "https://wikitech-static.wikimedia.org/w/index.php?title=Special:WhatLinksHere/Server_Admin_Log/Archive_30&hidelinks=1",
+          "title": "Pages that link to \"Server Admin Log/Archive 30\" - Wikitech-static"
         },
         {
           "url": "https://randoma11y.com/",
@@ -148,8 +148,8 @@
           "title": "Redirecting..."
         },
         {
-          "url": "https://wikitech-static.wikimedia.org/w/index.php?title=Special:WhatLinksHere/Server_Admin_Log/Archive_30&hidelinks=1",
-          "title": "Pages that link to \"Server Admin Log/Archive 30\" - Wikitech-static"
+          "url": "https://alistapart.com/topics/",
+          "title": "Topics - A List Apart"
         }
       ],
       "count": 10
@@ -158,16 +158,12 @@
       "name": "nonprofit-community-development",
       "bookmarks": [
         {
-          "url": "https://blackbrand.biz/",
-          "title": "Black BRAND | Hampton Roads Black Chamber of Commerce"
-        },
-        {
-          "url": "https://llewellynfoundation.org/",
-          "title": "The Llewellyn Foundation's Web Home:"
-        },
-        {
           "url": "https://mexico.generation.org/stories/alexis-22-pittsburgh/",
           "title": "Alexis | 22 | Pittsburgh | Generation Mexico"
+        },
+        {
+          "url": "https://blackbrand.biz/",
+          "title": "Black BRAND | Hampton Roads Black Chamber of Commerce"
         },
         {
           "url": "https://www.micah.org/",
@@ -182,37 +178,15 @@
           "title": "Silicon Valley Black Chamber of Commerce"
         },
         {
+          "url": "https://llewellynfoundation.org/",
+          "title": "The Llewellyn Foundation's Web Home:"
+        },
+        {
           "url": "https://www.twincitiesrise.org/",
           "title": "Twin Cities R!SE"
         }
       ],
       "count": 7
-    },
-    {
-      "name": "beauty-fashion-retail",
-      "bookmarks": [
-        {
-          "url": "https://www.glossybox.com/",
-          "title": "GLOSSYBOX: The UK's Most Trusted Beauty Box"
-        },
-        {
-          "url": "http://www.jimsclothing.com/",
-          "title": "Home - Jims Clothing"
-        },
-        {
-          "url": "https://kosas.com/products/lipfuel?variant=32907926995001",
-          "title": "LipFuel Lip Balm | Kosas Cosmetics"
-        },
-        {
-          "url": "https://co.fashionnetwork.com/tags/news/la-mer.html",
-          "title": "La Mer : Noticias - FashionNetwork.com Colombia"
-        },
-        {
-          "url": "https://www.rossmann.de/de/kosmetik/make-up/c/0700",
-          "title": "Client Challenge"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "legal-public-governance",
@@ -222,12 +196,12 @@
           "title": "1270.0.55.004 - Australian Statistical Geography Standard (ASGS): Volume 4 - Significant Urban Areas, Urban Centres and Localities, Section of State, July 2011"
         },
         {
-          "url": "https://www.wizardingworld.com/privacy",
-          "title": "Harry Potter | Privacy"
-        },
-        {
           "url": "https://mailchimp.com/legal/privacy/#3._Privacy_for_Contacts",
           "title": "Global Privacy Statement | Intuit"
+        },
+        {
+          "url": "https://www.wizardingworld.com/privacy",
+          "title": "Harry Potter | Privacy"
         },
         {
           "url": "http://www.nrcan.gc.ca/",
@@ -245,32 +219,6 @@
       "count": 6
     },
     {
-      "name": "personal-blogs-social-media",
-      "bookmarks": [
-        {
-          "url": "https://benedicks-dick.tumblr.com/",
-          "title": "Full Fathom Five"
-        },
-        {
-          "url": "https://www.minds.com/newsfeed/867813140184760320",
-          "title": "#奔跑吧# O今晚20:50，要收官啦 ，今天是淑女style | Minds"
-        },
-        {
-          "url": "https://www.pinterest.com/people/",
-          "title": "People (people) - Profile | Pinterest"
-        },
-        {
-          "url": "https://rainbowdash0223.tumblr.com/",
-          "title": "Rainbowdash0223 Design"
-        },
-        {
-          "url": "http://www.sororimmonde.com/article-7324236.html",
-          "title": "Calendrier des Postes - - Sororimmonde - et ta soeur ?"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "sports-hobbies-travel-recipes",
       "bookmarks": [
         {
@@ -278,12 +226,8 @@
           "title": "AqAdvisor - Intelligent Freshwater Tropical Fish Aquarium Stocking Calculator and Aquarium Tank/Filter Advisor"
         },
         {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
-          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
-          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
+          "url": "https://www.cp.pt/passageiros/pt/consultar-horarios",
+          "title": "CP - Comboios de Portugal"
         },
         {
           "url": "https://www.downtowntempe.com/events/amountainchallenge",
@@ -294,19 +238,75 @@
           "title": "F1 Drivers 2025 - Verstappen, Hamilton, Leclerc and more"
         },
         {
-          "url": "https://www.sentres.com/en/mountain-hikes/schwaz/mountain-hikes-in-schwaz/1431387/",
-          "title": "The most beautiful mountain hikes on the Schwaz District » Sentres"
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
+          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
         },
         {
-          "url": "https://www.cp.pt/passageiros/pt/consultar-horarios",
-          "title": "CP - Comboios de Portugal"
+          "url": "https://www.sentres.com/en/mountain-hikes/schwaz/mountain-hikes-in-schwaz/1431387/",
+          "title": "The most beautiful mountain hikes on the Schwaz District » Sentres"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
-      "name": "entertainment-media-celebrity",
+      "name": "fashion-beauty-retail",
       "bookmarks": [
+        {
+          "url": "https://www.rossmann.de/de/kosmetik/make-up/c/0700",
+          "title": "Client Challenge"
+        },
+        {
+          "url": "https://www.glossybox.com/",
+          "title": "GLOSSYBOX: The UK's Most Trusted Beauty Box"
+        },
+        {
+          "url": "http://www.jimsclothing.com/",
+          "title": "Home - Jims Clothing"
+        },
+        {
+          "url": "https://co.fashionnetwork.com/tags/news/la-mer.html",
+          "title": "La Mer : Noticias - FashionNetwork.com Colombia"
+        },
+        {
+          "url": "https://kosas.com/products/lipfuel?variant=32907926995001",
+          "title": "LipFuel Lip Balm | Kosas Cosmetics"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "personal-blogs-social-media",
+      "bookmarks": [
+        {
+          "url": "https://www.minds.com/newsfeed/867813140184760320",
+          "title": "#奔跑吧# O今晚20:50，要收官啦 ，今天是淑女style | Minds"
+        },
+        {
+          "url": "http://www.sororimmonde.com/article-7324236.html",
+          "title": "Calendrier des Postes - - Sororimmonde - et ta soeur ?"
+        },
+        {
+          "url": "https://benedicks-dick.tumblr.com/",
+          "title": "Full Fathom Five"
+        },
+        {
+          "url": "https://www.pinterest.com/people/",
+          "title": "People (people) - Profile | Pinterest"
+        },
+        {
+          "url": "https://rainbowdash0223.tumblr.com/",
+          "title": "Rainbowdash0223 Design"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "celebrity-entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://omny.fm/shows/the-undressing-room/cry-me-a-river-episode-3?fbclid=IwAR2tkSUQ9pmRZTCwy1RvFJk4BxmCqHTgMnb7sKOp-IQqsONTjAkyYh4Su2I",
+          "title": "Cry Me A River | Episode 3 - The Undressing Room Podcast - Omny.fm"
+        },
         {
           "url": "https://www.siriusxm.com/channels/elvis-radio",
           "title": "Elvis Radio: Music from Elvis Presley | SiriusXM"
@@ -316,47 +316,11 @@
           "title": "Jill Martin: We're engaged ... again! Why this time around is different"
         },
         {
-          "url": "https://omny.fm/shows/the-undressing-room/cry-me-a-river-episode-3?fbclid=IwAR2tkSUQ9pmRZTCwy1RvFJk4BxmCqHTgMnb7sKOp-IQqsONTjAkyYh4Su2I",
-          "title": "Cry Me A River | Episode 3 - The Undressing Room Podcast - Omny.fm"
-        },
-        {
           "url": "https://thescottbrothers.com/meet-the-parents-jessica-alba-cash-warren/",
           "title": "Meet the Parents: Jessica Alba & Cash Warren - Drew & Jonathan"
         }
       ],
       "count": 4
-    },
-    {
-      "name": "business-corporate-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.featuredcustomers.com/vendor/kickdynamic",
-          "title": "Featured Customers | Find B2B & SaaS Software & Services - Reviews, Testimonials & Case Studies"
-        },
-        {
-          "url": "http://www.targetpayandbenefits.com/",
-          "title": "Your Benefits Resources -- Greeting Page"
-        },
-        {
-          "url": "http://walmartethics.com",
-          "title": "Walmart Ethics - English (US)"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "environmental-sustainability-resources",
-      "bookmarks": [
-        {
-          "url": "https://cebuyers.org/",
-          "title": "Clean Energy Buyers Association"
-        },
-        {
-          "url": "https://restor.eco/",
-          "title": "Restor | Global hub for nature restoration and conservation"
-        }
-      ],
-      "count": 2
     },
     {
       "name": "product-brands-info",
@@ -375,8 +339,36 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "business-corporate-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.featuredcustomers.com/vendor/kickdynamic",
+          "title": "Featured Customers | Find B2B & SaaS Software & Services - Reviews, Testimonials & Case Studies"
+        },
+        {
+          "url": "http://www.targetpayandbenefits.com/",
+          "title": "Your Benefits Resources -- Greeting Page"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "environmental-sustainability-resources",
+      "bookmarks": [
+        {
+          "url": "https://cebuyers.org/",
+          "title": "Clean Energy Buyers Association"
+        },
+        {
+          "url": "https://restor.eco/",
+          "title": "Restor | Global hub for nature restoration and conservation"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 76,
+  "total_bookmarks": 74,
   "num_folders": 12
 }

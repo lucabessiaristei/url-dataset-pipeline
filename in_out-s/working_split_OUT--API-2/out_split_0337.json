@@ -1,48 +1,6 @@
 {
   "folders": [
     {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "https://www.fdic.gov/",
-          "title": "FDIC: Federal Deposit Insurance Corporation"
-        },
-        {
-          "url": "https://goyff.az.gov/content/about-goyff",
-          "title": "About | Governor's Office of Youth, Faith and Family"
-        },
-        {
-          "url": "https://my.rwjf.org/login.do",
-          "title": "MyRWJF - Sign in"
-        },
-        {
-          "url": "https://www.nsf.gov/",
-          "title": "NSF - National Science Foundation"
-        },
-        {
-          "url": "https://www.imo.org/en/OurWork/Legal/Pages/Registration-of-ships-and-fraudulent-registration-matters.aspx",
-          "title": "Registration of ships and fraudulent registration matters"
-        },
-        {
-          "url": "https://osc.gov",
-          "title": "Home"
-        },
-        {
-          "url": "https://press.un.org/en/highlights/UNGA77",
-          "title": "High-level meetings of the 77th session of the General Assembly | Meetings Coverage and Press Releases"
-        },
-        {
-          "url": "https://www.gst.gov.in",
-          "title": "Goods & Services Tax (GST) | Home"
-        },
-        {
-          "url": "https://www.valencia.es/",
-          "title": "Portal del Ayuntamiento de la ciudad de Valencia - València"
-        }
-      ],
-      "count": 9
-    },
-    {
       "name": "nonprofit-organizations",
       "bookmarks": [
         {
@@ -50,81 +8,131 @@
           "title": "2025 Partnerships - Step 1 - EARTHDAY.ORG"
         },
         {
-          "url": "https://change-labs.org/",
-          "title": "Change Labs"
-        },
-        {
           "url": "https://emmanorton.org/",
           "title": "Emma Norton Services | Strengthening, Nurturing, and Empowering"
-        },
-        {
-          "url": "https://huridocs.org/",
-          "title": "Home | HURIDOCS"
-        },
-        {
-          "url": "https://nvbdc.org/",
-          "title": "National Veteran Business Development Council Certification"
-        },
-        {
-          "url": "https://veteransgrowingamerica.com/",
-          "title": "void"
-        },
-        {
-          "url": "https://www.archivesfoundation.org/documents/refugee-act-1980/",
-          "title": "Refugee Act of 1980"
         },
         {
           "url": "https://www.fondation-bertarelli.org",
           "title": "Fondation Bertarelli"
         },
         {
-          "url": "https://www.greaterbaltimoreblackchamber.org/",
-          "title": "void"
+          "url": "https://huridocs.org/",
+          "title": "Home | HURIDOCS"
         },
         {
           "url": "https://www.mccormickfoundation.org/",
           "title": "Homepage - Robert R. Mccormick Foundation"
         },
         {
+          "url": "https://nvbdc.org/",
+          "title": "National Veteran Business Development Council Certification"
+        },
+        {
+          "url": "https://www.archivesfoundation.org/documents/refugee-act-1980/",
+          "title": "Refugee Act of 1980"
+        },
+        {
           "url": "https://www.unitedwayhp.org/",
           "title": "United Way Of Greater High Point | High Point"
         },
         {
-          "url": "https://www.waittinstitute.org",
+          "url": "https://veteransgrowingamerica.com/",
+          "title": "void"
+        },
+        {
+          "url": "https://www.greaterbaltimoreblackchamber.org/",
+          "title": "void"
+        },
+        {
+          "url": "http://www.waittinstitute.org",
           "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
         }
       ],
-      "count": 12
+      "count": 11
     },
     {
-      "name": "museums-culture",
+      "name": "government-agencies",
       "bookmarks": [
         {
-          "url": "https://www.louvre.fr/en/explore/the-palace",
-          "title": "The palace - From the former palace of the French monarchs to the largest museum in the world"
+          "url": "https://goyff.az.gov/content/about-goyff",
+          "title": "About | Governor's Office of Youth, Faith and Family"
         },
         {
-          "url": "https://www.metmuseum.org/exhibitions",
-          "title": "Exhibitions - The Metropolitan Museum of Art"
+          "url": "https://www.fdic.gov/",
+          "title": "FDIC: Federal Deposit Insurance Corporation"
         },
         {
-          "url": "https://www.museoscienza.org/",
-          "title": "Museo Nazionale della Scienza e della Tecnologia"
+          "url": "https://www.gst.gov.in",
+          "title": "Goods & Services Tax (GST) | Home"
         },
         {
-          "url": "https://www.stavangermuseum.no/mitt-stavanger/om-1500-1600-tallet",
-          "title": "1500-1600-tallet - Stavanger Museum"
+          "url": "https://press.un.org/en/highlights/UNGA77",
+          "title": "High-level meetings of the 77th session of the General Assembly | Meetings Coverage and Press Releases"
         },
         {
-          "url": "http://telegraphe-chappe.com/chappe/reseauC.html",
-          "title": "Le réseau Chappe sous la Restauration (1815-1830)"
+          "url": "https://osc.gov",
+          "title": "Home"
         },
         {
-          "url": "https://www.ips.it/musis/musis.html",
-          "title": "MUSIS net"
+          "url": "https://my.rwjf.org/login.do",
+          "title": "MyRWJF - Sign in"
+        },
+        {
+          "url": "http://www.nsf.gov/",
+          "title": "NSF - National Science Foundation"
+        },
+        {
+          "url": "https://www.valencia.es/",
+          "title": "Portal del Ayuntamiento de la ciudad de Valencia - València"
+        },
+        {
+          "url": "https://www.imo.org/en/OurWork/Legal/Pages/Registration-of-ships-and-fraudulent-registration-matters.aspx",
+          "title": "Registration of ships and fraudulent registration matters"
         }
       ],
-      "count": 6
+      "count": 9
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://z-news.link/anniversary-of-the-olympics-80-what-were-the-most-pure-moscow-games/",
+          "title": "Anniversary of the Olympics-80: what were the most \"pure\" Moscow Games"
+        },
+        {
+          "url": "https://www.pressherald.com/2023/02/27/missing-topsham-women-had-run-out-of-gas-survived-temps-of-15-degrees/",
+          "title": "Before rescue, missing Midcoast women were stuck in car for days in sub-zero temps"
+        },
+        {
+          "url": "https://www.dayitalianews.com/caltagirone-protocollo-violenza-donne-disparita-genere/",
+          "title": "Caltagirone, firmato un protocollo d'intesa per la prevenzione della violenza sulle donne e la disparità di genere"
+        },
+        {
+          "url": "https://www.theverge.com/2021/10/28/22745234/facebook-new-name-meta-metaverse-zuckerberg-rebrand",
+          "title": "Facebook's new name is Meta | The Verge"
+        },
+        {
+          "url": "https://flipboard.com",
+          "title": "Flipboard: Your Social Magazine"
+        },
+        {
+          "url": "https://www.woodtv.com/news/target-8/wrongfully-convicted-man-to-walk-free-from-prison/",
+          "title": "Man freed from Michigan prison 21 years after conviction for Kalamazoo County murders"
+        },
+        {
+          "url": "https://mundomisterioso.net/2021/04/la-inmensa-minoria-22-04-21-programa-completo.html?share=reddit",
+          "title": "Reddit - The heart of the internet"
+        },
+        {
+          "url": "https://www.stripes.com/theaters/europe/2008-11-09/slain-teen%E2%80%99s-mom-still-seeks-justice-1986876.html1",
+          "title": "Slain teen's mom still seeks justice | Stars and Stripes"
+        },
+        {
+          "url": "https://blog.medium.com/what-were-reading-are-you-an-upstander-or-a-bystander-81f618ff072c?source=home---------6------------------0----------",
+          "title": "What We're Reading: Are you an upstander or a bystander? | by Medium Staff | The Medium Blog | Medium"
+        }
+      ],
+      "count": 9
     },
     {
       "name": "technology-development",
@@ -132,14 +140,6 @@
         {
           "url": "https://ai-writer.com/",
           "title": "AI-Writer.com - Trustworthy AI Writing for Academia & Marketing"
-        },
-        {
-          "url": "https://earth.esa.int/eogateway/missions/Spire",
-          "title": "undefined - Earth Online"
-        },
-        {
-          "url": "https://fonttools.readthedocs.io/en/latest/ttLib/ttFont.html",
-          "title": "ttFont: Read and write font contents - fontTools Documentation"
         },
         {
           "url": "https://go.dev/doc/effective_go",
@@ -150,10 +150,6 @@
           "title": "Google AI Impact Challenge 2018"
         },
         {
-          "url": "https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61",
-          "title": "We're Finally Starting to Understand How AI Works | by The PyCoach | Artificial Corner | Medium"
-        },
-        {
           "url": "https://www.race-technology.com/wiki/index.php/InstallingTheSystem/MountingThePeliCase",
           "title": "Race Technology Knowledge Base | InstallingTheSystem / MountingThePeliCase"
         },
@@ -162,18 +158,110 @@
           "title": "Silver Oxide Primary Button Batteries Technology, Application & Market Review - 2025 - Shmuel De-Leon Energy - Battery knowledge"
         },
         {
+          "url": "https://fonttools.readthedocs.io/en/latest/ttLib/ttFont.html",
+          "title": "ttFont: Read and write font contents - fontTools Documentation"
+        },
+        {
+          "url": "https://earth.esa.int/eogateway/missions/Spire",
+          "title": "undefined - Earth Online"
+        },
+        {
           "url": "https://www.w3.org/WAI/intro/wcag",
           "title": "WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C"
+        },
+        {
+          "url": "https://medium.com/artificial-corner/were-finally-starting-to-understand-how-ai-works-26556c755e61",
+          "title": "We're Finally Starting to Understand How AI Works | by The PyCoach | Artificial Corner | Medium"
         }
       ],
       "count": 9
     },
     {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://bibliobrey.blogspot.com/2010/02/don-moucho-quere-saber.html",
+          "title": "Blog da biblioteca do CEIP Fermín Bouza Brey: DON MOUCHO QUERE SABER"
+        },
+        {
+          "url": "https://campusvirtualur.urosario.edu.co/?_ga=2.138458615.531037380.1659966417-1736208058.1659478684",
+          "title": "Campus Virtual - Universidad del Rosario | campus"
+        },
+        {
+          "url": "https://www.e-romania.org/tag/estudis-romanics/",
+          "title": "Estudis Romànics - E-Romania. Romanística en España"
+        },
+        {
+          "url": "http://www.hcibib.org/hci-sites/BIBLIOGRAPHY.html",
+          "title": "HCI Bibliography : HCI Webliography : HCI-SITES : BIBLIOGRAPHY"
+        },
+        {
+          "url": "https://www.edx.org/learn/cybersecurity",
+          "title": "How to learn cybersecurity online | edX"
+        },
+        {
+          "url": "https://www.st-marys-clayton-le-moors.lancs.sch.uk/policy-documents/child-protection",
+          "title": "St Mary's Roman Catholic Primary School - Safeguarding"
+        },
+        {
+          "url": "https://thenauticalalmanac.com/",
+          "title": "The Nautical Almanac"
+        },
+        {
+          "url": "http://dict.youdao.com/w/ein_visum_bewilligen/",
+          "title": "【ein_visum_bewilligen】什么意思_英语ein_visum_bewilligen的翻译_音标_读音_用法_例句_在线翻译_有道词典"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "miscellaneous",
+      "bookmarks": [
+        {
+          "url": "https://example.com",
+          "title": "Example Domain"
+        },
+        {
+          "url": "http://wwd.com/fashion-news/designer-luxury/exclusive-chanel-new-ads-pharrell-williams-kristen-stewart-gabrielle-bag-10840808/",
+          "title": "Exclusive: Pharrell Williams First Man to Appear in Chanel Handbag Ads"
+        },
+        {
+          "url": "https://i-doser.com/privacy.html",
+          "title": "iDoser Privacy Policy and Disclaimer"
+        },
+        {
+          "url": "https://tapestrycx.qualtrics.com/jfe/form/SV_elDxRRjYI5oIVfg?Source=footer1",
+          "title": "Online Survey | Built with Qualtrics Experience Management™"
+        },
+        {
+          "url": "https://www.publicnoticeillinois.com#nt=primarynavbar",
+          "title": "Public Notice Illinois | Illinois Press Association - Springfield, IL"
+        },
+        {
+          "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx?symbolno=INT%2FCAT%2FNGO%2FISR%2F23473&Lang=fr",
+          "title": "void"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/wijk-en-buurtkaart-2020",
+          "title": "Wijk- en buurtkaart 2020 | CBS"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "business-services",
       "bookmarks": [
         {
-          "url": "https://agentschoiceonline.com/",
-          "title": "The Agent's Choice"
+          "url": "https://www.call2recycle.ca/",
+          "title": "Call2Recycle Canada | Battery Recycling & Collection Services"
+        },
+        {
+          "url": "http://www.editcnc.com/",
+          "title": "CNC g-code editor with DNC"
+        },
+        {
+          "url": "https://www.seafoodbrasil.com.br/iniciativa-opentuna-vence-primeiro-premio-no-tuna-awards-em-vigo",
+          "title": "Iniciativa OpenTuna vence primeiro prêmio no Tuna Awards, em Vigo - Seafood Brasil | Seafood Brasil"
         },
         {
           "url": "https://cardconnect.com/company/copilot",
@@ -184,152 +272,98 @@
           "title": "Natural Boot Rack | The Container Store"
         },
         {
-          "url": "https://www.editcnc.com/",
-          "title": "CNC g-code editor with DNC"
-        },
-        {
-          "url": "http://www.seafoodbrasil.com.br/iniciativa-opentuna-vence-primeiro-premio-no-tuna-awards-em-vigo",
-          "title": "Iniciativa OpenTuna vence primeiro prêmio no Tuna Awards, em Vigo - Seafood Brasil | Seafood Brasil"
-        },
-        {
-          "url": "https://www.call2recycle.ca/",
-          "title": "Call2Recycle Canada | Battery Recycling & Collection Services"
+          "url": "http://agentschoiceonline.com/",
+          "title": "The Agent's Choice"
         }
       ],
       "count": 6
     },
     {
-      "name": "travel-hospitality",
-      "bookmarks": [
-        {
-          "url": "https://inkaexperience.com/",
-          "title": "Inka Experience » Perú Travel Agency"
-        },
-        {
-          "url": "https://samuelssweetshop.com/",
-          "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
-        },
-        {
-          "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/",
-          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
-        },
-        {
-          "url": "https://www.wizzair.com/hu-hu#/",
-          "title": "Wizz Air | Olcsó repülőjegyek | Találd meg a legjobb repülőjegy-ajánlatokat"
-        },
-        {
-          "url": "https://www.airbnb.co.in/",
-          "title": "Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes & Experiences"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education-resources",
-      "bookmarks": [
-        {
-          "url": "https://bibliobrey.blogspot.com/2010/02/don-moucho-quere-saber.html",
-          "title": "Blog da biblioteca do CEIP Fermín Bouza Brey: DON MOUCHO QUERE SABER"
-        },
-        {
-          "url": "https://campusvirtualur.urosario.edu.co/",
-          "title": "Campus Virtual - Universidad del Rosario | campus"
-        },
-        {
-          "url": "https://dict.youdao.com/w/ein_visum_bewilligen/",
-          "title": "【ein_visum_bewilligen】什么意思_英语ein_visum_bewilligen的翻译_音标_读音_用法_例句_在线翻译_有道词典"
-        },
-        {
-          "url": "https://www.edx.org/learn/cybersecurity",
-          "title": "How to learn cybersecurity online | edX"
-        },
-        {
-          "url": "https://www.e-romania.org/tag/estudis-romanics/",
-          "title": "Estudis Romànics - E-Romania. Romanística en España"
-        },
-        {
-          "url": "https://www.hcibib.org/hci-sites/BIBLIOGRAPHY.html",
-          "title": "HCI Bibliography : HCI Webliography : HCI-SITES : BIBLIOGRAPHY"
-        },
-        {
-          "url": "https://www.st-marys-clayton-le-moors.lancs.sch.uk/policy-documents/child-protection",
-          "title": "St Mary's Roman Catholic Primary School - Safeguarding"
-        },
-        {
-          "url": "https://www.thenauticalalmanac.com/",
-          "title": "The Nautical Almanac"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://blog.medium.com/what-were-reading-are-you-an-upstander-or-a-bystander-81f618ff072c",
-          "title": "What We're Reading: Are you an upstander or a bystander? | by Medium Staff | The Medium Blog | Medium"
-        },
-        {
-          "url": "https://flipboard.com",
-          "title": "Flipboard: Your Social Magazine"
-        },
-        {
-          "url": "https://mundomisterioso.net/2021/04/la-inmensa-minoria-22-04-21-programa-completo.html",
-          "title": "Reddit - The heart of the internet"
-        },
-        {
-          "url": "https://www.dayitalianews.com/caltagirone-protocollo-violenza-donne-disparita-genere/",
-          "title": "Caltagirone, firmato un protocollo d'intesa per la prevenzione della violenza sulle donne e la disparità di genere"
-        },
-        {
-          "url": "https://www.pressherald.com/2023/02/27/missing-topsham-women-had-run-out-of-gas-survived-temps-of-15-degrees/",
-          "title": "Before rescue, missing Midcoast women were stuck in car for days in sub-zero temps"
-        },
-        {
-          "url": "https://www.stripes.com/theaters/europe/2008-11-09/slain-teen%E2%80%99s-mom-still-seeks-justice-1986876.html1",
-          "title": "Slain teen's mom still seeks justice | Stars and Stripes"
-        },
-        {
-          "url": "https://www.theverge.com/2021/10/28/22745234/facebook-new-name-meta-metaverse-zuckerberg-rebrand",
-          "title": "Facebook's new name is Meta | The Verge"
-        },
-        {
-          "url": "https://www.woodtv.com/news/target-8/wrongfully-convicted-man-to-walk-free-from-prison/",
-          "title": "Man freed from Michigan prison 21 years after conviction for Kalamazoo County murders"
-        },
-        {
-          "url": "https://z-news.link/anniversary-of-the-olympics-80-what-were-the-most-pure-moscow-games/",
-          "title": "Anniversary of the Olympics-80: what were the most \"pure\" Moscow Games"
-        }
-      ],
-      "count": 9
-    },
-    {
       "name": "health-medical",
       "bookmarks": [
-        {
-          "url": "https://covid.cdc.gov/covid-data-tracker/#datatracker-home",
-          "title": "CDT Redirect Page"
-        },
-        {
-          "url": "https://pubmed.ncbi.nlm.nih.gov/25356022/",
-          "title": "Chemotherapy-related reactivation of hepatitis B infection: updates in 2013 - PubMed"
-        },
-        {
-          "url": "https://www.questdiagnostics.com/home/Covid-19/Patients/tat/",
-          "title": "COVID-19 testing for patients | Quest Corporate"
-        },
-        {
-          "url": "https://www.aromatherapyassociates.com/usa/revive-polishing-body-brush.html",
-          "title": "Revive Body Brush for Exfoliation | Aromatherapy Associates"
-        },
         {
           "url": "https://www.drinkbai.com/bai-boost",
           "title": "Bai Boost - Bai"
         },
         {
+          "url": "https://covid.cdc.gov/covid-data-tracker/#datatracker-home",
+          "title": "CDT Redirect Page"
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25356022/?dopt=Abstract",
+          "title": "Chemotherapy-related reactivation of hepatitis B infection: updates in 2013 - PubMed"
+        },
+        {
+          "url": "https://www.questdiagnostics.com/home/Covid-19/Patients/tat/?elqTrackId=3a3730169075450782568a6765108741&elqaid=93&elqat=2",
+          "title": "COVID-19 testing for patients | Quest Corporate"
+        },
+        {
           "url": "https://www.incommonbeauty.com/",
           "title": "IN COMMON Beauty | Luxury Haircare Inspired by Riawna Capri& Nikki Lee"
+        },
+        {
+          "url": "https://www.aromatherapyassociates.com/usa/revive-polishing-body-brush.html",
+          "title": "Revive Body Brush for Exfoliation | Aromatherapy Associates"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "museums-culture",
+      "bookmarks": [
+        {
+          "url": "https://www.stavangermuseum.no/mitt-stavanger/om-1500-1600-tallet",
+          "title": "1500-1600-tallet - Stavanger Museum"
+        },
+        {
+          "url": "https://www.metmuseum.org/exhibitions",
+          "title": "Exhibitions - The Metropolitan Museum of Art"
+        },
+        {
+          "url": "http://telegraphe-chappe.com/chappe/reseauC.html",
+          "title": "Le réseau Chappe sous la Restauration (1815-1830)"
+        },
+        {
+          "url": "http://www.museoscienza.org/",
+          "title": "Museo Nazionale della Scienza e della Tecnologia"
+        },
+        {
+          "url": "http://www.ips.it/musis/musis.html",
+          "title": "MUSIS net"
+        },
+        {
+          "url": "https://www.louvre.fr/en/explore/the-palace",
+          "title": "The palace - From the former palace of the French monarchs to the largest museum in the world"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "personal-websites",
+      "bookmarks": [
+        {
+          "url": "https://blaqplastik.tumblr.com/",
+          "title": "@blaqplastik on Tumblr"
+        },
+        {
+          "url": "https://angusmon.tumblr.com/",
+          "title": "Angusmon"
+        },
+        {
+          "url": "https://villasenor-derbez.com/",
+          "title": "Juan Carlos Villaseñor-Derbez"
+        },
+        {
+          "url": "https://ma.tt/",
+          "title": "Matt Mullenweg | Unlucky in Cards"
+        },
+        {
+          "url": "https://katepearce.com/books/redeeming-jack/",
+          "title": "Redeeming Jack | Kate Pearce"
+        },
+        {
+          "url": "https://noelautnerstory.blogspot.com/2021/09/resena-minerva-en-las-nubes-de-pintina.html?showComment=1632515426397",
+          "title": "Reseña: Minerva en las nubes de Pintina Cuneo - Entre páginas y letras"
         }
       ],
       "count": 6
@@ -342,16 +376,16 @@
           "title": "Bella sara - The magical world of Bella Sara"
         },
         {
-          "url": "https://getpocket.com/firefox_learnmore/",
+          "url": "https://www.hidive.com",
+          "title": "HIDIVE: Watch Anime Anywhere"
+        },
+        {
+          "url": "https://getpocket.com/firefox_learnmore/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
           "title": "Pocket"
         },
         {
           "url": "https://tubitv.com",
           "title": "Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws."
-        },
-        {
-          "url": "https://www.hidive.com",
-          "title": "HIDIVE: Watch Anime Anywhere"
         },
         {
           "url": "https://www.instagram.com/youtube/",
@@ -361,38 +395,12 @@
       "count": 5
     },
     {
-      "name": "personal-websites",
-      "bookmarks": [
-        {
-          "url": "https://angusmon.tumblr.com/",
-          "title": "Angusmon"
-        },
-        {
-          "url": "https://blaqplastik.tumblr.com/",
-          "title": "@blaqplastik on Tumblr"
-        },
-        {
-          "url": "https://katepearce.com/books/redeeming-jack/",
-          "title": "Redeeming Jack | Kate Pearce"
-        },
-        {
-          "url": "https://ma.tt/",
-          "title": "Matt Mullenweg | Unlucky in Cards"
-        },
-        {
-          "url": "https://noelautnerstory.blogspot.com/2021/09/resena-minerva-en-las-nubes-de-pintina.html",
-          "title": "Reseña: Minerva en las nubes de Pintina Cuneo - Entre páginas y letras"
-        },
-        {
-          "url": "https://villasenor-derbez.com/",
-          "title": "Juan Carlos Villaseñor-Derbez"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "software-tools",
       "bookmarks": [
+        {
+          "url": "https://nl.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress plugin | WordPress.org Nederlands"
+        },
         {
           "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance/",
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
@@ -402,16 +410,38 @@
           "title": "IMGBIN.com - Download Transparent PNG Images, For Free"
         },
         {
-          "url": "https://nl.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress plugin | WordPress.org Nederlands"
+          "url": "https://w3w.magnetix-wellness.com/fr/product/bijoux-magnetiques-pour-enfants/pendentif-4788",
+          "title": "Magnetschmuck Wellness von MAGNETIX Wellness | MAGNETIX"
         },
         {
           "url": "https://skinseedapp.com/",
           "title": "Skinseed"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "travel-hospitality",
+      "bookmarks": [
+        {
+          "url": "https://www.airbnb.co.in/?locale=en&_set_bev_on_new_domain=1606041642_YjI0OGQ3OWI5MDI2",
+          "title": "Airbnb: Holiday Rentals, Cabins, Beach Houses, Unique Homes & Experiences"
         },
         {
-          "url": "https://w3w.magnetix-wellness.com/fr/product/bijoux-magnetiques-pour-enfants/pendentif-4788",
-          "title": "Magnetschmuck Wellness von MAGNETIX Wellness | MAGNETIX"
+          "url": "https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip",
+          "title": "Best 5 Star Hotel In Jaipur | Luxury Resort in Jaipur | The Oberoi Rajvilas"
+        },
+        {
+          "url": "https://inkaexperience.com/",
+          "title": "Inka Experience » Perú Travel Agency"
+        },
+        {
+          "url": "https://samuelssweetshop.com/",
+          "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
+        },
+        {
+          "url": "https://www.wizzair.com/hu-hu#/",
+          "title": "Wizz Air | Olcsó repülőjegyek | Találd meg a legjobb repülőjegy-ajánlatokat"
         }
       ],
       "count": 5
@@ -424,12 +454,12 @@
           "title": "Coworking spaces to provide spouses with remote work, training opportunities | Article | The United States Army"
         },
         {
-          "url": "https://www.moaa.org/",
-          "title": "MOAA - MOAA Home Page"
+          "url": "http://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0015",
+          "title": "Maritime Safety Information"
         },
         {
-          "url": "https://msi.nga.mil/NGAPortal/MSI.portal",
-          "title": "Maritime Safety Information"
+          "url": "https://www.moaa.org/",
+          "title": "MOAA - MOAA Home Page"
         }
       ],
       "count": 3
@@ -438,55 +468,21 @@
       "name": "sports",
       "bookmarks": [
         {
+          "url": "https://www.samsung.com/us/watches/galaxy-watch5-pro/",
+          "title": "Explore Galaxy Watch Ultra | Premium Smartwatch | Samsung US"
+        },
+        {
           "url": "https://www.klyricsforyou.com/2021/01/iu-celebrity.html",
           "title": "IU - Celebrity Lyrics - K-Lyrics For You"
         },
         {
           "url": "https://www.nba.com/game/okc-vs-lal-0022200821/box-score",
           "title": "Oklahoma City Thunder vs Los Angeles Lakers Feb 7, 2023 Box Scores | NBA.com"
-        },
-        {
-          "url": "https://www.samsung.com/us/watches/galaxy-watch5-pro/",
-          "title": "Explore Galaxy Watch Ultra | Premium Smartwatch | Samsung US"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "miscellaneous",
-      "bookmarks": [
-        {
-          "url": "https://example.com",
-          "title": "Example Domain"
-        },
-        {
-          "url": "https://i-doser.com/privacy.html",
-          "title": "iDoser Privacy Policy and Disclaimer"
-        },
-        {
-          "url": "https://tapestrycx.qualtrics.com/jfe/form/SV_elDxRRjYI5oIVfg",
-          "title": "Online Survey | Built with Qualtrics Experience Management™"
-        },
-        {
-          "url": "https://tbinternet.ohchr.org/_layouts/15/treatybodyexternal/Download.aspx",
-          "title": "void"
-        },
-        {
-          "url": "https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/wijk-en-buurtkaart-2020",
-          "title": "Wijk- en buurtkaart 2020 | CBS"
-        },
-        {
-          "url": "https://www.publicnoticeillinois.com",
-          "title": "Public Notice Illinois | Illinois Press Association - Springfield, IL"
-        },
-        {
-          "url": "https://wwd.com/fashion-news/designer-luxury/exclusive-chanel-new-ads-pharrell-williams-kristen-stewart-gabrielle-bag-10840808/",
-          "title": "Exclusive: Pharrell Williams First Man to Appear in Chanel Handbag Ads"
-        }
-      ],
-      "count": 7
     }
   ],
-  "total_bookmarks": 99,
-  "num_folders": 14
+  "total_bookmarks": 98,
+  "num_folders": 15
 }

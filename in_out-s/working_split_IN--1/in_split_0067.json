@@ -103,12 +103,6 @@
       "preview": "America's SBDCs Your Vision for Tomorrow Starts Today. You don't have to build your business alone. Our expert, no-cost advisors provide the guidance"
     },
     {
-      "url": "https://jwt.io/",
-      "title": "JSON Web Tokens - jwt.io",
-      "description": "JSON Web Token (JWT) is a compact URL-safe means of representing claims to be transferred between two parties. The claims in a JWT are encoded as a JSON object that is digitally signed using JSON Web Signature (JWS).",
-      "preview": "Debugger Introduction Libraries Ask JSON Web Token (JWT) Debugger + Decode, verify, and generate JSON Web Tokens, which are an open, industry standard"
-    },
-    {
       "url": "https://jobs.accaglobal.com/?utm_source=ACCAglobal&utm_medium=referral&utm_campaign=navbar1",
       "title": "ACCA Careers | jobs | Choose from 26,089 live vacancies",
       "description": "Search for your next job from 26,089 live vacancies, or upload your CV now and let recruiters find you",
@@ -734,6 +728,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 122
+    "total_bookmarks": 121
   }
 }

@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.capiusa.org/",
@@ -10,10 +10,6 @@
         {
           "url": "https://centrepoint.org.uk/",
           "title": "Centrepoint | Home"
-        },
-        {
-          "url": "https://www.fredrogers.org/",
-          "title": "Home - Fred Rogers Productions"
         },
         {
           "url": "https://goodweave.org/",
@@ -28,12 +24,12 @@
           "title": "Habitat for Humanity"
         },
         {
-          "url": "http://kaporcenter.org",
-          "title": "Homepage - Kapor Center"
+          "url": "https://www.fredrogers.org/",
+          "title": "Home - Fred Rogers Productions"
         },
         {
-          "url": "https://www.missioncontinues.org/",
-          "title": "The Mission Continues - Volunteer Today | The Mission Continues"
+          "url": "http://kaporcenter.org",
+          "title": "Homepage - Kapor Center"
         },
         {
           "url": "https://www.nnwa.us/",
@@ -46,6 +42,10 @@
         {
           "url": "http://www.rwjf.org/",
           "title": "Robert Wood Johnson Foundation | RWJF"
+        },
+        {
+          "url": "https://www.missioncontinues.org/",
+          "title": "The Mission Continues - Volunteer Today | The Mission Continues"
         },
         {
           "url": "https://www.uso.org/uso-stands-ready-to-support",
@@ -82,12 +82,12 @@
           "title": "Free Awesome Paper Bag Mockup | Mockuptree"
         },
         {
-          "url": "https://graphicburger.com/",
-          "title": "GraphicBurger"
-        },
-        {
           "url": "https://about.grabyo.com/pt/grabyo-blog/?_page=7",
           "title": "Grabyo Blog | Read the latest broadcast and media industry analysis"
+        },
+        {
+          "url": "https://graphicburger.com/",
+          "title": "GraphicBurger"
         },
         {
           "url": "http://www.emaildiscussions.com/showthread.php?s=f9e7b65ce5923fa6c572c8e286ee3841&p=620624",
@@ -166,10 +166,6 @@
           "title": "Herrenbekleidung online kaufen | OTTO"
         },
         {
-          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
-          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
-        },
-        {
           "url": "https://www.carawayhome.com/products/large-baking-sheet/",
           "title": "Large Baking Sheet | Best Non-Stick & Non-Toxic Sheet Pan | Caraway"
         },
@@ -184,6 +180,10 @@
         {
           "url": "https://desenio.se/sv/posters/storlekar-poster/stora-posters?page=3",
           "title": "Stora tavlor i 70x100 cm | Moderna stora tavlor | Desenio.se"
+        },
+        {
+          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
+          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
         }
       ],
       "count": 8
@@ -260,12 +260,12 @@
           "title": "Garlic Confit Recipe | Bon Appétit"
         },
         {
-          "url": "http://www.lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
-          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
-        },
-        {
           "url": "https://astrologie.aufeminin.com/forum/je-viens-de-faire-une-rencontre-fd4899550",
           "title": "Je viens de faire une rencontre...."
+        },
+        {
+          "url": "http://www.lakesaltknit.com/2013/10/its-shrug-or-cape-or-shawl.html",
+          "title": "Virginia Catherall: It's a shrug, or a cape or a shawl"
         }
       ],
       "count": 4
@@ -293,24 +293,6 @@
       "count": 4
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://rhawkins20-blog-blog-blog.tumblr.com/",
-          "title": "Digitalia"
-        },
-        {
-          "url": "https://grizzlyseabear.tumblr.com/",
-          "title": "Ecclectic Collection"
-        },
-        {
-          "url": "https://anttisorri.wordpress.com/2020/09/01/tyovaenkirjallisuuden-paivilla-5-9-20-luku-on-iloinen/",
-          "title": "Työväenkirjallisuuden päivillä 5.9. 20-luku on iloinen? - Sinisten ajatusten hautausmaa"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "education",
       "bookmarks": [
         {
@@ -329,7 +311,7 @@
       "count": 3
     },
     {
-      "name": "lifestyle-health",
+      "name": "health-lifestyle",
       "bookmarks": [
         {
           "url": "https://www.elitesingles.com/",
@@ -342,6 +324,24 @@
         {
           "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
           "title": "void"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://rhawkins20-blog-blog-blog.tumblr.com/",
+          "title": "Digitalia"
+        },
+        {
+          "url": "https://grizzlyseabear.tumblr.com/",
+          "title": "Ecclectic Collection"
+        },
+        {
+          "url": "https://anttisorri.wordpress.com/2020/09/01/tyovaenkirjallisuuden-paivilla-5-9-20-luku-on-iloinen/",
+          "title": "Työväenkirjallisuuden päivillä 5.9. 20-luku on iloinen? - Sinisten ajatusten hautausmaa"
         }
       ],
       "count": 3

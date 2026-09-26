@@ -1,27 +1,19 @@
 {
   "folders": [
     {
-      "name": "nonprofit-organization",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://www.mccormickfoundation.org/about-us/",
-          "title": "About Us - Robert R. Mccormick Foundation"
-        },
         {
           "url": "https://www.mongabay.com/about/",
           "title": "About Mongabay News"
         },
         {
-          "url": "https://adcolor.org/leaders?trk=organization_guest_main-feed-card_reshare-text",
-          "title": "Leaders | ADCOLOR"
+          "url": "https://www.mccormickfoundation.org/about-us/",
+          "title": "About Us - Robert R. Mccormick Foundation"
         },
         {
           "url": "https://www.alnap.org/",
           "title": "ALNAP - Active Learning Network for Accountability and Performance | ALNAP"
-        },
-        {
-          "url": "https://climatetrace.org/news/more-than-70000-of-the-highest-emitting-greenhouse-gas",
-          "title": "More Than 70,000 of the Highest Emitting Greenhouse Gas Sources Identified in Largest Available Global Emissions Inventory | Climate TRACE"
         },
         {
           "url": "https://www.commonsense.org",
@@ -48,6 +40,14 @@
           "title": "Interfaith Works, Inc. | Kindful"
         },
         {
+          "url": "http://adcolor.org/leaders?trk=organization_guest_main-feed-card_reshare-text",
+          "title": "Leaders | ADCOLOR"
+        },
+        {
+          "url": "https://climatetrace.org/news/more-than-70000-of-the-highest-emitting-greenhouse-gas",
+          "title": "More Than 70,000 of the Highest Emitting Greenhouse Gas Sources Identified in Largest Available Global Emissions Inventory | Climate TRACE"
+        },
+        {
           "url": "https://sanctuaries.noaa.gov/news/may20/mpa-center-20th-anniversary.html",
           "title": "NOAA's National Marine Protected Areas Center | Office of National Marine Sanctuaries"
         },
@@ -56,7 +56,7 @@
           "title": "Página principal - Red Impacto LATAM"
         },
         {
-          "url": "https://www.rescue-uk.org",
+          "url": "https://www.Rescue-UK.org",
           "title": "The International Rescue Committee UK | The IRC"
         },
         {
@@ -117,45 +117,7 @@
       "count": 10
     },
     {
-      "name": "news-articles",
-      "bookmarks": [
-        {
-          "url": "https://survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
-          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
-        },
-        {
-          "url": "https://reading-not-sleeping.tumblr.com/post/117426794175",
-          "title": "codeorg: With all the national debate on... - Reading Not Sleeping"
-        },
-        {
-          "url": "https://instyle.com/madelyn-cline-outer-banks-season-3-interview-7112295",
-          "title": "Madelyn Cline Says She Drew Inspiration From Her Personal Life for 'Outer Banks' Season 3"
-        },
-        {
-          "url": "https://www.billboard.com/music/country/makin-tracks-maren-morris-i-cant-love-you-anymore-1235164375/",
-          "title": "Makin' Tracks: Maren Morris Turns a Spat Into an Upbeat Single With 'I Can't Love You Anymore'"
-        },
-        {
-          "url": "https://pitchfork.com/reviews/albums/",
-          "title": "New Albums & Music Reviews | Pitchfork"
-        },
-        {
-          "url": "https://www.dailynews.com/2021/12/13/new-plan-calls-for-closure-of-aliso-canyon-facility-by-2023/",
-          "title": "New plan calls for closure of Aliso Canyon gas facility by 2023 - Daily News"
-        },
-        {
-          "url": "https://www.kmov.com/2023/02/20/teenager-visiting-st-louis-volleyball-tournament-hit-by-car-while-walking-hotel/",
-          "title": "Teen in St. Louis for volleyball tournament hit by car, has both legs amputated; suspect arrested"
-        },
-        {
-          "url": "https://www.newageislam.com/islamic-society/samar-yahya/the-four-sacred-months-favoured-in-the-islamic-tradition/d/106989",
-          "title": "The Four Sacred Months Favoured In the Islamic Tradition | Samar Yahya | New Age Islam | Islamic News and Views | Moderate Muslims & Islam"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "web-misc",
+      "name": "misc-web",
       "bookmarks": [
         {
           "url": "https://juicycube.net/?id=ctx",
@@ -193,6 +155,44 @@
       "count": 8
     },
     {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
+          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
+        },
+        {
+          "url": "https://reading-not-sleeping.tumblr.com/post/117426794175",
+          "title": "codeorg: With all the national debate on... - Reading Not Sleeping"
+        },
+        {
+          "url": "https://www.instyle.com/madelyn-cline-outer-banks-season-3-interview-7112295",
+          "title": "Madelyn Cline Says She Drew Inspiration From Her Personal Life for 'Outer Banks' Season 3"
+        },
+        {
+          "url": "https://www.billboard.com/music/country/makin-tracks-maren-morris-i-cant-love-you-anymore-1235164375/",
+          "title": "Makin' Tracks: Maren Morris Turns a Spat Into an Upbeat Single With 'I Can't Love You Anymore'"
+        },
+        {
+          "url": "https://pitchfork.com/reviews/albums/",
+          "title": "New Albums & Music Reviews | Pitchfork"
+        },
+        {
+          "url": "https://www.dailynews.com/2021/12/13/new-plan-calls-for-closure-of-aliso-canyon-facility-by-2023/",
+          "title": "New plan calls for closure of Aliso Canyon gas facility by 2023 - Daily News"
+        },
+        {
+          "url": "https://www.kmov.com/2023/02/20/teenager-visiting-st-louis-volleyball-tournament-hit-by-car-while-walking-hotel/",
+          "title": "Teen in St. Louis for volleyball tournament hit by car, has both legs amputated; suspect arrested"
+        },
+        {
+          "url": "https://www.newageislam.com/islamic-society/samar-yahya/the-four-sacred-months-favoured-in-the-islamic-tradition/d/106989",
+          "title": "The Four Sacred Months Favoured In the Islamic Tradition | Samar Yahya | New Age Islam | Islamic News and Views | Moderate Muslims & Islam"
+        }
+      ],
+      "count": 8
+    },
+    {
       "name": "business-services",
       "bookmarks": [
         {
@@ -223,7 +223,7 @@
       "count": 6
     },
     {
-      "name": "forums-discussion",
+      "name": "discussion-forums",
       "bookmarks": [
         {
           "url": "https://www.vogons.org/viewforum.php?f=46",
@@ -275,6 +275,28 @@
       "count": 5
     },
     {
+      "name": "hobbies-recreation",
+      "bookmarks": [
+        {
+          "url": "https://www.hogwartslegacy.com/en-us/faq#:~:text=To%20get%20everyone%20in%20the,4%2C%202023%20without%20Early%20Access.",
+          "title": "Hogwarts Legacy - Frequently Asked Questions"
+        },
+        {
+          "url": "https://www.7thheaven.in/",
+          "title": "Largest Bakery Cafe in India | Cake Bakery | Dessert Shop | 7th Heaven"
+        },
+        {
+          "url": "https://www.mettenmors.de/gartencenter/grillen",
+          "title": "Rund ums Grillen im Garten, auf Balkon und Terrasse"
+        },
+        {
+          "url": "https://www.criclines.com/",
+          "title": "Today Match Prediction - Cricket Match Prediction Tips - Who Will Win Today"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "organizations-corporate",
       "bookmarks": [
         {
@@ -297,29 +319,7 @@
       "count": 4
     },
     {
-      "name": "recreation-hobbies",
-      "bookmarks": [
-        {
-          "url": "https://www.7thheaven.in/",
-          "title": "Largest Bakery Cafe in India | Cake Bakery | Dessert Shop | 7th Heaven"
-        },
-        {
-          "url": "https://www.hogwartslegacy.com/en-us/faq#:~:text=To%20get%20everyone%20in%20the,4%2C%202023%20without%20Early%20Access.",
-          "title": "Hogwarts Legacy - Frequently Asked Questions"
-        },
-        {
-          "url": "https://www.mettenmors.de/gartencenter/grillen",
-          "title": "Rund ums Grillen im Garten, auf Balkon und Terrasse"
-        },
-        {
-          "url": "https://www.criclines.com/",
-          "title": "Today Match Prediction - Cricket Match Prediction Tips - Who Will Win Today"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "blogs-personal",
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://azekthi.tumblr.com/",
@@ -358,16 +358,16 @@
       "name": "travel-local",
       "bookmarks": [
         {
-          "url": "http://www.moneystation.gr",
-          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
-        },
-        {
           "url": "https://molbubi.hu/",
           "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
         },
         {
           "url": "https://binepippilotta.com/page/2/",
           "title": "Bine Pippilotta - Seite 2 - Reisen macht glücklich"
+        },
+        {
+          "url": "http://www.moneystation.gr",
+          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
         }
       ],
       "count": 3

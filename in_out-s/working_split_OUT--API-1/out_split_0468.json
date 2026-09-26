@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-and-articles",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://www.dailystar.co.uk/showbiz/adele-seen-hobbling-stage-during-28859187",
@@ -10,6 +10,10 @@
         {
           "url": "https://www.freep.com/story/news/local/michigan/detroit/2023/02/28/dog-saves-baby-from-house-fire-in-detroit-family-struggles-to-recover/69949425007/",
           "title": "Dog saves baby from house fire in Detroit, family struggles to recover"
+        },
+        {
+          "url": "https://world.wng.org/",
+          "title": "Facts-Based News for Christians | WORLD"
         },
         {
           "url": "https://news.stv.tv/east-central/flight-carrying-scots-school-trip-from-edinburgh-to-new-york-catches-fire-mid-air",
@@ -28,12 +32,12 @@
           "title": "Kelsea Ballerini Gets 'Brutally Honest And Vulnerable' In Podcast Episode | iHeartCountry Radio"
         },
         {
-          "url": "https://lentis.net/2019/05/27/nikolai-karpol-jatkaa-uralochkan-valmentajana-51-kauden/",
-          "title": "Nikolai Karpol jatkaa Uralochkan valmentajana - 51. kauden - lentis.net"
-        },
-        {
           "url": "https://www.kauffman.org/currents/2019/09/new-survey-highlights-disconnect-between-high-school-and-real-world",
           "title": "New survey highlights disconnect between high school and the real world - Ewing Marion Kauffman Foundation | Kauffman.org"
+        },
+        {
+          "url": "https://lentis.net/2019/05/27/nikolai-karpol-jatkaa-uralochkan-valmentajana-51-kauden/",
+          "title": "Nikolai Karpol jatkaa Uralochkan valmentajana - 51. kauden - lentis.net"
         },
         {
           "url": "https://www.theatlantic.com/business/archive/2017/08/restaurant-jobs-boom/536244/",
@@ -44,34 +48,34 @@
           "title": "Tamron Hall Shares Her Childbirth Story"
         },
         {
-          "url": "https://www.bhg.com/the-garden-issue-dave-and-jenny-marrs-7106279",
-          "title": "The Garden Issue Featuring Dave and Jenny Marrs"
-        },
-        {
           "url": "https://www.theatlantic.com/education/archive/2025/01/learning-loss-pandemic-impact/673123/",
           "title": "The '90s Blockbuster That's Also a Symphony - The Atlantic"
         },
         {
-          "url": "https://world.wng.org/",
-          "title": "Facts-Based News for Christians | WORLD"
+          "url": "https://www.bhg.com/the-garden-issue-dave-and-jenny-marrs-7106279",
+          "title": "The Garden Issue Featuring Dave and Jenny Marrs"
         }
       ],
       "count": 13
     },
     {
-      "name": "government-and-civic",
+      "name": "government-civic",
       "bookmarks": [
         {
-          "url": "https://www.cp.pt/passageiros/pt/informacoes/atrasos-e-supressoes",
-          "title": "CP - Comboios de Portugal"
+          "url": "https://www.slovensko.sk/sk/agendy/agenda/_/elektronicka-ziadost",
+          "title": "Agenda - UPVS"
+        },
+        {
+          "url": "https://www.voteearlyday.org/",
+          "title": "Celebrate Vote Early Day on October 28th, 2025"
         },
         {
           "url": "https://www.sandiego.gov/",
           "title": "City of San Diego Official Website"
         },
         {
-          "url": "https://www.voteearlyday.org/",
-          "title": "Celebrate Vote Early Day on October 28th, 2025"
+          "url": "https://www.cp.pt/passageiros/pt/informacoes/atrasos-e-supressoes",
+          "title": "CP - Comboios de Portugal"
         },
         {
           "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/contact-form/PROJECT/948463091/612269",
@@ -94,10 +98,6 @@
           "title": "Regione Piemonte"
         },
         {
-          "url": "https://www.slovensko.sk/sk/agendy/agenda/_/elektronicka-ziadost",
-          "title": "Agenda - UPVS"
-        },
-        {
           "url": "https://www.oebb.at/de/tickets-kundenkarten",
           "title": "Tickets & Ermäßigungen - ÖBB"
         },
@@ -111,6 +111,56 @@
         }
       ],
       "count": 12
+    },
+    {
+      "name": "misc-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/",
+          "title": "2024 Essential Facts About the U.S. Video Game Industry - the ESA"
+        },
+        {
+          "url": "https://www.tranastidning.se/2020-08-31/corona-trycker-ner-annan-vanlig-influensa-och-vinterkraksjuka--sa-svarar-arbetsgivare-i-lanet-vi-har-mycket-lagre-franvaro",
+          "title": "Corona trycker ner annan vanlig influensa och vinterkräksjuka - så svarar arbetsgivare i länet: \"Vi har mycket lägre frånvaro\" - Tranås Tidning"
+        },
+        {
+          "url": "https://www.kansascitypbs.org/kansas-city-pbs-livestream/",
+          "title": "Kansas City PBS Livestream"
+        },
+        {
+          "url": "https://tahadiwasla.app.link/s/0717ceea0c63ebc709ead93cce696ea3722379c976d7fba0e7752f2ad8b5d881",
+          "title": "karybou.com"
+        },
+        {
+          "url": "https://www.knmi.nl/nederland-nu/weer",
+          "title": "KNMI - Weer - Verwachtingen"
+        },
+        {
+          "url": "https://www.marcvanzeeland.nl/tag/lichtenvoorde/",
+          "title": "lichtenvoorde - marc-van-zeeland"
+        },
+        {
+          "url": "https://www.napbots.com/post/polygon-upgrade-fixes-bug-to-secure-9-27-billion-matic-tokens",
+          "title": "napbots.com"
+        },
+        {
+          "url": "https://inhome.walmart.com/",
+          "title": "Robot or human?"
+        },
+        {
+          "url": "https://www.jacksonriver.com/springboard/",
+          "title": "Springboard: Fundraising and Advocacy Software | Jackson River"
+        },
+        {
+          "url": "http://worldslargestlesson.globalgoals.org/",
+          "title": "The World's Largest Lesson"
+        },
+        {
+          "url": "https://subscribe.providencejournal.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2023MAREVERG&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.providencejournal.com%2Fstory%2Fnews%2Flocal%2F2022%2F07%2F26%2Frecording-system-east-providence-city-hall-raises-flags-aclu%2F10143873002%2F",
+          "title": "Unsupported EU page"
+        }
+      ],
+      "count": 11
     },
     {
       "name": "shopping",
@@ -144,12 +194,12 @@
           "title": "Rob's Backstage Popcorn - Rob's Popcorn"
         },
         {
-          "url": "https://www.thecompanystore.com/pillows/sleepers-choice-memory-foam-pillow/PO79.html?dwvar_PO79_color=WHITE",
-          "title": "Sleeper's Choice™ Memory Foam Pillow | The Company Store"
-        },
-        {
           "url": "https://tyres.geniepowered.com.au/product-category/size-20/",
           "title": "Size 20 | Genie Powered Tyres"
+        },
+        {
+          "url": "https://www.thecompanystore.com/pillows/sleepers-choice-memory-foam-pillow/PO79.html?dwvar_PO79_color=WHITE",
+          "title": "Sleeper's Choice™ Memory Foam Pillow | The Company Store"
         },
         {
           "url": "https://www.zaxbys.com",
@@ -193,36 +243,6 @@
       "count": 7
     },
     {
-      "name": "tech-programming",
-      "bookmarks": [
-        {
-          "url": "https://docs.djangoproject.com/en/stable/topics/cache/",
-          "title": "Django's cache framework | Django documentation | Django"
-        },
-        {
-          "url": "http://www.graphicsacademy.com/format.php",
-          "title": "Graphics File Formats"
-        },
-        {
-          "url": "https://data.guix.gnu.org/gnu/store/fayvvl9h31rj5jg35kh0h072yhi9zdc0-cl-agnostic-lizard-0.0.0-1.fe3a737.drv",
-          "title": "Guix Data Service"
-        },
-        {
-          "url": "https://powerplatform.microsoft.com/",
-          "title": "Strumenti low-code basati sull'intelligenza artificiale | Microsoft Power Platform"
-        },
-        {
-          "url": "https://blogs.msdn.microsoft.com/visualstudio/",
-          "title": "Visual Studio Blog"
-        },
-        {
-          "url": "https://www.iphonemod.net/iphone-6s-and-6s-plus-feature-2gb-ram.html",
-          "title": "แอป Xcode ช่วยยืนยัน iPhone 6s มีแรม 2GB ส่วน iPad Pro มีแรม 4GB"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "business-services",
       "bookmarks": [
         {
@@ -253,73 +273,37 @@
       "count": 6
     },
     {
-      "name": "blogs-personal",
+      "name": "tech-programming",
       "bookmarks": [
         {
-          "url": "https://kuehbiko.tumblr.com/",
-          "title": "@kuehbiko on Tumblr"
+          "url": "https://docs.djangoproject.com/en/stable/topics/cache/",
+          "title": "Django's cache framework | Django documentation | Django"
         },
         {
-          "url": "https://mymexicodream.wordpress.com/2014/12/25/",
-          "title": "25 | December | 2014 | Julia's Life In Mexico"
+          "url": "http://www.graphicsacademy.com/format.php",
+          "title": "Graphics File Formats"
         },
         {
-          "url": "https://te-igitur.blogspot.com/2011/05/church-watches-you.html?showComment=1306303834524",
-          "title": "Te igitur: Church watches you"
+          "url": "https://data.guix.gnu.org/gnu/store/fayvvl9h31rj5jg35kh0h072yhi9zdc0-cl-agnostic-lizard-0.0.0-1.fe3a737.drv",
+          "title": "Guix Data Service"
         },
         {
-          "url": "https://arthropleuridea.tumblr.com/",
-          "title": "viaduct"
+          "url": "https://powerplatform.microsoft.com/",
+          "title": "Strumenti low-code basati sull'intelligenza artificiale | Microsoft Power Platform"
+        },
+        {
+          "url": "https://blogs.msdn.microsoft.com/visualstudio/",
+          "title": "Visual Studio Blog"
+        },
+        {
+          "url": "https://www.iphonemod.net/iphone-6s-and-6s-plus-feature-2gb-ram.html",
+          "title": "แอป Xcode ช่วยยืนยัน iPhone 6s มีแรม 2GB ส่วน iPad Pro มีแรม 4GB"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "education-cs",
-      "bookmarks": [
-        {
-          "url": "https://blog.acvwilson.me/post/150071746014",
-          "title": "puts post - Another year of record growth for AP Computer..."
-        },
-        {
-          "url": "https://www.coursera.org/specializations/python",
-          "title": "Python for Everybody | Coursera"
-        },
-        {
-          "url": "https://teachers20.com/post/121258613878",
-          "title": "Teachers 2.0 - Maryland moves to increase diversity in computer..."
-        },
-        {
-          "url": "https://voltair355.tumblr.com/post/89465058354",
-          "title": "Dr B - What % of STEM Should Be Computer Science?"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "education-reference",
-      "bookmarks": [
-        {
-          "url": "http://csmspace.com/",
-          "title": "Continuing and Professional Education Services :: Colorado School of Mines"
-        },
-        {
-          "url": "https://library.mines.edu/",
-          "title": "Colorado School of Mines - Arthur Lakes Library"
-        },
-        {
-          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
-          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
-        },
-        {
-          "url": "https://online.salempress.com/home.do;jsessionid=443B1F74BC31EAAE753BC02CCA864922",
-          "title": "Salem Press"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment-and-media",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "http://www.cleverbot.com/app",
@@ -343,28 +327,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "food-recipes",
-      "bookmarks": [
-        {
-          "url": "http://anjalipathak.com/",
-          "title": "Anjali Pathak"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85950",
-          "title": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85950",
-          "title": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85950",
-          "title": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "hobbies",
@@ -393,34 +355,8 @@
       "count": 5
     },
     {
-      "name": "personal-portfolio",
+      "name": "science-nature",
       "bookmarks": [
-        {
-          "url": "https://magicbymio.com/",
-          "title": "Close up Magician in Miami and Fort Lauderdale | Mentalist"
-        },
-        {
-          "url": "https://www.djstephfloss.com/",
-          "title": "HOME | djstephfloss.com"
-        },
-        {
-          "url": "https://www.madisonyauger.com",
-          "title": "Madison Yauger"
-        },
-        {
-          "url": "http://www.cs.hmc.edu/~hadas/",
-          "title": "Ran Libeskind-Hadas's Homepage"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-and-nature",
-      "bookmarks": [
-        {
-          "url": "https://www.earthobservations.org/index.php",
-          "title": "The Group on Earth Observations - GEO"
-        },
         {
           "url": "https://www.islandconservation.org/",
           "title": "Home - Island Conservation"
@@ -436,6 +372,10 @@
         {
           "url": "https://www.astrogav.eu/G_A_V_%20-%20Gruppo%20Astronomico%20Viareggio_paolo%20farinella.htm",
           "title": "Storia del Gruppo: Prof. Paolo Farinella"
+        },
+        {
+          "url": "https://www.earthobservations.org/index.php",
+          "title": "The Group on Earth Observations - GEO"
         }
       ],
       "count": 5
@@ -489,6 +429,112 @@
       "count": 4
     },
     {
+      "name": "cs-education",
+      "bookmarks": [
+        {
+          "url": "https://voltair355.tumblr.com/post/89465058354",
+          "title": "Dr B - What % of STEM Should Be Computer Science?"
+        },
+        {
+          "url": "https://blog.acvwilson.me/post/150071746014",
+          "title": "puts post - Another year of record growth for AP Computer..."
+        },
+        {
+          "url": "https://www.coursera.org/specializations/python",
+          "title": "Python for Everybody | Coursera"
+        },
+        {
+          "url": "https://teachers20.com/post/121258613878",
+          "title": "Teachers 2.0 - Maryland moves to increase diversity in computer..."
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "education-reference",
+      "bookmarks": [
+        {
+          "url": "https://library.mines.edu/",
+          "title": "Colorado School of Mines - Arthur Lakes Library"
+        },
+        {
+          "url": "http://csmspace.com/",
+          "title": "Continuing and Professional Education Services :: Colorado School of Mines"
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
+          "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
+        },
+        {
+          "url": "https://online.salempress.com/home.do;jsessionid=443B1F74BC31EAAE753BC02CCA864922",
+          "title": "Salem Press"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://mymexicodream.wordpress.com/2014/12/25/",
+          "title": "25 | December | 2014 | Julia's Life In Mexico"
+        },
+        {
+          "url": "https://kuehbiko.tumblr.com/",
+          "title": "@kuehbiko on Tumblr"
+        },
+        {
+          "url": "https://te-igitur.blogspot.com/2011/05/church-watches-you.html?showComment=1306303834524",
+          "title": "Te igitur: Church watches you"
+        },
+        {
+          "url": "https://arthropleuridea.tumblr.com/",
+          "title": "viaduct"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-portfolio",
+      "bookmarks": [
+        {
+          "url": "https://magicbymio.com/",
+          "title": "Close up Magician in Miami and Fort Lauderdale | Mentalist"
+        },
+        {
+          "url": "https://www.djstephfloss.com/",
+          "title": "HOME | djstephfloss.com"
+        },
+        {
+          "url": "https://www.madisonyauger.com",
+          "title": "Madison Yauger"
+        },
+        {
+          "url": "http://www.cs.hmc.edu/~hadas/",
+          "title": "Ran Libeskind-Hadas's Homepage"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "corporate-services",
+      "bookmarks": [
+        {
+          "url": "https://atoz.amazon.work/help",
+          "title": "Amazon A to Z Login"
+        },
+        {
+          "url": "https://giving.aub.edu.lb/aub",
+          "title": "Donations - Donate to the American University of Beirut"
+        },
+        {
+          "url": "https://help.samsclub.com/app/?xid=ftr:help-center",
+          "title": "Support Home Page"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "design-resources",
       "bookmarks": [
         {
@@ -510,12 +556,12 @@
       "name": "legal-privacy-policy",
       "bookmarks": [
         {
-          "url": "https://www.iubenda.com/privacy-policy/59274660/full-legal",
-          "title": "Privacy Policy of Tenuta Larnianone"
-        },
-        {
           "url": "https://junaidios.github.io/StbEmu-Pro/PrivacyPolicy.html",
           "title": "Privacy Policy"
+        },
+        {
+          "url": "https://www.iubenda.com/privacy-policy/59274660/full-legal",
+          "title": "Privacy Policy of Tenuta Larnianone"
         },
         {
           "url": "https://www.jiahometechs.com",
@@ -543,26 +589,12 @@
       "count": 3
     },
     {
-      "name": "services-corporate",
-      "bookmarks": [
-        {
-          "url": "https://atoz.amazon.work/help",
-          "title": "Amazon A to Z Login"
-        },
-        {
-          "url": "https://giving.aub.edu.lb/aub",
-          "title": "Donations - Donate to the American University of Beirut"
-        },
-        {
-          "url": "https://help.samsclub.com/app/?xid=ftr:help-center",
-          "title": "Support Home Page"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "social-media",
       "bookmarks": [
+        {
+          "url": "http://www.libero.it/",
+          "title": "Libero: Mail, Ricerca e News con aggiornamento quotidiano"
+        },
         {
           "url": "https://about.meta.com/",
           "title": "Meta | Azienda di tecnologie social"
@@ -570,10 +602,6 @@
         {
           "url": "https://www.clover.com",
           "title": "POS System & Credit Card Readers | Clover"
-        },
-        {
-          "url": "http://www.libero.it/",
-          "title": "Libero: Mail, Ricerca e News con aggiornamento quotidiano"
         }
       ],
       "count": 3
@@ -615,56 +643,20 @@
       "count": 3
     },
     {
-      "name": "misc-uncategorized",
+      "name": "food-recipes",
       "bookmarks": [
         {
-          "url": "https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/",
-          "title": "2024 Essential Facts About the U.S. Video Game Industry - the ESA"
+          "url": "http://anjalipathak.com/",
+          "title": "Anjali Pathak"
         },
         {
-          "url": "https://www.kansascitypbs.org/kansas-city-pbs-livestream/",
-          "title": "Kansas City PBS Livestream"
-        },
-        {
-          "url": "https://tahadiwasla.app.link/s/0717ceea0c63ebc709ead93cce696ea3722379c976d7fba0e7752f2ad8b5d881",
-          "title": "karybou.com"
-        },
-        {
-          "url": "https://www.knmi.nl/nederland-nu/weer",
-          "title": "KNMI - Weer - Verwachtingen"
-        },
-        {
-          "url": "https://www.marcvanzeeland.nl/tag/lichtenvoorde/",
-          "title": "lichtenvoorde - marc-van-zeeland"
-        },
-        {
-          "url": "https://www.napbots.com/post/polygon-upgrade-fixes-bug-to-secure-9-27-billion-matic-tokens",
-          "title": "napbots.com"
-        },
-        {
-          "url": "https://inhome.walmart.com/",
-          "title": "Robot or human?"
-        },
-        {
-          "url": "https://www.jacksonriver.com/springboard/",
-          "title": "Springboard: Fundraising and Advocacy Software | Jackson River"
-        },
-        {
-          "url": "https://www.tranastidning.se/2020-08-31/corona-trycker-ner-annan-vanlig-influensa-och-vinterkraksjuka--sa-svarar-arbetsgivare-i-lanet-vi-har-mycket-lagre-franvaro",
-          "title": "Corona trycker ner annan vanlig influensa och vinterkräksjuka - så svarar arbetsgivare i länet: \"Vi har mycket lägre frånvaro\" - Tranås Tidning"
-        },
-        {
-          "url": "https://subscribe.providencejournal.com/masthead?gps-source=CPMASTHEAD&itm_campaign=2023MAREVERG&itm_medium=ONSITE&onSuccessRedirectURL=https%3A%2F%2Fwww.providencejournal.com%2Fstory%2Fnews%2Flocal%2F2022%2F07%2F26%2Frecording-system-east-providence-city-hall-raises-flags-aclu%2F10143873002%2F",
-          "title": "Unsupported EU page"
-        },
-        {
-          "url": "http://worldslargestlesson.globalgoals.org/",
-          "title": "The World's Largest Lesson"
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85950",
+          "title": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)"
         }
       ],
-      "count": 11
+      "count": 2
     }
   ],
-  "total_bookmarks": 130,
+  "total_bookmarks": 128,
   "num_folders": 24
 }

@@ -229,12 +229,6 @@
       "preview": "The Bible App is completely free, with no advertising and no in-app purchases. Get the app Northwood Community Church Share Sunday, January 2, 2022 Go"
     },
     {
-      "url": "https://apps.who.int/iris/bitstream/handle/10665/258970/9789241550130-eng.pdf;jsessionid=862C12B8C2F2004C85A9F74015DBC547?sequence=1",
-      "title": "DSpace",
-      "description": "void",
-      "preview": "void"
-    },
-    {
       "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
       "title": "async function - JavaScript | MDN",
       "description": "The async function declaration creates a binding of a new async function to a given name. The await keyword is permitted within the function body, enabling asynchronous, promise-based behavior to be written in a cleaner style and avoiding the need to explicitly configure promise chains.",
@@ -314,6 +308,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 52
+    "total_bookmarks": 51
   }
 }

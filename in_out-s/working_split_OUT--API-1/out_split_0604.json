@@ -1,7 +1,53 @@
 {
   "folders": [
     {
-      "name": "environment-science",
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://www.aclu.org/news/topic/abortion-criminal-defense-initiative-reproductive-rights",
+          "title": "Abortion Criminal Defense Initiative | American Civil Liberties Union"
+        },
+        {
+          "url": "https://downandfeathercouncil.com/",
+          "title": "American Down and Feather Council - The ADFC Seal of Approval"
+        },
+        {
+          "url": "https://www.florafamily.org/",
+          "title": "Flora Family Foundation"
+        },
+        {
+          "url": "https://almaauun.org/",
+          "title": "Home - Al-Maa'uun"
+        },
+        {
+          "url": "https://www.ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
+        },
+        {
+          "url": "https://4-h.org/",
+          "title": "Homepage - National 4-H Council"
+        },
+        {
+          "url": "https://naacpstore.org/",
+          "title": "NAACP Store"
+        },
+        {
+          "url": "https://publicartchallenge.bloomberg.org/",
+          "title": "Public Art Challenge"
+        },
+        {
+          "url": "https://llewellynfoundation.org/",
+          "title": "The Llewellyn Foundation's Web Home:"
+        },
+        {
+          "url": "https://ywca.quorum.us/actioncenter/",
+          "title": "YWCA | Action Center"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "science-environment",
       "bookmarks": [
         {
           "url": "https://directories.onepercentfortheplanet.org/nonprofit-partners/marine-conservation-institute",
@@ -47,57 +93,15 @@
       "count": 10
     },
     {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://4-h.org/",
-          "title": "Homepage - National 4-H Council"
-        },
-        {
-          "url": "https://www.aclu.org/news/topic/abortion-criminal-defense-initiative-reproductive-rights",
-          "title": "Abortion Criminal Defense Initiative | American Civil Liberties Union"
-        },
-        {
-          "url": "https://almaauun.org/",
-          "title": "Home - Al-Maa'uun"
-        },
-        {
-          "url": "https://downandfeathercouncil.com/",
-          "title": "American Down and Feather Council - The ADFC Seal of Approval"
-        },
-        {
-          "url": "https://www.florafamily.org/",
-          "title": "Flora Family Foundation"
-        },
-        {
-          "url": "https://www.ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
-        },
-        {
-          "url": "https://llewellynfoundation.org/",
-          "title": "The Llewellyn Foundation's Web Home:"
-        },
-        {
-          "url": "https://naacpstore.org/",
-          "title": "NAACP Store"
-        },
-        {
-          "url": "https://publicartchallenge.bloomberg.org/",
-          "title": "Public Art Challenge"
-        },
-        {
-          "url": "https://ywca.quorum.us/actioncenter/",
-          "title": "YWCA | Action Center"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "blogs",
       "bookmarks": [
         {
           "url": "https://hacksandheels.tumblr.com/",
           "title": "adventures of The Girl"
+        },
+        {
+          "url": "https://www.wgsn.com/en/blog",
+          "title": "Blog | WGSN"
         },
         {
           "url": "https://blaqplastik.tumblr.com/post/154526446030",
@@ -122,10 +126,6 @@
         {
           "url": "http://www.laloute.net/2010/03/5-ans-de-blog-vos-notes-preferees/",
           "title": "laloute"
-        },
-        {
-          "url": "https://www.wgsn.com/en/blog",
-          "title": "Blog | WGSN"
         }
       ],
       "count": 8
@@ -142,24 +142,24 @@
           "title": "Contact - Turtle Creek Nursery"
         },
         {
-          "url": "https://www.meru.in/",
-          "title": "Mobility Solutions: People Transportation Solutions | Mahindra Logistics"
-        },
-        {
-          "url": "https://www.alkami.com/",
-          "title": "The Platform built for Anticipatory Banking"
+          "url": "https://isuzu.oemdtc.com",
+          "title": "Isuzu - OEMDTC"
         },
         {
           "url": "https://www.centene.com/",
           "title": "Managed Care & Healthcare Solutions | Centene Corporation"
         },
         {
+          "url": "https://www.meru.in/",
+          "title": "Mobility Solutions: People Transportation Solutions | Mahindra Logistics"
+        },
+        {
           "url": "https://ie.linkedin.com/company/primark-stores-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle",
           "title": "Primark | LinkedIn"
         },
         {
-          "url": "https://isuzu.oemdtc.com",
-          "title": "Isuzu - OEMDTC"
+          "url": "https://www.alkami.com/",
+          "title": "The Platform built for Anticipatory Banking"
         },
         {
           "url": "https://pitlochry.de/wohnung-runa",
@@ -184,6 +184,10 @@
           "title": "Coursera's Mission, Vision, and Commitment to Our Community | Coursera"
         },
         {
+          "url": "https://www.score.org/",
+          "title": "Free Small Business Mentorship and Resources | SCORE"
+        },
+        {
           "url": "https://yourfuture.accaglobal.com/global/en.html",
           "title": "Get an accountancy qualification with ACCA"
         },
@@ -198,10 +202,6 @@
         {
           "url": "http://uw.edu/studentlife",
           "title": "Student Life - University of Washington"
-        },
-        {
-          "url": "https://www.score.org/",
-          "title": "Free Small Business Mentorship and Resources | SCORE"
         }
       ],
       "count": 8
@@ -272,12 +272,12 @@
           "title": "Spelman College Teams Up With SMASH To Increase The Number Of WOC In STEM - AfroTech"
         },
         {
-          "url": "https://www.nbc.com/today?nbc=1",
-          "title": "TODAY - NBC.com"
-        },
-        {
           "url": "https://www.royal-house.nl/latest/news/2022/04/29/their-majesties-king-willem-alexander-and-queen-maxima-to-travel-california-and-texas-on-economic-working-visit",
           "title": "Their Majesties King Willem-Alexander and Queen Máxima to travel California and Texas on economic working visit | News item | Royal House of the Netherlands"
+        },
+        {
+          "url": "https://www.nbc.com/today?nbc=1",
+          "title": "TODAY - NBC.com"
         }
       ],
       "count": 8
@@ -290,16 +290,12 @@
           "title": "ACM Account"
         },
         {
-          "url": "http://lacotewelcome.ch/feedback/index.php",
-          "title": "Welcome to the neighborhood, Steib expat services"
+          "url": "https://a.cms.omniupdate.com/11/?skin=oucampus&account=montgomery&site=www&action=de&path=/index.pcf",
+          "title": "Log In - Modern Campus CMS"
         },
         {
           "url": "https://students.packetbomb.com/login/?redirect_to=https%3A%2F%2Fstudents.packetbomb.com%2Flesson%2Fverifying-the-data-exercise-answers%2F",
           "title": "Login - PacketBomb Students"
-        },
-        {
-          "url": "https://a.cms.omniupdate.com/11/?skin=oucampus&account=montgomery&site=www&action=de&path=/index.pcf",
-          "title": "Log In - Modern Campus CMS"
         },
         {
           "url": "https://www.mogasi.com/mein-konto/",
@@ -308,6 +304,10 @@
         {
           "url": "https://corporate.pluto.tv/privacy-policy",
           "title": "Paramount Privacy | Redirecting"
+        },
+        {
+          "url": "http://lacotewelcome.ch/feedback/index.php",
+          "title": "Welcome to the neighborhood, Steib expat services"
         },
         {
           "url": "https://orgo.cz/posting.php?mode=quote&f=19&p=17730&sid=58a713b6f8acd70c1f0c638265517a45",
@@ -377,28 +377,6 @@
       "count": 6
     },
     {
-      "name": "shopping-products",
-      "bookmarks": [
-        {
-          "url": "https://www.elitegymnastics.co.uk/collections/womens-leotards",
-          "title": "Gymnastics Leotards for Girls | Girls Leotards for Gymnastics | Girls Gymnastics Leotards uk"
-        },
-        {
-          "url": "https://falcontech.com/products/mohawk-m57553b-5elan-cat5e-cable-pvc-1000-feet-blue",
-          "title": "Mohawk 4245PVB-CE-BU M57553B 5eLAN, CAT5e Cable, PVC, 1000 Feet - Blue - FalconTech"
-        },
-        {
-          "url": "https://www.rta-deutschland.de/de/product/4873-schrittmotoren-rh-1s3h",
-          "title": "SCHRITTMOTOREN RH 1S3H - INDUSTRIAL MOTORS - SCHRITTMOTOREN - RTA - Motion Control Systems"
-        },
-        {
-          "url": "https://www.extremis.com/fr/collections/walrus/walrus-module-central",
-          "title": "Walrus module central - Collection Walrus - Notre collection - Extremis"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "books-publishing",
       "bookmarks": [
         {
@@ -416,6 +394,28 @@
         {
           "url": "https://press.stripe.com/",
           "title": "Stripe Press - Ideas for progress"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "shopping-products",
+      "bookmarks": [
+        {
+          "url": "https://www.elitegymnastics.co.uk/collections/womens-leotards",
+          "title": "Gymnastics Leotards for Girls | Girls Leotards for Gymnastics | Girls Gymnastics Leotards uk"
+        },
+        {
+          "url": "https://falcontech.com/products/mohawk-m57553b-5elan-cat5e-cable-pvc-1000-feet-blue",
+          "title": "Mohawk 4245PVB-CE-BU M57553B 5eLAN, CAT5e Cable, PVC, 1000 Feet - Blue - FalconTech"
+        },
+        {
+          "url": "https://www.rta-deutschland.de/de/product/4873-schrittmotoren-rh-1s3h",
+          "title": "SCHRITTMOTOREN RH 1S3H - INDUSTRIAL MOTORS - SCHRITTMOTOREN - RTA - Motion Control Systems"
+        },
+        {
+          "url": "https://www.extremis.com/fr/collections/walrus/walrus-module-central",
+          "title": "Walrus module central - Collection Walrus - Notre collection - Extremis"
         }
       ],
       "count": 4
@@ -441,24 +441,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "ai-ml",
-      "bookmarks": [
-        {
-          "url": "https://www.arxiv-vanity.com/papers/1605.06764/",
-          "title": "[1605.06764] 3D Face Tracking and Texture Fusion in the Wild"
-        },
-        {
-          "url": "https://medium.com/@RenderAnalytics/what-is-artificial-intelligence-and-how-does-it-work-for-beginners-5224aa0c472b",
-          "title": "What is Artificial Intelligence and How Does it Work? For Beginners! | by Charles Render | Medium"
-        },
-        {
-          "url": "https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services",
-          "title": "What are Azure AI services? - Azure AI services | Microsoft Learn"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "finance-investing",
@@ -497,20 +479,6 @@
       "count": 3
     },
     {
-      "name": "news-politics",
-      "bookmarks": [
-        {
-          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
-          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
-        },
-        {
-          "url": "https://www.metrojacksonville.com/forum/index.php?topic=36694.msg515939",
-          "title": "Jacksonville Mayoral Election 2023"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "recipes",
       "bookmarks": [
         {
@@ -545,8 +513,36 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "ai-ml",
+      "bookmarks": [
+        {
+          "url": "https://www.arxiv-vanity.com/papers/1605.06764/",
+          "title": "[1605.06764] 3D Face Tracking and Texture Fusion in the Wild"
+        },
+        {
+          "url": "https://medium.com/@RenderAnalytics/what-is-artificial-intelligence-and-how-does-it-work-for-beginners-5224aa0c472b",
+          "title": "What is Artificial Intelligence and How Does it Work? For Beginners! | by Charles Render | Medium"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "news-politics",
+      "bookmarks": [
+        {
+          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
+          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
+        },
+        {
+          "url": "https://www.metrojacksonville.com/forum/index.php?topic=36694.msg515939",
+          "title": "Jacksonville Mayoral Election 2023"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 108,
+  "total_bookmarks": 107,
   "num_folders": 19
 }

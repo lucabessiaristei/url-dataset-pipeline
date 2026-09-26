@@ -4,6 +4,10 @@
       "name": "company-organization-profiles",
       "bookmarks": [
         {
+          "url": "https://www.votervoice.net/GOODWILL/Register",
+          "title": "Action Center"
+        },
+        {
           "url": "https://bbbprograms.org/programs/all-programs/children's-advertising-review-unit",
           "title": "Children's Advertising Review Unit (CARU) - BBB National Programs"
         },
@@ -22,10 +26,6 @@
         {
           "url": "https://www.goodwill.org/",
           "title": "Goodwill Industries International, Inc. - Goodwill Industries International"
-        },
-        {
-          "url": "https://www.votervoice.net/GOODWILL/Register",
-          "title": "Action Center"
         },
         {
           "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/",
@@ -66,6 +66,10 @@
           "title": "Careers Home | Careers at CDC | CDC"
         },
         {
+          "url": "https://www.pca.state.mn.us/quick-links/minnesota-electronics-recycling-act",
+          "title": "Electronics collection and recycling | Minnesota Pollution Control Agency"
+        },
+        {
           "url": "https://ckan.ogdch-abnahme.clients.liip.ch/en/organization/ec2593fa-d844-4d20-9851-e3c2b24eff89?res_format=TXT&keywords_en=ch-iqi",
           "title": "Federal Office of Public Health FOPH Organizations - opendata.swiss (staging environment)"
         },
@@ -80,10 +84,6 @@
         {
           "url": "http://www.itu.ch/",
           "title": "ITU: Connecting the world and beyond"
-        },
-        {
-          "url": "https://www.pca.state.mn.us/quick-links/minnesota-electronics-recycling-act",
-          "title": "Electronics collection and recycling | Minnesota Pollution Control Agency"
         },
         {
           "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F",
@@ -127,7 +127,7 @@
       "count": 7
     },
     {
-      "name": "software-ai-tools",
+      "name": "ai-software-tools",
       "bookmarks": [
         {
           "url": "https://namelix.com/",
@@ -169,7 +169,7 @@
         },
         {
           "url": "https://www.reactiongifs.com/making-fun-of-a-bad-movie-with-a-friend-2/",
-          "title": "Making fun of a bad movie with a friend."
+          "title": "Making fun of a bad movie with a friend. - Reaction GIFs"
         },
         {
           "url": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/",
@@ -268,12 +268,12 @@
           "title": "Siellä sun täällä: 2014"
         },
         {
-          "url": "https://www.stadium.se/herr/klader",
-          "title": "Sweden B2C"
-        },
-        {
           "url": "https://zakladgazowy.pl/12-21+29983.html",
           "title": "Strona domeny zakladgazowy.pl"
+        },
+        {
+          "url": "https://www.stadium.se/herr/klader",
+          "title": "Sweden B2C"
         }
       ],
       "count": 4
@@ -301,7 +301,7 @@
       "count": 4
     },
     {
-      "name": "news-sports-entertainment",
+      "name": "news-entertainment-sports",
       "bookmarks": [
         {
           "url": "https://www.jacksonville.com/story/sports/college/jacksonville-dolphins/2022/07/09/ron-grigg-resigns-ju-womens-track-and-cross-country-coach-after-difficult-read-posts-student-athlete/10022152002/",
@@ -367,15 +367,33 @@
       "count": 4
     },
     {
+      "name": "environmental-tech-news",
+      "bookmarks": [
+        {
+          "url": "http://globenewswire.com/news-release/2016/04/22/831819/0/en/Energate-and-WattTime-org-Partner-to-Enable-Smart-Thermostat-to-Maximize-Use-of-Environmentally-Friendly-Resources.html",
+          "title": "Energate and WattTime.org Partner to Enable Smart"
+        },
+        {
+          "url": "https://www.stimson.org/2019/report-reveals-impact-massive-fishing-fleets/",
+          "title": "Report Reveals Impact of Massive Fishing Fleets • Stimson Center"
+        },
+        {
+          "url": "https://sustainability.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav",
+          "title": "Sustainable Innovation & Technology - Google Sustainability"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "news-celebrity-gossip",
       "bookmarks": [
         {
-          "url": "https://www.elle.com/culture/celebrities/a37598890/billie-eilish-is-calling-the-shots/",
-          "title": "Billie Eilish Is Calling the Shots"
-        },
-        {
           "url": "https://www.tmz.com/2021/06/13/oitnb-taryn-manning-engaged-girlfriend-anne-cline-propose/",
           "title": "'OITNB' Star Taryn Manning Engaged After GF Anne Cline Proposes"
+        },
+        {
+          "url": "https://www.elle.com/culture/celebrities/a37598890/billie-eilish-is-calling-the-shots/",
+          "title": "Billie Eilish Is Calling the Shots"
         },
         {
           "url": "https://www.change.org/p/cast-pamela-anderson-as-jennifer-coolidge-s-grieving-sister-in-season-3-of-white-lotus?source_location=petitions_browse",
@@ -416,24 +434,6 @@
         {
           "url": "https://bookriot.com/the-hate-u-give-banned/",
           "title": "THE HATE U GIVE Banned by Texas School District"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-tech-environmental",
-      "bookmarks": [
-        {
-          "url": "http://globenewswire.com/news-release/2016/04/22/831819/0/en/Energate-and-WattTime-org-Partner-to-Enable-Smart-Thermostat-to-Maximize-Use-of-Environmentally-Friendly-Resources.html",
-          "title": "Energate and WattTime.org Partner to Enable Smart"
-        },
-        {
-          "url": "https://www.stimson.org/2019/report-reveals-impact-massive-fishing-fleets/",
-          "title": "Report Reveals Impact of Massive Fishing Fleets • Stimson Center"
-        },
-        {
-          "url": "https://sustainability.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav",
-          "title": "Sustainable Innovation & Technology - Google Sustainability"
         }
       ],
       "count": 3

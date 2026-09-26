@@ -46,10 +46,6 @@
       "name": "tech-resources",
       "bookmarks": [
         {
-          "url": "https://itunes.apple.com/us/app/youtube-kids/id936971630",
-          "title": "‎YouTube Kids on the App Store"
-        },
-        {
           "url": "https://localopportunity.withgoogle.com/tools/local-opportunity-finder/?utm_source=gwg&utm_medium=ep&utm_campaign=gwg_site",
           "title": "Before you continue"
         },
@@ -80,6 +76,10 @@
         {
           "url": "https://xgboost.readthedocs.io/en/stable/parameter.html",
           "title": "XGBoost Parameters - xgboost 3.0.5 documentation"
+        },
+        {
+          "url": "https://itunes.apple.com/us/app/youtube-kids/id936971630",
+          "title": "‎YouTube Kids on the App Store"
         }
       ],
       "count": 9
@@ -211,7 +211,7 @@
       "count": 3
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "http://WattTime.org",
@@ -268,12 +268,12 @@
       "name": "travel",
       "bookmarks": [
         {
-          "url": "https://bileti.bdz.bg/",
-          "title": "БДЖ билетоиздаване"
-        },
-        {
           "url": "https://www.magicum-berlin.de/museum/",
           "title": "Museum - Magicum Berlin Magic Museum"
+        },
+        {
+          "url": "https://bileti.bdz.bg/",
+          "title": "БДЖ билетоиздаване"
         }
       ],
       "count": 2

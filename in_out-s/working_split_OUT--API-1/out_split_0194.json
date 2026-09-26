@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "organization-company-homepages",
+      "name": "company-organization-homepages",
       "bookmarks": [
+        {
+          "url": "https://naacpimageawards.net",
+          "title": "57th NAACP Image Awards"
+        },
         {
           "url": "http://www.artbizdesign.com/",
           "title": "ARTBIZ GRAPHIC DESIGN"
@@ -10,6 +14,10 @@
         {
           "url": "https://att.jobs/",
           "title": "AT&T Careers: Shape the future of connectivity"
+        },
+        {
+          "url": "https://molbubi.hu/",
+          "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
         },
         {
           "url": "https://www.bmw-bahrain.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
@@ -28,36 +36,28 @@
           "title": "Home | Bureau of Justice Assistance"
         },
         {
-          "url": "https://molbubi.hu/",
-          "title": "Bike Sharing in Budapest - easy bike rental - everywhere | MOL Bubi Budapest"
-        },
-        {
-          "url": "https://naacpimageawards.net",
-          "title": "57th NAACP Image Awards"
-        },
-        {
-          "url": "https://www.newamericaneconomy.org/stories/page/4/?state=new-york-district-24&category=feature",
-          "title": "Stories - New American Economy"
-        },
-        {
           "url": "https://notescoffee.com/",
           "title": "Notes"
-        },
-        {
-          "url": "https://www.npfc.int/",
-          "title": "The North Pacific Fisheries Commission (NPFC) | NPFC"
         },
         {
           "url": "http://www.responsiblemineralsinitiative.org/",
           "title": "Responsible Minerals Initiative"
         },
         {
-          "url": "https://www.tbf.org/",
-          "title": "The Boston Foundation - TBF"
+          "url": "https://www.newamericaneconomy.org/stories/page/4/?state=new-york-district-24&category=feature",
+          "title": "Stories - New American Economy"
         },
         {
           "url": "https://www.teneo.net/",
           "title": "Teneo - IT Services For Network & Security Teams"
+        },
+        {
+          "url": "https://www.tbf.org/",
+          "title": "The Boston Foundation - TBF"
+        },
+        {
+          "url": "https://www.npfc.int/",
+          "title": "The North Pacific Fisheries Commission (NPFC) | NPFC"
         },
         {
           "url": "https://www.wellsfargo.com/",
@@ -67,7 +67,7 @@
       "count": 15
     },
     {
-      "name": "information-data-resources",
+      "name": "data-information-resources",
       "bookmarks": [
         {
           "url": "https://www.stimson.org/research/trade-tech/conventional-arms/",
@@ -130,6 +130,10 @@
       "name": "business-guides-resources",
       "bookmarks": [
         {
+          "url": "https://telematics-magazine.com/en/de-minimis-funding-2021-things-to-consider/",
+          "title": "De-minimis funding 2021 - what you need to know | Telematics Magazine"
+        },
+        {
           "url": "https://howwemakemoney.withgoogle.com/",
           "title": "How Google Makes Money with Advertising | Google Public Policy"
         },
@@ -144,17 +148,17 @@
         {
           "url": "https://www.cision.com/us/blog/",
           "title": "Resources"
-        },
-        {
-          "url": "https://telematics-magazine.com/en/de-minimis-funding-2021-things-to-consider/",
-          "title": "De-minimis funding 2021 - what you need to know | Telematics Magazine"
         }
       ],
       "count": 5
     },
     {
-      "name": "general-news",
+      "name": "news-general",
       "bookmarks": [
+        {
+          "url": "https://svenska.yle.fi/t/18-213126",
+          "title": "Krigsfartyg | Svenska Yle | Nyheter, sport, händelser"
+        },
         {
           "url": "https://lauthentic.info/Divers/article/Zouerate-Alerte-Deux-groupes-electrogenes-prennent-feu-a-la-centrale-Guelb",
           "title": "L'Authentique"
@@ -164,22 +168,40 @@
           "title": "Nine's Wide World of Sports, Match Results, Fixtures, Videos & Live Scores - Nine.com.au"
         },
         {
-          "url": "https://www.pafans.com/actualidad/2021/se-presenta-el-restaurante-twentynines-y-el-videojuego-the-beat-challenge-90507",
-          "title": "Se presenta el restaurante TwentyNine's y el videojuego The Beat Challenge • Pafans.com"
-        },
-        {
-          "url": "https://svenska.yle.fi/t/18-213126",
-          "title": "Krigsfartyg | Svenska Yle | Nyheter, sport, händelser"
-        },
-        {
           "url": "https://www.reporteremacao.com.br/noticias/esporte/8/",
           "title": "REPORTER em AÇÃO.com.br - Últimas Notícias de 2025"
+        },
+        {
+          "url": "https://www.pafans.com/actualidad/2021/se-presenta-el-restaurante-twentynines-y-el-videojuego-the-beat-challenge-90507",
+          "title": "Se presenta el restaurante TwentyNine's y el videojuego The Beat Challenge • Pafans.com"
         }
       ],
       "count": 5
     },
     {
-      "name": "business-tech-news",
+      "name": "digital-media-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://www.hulu.com/live-tv",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://imglarger.com/",
+          "title": "Imglarger | AI Image Enlarger, Enhancer, Editor and Converter"
+        },
+        {
+          "url": "https://vr.youtube.com/",
+          "title": "Prima di continuare su YouTube"
+        },
+        {
+          "url": "https://www.marvel.com/articles/movies/scott-lang-memoir-look-out-for-the-little-guy",
+          "title": "Scott Lang Announces New Memoir 'Look Out for The Little Guy' Coming this Fall | Marvel"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-tech-business",
       "bookmarks": [
         {
           "url": "https://www.gearjunkies.com/2015/10/aston-microphones-a-uniquely-british-story-of-microphones/",
@@ -201,29 +223,7 @@
       "count": 4
     },
     {
-      "name": "digital-media-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.hulu.com/live-tv",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        },
-        {
-          "url": "https://imglarger.com/",
-          "title": "Imglarger | AI Image Enlarger, Enhancer, Editor and Converter"
-        },
-        {
-          "url": "https://www.marvel.com/articles/movies/scott-lang-memoir-look-out-for-the-little-guy",
-          "title": "Scott Lang Announces New Memoir 'Look Out for The Little Guy' Coming this Fall | Marvel"
-        },
-        {
-          "url": "https://vr.youtube.com/",
-          "title": "Prima di continuare su YouTube"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "e-commerce-shopping",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://www.myollie.com/",
@@ -267,20 +267,6 @@
       "count": 4
     },
     {
-      "name": "arts-culture-events",
-      "bookmarks": [
-        {
-          "url": "https://imkinsky.com/ergebnisse/111/530/1/63734",
-          "title": "Hans Canon (Johann Von Strasiripka) (Lot 0241), 111. Kunstauktion, Auktionstage | im Kinsky Auktionshaus in Wien"
-        },
-        {
-          "url": "https://www.magicum-berlin.de/oeffnungszeiten/",
-          "title": "Öffnungszeiten - Magicum Berlin Magic Museum"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "broken-links-errors",
       "bookmarks": [
         {
@@ -302,12 +288,12 @@
       "name": "customer-technical-support",
       "bookmarks": [
         {
-          "url": "https://support.github.com/?utm_source=developermscom",
-          "title": "Sign in for Software Support and Product Help - GitHub Support"
-        },
-        {
           "url": "https://support.serviceshub.microsoft.com/supportforbusiness",
           "title": "Services Hub"
+        },
+        {
+          "url": "https://support.github.com/?utm_source=developermscom",
+          "title": "Sign in for Software Support and Product Help - GitHub Support"
         },
         {
           "url": "https://www.sony.com/electronics/support?cpint=spt-globalheader_supportsite",
@@ -324,12 +310,12 @@
           "title": "13 Best HVAC Contractors in WA (2025), Spanaway 98387 - homeyou"
         },
         {
-          "url": "https://99designs.com/designers/search?categories[]=email-design",
-          "title": "Trova il designer perfetto | 99designs"
-        },
-        {
           "url": "https://apps.shopify.com",
           "title": "Shopify App Store"
+        },
+        {
+          "url": "https://99designs.com/designers/search?categories[]=email-design",
+          "title": "Trova il designer perfetto | 99designs"
         }
       ],
       "count": 3
@@ -374,19 +360,33 @@
       "name": "social-environmental-policy",
       "bookmarks": [
         {
+          "url": "https://www.oceanpanel.org/blue-papers/illegal-unreported-and-unregulated-fishing-and-associated-drivers",
+          "title": "\"Combatting IUU Fishing: Strategies and Solutions - Ocean Panel\""
+        },
+        {
           "url": "https://www.aclunc.org/news/governor-signs-bill-modernizing-california-hiv-laws",
           "title": "Governor Signs Bill Modernizing California HIV Laws | ACLU of Northern CA"
         },
         {
           "url": "https://www.virgin.com/virgin-unite/latest/how-climate-trace-is-making-the-invisible-visible",
           "title": "How Climate TRACE is making the invisible, visible | Virgin"
-        },
-        {
-          "url": "https://www.oceanpanel.org/blue-papers/illegal-unreported-and-unregulated-fishing-and-associated-drivers",
-          "title": "\"Combatting IUU Fishing: Strategies and Solutions - Ocean Panel\""
         }
       ],
       "count": 3
+    },
+    {
+      "name": "arts-culture-events",
+      "bookmarks": [
+        {
+          "url": "https://imkinsky.com/ergebnisse/111/530/1/63734",
+          "title": "Hans Canon (Johann Von Strasiripka) (Lot 0241), 111. Kunstauktion, Auktionstage | im Kinsky Auktionshaus in Wien"
+        },
+        {
+          "url": "https://www.magicum-berlin.de/oeffnungszeiten/",
+          "title": "Öffnungszeiten - Magicum Berlin Magic Museum"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 73,

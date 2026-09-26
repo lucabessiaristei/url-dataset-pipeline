@@ -1,53 +1,85 @@
 {
   "folders": [
     {
-      "name": "business-corporate",
+      "name": "news-politics-social",
       "bookmarks": [
         {
-          "url": "https://ca.jbl.com/",
-          "title": "Official JBL Store - Speakers, Headphones, and More!"
+          "url": "https://www.banquemondiale.org/fr/country/algeria",
+          "title": "Algérie"
         },
         {
-          "url": "https://newsroom.es.paypal-corp.com/",
-          "title": "PayPal Newsroom - Inicio"
+          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
+          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
         },
         {
-          "url": "https://newsroom.china.paypal-corp.com/",
-          "title": "PayPal Newsroom - 首页"
+          "url": "https://www.dw.com/en/business/s-1431",
+          "title": "Business | Economy and finance news from a German perspective - DW"
         },
         {
-          "url": "https://newsroom.uk.paypal-corp.com/",
-          "title": "PayPal Newsroom - Home"
+          "url": "https://gestion.pe/economia/consumo-pota-peruana-impulsado-demanda-mercados-asiaticos-264701-noticia/",
+          "title": "Consumo de pota peruana es impulsado por demanda de los mercados asiáticos | ECONOMIA | GESTIÓN"
         },
         {
-          "url": "https://socialimpact.youtube.com/",
-          "title": "Come funziona YouTube: dare a tutti uno spazio per esprimersi"
+          "url": "https://billingsgazette.com/news/state-and-regional/flurry-of-keystone-xl-pre-construction-activity-resumes/article_2101a963-a28d-5956-9a22-695ad4cf643b.html",
+          "title": "Flurry of Keystone XL pre-construction activity resumes"
         },
         {
-          "url": "https://stock.walmart.com/",
-          "title": "Walmart Inc. (WMT)"
+          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.kdV4lB5ya",
+          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
         },
         {
-          "url": "https://www.studio1847.io/",
-          "title": "Home - Studio1847.io"
+          "url": "https://hsc.unm.edu/news/echo/",
+          "title": "Newsroom - Project ECHO"
+        },
+        {
+          "url": "https://radiomitre.cienradios.com/patricia-bullrich-aseguro-que-el-ataque-del-presidente-a-cornejo-fue-algo-absolutamente-fuera-de-lugar/",
+          "title": "Patricia Bullrich aseguró que el ataque del Presidente a Cornejo fue algo \"absolutamente fuera de lugar\" - Radio Mitre"
+        },
+        {
+          "url": "https://www.thedailybeast.com/",
+          "title": "The Daily Beast: The Latest in Politics, Media & Entertainment News"
+        },
+        {
+          "url": "https://www.straitstimes.com/asia/se-asia/jakarta-detains-chinese-trawler-off-sumatra",
+          "title": "The Straits Times - Breaking news, Singapore news, Asia and world news & multimedia"
+        },
+        {
+          "url": "https://www.care.org/our-work/health/fighting-gender-based-violence/tipping-point/",
+          "title": "Tipping Point - Identifying causes of child and early marriage - CARE"
+        },
+        {
+          "url": "https://www.hivjustice.net/cases/us-man-living-with-hiv-arrested-in-louisiana-for-trying-to-spit-at-police-officer/",
+          "title": "US: Man living with HIV arrested in Louisiana for trying to spit at police officer | HIV Justice Network"
+        },
+        {
+          "url": "https://forum.generationequality.org/forum",
+          "title": "What is the Generation Equality Forum? | Generation Equality Forum"
+        },
+        {
+          "url": "https://www.ft.com/world",
+          "title": "World | Financial Times"
         }
       ],
-      "count": 7
+      "count": 14
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://arlingtonblackchamber.org/",
           "title": "Arlington Black Chamber - Making Arlington Work For Everyone"
         },
         {
+          "url": "http://www.firstchildrensfinance.org/",
+          "title": "First Children's Finance - Building stronger child care businesses"
+        },
+        {
           "url": "https://www.avma.org/",
           "title": "Home | American Veterinary Medical Association"
         },
         {
-          "url": "https://www.firstchildrensfinance.org/",
-          "title": "First Children's Finance - Building stronger child care businesses"
+          "url": "https://www.ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
         },
         {
           "url": "https://www.nationalcleanupday.org/",
@@ -58,33 +90,71 @@
           "title": "Nonprofit | Redeemer Center for Life | North Minneapolis"
         },
         {
-          "url": "https://register.uso.org/4111BMB7/5a3I8X3gMXl",
-          "title": "United Service Organizations, Inc ⋮ Events"
-        },
-        {
           "url": "https://smallsat.org/",
           "title": "Small Satellite Conference | SmallSat"
         },
         {
-          "url": "https://uso.org/pathfinder",
+          "url": "https://register.uso.org/4111BMB7/5a3I8X3gMXl",
+          "title": "United Service Organizations, Inc ⋮ Events"
+        },
+        {
+          "url": "http://uso.org/pathfinder",
           "title": "USO Transition Program · United Service Organizations"
         },
         {
           "url": "https://westbroadway.org/",
           "title": "West Broadway Business & Area Coalition"
-        },
-        {
-          "url": "https://www.ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
         }
       ],
       "count": 10
     },
     {
+      "name": "education-learning",
+      "bookmarks": [
+        {
+          "url": "https://www.coursera.org/specializations/deep-learning",
+          "title": "Deep Learning | Coursera"
+        },
+        {
+          "url": "https://www.uni-bremen.de/forschung/foerderangebote-service/ausschreibungen/erasmus-dozentenmobilitaet",
+          "title": "Erasmus Dozentenmobilität - Universität Bremen"
+        },
+        {
+          "url": "https://gsb.urosario.edu.co/Inicio/?_ga=2.74195994.964749552.1661181525-1736208058.1659478684",
+          "title": "Graduate School of Business Universidad del Rosario - Business School Bogotá | GSB"
+        },
+        {
+          "url": "http://www.dipartimentodesign.polimi.it/en/?option=com_content&view=article&id=135&pta=&optionFilter%5Bfield_3_304%5D=10095252&back=%2Fen%2F%3Foption%3Dcom_content%26view%3Darticle%26id%3D135%26pubblicazioni%3D1%26optionFilter%255Bfield_5_375%255D%3D960018%26back%3D%252Fen%252F%253Foption%253Dcom_content%2526view%253Darticle%2526id%253D135%2526pubblicazioni%253D1%2526optionFilter%25255Bfield_5_375%25255D%253D532352%2526back%253D%25252Fen%25252F%25253Foption%25253Dcom_content%252526view%25253Darticle%252526id%25253D135%252526pubblicazioni%25253D1%252526optionFilter%2525255Bfield_5_375%2525255D%25253D580554%252526back%25253D%2525252Fen%2525252F%2525253Foption%2525253Dcom_content%25252526view%2525253Darticle%25252526id%2525253D135%25252526pubblicazioni%2525253D1%25252526optionFilter%252525255Bfield_5_375%252525255D%2525253D536187%25252526back%2525253D%252525252Fen%252525252F%252525253Foption%252525253Dcom_content%2525252526view%252525253Darticle%2525252526id%252525253D135%2525252526pubblicazioni%252525253D1%2525252526optionFilter%25252525255Bfield_5_375%25252525255D%252525253D554276%2525252526back%252525253D%25252525252Fen%25252525252F%25252525253Foption%25252525253Dcom_content%252525252526view%25252525253Darticle%252525252526id%25252525253D135%252525252526pubblicazioni%25252525253D1%252525252526optionFilter%2525252525255Bfield_5_375%2525252525255D%25252525253D515108%252525252526back%25252525253D%2525252525252Fen%2525252525252F%2525252525253Foption%2525252525253Dcom_content%25252525252526view%2525252525253Darticle%25252525252526id%2525252525253D135%25252525252526pubblicazioni%2525252525253D1%25252525252526optionFilter%252525252525255Bfield_5_375%252525252525255D%2525252525253D242773%25252525252526back%2525252525253D%252525252525252F%252525252525253Foption%252525252525253Dcom_content%2525252525252526view%252525252525253Darticle%2525252525252526id%252525252525253D135%2525252525252526pubblicazioni%252525252525253D1%2525252525252526optionFilter%25252525252525255Bfield_5_375%25252525252525255D%252525252525253D825533%2525252525252526back%252525252525253D%25252525252525252F%25252525252525253Foption%25252525252525253Dcom_content%252525252525252526view%25252525252525253Darticle%252525252525252526id%25252525252525253D135%252525252525252526pubblicazioni%25252525252525253D1%252525252525252526optionFilter%2525252525252525255Bfield_5_375%2525252525252525255D%25252525252525253D242772%252525252525252526back%25252525252525253D%2525252525252525252F%2525252525252525253Foption%2525252525252525253Dcom_content%25252525252525252526view%2525252525252525253Darticle%25252525252525252526id%2525252525252525253D135%25252525252525252526pubblicazioni%2525252525252525253D1%25252525252525252526optionFilter%252525252525252525255Bfield_5_375%252525252525252525255D%2525252525252525253D515115%25252525252525252526back%2525252525252525253D%252525252525252525252F%252525252525252525253Foption%252525252525252525253Dcom_content%2525252525252525252526view%252525252525252525253Darticle%2525252525252525252526id%252525252525252525253D135%2525252525252525252526pubblicazioni%252525252525252525253D1%2525252525252525252526optionFilter%25252525252525252525255Bfield_5_375%25252525252525252525255D%252525252525252525253D994219%2525252525252525252526back%252525252525252525253D%25252525252525252525252F",
+          "title": "Home | Department of design"
+        },
+        {
+          "url": "https://itconnect.uw.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=computingit",
+          "title": "Information Technology - University of Washington"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Midjourney-67bb772caf1b448c9e096a89f2940f2b?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://aws.amazon.com/training/learn-about/serverless/",
+          "title": "Serverless - Learn about | AWS Training"
+        },
+        {
+          "url": "https://partnerships.nature.com/product/researcher-training/",
+          "title": "Training | Support Your Researchers | Nature Partnerships"
+        },
+        {
+          "url": "http://washington.edu/news/video/?utm_source=UW%20News&utm_medium=nav&utm_campaign=video",
+          "title": "Video stories | UW News"
+        }
+      ],
+      "count": 9
+    },
+    {
       "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "https://www.aclens.com/eyeglasses/womens-gold-eyeglasses",
+          "url": "https://www.aclens.com/eyeglasses/womens-gold-eyeglasses?facet=color:gold%7Cfeature:spring+hinge%7Cframe+type:semi-rimless%7Cfeature:adjustable+nose+pads%7Ccolor:pink%7Ccolor:purple%7Cfeature:lightweight%7Cgender:womens&size=-1&sort=1",
           "title": "AC Lens | Welcome to Discount Contacts at Discount Contacts"
         },
         {
@@ -92,28 +162,28 @@
           "title": "Benefit Cosmetics They're Real LengtheningMascara - QVC.com"
         },
         {
-          "url": "https://mozillamr.myspreadshop.com/",
-          "title": "Welcome to Mozillas Mixed Reality Merch Store! | Spreadshop"
+          "url": "http://sahlinstudio.com/product-category/theme/birthday/page/2/?add-to-cart=26386",
+          "title": "Sahlin Studio | Digital Scrapbooking DesignsBirthday Archives - Page 2 of 5 - Sahlin Studio | Digital Scrapbooking Designs"
+        },
+        {
+          "url": "http://www.seahorsecases.com/basket-contents.html?Session_ID=3f18f01df1864700c7b685de9dc7bec4",
+          "title": "Seahorse Cases: Shopping Cart"
         },
         {
           "url": "https://www.partsworldshop.com/de/2~205~motorrad/BMW/K-1300-R-S",
           "title": "Sortiment / BMW / K 1300 R / S - Parts World Shop"
         },
         {
-          "url": "https://sahlinstudio.com/product-category/theme/birthday/page/2/",
-          "title": "Sahlin Studio | Digital Scrapbooking DesignsBirthday Archives - Page 2 of 5 - Sahlin Studio | Digital Scrapbooking Designs"
-        },
-        {
-          "url": "https://www.seahorsecases.com/basket-contents.html",
-          "title": "Seahorse Cases: Shopping Cart"
-        },
-        {
-          "url": "https://wszystko-do-hotelu.pl/11-akcesoria-hotelowe",
-          "title": "Yope | Wyposażenie hotelu | Wszystko-Do-Hotelu.pl"
-        },
-        {
           "url": "https://www.gardeninteriors.nl/tuintafel-marmaris-teak-rvs-220cm-lesli-living.html",
           "title": "Tuintafel - Marmaris - Teak/RVS - 220x90 cm - Lesli Living - Garden Interiors Tuinmeubelen"
+        },
+        {
+          "url": "https://mozillamr.myspreadshop.com/",
+          "title": "Welcome to Mozillas Mixed Reality Merch Store! | Spreadshop"
+        },
+        {
+          "url": "https://wszystko-do-hotelu.pl/11-akcesoria-hotelowe?page=2",
+          "title": "Yope | Wyposażenie hotelu | Wszystko-Do-Hotelu.pl"
         }
       ],
       "count": 8
@@ -122,50 +192,292 @@
       "name": "tech-tools",
       "bookmarks": [
         {
-          "url": "https://buddypress.org/",
-          "title": "BuddyPress.org"
+          "url": "https://www.jumpto365.com/tools/power-bi",
+          "title": "About \"Power BI\""
         },
         {
-          "url": "https://coschedule.com/",
-          "title": "The Social Media Calendar That Does It All - CoSchedule"
+          "url": "https://buddypress.org/",
+          "title": "BuddyPress.org"
         },
         {
           "url": "https://app.eskalera.com/",
           "title": "Eskalera"
         },
         {
-          "url": "https://www.jumpto365.com/tools/power-bi",
-          "title": "About \"Power BI\""
-        },
-        {
           "url": "https://www.khroma.co/",
           "title": "Khroma - AI Color Tool for Designers | Discover and Save Color Palettes"
+        },
+        {
+          "url": "https://vr.youtube.com/",
+          "title": "Prima di continuare su YouTube"
+        },
+        {
+          "url": "https://coschedule.com/",
+          "title": "The Social Media Calendar That Does It All - CoSchedule"
         },
         {
           "url": "https://www.torproject.org/projects/torbrowser.html.en",
           "title": "Tor Project | Download"
         },
         {
-          "url": "https://volkraft.com/",
+          "url": "https://volkraft.com",
           "title": "Volkraft"
-        },
-        {
-          "url": "https://vr.youtube.com/",
-          "title": "Prima di continuare su YouTube"
         }
       ],
       "count": 8
     },
     {
-      "name": "blogs-personal",
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://socialimpact.youtube.com/",
+          "title": "Come funziona YouTube: dare a tutti uno spazio per esprimersi"
+        },
+        {
+          "url": "https://www.studio1847.io/",
+          "title": "Home - Studio1847.io"
+        },
+        {
+          "url": "https://ca.jbl.com?countrySelector=yes&ged=off",
+          "title": "Official JBL Store - Speakers, Headphones, and More!"
+        },
+        {
+          "url": "https://newsroom.uk.paypal-corp.com/",
+          "title": "PayPal Newsroom - Home"
+        },
+        {
+          "url": "https://newsroom.es.paypal-corp.com/",
+          "title": "PayPal Newsroom - Inicio"
+        },
+        {
+          "url": "https://newsroom.china.paypal-corp.com/",
+          "title": "PayPal Newsroom - 首页"
+        },
+        {
+          "url": "https://stock.walmart.com/",
+          "title": "Walmart Inc. (WMT)"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.broadway.com/buzz/201284/arturo-perez-jr-samantha-jayne-to-direct-the-mean-girls-movie-musical/",
+          "title": "Arturo Perez Jr. & Samantha Jayne to Direct the Mean Girls Movie Musical | Broadway Buzz | Broadway.com"
+        },
+        {
+          "url": "https://www.salon.com/2000/07/25/eminem_secrets/",
+          "title": "Eminem's dirty secrets - Salon.com"
+        },
+        {
+          "url": "https://doughenningproject.com/2020/09/17/happy-belated-birthday-david-copperfield/",
+          "title": "Happy Belated Birthday David Copperfield! - THE DOUG HENNING PROJECT"
+        },
+        {
+          "url": "https://www.nataliemcqueen.co.uk/about",
+          "title": "Natalie McQueen - Official Website"
+        },
+        {
+          "url": "https://www.vanityfair.com/hollywood/2023/02/hollywood-issue-portfolio-2023",
+          "title": "Vanity Fair's Hollywood Issue 2023 Cover: Selena Gomez, Austin Butler, Florence Pugh & More | Vanity Fair"
+        },
+        {
+          "url": "http://www.vogue.com/",
+          "title": "Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue"
+        },
+        {
+          "url": "https://www.allure.com/story/rihanna-oceans-8-locs",
+          "title": "Why Rihanna Wears Locs in Movie 'Ocean's 8' | Allure"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "government-services",
+      "bookmarks": [
+        {
+          "url": "https://covid19.ca.gov/",
+          "title": "COVID-19"
+        },
+        {
+          "url": "http://www.inail.it/",
+          "title": "Home"
+        },
+        {
+          "url": "http://www.beniculturali.it/",
+          "title": "Homepage - Ministero della cultura"
+        },
+        {
+          "url": "https://www.pkp.pl/pl/rozklad-jazdy",
+          "title": "Nie znaleziono żądanej strony"
+        },
+        {
+          "url": "https://www.service-public.fr/particuliers/vosdroits/N19806",
+          "title": "Travail - Formation | Service Public"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "hobbies-specialized",
+      "bookmarks": [
+        {
+          "url": "http://www.havebane.dk/Forum/memberlist.php?mode=leaders&sid=559c01e5418a09112e20312a9e94ed9b",
+          "title": "Forum for havebane.dk (45 mm sporvidde) • Log ind"
+        },
+        {
+          "url": "https://www.watchrepairtalk.com/topic/2460-setting-levers/",
+          "title": "Help Identifying Watch Tools - General Tools & Equipment - Watch Repair Talk"
+        },
+        {
+          "url": "https://subaru.oemdtc.com/category/recalls",
+          "title": "Recalls | Subaru - OEMDTC"
+        },
+        {
+          "url": "http://www.stevesaircraft.com/",
+          "title": "Steve's Aircraft General Aviation Maintenance"
+        },
+        {
+          "url": "https://www.adana.co.jp/en/contents/support/",
+          "title": "SUPPORT TOP | ADA"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "legal-policy",
+      "bookmarks": [
+        {
+          "url": "http://www.nielsen.com/digitalprivacy",
+          "title": "Digital measurement privacy statement | Nielsen"
+        },
+        {
+          "url": "http://www.filemaker.com/company/legal/trademark_guidelines.html",
+          "title": "Legal - Trademark guidelines - Claris"
+        },
+        {
+          "url": "http://scourby.com/privacy-policy",
+          "title": "Privacy Policy - Scourby bible Media"
+        },
+        {
+          "url": "https://www.memberclicks.com/privacy",
+          "title": "Privacy Policy | MemberClicks"
+        },
+        {
+          "url": "http://www.txlottery.org/export/sites/lottery/Misc/Privacy.html",
+          "title": "Texas Lottery | Privacy Statement"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "misc-general",
+      "bookmarks": [
+        {
+          "url": "https://www.landforsaleintabananbali.com/land-for-sale-in-tabanan-bali-by-bali-real-property/affordable-17604-m2-land-sale-in-tabanan-kerambitan-bali-tjtb342/",
+          "title": "Affordable 17,604 m2 LAND SALE IN Tabanan Kerambitan BALI TJTB342 | Land for sale in Tabanan Bali Indonesia"
+        },
+        {
+          "url": "https://www.gofundme.com/f/samantha-cains-medical-and-emergency-expenses?member=25368189&utm_campaign=p_cp+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined",
+          "title": "Fundraiser for Macy Gamel by Kalie Clark : Samantha Cain's Emergency Expenses"
+        },
+        {
+          "url": "https://zdravotnickynabytek.cz/cs/reference/",
+          "title": "Reference | Zdravotnický nábytek"
+        },
+        {
+          "url": "https://www.astrocafe.ro/articole/responsabilitatea-acces-la-putere",
+          "title": "Responsabilitatea- acces la putere!"
+        },
+        {
+          "url": "https://www.brunelcare.org.uk/our-housing/tenant-services/general-enquiries/",
+          "title": "Tenant services | Brunelcare"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "news-local",
+      "bookmarks": [
+        {
+          "url": "https://pix11.com/news/local-news/brooklyn/alligator-found-in-brooklyns-prospect-park-lake/",
+          "title": "Alligator found in Brooklyn's Prospect Park Lake | PIX11"
+        },
+        {
+          "url": "https://www.pittsburghmagazine.com/downtown-pittsburgh-reimagining-a-more-vibrant-neighborhood/",
+          "title": "Downtown Pittsburgh: Reimagining a More Vibrant Neighborhood | Pittsburgh Magazine"
+        },
+        {
+          "url": "https://noticiassalamanca.com/campo/el-lobo-ataca-en-monleras-el-rebano-de-la-queseria-montiermo/",
+          "title": "El lobo ataca en Monleras el rebaño de la quesería Montiermo - 【NOTICIAS de Salamanca】"
+        },
+        {
+          "url": "https://www.downtowndayton.org/rediscover/",
+          "title": "Rediscover Downtown Dayton | Downtown Dayton Partnership"
+        },
+        {
+          "url": "http://digitaledition.elgincouriernews.chicagotribune.com/#nt=secondarynavbar",
+          "title": "Suburbs"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "online-publications",
+      "bookmarks": [
+        {
+          "url": "https://www.varesefansbasket.it/forums/topic/1892-10-febbraio-2006/",
+          "title": "10 febbraio 2006 - Divertiti col gruppo di Vfb.it - Varesefansbasket"
+        },
+        {
+          "url": "https://www.eps-one.com/eps-ndvsb/",
+          "title": "ePS-NDVSB delivers the Air Force 'First Look' Program - ePS"
+        },
+        {
+          "url": "https://forge.medium.com",
+          "title": "Forge"
+        },
+        {
+          "url": "https://alistapart.com/topics/",
+          "title": "Topics - A List Apart"
+        },
+        {
+          "url": "https://blog.medium.com/what-were-reading-are-you-an-upstander-or-a-bystander-81f618ff072c?source=home---------6------------------0----------",
+          "title": "What We're Reading: Are you an upstander or a bystander? | by Medium Staff | The Medium Blog | Medium"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "environment-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://www.ipcc.ch/report/ar6/wg2/",
+          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
+        },
+        {
+          "url": "http://www.rekopol.pl",
+          "title": "REKOPOL Organizacja Odzysku Opakowań S.A."
+        },
+        {
+          "url": "http://www.erp-recycling.pl",
+          "title": "STRONA GŁÓWNA • O European Recycling Platform • ERP Polska"
+        },
+        {
+          "url": "https://unwater.org/publications/un-world-water-development-report",
+          "title": "UN World Water Development Report | UN-Water"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://mahxipad.tumblr.com/",
           "title": "@mahxipad on Tumblr"
-        },
-        {
-          "url": "https://committedthetrifecta.tumblr.com/",
-          "title": "I survived because the fire inside me burned brighter than the fire around me."
         },
         {
           "url": "https://erwinthedevil-blog.tumblr.com/",
@@ -174,12 +486,38 @@
         {
           "url": "https://jasoncanty01.tumblr.com/",
           "title": "Jason Canty's Tumblr Stuffs"
+        },
+        {
+          "url": "https://committedthetrifecta.tumblr.com/",
+          "title": "void"
         }
       ],
       "count": 4
     },
     {
-      "name": "data-science-portals",
+      "name": "reference-art-design",
+      "bookmarks": [
+        {
+          "url": "https://bokmodern.com/portfolio/b12-2/",
+          "title": "B12 Pattern - BŌK Modern"
+        },
+        {
+          "url": "https://www.tate.org.uk/art/art-terms/f/foreshortening",
+          "title": "Foreshortening | Tate"
+        },
+        {
+          "url": "https://www.pixtury.com/en/photos/piancapaolo/33937",
+          "title": "Modern print on canvas, poster and wall art of Naples"
+        },
+        {
+          "url": "http://www.nmwa.org/",
+          "title": "National Museum of Women in the Arts | Home"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "science-data-portals",
       "bookmarks": [
         {
           "url": "https://wildlifedashboard.c4ads.org/",
@@ -201,102 +539,106 @@
       "count": 4
     },
     {
-      "name": "education-learning",
+      "name": "science-research-institutes",
       "bookmarks": [
         {
-          "url": "https://aws.amazon.com/training/learn-about/serverless/",
-          "title": "Serverless - Learn about | AWS Training"
+          "url": "http://hnf.fra.affrc.go.jp/english.html",
+          "title": "HNF, Hokkaido National Fisheries Research Institute | Japan Fisheries Research and Education Agency"
         },
         {
-          "url": "https://www.coursera.org/specializations/deep-learning",
-          "title": "Deep Learning | Coursera"
+          "url": "https://www.hornandcauldron.com/",
+          "title": "Home - Horn and Cauldron, Church of the Earth"
         },
         {
-          "url": "https://www.dipartimentodesign.polimi.it/en/",
-          "title": "Home | Department of design"
+          "url": "http://www.cineca.it/",
+          "title": "Home Page | Cineca"
         },
         {
-          "url": "https://gsb.urosario.edu.co/Inicio/",
-          "title": "Graduate School of Business Universidad del Rosario - Business School Bogotá | GSB"
-        },
-        {
-          "url": "https://itconnect.uw.edu/",
-          "title": "Information Technology - University of Washington"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/Midjourney-67bb772caf1b448c9e096a89f2940f2b",
-          "title": "Notion"
-        },
-        {
-          "url": "https://partnerships.nature.com/product/researcher-training/",
-          "title": "Training | Support Your Researchers | Nature Partnerships"
-        },
-        {
-          "url": "https://www.uni-bremen.de/forschung/foerderangebote-service/ausschreibungen/erasmus-dozentenmobilitaet",
-          "title": "Erasmus Dozentenmobilität - Universität Bremen"
-        },
-        {
-          "url": "https://washington.edu/news/video/",
-          "title": "Video stories | UW News"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "entertainment-media",
-      "bookmarks": [
-        {
-          "url": "https://www.allure.com/story/rihanna-oceans-8-locs",
-          "title": "Why Rihanna Wears Locs in Movie 'Ocean's 8' | Allure"
-        },
-        {
-          "url": "https://www.broadway.com/buzz/201284/arturo-perez-jr-samantha-jayne-to-direct-the-mean-girls-movie-musical/",
-          "title": "Arturo Perez Jr. & Samantha Jayne to Direct the Mean Girls Movie Musical | Broadway Buzz | Broadway.com"
-        },
-        {
-          "url": "https://doughenningproject.com/2020/09/17/happy-belated-birthday-david-copperfield/",
-          "title": "Happy Belated Birthday David Copperfield! - THE DOUG HENNING PROJECT"
-        },
-        {
-          "url": "https://www.salon.com/2000/07/25/eminem_secrets/",
-          "title": "Eminem's dirty secrets - Salon.com"
-        },
-        {
-          "url": "https://www.nataliemcqueen.co.uk/about",
-          "title": "Natalie McQueen - Official Website"
-        },
-        {
-          "url": "https://www.vanityfair.com/hollywood/2023/02/hollywood-issue-portfolio-2023",
-          "title": "Vanity Fair's Hollywood Issue 2023 Cover: Selena Gomez, Austin Butler, Florence Pugh & More | Vanity Fair"
-        },
-        {
-          "url": "https://www.vogue.com/",
-          "title": "Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "environment-sustainability",
-      "bookmarks": [
-        {
-          "url": "https://www.erp-recycling.pl/",
-          "title": "STRONA GŁÓWNA • O European Recycling Platform • ERP Polska"
-        },
-        {
-          "url": "https://www.ipcc.ch/report/ar6/wg2/",
-          "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
-        },
-        {
-          "url": "https://www.rekopol.pl/",
-          "title": "REKOPOL Organizacja Odzysku Opakowań S.A."
-        },
-        {
-          "url": "https://unwater.org/publications/un-world-water-development-report",
-          "title": "UN World Water Development Report | UN-Water"
+          "url": "https://archive.vaclavhavel-library.org/Archive/BookCatalogue?author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Ji%C5%99%C3%AD%20Dienstbier&author=Krystyna%20Krauzeauthor=Pavel%20Landovsk%C3%BD&author=Ji%C5%99%C3%AD%20Dienstbierauthor=V%C3%A1clav%20Havel&author=Pavel%20Landovsk%C3%BDsort=2&lang=cs",
+          "title": "Knihovna Václava Havla"
         }
       ],
       "count": 4
+    },
+    {
+      "name": "sports-news",
+      "bookmarks": [
+        {
+          "url": "https://www.nfl.com/standings/league/2024/REG",
+          "title": "2024 NFL League Standings"
+        },
+        {
+          "url": "http://dailysport.co.ke/",
+          "title": "HOME - DAILY SPORT"
+        },
+        {
+          "url": "https://www.thisisanfield.com/",
+          "title": "Liverpool FC News and LFC transfer rumours - This Is Anfield"
+        },
+        {
+          "url": "https://www.thesportsnews.in/",
+          "title": "The Sports News | Cricket News, Football News, Sports Business News, IPL, PKL, ISL, IPL 2024"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "tech-documentation",
+      "bookmarks": [
+        {
+          "url": "https://docs.python.org/3/tutorial/inputoutput.html",
+          "title": "7. Input and Output - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://www.bbc.co.uk/bitesize/guides/z4wf8xs/revision/1",
+          "title": "Entities and attributes - Design - Higher Computing Science Revision - BBC Bitesize"
+        },
+        {
+          "url": "https://nodejs.org/api/fs.html#fs_promises_api",
+          "title": "File system | Node.js v24.10.0 Documentation"
+        },
+        {
+          "url": "https://developers.wx.spire.com/docs/weather-api/1/overview",
+          "title": "Home | Spire Weather"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "audio-podcasts",
+      "bookmarks": [
+        {
+          "url": "https://castbox.fm/episode/36.)-1984-Esque-(ft.-Vaush!)-(ATLA-S2E17)-id2797011-id434340652",
+          "title": "36.) 1984-Esque (ft. Vaush!) (ATLA S2E17)"
+        },
+        {
+          "url": "https://pulpmx.com/podcast/guest-chris-betts/",
+          "title": "Guest: Chris Betts - PulpMX"
+        },
+        {
+          "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022?i=1000457275091",
+          "title": "Sunny, Stormy, Cloudy Days 01:... - Sesame in Communities - Apple Podcasts"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "careers-jobs",
+      "bookmarks": [
+        {
+          "url": "https://ywcamaine.org/get-involved/careers/",
+          "title": "Careers - YWCA"
+        },
+        {
+          "url": "https://pt.jobrapido.com/Ofertas-de-Emprego-para-Assistente-Comunica%C3%A7%C3%A3o-em-Porto?p=5&shm=all",
+          "title": "Emprego Assistente Comunicação Porto, Ofertas de Emprego | Jobrapido.com"
+        },
+        {
+          "url": "https://www.arbeitsagentur.de/jobsuche",
+          "title": "Jobsuche der BA"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "food-dining",
@@ -317,62 +659,12 @@
       "count": 3
     },
     {
-      "name": "gaming",
-      "bookmarks": [
-        {
-          "url": "https://www.arcade-history.com/",
-          "title": "Gaming: video games, arcade, slots, consoles and computers history"
-        },
-        {
-          "url": "https://www.shuajota.com/2021/11/nba-2k22-space-jam-new-legacy-100-free.html",
-          "title": "NBA 2K22 Space Jam: A New Legacy (100% Free Mods) by AGP2K"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government-services",
-      "bookmarks": [
-        {
-          "url": "https://www.beniculturali.it/",
-          "title": "Homepage - Ministero della cultura"
-        },
-        {
-          "url": "https://covid19.ca.gov/",
-          "title": "COVID-19"
-        },
-        {
-          "url": "https://www.inail.it/",
-          "title": "Home"
-        },
-        {
-          "url": "https://www.pkp.pl/pl/rozklad-jazdy",
-          "title": "Nie znaleziono żądanej strony"
-        },
-        {
-          "url": "https://www.service-public.fr/particuliers/vosdroits/N19806",
-          "title": "Travail - Formation | Service Public"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "health-veterinary",
-      "bookmarks": [
-        {
-          "url": "https://www.dierenarts.nl/mijn-hond-zwemt-niet-vaccinatie-tegen-de-ziekte-van-weil-is-daarom-niet-nodig-feit-of-fabel/",
-          "title": "Mijn hond zwemt niet, vaccinatie tegen de ziekte van Weil is daarom niet nodig, feit of fabel? - Dierenarts.nl"
-        },
-        {
-          "url": "https://www.reddit.com/r/AskVet/",
-          "title": "Reddit - The heart of the internet"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "health-wellness",
       "bookmarks": [
+        {
+          "url": "https://www.tranastidning.se/2020-08-31/corona-trycker-ner-annan-vanlig-influensa-och-vinterkraksjuka--sa-svarar-arbetsgivare-i-lanet-vi-har-mycket-lagre-franvaro",
+          "title": "Corona trycker ner annan vanlig influensa och vinterkräksjuka - så svarar arbetsgivare i länet: \"Vi har mycket lägre frånvaro\" - Tranås Tidning"
+        },
         {
           "url": "https://blog.onepeloton.com/couples-fitness/",
           "title": "Here's Why Couples That Workout Together Stay Together"
@@ -380,10 +672,6 @@
         {
           "url": "https://ihcw.aap.org/resources/Documents/fingerfoodsposterfinalv01.pdf",
           "title": "Institute for Healthy Childhood Weight"
-        },
-        {
-          "url": "https://www.tranastidning.se/2020-08-31/corona-trycker-ner-annan-vanlig-influensa-och-vinterkraksjuka--sa-svarar-arbetsgivare-i-lanet-vi-har-mycket-lagre-franvaro",
-          "title": "Corona trycker ner annan vanlig influensa och vinterkräksjuka - så svarar arbetsgivare i länet: \"Vi har mycket lägre frånvaro\" - Tranås Tidning"
         }
       ],
       "count": 3
@@ -392,327 +680,37 @@
       "name": "hobbies-crafts",
       "bookmarks": [
         {
-          "url": "https://www.eadeswallpaper.com/blog/",
+          "url": "https://www.eadeswallpaper.com/blog/?p=236",
           "title": "Eades Wallpaper and Fabrics Blog - Eades Wallpaper & Fabrics"
-        },
-        {
-          "url": "https://heart2homecreations.net/2017/12/19/woodland-globe-ornaments/",
-          "title": "Woodland Globe Ornaments! | Heart2HomeCreations"
         },
         {
           "url": "https://www.ravelry.com/patterns/sources/the-crochet-project",
           "title": "Ravelry: The Crochet Project - patterns"
+        },
+        {
+          "url": "https://heart2homecreations.net/2017/12/19/woodland-globe-ornaments/?like_comment=178&_wpnonce=34663814ef",
+          "title": "Woodland Globe Ornaments! | Heart2HomeCreations"
         }
       ],
       "count": 3
     },
     {
-      "name": "hobbies-specialized",
+      "name": "professional-services",
       "bookmarks": [
         {
-          "url": "https://www.adana.co.jp/en/contents/support/",
-          "title": "SUPPORT TOP | ADA"
+          "url": "https://www.intellum.com",
+          "title": "AI Enterprise Learning | Intellum"
         },
         {
-          "url": "https://www.havebane.dk/Forum/memberlist.php",
-          "title": "Forum for havebane.dk (45 mm sporvidde) • Log ind"
+          "url": "https://photo.samsclub.com/?mid=hp_gnav_220725_services_photo_&xid=hdr_sams-services_photos-customization",
+          "title": "Photo Gifts, Photo Books & Online Photo Printing | Sam's Club Photo"
         },
         {
-          "url": "https://subaru.oemdtc.com/category/recalls",
-          "title": "Recalls | Subaru - OEMDTC"
-        },
-        {
-          "url": "https://www.stevesaircraft.com/",
-          "title": "Steve's Aircraft General Aviation Maintenance"
-        },
-        {
-          "url": "https://www.watchrepairtalk.com/topic/2460-setting-levers/",
-          "title": "Help Identifying Watch Tools - General Tools & Equipment - Watch Repair Talk"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "jobs-career",
-      "bookmarks": [
-        {
-          "url": "https://www.arbeitsagentur.de/jobsuche",
-          "title": "Jobsuche der BA"
-        },
-        {
-          "url": "https://pt.jobrapido.com/Ofertas-de-Emprego-para-Assistente-Comunica%C3%A7%C3%A3o-em-Porto",
-          "title": "Emprego Assistente Comunicação Porto, Ofertas de Emprego | Jobrapido.com"
-        },
-        {
-          "url": "https://ywcamaine.org/get-involved/careers/",
-          "title": "Careers - YWCA"
+          "url": "http://www.drogbaster.it/",
+          "title": "Risorse Servizi web e Strumenti utili gratis - drogbaster.it"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "legal-policy",
-      "bookmarks": [
-        {
-          "url": "https://www.filemaker.com/company/legal/trademark_guidelines.html",
-          "title": "Legal - Trademark guidelines - Claris"
-        },
-        {
-          "url": "https://www.memberclicks.com/privacy",
-          "title": "Privacy Policy | MemberClicks"
-        },
-        {
-          "url": "https://www.nielsen.com/digitalprivacy",
-          "title": "Digital measurement privacy statement | Nielsen"
-        },
-        {
-          "url": "https://scourby.com/privacy-policy",
-          "title": "Privacy Policy - Scourby bible Media"
-        },
-        {
-          "url": "https://www.txlottery.org/export/sites/lottery/Misc/Privacy.html",
-          "title": "Texas Lottery | Privacy Statement"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "misc-general",
-      "bookmarks": [
-        {
-          "url": "https://www.astrocafe.ro/articole/responsabilitatea-acces-la-putere",
-          "title": "Responsabilitatea- acces la putere!"
-        },
-        {
-          "url": "https://www.brunelcare.org.uk/our-housing/tenant-services/general-enquiries/",
-          "title": "Tenant services | Brunelcare"
-        },
-        {
-          "url": "https://www.gofundme.com/f/samantha-cains-medical-and-emergency-expenses",
-          "title": "Fundraiser for Macy Gamel by Kalie Clark : Samantha Cain's Emergency Expenses"
-        },
-        {
-          "url": "https://www.landforsaleintabananbali.com/land-for-sale-in-tabanan-bali-by-bali-real-property/affordable-17604-m2-land-sale-in-tabanan-kerambitan-bali-tjtb342/",
-          "title": "Affordable 17,604 m2 LAND SALE IN Tabanan Kerambitan BALI TJTB342 | Land for sale in Tabanan Bali Indonesia"
-        },
-        {
-          "url": "https://zdravotnickynabytek.cz/cs/reference/",
-          "title": "Reference | Zdravotnický nábytek"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "news-local",
-      "bookmarks": [
-        {
-          "url": "https://www.downtowndayton.org/rediscover/",
-          "title": "Rediscover Downtown Dayton | Downtown Dayton Partnership"
-        },
-        {
-          "url": "https://digitaledition.elgincouriernews.chicagotribune.com/",
-          "title": "Suburbs"
-        },
-        {
-          "url": "https://noticiassalamanca.com/campo/el-lobo-ataca-en-monleras-el-rebano-de-la-queseria-montiermo/",
-          "title": "El lobo ataca en Monleras el rebaño de la quesería Montiermo - 【NOTICIAS de Salamanca】"
-        },
-        {
-          "url": "https://www.pittsburghmagazine.com/downtown-pittsburgh-reimagining-a-more-vibrant-neighborhood/",
-          "title": "Downtown Pittsburgh: Reimagining a More Vibrant Neighborhood | Pittsburgh Magazine"
-        },
-        {
-          "url": "https://pix11.com/news/local-news/brooklyn/alligator-found-in-brooklyns-prospect-park-lake/",
-          "title": "Alligator found in Brooklyn's Prospect Park Lake | PIX11"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "news-politics-social",
-      "bookmarks": [
-        {
-          "url": "https://www.banquemondiale.org/fr/country/algeria",
-          "title": "Algérie"
-        },
-        {
-          "url": "https://billingsgazette.com/news/state-and-regional/flurry-of-keystone-xl-pre-construction-activity-resumes/article_2101a963-a28d-5956-9a22-695ad4cf643b.html",
-          "title": "Flurry of Keystone XL pre-construction activity resumes"
-        },
-        {
-          "url": "https://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap",
-          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
-        },
-        {
-          "url": "https://www.care.org/our-work/health/fighting-gender-based-violence/tipping-point/",
-          "title": "Tipping Point - Identifying causes of child and early marriage - CARE"
-        },
-        {
-          "url": "https://www.dw.com/en/business/s-1431",
-          "title": "Business | Economy and finance news from a German perspective - DW"
-        },
-        {
-          "url": "https://www.ft.com/world",
-          "title": "World | Financial Times"
-        },
-        {
-          "url": "https://forum.generationequality.org/forum",
-          "title": "What is the Generation Equality Forum? | Generation Equality Forum"
-        },
-        {
-          "url": "https://gestion.pe/economia/consumo-pota-peruana-impulsado-demanda-mercados-asiaticos-264701-noticia/",
-          "title": "Consumo de pota peruana es impulsado por demanda de los mercados asiáticos | ECONOMIA | GESTIÓN"
-        },
-        {
-          "url": "https://www.hivjustice.net/cases/us-man-living-with-hiv-arrested-in-louisiana-for-trying-to-spit-at-police-officer/",
-          "title": "US: Man living with HIV arrested in Louisiana for trying to spit at police officer | HIV Justice Network"
-        },
-        {
-          "url": "https://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
-          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
-        },
-        {
-          "url": "https://hsc.unm.edu/news/echo/",
-          "title": "Newsroom - Project ECHO"
-        },
-        {
-          "url": "https://radiomitre.cienradios.com/patricia-bullrich-aseguro-que-el-ataque-del-presidente-a-cornejo-fue-algo-absolutamente-fuera-de-lugar/",
-          "title": "Patricia Bullrich aseguró que el ataque del Presidente a Cornejo fue algo \"absolutamente fuera de lugar\" - Radio Mitre"
-        },
-        {
-          "url": "https://www.straitstimes.com/asia/se-asia/jakarta-detains-chinese-trawler-off-sumatra",
-          "title": "The Straits Times - Breaking news, Singapore news, Asia and world news & multimedia"
-        },
-        {
-          "url": "https://www.thedailybeast.com/",
-          "title": "The Daily Beast: The Latest in Politics, Media & Entertainment News"
-        }
-      ],
-      "count": 14
-    },
-    {
-      "name": "news-science",
-      "bookmarks": [
-        {
-          "url": "https://news.nationalgeographic.com/news/2014/05/140519-bottom-trawling-seafloor-oceans-damage-science/",
-          "title": "National Geographic | National Geographic"
-        },
-        {
-          "url": "https://news.ucsc.edu/2023/01/humpback-whale-pregnancies.html",
-          "title": "Study reveals influence of krill availability on humpback whale pregnancies - News"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news-sports",
-      "bookmarks": [
-        {
-          "url": "https://dailysport.co.ke/",
-          "title": "HOME - DAILY SPORT"
-        },
-        {
-          "url": "https://www.nfl.com/standings/league/2024/REG",
-          "title": "2024 NFL League Standings"
-        },
-        {
-          "url": "https://www.thisisanfield.com/",
-          "title": "Liverpool FC News and LFC transfer rumours - This Is Anfield"
-        },
-        {
-          "url": "https://www.thesportsnews.in/",
-          "title": "The Sports News | Cricket News, Football News, Sports Business News, IPL, PKL, ISL, IPL 2024"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "online-publications",
-      "bookmarks": [
-        {
-          "url": "https://alistapart.com/topics/",
-          "title": "Topics - A List Apart"
-        },
-        {
-          "url": "https://blog.medium.com/what-were-reading-are-you-an-upstander-or-a-bystander-81f618ff072c",
-          "title": "What We're Reading: Are you an upstander or a bystander? | by Medium Staff | The Medium Blog | Medium"
-        },
-        {
-          "url": "https://forge.medium.com/",
-          "title": "Forge"
-        },
-        {
-          "url": "https://www.eps-one.com/eps-ndvsb/",
-          "title": "ePS-NDVSB delivers the Air Force 'First Look' Program - ePS"
-        },
-        {
-          "url": "https://www.varesefansbasket.it/forums/topic/1892-10-febbraio-2006/",
-          "title": "10 febbraio 2006 - Divertiti col gruppo di Vfb.it - Varesefansbasket"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "podcasts-audio",
-      "bookmarks": [
-        {
-          "url": "https://castbox.fm/episode/36.)-1984-Esque-(ft.-Vaush!)-(ATLA-S2E17)-id2797011-id434340652",
-          "title": "36.) 1984-Esque (ft. Vaush!) (ATLA S2E17)"
-        },
-        {
-          "url": "https://pulpmx.com/podcast/guest-chris-betts/",
-          "title": "Guest: Chris Betts - PulpMX"
-        },
-        {
-          "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022",
-          "title": "Sunny, Stormy, Cloudy Days 01:... - Sesame in Communities - Apple Podcasts"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "reference-art-design",
-      "bookmarks": [
-        {
-          "url": "https://bokmodern.com/portfolio/b12-2/",
-          "title": "B12 Pattern - BŌK Modern"
-        },
-        {
-          "url": "https://www.nmwa.org/",
-          "title": "National Museum of Women in the Arts | Home"
-        },
-        {
-          "url": "https://www.pixtury.com/en/photos/piancapaolo/33937",
-          "title": "Modern print on canvas, poster and wall art of Naples"
-        },
-        {
-          "url": "https://www.tate.org.uk/art/art-terms/f/foreshortening",
-          "title": "Foreshortening | Tate"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-research-institutes",
-      "bookmarks": [
-        {
-          "url": "https://www.cineca.it/",
-          "title": "Home Page | Cineca"
-        },
-        {
-          "url": "https://hnf.fra.affrc.go.jp/english.html",
-          "title": "HNF, Hokkaido National Fisheries Research Institute | Japan Fisheries Research and Education Agency"
-        },
-        {
-          "url": "https://www.hornandcauldron.com/",
-          "title": "Home - Horn and Cauldron, Church of the Earth"
-        },
-        {
-          "url": "https://archive.vaclavhavel-library.org/Archive/BookCatalogue",
-          "title": "Knihovna Václava Havla"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "security-surveillance",
@@ -733,55 +731,15 @@
       "count": 3
     },
     {
-      "name": "services-professional",
-      "bookmarks": [
-        {
-          "url": "https://www.drogbaster.it/",
-          "title": "Risorse Servizi web e Strumenti utili gratis - drogbaster.it"
-        },
-        {
-          "url": "https://www.intellum.com/",
-          "title": "AI Enterprise Learning | Intellum"
-        },
-        {
-          "url": "https://photo.samsclub.com/",
-          "title": "Photo Gifts, Photo Books & Online Photo Printing | Sam's Club Photo"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-documentation",
-      "bookmarks": [
-        {
-          "url": "https://www.bbc.co.uk/bitesize/guides/z4wf8xs/revision/1",
-          "title": "Entities and attributes - Design - Higher Computing Science Revision - BBC Bitesize"
-        },
-        {
-          "url": "https://nodejs.org/api/fs.html",
-          "title": "File system | Node.js v24.10.0 Documentation"
-        },
-        {
-          "url": "https://docs.python.org/3/tutorial/inputoutput.html",
-          "title": "7. Input and Output - Python 3.14.0 documentation"
-        },
-        {
-          "url": "https://developers.wx.spire.com/docs/weather-api/1/overview",
-          "title": "Home | Spire Weather"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "travel-planning",
       "bookmarks": [
         {
-          "url": "https://bilete.cfrcalatori.ro/en-GB/Itineraries",
-          "title": "Itineraries + buy - CFR Călători online tickets"
-        },
-        {
           "url": "https://fogoislandinn.ca/",
           "title": "Fogo Island Inn | All-Inclusive Hospitality & Regenerative Travel"
+        },
+        {
+          "url": "https://bilete.cfrcalatori.ro/en-GB/Itineraries",
+          "title": "Itineraries + buy - CFR Călători online tickets"
         },
         {
           "url": "https://www.ns.nl/en/season-tickets/dal-voordeel",
@@ -789,6 +747,48 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "gaming",
+      "bookmarks": [
+        {
+          "url": "http://www.arcade-history.com/",
+          "title": "Gaming: video games, arcade, slots, consoles and computers history"
+        },
+        {
+          "url": "https://www.shuajota.com/2021/11/nba-2k22-space-jam-new-legacy-100-free.html",
+          "title": "NBA 2K22 Space Jam: A New Legacy (100% Free Mods) by AGP2K"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "health-veterinary",
+      "bookmarks": [
+        {
+          "url": "https://www.dierenarts.nl/mijn-hond-zwemt-niet-vaccinatie-tegen-de-ziekte-van-weil-is-daarom-niet-nodig-feit-of-fabel/",
+          "title": "Mijn hond zwemt niet, vaccinatie tegen de ziekte van Weil is daarom niet nodig, feit of fabel? - Dierenarts.nl"
+        },
+        {
+          "url": "https://www.reddit.com/r/AskVet/",
+          "title": "Reddit - The heart of the internet"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "news-science",
+      "bookmarks": [
+        {
+          "url": "https://news.nationalgeographic.com/news/2014/05/140519-bottom-trawling-seafloor-oceans-damage-science/?beta=true",
+          "title": "National Geographic | National Geographic"
+        },
+        {
+          "url": "https://news.ucsc.edu/2023/01/humpback-whale-pregnancies.html",
+          "title": "Study reveals influence of krill availability on humpback whale pregnancies - News"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 151,

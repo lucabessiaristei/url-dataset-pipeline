@@ -1,27 +1,23 @@
 {
   "folders": [
     {
-      "name": "corporate-business-finance",
+      "name": "business-finance-corporate",
       "bookmarks": [
+        {
+          "url": "https://dynamics.microsoft.com/en-us/",
+          "title": "Agentic CRM and ERP Solutions | Microsoft Dynamics 365"
+        },
         {
           "url": "https://smb.apple.com/contactus",
           "title": "Apple"
-        },
-        {
-          "url": "http://www.abs.gov.au/",
-          "title": "Australian Bureau of Statistics"
         },
         {
           "url": "https://www.calicolabs.com/people/arthur-d-levinson",
           "title": "Arthur D. Levinson, Ph.D. - Calico"
         },
         {
-          "url": "https://www.chase.com/business/minority-businesses",
-          "title": "void"
-        },
-        {
-          "url": "https://dynamics.microsoft.com/en-us/",
-          "title": "Agentic CRM and ERP Solutions | Microsoft Dynamics 365"
+          "url": "http://www.abs.gov.au/",
+          "title": "Australian Bureau of Statistics"
         },
         {
           "url": "https://www.ganotechnologies.com",
@@ -34,6 +30,10 @@
         {
           "url": "https://newsroom.china.paypal-corp.com/",
           "title": "PayPal Newsroom - 首页"
+        },
+        {
+          "url": "https://www.chase.com/business/minority-businesses",
+          "title": "void"
         }
       ],
       "count": 8
@@ -50,12 +50,8 @@
           "title": "First Up - Champions for Early Education"
         },
         {
-          "url": "https://firemarkstudio.video.blog/privacy-policy/",
-          "title": "Privacy Policy - Fire Mark Studio"
-        },
-        {
-          "url": "https://greaterbaltimoreblackchamber.org/",
-          "title": "void"
+          "url": "http://www.ucsb.edu/",
+          "title": "Home | UC Santa Barbara"
         },
         {
           "url": "https://www.isuroon.org/",
@@ -66,12 +62,16 @@
           "title": "Jacksonville Mayoral Election 2023"
         },
         {
-          "url": "http://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
-        },
-        {
           "url": "https://www.walmartmoneycard.com/walmart/account/legal-info-page?doc=pp&issuingbank=gdb",
           "title": "Legal Information - Terms & Conditions | Walmart MoneyCard"
+        },
+        {
+          "url": "https://firemarkstudio.video.blog/privacy-policy/",
+          "title": "Privacy Policy - Fire Mark Studio"
+        },
+        {
+          "url": "https://greaterbaltimoreblackchamber.org/",
+          "title": "void"
         }
       ],
       "count": 8
@@ -80,8 +80,8 @@
       "name": "arts-culture-leisure-guides",
       "bookmarks": [
         {
-          "url": "https://www.britannica.com/art/Renaissance-art",
-          "title": "Renaissance art | Definition, Characteristics, Style, Examples, & Facts | Britannica"
+          "url": "https://www.marvel.com/articles/tv-shows/loki-he-who-remains-jonathan-majors",
+          "title": "'Loki': Meet the Man Behind the Curtain, He Who Remains | Marvel"
         },
         {
           "url": "https://www.erika-sanvigilio.it/en/summer-winter/cross-country-skiing/73-0.html",
@@ -96,8 +96,8 @@
           "title": "Passenger Search - The Statue of Liberty & Ellis Island"
         },
         {
-          "url": "https://www.marvel.com/articles/tv-shows/loki-he-who-remains-jonathan-majors",
-          "title": "'Loki': Meet the Man Behind the Curtain, He Who Remains | Marvel"
+          "url": "https://www.britannica.com/art/Renaissance-art",
+          "title": "Renaissance art | Definition, Characteristics, Style, Examples, & Facts | Britannica"
         },
         {
           "url": "https://www.nbc.com/today?nbc=1",
@@ -114,6 +114,14 @@
       "name": "shopping-products-services",
       "bookmarks": [
         {
+          "url": "https://www.scentbox.com/",
+          "title": "$9.72 Monthly Designer Perfume Subscription Box - ScentBox.com"
+        },
+        {
+          "url": "https://www.roku.com/products/roku-ultra",
+          "title": "Close"
+        },
+        {
           "url": "https://www.drazby.cz/drazba-zasob-elektronika-kabely-spolecnosti-inn/",
           "title": "Dražba zásob - elektronika, kabely společnosti I.N.N. | Drazby.cz"
         },
@@ -128,14 +136,6 @@
         {
           "url": "https://naacpstore.org/",
           "title": "NAACP Store"
-        },
-        {
-          "url": "https://www.roku.com/products/roku-ultra",
-          "title": "Close"
-        },
-        {
-          "url": "https://www.scentbox.com/",
-          "title": "$9.72 Monthly Designer Perfume Subscription Box - ScentBox.com"
         }
       ],
       "count": 6
@@ -146,10 +146,6 @@
         {
           "url": "https://training.apple.com/us/en/appdeveloper",
           "title": "App Developer Training"
-        },
-        {
-          "url": "https://www.chessprogramming.org/NNUE",
-          "title": "NNUE - Chessprogramming wiki"
         },
         {
           "url": "https://react.dev/learn/start-a-new-react-project",
@@ -164,6 +160,10 @@
           "title": "GitHub CLI | Take GitHub to the command line"
         },
         {
+          "url": "https://www.chessprogramming.org/NNUE",
+          "title": "NNUE - Chessprogramming wiki"
+        },
+        {
           "url": "https://kotilabdulkadir.notion.site/No-code-search-and-filters-for-Webflow-CMS-Jetboost-51454b3706b843328111b609a1eed55e?pvs=25",
           "title": "Notion"
         }
@@ -171,7 +171,7 @@
       "count": 6
     },
     {
-      "name": "environmental-sustainability-science",
+      "name": "environmental-science-sustainability",
       "bookmarks": [
         {
           "url": "https://www.cleardarksky.com/csk/",
@@ -182,16 +182,16 @@
           "title": "Coral Reef Dashboards | Resource Watch"
         },
         {
+          "url": "https://villasenor-derbez.com/",
+          "title": "Juan Carlos Villaseñor-Derbez"
+        },
+        {
           "url": "https://blog.google/products/search/mapping-wildfires-with-satellite-data/",
           "title": "Mapping wildfires with the power of satellite data"
         },
         {
           "url": "https://earth.stanford.edu/news/oil-spills-and-coastal-resilience",
           "title": "Oil spills and coastal resilience | Stanford Doerr School of Sustainability"
-        },
-        {
-          "url": "https://villasenor-derbez.com/",
-          "title": "Juan Carlos Villaseñor-Derbez"
         }
       ],
       "count": 5
@@ -230,12 +230,12 @@
           "title": "Redirecting..."
         },
         {
-          "url": "https://auburnwa.gov/gateway/sso/SAMLServiceProviderACS.aspx?ReturnURL=L2Ntcy9vbmUuYXNweD9wb3J0YWxJZD0xMTQ3MDYzOCZwYWdlSWQ9MTI1MjIzMDkmb2JqZWN0SWQuMjI0ODQzPTE4MTQ0NTEzJmNvbnRleHRJZC4yMjQ4NDM9MTI1MjI0MzQmcGFyZW50SWQuMjI0ODQzPTEyNTIyNDM1JmxvY2FsU3RhcnREYXRlPTIwMjEtMTItMDVUMDk6MDAmbG9jYWxFbmREYXRlPTIwMjEtMTItMDVUMTc6MDAmcmVmPW1lc1RQOWZnOTZmVnNnenBXWWVvZ0F4WVdGJTJCbU4lMkZYUEVuT0tFMTJ4SG40JTNE",
-          "title": "Working..."
-        },
-        {
           "url": "http://www.neotipi.it/",
           "title": "void"
+        },
+        {
+          "url": "https://auburnwa.gov/gateway/sso/SAMLServiceProviderACS.aspx?ReturnURL=L2Ntcy9vbmUuYXNweD9wb3J0YWxJZD0xMTQ3MDYzOCZwYWdlSWQ9MTI1MjIzMDkmb2JqZWN0SWQuMjI0ODQzPTE4MTQ0NTEzJmNvbnRleHRJZC4yMjQ4NDM9MTI1MjI0MzQmcGFyZW50SWQuMjI0ODQzPTEyNTIyNDM1JmxvY2FsU3RhcnREYXRlPTIwMjEtMTItMDVUMDk6MDAmbG9jYWxFbmREYXRlPTIwMjEtMTItMDVUMTc6MDAmcmVmPW1lc1RQOWZnOTZmVnNnenBXWWVvZ0F4WVdGJTJCbU4lMkZYUEVuT0tFMTJ4SG40JTNE",
+          "title": "Working..."
         }
       ],
       "count": 4

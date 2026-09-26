@@ -1,16 +1,8 @@
 {
   "folders": [
     {
-      "name": "company-business-profiles",
+      "name": "business-company-profiles",
       "bookmarks": [
-        {
-          "url": "http://www.stayaka.com/",
-          "title": "Hotel Residences and Hotels | AKA"
-        },
-        {
-          "url": "http://www.moneystation.gr",
-          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
-        },
         {
           "url": "https://colesgroupdc.com/",
           "title": "Coles Group"
@@ -18,6 +10,10 @@
         {
           "url": "https://www.goldmansachs.com/",
           "title": "Home | Goldman Sachs"
+        },
+        {
+          "url": "http://www.stayaka.com/",
+          "title": "Hotel Residences and Hotels | AKA"
         },
         {
           "url": "https://www.inobat.ch/",
@@ -44,16 +40,20 @@
           "title": "Reference | Zdravotnický nábytek"
         },
         {
-          "url": "https://samuelssweetshop.com/",
-          "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
-        },
-        {
           "url": "https://kr.linkedin.com/company/samsungmobile?trk=organization_guest_main-feed-card_reshare_feed-actor-name",
           "title": "Samsung Mobile | LinkedIn"
         },
         {
+          "url": "https://samuelssweetshop.com/",
+          "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
+        },
+        {
           "url": "https://in.linkedin.com/company/sterlite-technologies-ltd-?trk=public_jobs_jserp-result_job-search-card-subtitle",
           "title": "STL - Sterlite Technologies Limited | LinkedIn"
+        },
+        {
+          "url": "http://www.moneystation.gr",
+          "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
         }
       ],
       "count": 13
@@ -61,6 +61,10 @@
     {
       "name": "news-media-reporting",
       "bookmarks": [
+        {
+          "url": "https://tvline.com/2015/02/16/kit-cowan-tribute-video-death-michael-ausiello-husband/",
+          "title": "[VIDEO] Kit Cowan Tribute, Memorial"
+        },
         {
           "url": "https://www.glamour.com/story/camilla-cabello-new-normal-self-care-issue",
           "title": "Camila Cabello's October Glamour Cover Story: A New Normal | Glamour"
@@ -108,10 +112,6 @@
         {
           "url": "https://www.usatoday.com/story/entertainment/movies/2020/08/26/tom-sizemore-suit-alleging-he-groped-little-girl-dismissed/5636906002/",
           "title": "Tom Sizemore suit alleging he groped 11-year-old girl dismissed"
-        },
-        {
-          "url": "https://tvline.com/2015/02/16/kit-cowan-tribute-video-death-michael-ausiello-husband/",
-          "title": "[VIDEO] Kit Cowan Tribute, Memorial"
         }
       ],
       "count": 13
@@ -159,7 +159,7 @@
       "count": 9
     },
     {
-      "name": "gaming-entertainment-media",
+      "name": "entertainment-media-gaming",
       "bookmarks": [
         {
           "url": "https://www.trainers-quotes.com/latest-results/100720193rd112-maidforlife-charliefelloweskemptonpark/",
@@ -320,6 +320,10 @@
       "name": "social-cultural-articles",
       "bookmarks": [
         {
+          "url": "https://mestizos.cl/tag/medio-de-transporte/",
+          "title": "#medio de transporte - Mestizos Magazine"
+        },
+        {
           "url": "https://www.erika-sanvigilio.it/en/summer-winter/cross-country-skiing/73-0.html",
           "title": "Cross-country skiing - Marebbe - - Hotel Erika San Vigilio di Marebbe"
         },
@@ -332,15 +336,33 @@
           "title": "London | South East | National Trust"
         },
         {
-          "url": "https://mestizos.cl/tag/medio-de-transporte/",
-          "title": "#medio de transporte - Mestizos Magazine"
-        },
-        {
           "url": "https://forsaljningavaktierivzutuc.netlify.app/1837/5071.html",
           "title": "Mongolisk skrift, mongoliska staten och mongolisk nationalism"
         }
       ],
       "count": 5
+    },
+    {
+      "name": "data-portals-archives",
+      "bookmarks": [
+        {
+          "url": "https://www.aquamaps.org/",
+          "title": "AquaMaps Search Page"
+        },
+        {
+          "url": "http://hog-heltau.de/index.php/bilder-archiv-heltau/2-grabsteine/detail/130-bonfert-michael-1869-1938-schachinger-katharina-1878-1948-grabstein?tmpl=component",
+          "title": "Bilder Archiv Heltau"
+        },
+        {
+          "url": "https://dev.sanctum.geek.nz/cgit/dotfiles.git/refs/?h=v1.48.0&id=f05942f3ddf09ba33d493afb8dee7a3a6b890bee",
+          "title": "Making sure you're not a bot!"
+        },
+        {
+          "url": "https://data.apps.fao.org/",
+          "title": "void"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "technical-documentation-guides",
@@ -360,28 +382,6 @@
         {
           "url": "https://dev.mysql.com/doc/refman/8.0/en/charset-unicode-utf8mb4.html",
           "title": "MySQL :: MySQL 8.0 Reference Manual :: 12.9.1 The utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "data-portals-archives",
-      "bookmarks": [
-        {
-          "url": "https://www.aquamaps.org/",
-          "title": "AquaMaps Search Page"
-        },
-        {
-          "url": "http://hog-heltau.de/index.php/bilder-archiv-heltau/2-grabsteine/detail/130-bonfert-michael-1869-1938-schachinger-katharina-1878-1948-grabstein?tmpl=component",
-          "title": "Bilder Archiv Heltau"
-        },
-        {
-          "url": "https://data.apps.fao.org/",
-          "title": "void"
-        },
-        {
-          "url": "https://dev.sanctum.geek.nz/cgit/dotfiles.git/refs/?h=v1.48.0&id=f05942f3ddf09ba33d493afb8dee7a3a6b890bee",
-          "title": "Making sure you're not a bot!"
         }
       ],
       "count": 4

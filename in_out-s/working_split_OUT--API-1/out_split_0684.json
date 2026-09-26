@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.amendtogether.org/",
@@ -12,20 +12,12 @@
           "title": "Arlington Black Chamber - Making Arlington Work For Everyone"
         },
         {
-          "url": "https://www.avma.org/",
-          "title": "Home | American Veterinary Medical Association"
-        },
-        {
           "url": "https://www.comeandsee.net/help",
           "title": "Come and See Foundation Help Center"
         },
         {
           "url": "https://www.gtcuw.org/",
           "title": "Greater Twin Cities United Way | Together We Thrive"
-        },
-        {
-          "url": "https://freedomnetworkusa.org/",
-          "title": "Human Trafficking Advocacy | Freedom Network USA"
         },
         {
           "url": "https://www.islandconservation.org/",
@@ -36,8 +28,24 @@
           "title": "Home - Louisiana Chamber of Commerce Foundation, Inc"
         },
         {
+          "url": "https://www.watttime.org/",
+          "title": "Home - WattTime"
+        },
+        {
+          "url": "https://www.avma.org/",
+          "title": "Home | American Veterinary Medical Association"
+        },
+        {
           "url": "https://www.noirbcc.org/",
           "title": "HOME | NOIRBCC"
+        },
+        {
+          "url": "https://freedomnetworkusa.org/",
+          "title": "Human Trafficking Advocacy | Freedom Network USA"
+        },
+        {
+          "url": "https://upwardlyglobal.org/jobversity/#jobversity-products",
+          "title": "Online Learning Tools for Immigrant Job Seekers"
         },
         {
           "url": "https://www.seedsindia.org/our-story/",
@@ -50,14 +58,6 @@
         {
           "url": "https://register.uso.org/4111BMB7/5a3I8X3SFik",
           "title": "United Service Organizations, Inc ⋮ Events"
-        },
-        {
-          "url": "https://upwardlyglobal.org/jobversity/#jobversity-products",
-          "title": "Online Learning Tools for Immigrant Job Seekers"
-        },
-        {
-          "url": "https://www.watttime.org/",
-          "title": "Home - WattTime"
         },
         {
           "url": "https://ywca.quorum.us/actioncenter/",
@@ -78,7 +78,7 @@
           "title": "Avviso di reindirizzamento"
         },
         {
-          "url": "https://backcountry.tnu8.net/c/249354/358742/5311?subId1=PEOTheBestChristmasSalestoShopfromOurFavoriteStoresmsapozhnikovLifAff13830521202212I&u=https://www.backcountry.com/patagonia-nano-puff-insulated-jacket-womens",
+          "url": "https://backcountry.tnu8.net/c/249354/358742/5311?subId1=PEOTheBestChristmasSalestoShopfromOurFavoriteStoresmsapozhnikovLifAff13830521202212I&u=https%3A%2F%2Fwww.backcountry.com%2Fpatagonia-nano-puff-insulated-jacket-womens",
           "title": "Backcountry is not available"
         },
         {
@@ -92,10 +92,6 @@
         {
           "url": "https://www.objets-caches.com/l-enigme-de-la-montagne.html",
           "title": "Jeu L'énigme de la montagne gratuit sur objets-caches.com"
-        },
-        {
-          "url": "https://www.kkcm.cz/teens-pruzkum",
-          "title": "Výsledky průzkumu | kkcm"
         },
         {
           "url": "https://es.ccm.net/forum/affich-1014784-olvide-mi-contrasena-macbook-intento-no-sale",
@@ -124,6 +120,10 @@
         {
           "url": "http://ttool.de/anleitungen/ccee.htm",
           "title": "Untitled Document"
+        },
+        {
+          "url": "https://www.kkcm.cz/teens-pruzkum",
+          "title": "Výsledky průzkumu | kkcm"
         }
       ],
       "count": 14
@@ -140,24 +140,12 @@
           "title": "Block by Block | Innovate service solutions for public spaces."
         },
         {
-          "url": "https://integrated-report.bnpparibas/2021/",
-          "title": "Editorial - Page 1 | BNP Paribas - 2024 integrated report"
-        },
-        {
-          "url": "http://www.camcom.it/",
-          "title": "Sistema Camerale | Unioncamere"
-        },
-        {
-          "url": "https://www.citizensbank.com/disclosures/msstores.aspx",
-          "title": "Microsoft Stores | Citizens"
-        },
-        {
           "url": "https://www.edf.fr/resultats?keywords=travail+des+%C3%A9quipes&type=0",
           "title": "EDF France | EDF FR"
         },
         {
-          "url": "http://www.globalstar.com/",
-          "title": "Satellite Solutions & Services | Globalstar | US"
+          "url": "https://integrated-report.bnpparibas/2021/",
+          "title": "Editorial - Page 1 | BNP Paribas - 2024 integrated report"
         },
         {
           "url": "https://diversity.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
@@ -166,6 +154,18 @@
         {
           "url": "https://www.kive.ai/",
           "title": "Kive: Create, manage, and scale on-brand AI content"
+        },
+        {
+          "url": "https://www.citizensbank.com/disclosures/msstores.aspx",
+          "title": "Microsoft Stores | Citizens"
+        },
+        {
+          "url": "http://www.globalstar.com/",
+          "title": "Satellite Solutions & Services | Globalstar | US"
+        },
+        {
+          "url": "http://www.camcom.it/",
+          "title": "Sistema Camerale | Unioncamere"
         },
         {
           "url": "https://www.verizon.com/",
@@ -194,6 +194,10 @@
           "title": "Jornadas de Puertas Abiertas, Medina Sidonia archivos - Noticias La Tribuna Hoy"
         },
         {
+          "url": "https://www.usmagazine.com/entertainment/news/khloe-kardashian-to-guest-judge-rupauls-drag-race-see-khloe-and-rupauls-photo-together-2014131/",
+          "title": "Khloe Kardashian on RuPaul's Drag Race Picture: Star to Guest Judge | Us Weekly"
+        },
+        {
           "url": "http://www.repubblica.it/",
           "title": "la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport"
         },
@@ -206,10 +210,6 @@
           "title": "Pharrell on Evolving Masculinity, \"Blurred Lines,\" and \"Spiritual Warfare\" | GQ"
         },
         {
-          "url": "https://www.usmagazine.com/entertainment/news/khloe-kardashian-to-guest-judge-rupauls-drag-race-see-khloe-and-rupauls-photo-together-2014131/",
-          "title": "Prime Factorization - Sonderbooks"
-        },
-        {
           "url": "https://video.repubblica.it/edizione/parma?pag=4",
           "title": "Video - la Repubblica"
         }
@@ -217,8 +217,12 @@
       "count": 9
     },
     {
-      "name": "social-blogs",
+      "name": "blogs-social",
       "bookmarks": [
+        {
+          "url": "https://dolceforever-blog.tumblr.com/",
+          "title": "@dolceforever-blog on Tumblr"
+        },
         {
           "url": "https://ourkman.tumblr.com/",
           "title": "@ourkman on Tumblr"
@@ -230,10 +234,6 @@
         {
           "url": "https://q-lvck.tumblr.com/",
           "title": "Daedroghneth"
-        },
-        {
-          "url": "https://dolceforever-blog.tumblr.com/",
-          "title": "@dolceforever-blog on Tumblr"
         },
         {
           "url": "https://hi5.com/",
@@ -258,6 +258,10 @@
       "name": "shopping-products",
       "bookmarks": [
         {
+          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
+          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
+        },
+        {
           "url": "https://bearmanor-digital.myshopify.com/products/middle-of-the-rainbow-paperback",
           "title": "Amazon"
         },
@@ -274,19 +278,45 @@
           "title": "Cove Modern Litter Box - Tuft & Paw"
         },
         {
-          "url": "https://gap.igs4ds.net/c/249354/383278/5555?subId1=PEOKateMiddletonFlippedPancakesinNavyWideLegPantsScoreSimilarOptionsStartingat13lstansburyFasAff13964533202302I&u=https://oldnavy.gap.com/browse/product.do?pid=559804012%23pdp-page-content",
+          "url": "https://gap.igs4ds.net/c/249354/383278/5555?subId1=PEOKateMiddletonFlippedPancakesinNavyWideLegPantsScoreSimilarOptionsStartingat13lstansburyFasAff13964533202302I&u=https%3A%2F%2Foldnavy.gap.com%2Fbrowse%2Fproduct.do%3Fpid%3D559804012%23pdp-page-content",
           "title": "Extra High-Waisted Taylor Wide-Leg Trouser Pants | Old Navy"
         },
         {
           "url": "https://ubeauty.com/products/the-mantle-skin-conditioning-wash?variant=40855746412644",
           "title": "Nourishing Double Cleanser - U Beauty the MANTLE"
-        },
-        {
-          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
-          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
         }
       ],
       "count": 7
+    },
+    {
+      "name": "art-design",
+      "bookmarks": [
+        {
+          "url": "https://bokmodern.com/portfolio/b12-2/",
+          "title": "B12 Pattern - BŌK Modern"
+        },
+        {
+          "url": "http://www.brentstirton.com",
+          "title": "Brent Stirton"
+        },
+        {
+          "url": "https://www.rawpixel.com/",
+          "title": "Free Stock Photos, PNGs, Templates & Mockups | rawpixel"
+        },
+        {
+          "url": "https://www.architecturaldigest.com/story/step-inside-nate-berkus-and-jeremiah-brents-freshly-renovated-fifth-avenue-family-home",
+          "title": "Step Inside Nate Berkus and Jeremiah Brent's Freshly Renovated Fifth Avenue Family Home | Architectural Digest | Architectural Digest"
+        },
+        {
+          "url": "https://www.studioalyse.com/",
+          "title": "Studio Alyse"
+        },
+        {
+          "url": "https://www.tate.org.uk/visit/tate-modern",
+          "title": "Tate Modern | Tate"
+        }
+      ],
+      "count": 6
     },
     {
       "name": "education",
@@ -300,6 +330,10 @@
           "title": "Blok: Nauka prawa w Warszawie w warunkach globalizacji - Uniwersytet Warszawski - USOSweb"
         },
         {
+          "url": "https://www.sdpb.org/earlylearning/",
+          "title": "Early Learning Initiative | SDPB"
+        },
+        {
           "url": "http://browardschools.com/",
           "title": "Home - Broward County Public Schools"
         },
@@ -310,10 +344,6 @@
         {
           "url": "https://www.montgomerycollege.edu/",
           "title": "Montgomery College | Montgomery College, Maryland"
-        },
-        {
-          "url": "https://www.sdpb.org/earlylearning/",
-          "title": "Early Learning Initiative | SDPB"
         }
       ],
       "count": 6
@@ -409,36 +439,6 @@
       "count": 6
     },
     {
-      "name": "art-design",
-      "bookmarks": [
-        {
-          "url": "https://bokmodern.com/portfolio/b12-2/",
-          "title": "B12 Pattern - BŌK Modern"
-        },
-        {
-          "url": "http://www.brentstirton.com",
-          "title": "Brent Stirton"
-        },
-        {
-          "url": "https://www.rawpixel.com/",
-          "title": "Free Stock Photos, PNGs, Templates & Mockups | rawpixel"
-        },
-        {
-          "url": "https://www.architecturaldigest.com/story/step-inside-nate-berkus-and-jeremiah-brents-freshly-renovated-fifth-avenue-family-home",
-          "title": "Step Inside Nate Berkus and Jeremiah Brent's Freshly Renovated Fifth Avenue Family Home | Architectural Digest | Architectural Digest"
-        },
-        {
-          "url": "https://www.studioalyse.com/",
-          "title": "Studio Alyse"
-        },
-        {
-          "url": "https://www.tate.org.uk/visit/tate-modern",
-          "title": "Tate Modern | Tate"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "programming-docs",
       "bookmarks": [
         {
@@ -465,50 +465,6 @@
       "count": 5
     },
     {
-      "name": "reference-legal",
-      "bookmarks": [
-        {
-          "url": "http://jurisdependencia-asesoriayabogados.com/tag/reclamaciones/",
-          "title": "reclamaciones Archives -"
-        },
-        {
-          "url": "https://nplayer.com/privacy-policy.html",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=XXVII-7-d&chapter=27&clang=_en",
-          "title": "UNTC"
-        },
-        {
-          "url": "https://www.whatsapp.com/privacy",
-          "title": "WhatsApp Privacy | Secure and Private Messaging"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-research",
-      "bookmarks": [
-        {
-          "url": "https://www.astrogav.eu/G_A_V_%20-%20Gruppo%20Astronomico%20Viareggio_paolo%20farinella.htm",
-          "title": "Storia del Gruppo: Prof. Paolo Farinella"
-        },
-        {
-          "url": "https://natuurtijdschriften.nl/pub/494320",
-          "title": "Natuurtijdschriften: De Boomkikker, Hyla arborea in Nederland III. Geluidsproduktie"
-        },
-        {
-          "url": "https://www.nature.com/physics",
-          "title": "Physics - Latest research and news | Nature"
-        },
-        {
-          "url": "http://sonderbooks.com/blog/?cat=206",
-          "title": "Prime Factorization - Sonderbooks"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "business-economy",
       "bookmarks": [
         {
@@ -531,6 +487,68 @@
       "count": 4
     },
     {
+      "name": "reference-legal",
+      "bookmarks": [
+        {
+          "url": "https://nplayer.com/privacy-policy.html",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "http://jurisdependencia-asesoriayabogados.com/tag/reclamaciones/",
+          "title": "reclamaciones Archives -"
+        },
+        {
+          "url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=IND&mtdsg_no=XXVII-7-d&chapter=27&clang=_en",
+          "title": "UNTC"
+        },
+        {
+          "url": "https://www.whatsapp.com/privacy",
+          "title": "WhatsApp Privacy | Secure and Private Messaging"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "science-research",
+      "bookmarks": [
+        {
+          "url": "https://natuurtijdschriften.nl/pub/494320",
+          "title": "Natuurtijdschriften: De Boomkikker, Hyla arborea in Nederland III. Geluidsproduktie"
+        },
+        {
+          "url": "https://www.nature.com/physics",
+          "title": "Physics - Latest research and news | Nature"
+        },
+        {
+          "url": "http://sonderbooks.com/blog/?cat=206",
+          "title": "Prime Factorization - Sonderbooks"
+        },
+        {
+          "url": "https://www.astrogav.eu/G_A_V_%20-%20Gruppo%20Astronomico%20Viareggio_paolo%20farinella.htm",
+          "title": "Storia del Gruppo: Prof. Paolo Farinella"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "blogs-literature",
+      "bookmarks": [
+        {
+          "url": "http://adictoslibros.blogspot.com/2016/02/la-saga-de-los-volsungos.html",
+          "title": "Adictos a los libros: La saga de los Volsungos"
+        },
+        {
+          "url": "https://madeinjeddah.net/tag/greeting/",
+          "title": "Greeting | madeinjeddah"
+        },
+        {
+          "url": "http://www.flowerpowernyc.org/2014/07/",
+          "title": "July 2014 - Flower Power NYC"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "entertainment",
       "bookmarks": [
         {
@@ -544,13 +562,9 @@
         {
           "url": "https://cineclub.de/filmarchiv/z/v.html",
           "title": "Cineclub - Filmarchiv: v"
-        },
-        {
-          "url": "https://www.usmagazine.com/entertainment/news/khloe-kardashian-to-guest-judge-rupauls-drag-race-see-khloe-and-rupauls-photo-together-2014131/",
-          "title": "Khloe Kardashian on RuPaul's Drag Race Picture: Star to Guest Judge | Us Weekly"
         }
       ],
-      "count": 4
+      "count": 3
     },
     {
       "name": "food-cooking",
@@ -589,25 +603,7 @@
       "count": 3
     },
     {
-      "name": "literature-blogs",
-      "bookmarks": [
-        {
-          "url": "http://adictoslibros.blogspot.com/2016/02/la-saga-de-los-volsungos.html",
-          "title": "Adictos a los libros: La saga de los Volsungos"
-        },
-        {
-          "url": "http://www.flowerpowernyc.org/2014/07/",
-          "title": "July 2014 - Flower Power NYC"
-        },
-        {
-          "url": "https://madeinjeddah.net/tag/greeting/",
-          "title": "Greeting | madeinjeddah"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "reference-misc",
+      "name": "misc-reference",
       "bookmarks": [
         {
           "url": "https://jlgray.com/properties?property=cimmaron-i-apartments&propertyid=90",
@@ -625,19 +621,19 @@
       "count": 3
     },
     {
-      "name": "tools-online",
+      "name": "online-tools",
       "bookmarks": [
         {
           "url": "https://geojson.io/",
           "title": "geojson.io | powered by Mapbox"
         },
         {
-          "url": "https://www.yelp.com/",
-          "title": "Ristoranti, dentisti, bar, saloni di bellezza, dottori a Roma - Yelp"
-        },
-        {
           "url": "https://www.starlingbank.com/blog/",
           "title": "Noteworthy | Starling Blog | Starling"
+        },
+        {
+          "url": "https://www.yelp.com/",
+          "title": "Ristoranti, dentisti, bar, saloni di bellezza, dottori a Roma - Yelp"
         }
       ],
       "count": 3
@@ -646,21 +642,21 @@
       "name": "travel-planning",
       "bookmarks": [
         {
-          "url": "https://www.caldeiraomagico.pt/produto/tarot-esoterico/",
-          "title": "TAROT ESOTERICO - Caldeirão Mágico - Artigos Esótericos"
-        },
-        {
           "url": "https://shop.lonelyplanet.com/categories/canada?city%5B%5D=Churchill&city%5B%5D=Vancouver&city%5B%5D=Ottawa&series%5B%5D=Pocket&series%5B%5D=Regional+Guide&series%5B%5D=Trips+Country&series%5B%5D=City+Map&series%5B%5D=Country+Guide&series%5B%5D=Best+of+Country&sort%5B%5D=featured&sort%5B%5D=top_sellers",
           "title": "Lonely Planet books for Canada"
         },
         {
           "url": "https://www.mountainhardwear.com/",
           "title": "Mountain Hardwear: Technical Outdoor Gear & Apparel"
+        },
+        {
+          "url": "https://www.caldeiraomagico.pt/produto/tarot-esoterico/",
+          "title": "TAROT ESOTERICO - Caldeirão Mágico - Artigos Esótericos"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 136,
+  "total_bookmarks": 131,
   "num_folders": 22
 }

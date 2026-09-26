@@ -1,10 +1,10 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://ceoworks.org/our-model",
+          "url": "https://www.ceoworks.org/our-model",
           "title": "CEO | Our Model"
         },
         {
@@ -12,31 +12,31 @@
           "title": "Google.org Impact Challenge Brasil 2014"
         },
         {
-          "url": "https://eval4action.org/",
+          "url": "https://www.eval4action.org/",
           "title": "Home | Eval4Action campaign to accelerate progress on the SDGs"
+        },
+        {
+          "url": "https://www.usbcwomenofpower.com/",
+          "title": "Home | USBC Womens Power 50"
+        },
+        {
+          "url": "https://www.houstonendowment.org/programs/",
+          "title": "Houston Endowment | Programs"
+        },
+        {
+          "url": "https://support.theguardian.com?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
+          "title": "Support the Guardian"
+        },
+        {
+          "url": "https://www.thefamilyplacenc.com/",
+          "title": "The Family Place | Family resources in Transylvania County"
         },
         {
           "url": "https://globalfishingwatch.org/",
           "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
         },
         {
-          "url": "https://houstonendowment.org/programs/",
-          "title": "Houston Endowment | Programs"
-        },
-        {
-          "url": "https://support.theguardian.com/?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
-          "title": "Support the Guardian"
-        },
-        {
-          "url": "https://thefamilyplacenc.com/",
-          "title": "The Family Place | Family resources in Transylvania County"
-        },
-        {
-          "url": "https://usbcwomenofpower.com/",
-          "title": "Home | USBC Womens Power 50"
-        },
-        {
-          "url": "https://usblackchambers.org/",
+          "url": "https://usblackchambers.org",
           "title": "U.S. Black Chambers, Inc."
         }
       ],
@@ -46,7 +46,7 @@
       "name": "privacy-security",
       "bookmarks": [
         {
-          "url": "https://cpra-intake-form.target.com/",
+          "url": "https://cpra-intake-form.target.com",
           "title": "cprarequestform"
         },
         {
@@ -54,11 +54,7 @@
           "title": "Global Privacy Control - Take Control Of Your Privacy"
         },
         {
-          "url": "https://membership.chicagotribune.com/manage/dashboard/",
-          "title": "void"
-        },
-        {
-          "url": "https://privacypolicies.com/live/8359ece9-e3bb-4b66-a044-0e71a53cb44d",
+          "url": "https://www.privacypolicies.com/live/8359ece9-e3bb-4b66-a044-0e71a53cb44d",
           "title": "Privacy Policy for EmergeNYC Sirens & Horns - PrivacyPolicies.com"
         },
         {
@@ -70,16 +66,20 @@
           "title": "Surveys - UpTogether.org"
         },
         {
-          "url": "https://synchrony.com/accounts/?client=walgreens",
+          "url": "https://www.synchrony.com/accounts/?client=walgreens",
           "title": "Synchrony Account Manager"
         },
         {
-          "url": "https://tickpick.com/privacy",
+          "url": "https://www.tickpick.com/privacy",
           "title": "TickPick | Privacy Policy"
         },
         {
           "url": "https://blog.torproject.org/blog/tor-browser-60-released",
           "title": "Tor Browser 6.0 is released | The Tor Project"
+        },
+        {
+          "url": "https://membership.chicagotribune.com/manage/dashboard/#nt=secondarynavbar",
+          "title": "void"
         }
       ],
       "count": 9
@@ -88,7 +88,7 @@
       "name": "tech-development-design",
       "bookmarks": [
         {
-          "url": "https://cie.co.at/eilvterm/17-29-018",
+          "url": "http://cie.co.at/eilvterm/17-29-018",
           "title": "17-29-018 | CIE"
         },
         {
@@ -100,6 +100,10 @@
           "title": "Ingradients - Hand-picked mesh gradients for your next design project"
         },
         {
+          "url": "https://developer.apple.com/documentation/swiftui/list",
+          "title": "List | Apple Developer Documentation"
+        },
+        {
           "url": "https://powerplatform.microsoft.com/",
           "title": "Strumenti low-code basati sull'intelligenza artificiale | Microsoft Power Platform"
         },
@@ -108,11 +112,7 @@
           "title": "Training Pipelines & Models · spaCy Usage Documentation"
         },
         {
-          "url": "https://developer.apple.com/documentation/swiftui/list",
-          "title": "List | Apple Developer Documentation"
-        },
-        {
-          "url": "https://vectorstyler.com/",
+          "url": "https://www.vectorstyler.com/",
           "title": "VectorStyler"
         },
         {
@@ -130,27 +130,27 @@
           "title": "AI News & Artificial Intelligence | TechCrunch"
         },
         {
-          "url": "https://huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
+          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
           "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
         },
         {
-          "url": "https://tucsonweekly.com/tucson/home-run/Content?oid=22907546",
+          "url": "https://www.tucsonweekly.com/tucson/home-run/Content?oid=22907546",
           "title": "Content Mania!"
         },
         {
-          "url": "https://seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
+          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
           "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
         },
         {
-          "url": "https://aclunc.org/news/governor-signs-bill-modernizing-california-hiv-laws",
+          "url": "https://www.aclunc.org/news/governor-signs-bill-modernizing-california-hiv-laws",
           "title": "Governor Signs Bill Modernizing California HIV Laws | ACLU of Northern CA"
         },
         {
-          "url": "https://bloomberg.org/environment/protecting-the-oceans/bloomberg-ocean/",
+          "url": "https://www.bloomberg.org/environment/protecting-the-oceans/bloomberg-ocean/",
           "title": "Protecting the Ocean | Bloomberg Philanthropies"
         },
         {
-          "url": "https://cancer.org/healthy/cancer-causes/chemicals/talcum-powder-and-cancer.html",
+          "url": "https://www.cancer.org/healthy/cancer-causes/chemicals/talcum-powder-and-cancer.html",
           "title": "Talcum Powder and Cancer | American Cancer Society"
         }
       ],
@@ -160,15 +160,19 @@
       "name": "corporate-brand-sites",
       "bookmarks": [
         {
-          "url": "https://bmw-dubai.com/en/index.html",
+          "url": "https://www.bmw-dubai.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
           "title": "BMW Dealer | Dubai & Sharjah | AGMC BMW"
+        },
+        {
+          "url": "https://www.samsung-climatesolutions.com/en-gb/b2c.html",
+          "title": "Climate Control Systems for Home | Samsung Climate Solutions UK"
         },
         {
           "url": "https://hello.grahamdigital.com/",
           "title": "Graham Media Group"
         },
         {
-          "url": "https://mpeg.org/",
+          "url": "http://www.mpeg.org/",
           "title": "MPEG - The Moving Picture Experts Group"
         },
         {
@@ -176,22 +180,18 @@
           "title": "Recalls | BMW & MINI - OEMDTC"
         },
         {
-          "url": "https://relocationmoverservices.com/",
+          "url": "http://www.relocationmoverservices.com/",
           "title": "RMS Third Party Moving Services"
         },
         {
-          "url": "https://samsung-climatesolutions.com/en-gb/b2c.html",
-          "title": "Climate Control Systems for Home | Samsung Climate Solutions UK"
-        },
-        {
-          "url": "https://spencersretail.com/",
+          "url": "http://www.spencersretail.com/",
           "title": "Spencer's Retail is a leading retailer that operates multiple retail formats in India."
         }
       ],
       "count": 7
     },
     {
-      "name": "government-public-service",
+      "name": "government-public-services",
       "bookmarks": [
         {
           "url": "https://geo.data.gouv.fr/fr/datasets/b6b0304ebef261249b4a05b8a4d3c6b8911193d7",
@@ -202,19 +202,19 @@
           "title": "eCycling Home Page"
         },
         {
-          "url": "https://erp-recycling.it/",
-          "title": "Sistemi Collettivi RAEE: Consorzio ERP Italia"
+          "url": "https://www.amministrazionicomunali.it/calabria/san-sosti/meteo",
+          "title": "Meteo nel Comune di San Sosti - amministrazionicomunali.it"
         },
         {
-          "url": "https://amministrazionicomunali.it/calabria/san-sosti/meteo",
-          "title": "Meto nel Comune di San Sosti - amministrazionicomunali.it"
-        },
-        {
-          "url": "https://comune.roma.it/web/it/servizi.page",
+          "url": "https://www.comune.roma.it/web/it/servizi.page",
           "title": "Roma Capitale | Sito Istituzionale | Servizi"
         },
         {
-          "url": "https://landkreis-bamberg.de/Landratsamt/Verwaltung/Landratsamt-A-Z/%C3%96ffentliche-Sicherheit/Sprengstoffrecht/?ModID=10&object=tx%7C2892.2.1&NavID=2892.254&La=1&alpha=B",
+          "url": "http://www.erp-recycling.it",
+          "title": "Sistemi Collettivi RAEE: Consorzio ERP Italia"
+        },
+        {
+          "url": "https://www.landkreis-bamberg.de/Landratsamt/Verwaltung/Landratsamt-A-Z/%C3%96ffentliche-Sicherheit/Sprengstoffrecht/?ModID=10&object=tx%7C2892.2.1&NavID=2892.254&La=1&alpha=B",
           "title": "Sprengstoffrecht"
         },
         {
@@ -228,7 +228,7 @@
       "name": "entertainment",
       "bookmarks": [
         {
-          "url": "https://ilmtalzottelstedt.de/nachwuchs/archiv/2020-21/c-junioren/spiele/11981-ilmtal-zottelstedt-sv-09-arnstadt",
+          "url": "https://www.ilmtalzottelstedt.de/nachwuchs/archiv/2020-21/c-junioren/spiele/11981-ilmtal-zottelstedt-sv-09-arnstadt",
           "title": "2020/21 : Ilmtal Zottelstedt vs. SV 09 Arnstadt 4 : 1"
         },
         {
@@ -236,7 +236,7 @@
           "title": "Hollywood Star Fail - Studio Catch!"
         },
         {
-          "url": "https://grireland.ie/results/greyhound-search/owners-page/?oid=42471",
+          "url": "https://www.grireland.ie/results/greyhound-search/owners-page/?oid=42471",
           "title": "Owners Page"
         },
         {
@@ -258,19 +258,19 @@
       "name": "misc-uncategorized",
       "bookmarks": [
         {
-          "url": "https://mathonline.edusoftmax.com/",
+          "url": "http://mathonline.edusoftmax.com/",
           "title": "Congratulations! You have successfully set up your website!"
         },
         {
-          "url": "https://example.com/",
+          "url": "https://example.com",
           "title": "Example Domain"
         },
         {
-          "url": "https://loop-impact.frontiersin.org/impact/article/514487",
+          "url": "http://loop-impact.frontiersin.org/impact/article/514487#views",
           "title": "Loop | Publication Impact |"
         },
         {
-          "url": "https://medium.statuspage.io/",
+          "url": "https://medium.statuspage.io/?source=home-------------------------------------",
           "title": "Medium Status"
         },
         {
@@ -292,7 +292,7 @@
           "title": "ACME 1635 20.00\" x 20.00\" Cruiser 4-Blade Propeller - ACME Marine"
         },
         {
-          "url": "https://martinec.cz/decka-na-ochranu-pred-plamenem-rothenberger~z31050.html",
+          "url": "https://www.martinec.cz/decka-na-ochranu-pred-plamenem-rothenberger~z31050.html",
           "title": "Deèka na ochranu pøed plamenem Rothenberger - Náøadí Martinec Mìlník"
         },
         {
@@ -300,11 +300,11 @@
           "title": "Four Winns TS 242 | marina.ch"
         },
         {
-          "url": "https://dillards.com/p/samsonite-x-sjp-just-right-collection-standard-backpack/514260801",
+          "url": "https://www.dillards.com/p/samsonite-x-sjp-just-right-collection-standard-backpack/514260801",
           "title": "Samsonite X Sjp Just Right Collection Standard Backpack | Dillard's"
         },
         {
-          "url": "https://lelupartanen.fi/lautapelit/30949-carcassonne-teltta-ja-tirehtoori-6430018273105.html",
+          "url": "https://www.lelupartanen.fi/lautapelit/30949-carcassonne-teltta-ja-tirehtoori-6430018273105.html",
           "title": "Suomen paras leluvalikoima | Nopea toimitus | Lelukauppa Partanen"
         },
         {
@@ -318,12 +318,16 @@
       "name": "blogs-personal-sites",
       "bookmarks": [
         {
-          "url": "https://delilahdevlin.com/blog/2009/06/19/enter-delilahs-summertime-contest/",
+          "url": "https://www.delilahdevlin.com/blog/2009/06/19/enter-delilahs-summertime-contest/",
           "title": "Enter Delilah's Summertime Contest! | Delilah Devlin"
         },
         {
-          "url": "https://gadget-talk.ro/tag/nokia-8-1/",
+          "url": "https://www.gadget-talk.ro/tag/nokia-8-1/",
           "title": "Nokia 8.1 - Gadget Talk Romania | Tehnologia la control"
+        },
+        {
+          "url": "https://ayeyoclaudia.tumblr.com/post/143085101579",
+          "title": "On my gravestone: LGBT Fans Deserve Better - 16% of all new wages in the U.S. are in computer..."
         },
         {
           "url": "https://rimzy.net/category/autonomy/",
@@ -332,10 +336,6 @@
         {
           "url": "https://blog.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=who-we-are",
           "title": "The Mozilla Blog"
-        },
-        {
-          "url": "https://ayeyoclaudia.tumblr.com/post/143085101579",
-          "title": "On my gravestone: LGBT Fans Deserve Better - 16% of all new wages in the U.S. are in computer..."
         }
       ],
       "count": 5
@@ -356,11 +356,11 @@
           "title": "Medium Membership"
         },
         {
-          "url": "https://philo.com/",
+          "url": "https://www.philo.com",
           "title": "Philo - Stream Live and On-Demand TV"
         },
         {
-          "url": "https://music.youtube.com/",
+          "url": "https://music.youtube.com",
           "title": "Prima di continuare"
         }
       ],
@@ -370,7 +370,7 @@
       "name": "lifestyle-hobbies",
       "bookmarks": [
         {
-          "url": "https://bonappetit.com/recipe/cacio-e-pepe",
+          "url": "https://www.bonappetit.com/recipe/cacio-e-pepe",
           "title": "Cacio e Pepe Recipe | Bon Appétit"
         },
         {
@@ -378,11 +378,11 @@
           "title": "Digital Photography School"
         },
         {
-          "url": "https://bonappetit.com/recipe/garlic-confit",
+          "url": "https://www.bonappetit.com/recipe/garlic-confit",
           "title": "Garlic Confit Recipe | Bon Appétit"
         },
         {
-          "url": "https://kaporcenter.org/the-computer-science-teacher-landscape-results-of-a-nationwide-teacher-survey",
+          "url": "https://www.kaporcenter.org/the-computer-science-teacher-landscape-results-of-a-nationwide-teacher-survey",
           "title": "The Computer Science Teacher Landscape: Results of a Nationwide Teacher Survey - Kapor Center"
         }
       ],
@@ -400,11 +400,11 @@
           "title": "Interview with James Earl \"Chip\" Carter III, June 23, 2008"
         },
         {
-          "url": "https://tkqlhce.com/click-8479616-11570746?url=https%3A%2F%2Fchicagotribune.newspapers.com%2F%3Fxid%3D2301",
+          "url": "https://www.tkqlhce.com/click-8479616-11570746?url=https%3A%2F%2Fchicagotribune.newspapers.com%2F%3Fxid%3D2301%26utm_campaign%3Devergreen%26utm_medium%3Dreferral%26utm_source%3Dnavigation%26utm_content%3D%26utm_term%3DChicago%20Tribune#nt=secondarynavbar",
           "title": "The past: read all about it."
         },
         {
-          "url": "https://webarchive.nationalarchives.gov.uk/20121007104210/http:/www.fawc.org.uk/freedoms.htm",
+          "url": "http://webarchive.nationalarchives.gov.uk/20121007104210/http:/www.fawc.org.uk/freedoms.htm",
           "title": "UK Government Web Archive"
         }
       ],
@@ -422,7 +422,7 @@
           "title": "Nikos Doulos | Capacete"
         },
         {
-          "url": "https://station-auray.snsm.org/",
+          "url": "https://station-auray.snsm.org",
           "title": "STATION SNSM D'AURAY - LA TRINITÉ | STATION SNSM D'AURAY - LA TRINITÉ"
         }
       ],
@@ -436,11 +436,11 @@
           "title": "Contact Pasha Belman Photography"
         },
         {
-          "url": "https://roseyredphotography.com/",
+          "url": "https://www.roseyredphotography.com/",
           "title": "Home"
         },
         {
-          "url": "https://edenproject.com/",
+          "url": "https://www.edenproject.com/",
           "title": "The Eden Project"
         }
       ],
@@ -450,21 +450,17 @@
       "name": "tech-software",
       "bookmarks": [
         {
-          "url": "https://heritagepark.ca/",
+          "url": "https://www.heritagepark.ca/",
           "title": "Heritage Park Calgary | Popular Living History Museum in Canada"
         },
         {
-          "url": "https://madscientist.pl/magicfluids",
-          "title": "Magic Fluids - iOS and Android app"
-        },
-        {
-          "url": "https://madscientist.pl/magicfluids",
+          "url": "http://madscientist.pl/magicfluids",
           "title": "Magic Fluids - iOS and Android app"
         }
       ],
-      "count": 3
+      "count": 2
     }
   ],
-  "total_bookmarks": 90,
+  "total_bookmarks": 91,
   "num_folders": 16
 }

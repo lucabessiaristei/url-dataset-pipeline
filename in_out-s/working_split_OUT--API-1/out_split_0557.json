@@ -4,10 +4,6 @@
       "name": "news-media",
       "bookmarks": [
         {
-          "url": "https://www.youredm.com/tag/nominations/",
-          "title": "| Your EDM"
-        },
-        {
           "url": "https://www.diariogol.com/",
           "title": "Diario Gol | Real Madrid, FC Barcelona, Florentino Pérez"
         },
@@ -30,6 +26,10 @@
         {
           "url": "https://www.bhg.com/the-garden-issue-dave-and-jenny-marrs-7106279",
           "title": "The Garden Issue Featuring Dave and Jenny Marrs"
+        },
+        {
+          "url": "https://www.youredm.com/tag/nominations/",
+          "title": "| Your EDM"
         }
       ],
       "count": 7
@@ -95,7 +95,7 @@
       "count": 6
     },
     {
-      "name": "reference-education",
+      "name": "education-reference",
       "bookmarks": [
         {
           "url": "https://es.thefreedictionary.com/desapercibido",
@@ -150,12 +150,12 @@
       "name": "tech-software-business",
       "bookmarks": [
         {
-          "url": "http://www.enlightened.com/",
-          "title": "Home - Enlightened"
-        },
-        {
           "url": "http://www.skype.com/go/skype/?cm_mmc=MSFT|TRAF_B1-_-mscom-hero-us",
           "title": "Free Online Meetings & Video Calls | Microsoft Teams"
+        },
+        {
+          "url": "http://www.enlightened.com/",
+          "title": "Home - Enlightened"
         },
         {
           "url": "http://www.bizmicro.co.kr/inquiry.html",
@@ -176,10 +176,6 @@
       "name": "blogs-personal-sites",
       "bookmarks": [
         {
-          "url": "https://littlespookykid.tumblr.com/",
-          "title": "🌙"
-        },
-        {
           "url": "https://cynalune.blogspot.com/2012/07/truc-ou-j-en-ai-marre.html",
           "title": "des trucs, deuxième prise: Truc où j 'en ai marre"
         },
@@ -190,12 +186,16 @@
         {
           "url": "https://the-eastern.tumblr.com/",
           "title": "Turn to the East"
+        },
+        {
+          "url": "https://littlespookykid.tumblr.com/",
+          "title": "🌙"
         }
       ],
       "count": 4
     },
     {
-      "name": "entertainment-travel",
+      "name": "travel-entertainment",
       "bookmarks": [
         {
           "url": "https://www.niederoesterreich.at/tipps/dr-karl-renner-museum/ausflugsziele",

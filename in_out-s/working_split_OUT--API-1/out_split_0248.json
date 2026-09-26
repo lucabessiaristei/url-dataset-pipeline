@@ -1,8 +1,74 @@
 {
   "folders": [
     {
-      "name": "academic-education-science",
+      "name": "developer-tech-resources",
       "bookmarks": [
+        {
+          "url": "https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html",
+          "title": "Ansible playbooks - Ansible Community Documentation"
+        },
+        {
+          "url": "https://bbpress.org/",
+          "title": "bbPress.org"
+        },
+        {
+          "url": "http://www.aelyria.com/",
+          "title": "Coming Soon page"
+        },
+        {
+          "url": "https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html",
+          "title": "Finetuning Torchvision Models - PyTorch Tutorials 2.8.0+cu128 documentation"
+        },
+        {
+          "url": "https://kartoweb.itc.nl/geometrics/Map%20projections/body.htm",
+          "title": "Geometric aspects of mapping: map projections"
+        },
+        {
+          "url": "https://nextjs.org/docs/app/building-your-application/data-fetching/fetching",
+          "title": "Getting Started: Fetching Data | Next.js"
+        },
+        {
+          "url": "https://labs.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
+          "title": "Home | Mozilla New Products"
+        },
+        {
+          "url": "https://www.iso.org/standard/54534.html",
+          "title": "ISO/IEC 27001:2022 - Information security management systems"
+        },
+        {
+          "url": "https://cdnjs.com/libraries",
+          "title": "Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers"
+        },
+        {
+          "url": "https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html",
+          "title": "OpenCV: Template Matching"
+        },
+        {
+          "url": "https://pastebin.com/",
+          "title": "Pastebin.com - #1 paste tool since 2002!"
+        },
+        {
+          "url": "https://www.swisstopo.admin.ch/en/geodata/landscape/names3d.html",
+          "title": "swissNAMES3D"
+        },
+        {
+          "url": "https://learn.microsoft.com/docs/",
+          "title": "Technical documentation | Microsoft Learn"
+        },
+        {
+          "url": "https://twitch.tv/githubeducation",
+          "title": "Twitch"
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "science-academic-education",
+      "bookmarks": [
+        {
+          "url": "https://egyptintegratedschools.com/index.php?do=show_details&ID=95&table=news&title=EIS%20-%20KG%20%20Beautiful%20Blended%20Colours%20%20FANS%20%20Primary%20&%20Secondary%20Colours",
+          "title": ":: Egypt Integrated Schools ::"
+        },
         {
           "url": "http://www.visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
           "title": "A brief history of scientific practice | | Visionlearning"
@@ -52,127 +118,11 @@
           "title": "Mathematics for Computer Science | Electrical Engineering and Computer Science | MIT OpenCourseWare"
         },
         {
-          "url": "https://egyptintegratedschools.com/index.php?do=show_details&ID=95&table=news&title=EIS%20-%20KG%20%20Beautiful%20Blended%20Colours%20%20FANS%20%20Primary%20&%20Secondary%20Colours",
-          "title": ":: Egypt Integrated Schools ::"
-        },
-        {
           "url": "https://public.wmo.int/en/resources/world-meteorological-day",
           "title": "World Meteorological Day"
         }
       ],
       "count": 14
-    },
-    {
-      "name": "developer-tech-resources",
-      "bookmarks": [
-        {
-          "url": "http://www.aelyria.com/",
-          "title": "Coming Soon page"
-        },
-        {
-          "url": "https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html",
-          "title": "Ansible playbooks - Ansible Community Documentation"
-        },
-        {
-          "url": "https://bbpress.org/",
-          "title": "bbPress.org"
-        },
-        {
-          "url": "https://cdnjs.com/libraries",
-          "title": "Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers"
-        },
-        {
-          "url": "https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html",
-          "title": "Finetuning Torchvision Models - PyTorch Tutorials 2.8.0+cu128 documentation"
-        },
-        {
-          "url": "https://kartoweb.itc.nl/geometrics/Map%20projections/body.htm",
-          "title": "Geometric aspects of mapping: map projections"
-        },
-        {
-          "url": "https://nextjs.org/docs/app/building-your-application/data-fetching/fetching",
-          "title": "Getting Started: Fetching Data | Next.js"
-        },
-        {
-          "url": "https://labs.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "Home | Mozilla New Products"
-        },
-        {
-          "url": "https://www.iso.org/standard/54534.html",
-          "title": "ISO/IEC 27001:2022 - Information security management systems"
-        },
-        {
-          "url": "https://docs.opencv.org/4.x/d4/dc6/tutorial_py_template_matching.html",
-          "title": "OpenCV: Template Matching"
-        },
-        {
-          "url": "https://pastebin.com/",
-          "title": "Pastebin.com - #1 paste tool since 2002!"
-        },
-        {
-          "url": "https://www.swisstopo.admin.ch/en/geodata/landscape/names3d.html",
-          "title": "swissNAMES3D"
-        },
-        {
-          "url": "https://learn.microsoft.com/docs/",
-          "title": "Technical documentation | Microsoft Learn"
-        },
-        {
-          "url": "https://twitch.tv/githubeducation",
-          "title": "Twitch"
-        }
-      ],
-      "count": 14
-    },
-    {
-      "name": "business-corporate-resources",
-      "bookmarks": [
-        {
-          "url": "http://www.idecad.com/",
-          "title": "AEC Software for Architecture & Structural Engineering"
-        },
-        {
-          "url": "https://www.bookedupac.com/",
-          "title": "Booked Up AC"
-        },
-        {
-          "url": "https://blog.cmkg.org/blog/topic/category-analytics",
-          "title": "Category management best practices & thought leadership for Retail & CPG teams. | Category Analytics"
-        },
-        {
-          "url": "https://na.panasonic.com/us/",
-          "title": "Create Today, Enrich Tomorrow | Panasonic North America - United States"
-        },
-        {
-          "url": "https://wwwn.cdc.gov/NIOSH-Mining/?facetGroups=Products%20and%20materials=Nitrous%20oxides;Carbon%20dioxide;Carbon%20monoxide;Natural%20gas;Butane;Nitrogen%20dioxide;%5E&sf=Products%20and%20materials",
-          "title": "Mining Health and Safety | Mining | CDC"
-        },
-        {
-          "url": "https://www.vandamme.eu/fr/actualites",
-          "title": "Nouvelles | Van Damme"
-        },
-        {
-          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
-          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
-        },
-        {
-          "url": "https://newsroom.china.paypal-corp.com/home",
-          "title": "PayPal Newsroom - 首页"
-        },
-        {
-          "url": "https://axtra.ca/publication/rapport-dactivite/",
-          "title": "Rapport d'activité 2013-2014 du RQuODE - AXTRA | L'Alliance des centres-conseils en emploi"
-        },
-        {
-          "url": "https://exquisiteresorts.co.uk/trade-suppliers/",
-          "title": "Trade Suppliers - Exquisite Resorts"
-        },
-        {
-          "url": "https://utahblackchamber.com/",
-          "title": "Utah Black Chamber of Commerce"
-        }
-      ],
-      "count": 11
     },
     {
       "name": "art-design-creative-tools",
@@ -220,6 +170,56 @@
         {
           "url": "https://www.userzoom.com/ux-blog/",
           "title": "UserZoom Platform | UserTesting | UX Research Capabilities"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "business-corporate-resources",
+      "bookmarks": [
+        {
+          "url": "http://www.idecad.com/",
+          "title": "AEC Software for Architecture & Structural Engineering"
+        },
+        {
+          "url": "https://www.bookedupac.com/",
+          "title": "Booked Up AC"
+        },
+        {
+          "url": "https://blog.cmkg.org/blog/topic/category-analytics",
+          "title": "Category management best practices & thought leadership for Retail & CPG teams. | Category Analytics"
+        },
+        {
+          "url": "https://na.panasonic.com/us/",
+          "title": "Create Today, Enrich Tomorrow | Panasonic North America - United States"
+        },
+        {
+          "url": "https://wwwn.cdc.gov/NIOSH-Mining/?facetGroups=Products%20and%20materials=Nitrous%20oxides;Carbon%20dioxide;Carbon%20monoxide;Natural%20gas;Butane;Nitrogen%20dioxide;%5E&sf=Products%20and%20materials",
+          "title": "Mining Health and Safety | Mining | CDC"
+        },
+        {
+          "url": "https://www.vandamme.eu/fr/actualites",
+          "title": "Nouvelles | Van Damme"
+        },
+        {
+          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
+          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
+        },
+        {
+          "url": "https://newsroom.china.paypal-corp.com/home",
+          "title": "PayPal Newsroom - 首页"
+        },
+        {
+          "url": "https://axtra.ca/publication/rapport-dactivite/",
+          "title": "Rapport d'activité 2013-2014 du RQuODE - AXTRA | L'Alliance des centres-conseils en emploi"
+        },
+        {
+          "url": "https://exquisiteresorts.co.uk/trade-suppliers/",
+          "title": "Trade Suppliers - Exquisite Resorts"
+        },
+        {
+          "url": "https://utahblackchamber.com/",
+          "title": "Utah Black Chamber of Commerce"
         }
       ],
       "count": 11
@@ -282,16 +282,12 @@
           "title": "CCSBT Home | CCSBT Commission for the Conservation of Southern Bluefin Tuna"
         },
         {
-          "url": "https://gesi.org/",
-          "title": "Global Enabling Sustainability Initiative (GeSI)"
-        },
-        {
           "url": "http://www.livestockdialogue.org/",
           "title": "Global Agenda for Sustainable Livestock | FAO"
         },
         {
-          "url": "http://www.greenpak.com.mt",
-          "title": "| GreenPak"
+          "url": "https://gesi.org/",
+          "title": "Global Enabling Sustainability Initiative (GeSI)"
         },
         {
           "url": "http://www.stibat.nl",
@@ -304,12 +300,50 @@
         {
           "url": "https://resurety.com/white-paper-making-it-count/",
           "title": "White Paper: Making It Count - REsurety"
+        },
+        {
+          "url": "http://www.greenpak.com.mt",
+          "title": "| GreenPak"
         }
       ],
       "count": 8
     },
     {
-      "name": "social-impact-nonprofit",
+      "name": "news-social-current-events",
+      "bookmarks": [
+        {
+          "url": "https://www.mediafax.ro/social/astazi-este-ziua-internationala-a-barbatului-19751405",
+          "title": "Astăzi este Ziua Internaţională a Bărbatului"
+        },
+        {
+          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
+          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
+        },
+        {
+          "url": "https://foxsanantonio.com/newsletter-daily/dog-owner-of-deadly-attack-speaks-out",
+          "title": "COMPLETE INTERVIEW with owner of pit bulls that killed 81-year-old man"
+        },
+        {
+          "url": "https://www.qcnews.com/charlotte/exclusive-bride-and-groom-stuck-in-grand-bohemian-elevator-all-smiles/",
+          "title": "Exclusive: Bride, groom stuck in elevator all smiles"
+        },
+        {
+          "url": "https://www.livescience.com/gulf-stream-close-to-collapse",
+          "title": "Gulf Stream could be veering toward irreversible collapse, a new analysis warns | Live Science"
+        },
+        {
+          "url": "http://www.mammole.it/",
+          "title": "Mammole · La Guida Natural delle Mamme"
+        },
+        {
+          "url": "http://digitaledition.dailysouthtown.chicagotribune.com/#nt=secondarynavbar",
+          "title": "Suburbs"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "nonprofit-social-impact",
       "bookmarks": [
         {
           "url": "https://www.ceoworks.org/",
@@ -320,16 +354,16 @@
           "title": "Development Reform | United to Reform"
         },
         {
+          "url": "https://www.goatsofanarchy.org/",
+          "title": "Goats of Anarchy"
+        },
+        {
           "url": "https://everytown.org/",
           "title": "Home | Everytown"
         },
         {
           "url": "http://kaporcenter.org",
           "title": "Homepage - Kapor Center"
-        },
-        {
-          "url": "https://www.goatsofanarchy.org/",
-          "title": "Goats of Anarchy"
         },
         {
           "url": "https://www.grameenamerica.org/staff",
@@ -373,40 +407,6 @@
       "count": 6
     },
     {
-      "name": "news-current-events-social",
-      "bookmarks": [
-        {
-          "url": "https://www.mediafax.ro/social/astazi-este-ziua-internationala-a-barbatului-19751405",
-          "title": "Astăzi este Ziua Internaţională a Bărbatului"
-        },
-        {
-          "url": "http://www.huffingtonpost.com/madelynne-wager/big-hearts-and-selfintere_b_6705648.html",
-          "title": "Big Hearts and Self-interest to the Rescue -- How Millennials Could Save Us | HuffPost Impact"
-        },
-        {
-          "url": "https://foxsanantonio.com/newsletter-daily/dog-owner-of-deadly-attack-speaks-out",
-          "title": "COMPLETE INTERVIEW with owner of pit bulls that killed 81-year-old man"
-        },
-        {
-          "url": "https://www.qcnews.com/charlotte/exclusive-bride-and-groom-stuck-in-grand-bohemian-elevator-all-smiles/",
-          "title": "Exclusive: Bride, groom stuck in elevator all smiles"
-        },
-        {
-          "url": "https://www.livescience.com/gulf-stream-close-to-collapse",
-          "title": "Gulf Stream could be veering toward irreversible collapse, a new analysis warns | Live Science"
-        },
-        {
-          "url": "http://www.mammole.it/",
-          "title": "Mammole · La Guida Natural delle Mamme"
-        },
-        {
-          "url": "http://digitaledition.dailysouthtown.chicagotribune.com/#nt=secondarynavbar",
-          "title": "Suburbs"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "fashion-beauty-personal-care",
       "bookmarks": [
         {
@@ -437,7 +437,7 @@
       "count": 6
     },
     {
-      "name": "legal-privacy-documents",
+      "name": "privacy-legal-documents",
       "bookmarks": [
         {
           "url": "https://likewise.com/privacy-policy",
@@ -493,50 +493,6 @@
       "count": 5
     },
     {
-      "name": "customer-support-information",
-      "bookmarks": [
-        {
-          "url": "https://service.elsevier.com/app/overview/cell-press/",
-          "title": "Cell Press Support Center"
-        },
-        {
-          "url": "http://contactus.target.com/ContactUs?Con=ContactUs&lnk=fnav_t_spc_1_28",
-          "title": "Contact Us"
-        },
-        {
-          "url": "https://support.nlm.nih.gov/",
-          "title": "NLM Support Center · NLM Customer Support Center"
-        },
-        {
-          "url": "http://bpmob.com/voicetranslator/support/",
-          "title": "Voice Translator Support Form"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "food-recipes-menus",
-      "bookmarks": [
-        {
-          "url": "https://ecanarensis.com/category/gluten-free-2/desserts/",
-          "title": "desserts | ecanarensis"
-        },
-        {
-          "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
-          "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
-          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
-          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "travel-guides-products",
       "bookmarks": [
         {
@@ -563,6 +519,28 @@
       "count": 5
     },
     {
+      "name": "customer-support-information",
+      "bookmarks": [
+        {
+          "url": "https://service.elsevier.com/app/overview/cell-press/",
+          "title": "Cell Press Support Center"
+        },
+        {
+          "url": "http://contactus.target.com/ContactUs?Con=ContactUs&lnk=fnav_t_spc_1_28",
+          "title": "Contact Us"
+        },
+        {
+          "url": "https://support.nlm.nih.gov/",
+          "title": "NLM Support Center · NLM Customer Support Center"
+        },
+        {
+          "url": "http://bpmob.com/voicetranslator/support/",
+          "title": "Voice Translator Support Form"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "ecommerce-online-shopping",
       "bookmarks": [
         {
@@ -581,7 +559,25 @@
       "count": 3
     },
     {
-      "name": "lifestyle-hobbies-crafts",
+      "name": "food-recipes-menus",
+      "bookmarks": [
+        {
+          "url": "https://ecanarensis.com/category/gluten-free-2/desserts/",
+          "title": "desserts | ecanarensis"
+        },
+        {
+          "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
+          "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
+          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-crafts-lifestyle",
       "bookmarks": [
         {
           "url": "https://doepfer.de/A100.htm",
@@ -599,7 +595,7 @@
       "count": 3
     },
     {
-      "name": "lifestyle-personal-wellness",
+      "name": "personal-lifestyle-wellness",
       "bookmarks": [
         {
           "url": "https://aubmc.org.lb/",
@@ -620,21 +616,17 @@
       "name": "tech-industry-commentary",
       "bookmarks": [
         {
-          "url": "http://www.idecad.com/",
-          "title": "AEC Software for Architecture & Structural Engineering"
+          "url": "https://www.larepgroup.com/",
+          "title": "Smart City | LAR REPS"
         },
         {
           "url": "https://mashable.com/article/fortnite-is-the-real-metaverse",
           "title": "Sorry, Zuck. 'Fortnite' has been the 'real' metaverse all along. | Mashable"
-        },
-        {
-          "url": "https://www.larepgroup.com/",
-          "title": "Smart City | LAR REPS"
         }
       ],
-      "count": 3
+      "count": 2
     }
   ],
-  "total_bookmarks": 130,
+  "total_bookmarks": 128,
   "num_folders": 19
 }

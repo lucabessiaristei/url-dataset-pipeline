@@ -1,8 +1,16 @@
 {
   "folders": [
     {
-      "name": "business-and-commerce",
+      "name": "business-commerce",
       "bookmarks": [
+        {
+          "url": "https://www.rangeme.com/walmartsupplierinclusion",
+          "title": "B2B Product Discovery Platform for Retail Buyers, Suppliers"
+        },
+        {
+          "url": "https://www.galaxus.ch/en/s1/producttype/mobile-phones-15",
+          "title": "Barcode scanners - buy at Galaxus"
+        },
         {
           "url": "https://www.1to1legal.co.uk/local/england/chelmsford/contentious-will-probate/",
           "title": "Chelmsford Contentious Will Probate Law Firms | Best Contentious Will Probate Solicitors, Barristers & Lawyers in Chelmsford"
@@ -14,6 +22,10 @@
         {
           "url": "https://sio365.com/directory/general-trading-consultant-suppliers/general-trading-consultant-suppliers.htm",
           "title": "General Trading Consultant Suppliers in the UAE | SIO365"
+        },
+        {
+          "url": "https://ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
         },
         {
           "url": "https://www.kineuphorics.com/",
@@ -36,10 +48,6 @@
           "title": "PetPlate: Fresh Dog Food Delivery"
         },
         {
-          "url": "https://www.rangeme.com/walmartsupplierinclusion",
-          "title": "B2B Product Discovery Platform for Retail Buyers, Suppliers"
-        },
-        {
           "url": "https://www.roguefitness.com/rogue-flat-pack-games-box",
           "title": "Rogue Flat Pack Games Box - 3 in 1 Wood Plyo Box | Rogue Fitness"
         },
@@ -50,20 +58,12 @@
         {
           "url": "https://www.stickerfab.com/products/stickerfab-3x6-in-stickers-universal",
           "title": "StickerFab 3x6 in Stickers (Pair) - Universal | StickerFab"
-        },
-        {
-          "url": "https://ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
-        },
-        {
-          "url": "https://www.galaxus.ch/en/s1/producttype/mobile-phones-15",
-          "title": "Barcode scanners - buy at Galaxus"
         }
       ],
       "count": 14
     },
     {
-      "name": "articles-and-blogs",
+      "name": "articles-blogs",
       "bookmarks": [
         {
           "url": "https://www.thedailybeast.com/obsessed/ant-man-and-the-wasp-quantumania-writer-jeff-loveness-doesnt-care-if-you-hated-the-movie?ref=scroll",
@@ -124,10 +124,6 @@
       "name": "education-resources",
       "bookmarks": [
         {
-          "url": "https://cranbournesc.com/2020/08/23/examples-of-teaching-practical-subjects-in-the-remote-setting/",
-          "title": "Examples of Teaching Practical Subjects in the Remote Setting. - Cranbourne Secondary College PEDAGOGY TOOLBOX"
-        },
-        {
           "url": "https://n8vapps.tumblr.com/post/143019041769",
           "title": "Computer science: the impact of K-12 on university enrollment - @n8vapps on Tumblr"
         },
@@ -142,6 +138,10 @@
         {
           "url": "https://emlab.msi.ucsb.edu/",
           "title": "Environmental Markets Lab (emLab) | emLab"
+        },
+        {
+          "url": "https://cranbournesc.com/2020/08/23/examples-of-teaching-practical-subjects-in-the-remote-setting/",
+          "title": "Examples of Teaching Practical Subjects in the Remote Setting. - Cranbourne Secondary College PEDAGOGY TOOLBOX"
         },
         {
           "url": "https://www.uniroma1.it/",
@@ -175,15 +175,11 @@
       "count": 12
     },
     {
-      "name": "web-services-and-accounts",
+      "name": "web-services-accounts",
       "bookmarks": [
         {
           "url": "https://playstation.com/help",
           "title": "Assistenza PlayStation"
-        },
-        {
-          "url": "https://www.basemap.com/privacy-policy/",
-          "title": "Privacy Policy | BaseMap Inc"
         },
         {
           "url": "https://search.creativecommons.org/",
@@ -214,6 +210,10 @@
           "title": "orkut"
         },
         {
+          "url": "https://www.basemap.com/privacy-policy/",
+          "title": "Privacy Policy | BaseMap Inc"
+        },
+        {
           "url": "https://ghop.page.link/signin-cta",
           "title": "Sign in - Google Accounts"
         },
@@ -225,7 +225,7 @@
       "count": 11
     },
     {
-      "name": "organizations-and-advocacy",
+      "name": "organizations-advocacy",
       "bookmarks": [
         {
           "url": "https://www.votervoice.net/GOODWILL/home",
@@ -313,7 +313,7 @@
       "count": 9
     },
     {
-      "name": "tech-development-and-design",
+      "name": "tech-development-design",
       "bookmarks": [
         {
           "url": "https://refactoringui.com/previews/building-your-color-palette/",
@@ -324,12 +324,12 @@
           "title": "Cards for Humanity"
         },
         {
-          "url": "https://www.devops-research.com/research.html",
-          "title": "DORA | Get Better at Getting Better"
-        },
-        {
           "url": "https://documentation.spire.com",
           "title": "Documentation & knowledge base | Kpler AIS"
+        },
+        {
+          "url": "https://www.devops-research.com/research.html",
+          "title": "DORA | Get Better at Getting Better"
         },
         {
           "url": "https://jsonschema.dev/",
@@ -343,7 +343,7 @@
       "count": 6
     },
     {
-      "name": "government-and-civic",
+      "name": "government-civic",
       "bookmarks": [
         {
           "url": "https://covid.cdc.gov/covid-data-tracker/#county-view",
@@ -369,7 +369,7 @@
       "count": 5
     },
     {
-      "name": "hobbies-and-interests",
+      "name": "hobbies-interests",
       "bookmarks": [
         {
           "url": "https://free-harley-mecklenburg-chapter.de/chapter-aktuell/10-biker-sommer-party/index.html",
@@ -395,7 +395,7 @@
       "count": 5
     },
     {
-      "name": "brands-and-portfolios",
+      "name": "brands-portfolios",
       "bookmarks": [
         {
           "url": "https://www.bmw-lebanon.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
@@ -439,7 +439,7 @@
       "count": 4
     },
     {
-      "name": "travel-and-leisure",
+      "name": "travel-leisure",
       "bookmarks": [
         {
           "url": "https://www.tripindigo.com/fly/guide/airlines/airkenya-express/",

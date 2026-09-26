@@ -1,48 +1,6 @@
 {
   "folders": [
     {
-      "name": "news-analysis",
-      "bookmarks": [
-        {
-          "url": "https://asa.zamo.ca/2009/12/dupa-contra-base-argumente-de-bass-pro.html",
-          "title": "Dupa CONTRA-Base, argumente de Bass PRO Intro - Also Sprach Zamolxis"
-        },
-        {
-          "url": "https://www.utilitydive.com/news/california-puc-unveils-proposed-fix-to-storage-incentive-program-quantifyi/532573/",
-          "title": "California PUC unveils proposed fix to storage incentive program, quantifying GHG reductions | Utility Dive"
-        },
-        {
-          "url": "https://www.catholicnewsagency.com/news/247954/fr-thomas-joseph-white-named-first-american-rector-of-angelicum-in-rome",
-          "title": "Fr. Thomas Joseph White named first American rector of Angelicum in Rome | Catholic News Agency"
-        },
-        {
-          "url": "https://www.stimson.org/research/trade-tech/conventional-arms/",
-          "title": "Conventional Arms Research • Stimson Center"
-        },
-        {
-          "url": "https://www.freep.com/story/news/local/michigan/detroit/2023/02/28/dog-saves-baby-from-house-fire-in-detroit-family-struggles-to-recover/69949425007/",
-          "title": "Dog saves baby from house fire in Detroit, family struggles to recover"
-        },
-        {
-          "url": "https://www.ft.com/markets",
-          "title": "Markets | Financial Times"
-        },
-        {
-          "url": "https://www.dailynews.com/2021/12/13/new-plan-calls-for-closure-of-aliso-canyon-facility-by-2023/",
-          "title": "New plan calls for closure of Aliso Canyon gas facility by 2023 - Daily News"
-        },
-        {
-          "url": "https://radaronline.com/p/rupauls-drag-race-star-cherry-valentine-cause-of-death-revealed/",
-          "title": "'RuPaul's Drag Race' Star Cherry Valentine's Cause Of Death Revealed"
-        },
-        {
-          "url": "https://www.eco-business.com/press-releases/sp-group-inks-mou-with-bcg-energy-to-invest-in-renewables-in-vietnam/",
-          "title": "SP Group inks MOU with BCG Energy to invest in renewables in Vietnam | Press Releases | Asia | Sustainable Business"
-        }
-      ],
-      "count": 9
-    },
-    {
       "name": "software-development-resources",
       "bookmarks": [
         {
@@ -87,6 +45,48 @@
         }
       ],
       "count": 10
+    },
+    {
+      "name": "news-analysis",
+      "bookmarks": [
+        {
+          "url": "https://radaronline.com/p/rupauls-drag-race-star-cherry-valentine-cause-of-death-revealed/",
+          "title": "'RuPaul's Drag Race' Star Cherry Valentine's Cause Of Death Revealed"
+        },
+        {
+          "url": "https://www.utilitydive.com/news/california-puc-unveils-proposed-fix-to-storage-incentive-program-quantifyi/532573/",
+          "title": "California PUC unveils proposed fix to storage incentive program, quantifying GHG reductions | Utility Dive"
+        },
+        {
+          "url": "https://www.stimson.org/research/trade-tech/conventional-arms/",
+          "title": "Conventional Arms Research • Stimson Center"
+        },
+        {
+          "url": "https://www.freep.com/story/news/local/michigan/detroit/2023/02/28/dog-saves-baby-from-house-fire-in-detroit-family-struggles-to-recover/69949425007/",
+          "title": "Dog saves baby from house fire in Detroit, family struggles to recover"
+        },
+        {
+          "url": "https://asa.zamo.ca/2009/12/dupa-contra-base-argumente-de-bass-pro.html",
+          "title": "Dupa CONTRA-Base, argumente de Bass PRO Intro - Also Sprach Zamolxis"
+        },
+        {
+          "url": "https://www.catholicnewsagency.com/news/247954/fr-thomas-joseph-white-named-first-american-rector-of-angelicum-in-rome",
+          "title": "Fr. Thomas Joseph White named first American rector of Angelicum in Rome | Catholic News Agency"
+        },
+        {
+          "url": "https://www.ft.com/markets",
+          "title": "Markets | Financial Times"
+        },
+        {
+          "url": "https://www.dailynews.com/2021/12/13/new-plan-calls-for-closure-of-aliso-canyon-facility-by-2023/",
+          "title": "New plan calls for closure of Aliso Canyon gas facility by 2023 - Daily News"
+        },
+        {
+          "url": "https://www.eco-business.com/press-releases/sp-group-inks-mou-with-bcg-energy-to-invest-in-renewables-in-vietnam/",
+          "title": "SP Group inks MOU with BCG Energy to invest in renewables in Vietnam | Press Releases | Asia | Sustainable Business"
+        }
+      ],
+      "count": 9
     },
     {
       "name": "organizations-public-policy",
@@ -168,16 +168,16 @@
           "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
         },
         {
-          "url": "http://www.ioc-unesco.org/",
-          "title": "UNESCO archives | UNESCO"
-        },
-        {
           "url": "https://www.utdanningsforbundet.no/om-utdanningsforbundet/om-nettstedet/",
           "title": "Om nettstedet"
         },
         {
           "url": "http://agentschoiceonline.com/",
           "title": "The Agent's Choice"
+        },
+        {
+          "url": "http://www.ioc-unesco.org/",
+          "title": "UNESCO archives | UNESCO"
         }
       ],
       "count": 5
@@ -185,10 +185,6 @@
     {
       "name": "leisure-activities-products",
       "bookmarks": [
-        {
-          "url": "https://aquarium.org/visit/",
-          "title": "You are being redirected..."
-        },
         {
           "url": "https://bignosekate.co/",
           "title": "Big Nose Kate® - Western Whiskey"
@@ -204,6 +200,10 @@
         {
           "url": "http://samsclub.com/",
           "title": "Sam's Club - Wholesale Prices on Top Brands"
+        },
+        {
+          "url": "https://aquarium.org/visit/",
+          "title": "You are being redirected..."
         }
       ],
       "count": 5
@@ -238,12 +238,12 @@
           "title": "Adrian Causing - Fashion Stylist"
         },
         {
-          "url": "https://allaboutdnt.com/",
-          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
-        },
-        {
           "url": "https://www.marykay.com/en-us/products/makeup/eyes/makeup-remover/mary-kay-oilfree-eye-makeup-remover-180101",
           "title": "Mary Kay® Oil-Free Eye Makeup Remover"
+        },
+        {
+          "url": "https://allaboutdnt.com/",
+          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
         },
         {
           "url": "https://www.24s.com/en-us/nappa-leather-skirt-alberta-ferretti_AFE6J99K",

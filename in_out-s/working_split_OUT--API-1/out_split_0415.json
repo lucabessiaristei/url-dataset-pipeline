@@ -1,35 +1,31 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://aclupa.org/en/cases/layshock-v-hermitage-school-district",
-          "title": "Layshock v. Hermitage School District - ACLU of Pennsylvania"
+          "url": "https://disasterphilanthropy.org/disasters/2023-turkey-syria-earthquake/",
+          "title": "2023 Turkey-Syria Earthquake - Center for Disaster Philanthropy"
         },
         {
           "url": "https://www.cochrane.org/about-us",
           "title": "About us | Cochrane"
         },
         {
-          "url": "https://disasterphilanthropy.org/disasters/2023-turkey-syria-earthquake/",
-          "title": "2023 Turkey-Syria Earthquake - Center for Disaster Philanthropy"
-        },
-        {
           "url": "https://www.etvendowment.org/?page=17",
           "title": "ETV Endowment of South Carolina"
-        },
-        {
-          "url": "https://www.flickr.com/photos/faonews/albums/",
-          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
         },
         {
           "url": "https://www.gamvp.org/",
           "title": "Georgia Muslim Voter Project"
         },
         {
-          "url": "https://www.healthaction.org/resources",
-          "title": "Respiratory Health at Work | Health Action Alliance"
+          "url": "https://wrimexico.org/",
+          "title": "Instituto de Recursos Mundiales (WRI) | Convirtiendo las Grandes Ideas en Realidades"
+        },
+        {
+          "url": "https://aclupa.org/en/cases/layshock-v-hermitage-school-district",
+          "title": "Layshock v. Hermitage School District - ACLU of Pennsylvania"
         },
         {
           "url": "https://www.nationalgeographicpartners.com/about/",
@@ -40,20 +36,24 @@
           "title": "Novo Verde | Resíduos de Embalagens"
         },
         {
-          "url": "https://postkodstiftelsen.se/en/nyheter/",
-          "title": "Svenska Postkodlotteriets Stiftelse | News - Svenska Postkodlotteriets Stiftelse"
-        },
-        {
-          "url": "https://refugees.org/",
-          "title": "U.S. Committee for Refugees and Immigrants - USCRI"
+          "url": "https://www.healthaction.org/resources",
+          "title": "Respiratory Health at Work | Health Action Alliance"
         },
         {
           "url": "https://restor.eco/",
           "title": "Restor | Global hub for nature restoration and conservation"
         },
         {
-          "url": "https://wrimexico.org/",
-          "title": "Instituto de Recursos Mundiales (WRI) | Convirtiendo las Grandes Ideas en Realidades"
+          "url": "https://postkodstiftelsen.se/en/nyheter/",
+          "title": "Svenska Postkodlotteriets Stiftelse | News - Svenska Postkodlotteriets Stiftelse"
+        },
+        {
+          "url": "https://www.flickr.com/photos/faonews/albums/",
+          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
+        },
+        {
+          "url": "https://refugees.org/",
+          "title": "U.S. Committee for Refugees and Immigrants - USCRI"
         }
       ],
       "count": 13
@@ -105,53 +105,15 @@
       "count": 10
     },
     {
-      "name": "software-productivity-tools",
-      "bookmarks": [
-        {
-          "url": "https://buffer.com/add?url=https%3A%2F%2Foemdtc.com%2F13077%2F23t001-incorrect-tire-identification-number-general-altimax-rt43-tires&text=23T001%20Incorrect%20Tire%20Identification%20Number%20-%20General%20Altimax%20RT43%20Tires",
-          "title": "Buffer - Log In"
-        },
-        {
-          "url": "https://www.insided.com/powered-by-the-insided-platform?utm_medium=referral&utm_source=community.c2cglobal.com&utm_content=powered-by-widget",
-          "title": "Community referrals - 'Powered by inSided' - inSided"
-        },
-        {
-          "url": "https://csvlint.io/",
-          "title": "CSV Lint"
-        },
-        {
-          "url": "https://dynamics.microsoft.com/en-us/",
-          "title": "Agentic CRM and ERP Solutions | Microsoft Dynamics 365"
-        },
-        {
-          "url": "https://earlybird.im/",
-          "title": "EarlyBird: Your landing page builder for effective lead capture"
-        },
-        {
-          "url": "https://inpact.com/",
-          "title": "in/PACT: Engage and connect with your customers through Social Good Loyalty."
-        },
-        {
-          "url": "https://login.microsoftonline.com/",
-          "title": "Sign in to your account"
-        },
-        {
-          "url": "https://palitra.app/",
-          "title": "The easiest way to find a color palette - Palitra App"
-        },
-        {
-          "url": "https://powerbi.microsoft.com/",
-          "title": "Power BI - Data Visualization | Microsoft Power Platform"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "tech-developer-resources",
+      "name": "developer-tech-resources",
       "bookmarks": [
         {
           "url": "https://www.chessprogramming.org/Bitboards",
           "title": "Bitboards - Chessprogramming wiki"
+        },
+        {
+          "url": "https://hg.mozilla.org/mozilla-central/pushloghtml?changeset=f8f94f19e05b9cda0f5c81178094c2f2cc581fc5",
+          "title": "Client Challenge"
         },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
@@ -170,10 +132,6 @@
           "title": "Layer weight initializers"
         },
         {
-          "url": "https://hg.mozilla.org/mozilla-central/pushloghtml?changeset=f8f94f19e05b9cda0f5c81178094c2f2cc581fc5",
-          "title": "Client Challenge"
-        },
-        {
           "url": "https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html",
           "title": "MySQL :: MySQL 8.0 Reference Manual :: 10.3 Optimization and Indexes"
         },
@@ -189,15 +147,53 @@
       "count": 9
     },
     {
+      "name": "software-productivity-tools",
+      "bookmarks": [
+        {
+          "url": "https://dynamics.microsoft.com/en-us/",
+          "title": "Agentic CRM and ERP Solutions | Microsoft Dynamics 365"
+        },
+        {
+          "url": "https://buffer.com/add?url=https%3A%2F%2Foemdtc.com%2F13077%2F23t001-incorrect-tire-identification-number-general-altimax-rt43-tires&text=23T001%20Incorrect%20Tire%20Identification%20Number%20-%20General%20Altimax%20RT43%20Tires",
+          "title": "Buffer - Log In"
+        },
+        {
+          "url": "https://www.insided.com/powered-by-the-insided-platform?utm_medium=referral&utm_source=community.c2cglobal.com&utm_content=powered-by-widget",
+          "title": "Community referrals - 'Powered by inSided' - inSided"
+        },
+        {
+          "url": "https://csvlint.io/",
+          "title": "CSV Lint"
+        },
+        {
+          "url": "https://earlybird.im/",
+          "title": "EarlyBird: Your landing page builder for effective lead capture"
+        },
+        {
+          "url": "https://inpact.com/",
+          "title": "in/PACT: Engage and connect with your customers through Social Good Loyalty."
+        },
+        {
+          "url": "https://powerbi.microsoft.com/",
+          "title": "Power BI - Data Visualization | Microsoft Power Platform"
+        },
+        {
+          "url": "https://login.microsoftonline.com/",
+          "title": "Sign in to your account"
+        },
+        {
+          "url": "https://palitra.app/",
+          "title": "The easiest way to find a color palette - Palitra App"
+        }
+      ],
+      "count": 9
+    },
+    {
       "name": "arts-culture-entertainment",
       "bookmarks": [
         {
           "url": "https://castbox.fm/episode/36.)-1984-Esque-(ft.-Vaush!)-(ATLA-S2E17)-id2797011-id434340652",
           "title": "36.) 1984-Esque (ft. Vaush!) (ATLA S2E17)"
-        },
-        {
-          "url": "https://atrl.net/",
-          "title": "Sign In - ATRL"
         },
         {
           "url": "http://www.claudinsky.com?trk=organization_guest_main-feed-card-text",
@@ -218,6 +214,10 @@
         {
           "url": "https://www.filharmonickysbor.cz/en/",
           "title": "Pražský filharmonický sbor"
+        },
+        {
+          "url": "https://atrl.net/",
+          "title": "Sign In - ATRL"
         },
         {
           "url": "https://www.fazemag.de/ten-fe-turn-ewan-pearson-remix/",
@@ -265,36 +265,6 @@
       "count": 8
     },
     {
-      "name": "company-organization-info",
-      "bookmarks": [
-        {
-          "url": "https://www.badmintonireland.com/",
-          "title": "Badminton Ireland"
-        },
-        {
-          "url": "https://www.madisonblackchamber.com/",
-          "title": "BLACK CHAMBER"
-        },
-        {
-          "url": "https://www.casknyc.com/",
-          "title": "CASK | Cask Bar & Kitchen - New York City"
-        },
-        {
-          "url": "https://www.carzonrent.com/",
-          "title": "Premium Chauffeur Driven Car Rental Services India"
-        },
-        {
-          "url": "https://jsf.co/jumpstart-foundry-announces-first-round-of-2021-portfolio-selections/",
-          "title": "Jumpstart Foundry Announces First Round of 2021 Portfolio Selections - Jumpstart Foundry"
-        },
-        {
-          "url": "https://www.tapestry.com/",
-          "title": "Tapestry"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "news-current-events",
       "bookmarks": [
         {
@@ -302,24 +272,24 @@
           "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news"
         },
         {
-          "url": "https://www.ctvnews.ca/",
-          "title": "CTV News - Breaking News and Video, Canada News Today"
+          "url": "https://arstechnica.com/gadgets/",
+          "title": "Category: Tech - Ars Technica"
         },
         {
-          "url": "https://www.ipbes.net/news/Media-Release-Global-Assessment",
-          "title": "Media Release: Nature's Dangerous Decline 'Unprecedented'; Species Extinction Rates 'Accelerating' | IPBES secretariat"
+          "url": "https://www.ctvnews.ca/",
+          "title": "CTV News - Breaking News and Video, Canada News Today"
         },
         {
           "url": "http://www.justworldnews.com/",
           "title": "Just World News | with Helena Cobban"
         },
         {
-          "url": "https://es.mongabay.com/list/bosques",
-          "title": "Noticias ambientales sobre Bosques"
+          "url": "https://www.ipbes.net/news/Media-Release-Global-Assessment",
+          "title": "Media Release: Nature's Dangerous Decline 'Unprecedented'; Species Extinction Rates 'Accelerating' | IPBES secretariat"
         },
         {
-          "url": "https://arstechnica.com/gadgets/",
-          "title": "Category: Tech - Ars Technica"
+          "url": "https://es.mongabay.com/list/bosques",
+          "title": "Noticias ambientales sobre Bosques"
         },
         {
           "url": "http://timesofindia.indiatimes.com/",
@@ -336,6 +306,10 @@
           "title": "A Alexandra: august 2012"
         },
         {
+          "url": "https://kutyabarat.hu/cimke/elveszett/",
+          "title": "elveszett - Kutyabarát életmód magazin - Együtt mindenhová"
+        },
+        {
           "url": "https://benedicks-dick.tumblr.com/",
           "title": "Full Fathom Five"
         },
@@ -346,10 +320,6 @@
         {
           "url": "https://brandynisapunk.tumblr.com/",
           "title": "I totally don't like foxes..."
-        },
-        {
-          "url": "https://kutyabarat.hu/cimke/elveszett/",
-          "title": "elveszett - Kutyabarát életmód magazin - Együtt mindenhová"
         },
         {
           "url": "https://knitmodern.tumblr.com/",
@@ -363,23 +333,49 @@
       "count": 7
     },
     {
+      "name": "company-organization-info",
+      "bookmarks": [
+        {
+          "url": "https://www.badmintonireland.com/",
+          "title": "Badminton Ireland"
+        },
+        {
+          "url": "https://www.madisonblackchamber.com/",
+          "title": "BLACK CHAMBER"
+        },
+        {
+          "url": "https://www.casknyc.com/",
+          "title": "CASK | Cask Bar & Kitchen - New York City"
+        },
+        {
+          "url": "https://jsf.co/jumpstart-foundry-announces-first-round-of-2021-portfolio-selections/",
+          "title": "Jumpstart Foundry Announces First Round of 2021 Portfolio Selections - Jumpstart Foundry"
+        },
+        {
+          "url": "https://www.carzonrent.com/",
+          "title": "Premium Chauffeur Driven Car Rental Services India"
+        },
+        {
+          "url": "https://www.tapestry.com/",
+          "title": "Tapestry"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "shopping-fashion-home-goods",
       "bookmarks": [
         {
-          "url": "https://www.bagborroworsteal.com/",
-          "title": "Rent, Buy and Sell Designer Handbags & Accessories - Bag Borrow or Steal"
+          "url": "https://www.uniqlo.com/us/en/products/E450229-000/00?colorDisplayCode=67",
+          "title": "HEATTECH Scarf | UNIQLO US"
         },
         {
           "url": "https://www.charlottetilbury.com/us/product/matte-revolution-red-carpet-red",
           "title": "Red Matte Lipstick - Matte Revolution - Red Carpet Red | Charlotte Tilbury"
         },
         {
-          "url": "https://www.uniqlo.com/us/en/products/E450229-000/00?colorDisplayCode=67",
-          "title": "HEATTECH Scarf | UNIQLO US"
-        },
-        {
-          "url": "https://www.llbean.com/llb/shop/86878",
-          "title": "Ultrasoft Comfort Flannel Sheet Set | Sheets | L.L.Bean International"
+          "url": "https://www.bagborroworsteal.com/",
+          "title": "Rent, Buy and Sell Designer Handbags & Accessories - Bag Borrow or Steal"
         },
         {
           "url": "https://www.stevemadden.in/",
@@ -388,6 +384,10 @@
         {
           "url": "http://www.suspenderstore.com/",
           "title": "Suspenders for Men, Women, and Kids | SuspenderStore"
+        },
+        {
+          "url": "https://www.llbean.com/llb/shop/86878",
+          "title": "Ultrasoft Comfort Flannel Sheet Set | Sheets | L.L.Bean International"
         }
       ],
       "count": 6
@@ -400,6 +400,10 @@
           "title": "Decreto Supremo que modifica el Decreto Supremo N° 016-2016-PRODUCE, Establecen medidas para autorizar operaciones en puertos y astilleros peruanos de embarcaciones de bandera extranjera que realizan actividades pesqueras de recursos hidrobiológicos altamente migratorios, transzonales o transfronterizos en alta mar - DECRETO SUPREMO - N° 016-2020-PRODUCE - PRODUCE"
         },
         {
+          "url": "https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/278#JSON",
+          "title": "Delimitación territorial de las Juntas Administrativas de Zaragoza . Datos abiertos. Ayuntamiento de Zaragoza"
+        },
+        {
           "url": "http://datosabiertos.laspalmasgc.es/dataset/?id=callejero-municipal",
           "title": "Portal de Datos Abiertos Las Palmas de Gran Canaria | Dataset | callejero-municipal"
         },
@@ -410,10 +414,6 @@
         {
           "url": "https://www.texaslottery.com/opencms/About_Us/Agency_Directory/Email_Form.jsp",
           "title": "Texas Lottery | Send an email to Texas Lottery Commission Customer Service"
-        },
-        {
-          "url": "https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/278#JSON",
-          "title": "Delimitación territorial de las Juntas Administrativas de Zaragoza . Datos abiertos. Ayuntamiento de Zaragoza"
         }
       ],
       "count": 5
@@ -430,12 +430,12 @@
           "title": "Home - Conference and Event Services"
         },
         {
-          "url": "https://www.greenbiz.com/events/greenbiz/2023",
-          "title": "Trellis Group (formerly GreenBiz)"
-        },
-        {
           "url": "https://npafc.org/convention/",
           "title": "NPAFC Convention - NPAFC"
+        },
+        {
+          "url": "https://www.greenbiz.com/events/greenbiz/2023",
+          "title": "Trellis Group (formerly GreenBiz)"
         }
       ],
       "count": 4
@@ -513,15 +513,15 @@
       "count": 2
     },
     {
-      "name": "privacy-policy-legal",
+      "name": "legal-privacy-policy",
       "bookmarks": [
-        {
-          "url": "https://readalong.google/intl/en_US/privacy",
-          "title": "void"
-        },
         {
           "url": "https://shared.ydstatic.com/dict/market/youdaoInfos/index.html",
           "title": "Privacy Policy"
+        },
+        {
+          "url": "https://readalong.google/intl/en_US/privacy",
+          "title": "void"
         }
       ],
       "count": 2

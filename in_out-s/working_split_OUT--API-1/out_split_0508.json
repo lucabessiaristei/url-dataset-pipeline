@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-and-articles",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://www.avichayadraee.com/%D9%81%D9%8A-%D9%85%D8%AB%D9%84-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%85%D9%86-%D8%B9%D8%A7%D9%85-2004-%D8%B6%D8%B1%D8%A8-%D8%AA%D8%B3%D9%88%D9%86%D8%A7%D9%85%D9%8A-%D8%B3%D9%88%D8%A7/",
@@ -66,10 +66,6 @@
           "title": "BGCI | Botanic Gardens Conservation International"
         },
         {
-          "url": "https://www.bsr.org/en/",
-          "title": "Sustainable Business Network and Advisory Services | BSR"
-        },
-        {
           "url": "https://www.ceoworks.org/",
           "title": "CEO | Center for Employment Opportunities"
         },
@@ -90,6 +86,10 @@
           "title": "Nexus Community Partners"
         },
         {
+          "url": "https://www.bsr.org/en/",
+          "title": "Sustainable Business Network and Advisory Services | BSR"
+        },
+        {
           "url": "https://go.peoplepower.org/signup/take-pledge-commit-being-defender-abortion-rights",
           "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
         },
@@ -101,7 +101,7 @@
       "count": 9
     },
     {
-      "name": "software-and-tools",
+      "name": "software-tools",
       "bookmarks": [
         {
           "url": "https://secure.adpay.com/AdEntry.aspx?p=3",
@@ -161,8 +161,12 @@
       "count": 5
     },
     {
-      "name": "legal-and-policy",
+      "name": "legal-policy",
       "bookmarks": [
+        {
+          "url": "https://wpengine.com/legal/",
+          "title": "Legal | WP Engine"
+        },
         {
           "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
           "title": "Medium Terms of Service | by Medium | Medium Policy"
@@ -178,10 +182,6 @@
         {
           "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
           "title": "void"
-        },
-        {
-          "url": "https://wpengine.com/legal/",
-          "title": "Legal | WP Engine"
         }
       ],
       "count": 5
@@ -213,7 +213,7 @@
       "count": 5
     },
     {
-      "name": "career-and-jobs",
+      "name": "careers-jobs",
       "bookmarks": [
         {
           "url": "https://www.nbcunicareers.com/",
@@ -304,16 +304,16 @@
       "name": "misc",
       "bookmarks": [
         {
+          "url": "https://perinagroup.com/angled-plane-png/",
+          "title": "angled_plane.png - Perina Group Perth Property Maintenance Commercial Plumbing Gas"
+        },
+        {
           "url": "https://pastel.diplomatie.gouv.fr/cncdext/dyn/public/utilisateur/ajoutCompte.html;jsessionid=03D70CB2EF5DFD342A9F7A4D8BDCD880.jvm01996-3",
           "title": "Ministère de l'Europe et des Affaires étrangères - Maintenance technique"
         },
         {
           "url": "https://www.otel.com/",
           "title": "otel.com"
-        },
-        {
-          "url": "https://perinagroup.com/angled-plane-png/",
-          "title": "angled_plane.png - Perina Group Perth Property Maintenance Commercial Plumbing Gas"
         },
         {
           "url": "https://stormdocslbkl.netlify.app/word-gratuit-pour-windows-10-en-franzais-we.html",
@@ -341,7 +341,7 @@
       "count": 3
     },
     {
-      "name": "guides-and-resources",
+      "name": "guides-resources",
       "bookmarks": [
         {
           "url": "https://www.eventbrite.ca/e/business-model-canvas-for-indigenous-entrepreneurs-tickets-558263470067?aff=erelexpmlt",
@@ -359,7 +359,7 @@
       "count": 3
     },
     {
-      "name": "science-and-health",
+      "name": "science-health",
       "bookmarks": [
         {
           "url": "http://www.zeichnerdermatology.com/about",
@@ -377,7 +377,7 @@
       "count": 3
     },
     {
-      "name": "travel-and-gov",
+      "name": "travel-gov",
       "bookmarks": [
         {
           "url": "https://www.scotlandspeople.gov.uk/",

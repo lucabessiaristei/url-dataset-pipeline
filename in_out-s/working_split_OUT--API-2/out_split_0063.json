@@ -1,239 +1,39 @@
 {
   "folders": [
     {
-      "name": "business-news",
-      "bookmarks": [
-        {
-          "url": "https://www.bbc.com/news/business",
-          "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news"
-        },
-        {
-          "url": "https://www.cbc.ca/news/canada/toronto/toronto-business-owners-associations-help-pandemic-1.6180500",
-          "title": "Downtown Toronto business owners, associations call on federal parties for more help | CBC News"
-        },
-        {
-          "url": "https://www.kaieteurnewsonline.com/2016/07/02/grenade-attack-on-kn-jagdeos-utterances-just-like-donald-trumps-ramjattan-2/",
-          "title": "Grenade attack on KN... Jagdeo's utterances just like Donald Trump's- Ramjattan - Kaieteur News"
-        },
-        {
-          "url": "https://au.rollingstone.com/t/anthony-scaramucci/",
-          "title": "Anthony Scaramucci - Rolling Stone Australia"
-        },
-        {
-          "url": "https://collegebasketball.ap.org/wnewsj/article/kispert-ayayi-lead-no-1-gonzagas-quest-national-title",
-          "title": "College Basketball News: Rankings, Scores, Stats & More | AP News"
-        },
-        {
-          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
-          "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
-        },
-        {
-          "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
-          "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
-        },
-        {
-          "url": "https://www.dallasobserver.com/news/local-bike-community-mourns-the-loss-of-james-kincheloe-and-his-childlike-fascination-15993036",
-          "title": "Local Bike Community Mourns the Loss of James Kincheloe and His 'Childlike Fascination'"
-        },
-        {
-          "url": "https://www.houstontx.gov/police/nr/2022/jun/nr220609-1.htm",
-          "title": "Suspect Wanted, Charged in Female's Disappearance at 14935 South Richmond Avenue"
-        },
-        {
-          "url": "https://abc13.com/amp/felicia-johnson-killed-remains-found-in-sam-houston-national-forest-bones-identified-as-missing-woman-chukwuebuka-nwobodo-charged/12889100/",
-          "title": "Felicia Johnson murder: Remains found in Sam Houston National Forest identified as woman missing from Houston for 10 months | abc13.com"
-        },
-        {
-          "url": "https://crickettimes.com/",
-          "title": "Latest Cricket News, Live Scores, Schedule, Match Predictions, Fantasy Tips, Dream11 Team, Results, ICC Rankings, Stats, Videos, Podcast & Exclusive Interviews| Cricket Times"
-        },
-        {
-          "url": "https://www.formula1.com/en/latest/all.html",
-          "title": "Latest F1 News"
-        },
-        {
-          "url": "https://telematics-magazine.com/en/de-minimis-funding-2021-things-to-consider/",
-          "title": "De-minimis funding 2021 - what you need to know | Telematics Magazine"
-        }
-      ],
-      "count": 13
-    },
-    {
-      "name": "technology-development",
-      "bookmarks": [
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS",
-          "title": "Cross-Origin Resource Sharing (CORS) - HTTP | MDN"
-        },
-        {
-          "url": "https://developer.apple.com/documentation/swiftui/list",
-          "title": "List | Apple Developer Documentation"
-        },
-        {
-          "url": "https://tech.bakkenbaeck.com/post/training-a-language-model-in-spacy-v3",
-          "title": "Training a language model in spaCy v3 - Bakken & Baeck"
-        },
-        {
-          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
-          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
-        },
-        {
-          "url": "https://bugs.ruby-lang.org/issues?page=32&per_page=50&sort=subject%3Adesc%2Cstatus%2Cassigned_to",
-          "title": "Issues - Ruby Issue Tracking System"
-        },
-        {
-          "url": "https://technet.microsoft.com/windows",
-          "title": "Windows deployment documentation | Microsoft Learn"
-        },
-        {
-          "url": "https://community.graphisoft.com/rss/message?board.id=forum_document&message.id=33075",
-          "title": "topic Re: Fit to skin fill orientation - complex profiles in Documentation"
-        },
-        {
-          "url": "https://claytoncobb.com/?replytocom=591",
-          "title": "Clayton's SharePoint Madness"
-        },
-        {
-          "url": "https://docs.google.com/document/d/1Z-vvBMp2lQHcBbtiYZgvOMneyN4_YeQwLW8heO5f-qo/edit#",
-          "title": "Smartlead.ai - 11 steps to 10+ demos/day - the hands free cold emailing system - Documenti Google"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "government-services",
-      "bookmarks": [
-        {
-          "url": "https://www.farmers.gov",
-          "title": "Farmers.gov"
-        },
-        {
-          "url": "https://www.faa.gov/",
-          "title": "Federal Aviation Administration"
-        },
-        {
-          "url": "https://apps.dtic.mil/sti/citations/ADA426096",
-          "title": "Defense Technical Information Center"
-        },
-        {
-          "url": "https://www.militaryonesource.mil/coronavirus/",
-          "title": "Health Resources for Prevention & Care | Military OneSource"
-        },
-        {
-          "url": "https://www.pmindia.gov.in/en/",
-          "title": "Prime Minister of India"
-        },
-        {
-          "url": "https://www.tesoro.it/",
-          "title": "Home Page - Ministero dell'Economia e delle Finanze"
-        },
-        {
-          "url": "https://www.registrar.psu.edu/academic-calendars/",
-          "title": "Academic Calendars | Penn State Office of the University Registrar"
-        },
-        {
-          "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/67-documenti-riservati-sicurezza/5928-dpi-criteri-di-scelta-quadro-normativo",
-          "title": "DPI Criteri di scelta: Quadro normativo"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "organizations-nonprofits",
-      "bookmarks": [
-        {
-          "url": "https://www.rewild.org/",
-          "title": "We don't need to reinvent the planet-we need to rewild it."
-        },
-        {
-          "url": "https://www.islandconservation.org/",
-          "title": "Home - Island Conservation"
-        },
-        {
-          "url": "https://www.atanet.org/",
-          "title": "American Translators Association"
-        },
-        {
-          "url": "https://www.hbbf.org/",
-          "title": "Healthy Babies Bright Futures"
-        },
-        {
-          "url": "https://seedcommons.org/",
-          "title": "Seed Commons: A Community Wealth Cooperative"
-        },
-        {
-          "url": "https://www.wsbcc.org/",
-          "title": "Winston Salem Black Chamber of Commerce | WSBCC"
-        },
-        {
-          "url": "https://www.naceweb.org/about-us/jobwire.aspx",
-          "title": "NACE Jobwire"
-        },
-        {
-          "url": "https://www.responsiblebusiness.org/standards/code-of-conduct/",
-          "title": "Code of Conduct"
-        },
-        {
-          "url": "https://justice.kaporcenter.org/",
-          "title": "Homepage - Kapor Center"
-        },
-        {
-          "url": "https://unitedwaysem.org/covid-19-help/",
-          "title": "Get Help - United Way for Southeastern Michigan"
-        },
-        {
-          "url": "https://switchboardta.transistor.fm/",
-          "title": "Switchboard"
-        },
-        {
-          "url": "https://dia.ala.org/",
-          "title": "El día de los niños/El día de los libros (Children's Day/Book Day) | Association for Library Service to Children"
-        },
-        {
-          "url": "https://obsegorbecastellon.es/caritas-de-santa-isabel/",
-          "title": "Cáritas de Santa Isabel de Vila-real visita San Egidio en el Trastevere"
-        }
-      ],
-      "count": 13
-    },
-    {
       "name": "company-homepages",
       "bookmarks": [
         {
-          "url": "https://www.cadbury.co.uk/",
-          "title": "Cadbury Chocolate | Cadbury UK"
-        },
-        {
-          "url": "https://www.rta-deutschland.de/de/product/4873-schrittmotoren-rh-1s3h",
-          "title": "SCHRITTMOTOREN RH 1S3H - INDUSTRIAL MOTORS - SCHRITTMOTOREN - RTA - Motion Control Systems"
-        },
-        {
-          "url": "https://ferrari.oemdtc.com",
-          "title": "Ferrari - OEMDTC"
-        },
-        {
-          "url": "https://www.careers.fiserv.com/",
-          "title": "Working at Fiserv, Inc."
+          "url": "http://www.tbcci.com/about",
+          "title": "..:: Taylor Bros Construction ::.."
         },
         {
           "url": "https://mediacenter.adp.com/",
           "title": "ADP Media Center - Workforce Newsroom"
         },
         {
-          "url": "https://www.tgrmn.com/",
-          "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
+          "url": "https://bygracealonedesigns.com/products/copy-of-mandy-s-car-freshie-pumpkin-pancakes-cow",
+          "title": "By Grace Alone Boutique"
         },
         {
-          "url": "https://www.tbcci.com/about",
-          "title": "..:: Taylor Bros Construction ::.."
+          "url": "https://www.cadbury.co.uk/",
+          "title": "Cadbury Chocolate | Cadbury UK"
         },
         {
-          "url": "https://www.moorepinballs.com/",
-          "title": "Used Pinball Games For Sale Northeast PA"
+          "url": "https://www.dm.de/gesicht/pflege/gesichtsmasken-c400613",
+          "title": "dm-drogerie markt - dauerhaft günstig online kaufen"
         },
         {
-          "url": "https://lightningstrikestudios.com/",
+          "url": "https://ferrari.oemdtc.com",
+          "title": "Ferrari - OEMDTC"
+        },
+        {
+          "url": "http://lightningstrikestudios.com/",
           "title": "Home - LightningStrike Studios"
+        },
+        {
+          "url": "https://www.cultbeauty.com/huda-beauty-medium-nude-obsessions/13311009.html",
+          "title": "Huda Beauty Medium Nude Obsessions | Cult Beauty"
         },
         {
           "url": "https://nclud.com/",
@@ -244,156 +44,332 @@
           "title": "Offres d'emploi médicales : médecin, pharmacien, chirurgien..."
         },
         {
-          "url": "https://www.zdravotnickynabytek.cz/cs/reference/",
+          "url": "https://compare.buyhatke.com/books/marketing-practices-in-developing-economy-cases-from-south-asia-hatke9788120337824",
+          "title": "Price History: Advance Price Tracker For Amazon,Flipkart & More"
+        },
+        {
+          "url": "https://zdravotnickynabytek.cz/cs/reference/",
           "title": "Reference | Zdravotnický nábytek"
         },
         {
-          "url": "https://www.dm.de/gesicht/pflege/gesichtsmasken-c400613",
-          "title": "dm-drogerie markt - dauerhaft günstig online kaufen"
+          "url": "https://www.rta-deutschland.de/de/product/4873-schrittmotoren-rh-1s3h",
+          "title": "SCHRITTMOTOREN RH 1S3H - INDUSTRIAL MOTORS - SCHRITTMOTOREN - RTA - Motion Control Systems"
         },
         {
-          "url": "https://www.cultbeauty.com/huda-beauty-medium-nude-obsessions/13311009.html",
-          "title": "Huda Beauty Medium Nude Obsessions | Cult Beauty"
+          "url": "http://www.moorepinballs.com/",
+          "title": "Used Pinball Games For Sale Northeast PA"
         },
         {
-          "url": "https://bygracealonedesigns.com/products/copy-of-mandy-s-car-freshie-pumpkin-pancakes-cow",
-          "title": "By Grace Alone Boutique"
+          "url": "http://www.tgrmn.com/",
+          "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
         },
         {
-          "url": "https://compare.buyhatke.com/books/marketing-practices-in-developing-economy-cases-from-south-asia-hatke9788120337824",
-          "title": "Price History: Advance Price Tracker For Amazon, Flipkart & More"
+          "url": "https://www.careers.fiserv.com/",
+          "title": "Working at Fiserv, Inc."
         }
       ],
       "count": 16
     },
     {
-      "name": "education-resources",
+      "name": "miscellaneous",
       "bookmarks": [
         {
-          "url": "https://www.mtroyal.ca/",
-          "title": "Mount Royal University | MRU"
+          "url": "https://2017annualreport.bloomberg.org/",
+          "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://online.aub.edu.lb",
-          "title": "AUB Online"
+          "url": "http://www.playstation.com/support/",
+          "title": "Assistenza PlayStation"
         },
         {
-          "url": "https://cs.mak.ac.ug/",
-          "title": "Department Of Computer Science | Makerere University"
+          "url": "http://garbersautomotivemd.com/New%20Windsor-auto-maintenance.html",
+          "title": "Car and Truck Repair Services | Garber's Automotive Inc"
         },
         {
-          "url": "https://dspace.flinders.edu.au/xmlui/handle/2328/2960/search-filter?field=subject&filtertype_12=author&filter_relational_operator_7=equals&filter_relational_operator_6=equals&filtertype_10=subject&filter_relational_operator_9=equals&filtertype_11=author&filter_relational_operator_8=equals&filter_relational_operator_3=equals&filter_relational_operator_2=equals&filter_relational_operator_5=equals&filter_relational_operator_4=equals&filter_0=Immature+embryo&filter_2=Shavrukov%2C+Yuri&filter_relational_operator_1=equals&filter_1=Transformation+frequency&filter_relational_operator_0=equals&filter_4=Yang%2C+Nannan&filter_3=DNA%2Fgold+coating&filter_6=Triticum+aestivum&filter_5=Single+copy+events&filter_relational_operator_11=equals&filter_7=Iskakova%2C+Gulnur&filter_relational_operator_12=equals&filter_8=2018&filter_10=biolistic+transformation&filter_9=Eliby%2C+Serik&filter_11=Borisjuk%2C+Nikolai&filter_relational_operator_10=equals&filtertype_0=subject&filtertype_1=subject&filtertype_2=author&filtertype_3=subject&filtertype_4=author&filtertype_5=subject&filtertype_6=subject&filtertype_7=author&filtertype_8=dateIssued&filter_12=Mazonka%2C+Inna&filtertype_9=author&starts_with=s",
-          "title": "Flinders Academic Commons"
+          "url": "http://uis.unesco.org/",
+          "title": "Data for the Sustainable Development Goals | Institute for Statistics (UIS)"
         },
         {
-          "url": "https://www.50states.com/west-virginia/walker_schools.htm",
-          "title": "Walker Schools. Find Elementary, Middle and High Schools in Walker, WV. - 50states"
+          "url": "http://www.harisnukem.com",
+          "title": "HARIS NUKEM"
         },
         {
-          "url": "https://miportal.cientifica.edu.pe/",
-          "title": "MiPortal"
+          "url": "https://vote-watch.com/2021/04/18/labour-councillor-suspended-after-receiving-ban-from-teaching/",
+          "title": "Private Site"
         },
         {
-          "url": "https://www.ajol.info/index.php/jfecs/article/view/61642",
-          "title": "A comparative study of regenerated bamboo, cotton and viscose rayon fabrics. Part 1: selected comfort properties | Journal of Consumer Sciences"
+          "url": "https://www.rcuniverse.com/forum/post_thanks.php?do=findthanks_user_gave&u=58402",
+          "title": "RCU Forums"
+        },
+        {
+          "url": "http://www.fondationprimat.org//en/ressources?archive=true",
+          "title": "Ressources Archive - Fondation Didier et Martine Primat"
+        },
+        {
+          "url": "https://www.twitch.tv/rajanlakhanpal",
+          "title": "Twitch"
+        },
+        {
+          "url": "https://uxplanet.org/",
+          "title": "UX Planet"
+        },
+        {
+          "url": "http://washington.edu/news/video/?utm_source=UW%20News&utm_medium=nav&utm_campaign=multimedia",
+          "title": "Video stories | UW News"
+        },
+        {
+          "url": "https://watch.diynetwork.com/watch/diy",
+          "title": "void"
+        },
+        {
+          "url": "http://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
+          "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
+        },
+        {
+          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
+          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
+        },
+        {
+          "url": "https://www.muzemerch.com/privacy-policy-cookie-restriction-mode/",
+          "title": "You are being redirected..."
         }
       ],
-      "count": 7
+      "count": 15
+    },
+    {
+      "name": "business-news",
+      "bookmarks": [
+        {
+          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
+          "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
+        },
+        {
+          "url": "https://au.rollingstone.com/t/anthony-scaramucci/",
+          "title": "Anthony Scaramucci - Rolling Stone Australia"
+        },
+        {
+          "url": "https://www.bbc.com/news/business",
+          "title": "BBC Business | Economy, Tech, AI, Work, Personal Finance, Market news"
+        },
+        {
+          "url": "https://collegebasketball.ap.org/wnewsj/article/kispert-ayayi-lead-no-1-gonzagas-quest-national-title",
+          "title": "College Basketball News: Rankings, Scores, Stats & More | AP News"
+        },
+        {
+          "url": "https://telematics-magazine.com/en/de-minimis-funding-2021-things-to-consider/",
+          "title": "De-minimis funding 2021 - what you need to know | Telematics Magazine"
+        },
+        {
+          "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
+          "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
+        },
+        {
+          "url": "https://www.cbc.ca/news/canada/toronto/toronto-business-owners-associations-help-pandemic-1.6180500",
+          "title": "Downtown Toronto business owners, associations call on federal parties for more help | CBC News"
+        },
+        {
+          "url": "https://abc13.com/amp/felicia-johnson-killed-remains-found-in-sam-houston-national-forest-bones-identified-as-missing-woman-chukwuebuka-nwobodo-charged/12889100/",
+          "title": "Felicia Johnson murder: Remains found in Sam Houston National Forest identified as woman missing from Houston for 10 months | abc13.com"
+        },
+        {
+          "url": "https://www.kaieteurnewsonline.com/2016/07/02/grenade-attack-on-kn-jagdeos-utterances-just-like-donald-trumps-ramjattan-2/",
+          "title": "Grenade attack on KN... Jagdeo's utterances just like Donald Trump's- Ramjattan - Kaieteur News"
+        },
+        {
+          "url": "https://crickettimes.com/",
+          "title": "Latest Cricket News, Live Scores, Schedule, Match Predictions, Fantasy Tips, Dream11 Team, Results, ICC Rankings, Stats, Videos, Podcast & Exclusive Interviews| Cricket Times"
+        },
+        {
+          "url": "https://www.formula1.com/en/latest/all.html",
+          "title": "Latest F1 News"
+        },
+        {
+          "url": "https://www.dallasobserver.com/news/local-bike-community-mourns-the-loss-of-james-kincheloe-and-his-childlike-fascination-15993036",
+          "title": "Local Bike Community Mourns the Loss of James Kincheloe and His 'Childlike Fascination'"
+        },
+        {
+          "url": "https://www.houstontx.gov/police/nr/2022/jun/nr220609-1.htm",
+          "title": "Suspect Wanted, Charged in Female's Disappearance at 14935 South Richmond Avenue"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://www.atanet.org/",
+          "title": "American Translators Association"
+        },
+        {
+          "url": "http://www.responsiblebusiness.org/standards/code-of-conduct/",
+          "title": "Code of Conduct"
+        },
+        {
+          "url": "https://obsegorbecastellon.es/caritas-de-santa-isabel/",
+          "title": "Cáritas de Santa Isabel de Vila-real visita San Egidio en el Trastevere"
+        },
+        {
+          "url": "http://dia.ala.org/",
+          "title": "El día de los niños/El día de los libros (Children's Day/Book Day) | Association for Library Service to Children"
+        },
+        {
+          "url": "https://unitedwaysem.org/covid-19-help/",
+          "title": "Get Help - United Way for Southeastern Michigan"
+        },
+        {
+          "url": "https://www.hbbf.org/",
+          "title": "Healthy Babies Bright Futures"
+        },
+        {
+          "url": "https://www.islandconservation.org/",
+          "title": "Home - Island Conservation"
+        },
+        {
+          "url": "https://justice.kaporcenter.org/",
+          "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://www.naceweb.org/about-us/jobwire.aspx",
+          "title": "NACE Jobwire"
+        },
+        {
+          "url": "https://seedcommons.org/",
+          "title": "Seed Commons: A Community Wealth Cooperative"
+        },
+        {
+          "url": "https://switchboardta.transistor.fm/",
+          "title": "Switchboard"
+        },
+        {
+          "url": "https://www.rewild.org/",
+          "title": "We don't need to reinvent the planet-we need to rewild it."
+        },
+        {
+          "url": "https://www.wsbcc.org/",
+          "title": "Winston Salem Black Chamber of Commerce | WSBCC"
+        }
+      ],
+      "count": 13
     },
     {
       "name": "entertainment-culture",
       "bookmarks": [
         {
-          "url": "https://www.medici.tv/en/",
-          "title": "The best of classical and jazz at your fingertips | medici.tv"
+          "url": "https://sexyfishmiami.com/",
+          "title": "Asian Restaurant & Late Night Bar Miami | Fish Restaurant | Sexy Fish"
         },
         {
-          "url": "https://sixonbroadway.com/",
-          "title": "Home - SIX on Broadway"
-        },
-        {
-          "url": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/",
-          "title": "Pantheon - Multi-Launch Coaster | Busch Gardens Williamsburg"
+          "url": "http://www.easybistro.com/",
+          "title": "Classic Bistro & Seafood Restaurants In Chattanooga - Easy Bistro"
         },
         {
           "url": "https://www.formula1.com/en/drivers.html",
           "title": "F1 Drivers 2025 - Verstappen, Hamilton, Leclerc and more"
         },
         {
-          "url": "https://sexyfishmiami.com/",
-          "title": "Asian Restaurant & Late Night Bar Miami | Fish Restaurant | Sexy Fish"
+          "url": "http://www.catonbed.de/jan2/pictures/galerie-w/carpentier/first.html",
+          "title": "Galerie Manfred Carpentier, Jan Sobottka, Meinekestr. Berlin, Carpentier Galerie"
         },
         {
-          "url": "https://www.easybistro.com/",
-          "title": "Classic Bistro & Seafood Restaurants In Chattanooga - Easy Bistro"
-        },
-        {
-          "url": "https://local.tourmake.it/tr/carnicer%C3%ADa-jamoner%C3%ADa-alcal%C3%A1-calle-de-alcal%C3%A1-comunidad-de-madrid-madrid",
-          "title": "Restoran Dükkan Madrid Carnicería-Jamonería Alcalá - Local Tourmake"
+          "url": "https://sixonbroadway.com/",
+          "title": "Home - SIX on Broadway"
         },
         {
           "url": "https://www.dodho.com",
           "title": "Home | Dodho"
         },
         {
-          "url": "https://www.catonbed.de/jan2/pictures/galerie-w/carpentier/first.html",
-          "title": "Galerie Manfred Carpentier, Jan Sobottka, Meinekestr. Berlin, Carpentier Galerie"
+          "url": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/",
+          "title": "Pantheon - Multi-Launch Coaster | Busch Gardens Williamsburg"
         },
         {
-          "url": "https://wegart.sk/?ukaz=album&id=7804",
-          "title": "Wegart"
+          "url": "https://local.tourmake.it/tr/carnicer%C3%ADa-jamoner%C3%ADa-alcal%C3%A1-calle-de-alcal%C3%A1-comunidad-de-madrid-madrid",
+          "title": "Restoran Dükkan Madrid Carnicería-Jamonería Alcalá - Local Tourmake"
+        },
+        {
+          "url": "https://www.medici.tv/en/",
+          "title": "The best of classical and jazz at your fingertips | medici.tv"
         },
         {
           "url": "https://blackentrepreneursday.com/the-show/",
           "title": "The Show - Black Entrepreneurs Day"
+        },
+        {
+          "url": "http://wegart.sk/?ukaz=album&id=7804",
+          "title": "Wegart"
         }
       ],
       "count": 11
     },
     {
-      "name": "health-wellness",
+      "name": "technology-development",
       "bookmarks": [
         {
-          "url": "https://www.healthline.com/health/ointment-vs-cream",
-          "title": "Ointment vs. Cream, Lotion, and Gel: What Makes Them Different?"
+          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
+          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
         },
         {
-          "url": "https://iloveveterinary.com/",
-          "title": "I Love Veterinary Blog & Store | Discover Insights & Gifts"
+          "url": "https://claytoncobb.com/?replytocom=591",
+          "title": "Clayton's SharePoint Madness"
         },
         {
-          "url": "https://www.mindbodygreen.com/",
-          "title": "mindbodygreen - well-rounded well-being for a life well lived"
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS",
+          "title": "Cross-Origin Resource Sharing (CORS) - HTTP | MDN"
         },
         {
-          "url": "https://goesscolierifuneralhome.com/tribute/details/196/Martha-Bradley/obituary.html",
-          "title": "Martha A. Bradley Obituary | Goes-Scolieri Funeral Home | 1935 - 2018"
+          "url": "https://bugs.ruby-lang.org/issues?page=32&per_page=50&sort=subject%3Adesc%2Cstatus%2Cassigned_to",
+          "title": "Issues - Ruby Issue Tracking System"
+        },
+        {
+          "url": "https://developer.apple.com/documentation/swiftui/list",
+          "title": "List | Apple Developer Documentation"
+        },
+        {
+          "url": "https://docs.google.com/document/d/1Z-vvBMp2lQHcBbtiYZgvOMneyN4_YeQwLW8heO5f-qo/edit#",
+          "title": "Smartlead.ai - 11 steps to 10+ demos/day - the hands free cold emailing system - Documenti Google"
+        },
+        {
+          "url": "https://community.graphisoft.com/rss/message?board.id=forum_document&message.id=33075",
+          "title": "topic Re: Fit to skin fill orientation - complex profiles in Documentation"
+        },
+        {
+          "url": "https://tech.bakkenbaeck.com/post/training-a-language-model-in-spacy-v3",
+          "title": "Training a language model in spaCy v3 - Bakken & Baeck"
+        },
+        {
+          "url": "https://technet.microsoft.com/windows",
+          "title": "Windows deployment documentation | Microsoft Learn"
         }
       ],
-      "count": 4
+      "count": 9
     },
     {
       "name": "web-tools-platforms",
       "bookmarks": [
         {
-          "url": "https://search.google.com/search-console/about",
-          "title": "Google Search Console"
+          "url": "https://atoz.amazon.work",
+          "title": "Amazon A to Z Login"
+        },
+        {
+          "url": "https://fbr.dfa.ie/eseries/esr.elogin",
+          "title": "Capita Integra"
+        },
+        {
+          "url": "https://kidsplaycolor.com/clouds-in-the-sky-coloring-page/",
+          "title": "Clouds In The Sky Coloring Page : Kids Play Color"
         },
         {
           "url": "https://privacy.apple.com",
           "title": "Data & Privacy"
         },
         {
-          "url": "https://atoz.amazon.work",
-          "title": "Amazon A to Z Login"
-        },
-        {
           "url": "https://app.eskalera.com/",
           "title": "Eskalera"
         },
         {
-          "url": "https://fbr.dfa.ie/eseries/esr.elogin",
-          "title": "Capita Integra"
+          "url": "https://search.google.com/search-console/about",
+          "title": "Google Search Console"
         },
         {
           "url": "https://event.on24.com/wcc/r/4110472/52C9A96C1E42A505134EDADDE900A2B0?partnerref=BS",
@@ -406,28 +382,96 @@
         {
           "url": "https://tocaboca.com/app/toca-hairsalon-me/",
           "title": "Toca Boca Jr. - Toca Boca"
-        },
-        {
-          "url": "https://kidsplaycolor.com/clouds-in-the-sky-coloring-page/",
-          "title": "Clouds In The Sky Coloring Page : Kids Play Color"
         }
       ],
       "count": 9
     },
     {
+      "name": "government-services",
+      "bookmarks": [
+        {
+          "url": "https://www.registrar.psu.edu/academic-calendars/",
+          "title": "Academic Calendars | Penn State Office of the University Registrar"
+        },
+        {
+          "url": "https://apps.dtic.mil/sti/citations/ADA426096",
+          "title": "Defense Technical Information Center"
+        },
+        {
+          "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/67-documenti-riservati-sicurezza/5928-dpi-criteri-di-scelta-quadro-normativo",
+          "title": "DPI Criteri di scelta: Quadro normativo"
+        },
+        {
+          "url": "https://www.farmers.gov",
+          "title": "Farmers.gov"
+        },
+        {
+          "url": "http://www.faa.gov/",
+          "title": "Federal Aviation Administration"
+        },
+        {
+          "url": "https://www.militaryonesource.mil/coronavirus/",
+          "title": "Health Resources for Prevention & Care | Military OneSource"
+        },
+        {
+          "url": "http://www.tesoro.it/",
+          "title": "Home Page - Ministero dell'Economia e delle Finanze"
+        },
+        {
+          "url": "https://www.pmindia.gov.in/en/",
+          "title": "Prime Minister of India"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.ajol.info/index.php/jfecs/article/view/61642",
+          "title": "A comparative study of regenerated bamboo, cotton and viscose rayon fabrics. Part 1: selected comfort properties | Journal of Consumer Sciences"
+        },
+        {
+          "url": "https://online.aub.edu.lb",
+          "title": "AUB Online"
+        },
+        {
+          "url": "http://cs.mak.ac.ug/",
+          "title": "Department Of Computer Science | Makerere University"
+        },
+        {
+          "url": "https://dspace.flinders.edu.au/xmlui/handle/2328/2960/search-filter?field=subject&filtertype_12=author&filter_relational_operator_7=equals&filter_relational_operator_6=equals&filtertype_10=subject&filter_relational_operator_9=equals&filtertype_11=author&filter_relational_operator_8=equals&filter_relational_operator_3=equals&filter_relational_operator_2=equals&filter_relational_operator_5=equals&filter_relational_operator_4=equals&filter_0=Immature+embryo&filter_2=Shavrukov%2C+Yuri&filter_relational_operator_1=equals&filter_1=Transformation+frequency&filter_relational_operator_0=equals&filter_4=Yang%2C+Nannan&filter_3=DNA%2Fgold+coating&filter_6=Triticum+aestivum&filter_5=Single+copy+events&filter_relational_operator_11=equals&filter_7=Iskakova%2C+Gulnur&filter_relational_operator_12=equals&filter_8=2018&filter_10=biolistic+transformation&filter_9=Eliby%2C+Serik&filter_11=Borisjuk%2C+Nikolai&filter_relational_operator_10=equals&filtertype_0=subject&filtertype_1=subject&filtertype_2=author&filtertype_3=subject&filtertype_4=author&filtertype_5=subject&filtertype_6=subject&filtertype_7=author&filtertype_8=dateIssued&filter_12=Mazonka%2C+Inna&filtertype_9=author&starts_with=s",
+          "title": "Flinders Academic Commons"
+        },
+        {
+          "url": "https://miportal.cientifica.edu.pe/",
+          "title": "MiPortal"
+        },
+        {
+          "url": "https://www.mtroyal.ca/",
+          "title": "Mount Royal University | MRU"
+        },
+        {
+          "url": "https://www.50states.com/west-virginia/walker_schools.htm",
+          "title": "Walker Schools. Find Elementary, Middle and High Schools in Walker, WV. - 50states"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "personal-blogs",
       "bookmarks": [
         {
+          "url": "http://www.periodismokosher.com.ar/2014/04/brit-mila-de-yoel-simje-romarowski.html",
+          "title": "Brit Milá de Yoel Simje Romarowski - Periodismo Kosher"
+        },
+        {
+          "url": "https://blackazian13.tumblr.com/",
+          "title": "Cat Submarine!"
+        },
+        {
           "url": "https://ninagaby.wordpress.com/2013/05/",
           "title": "May | 2013 | Nina Gaby"
-        },
-        {
-          "url": "https://cinzia1877.blogspot.com/",
-          "title": "Parlando e sentendo..."
-        },
-        {
-          "url": "https://karmahjalmarstal.com/2011/11/29/same-same-but-different-etsy-tiger/",
-          "title": "Same same but different #etsy #tiger/ | You can't start a fire without a spark"
         },
         {
           "url": "https://friggsblogg09.blogspot.no/2012/11/tarotkort-matehold.html",
@@ -438,87 +482,39 @@
           "title": "My PhD Life"
         },
         {
-          "url": "https://blackazian13.tumblr.com/",
-          "title": "Cat Submarine!"
+          "url": "http://cinzia1877.blogspot.com/",
+          "title": "Parlando e sentendo..."
         },
         {
-          "url": "https://periodismokosher.com.ar/2014/04/brit-mila-de-yoel-simje-romarowski.html",
-          "title": "Brit Milá de Yoel Simje Romarowski - Periodismo Kosher"
+          "url": "https://karmahjalmarstal.com/2011/11/29/same-same-but-different-etsy-tiger/",
+          "title": "Same same but different #etsy #tiger/ | You can't start a fire without a spark"
         }
       ],
       "count": 7
     },
     {
-      "name": "miscellaneous",
+      "name": "health-wellness",
       "bookmarks": [
         {
-          "url": "https://www.fondationprimat.org//en/ressources?archive=true",
-          "title": "Ressources Archive - Fondation Didier et Martine Primat"
+          "url": "https://iloveveterinary.com/",
+          "title": "I Love Veterinary Blog & Store | Discover Insights & Gifts"
         },
         {
-          "url": "https://www.harisnukem.com",
-          "title": "HARIS NUKEM"
+          "url": "https://goesscolierifuneralhome.com/tribute/details/196/Martha-Bradley/obituary.html",
+          "title": "Martha A. Bradley Obituary | Goes-Scolieri Funeral Home | 1935 - 2018"
         },
         {
-          "url": "https://www.twitch.tv/rajanlakhanpal",
-          "title": "Twitch"
+          "url": "https://www.mindbodygreen.com/",
+          "title": "mindbodygreen - well-rounded well-being for a life well lived"
         },
         {
-          "url": "https://www.rcuniverse.com/forum/post_thanks.php?do=findthanks_user_gave&u=58402",
-          "title": "RCU Forums"
-        },
-        {
-          "url": "https://www.playstation.com/support/",
-          "title": "Assistenza PlayStation"
-        },
-        {
-          "url": "https://www.muzemerch.com/privacy-policy-cookie-restriction-mode/",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://watch.diynetwork.com/watch/diy",
-          "title": "void"
-        },
-        {
-          "url": "https://www.garbersautomotivemd.com/New%20Windsor-auto-maintenance.html",
-          "title": "Car and Truck Repair Services | Garber's Automotive Inc"
-        },
-        {
-          "url": "https://vote-watch.com/2021/04/18/labour-councillor-suspended-after-receiving-ban-from-teaching/",
-          "title": "Private Site"
-        },
-        {
-          "url": "https://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
-          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
-        },
-        {
-          "url": "https://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
-          "title": "WattTime, the Tool That Tells You When to Charge Your EV to Keep It Green - IEEE Spectrum"
-        },
-        {
-          "url": "https://www.ellenmacarthurfoundation.com",
-          "title": "Ellen MacArthur Foundation | LinkedIn"
-        },
-        {
-          "url": "https://www.uis.unesco.org/",
-          "title": "Data for the Sustainable Development Goals | Institute for Statistics (UIS)"
-        },
-        {
-          "url": "https://www.uxplanet.org/",
-          "title": "UX Planet"
-        },
-        {
-          "url": "https://www.2017annualreport.bloomberg.org/",
-          "title": "Annual Report | Bloomberg Philanthropies"
-        },
-        {
-          "url": "https://washington.edu/news/video/?utm_source=UW%20News&utm_medium=nav&utm_campaign=multimedia",
-          "title": "Video stories | UW News"
+          "url": "https://www.healthline.com/health/ointment-vs-cream",
+          "title": "Ointment vs. Cream, Lotion, and Gel: What Makes Them Different?"
         }
       ],
-      "count": 16
+      "count": 4
     }
   ],
-  "total_bookmarks": 113,
+  "total_bookmarks": 112,
   "num_folders": 11
 }

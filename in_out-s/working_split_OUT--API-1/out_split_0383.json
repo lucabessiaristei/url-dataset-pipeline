@@ -55,7 +55,7 @@
       "count": 12
     },
     {
-      "name": "shopping-and-classifieds",
+      "name": "shopping-classifieds",
       "bookmarks": [
         {
           "url": "http://www.stripesfleetcards.com/?cc=H3L&utm_medium=referral&utm_campaign=stripes+website&utm_source=stripesstores.com",
@@ -101,7 +101,7 @@
       "count": 10
     },
     {
-      "name": "news-and-publications",
+      "name": "news-publications",
       "bookmarks": [
         {
           "url": "https://assets.bbhub.io/dotorg/sites/2/2014/04/Bloomberg_AnnualReport_2013-2014_online1.pdf",
@@ -177,7 +177,7 @@
       "count": 8
     },
     {
-      "name": "organizations-community",
+      "name": "community-organizations",
       "bookmarks": [
         {
           "url": "https://aabcc.org/home/",
@@ -211,7 +211,7 @@
       "count": 7
     },
     {
-      "name": "education-and-research",
+      "name": "education-research",
       "bookmarks": [
         {
           "url": "https://www.coe.uh.edu/dir/coedirectory/faculty_template.cfm?id=908&CFID=974647&CFTOKEN=ea62c124bb0cdc36-FB89575D-BB92-9ABD-3CECEB794CEC1466",
@@ -241,7 +241,7 @@
       "count": 6
     },
     {
-      "name": "hobbies-and-gaming",
+      "name": "gaming-hobbies",
       "bookmarks": [
         {
           "url": "https://www.flitetest.com/articles",
@@ -271,7 +271,7 @@
       "count": 6
     },
     {
-      "name": "blogs-and-portfolios",
+      "name": "blogs-portfolios",
       "bookmarks": [
         {
           "url": "https://www.yogabycandace.com/blog",
@@ -297,33 +297,7 @@
       "count": 5
     },
     {
-      "name": "health-and-wellness",
-      "bookmarks": [
-        {
-          "url": "http://www.balanced-wellness.org/",
-          "title": "Balanced Wellness - Women, Couples & Teen Therapy in SC & NC"
-        },
-        {
-          "url": "https://cynalune.blogspot.com/2012/07/truc-ou-j-en-ai-marre.html",
-          "title": "des trucs, deuxième prise: Truc où j 'en ai marre"
-        },
-        {
-          "url": "https://koreauniv.pure.elsevier.com/en/publications/genetic-polymorphisms-of-the-%CE%B2sub2sub-adrenergic-receptor-in-the-",
-          "title": "Genetic polymorphisms of the β>2>-Adrenergic receptor in the severity of bronchial asthma - Korea University Pure"
-        },
-        {
-          "url": "https://www.healthline.com/nutrition/intermittent-fasting-guide",
-          "title": "Intermittent Fasting 101 - The Ultimate Beginner's Guide"
-        },
-        {
-          "url": "http://www.lgrecyclingprogram.com/",
-          "title": "LG Recycling Program | Life's Good when you recycle"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "legal-and-documentation",
+      "name": "documentation-legal",
       "bookmarks": [
         {
           "url": "https://faq.whatsapp.com/",
@@ -349,7 +323,7 @@
       "count": 5
     },
     {
-      "name": "media-and-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://www.movieguide.org",
@@ -370,6 +344,32 @@
         {
           "url": "https://www.viki.com/",
           "title": "Watch K-Dramas, Korean Shows & Chinese Dramas | Rakuten Viki"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "http://www.balanced-wellness.org/",
+          "title": "Balanced Wellness - Women, Couples & Teen Therapy in SC & NC"
+        },
+        {
+          "url": "https://cynalune.blogspot.com/2012/07/truc-ou-j-en-ai-marre.html",
+          "title": "des trucs, deuxième prise: Truc où j 'en ai marre"
+        },
+        {
+          "url": "https://koreauniv.pure.elsevier.com/en/publications/genetic-polymorphisms-of-the-%CE%B2sub2sub-adrenergic-receptor-in-the-",
+          "title": "Genetic polymorphisms of the β>2>-Adrenergic receptor in the severity of bronchial asthma - Korea University Pure"
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-guide",
+          "title": "Intermittent Fasting 101 - The Ultimate Beginner's Guide"
+        },
+        {
+          "url": "http://www.lgrecyclingprogram.com/",
+          "title": "LG Recycling Program | Life's Good when you recycle"
         }
       ],
       "count": 5
@@ -404,12 +404,12 @@
       "name": "ai-ml-resources",
       "bookmarks": [
         {
-          "url": "http://www.aipvisaexperts.net/high-demand-data-scientists-australia/",
-          "title": "Australia Immigration Professionals | High Demand for Data Scientists"
-        },
-        {
           "url": "https://didgiwidgi.co.uk/htm/art-prints-7.htm",
           "title": "Artificial Intelligence - An In-Depth Analysis"
+        },
+        {
+          "url": "http://www.aipvisaexperts.net/high-demand-data-scientists-australia/",
+          "title": "Australia Immigration Professionals | High Demand for Data Scientists"
         },
         {
           "url": "https://kotilabdulkadir.notion.site/Midjourney-67bb772caf1b448c9e096a89f2940f2b?pvs=25",
@@ -423,7 +423,7 @@
       "count": 4
     },
     {
-      "name": "food-and-drink",
+      "name": "food-drink",
       "bookmarks": [
         {
           "url": "https://www.dbricette.it/index.htm",
@@ -489,7 +489,7 @@
       "count": 4
     },
     {
-      "name": "home-and-automotive",
+      "name": "home-automotive",
       "bookmarks": [
         {
           "url": "https://www.samsung-climatesolutions.com/en-gb/b2c.html",
@@ -507,7 +507,7 @@
       "count": 3
     },
     {
-      "name": "misc-tools-and-reference",
+      "name": "misc-reference-tools",
       "bookmarks": [
         {
           "url": "https://www.brandenburg-business-guide.de/de/karte?poi=221457",
@@ -528,16 +528,16 @@
       "name": "tech-support",
       "bookmarks": [
         {
-          "url": "http://www.nic.it/",
-          "title": "| Registro .it"
-        },
-        {
           "url": "http://www.odinwestpac.org/",
           "title": "ODINWESTPAC"
         },
         {
           "url": "https://support.apple.com",
           "title": "Official Apple Support"
+        },
+        {
+          "url": "http://www.nic.it/",
+          "title": "| Registro .it"
         }
       ],
       "count": 3

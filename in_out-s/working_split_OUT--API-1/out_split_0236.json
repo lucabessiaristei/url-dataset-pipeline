@@ -1,11 +1,41 @@
 {
   "folders": [
     {
-      "name": "health-and-medicine",
+      "name": "blogs-personal-sites",
       "bookmarks": [
         {
-          "url": "https://www.abczdravja.si/tag/preventivni-genetski-testi/",
-          "title": "preventivni genetski testi Oznake - Abczdravja"
+          "url": "https://nvoronchikhin.tumblr.com/",
+          "title": "@nvoronchikhin on Tumblr"
+        },
+        {
+          "url": "https://aoutiz123.tumblr.com/",
+          "title": "funlivebreathee"
+        },
+        {
+          "url": "https://katespadeny.tumblr.com/",
+          "title": "kate spade new york"
+        },
+        {
+          "url": "https://mikaylalanemusic.com/",
+          "title": "Mikayla Lane"
+        },
+        {
+          "url": "http://www.ramblingsofadaydreamer.com/2014/05/2014-historic-fiction-reading-challenge.html",
+          "title": "Ramblings of a Daydreamer: 2014 Historic Fiction Reading Challenge - May Review Link-Up"
+        },
+        {
+          "url": "https://elhablador.com/blog/tag/tadeo-palacios/",
+          "title": "Tadeo Palacios - Bitácora de El Hablador"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "health-medicine",
+      "bookmarks": [
+        {
+          "url": "https://ourworldindata.org/grapher/child-mortality",
+          "title": "Child mortality rate - Our World in Data"
         },
         {
           "url": "https://hsc.unm.edu/news/echo/",
@@ -16,8 +46,8 @@
           "title": "Our COVID-19 Response | CVS Health"
         },
         {
-          "url": "https://ourworldindata.org/grapher/child-mortality",
-          "title": "Child mortality rate - Our World in Data"
+          "url": "https://www.abczdravja.si/tag/preventivni-genetski-testi/",
+          "title": "preventivni genetski testi Oznake - Abczdravja"
         },
         {
           "url": "https://unmhealth.org/stories/2021/10/project-echo-supports-educators-during-covid.html",
@@ -31,7 +61,7 @@
       "count": 6
     },
     {
-      "name": "organizations-and-associations",
+      "name": "organizations-associations",
       "bookmarks": [
         {
           "url": "https://anagrafe.iccu.sbn.it/it/ricerca/risultati.html?monocampo=&amp;amp;regione=ABRUZZO&amp;amp;provincia=L'AQUILA&amp;amp;comune=&amp;amp;codice_isil=&amp;amp;ricerca_tipo=home&amp;amp;monocampo:tipo=AND&amp;amp;fl=comune_facet@L'Aquila&amp;amp;fl=fondi_speciali_facet@Fondo%20antico&fl=servizi_facet@Info.%20bibliografiche%20esterne&fl=fondi_speciali_facet@Biblioteca%20Istituto%20omeopatico&start=0",
@@ -61,15 +91,15 @@
       "count": 6
     },
     {
-      "name": "platforms-saas-and-tech",
+      "name": "platforms-saas-tech",
       "bookmarks": [
         {
           "url": "https://support.airtable.com",
           "title": "Airtable Support | Home"
         },
         {
-          "url": "http://catb.org/~esr/gif2png/",
-          "title": "Resource page for gif2png 3.0.3"
+          "url": "https://www.insided.com/powered-by-the-insided-platform?utm_medium=referral&utm_source=community.c2cglobal.com&utm_content=powered-by-widget",
+          "title": "Community referrals - 'Powered by inSided' - inSided"
         },
         {
           "url": "https://es.webpass.net/ingresar",
@@ -80,42 +110,12 @@
           "title": "Dorik - AI Website Building Platform"
         },
         {
-          "url": "https://www.insided.com/powered-by-the-insided-platform?utm_medium=referral&utm_source=community.c2cglobal.com&utm_content=powered-by-widget",
-          "title": "Community referrals - 'Powered by inSided' - inSided"
-        },
-        {
           "url": "https://about.medium.com/creators/",
           "title": "Medium Partner Program"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "blogs-personal-sites",
-      "bookmarks": [
-        {
-          "url": "https://nvoronchikhin.tumblr.com/",
-          "title": "@nvoronchikhin on Tumblr"
         },
         {
-          "url": "https://aoutiz123.tumblr.com/",
-          "title": "funlivebreathee"
-        },
-        {
-          "url": "https://katespadeny.tumblr.com/",
-          "title": "kate spade new york"
-        },
-        {
-          "url": "https://mikaylalanemusic.com/",
-          "title": "Mikayla Lane"
-        },
-        {
-          "url": "http://www.ramblingsofadaydreamer.com/2014/05/2014-historic-fiction-reading-challenge.html",
-          "title": "Ramblings of a Daydreamer: 2014 Historic Fiction Reading Challenge - May Review Link-Up"
-        },
-        {
-          "url": "https://elhablador.com/blog/tag/tadeo-palacios/",
-          "title": "Tadeo Palacios - Bitácora de El Hablador"
+          "url": "http://catb.org/~esr/gif2png/",
+          "title": "Resource page for gif2png 3.0.3"
         }
       ],
       "count": 6
@@ -147,7 +147,7 @@
       "count": 5
     },
     {
-      "name": "reference-docs-and-policies",
+      "name": "reference-docs-policies",
       "bookmarks": [
         {
           "url": "https://donorbox.org/privacy",
@@ -173,113 +173,7 @@
       "count": 5
     },
     {
-      "name": "corporate-business",
-      "bookmarks": [
-        {
-          "url": "https://www.googlecloudpresscorner.com/latest-news",
-          "title": "Latest News"
-        },
-        {
-          "url": "https://dotdashmeredith.mediaroom.com/news-alerts?type=1",
-          "title": "Meredith Corporation MediaRoom - Email Alerts"
-        },
-        {
-          "url": "http://cdn.corporate.walmart.com/33/3f/f11f633c4d54a7888e2ae41a3461/walmart-fragrance-pallet-121014.pdf",
-          "title": "Walmart Corporate News and Information"
-        },
-        {
-          "url": "https://marketplace.walmart.com/?utm_source=Walmart.com&utm_medium=link&utm_campaign=footer",
-          "title": "Walmart Marketplace - Walmart Marketplace"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "media-and-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://hdencode.org/fatal-vows-s05-1080p-hulu-web-dl-aac2-0-h-264-squalor-21-5-gb/",
-          "title": "Fatal.Vows.S05.1080p.HULU.WEB-DL.AAC2.0.H.264-squalor - 21.5 GB"
-        },
-        {
-          "url": "http://www.funshare.mobi/",
-          "title": "Mobile Fun Share - Free Mobile Softwares, Nokia Themes, Sony Ericsson Themes, Wallpapers"
-        },
-        {
-          "url": "https://www.sho.com/",
-          "title": "Paramount+ with Showtime Official Site"
-        },
-        {
-          "url": "https://gethuman.com/issue/Universal-Studios-Hollywood/o54n/I-bought-three-tickets-for-universal-studios-All-the-tickets-are-labeled-with-my-name",
-          "title": "Universal Studios Hollywood Customer Questions, Answers, and How-to Guides"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "organizations-non-profit",
-      "bookmarks": [
-        {
-          "url": "https://avivomn.org/",
-          "title": "Avivo - Helping Minnesotans reach recovery, find housing, and find employment and economic advancement"
-        },
-        {
-          "url": "https://www.industree.org.in/",
-          "title": "Home | Industree Foundation"
-        },
-        {
-          "url": "https://www.hamiltonfamilies.org/newsroom/san-francisco-plans-to-purchase-200-units-to-house-homeless-families",
-          "title": "San Francisco plans to purchase 200 units to house homeless families - Hamilton Families"
-        },
-        {
-          "url": "https://www.ywcanashville.com/",
-          "title": "YWCA Nashville & Middle Tennessee | Domestic Violence Services"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "reports-and-explainers",
-      "bookmarks": [
-        {
-          "url": "https://didgiwidgi.co.uk/htm/art-prints-7.htm",
-          "title": "Artificial Intelligence - An In-Depth Analysis"
-        },
-        {
-          "url": "https://www.nhm.ac.uk/discover/dinosaurs.html",
-          "title": "Dinosaurs | Natural History Museum"
-        },
-        {
-          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/",
-          "title": "Leo Frank Case - New Georgia Encyclopedia"
-        },
-        {
-          "url": "https://advocacy.code.org/stateofcs",
-          "title": "State of Computer Science Education Report | Code.org Advocacy Coalition"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "sports",
-      "bookmarks": [
-        {
-          "url": "https://benwsportblog.wordpress.com/",
-          "title": "Ben's sports blog"
-        },
-        {
-          "url": "https://www.springtrainingonline.com/teams/chicago-cubs.htm",
-          "title": "Chicago Cubs Spring Training - Spring Training Online"
-        },
-        {
-          "url": "https://www.transfermarkt.com/",
-          "title": "Football transfers, rumours, market values and news | Transfermarkt"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "transportation-automotive",
+      "name": "automotive-transportation",
       "bookmarks": [
         {
           "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
@@ -301,7 +195,95 @@
       "count": 4
     },
     {
-      "name": "advocacy-and-politics",
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.googlecloudpresscorner.com/latest-news",
+          "title": "Latest News"
+        },
+        {
+          "url": "https://dotdashmeredith.mediaroom.com/news-alerts?type=1",
+          "title": "Meredith Corporation MediaRoom - Email Alerts"
+        },
+        {
+          "url": "http://cdn.corporate.walmart.com/33/3f/f11f633c4d54a7888e2ae41a3461/walmart-fragrance-pallet-121014.pdf",
+          "title": "Walmart Corporate News and Information"
+        },
+        {
+          "url": "https://marketplace.walmart.com/?utm_source=Walmart.com&utm_medium=link&utm_campaign=footer",
+          "title": "Walmart Marketplace - Walmart Marketplace"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://hdencode.org/fatal-vows-s05-1080p-hulu-web-dl-aac2-0-h-264-squalor-21-5-gb/",
+          "title": "Fatal.Vows.S05.1080p.HULU.WEB-DL.AAC2.0.H.264-squalor - 21.5 GB"
+        },
+        {
+          "url": "http://www.funshare.mobi/",
+          "title": "Mobile Fun Share - Free Mobile Softwares, Nokia Themes, Sony Ericsson Themes, Wallpapers"
+        },
+        {
+          "url": "https://www.sho.com/",
+          "title": "Paramount+ with Showtime Official Site"
+        },
+        {
+          "url": "https://gethuman.com/issue/Universal-Studios-Hollywood/o54n/I-bought-three-tickets-for-universal-studios-All-the-tickets-are-labeled-with-my-name",
+          "title": "Universal Studios Hollywood Customer Questions, Answers, and How-to Guides"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://avivomn.org/",
+          "title": "Avivo - Helping Minnesotans reach recovery, find housing, and find employment and economic advancement"
+        },
+        {
+          "url": "https://www.industree.org.in/",
+          "title": "Home | Industree Foundation"
+        },
+        {
+          "url": "https://www.hamiltonfamilies.org/newsroom/san-francisco-plans-to-purchase-200-units-to-house-homeless-families",
+          "title": "San Francisco plans to purchase 200 units to house homeless families - Hamilton Families"
+        },
+        {
+          "url": "https://www.ywcanashville.com/",
+          "title": "YWCA Nashville & Middle Tennessee | Domestic Violence Services"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "reports-explainers",
+      "bookmarks": [
+        {
+          "url": "https://didgiwidgi.co.uk/htm/art-prints-7.htm",
+          "title": "Artificial Intelligence - An In-Depth Analysis"
+        },
+        {
+          "url": "https://www.nhm.ac.uk/discover/dinosaurs.html",
+          "title": "Dinosaurs | Natural History Museum"
+        },
+        {
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/",
+          "title": "Leo Frank Case - New Georgia Encyclopedia"
+        },
+        {
+          "url": "https://advocacy.code.org/stateofcs",
+          "title": "State of Computer Science Education Report | Code.org Advocacy Coalition"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "advocacy-politics",
       "bookmarks": [
         {
           "url": "https://www.voteannapaulina.com/platform",
@@ -319,7 +301,25 @@
       "count": 3
     },
     {
-      "name": "local-services-and-attractions",
+      "name": "fashion-beauty-products",
+      "bookmarks": [
+        {
+          "url": "https://www.igkhair.com/",
+          "title": "IGK Hair Products | Sprays, Shampoos, Conditioners & More"
+        },
+        {
+          "url": "https://myeldesign.com/products/stein-necklace-with-aquamarine-in-gold",
+          "title": "Stein Necklace in Yellow Gold with Aquamarine | MYEL Design"
+        },
+        {
+          "url": "https://www.sohadiamondco.com/blogs/fashion/when-something-old-becomes-something-new",
+          "title": "When Something Old Becomes Something New - Soha Diamond Co.™"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "local-services-attractions",
       "bookmarks": [
         {
           "url": "http://hosting.tighebond.com/AvonCT_public/index.html",
@@ -337,19 +337,19 @@
       "count": 3
     },
     {
-      "name": "products-fashion-and-beauty",
+      "name": "sports",
       "bookmarks": [
         {
-          "url": "https://www.igkhair.com/",
-          "title": "IGK Hair Products | Sprays, Shampoos, Conditioners & More"
+          "url": "https://benwsportblog.wordpress.com/",
+          "title": "Ben's sports blog"
         },
         {
-          "url": "https://myeldesign.com/products/stein-necklace-with-aquamarine-in-gold",
-          "title": "Stein Necklace in Yellow Gold with Aquamarine | MYEL Design"
+          "url": "https://www.springtrainingonline.com/teams/chicago-cubs.htm",
+          "title": "Chicago Cubs Spring Training - Spring Training Online"
         },
         {
-          "url": "https://www.sohadiamondco.com/blogs/fashion/when-something-old-becomes-something-new",
-          "title": "When Something Old Becomes Something New - Soha Diamond Co.™"
+          "url": "https://www.transfermarkt.com/",
+          "title": "Football transfers, rumours, market values and news | Transfermarkt"
         }
       ],
       "count": 3

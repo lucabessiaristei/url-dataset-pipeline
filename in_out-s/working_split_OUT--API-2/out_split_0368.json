@@ -1,15 +1,15 @@
 {
   "folders": [
     {
-      "name": "non-profits-social",
+      "name": "nonprofit-social",
       "bookmarks": [
-        {
-          "url": "https://podcast.bswa.org/e/ajahn-jhanarato-escape-the-heat-meditate-monday-night-meditation-at-wat-dhammayanaram/",
-          "title": "Ajahn Jhanarato | Escape The Heat, Meditate | Monday Night Meditation at Wat Dhammayanaram | Buddhist Society of Western Australia"
-        },
         {
           "url": "https://optionb.org/about",
           "title": "About OptionB.Org | Building resilience in the face of adversity | Option B"
+        },
+        {
+          "url": "https://podcast.bswa.org/e/ajahn-jhanarato-escape-the-heat-meditate-monday-night-meditation-at-wat-dhammayanaram/",
+          "title": "Ajahn Jhanarato | Escape The Heat, Meditate | Monday Night Meditation at Wat Dhammayanaram | Buddhist Society of Western Australia"
         },
         {
           "url": "https://www.britishasiantrust.org/",
@@ -24,12 +24,12 @@
           "title": "Goats of Anarchy"
         },
         {
-          "url": "https://www.goodwilleasterseals.org/",
-          "title": "Home :: Goodwill Easter Seals"
+          "url": "https://www.aclu-ms.org",
+          "title": "Home - ACLU of Mississippi"
         },
         {
-          "url": "https://www.aclu-ms.org/",
-          "title": "Home - ACLU of Mississippi"
+          "url": "https://www.goodwilleasterseals.org/",
+          "title": "Home :: Goodwill Easter Seals"
         },
         {
           "url": "https://fccfoundation.org/covid19resiliencyfund/",
@@ -49,6 +49,10 @@
     {
       "name": "corporate-sites",
       "bookmarks": [
+        {
+          "url": "https://westernmechanical.net/equipment/service.php?id=9",
+          "title": "200 Ton Hydraulic Crawlers | Western Mechanical"
+        },
         {
           "url": "https://www.valipac.be/",
           "title": "Agir ensemble pour une économie circulaire | Valipac"
@@ -76,10 +80,6 @@
         {
           "url": "https://www.bigcommerce.com/",
           "title": "Shape Your Future On Your Terms | BigCommerce"
-        },
-        {
-          "url": "https://westernmechanical.net/equipment/service.php?id=9",
-          "title": "200 Ton Hydraulic Crawlers | Western Mechanical"
         }
       ],
       "count": 8
@@ -92,7 +92,7 @@
           "title": "Download the Code of Conduct"
         },
         {
-          "url": "https://ftc.gov/",
+          "url": "https://ftc.gov",
           "title": "Federal Trade Commission | Protecting America's Consumers"
         },
         {
@@ -122,12 +122,12 @@
       "name": "misc-general",
       "bookmarks": [
         {
-          "url": "https://vintagestoredisplay.info/2016/11/",
-          "title": "2016 November » Vintage Store Display"
-        },
-        {
           "url": "https://findpenguins.com/8wxdsw933ouz2/footprint/5ed3e39aa465a9-96572734?map=show",
           "title": "2. Station - Bischofswerda, Germany"
+        },
+        {
+          "url": "https://vintagestoredisplay.info/2016/11/",
+          "title": "2016 November » Vintage Store Display"
         },
         {
           "url": "https://greenporntube.info/porn/bondage",
@@ -156,6 +156,10 @@
       "name": "shopping",
       "bookmarks": [
         {
+          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
+          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
+        },
+        {
           "url": "https://www.apple.com/shop/buy-iphone",
           "title": "Buy iPhone - Apple"
         },
@@ -176,10 +180,6 @@
           "title": "Order Online | Havenly"
         },
         {
-          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
-          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
-        },
-        {
           "url": "http://target.com/",
           "title": "Target : Expect More. Pay Less."
         }
@@ -190,11 +190,15 @@
       "name": "tech-documentation",
       "bookmarks": [
         {
+          "url": "https://scikit-learn.org/stable/modules/impute.html",
+          "title": "7.4. Imputation of missing values - scikit-learn 1.7.2 documentation"
+        },
+        {
           "url": "https://www.cisco.com/c/en/us/td/docs/net_mgmt/wae/7-0-1/design/user/guide/WAE_Design_701_User_Guide/wd_701_ug_vpn.html",
           "title": "Cisco WAN Automation Engine (WAE) - Cisco"
         },
         {
-          "url": "https://firefox-source-docs.mozilla.org/devtools-user/",
+          "url": "https://firefox-source-docs.mozilla.org/devtools-user/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=developers",
           "title": "Firefox DevTools User Docs - Firefox Source Docs documentation"
         },
         {
@@ -204,10 +208,6 @@
         {
           "url": "https://flask.palletsprojects.com/en/latest/quickstart/",
           "title": "Quickstart - Flask Documentation (3.2.x)"
-        },
-        {
-          "url": "https://scikit-learn.org/stable/modules/impute.html",
-          "title": "7.4. Imputation of missing values - scikit-learn 1.7.2 documentation"
         },
         {
           "url": "https://developer.apple.com/documentation/swiftui/",
@@ -221,42 +221,8 @@
       "count": 7
     },
     {
-      "name": "education-research",
-      "bookmarks": [
-        {
-          "url": "https://link.springer.com/article/10.1007/s11625-020-00865-z",
-          "title": "Ambitious subsidy reform by the WTO presents opportunities for ocean health restoration | Sustainability Science"
-        },
-        {
-          "url": "https://www.nap.edu/catalog/24926/assessing-and-responding-to-the-growth-of-computer-science-undergraduate-enrollments",
-          "title": "Assessing and Responding to the Growth of Computer Science Undergraduate Enrollments | The National Academies Press"
-        },
-        {
-          "url": "https://nk.unideb.hu/tanterem/week.php?year=2020&month=11&day=6&area=24&room=407",
-          "title": "Egészségtudományi Kar"
-        },
-        {
-          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2020.00165/full",
-          "title": "Frontiers | Global Patterns in Marine Sediment Carbon Stocks"
-        },
-        {
-          "url": "https://goglc.org/and-pdf/525-nursery-and-primary-school-curriculum-in-nigeria-pdf-757-514.php",
-          "title": "Goglc"
-        },
-        {
-          "url": "https://seminarios.impa.br/index",
-          "title": "Log in to Institucional"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "entertainment",
       "bookmarks": [
-        {
-          "url": "https://geni.us/6moffer-p1",
-          "title": "‎Apple Music - lettore web"
-        },
         {
           "url": "https://www.tatler.com/article/hollywood-scion-emma-roberts-is-the-march-cover",
           "title": "Hollywood scion Emma Roberts is the March cover | Tatler"
@@ -276,6 +242,10 @@
         {
           "url": "https://www.silversirens.co.uk/productions/hideout-1956/",
           "title": "The Hideout (1956 film)"
+        },
+        {
+          "url": "https://geni.us/6moffer-p1",
+          "title": "‎Apple Music - lettore web"
         }
       ],
       "count": 6
@@ -367,6 +337,32 @@
       "count": 5
     },
     {
+      "name": "education-research",
+      "bookmarks": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s11625-020-00865-z#citeas",
+          "title": "Ambitious subsidy reform by the WTO presents opportunities for ocean health restoration | Sustainability Science"
+        },
+        {
+          "url": "https://www.nap.edu/catalog/24926/assessing-and-responding-to-the-growth-of-computer-science-undergraduate-enrollments",
+          "title": "Assessing and Responding to the Growth of Computer Science Undergraduate Enrollments | The National Academies Press"
+        },
+        {
+          "url": "https://nk.unideb.hu/tanterem/week.php?year=2020&month=11&day=6&area=24&room=407",
+          "title": "Egészségtudományi Kar"
+        },
+        {
+          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2020.00165/full",
+          "title": "Frontiers | Global Patterns in Marine Sediment Carbon Stocks"
+        },
+        {
+          "url": "https://goglc.org/and-pdf/525-nursery-and-primary-school-curriculum-in-nigeria-pdf-757-514.php",
+          "title": "Goglc"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "finance",
       "bookmarks": [
         {
@@ -393,7 +389,7 @@
       "count": 5
     },
     {
-      "name": "non-profits-career",
+      "name": "nonprofits-career",
       "bookmarks": [
         {
           "url": "https://careersolutionsjobs.org/donate/friends-of-career-solutions/",
@@ -404,11 +400,11 @@
           "title": "Northern Virginia Black Chamber of Commerce | Home"
         },
         {
-          "url": "https://upwardlyglobal.org/jobversity/",
+          "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
           "title": "Online Learning Tools for Immigrant Job Seekers"
         },
         {
-          "url": "https://www.therosienetwork.org/",
+          "url": "https://www.therosienetwork.org",
           "title": "The Rosie Network | Military Business Help"
         },
         {
@@ -467,14 +463,14 @@
       "count": 4
     },
     {
-      "name": "technical-reference",
+      "name": "reference-technical",
       "bookmarks": [
         {
           "url": "https://www.ifixit.com/Guide/iPhone+SE+Battery+Replacement/61385",
           "title": "Back Case - iFixit Repair Guide"
         },
         {
-          "url": "https://mitsubishi.oemdtc.com/",
+          "url": "https://mitsubishi.oemdtc.com",
           "title": "Mitsubishi - OEMDTC"
         },
         {
@@ -489,7 +485,7 @@
       "count": 4
     },
     {
-      "name": "accounts-logins",
+      "name": "account-login",
       "bookmarks": [
         {
           "url": "https://webassessor.com/wa.do?page=createAccount&branding=GOOGLECLOUD",
@@ -514,11 +510,11 @@
           "title": "Het Opzetten van Het Internationale Mefloquine / Tafenoquine Advocatennetwerk Zal Heel Wat Werk Vergen - The Advocate-Equalizer"
         },
         {
-          "url": "https://docs.google.com/document/d/1O_nDqc8M2Do9TZa_fD2L27Agh3TNPI0I75GuJoeB1Fo/edit",
+          "url": "https://docs.google.com/document/d/1O_nDqc8M2Do9TZa_fD2L27Agh3TNPI0I75GuJoeB1Fo/edit#heading=h.icfvvd1ksuu8",
           "title": "Instantly.ai Masterclass - Land in the Inbox Every Single Time With Our Ultimate Cold Email Framework - Documenti Google"
         },
         {
-          "url": "https://dariusforoux.medium.com/the-simple-mental-model-that-changed-my-financial-life-506aae5109fb",
+          "url": "https://dariusforoux.medium.com/the-simple-mental-model-that-changed-my-financial-life-506aae5109fb?source=home---------2---------------------b06feff6_ece0_420b_8118_4bd6e48a7884-------7",
           "title": "The Simple Mental Model That Changed My Financial Life | by Darius Foroux | Medium"
         }
       ],
@@ -532,7 +528,7 @@
           "title": "Barrilete Delta"
         },
         {
-          "url": "http://eaaforums.org/showthread.php?10106-Phase-One-Flight-Test&p=85727",
+          "url": "http://eaaforums.org/showthread.php?10106-Phase-One-Flight-Test&s=6eecf3b57cb156d299d28fb8f41c97ee&p=85727",
           "title": "Phase One Flight Test - Page 2"
         },
         {
@@ -543,6 +539,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 107,
+  "total_bookmarks": 106,
   "num_folders": 19
 }

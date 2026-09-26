@@ -4,16 +4,16 @@
       "name": "dev-resources",
       "bookmarks": [
         {
-          "url": "https://support.airtable.com/docs/contact-us",
-          "title": "Contacting Airtable"
-        },
-        {
           "url": "https://developer.chrome.com/",
           "title": "Chrome for Developers"
         },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview",
           "title": "Client-side tooling overview - Learn web development | MDN"
+        },
+        {
+          "url": "https://support.airtable.com/docs/contact-us",
+          "title": "Contacting Airtable"
         },
         {
           "url": "https://mxtoolbox.com/dkim.aspx",
@@ -32,54 +32,12 @@
           "title": "Machine learning - Latest research and news | Nature"
         },
         {
-          "url": "https://demitasse.co.nz/2011/10/view-composer-and-the-long-time-between-recomposes/",
-          "title": "View Composer and the long time between recomposes | Demitasse"
-        },
-        {
           "url": "https://venividigames.tumblr.com/post/90353269558",
           "title": "VeniVidiGames"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "organizations-corporate",
-      "bookmarks": [
-        {
-          "url": "https://sell.amazon.com/programs/black-business-accelerator",
-          "title": "Amazon selling programs | Sell on Amazon"
         },
         {
-          "url": "http://www.ardmoreroderick.com/",
-          "title": "Ardmore Roderick"
-        },
-        {
-          "url": "https://www.benevity.com/",
-          "title": "Community & Workforce Corporate Purpose Software | Benevity"
-        },
-        {
-          "url": "https://www.cloudera.com/",
-          "title": "Cloudera | The hybrid data company"
-        },
-        {
-          "url": "https://fingersoft.com/",
-          "title": "Fingersoft • Good Games | Great People"
-        },
-        {
-          "url": "https://foursquare.com/",
-          "title": "The Future of Geospatial Technology | Foursquare"
-        },
-        {
-          "url": "https://www.sagese.com/",
-          "title": "Home | Sage ITAD Company | IT Asset Disposition"
-        },
-        {
-          "url": "https://corporate.shipt.com/news",
-          "title": "Shipt - News"
-        },
-        {
-          "url": "https://staff.walgreens.com/",
-          "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+          "url": "https://demitasse.co.nz/2011/10/view-composer-and-the-long-time-between-recomposes/",
+          "title": "View Composer and the long time between recomposes | Demitasse"
         }
       ],
       "count": 9
@@ -96,12 +54,20 @@
           "title": "CS50x 2024"
         },
         {
-          "url": "https://educationblog.microsoft.com/",
-          "title": "Homepage | Microsoft Education Blog"
+          "url": "https://www.nps.gov/subjects/fossils/index.htm",
+          "title": "Fossils and Paleontology (U.S. National Park Service)"
         },
         {
           "url": "https://wiktenauer.com/wiki/Hans_Talhoffer",
           "title": "Hans Talhoffer ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
+        },
+        {
+          "url": "http://studentactivities.mines.edu",
+          "title": "Home - Student Activities"
+        },
+        {
+          "url": "https://educationblog.microsoft.com/",
+          "title": "Homepage | Microsoft Education Blog"
         },
         {
           "url": "https://www.khanacademy.org/computing/computer-programming/html-css",
@@ -112,27 +78,15 @@
           "title": "Prime Factorization - Sonderbooks"
         },
         {
-          "url": "http://studentactivities.mines.edu",
-          "title": "Home - Student Activities"
-        },
-        {
           "url": "https://www.aub.edu.lb/fafs/pages/default.aspx",
           "title": "The Faculty of Agricultural and Food Sciences"
-        },
-        {
-          "url": "https://www.nps.gov/subjects/fossils/index.htm",
-          "title": "Fossils and Paleontology (U.S. National Park Service)"
         }
       ],
       "count": 9
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "http://www.adb.org",
-          "title": "Asian Development Bank"
-        },
         {
           "url": "https://communityfoundations.ca/events/healthycommunities-simple-ways-to-create-vibrant-safe-spaces-or-adapt-public-places-and-programming-during-a-pandemic/",
           "title": "#HealthyCommunities: Simple Ways To Create Vibrant Safe Spaces or Adapt Public Places and Programming During a Pandemic - Community Foundations of Canada"
@@ -140,6 +94,10 @@
         {
           "url": "https://www.deafwest.org/about",
           "title": "About Deaf West Theatre | Transforming Accessibility in the Arts"
+        },
+        {
+          "url": "http://www.adb.org",
+          "title": "Asian Development Bank"
         },
         {
           "url": "https://fundtexaschoice.org/",
@@ -150,16 +108,16 @@
           "title": "Goats of Anarchy"
         },
         {
+          "url": "https://weareultraviolet.org/",
+          "title": "Home - Ultraviolet"
+        },
+        {
           "url": "https://sanctionsexplorer.org/",
           "title": "Sanctions Explorer"
         },
         {
           "url": "https://sdmilitaryfamily.org/stephanie-brown/",
           "title": "Stephanie Brown - SDMFC"
-        },
-        {
-          "url": "https://weareultraviolet.org/",
-          "title": "Home - Ultraviolet"
         },
         {
           "url": "https://www.flickr.com/photos/worldbank",
@@ -169,7 +127,151 @@
       "count": 9
     },
     {
-      "name": "blogs-personal",
+      "name": "organizations-corporate",
+      "bookmarks": [
+        {
+          "url": "https://sell.amazon.com/programs/black-business-accelerator",
+          "title": "Amazon selling programs | Sell on Amazon"
+        },
+        {
+          "url": "http://www.ardmoreroderick.com/",
+          "title": "Ardmore Roderick"
+        },
+        {
+          "url": "https://www.cloudera.com/",
+          "title": "Cloudera | The hybrid data company"
+        },
+        {
+          "url": "https://www.benevity.com/",
+          "title": "Community & Workforce Corporate Purpose Software | Benevity"
+        },
+        {
+          "url": "https://fingersoft.com/",
+          "title": "Fingersoft • Good Games | Great People"
+        },
+        {
+          "url": "https://www.sagese.com/",
+          "title": "Home | Sage ITAD Company | IT Asset Disposition"
+        },
+        {
+          "url": "https://corporate.shipt.com/news",
+          "title": "Shipt - News"
+        },
+        {
+          "url": "https://foursquare.com/",
+          "title": "The Future of Geospatial Technology | Foursquare"
+        },
+        {
+          "url": "https://staff.walgreens.com/",
+          "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "misc-web",
+      "bookmarks": [
+        {
+          "url": "https://smallbusiness.withgoogle.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+          "title": "Before you continue"
+        },
+        {
+          "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
+          "title": "Canada and the world"
+        },
+        {
+          "url": "https://profiles.wordpress.org/mediabahez/",
+          "title": "mediabahez (@mediabahez) - WordPress user profile | WordPress.org"
+        },
+        {
+          "url": "https://helpdesk.strw.leidenuniv.nl/wiki/doku.php?id=new_desktop&tab_files=files&do=media&tab_details=view&image=manuals%3Avdesk_paste.png&ns=strw",
+          "title": "new_desktop [Computer Documentation Wiki]"
+        },
+        {
+          "url": "https://www.pkp.pl/pl/rozklad-jazdy",
+          "title": "Nie znaleziono żądanej strony"
+        },
+        {
+          "url": "http://orcid.org/0000-0002-9646-7806",
+          "title": "ORCID"
+        },
+        {
+          "url": "https://ww7.oemdtc.com/category/recalls",
+          "title": "Recalls | GM - OEMDTC"
+        },
+        {
+          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
+          "title": "Staff Directory | Unitec"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "environment-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://philippines.mongabay.com/",
+          "title": "Conservation and environmental science news - Mongabay"
+        },
+        {
+          "url": "https://www.ted.com/talks/enric_sala_let_s_turn_the_high_seas_into_the_world_s_largest_nature_reserve?rss",
+          "title": "Enric Sala: Let's turn the high seas into the world's largest nature reserve | TED Talk"
+        },
+        {
+          "url": "https://www.visibleearth.nasa.gov/images/89678/fires-threaten-christchurch",
+          "title": "Fires Threaten Christchurch"
+        },
+        {
+          "url": "https://sustainabledevelopment.un.org/sdg14",
+          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
+        },
+        {
+          "url": "https://www.iucnredlist.org/species/19488/2365291",
+          "title": "IUCN Red List of Threatened Species"
+        },
+        {
+          "url": "https://www.roadmaptozero.com/?locale=en",
+          "title": "Roadmap to Zero"
+        },
+        {
+          "url": "https://www.usrsb.org/",
+          "title": "U.S. Roundtable For Sustainable Beef"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
+          "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
+        },
+        {
+          "url": "https://www.wcpo.com/news/local-news/clermont-county/ohio-township/coroner-four-people-dead-in-home-in-ohio-township-near-new-richmond",
+          "title": "4 dead, 1 hospitalized after 'potential murder-suicide' near New Richmond in Ohio Township"
+        },
+        {
+          "url": "https://www.dailynk.com/%EA%B0%95%EB%8F%99%EC%99%84-%EC%B9%BC%EB%9F%BC-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%8A%90-%EB%82%98%EB%9D%BC-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9E%85%EB%8B%88%EA%B9%8C/",
+          "title": "[강동완 칼럼] 당신은 어느 나라 대통령입니까? | DailyNK"
+        },
+        {
+          "url": "https://www.insidehighered.com/news/2022/02/10/how-k-12-book-bans-affect-higher-education",
+          "title": "How K-12 book bans affect higher education"
+        },
+        {
+          "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-juvenile-brings-ar-15-rifle-to-millbrook-high-basketball-game-police-say/",
+          "title": "Raleigh juvenile brought AR-15 rifle to Millbrook High basketball game, police say"
+        },
+        {
+          "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/90329-viva-editions-to-publish-anne-heche-memoir.html",
+          "title": "Viva Editions to Publish Anne Heche Memoir"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://wtfdidyoujust.tumblr.com/",
@@ -199,68 +301,64 @@
       "count": 6
     },
     {
-      "name": "news-articles",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "https://www.dailynk.com/%EA%B0%95%EB%8F%99%EC%99%84-%EC%B9%BC%EB%9F%BC-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%96%B4%EB%8A%90-%EB%82%98%EB%9D%BC-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%9E%85%EB%8B%88%EA%B9%8C/",
-          "title": "[강동완 칼럼] 당신은 어느 나라 대통령입니까? | DailyNK"
+          "url": "https://www.angi.com/",
+          "title": "Angi (formerly Angie's List): Home Service Pros"
         },
         {
-          "url": "https://www.wcpo.com/news/local-news/clermont-county/ohio-township/coroner-four-people-dead-in-home-in-ohio-township-near-new-richmond",
-          "title": "4 dead, 1 hospitalized after 'potential murder-suicide' near New Richmond in Ohio Township"
+          "url": "http://www.cottonseedusa.com/",
+          "title": "Cotton Casual Clothing Men & Women- Resort Wear"
         },
         {
-          "url": "https://www.insidehighered.com/news/2022/02/10/how-k-12-book-bans-affect-higher-education",
-          "title": "How K-12 book bans affect higher education"
+          "url": "http://www.beltsdirect.com/",
+          "title": "Fashion and Pet Accessories - Buckle-Down"
         },
         {
-          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
-          "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
+          "url": "https://www.interessante-geschenke.de/eshop/einzigartige-holzgeschenke/militar-geschenke/us-panzer-abrams-militar-tank-holzspielzeug-geschenke-fur-soldaten-und-kinder/",
+          "title": "HOLZ Militär Panzer Abrams 23 cm | mit Ihrer Gravur"
         },
         {
-          "url": "https://www.cbs17.com/news/local-news/wake-county-news/raleigh-juvenile-brings-ar-15-rifle-to-millbrook-high-basketball-game-police-say/",
-          "title": "Raleigh juvenile brought AR-15 rifle to Millbrook High basketball game, police say"
+          "url": "http://www.shopgoodwill.com",
+          "title": "Online Thrift Store For Unique & Vintage Finds | ShopGoodwill.com"
         },
         {
-          "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/90329-viva-editions-to-publish-anne-heche-memoir.html",
-          "title": "Viva Editions to Publish Anne Heche Memoir"
+          "url": "https://www.freepeople.com/shop/wrangler-ranch-coat/?color=040&type=REGULAR&quantity=1",
+          "title": "Wrangler Ranch Coat | Free People"
         }
       ],
       "count": 6
     },
     {
-      "name": "sustainability-environment",
+      "name": "travel-planning",
       "bookmarks": [
         {
-          "url": "https://www.ted.com/talks/enric_sala_let_s_turn_the_high_seas_into_the_world_s_largest_nature_reserve?rss",
-          "title": "Enric Sala: Let's turn the high seas into the world's largest nature reserve | TED Talk"
+          "url": "https://agavetravelcreative.com/",
+          "title": "Agave Travel Creative | Sicily Travel Specialist"
         },
         {
-          "url": "https://www.visibleearth.nasa.gov/images/89678/fires-threaten-christchurch",
-          "title": "Fires Threaten Christchurch"
+          "url": "https://www.britishairways.com/travel/home/public/en_in/",
+          "title": "British Airways | Book Flights, Holidays, City Breaks & Check In Online"
         },
         {
-          "url": "https://www.iucnredlist.org/species/19488/2365291",
-          "title": "IUCN Red List of Threatened Species"
+          "url": "https://www.berlin.de/tourismus/insidertipps/",
+          "title": "Insider-Tipps - Berlin.de"
         },
         {
-          "url": "https://philippines.mongabay.com/",
-          "title": "Conservation and environmental science news - Mongabay"
+          "url": "https://www.pueblobonito.com/resorts/emerald-bay",
+          "title": "Pueblo Bonito Emerald Bay | Official Site"
         },
         {
-          "url": "https://www.roadmaptozero.com/?locale=en",
-          "title": "Roadmap to Zero"
+          "url": "https://www.trustedtravelgirl.com/",
+          "title": "Trusted Travel Girl | The Original Solo Female Travel Blog"
         },
         {
-          "url": "https://sustainabledevelopment.un.org/sdg14",
-          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
-        },
-        {
-          "url": "https://www.usrsb.org/",
-          "title": "U.S. Roundtable For Sustainable Beef"
+          "url": "https://www.windy.com/",
+          "title": "Windy: Wind map & weather forecast"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
       "name": "design-resources",
@@ -315,104 +413,6 @@
       "count": 5
     },
     {
-      "name": "shopping-ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://www.angi.com/",
-          "title": "Angi (formerly Angie's List): Home Service Pros"
-        },
-        {
-          "url": "http://www.cottonseedusa.com/",
-          "title": "Cotton Casual Clothing Men & Women- Resort Wear"
-        },
-        {
-          "url": "http://www.beltsdirect.com/",
-          "title": "Fashion and Pet Accessories - Buckle-Down"
-        },
-        {
-          "url": "https://www.interessante-geschenke.de/eshop/einzigartige-holzgeschenke/militar-geschenke/us-panzer-abrams-militar-tank-holzspielzeug-geschenke-fur-soldaten-und-kinder/",
-          "title": "HOLZ Militär Panzer Abrams 23 cm | mit Ihrer Gravur"
-        },
-        {
-          "url": "http://www.shopgoodwill.com",
-          "title": "Online Thrift Store For Unique & Vintage Finds | ShopGoodwill.com"
-        },
-        {
-          "url": "https://www.freepeople.com/shop/wrangler-ranch-coat/?color=040&type=REGULAR&quantity=1",
-          "title": "Wrangler Ranch Coat | Free People"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "travel-planning",
-      "bookmarks": [
-        {
-          "url": "https://agavetravelcreative.com/",
-          "title": "Agave Travel Creative | Sicily Travel Specialist"
-        },
-        {
-          "url": "https://www.berlin.de/tourismus/insidertipps/",
-          "title": "Insider-Tipps - Berlin.de"
-        },
-        {
-          "url": "https://www.britishairways.com/travel/home/public/en_in/",
-          "title": "British Airways | Book Flights, Holidays, City Breaks & Check In Online"
-        },
-        {
-          "url": "https://www.pueblobonito.com/resorts/emerald-bay",
-          "title": "Pueblo Bonito Emerald Bay | Official Site"
-        },
-        {
-          "url": "https://www.trustedtravelgirl.com/",
-          "title": "Trusted Travel Girl | The Original Solo Female Travel Blog"
-        },
-        {
-          "url": "https://www.windy.com/",
-          "title": "Windy: Wind map & weather forecast"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "web-misc",
-      "bookmarks": [
-        {
-          "url": "https://smallbusiness.withgoogle.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
-          "title": "Before you continue"
-        },
-        {
-          "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
-          "title": "Canada and the world"
-        },
-        {
-          "url": "https://helpdesk.strw.leidenuniv.nl/wiki/doku.php?id=new_desktop&tab_files=files&do=media&tab_details=view&image=manuals%3Avdesk_paste.png&ns=strw",
-          "title": "new_desktop [Computer Documentation Wiki]"
-        },
-        {
-          "url": "https://www.pkp.pl/pl/rozklad-jazdy",
-          "title": "Nie znaleziono żądanej strony"
-        },
-        {
-          "url": "http://orcid.org/0000-0002-9646-7806",
-          "title": "ORCID"
-        },
-        {
-          "url": "https://ww7.oemdtc.com/category/recalls",
-          "title": "Recalls | GM - OEMDTC"
-        },
-        {
-          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
-          "title": "Staff Directory | Unitec"
-        },
-        {
-          "url": "https://profiles.wordpress.org/mediabahez/",
-          "title": "mediabahez (@mediabahez) - WordPress user profile | WordPress.org"
-        }
-      ],
-      "count": 8
-    },
-    {
       "name": "legal-docs",
       "bookmarks": [
         {
@@ -428,12 +428,12 @@
           "title": "Recenzie a testy produktov"
         },
         {
-          "url": "https://volkraft.com/privacy_policy",
-          "title": "Volkraft"
-        },
-        {
           "url": "https://mcqg7tb-yjgl2414mz73fvhqnjg1.pub.sfmc-content.com/f1hi0yqv3yg",
           "title": "void"
+        },
+        {
+          "url": "https://volkraft.com/privacy_policy",
+          "title": "Volkraft"
         }
       ],
       "count": 5
@@ -442,16 +442,16 @@
       "name": "photography-galleries",
       "bookmarks": [
         {
+          "url": "https://vintagestoredisplay.info/2016/11/",
+          "title": "2016 November » Vintage Store Display"
+        },
+        {
           "url": "https://www.gordonengland.co.uk/pog/index.php?/tags/31-nature/665-anisoptera/669-odonata",
           "title": "Keywords nature + Anisoptera + Odonata | Photography Obsession"
         },
         {
           "url": "https://www.rileygrey.com",
           "title": "Premium Wedding Websites, Registries, RSVPs & More | Riley & Grey"
-        },
-        {
-          "url": "https://vintagestoredisplay.info/2016/11/",
-          "title": "2016 November » Vintage Store Display"
         },
         {
           "url": "https://interactive.guim.co.uk/uploader/embed/2021/11/archive-zip/giv-825UtiOvVJmipSt/",

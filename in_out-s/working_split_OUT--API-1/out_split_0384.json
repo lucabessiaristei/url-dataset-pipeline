@@ -4,6 +4,10 @@
       "name": "tech-tools-product-information",
       "bookmarks": [
         {
+          "url": "https://burst.shopify.com",
+          "title": "20,000+ Free Stock Photos and Royalty-Free Images"
+        },
+        {
           "url": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html",
           "title": "Adobe - Flash Player : Settings Manager - Website Storage Settings panel"
         },
@@ -20,16 +24,12 @@
           "title": "Buy OnePlus 10 Pro 5G - OnePlus (Italia)"
         },
         {
-          "url": "https://chromeenterprise.google/os/upgrade/",
-          "title": "Get Started with a ChromeOS Device Management License - ChromeOS"
-        },
-        {
           "url": "https://www.gmass.co/inbox",
           "title": "Email Deliverability Tester: Inbox, Spam, or Promotions?"
         },
         {
-          "url": "https://burst.shopify.com",
-          "title": "20,000+ Free Stock Photos and Royalty-Free Images"
+          "url": "https://chromeenterprise.google/os/upgrade/",
+          "title": "Get Started with a ChromeOS Device Management License - ChromeOS"
         },
         {
           "url": "https://www.gradientos.app/",
@@ -74,10 +74,6 @@
           "title": "300 Multiple Choices"
         },
         {
-          "url": "https://artsexperiments.withgoogle.com/meroe/",
-          "title": "Pyramids of Meroë"
-        },
-        {
           "url": "https://alexandria.dk/nb/data?con=1295",
           "title": "Borås Spelkonvent 27 (2009) - Alexandria"
         },
@@ -98,6 +94,10 @@
           "title": "Mac Miller Fund | The Pittsburgh Foundation"
         },
         {
+          "url": "https://artsexperiments.withgoogle.com/meroe/",
+          "title": "Pyramids of Meroë"
+        },
+        {
           "url": "https://linktr.ee/summer.residency",
           "title": "Summer Residency | Linktree"
         },
@@ -113,7 +113,7 @@
       "count": 10
     },
     {
-      "name": "current-events-news",
+      "name": "news-current-events",
       "bookmarks": [
         {
           "url": "http://www.cinemaerrante.com/2012/02/08/berlinale-2012-al-via-la-62-edizione-74336/",
@@ -151,8 +151,42 @@
       "count": 8
     },
     {
+      "name": "academic-university-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.coe.uh.edu/dir/coedirectory/faculty_template.cfm?id=908&CFID=974647&CFTOKEN=ea62c124bb0cdc36-FB89575D-BB92-9ABD-3CECEB794CEC1466",
+          "title": "COE Faculty - Allison Master"
+        },
+        {
+          "url": "https://nk.unideb.hu/tanterem/week.php?year=2020&month=11&day=6&area=24&room=407",
+          "title": "Egészségtudományi Kar"
+        },
+        {
+          "url": "http://cs.stanford.edu/people/eroberts/",
+          "title": "Eric Roberts: Home Page"
+        },
+        {
+          "url": "https://learnlatex.org/en/",
+          "title": "Learn LaTeX online for free in beginner friendly lessons | learnlatex.org"
+        },
+        {
+          "url": "http://www.map.psu.edu/",
+          "title": "PSU - University Park"
+        },
+        {
+          "url": "https://hourofcode.com",
+          "title": "Un'ora: Ignite. Ispira. Codice."
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "business-industry-resources",
       "bookmarks": [
+        {
+          "url": "https://blog.hubspot.com/marketing/email-design-templates-and-inspiration",
+          "title": "14 of the Best Examples of Beautiful Email Design"
+        },
         {
           "url": "http://www.gs1us.org/",
           "title": "Barcodes Powered by GS1 Standards | GS1 US"
@@ -172,10 +206,6 @@
         {
           "url": "https://www.7andi.com/en/",
           "title": "Seven & i Holdings Co., Ltd."
-        },
-        {
-          "url": "https://blog.hubspot.com/marketing/email-design-templates-and-inspiration",
-          "title": "14 of the Best Examples of Beautiful Email Design"
         }
       ],
       "count": 6
@@ -233,7 +263,7 @@
       "count": 5
     },
     {
-      "name": "environmental-conservation-sustainability",
+      "name": "environmental-sustainability-conservation",
       "bookmarks": [
         {
           "url": "https://sciencebasedtargets.org/",
@@ -259,45 +289,11 @@
       "count": 5
     },
     {
-      "name": "university-academic-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.coe.uh.edu/dir/coedirectory/faculty_template.cfm?id=908&CFID=974647&CFTOKEN=ea62c124bb0cdc36-FB89575D-BB92-9ABD-3CECEB794CEC1466",
-          "title": "COE Faculty - Allison Master"
-        },
-        {
-          "url": "https://nk.unideb.hu/tanterem/week.php?year=2020&month=11&day=6&area=24&room=407",
-          "title": "Egészségtudományi Kar"
-        },
-        {
-          "url": "http://cs.stanford.edu/people/eroberts/",
-          "title": "Eric Roberts: Home Page"
-        },
-        {
-          "url": "https://hourofcode.com",
-          "title": "Un'ora: Ignite. Ispira. Codice."
-        },
-        {
-          "url": "https://learnlatex.org/en/",
-          "title": "Learn LaTeX online for free in beginner friendly lessons | learnlatex.org"
-        },
-        {
-          "url": "http://www.map.psu.edu/",
-          "title": "PSU - University Park"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "consumer-lifestyle-guides",
+      "name": "lifestyle-consumer-guides",
       "bookmarks": [
         {
           "url": "http://www.pebritech.sk/happy-creek-no-deposit-bonus-signal-the-fall-of-2021/",
           "title": "4Tipy.sk - Štyri tipy pred nákupom - budeš múdrym zákaznikom."
-        },
-        {
-          "url": "https://kookitodesign.com/blog/woreczki-na-przysmaki-dla-psa-wybierz-najlepszy",
-          "title": "Woreczki na przysmaki dla psa - wybierz najlepszy! - Akcesoria dla psów - Sklep dla psów | Kookito Design"
         },
         {
           "url": "https://www.riteaid.com/shop/andalou-1000-roses-soothing-sleeping-mask-1-7-fl-oz",
@@ -306,6 +302,10 @@
         {
           "url": "https://wagcco.my.salesforce-sites.com/pkb2/articles/en_US/Information/Passport-FAQs/?l=en_US&fs=Search&pn=1",
           "title": "Photo Help - Photo Passport FAQs"
+        },
+        {
+          "url": "https://kookitodesign.com/blog/woreczki-na-przysmaki-dla-psa-wybierz-najlepszy",
+          "title": "Woreczki na przysmaki dla psa - wybierz najlepszy! - Akcesoria dla psów - Sklep dla psów | Kookito Design"
         }
       ],
       "count": 4
@@ -406,12 +406,12 @@
           "title": "Quick and Easy Indian Recipes - My Food Story"
         },
         {
-          "url": "https://musclepower.pl/product-pol-16564-SANTE-Crunchy-350g.html",
-          "title": "⚡ Crunchy - 350g - SANTE - Cena, dawkowanie, opinie - sklep MusclePower"
-        },
-        {
           "url": "http://www.directaccessrecipes.com/index.jsp?recId=85918",
           "title": "Searchable Recipe Database - ALBICOCCHE CON CAPRINO E PISTACCHI"
+        },
+        {
+          "url": "https://musclepower.pl/product-pol-16564-SANTE-Crunchy-350g.html",
+          "title": "⚡ Crunchy - 350g - SANTE - Cena, dawkowanie, opinie - sklep MusclePower"
         }
       ],
       "count": 3

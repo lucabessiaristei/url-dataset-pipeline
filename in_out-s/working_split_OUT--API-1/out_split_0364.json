@@ -4,10 +4,6 @@
       "name": "lifestyle-hobbies",
       "bookmarks": [
         {
-          "url": "https://www.adihadean.ro/tag/oua-fierte/",
-          "title": "ouă fierte - Adi Hădean"
-        },
-        {
           "url": "https://www.vam.ac.uk/collections/architecture",
           "title": "Architecture - Explore the Collections · V&A"
         },
@@ -20,10 +16,6 @@
           "title": "Ewart Oakeshott: The Man and his Legacy -- myArmoury.com"
         },
         {
-          "url": "https://www.featureshoot.com",
-          "title": "Travel photography, Fashion photography, Documentary photography, Editorial photography, and Portrait Photographers: Feature Shoot"
-        },
-        {
           "url": "http://mjrichardsphotography.com/tag/family/",
           "title": "family - M J Richards Photography"
         },
@@ -32,12 +24,20 @@
           "title": "Mays Krystallblogg: Tarotkort - Måtehold"
         },
         {
+          "url": "https://www.adihadean.ro/tag/oua-fierte/",
+          "title": "ouă fierte - Adi Hădean"
+        },
+        {
           "url": "https://malpracticer.tumblr.com/",
           "title": "Squiggle Zone"
         },
         {
           "url": "https://www.thepioneerwoman.com/",
           "title": "The Pioneer Woman - Recipes, Country Life and Style, Entertainment"
+        },
+        {
+          "url": "https://www.featureshoot.com",
+          "title": "Travel photography, Fashion photography, Documentary photography, Editorial photography, and Portrait Photographers: Feature Shoot"
         }
       ],
       "count": 9
@@ -45,6 +45,10 @@
     {
       "name": "news-commentary",
       "bookmarks": [
+        {
+          "url": "https://www.wcpo.com/news/local-news/clermont-county/ohio-township/coroner-four-people-dead-in-home-in-ohio-township-near-new-richmond",
+          "title": "4 dead, 1 hospitalized after 'potential murder-suicide' near New Richmond in Ohio Township"
+        },
         {
           "url": "https://www.bisnow.com/atlanta/news/multifamily/apartment-prominence-in-urban-areas-raising-questions-on-whether-they-should-contribute-to-cids-100591",
           "title": "As Atlanta Surges With Apartments, CIDs Push For Them To Pay Their Share"
@@ -76,10 +80,6 @@
         {
           "url": "https://veterans.nbcnews.com/",
           "title": "Veterans | NBC News"
-        },
-        {
-          "url": "https://www.wcpo.com/news/local-news/clermont-county/ohio-township/coroner-four-people-dead-in-home-in-ohio-township-near-new-richmond",
-          "title": "4 dead, 1 hospitalized after 'potential murder-suicide' near New Richmond in Ohio Township"
         }
       ],
       "count": 9
@@ -126,10 +126,6 @@
       "name": "learning-tech",
       "bookmarks": [
         {
-          "url": "https://want-her-midnights.tumblr.com/post/150210507340",
-          "title": "it's lib: Another year of record growth for AP Computer..."
-        },
-        {
           "url": "https://www.tensorflow.org/tutorials/keras/classification",
           "title": "Basic classification: Classify images of clothing | TensorFlow Core"
         },
@@ -150,18 +146,22 @@
           "title": "Finetuning Torchvision Models - PyTorch Tutorials 2.8.0+cu128 documentation"
         },
         {
-          "url": "https://pytorch.org/docs/stable/nn.html",
-          "title": "torch.nn - PyTorch 2.8 documentation"
-        },
-        {
           "url": "https://helloitiskatie-blog.tumblr.com/post/139468112888",
           "title": "Hello, it is Katie - codeorg: What we think of computer science is..."
+        },
+        {
+          "url": "https://want-her-midnights.tumblr.com/post/150210507340",
+          "title": "it's lib: Another year of record growth for AP Computer..."
+        },
+        {
+          "url": "https://pytorch.org/docs/stable/nn.html",
+          "title": "torch.nn - PyTorch 2.8 documentation"
         }
       ],
       "count": 8
     },
     {
-      "name": "corporate-business",
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://about.google/",
@@ -221,7 +221,7 @@
       "count": 6
     },
     {
-      "name": "misc-utilities",
+      "name": "misc-utility",
       "bookmarks": [
         {
           "url": "https://assessment.connectedcouncil.org",
@@ -251,7 +251,7 @@
       "count": 6
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://sciencebasedtargets.org/",

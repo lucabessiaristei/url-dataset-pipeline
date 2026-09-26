@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "corporate-business",
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://newsroom.accenture.com/news/accenture-reports-very-strong-fourth-quarter-and-full-year-fiscal-2022-results.htm",
@@ -32,6 +32,10 @@
           "title": "report on social media Archives - Fronetics"
         },
         {
+          "url": "http://softwareimpact.bsa.org/",
+          "title": "The Economic Impact of Software"
+        },
+        {
           "url": "https://staff.walgreens.com/",
           "title": "Walgreens: Pharmacy, Health & Wellness, Photo & More for You"
         },
@@ -42,10 +46,6 @@
         {
           "url": "https://www.oceng.cz/produkty/zubovy-system-elite-trida/",
           "title": "Zubový systém ELITE třída | Oceng.cz"
-        },
-        {
-          "url": "http://softwareimpact.bsa.org/",
-          "title": "The Economic Impact of Software"
         }
       ],
       "count": 11
@@ -104,6 +104,10 @@
       "name": "news-media",
       "bookmarks": [
         {
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-idol-hbo-next-euphoria-torture-porn-the-weeknd-sam-levinson-lily-rose-depp-blackpink-jennie-1234688754/",
+          "title": "'The Idol': How HBO's Next 'Euphoria' Became Twisted 'Torture Porn'"
+        },
+        {
           "url": "http://www.accesshollywood.com/pharrell-blurred-lines-verdict-based-on-emotion_video_2694337",
           "title": "Access: Entertainment News, Celebrity, TV, Music & Movie Videos | Access"
         },
@@ -134,10 +138,6 @@
         {
           "url": "https://kutv.com/news/local/suspect-alleged-murray-fire-homicide-released-two-days-prior-probation-violation-cubesmart-self-storage-alexander-wardell-criminal-history",
           "title": "Suspect released on bond one day before fatal storage unit fire in Murray"
-        },
-        {
-          "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-idol-hbo-next-euphoria-torture-porn-the-weeknd-sam-levinson-lily-rose-depp-blackpink-jennie-1234688754/",
-          "title": "'The Idol': How HBO's Next 'Euphoria' Became Twisted 'Torture Porn'"
         },
         {
           "url": "https://www.ft.com/world",
@@ -193,49 +193,7 @@
       "count": 10
     },
     {
-      "name": "education-science",
-      "bookmarks": [
-        {
-          "url": "https://www.computerhistory.org/revolution/calculators/1",
-          "title": "Calculators - CHM Revolution"
-        },
-        {
-          "url": "https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/2847/2000%20commencement.pdf?sequence=3",
-          "title": "Commencement Program"
-        },
-        {
-          "url": "http://darkmattertheories.com/",
-          "title": "Introduction to Dark Matter"
-        },
-        {
-          "url": "http://horilab.jp/publications/style/refereed-intl-article/2021/international-trends-in-k-12computer-science-curricula-through-comparative-analysis-implications-for-the-primary-curricula",
-          "title": "International Trends in K-12 Computer Science Curricula Through Comparative Analysis: Implications for the Primary Curricula - メディア教育論ゼミ"
-        },
-        {
-          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
-          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
-        },
-        {
-          "url": "http://www.lasers.org.uk/Courses/msc.htm",
-          "title": "Masters MSc (Eng) Programme | Laser Group at Liverpool"
-        },
-        {
-          "url": "https://htu.edu/academics/colleges/cas/dept-of-natural-sciences-mathematics/sustainability",
-          "title": "Sustainability « Huston-Tillotson"
-        },
-        {
-          "url": "https://earthdata.nasa.gov/learn/backgrounders/what-is-sar",
-          "title": "Synthetic Aperture Radar (SAR) | NASA Earthdata"
-        },
-        {
-          "url": "https://dainosawr.tumblr.com/post/90223285565",
-          "title": "dainosawr - What % of STEM Should Be Computer Science?"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "uncategorized-references",
+      "name": "reference-uncategorized",
       "bookmarks": [
         {
           "url": "http://greeleygis.greeley.opendata.arcgis.com/",
@@ -277,7 +235,49 @@
       "count": 9
     },
     {
-      "name": "gaming-entertainment",
+      "name": "science-education",
+      "bookmarks": [
+        {
+          "url": "https://www.computerhistory.org/revolution/calculators/1",
+          "title": "Calculators - CHM Revolution"
+        },
+        {
+          "url": "https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/2847/2000%20commencement.pdf?sequence=3",
+          "title": "Commencement Program"
+        },
+        {
+          "url": "https://dainosawr.tumblr.com/post/90223285565",
+          "title": "dainosawr - What % of STEM Should Be Computer Science?"
+        },
+        {
+          "url": "http://horilab.jp/publications/style/refereed-intl-article/2021/international-trends-in-k-12computer-science-curricula-through-comparative-analysis-implications-for-the-primary-curricula",
+          "title": "International Trends in K-12 Computer Science Curricula Through Comparative Analysis: Implications for the Primary Curricula - メディア教育論ゼミ"
+        },
+        {
+          "url": "http://darkmattertheories.com/",
+          "title": "Introduction to Dark Matter"
+        },
+        {
+          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
+          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
+        },
+        {
+          "url": "http://www.lasers.org.uk/Courses/msc.htm",
+          "title": "Masters MSc (Eng) Programme | Laser Group at Liverpool"
+        },
+        {
+          "url": "https://htu.edu/academics/colleges/cas/dept-of-natural-sciences-mathematics/sustainability",
+          "title": "Sustainability « Huston-Tillotson"
+        },
+        {
+          "url": "https://earthdata.nasa.gov/learn/backgrounders/what-is-sar",
+          "title": "Synthetic Aperture Radar (SAR) | NASA Earthdata"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "entertainment-gaming",
       "bookmarks": [
         {
           "url": "https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/",
@@ -338,16 +338,16 @@
           "title": "Patagonia Women's Insulated Powder Town Ski/Snowboard Jacket"
         },
         {
+          "url": "https://stripo.email/templates/womens-day-email-template-the-best-for-women-for-jewelry-industry/",
+          "title": "The best for women Email Template by Stripo.email"
+        },
+        {
           "url": "https://www.zola.com",
           "title": "Wedding Planning: Website, Invites, Venues, Registry, & More"
         },
         {
           "url": "https://www.computerknallers.nl/wah7601-euznv1-zyxel-wah7601-draadloze-router-single-band-2-4-ghz-3g-4g-zwart",
           "title": "Zyxel WAH7601 draadloze router Single-band (2.4 GHz) 3G 4G Zwart | WAH7601-EUZNV1"
-        },
-        {
-          "url": "https://stripo.email/templates/womens-day-email-template-the-best-for-women-for-jewelry-industry/",
-          "title": "The best for women Email Template by Stripo.email"
         }
       ],
       "count": 8
@@ -358,6 +358,10 @@
         {
           "url": "https://www.cleardarksky.com/csk/",
           "title": "Clear Sky Chart Homepage"
+        },
+        {
+          "url": "https://docs.python.org/3/library/collections.html",
+          "title": "collections - Container datatypes - Python 3.14.0 documentation"
         },
         {
           "url": "https://googlecloudplatform.github.io/region-picker/",
@@ -378,10 +382,6 @@
         {
           "url": "https://signtime.apple/applecare/us-EN/asl",
           "title": "SignTime"
-        },
-        {
-          "url": "https://docs.python.org/3/library/collections.html",
-          "title": "collections - Container datatypes - Python 3.14.0 documentation"
         }
       ],
       "count": 7
@@ -402,12 +402,12 @@
           "title": "Marketing that Offers Solutions | Holliday Creative Marketing"
         },
         {
-          "url": "https://www.finalsite.com",
-          "title": "School Websites, Communications & Enrollment Platform | Finalsite"
-        },
-        {
           "url": "https://nclud.com/",
           "title": "nclud - A Creative Digital & Branding Agency"
+        },
+        {
+          "url": "https://www.finalsite.com",
+          "title": "School Websites, Communications & Enrollment Platform | Finalsite"
         }
       ],
       "count": 5

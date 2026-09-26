@@ -1,57 +1,15 @@
 {
   "folders": [
     {
-      "name": "tech-services",
-      "bookmarks": [
-        {
-          "url": "https://www.bigcommerce.com/",
-          "title": "Shape Your Future On Your Terms | BigCommerce"
-        },
-        {
-          "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
-          "title": "Login - Clickteam Community Hub"
-        },
-        {
-          "url": "https://earth.google.com/web/",
-          "title": "Google Earth"
-        },
-        {
-          "url": "https://s05.flagcounter.com/more/EY45",
-          "title": "Flag Counter » Overview"
-        },
-        {
-          "url": "https://inner.world/",
-          "title": "Innerworld - virtual mental health groups with guided support and community"
-        },
-        {
-          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
-          "title": "‎YouTube TV on the App Store"
-        },
-        {
-          "url": "https://potion.so/",
-          "title": "Create custom Notion websites in minutes"
-        },
-        {
-          "url": "https://channelstore.roku.com/details/193106",
-          "title": "Roku"
-        },
-        {
-          "url": "https://tinybeans.com/",
-          "title": "Tinybeans-The Photo-Sharing App That Families Love"
-        },
-        {
-          "url": "https://www.weebly.com/",
-          "title": "Free Website Builder: Build a Free Website or Online Store | Weebly"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "government",
       "bookmarks": [
         {
           "url": "http://ogeiee.produce.gob.pe/index.php/shortcode/oee-documentos-publicaciones/boletines-pesca/item/876-2019-diciembre-boletin-del-sector-pesquero",
           "title": "2019 Diciembre: Boletín del Sector Pesquero"
+        },
+        {
+          "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
+          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
         },
         {
           "url": "https://ckan.ogdch-abnahme.clients.liip.ch/en/organization/ec2593fa-d844-4d20-9851-e3c2b24eff89?res_format=TXT&keywords_en=ch-iqi",
@@ -78,10 +36,6 @@
           "title": "National Oceanic and Atmospheric Administration"
         },
         {
-          "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
-          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
-        },
-        {
           "url": "https://ocrportal.hhs.gov/ocr/cp/wizard_cp.jsf",
           "title": "U.S. Department of Health & Human Services - Office for Civil Rights"
         },
@@ -93,11 +47,61 @@
       "count": 10
     },
     {
-      "name": "corporate-business",
+      "name": "tech-services",
+      "bookmarks": [
+        {
+          "url": "https://potion.so/",
+          "title": "Create custom Notion websites in minutes"
+        },
+        {
+          "url": "https://s05.flagcounter.com/more/EY45",
+          "title": "Flag Counter » Overview"
+        },
+        {
+          "url": "https://www.weebly.com/",
+          "title": "Free Website Builder: Build a Free Website or Online Store | Weebly"
+        },
+        {
+          "url": "https://earth.google.com/web/",
+          "title": "Google Earth"
+        },
+        {
+          "url": "https://inner.world/",
+          "title": "Innerworld - virtual mental health groups with guided support and community"
+        },
+        {
+          "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
+          "title": "Login - Clickteam Community Hub"
+        },
+        {
+          "url": "https://channelstore.roku.com/details/193106",
+          "title": "Roku"
+        },
+        {
+          "url": "https://www.bigcommerce.com/",
+          "title": "Shape Your Future On Your Terms | BigCommerce"
+        },
+        {
+          "url": "https://tinybeans.com/",
+          "title": "Tinybeans-The Photo-Sharing App That Families Love"
+        },
+        {
+          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
+          "title": "‎YouTube TV on the App Store"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://apparelimpact.org/apparel-impact-institute-announces-target-corporation-as-a-new-lead-funder-to-the-250m-fashion-climate-fund/",
           "title": "Apparel Impact Institute Announces Target Corporation as a New Lead Funder to the $250M Fashion Climate Fund | Apparel Impact Institute"
+        },
+        {
+          "url": "https://www.galsgt.it/beni-immobili-e-gestione-patrimonio/",
+          "title": "Beni immobili e gestione patrimonio - GAL SGT - Sole Grano Terra"
         },
         {
           "url": "http://www.call2recycle.org/",
@@ -108,24 +112,20 @@
           "title": "Careers | Planet Green Search"
         },
         {
+          "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/67-documenti-riservati-sicurezza/5928-dpi-criteri-di-scelta-quadro-normativo",
+          "title": "DPI Criteri di scelta: Quadro normativo"
+        },
+        {
           "url": "https://www.dsei.co.uk/exhibiting",
           "title": "DSEI UK 2027 - Excel London - 7 - 10 September 2027"
-        },
-        {
-          "url": "https://www.galsgt.it/beni-immobili-e-gestione-patrimonio/",
-          "title": "Beni immobili e gestione patrimonio - GAL SGT - Sole Grano Terra"
-        },
-        {
-          "url": "https://www.nextenergysolarfund.com/",
-          "title": "Home - NextEnergy Solar Fund"
         },
         {
           "url": "https://recipo.se/en/",
           "title": "Frontpage - Recipo SE"
         },
         {
-          "url": "https://www.certifico.com/sicurezza-lavoro/documenti-sicurezza/67-documenti-riservati-sicurezza/5928-dpi-criteri-di-scelta-quadro-normativo",
-          "title": "DPI Criteri di scelta: Quadro normativo"
+          "url": "https://www.nextenergysolarfund.com/",
+          "title": "Home - NextEnergy Solar Fund"
         }
       ],
       "count": 8
@@ -188,6 +188,10 @@
           "title": "Home | National Urban League"
         },
         {
+          "url": "http://www.theworkerslab.com/",
+          "title": "Homepage"
+        },
+        {
           "url": "https://secure.vera.org/a/signup",
           "title": "Join our movement today: - Vera Institute of Justice"
         },
@@ -198,10 +202,6 @@
         {
           "url": "https://www.talentbeyondboundaries.org/?",
           "title": "Talent Beyond Boundaries"
-        },
-        {
-          "url": "http://www.theworkerslab.com/",
-          "title": "Homepage"
         }
       ],
       "count": 8
@@ -275,23 +275,23 @@
       "count": 7
     },
     {
-      "name": "organizations-community",
+      "name": "community-organizations",
       "bookmarks": [
-        {
-          "url": "https://aedamn.org/",
-          "title": "Home | AEDA"
-        },
         {
           "url": "https://lcfgeorgia.org/get-involved/donate/",
           "title": "Donations / Sponsorships - Latino Community Fund Inc."
         },
         {
-          "url": "https://pillsburyunited.org/",
-          "title": "Pillsbury United Communities"
+          "url": "https://aedamn.org/",
+          "title": "Home | AEDA"
         },
         {
           "url": "https://rebuildingtogether-twincities.org/",
           "title": "Homepage - Rebuilding Together Minnesota"
+        },
+        {
+          "url": "https://pillsburyunited.org/",
+          "title": "Pillsbury United Communities"
         },
         {
           "url": "https://www.wsco.org/",
@@ -312,20 +312,20 @@
           "title": "Apple Event - MacTrast"
         },
         {
-          "url": "https://www.blueorigin.com/",
-          "title": "Home | Blue Origin"
-        },
-        {
-          "url": "https://connect.mozilla.org/",
-          "title": "Home - Mozilla Connect"
-        },
-        {
           "url": "https://www.bytedance.com/",
           "title": "ByteDance - Inspire Creativity, Enrich Life"
         },
         {
           "url": "https://fingersoft.com/",
           "title": "Fingersoft • Good Games | Great People"
+        },
+        {
+          "url": "https://connect.mozilla.org/",
+          "title": "Home - Mozilla Connect"
+        },
+        {
+          "url": "https://www.blueorigin.com/",
+          "title": "Home | Blue Origin"
         },
         {
           "url": "https://line.me/en/",
@@ -335,7 +335,7 @@
       "count": 6
     },
     {
-      "name": "blogs-personal",
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "http://www.pebritech.sk/happy-creek-no-deposit-bonus-signal-the-fall-of-2021/",
@@ -359,28 +359,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "shopping-ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://www.gyft.com",
-          "title": "Gyft: Buy, Send & Redeem Gift Cards Online or with Mobile App"
-        },
-        {
-          "url": "https://www.starstijlmeubelen.nl/eetkamertafels/kloostertafel-lexington-lexington-avenue-frans-antiek-eiken/129",
-          "title": "Klassieke eetkamertafels"
-        },
-        {
-          "url": "https://www.zcohosting.cl/sistema/cart.php?language=ukranian",
-          "title": "Кошик - Zcohosting.cl"
-        },
-        {
-          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
-          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "ai-ml",
@@ -466,6 +444,28 @@
         {
           "url": "https://www.livingshores.com/",
           "title": "Visit the Aquarium in New Hampshire | Living Shores Aquarium"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "shopping-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://www.gyft.com",
+          "title": "Gyft: Buy, Send & Redeem Gift Cards Online or with Mobile App"
+        },
+        {
+          "url": "https://www.starstijlmeubelen.nl/eetkamertafels/kloostertafel-lexington-lexington-avenue-frans-antiek-eiken/129",
+          "title": "Klassieke eetkamertafels"
+        },
+        {
+          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
+          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
+        },
+        {
+          "url": "https://www.zcohosting.cl/sistema/cart.php?language=ukranian",
+          "title": "Кошик - Zcohosting.cl"
         }
       ],
       "count": 4

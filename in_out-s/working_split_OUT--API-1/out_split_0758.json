@@ -1,122 +1,6 @@
 {
   "folders": [
     {
-      "name": "dev-resources",
-      "bookmarks": [
-        {
-          "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/",
-          "title": "Assigning Pods to Nodes | Kubernetes"
-        },
-        {
-          "url": "https://go.chronicle.security/secop-community-guidelines",
-          "title": "Cloud Computing Services | Google Cloud"
-        },
-        {
-          "url": "https://www.close.com/pricing",
-          "title": "Close CRM Pricing, Plans, and Reviews"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
-          "title": "CSS grid layout - CSS | MDN"
-        },
-        {
-          "url": "http://www.dvdshrink.org/",
-          "title": "dvdshrink.org: FREE Backup Solution for your DVD movies!"
-        },
-        {
-          "url": "https://www.overleaf.com/learn/latex/Glossaries",
-          "title": "Glossaries - Overleaf, Online LaTeX Editor"
-        },
-        {
-          "url": "http://videojs.com/html5-video-support/",
-          "title": "HTML5 Video Support | Video.js"
-        },
-        {
-          "url": "https://www.mongodb.com/docs/manual/introduction/",
-          "title": "Introduction to MongoDB - Database Manual - MongoDB Docs"
-        },
-        {
-          "url": "https://cdnjs.com/libraries",
-          "title": "Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers"
-        },
-        {
-          "url": "http://www.josuttis.com/tmplbook/",
-          "title": "Nicolai Josuttis: Objektorientiertes Programmieren in C++"
-        },
-        {
-          "url": "https://pngquant.org/",
-          "title": "pngquant - lossy PNG compressor"
-        },
-        {
-          "url": "https://redis.io/docs/latest/develop/data-types/sorted-sets/",
-          "title": "Redis sorted sets | Docs"
-        },
-        {
-          "url": "https://resources.github.com/devops/",
-          "title": "What is DevOps? · GitHub"
-        }
-      ],
-      "count": 13
-    },
-    {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://aabcc.org/home/",
-          "title": "AABCC - Welcome To AABCC"
-        },
-        {
-          "url": "https://blankfoundation.org/",
-          "title": "Arthur M. Blank Family Foundation | Atlanta, Georgia | Home"
-        },
-        {
-          "url": "https://www.ballmergroup.org/",
-          "title": "Ballmer Group - Ballmer Group"
-        },
-        {
-          "url": "https://c4fap.org/",
-          "title": "Center for Fine Art Photography"
-        },
-        {
-          "url": "https://us19.campaign-archive.com/?e=&u=2dca09f67efb6fc090574a83f&id=d5de5ff834",
-          "title": "Clean Water for Sustainable and Healthy Communities during COVID-19"
-        },
-        {
-          "url": "https://girlsinc.org",
-          "title": "Girls Inc. | Inspiring All Girls to be Strong, Smart & Bold"
-        },
-        {
-          "url": "https://prepareandprosper.org/",
-          "title": "Home - Prepare + Prosper"
-        },
-        {
-          "url": "https://www.operationgratitude.com/",
-          "title": "Homepage - Operation Gratitude"
-        },
-        {
-          "url": "https://www.policylink.org/",
-          "title": "PolicyLink | PolicyLink"
-        },
-        {
-          "url": "https://www.talentbeyondboundaries.org/?",
-          "title": "Talent Beyond Boundaries"
-        },
-        {
-          "url": "http://uspaacc.com/",
-          "title": "USPAACC | Largest, Most Established Asian American Business..."
-        },
-        {
-          "url": "https://www.cbd.int/",
-          "title": "Home | Convention on Biological Diversity"
-        },
-        {
-          "url": "https://westbroadway.org/",
-          "title": "West Broadway Business & Area Coalition"
-        }
-      ],
-      "count": 13
-    },
-    {
       "name": "uncategorized",
       "bookmarks": [
         {
@@ -177,6 +61,122 @@
         }
       ],
       "count": 14
+    },
+    {
+      "name": "dev-resources",
+      "bookmarks": [
+        {
+          "url": "https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/",
+          "title": "Assigning Pods to Nodes | Kubernetes"
+        },
+        {
+          "url": "https://www.close.com/pricing",
+          "title": "Close CRM Pricing, Plans, and Reviews"
+        },
+        {
+          "url": "https://go.chronicle.security/secop-community-guidelines",
+          "title": "Cloud Computing Services | Google Cloud"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout",
+          "title": "CSS grid layout - CSS | MDN"
+        },
+        {
+          "url": "http://www.dvdshrink.org/",
+          "title": "dvdshrink.org: FREE Backup Solution for your DVD movies!"
+        },
+        {
+          "url": "https://www.overleaf.com/learn/latex/Glossaries",
+          "title": "Glossaries - Overleaf, Online LaTeX Editor"
+        },
+        {
+          "url": "http://videojs.com/html5-video-support/",
+          "title": "HTML5 Video Support | Video.js"
+        },
+        {
+          "url": "https://www.mongodb.com/docs/manual/introduction/",
+          "title": "Introduction to MongoDB - Database Manual - MongoDB Docs"
+        },
+        {
+          "url": "https://cdnjs.com/libraries",
+          "title": "Libraries - cdnjs - The #1 free and open source CDN built to make life easier for developers"
+        },
+        {
+          "url": "http://www.josuttis.com/tmplbook/",
+          "title": "Nicolai Josuttis: Objektorientiertes Programmieren in C++"
+        },
+        {
+          "url": "https://pngquant.org/",
+          "title": "pngquant - lossy PNG compressor"
+        },
+        {
+          "url": "https://redis.io/docs/latest/develop/data-types/sorted-sets/",
+          "title": "Redis sorted sets | Docs"
+        },
+        {
+          "url": "https://resources.github.com/devops/",
+          "title": "What is DevOps? · GitHub"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://aabcc.org/home/",
+          "title": "AABCC - Welcome To AABCC"
+        },
+        {
+          "url": "https://blankfoundation.org/",
+          "title": "Arthur M. Blank Family Foundation | Atlanta, Georgia | Home"
+        },
+        {
+          "url": "https://www.ballmergroup.org/",
+          "title": "Ballmer Group - Ballmer Group"
+        },
+        {
+          "url": "https://c4fap.org/",
+          "title": "Center for Fine Art Photography"
+        },
+        {
+          "url": "https://us19.campaign-archive.com/?e=&u=2dca09f67efb6fc090574a83f&id=d5de5ff834",
+          "title": "Clean Water for Sustainable and Healthy Communities during COVID-19"
+        },
+        {
+          "url": "https://girlsinc.org",
+          "title": "Girls Inc. | Inspiring All Girls to be Strong, Smart & Bold"
+        },
+        {
+          "url": "https://prepareandprosper.org/",
+          "title": "Home - Prepare + Prosper"
+        },
+        {
+          "url": "https://www.cbd.int/",
+          "title": "Home | Convention on Biological Diversity"
+        },
+        {
+          "url": "https://www.operationgratitude.com/",
+          "title": "Homepage - Operation Gratitude"
+        },
+        {
+          "url": "https://www.policylink.org/",
+          "title": "PolicyLink | PolicyLink"
+        },
+        {
+          "url": "https://www.talentbeyondboundaries.org/?",
+          "title": "Talent Beyond Boundaries"
+        },
+        {
+          "url": "http://uspaacc.com/",
+          "title": "USPAACC | Largest, Most Established Asian American Business..."
+        },
+        {
+          "url": "https://westbroadway.org/",
+          "title": "West Broadway Business & Area Coalition"
+        }
+      ],
+      "count": 13
     },
     {
       "name": "news-media",
@@ -473,28 +473,6 @@
       "count": 5
     },
     {
-      "name": "misc",
-      "bookmarks": [
-        {
-          "url": "http://ghc.anitab.org/",
-          "title": "Grace Hopper Celebration | Nov 4-7, 2025 | AnitaB.org"
-        },
-        {
-          "url": "https://www.questdiagnostics.com/social-media?elqTrackId=ca7dff9e794942668828e4f7c98645dc&elqaid=93&elqat=2",
-          "title": "Social media | Quest Diagnostics"
-        },
-        {
-          "url": "https://tiempo.laopiniondemurcia.es/suecia/lidingo",
-          "title": "Tiempo en Lidingo - La Opinión de Murcia"
-        },
-        {
-          "url": "https://www.urbia.de/forum/6-kids-schule/2047473-wo-schulranzen-kaufen",
-          "title": "Wo Schulranzen kaufen?? | Forum Kids & Schule - urbia.de"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "consumer-info",
       "bookmarks": [
         {
@@ -539,6 +517,28 @@
       "count": 4
     },
     {
+      "name": "misc",
+      "bookmarks": [
+        {
+          "url": "http://ghc.anitab.org/",
+          "title": "Grace Hopper Celebration | Nov 4-7, 2025 | AnitaB.org"
+        },
+        {
+          "url": "https://www.questdiagnostics.com/social-media?elqTrackId=ca7dff9e794942668828e4f7c98645dc&elqaid=93&elqat=2",
+          "title": "Social media | Quest Diagnostics"
+        },
+        {
+          "url": "https://tiempo.laopiniondemurcia.es/suecia/lidingo",
+          "title": "Tiempo en Lidingo - La Opinión de Murcia"
+        },
+        {
+          "url": "https://www.urbia.de/forum/6-kids-schule/2047473-wo-schulranzen-kaufen",
+          "title": "Wo Schulranzen kaufen?? | Forum Kids & Schule - urbia.de"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "tech-services",
       "bookmarks": [
         {
@@ -572,12 +572,12 @@
           "title": "Madagascar: stunning wildlife, landscapes, and cultural diversity"
         },
         {
-          "url": "http://www.okeanostravel.com/",
-          "title": "Turkey Holiday Packages And Turkey Tours | Okeanos Travel Turkey"
-        },
-        {
           "url": "https://www.trip.com/index?locale=en_us&allianceid=21934&SID=455408&ouid=198c18a52c8911eb811b00ce0a18050d",
           "title": "Trip.com Official Site‎‎ | Travel Deals and Promotions"
+        },
+        {
+          "url": "http://www.okeanostravel.com/",
+          "title": "Turkey Holiday Packages And Turkey Tours | Okeanos Travel Turkey"
         }
       ],
       "count": 4

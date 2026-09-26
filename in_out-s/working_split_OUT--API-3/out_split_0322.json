@@ -1,60 +1,18 @@
 {
   "folders": [
     {
-      "name": "entertainment-media-sports",
+      "name": "nonprofit-social-impact",
       "bookmarks": [
         {
-          "url": "https://lwtheatres.co.uk/whats-on/ariana-debose",
-          "title": "Ariana DeBose Tickets - The London Palladium, London - Official Box Office"
-        },
-        {
-          "url": "https://wwd.com/fashion-news/fashion-scoops/balenciaga-crocs-collaboration-photos-1234838519",
-          "title": "Balenciaga and Crocs Collaboration: Photos, Details and More"
-        },
-        {
-          "url": "https://cbs.com",
-          "title": "CBS TV Network Primetime, Daytime, Late Night and Classic Television Shows"
-        },
-        {
-          "url": "https://raiders.com/history/all-time-roster/bios-j/eric-johnson",
-          "title": "Eric Johnson - All-Time Roster - History | Raiders.com"
-        },
-        {
-          "url": "https://muniversepr.com/noticias/este-es-el-septimo-grupo-de-jovenes-seleccionadas-para-miss-universe-puerto-rico-2023",
-          "title": "Este es el séptimo grupo de jóvenes seleccionadas para Miss Universe Puerto Rico 2023 | Miss Universe Puerto Rico"
-        },
-        {
-          "url": "https://si.com/extra-mustard/2021/08/19/joe-buck-field-of-dreams-nfl-jeopardy-james-holzhauer",
-          "title": "Joe Buck on 'Field of Dreams' game, James Holzhauer, NFL season - Sports Illustrated"
-        },
-        {
-          "url": "https://wst.tv/rankings",
-          "title": "Rankings - World Snooker Tour"
-        },
-        {
-          "url": "https://subscriptions.hollywoodreporter.com/site/thr-subscribe",
-          "title": "Subscribe to The Hollywood Reporter"
-        },
-        {
-          "url": "https://abc.go.com/shows/the-view/video/pl55492969/vdka0_va37t1oc",
-          "title": "WATCH: {videotitle} Video | The View"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "non-profit-social-impact",
-      "bookmarks": [
-        {
-          "url": "https://sustainablenaturalrubber.org/about-us",
+          "url": "https://sustainablenaturalrubber.org/about-us/",
           "title": "About GPSNR - Global Platform for Sustainable Natural Rubber"
         },
         {
-          "url": "https://acestoohigh.com",
+          "url": "http://acestoohigh.com",
           "title": "ACEs Too High"
         },
         {
-          "url": "https://donate.mozilla.org",
+          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
           "title": "Donate Now - Mozilla Foundation"
         },
         {
@@ -62,91 +20,103 @@
           "title": "Home"
         },
         {
+          "url": "https://publiccode.eu/",
+          "title": "https://publiccode.eu/en/"
+        },
+        {
           "url": "https://ida.worldbank.org/en/home",
           "title": "International Development Association - World Bank"
         },
         {
-          "url": "https://mulagofoundation.org",
+          "url": "https://mulagofoundation.org/",
           "title": "Mulago Foundation"
         },
         {
-          "url": "https://pandemicrelief.unitedwayla.org",
+          "url": "https://pandemicrelief.unitedwayla.org/",
           "title": "Pandemic Relief Fund | United Way LA"
         },
         {
-          "url": "https://publiccode.eu",
-          "title": "Public Code Initiative"
-        },
-        {
-          "url": "https://anti-biasmontessori.com",
+          "url": "https://www.anti-biasmontessori.com/",
           "title": "Tiffany M. Jewell | author and educator"
         }
       ],
       "count": 9
     },
     {
-      "name": "food-hobbies-lifestyle",
+      "name": "sports-entertainment-media",
       "bookmarks": [
         {
-          "url": "https://90days.georgetown.edu/event/books-cookies-with-mary-giuliani-c97-and-chudney-ross-c97",
+          "url": "https://lwtheatres.co.uk/whats-on/ariana-debose/",
+          "title": "Ariana DeBose Tickets - The London Palladium, London - Official Box Office"
+        },
+        {
+          "url": "https://wwd.com/fashion-news/fashion-scoops/balenciaga-crocs-collaboration-photos-1234838519/",
+          "title": "Balenciaga and Crocs Collaboration: Photos, Details and More"
+        },
+        {
+          "url": "https://www.cbs.com/",
+          "title": "CBS TV Network Primetime, Daytime, Late Night and Classic Television Shows"
+        },
+        {
+          "url": "https://www.raiders.com/history/all-time-roster/bios-j/eric-johnson",
+          "title": "Eric Johnson - All-Time Roster - History | Raiders.com"
+        },
+        {
+          "url": "https://muniversepr.com/noticias/este-es-el-septimo-grupo-de-jovenes-seleccionadas-para-miss-universe-puerto-rico-2023/",
+          "title": "Este es el séptimo grupo de jóvenes seleccionadas para Miss Universe Puerto Rico 2023 | Miss Universe Puerto Rico"
+        },
+        {
+          "url": "https://www.si.com/extra-mustard/2021/08/19/joe-buck-field-of-dreams-nfl-jeopardy-james-holzhauer",
+          "title": "Joe Buck on 'Field of Dreams' game, James Holzhauer, NFL season - Sports Illustrated"
+        },
+        {
+          "url": "https://wst.tv/rankings/",
+          "title": "Rankings - World Snooker Tour"
+        },
+        {
+          "url": "https://subscriptions.hollywoodreporter.com/site/thr-subscribe",
+          "title": "Subscribe to The Hollywood Reporter"
+        },
+        {
+          "url": "http://abc.go.com/shows/the-view/video/pl55492969/vdka0_va37t1oc",
+          "title": "WATCH: {videotitle} Video | The View"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "hobbies-lifestyle-food",
+      "bookmarks": [
+        {
+          "url": "https://90days.georgetown.edu/event/books-cookies-with-mary-giuliani-c97-and-chudney-ross-c97/",
           "title": "Books & Cookies with Mary Giuliani (C'97) and Chudney Ross (C'97) - 90 Days with Georgetown"
         },
         {
-          "url": "https://everything-about-concrete.com/how-to-minimize-having-a-slippery-driveway-in-the-winter.html",
+          "url": "https://www.everything-about-concrete.com/how-to-minimize-having-a-slippery-driveway-in-the-winter.html",
           "title": "How to minimize having a slippery driveway in the winter"
         },
         {
-          "url": "https://mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
+          "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
           "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
         },
         {
-          "url": "https://operationoverkill.com",
+          "url": "http://www.operationoverkill.com/",
           "title": "Operation : Overkill | The Original Wastelands BBS Door Game!"
         },
         {
-          "url": "https://postcrossing.com/user/Juschy",
+          "url": "https://www.postcrossing.com/user/Juschy",
           "title": "Postcrosser Juschy, from Germany"
         },
         {
-          "url": "https://quotesondesign.com",
-          "title": "Quotes on Design"
+          "url": "https://cookingforone341683522.wordpress.com/the-blog/",
+          "title": "The Blog - Cooking for one"
         },
         {
-          "url": "https://cookingforone341683522.wordpress.com/the-blog",
-          "title": "The Blog - Cooking for one"
+          "url": "https://quotesondesign.com/",
+          "title": "void"
         }
       ],
       "count": 7
-    },
-    {
-      "name": "academic-education-resources",
-      "bookmarks": [
-        {
-          "url": "https://trentu.ca/archaeology",
-          "title": "Archaeology - Trent University"
-        },
-        {
-          "url": "https://prnewswire.com/news-releases/horizon-media-study-reveals-americans-prioritize-stem-subjects-over-the-arts-science-is-cool-coding-is-new-literacy-300154137.html",
-          "title": "Horizon Media Study Reveals Americans Prioritize STEM Subjects over the Arts; Science is \"Cool,\" Coding is New Literacy"
-        },
-        {
-          "url": "https://rvk.uni-regensburg.de/rvko_simple/gesamt_register.php?letters=Zucca%2C+Giuseppe",
-          "title": "Register zur Regensburger Verbundklassifikation"
-        },
-        {
-          "url": "https://revista.cinedocumental.com.ar/traducciones-3",
-          "title": "Traducciones | Cine Documental"
-        },
-        {
-          "url": "https://quantum-chemistry-history.com",
-          "title": "Udo Anders : Early Ideas in the History of Quantum Chemistry."
-        },
-        {
-          "url": "https://uniurb.it",
-          "title": "Università degli Studi di Urbino Carlo Bo"
-        }
-      ],
-      "count": 6
     },
     {
       "name": "ai-ml-development-tools",
@@ -156,19 +126,19 @@
           "title": "Android Developers Blog"
         },
         {
-          "url": "https://bugs.firefox-dev.tools",
+          "url": "https://bugs.firefox-dev.tools/",
           "title": "Find DevTools bugs"
         },
         {
-          "url": "https://learntocodewithme.tumblr.com",
+          "url": "https://learntocodewithme.tumblr.com/",
           "title": "Learn to Code With Me"
         },
         {
-          "url": "https://bizmicro.co.kr/inquiry.html",
+          "url": "http://www.bizmicro.co.kr/inquiry.html",
           "title": "Main | Clush"
         },
         {
-          "url": "https://montereycountyopendata.montereyco.opendata.arcgis.com/datasets/a6e876476ea641579db2ba9c3fe9f779_0",
+          "url": "http://montereycountyopendata.montereyco.opendata.arcgis.com/datasets/a6e876476ea641579db2ba9c3fe9f779_0",
           "title": "Places"
         },
         {
@@ -182,28 +152,58 @@
       "name": "business-platforms-products",
       "bookmarks": [
         {
-          "url": "https://alterna.pro",
+          "url": "https://www.alterna.pro/",
           "title": "Inicio | Alterna"
         },
         {
-          "url": "https://mastermachineryllc.com/listings/47965-1300mm-coiltech-complete-servo-feedline-space-saver-new",
+          "url": "https://www.mastermachineryllc.com/listings/47965-1300mm-coiltech-complete-servo-feedline-space-saver-new",
           "title": "New 1300mm CoilTech Complete Servo Feedline - Space Saver (NEW) for..."
         },
         {
-          "url": "https://newsroom.fr.paypal-corp.com",
+          "url": "https://newsroom.fr.paypal-corp.com/",
           "title": "PayPal Newsroom - Accueil Newsroom"
         },
         {
-          "url": "https://workato.com/integrations/quip+senses",
+          "url": "https://www.workato.com/integrations/quip+senses",
           "title": "Quip and Senses integration | Workato"
         },
         {
-          "url": "https://cvent.com/d/9jqbdx",
+          "url": "https://www.cvent.com/d/9jqbdx",
           "title": "Redirect page for inactive events"
         },
         {
-          "url": "https://editorx.com",
+          "url": "https://www.editorx.com/",
           "title": "Wix Studio | The Web Platform Built for Agencies and Enterprises"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "education-academic-resources",
+      "bookmarks": [
+        {
+          "url": "http://www.trentu.ca/archaeology/",
+          "title": "Archaeology - Trent University"
+        },
+        {
+          "url": "http://www.prnewswire.com/news-releases/horizon-media-study-reveals-americans-prioritize-stem-subjects-over-the-arts-science-is-cool-coding-is-new-literacy-300154137.html",
+          "title": "Horizon Media Study Reveals Americans Prioritize STEM Subjects over the Arts; Science is \"Cool,\" Coding is New Literacy"
+        },
+        {
+          "url": "https://rvk.uni-regensburg.de/rvko_simple/gesamt_register.php?letters=Zucca%2C+Giuseppe",
+          "title": "Register zur Regensburger Verbundklassifikation"
+        },
+        {
+          "url": "https://revista.cinedocumental.com.ar/traducciones-3/",
+          "title": "Traducciones | Cine Documental"
+        },
+        {
+          "url": "http://www.quantum-chemistry-history.com/",
+          "title": "Udo Anders : Early Ideas in the History of Quantum Chemistry."
+        },
+        {
+          "url": "http://www.uniurb.it/",
+          "title": "Università degli Studi di Urbino Carlo Bo"
         }
       ],
       "count": 6
@@ -212,19 +212,19 @@
       "name": "consumer-tech-support",
       "bookmarks": [
         {
-          "url": "https://support.mooveagency.com/forum/gdpr-cookie-compliance",
+          "url": "https://support.mooveagency.com/forum/gdpr-cookie-compliance/",
           "title": "GDPR Cookie Compliance - MooveAgency - Support Forum"
         },
         {
-          "url": "https://debian-fr.org/t/pulseaudio-probleme-de-definition-de-la-sortie-son/85541",
+          "url": "https://www.debian-fr.org/t/pulseaudio-probleme-de-definition-de-la-sortie-son/85541",
           "title": "Pulseaudio problème de définition de la sortie son - Support Debian - debian-fr.org"
         },
         {
-          "url": "https://emania.com.br/cartao-de-memoria/cartao-sd/sandisk/16Gb",
+          "url": "https://www.emania.com.br/cartao-de-memoria/cartao-sd/sandisk/16Gb?PS=18&map=c,c,b,specificationFilter_30",
           "title": "Sistema - eMania Foto e Video"
         },
         {
-          "url": "https://sony.com/electronics/support",
+          "url": "https://www.sony.com/electronics/support?cpint=spt-globalheader_supportsite",
           "title": "Support for Sony products | Sony USA"
         },
         {
@@ -235,22 +235,22 @@
       "count": 5
     },
     {
-      "name": "general-news-politics",
+      "name": "news-politics-general",
       "bookmarks": [
         {
-          "url": "https://aclupa.org/en/press-releases/aclu-pa-statement-governor-shapiro-continuing-moratorium-executions",
+          "url": "https://www.aclupa.org/en/press-releases/aclu-pa-statement-governor-shapiro-continuing-moratorium-executions",
           "title": "ACLU-PA Statement on Governor Shapiro Continuing the Moratorium on Executions - ACLU of Pennsylvania"
         },
         {
-          "url": "https://abc7ny.com/escaped-sheep-wayward-slaughterhouse-escape-paterson/12888170",
+          "url": "https://abc7ny.com/escaped-sheep-wayward-slaughterhouse-escape-paterson/12888170/",
           "title": "Escaped sheep getting a new 'fleece' on life after escaping Paterson, New Jersey slaughterhouse - ABC7 New York"
         },
         {
-          "url": "https://theintercept.com/2020/05/06/coronavirus-prison-jail-mass-incarceration",
+          "url": "https://theintercept.com/2020/05/06/coronavirus-prison-jail-mass-incarceration/",
           "title": "Mass Incarceration Poses Uniquely American Coronavirus Risk"
         },
         {
-          "url": "https://motherjones.com/politics/2021/08/rudy-giuliani-broke-trump-fundraising-legal-bills",
+          "url": "https://www.motherjones.com/politics/2021/08/rudy-giuliani-broke-trump-fundraising-legal-bills/",
           "title": "Rudy Giuliani Is Reportedly Close to Broke-and Donald Trump Isn't Taking His Calls - Mother Jones"
         },
         {
@@ -264,29 +264,29 @@
       "name": "travel-tourism-history",
       "bookmarks": [
         {
-          "url": "https://rareoldprints.com/house/Hall%20Barn",
+          "url": "http://www.rareoldprints.com/house/Hall%20Barn",
           "title": "Antique Prints of Hall Barn House"
         },
         {
-          "url": "https://niederoesterreich.at/tipps/dr-karl-renner-museum/ausflugsziele",
+          "url": "https://www.niederoesterreich.at/tipps/dr-karl-renner-museum/ausflugsziele",
           "title": "Ausflugsziele in der Nähe von Dr. Karl Renner Museum"
         },
         {
-          "url": "https://surftrip.com/surf-shop/C-573/C-952/General.html",
-          "title": "Surftrip Surf Shop General"
+          "url": "http://szerep.hu/faultetes/1",
+          "title": "Szerep Község"
         },
         {
-          "url": "https://szerep.hu/faultetes/1",
-          "title": "Szerep Község"
+          "url": "http://www.surftrip.com/surf-shop/C-573/C-952/General.html",
+          "title": "void"
         }
       ],
       "count": 4
     },
     {
-      "name": "privacy-legal-docs",
+      "name": "legal-privacy-docs",
       "bookmarks": [
         {
-          "url": "https://wizardingworld.com/privacy",
+          "url": "https://www.wizardingworld.com/privacy",
           "title": "Harry Potter | Privacy"
         },
         {
@@ -294,7 +294,7 @@
           "title": "Roku"
         },
         {
-          "url": "https://jasonheadley.com/honestmeditation/privacypolicy.html",
+          "url": "http://jasonheadley.com/honestmeditation/privacypolicy.html",
           "title": "Team Headley"
         }
       ],
@@ -304,21 +304,21 @@
       "name": "utilities-services-local",
       "bookmarks": [
         {
-          "url": "https://mountsinai.org",
+          "url": "https://www.mountsinai.org/",
           "title": "Mount Sinai Health System - New York City | Mount Sinai - New York"
         },
         {
-          "url": "https://spectrum.net/SpectrumTVApp",
+          "url": "http://www.Spectrum.net/SpectrumTVApp",
           "title": "Spectrum.net"
         },
         {
-          "url": "https://daswetter.com/wetter_Oisquercq-Europa-Belgien-Wallonisch+Brabant--1-180489.html",
+          "url": "https://www.daswetter.com/wetter_Oisquercq-Europa-Belgien-Wallonisch+Brabant--1-180489.html",
           "title": "Wetter Oisquercq 14 Tage - daswetter.com | Meteored"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 64,
+  "total_bookmarks": 63,
   "num_folders": 11
 }

@@ -1,8 +1,16 @@
 {
   "folders": [
     {
-      "name": "lifestyle-blogs",
+      "name": "blogs-lifestyle",
       "bookmarks": [
+        {
+          "url": "https://mymexicodream.wordpress.com/2014/12/25/",
+          "title": "25 | December | 2014 | Julia's Life In Mexico"
+        },
+        {
+          "url": "https://k1llerk0de.tumblr.com/",
+          "title": "@k1llerk0de on Tumblr"
+        },
         {
           "url": "https://betweennapsontheporch.net/christmas-in-heaven/?replytocom=646275",
           "title": "Christmas in Heaven"
@@ -16,16 +24,8 @@
           "title": "Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness"
         },
         {
-          "url": "https://k1llerk0de.tumblr.com/",
-          "title": "@k1llerk0de on Tumblr"
-        },
-        {
           "url": "https://www.hollandsentinel.com/story/news/columns/2020/05/10/mother-s-day-2020/1218142007/",
           "title": "Mother's Day 2020"
-        },
-        {
-          "url": "https://mymexicodream.wordpress.com/2014/12/25/",
-          "title": "25 | December | 2014 | Julia's Life In Mexico"
         },
         {
           "url": "https://ricetta.buoneforchette.com/celestino.php",
@@ -50,10 +50,6 @@
           "title": "Chart: Globally, 70% of Freshwater is Used for Agriculture"
         },
         {
-          "url": "http://www.greenpak.com.mt",
-          "title": "| GreenPak"
-        },
-        {
           "url": "https://oceana.org/press-releases/new-global-fisheries-transparency-coalition-releases-charter-for-public-comment/",
           "title": "New Coaltion for Fisheries Transparency Releases Charter for Public Comment | Oceana"
         },
@@ -76,6 +72,10 @@
         {
           "url": "https://www.cnn.com/videos/tv/2022/08/02/gavin-mccormick-climate-trace-satellite-hnk-spc-intl.cnn",
           "title": "Using satellites to track emissions | CNN"
+        },
+        {
+          "url": "http://www.greenpak.com.mt",
+          "title": "| GreenPak"
         }
       ],
       "count": 8
@@ -126,10 +126,6 @@
           "title": "About YouTube - YouTube"
         },
         {
-          "url": "https://coschedule.com/",
-          "title": "The Social Media Calendar That Does It All - CoSchedule"
-        },
-        {
           "url": "https://investors.target.com/node/32506/html",
           "title": "Investors | Target Corporation"
         },
@@ -144,6 +140,10 @@
         {
           "url": "https://www.jacksonriver.com/springboard/",
           "title": "Springboard: Fundraising and Advocacy Software | Jackson River"
+        },
+        {
+          "url": "https://coschedule.com/",
+          "title": "The Social Media Calendar That Does It All - CoSchedule"
         }
       ],
       "count": 6
@@ -168,12 +168,12 @@
           "title": "Quill.org | Interactive Writing and Grammar"
         },
         {
-          "url": "http://www.uniurb.it/",
-          "title": "Università degli Studi di Urbino Carlo Bo"
-        },
-        {
           "url": "http://worldslargestlesson.globalgoals.org/",
           "title": "The World's Largest Lesson"
+        },
+        {
+          "url": "http://www.uniurb.it/",
+          "title": "Università degli Studi di Urbino Carlo Bo"
         }
       ],
       "count": 6
@@ -234,12 +234,12 @@
       "name": "organizations-global",
       "bookmarks": [
         {
-          "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3",
-          "title": "ESA - Sentinel-3"
+          "url": "https://www.wadhwaniai.org",
+          "title": "AI for Social Impact - Wadhwani AI | Wadhwani AI is an independent nonprofit institute developing AI-based solutions for underserved communities in developing countries."
         },
         {
-          "url": "https://data.apps.fao.org/",
-          "title": "void"
+          "url": "https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3",
+          "title": "ESA - Sentinel-3"
         },
         {
           "url": "https://www.flickr.com/photos/faonews/albums/",
@@ -250,8 +250,8 @@
           "title": "Treasury"
         },
         {
-          "url": "https://www.wadhwaniai.org",
-          "title": "AI for Social Impact - Wadhwani AI | Wadhwani AI is an independent nonprofit institute developing AI-based solutions for underserved communities in developing countries."
+          "url": "https://data.apps.fao.org/",
+          "title": "void"
         }
       ],
       "count": 5
@@ -312,16 +312,16 @@
           "title": "11 Fall 2025 Fashion Trends to Add to Your Wardrobe Now | Vogue"
         },
         {
+          "url": "https://www.thewarmingstore.com/",
+          "title": "Heated Clothing, Heated Jackets, Heated Gloves, Heated Socks, Heated Vests | TheWarmingStore.com"
+        },
+        {
           "url": "https://ie.linkedin.com/company/primark-stores-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle",
           "title": "Primark | LinkedIn"
         },
         {
           "url": "https://stitchfix.rg35.net/vnG49O?subid3=people",
           "title": "Sign Up For A Personal Stylist | Stitch Fix"
-        },
-        {
-          "url": "https://www.thewarmingstore.com/",
-          "title": "Heated Clothing, Heated Jackets, Heated Gloves, Heated Socks, Heated Vests | TheWarmingStore.com"
         }
       ],
       "count": 4
@@ -415,25 +415,7 @@
       "count": 4
     },
     {
-      "name": "design-web-tools",
-      "bookmarks": [
-        {
-          "url": "https://cssgradient.io/gradient-backgrounds/",
-          "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
-        },
-        {
-          "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
-        },
-        {
-          "url": "https://bpando.org/2016/10/26/branding-park-bench-deli/",
-          "title": "New Branding for Park Bench Deli by Foreign Policy - BP&O"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "forums-community",
+      "name": "community-forums",
       "bookmarks": [
         {
           "url": "https://gixen.com/forum/viewtopic.php?t=9453&view=previous&sid=0d0eb7686a43c9d07743422c116e883c",
@@ -446,6 +428,24 @@
         {
           "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
           "title": "Login - Clickteam Community Hub"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "design-web-tools",
+      "bookmarks": [
+        {
+          "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
+        },
+        {
+          "url": "https://cssgradient.io/gradient-backgrounds/",
+          "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
+        },
+        {
+          "url": "https://bpando.org/2016/10/26/branding-park-bench-deli/",
+          "title": "New Branding for Park Bench Deli by Foreign Policy - BP&O"
         }
       ],
       "count": 3

@@ -38,10 +38,6 @@
       "name": "shopping-products-retail",
       "bookmarks": [
         {
-          "url": "https://www.all-in-pokershop.cz/all-in_pokershop/eshop/11-1-Studiove-vybaveni-fotopotreby/122-2-Studiove-blesky-prislusenstvi",
-          "title": "Studiové blesky"
-        },
-        {
           "url": "https://www.carrefour.ro/",
           "title": "Bine ai venit pe Carrefour.ro | Carrefour Romania"
         },
@@ -52,6 +48,10 @@
         {
           "url": "https://www.vermontcountrystore.com/open-stock-portuguese-cotton-flannel-sheets/product/78139",
           "title": "Open Stock Flannel Bedding | Vermont Country Store"
+        },
+        {
+          "url": "https://www.all-in-pokershop.cz/all-in_pokershop/eshop/11-1-Studiove-vybaveni-fotopotreby/122-2-Studiove-blesky-prislusenstvi",
+          "title": "Studiové blesky"
         },
         {
           "url": "https://www.traeger.com/pellet-grills/timberline",
@@ -95,12 +95,8 @@
       "count": 5
     },
     {
-      "name": "news-policy-current-affairs",
+      "name": "news-current-affairs-policy",
       "bookmarks": [
-        {
-          "url": "https://www.thenewsolutions.org/nevzhe-prypeklo/",
-          "title": "Невже припекло? | Центр нових рішень"
-        },
         {
           "url": "https://r2rconf.com/2019/02/16/r2r-speaker-on-cover-of-nature/",
           "title": "R2R Speaker on Cover of Nature | Researcher to Reader Conference - London - 24-25 February 2026"
@@ -116,24 +112,28 @@
         {
           "url": "https://peacekeeping.un.org/en/promoting-women-peace-and-security",
           "title": "Women, peace and security | United Nations Peacekeeping"
+        },
+        {
+          "url": "https://www.thenewsolutions.org/nevzhe-prypeklo/",
+          "title": "Невже припекло? | Центр нових рішень"
         }
       ],
       "count": 5
     },
     {
-      "name": "social-impact-community",
+      "name": "community-social-impact",
       "bookmarks": [
         {
           "url": "https://www.buyfromablackwoman.org/",
           "title": "Buy From A Black Woman"
         },
         {
-          "url": "https://northsideachievement.org/",
-          "title": "Home | Northside Achievement Zone"
-        },
-        {
           "url": "https://prepareandprosper.org/",
           "title": "Home - Prepare + Prosper"
+        },
+        {
+          "url": "https://northsideachievement.org/",
+          "title": "Home | Northside Achievement Zone"
         },
         {
           "url": "https://www.westbroadway.org/",
@@ -165,33 +165,15 @@
       "count": 4
     },
     {
-      "name": "tech-digital-platforms",
-      "bookmarks": [
-        {
-          "url": "https://brightcove.com",
-          "title": "Brightcove | Leading Video Hosting & Streaming Platform"
-        },
-        {
-          "url": "https://github.com/huggingface/diffusers",
-          "title": "GitHub - huggingface/diffusers: 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
-        },
-        {
-          "url": "https://www.icloud.com",
-          "title": "iCloud"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "travel-booking-destinations",
       "bookmarks": [
         {
-          "url": "https://www.bahn.com/en/offers/regional/regional-day-ticket-bavaria",
-          "title": "Enjoy the perfect day trip with the regional day ticket for Bavaria"
-        },
-        {
           "url": "https://www.booking.com/",
           "title": "Booking.com | Sito ufficiale | I migliori hotel, voli, noleggi auto e alloggi"
+        },
+        {
+          "url": "https://www.bahn.com/en/offers/regional/regional-day-ticket-bavaria",
+          "title": "Enjoy the perfect day trip with the regional day ticket for Bavaria"
         },
         {
           "url": "https://www.skiutah.com/",
@@ -203,24 +185,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "academic-education-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.education-inequalities.org/",
-          "title": "World Inequality Database on Education - Home"
-        },
-        {
-          "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/",
-          "title": "Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare"
-        },
-        {
-          "url": "https://repository.iit.edu/islandora/search?type=edismax&cp=islandora%3Auascstudentlife&islandora_solr_search_navigation=0&f%5B0%5D=-mods_subject_topic_ms%3A%22Tricycles%22&f%5B1%5D=-mods_name_creator_namePart_s%3A%22Anderson%2C%5C%20Robert%22&f%5B2%5D=mods_relatedItem_host_titleInfo_title_s%3A%22Office%5C%20of%5C%20Communications%5C%20and%5C%20Marketing%5C%20photographs%2C%5C%201905%5C-1999%22&f%5B3%5D=-mods_subject_topic_ms%3A%22Students%5C-%5C-Social%5C%20life%5C%20and%5C%20customs%22&f%5B4%5D=mods_subject_topic_ms%3A%22Microscopes%22&f%5B5%5D=mods_subject_topic_ms%3A%22Women%5C%20college%5C%20students%22&f%5B6%5D=mods_accessCondition_useAndReproduction_mlt%3A%22in%5C%20copyright%22&f%5B7%5D=mods_name_corporate_affiliated_department_namePart_s%3A%22Illinois%5C%20Tech%5C%20Libraries%22&f%5B8%5D=-mods_typeOfResource_ms%3A%22Still%5C%20image%22",
-          "title": "Search results | repository.iit"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "blogs-archives-general",
@@ -236,6 +200,24 @@
         {
           "url": "http://blog.kaporcenter.org",
           "title": "The Bridge"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "education-academic-resources",
+      "bookmarks": [
+        {
+          "url": "https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/",
+          "title": "Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare"
+        },
+        {
+          "url": "https://repository.iit.edu/islandora/search?type=edismax&cp=islandora%3Auascstudentlife&islandora_solr_search_navigation=0&f%5B0%5D=-mods_subject_topic_ms%3A%22Tricycles%22&f%5B1%5D=-mods_name_creator_namePart_s%3A%22Anderson%2C%5C%20Robert%22&f%5B2%5D=mods_relatedItem_host_titleInfo_title_s%3A%22Office%5C%20of%5C%20Communications%5C%20and%5C%20Marketing%5C%20photographs%2C%5C%201905%5C-1999%22&f%5B3%5D=-mods_subject_topic_ms%3A%22Students%5C-%5C-Social%5C%20life%5C%20and%5C%20customs%22&f%5B4%5D=mods_subject_topic_ms%3A%22Microscopes%22&f%5B5%5D=mods_subject_topic_ms%3A%22Women%5C%20college%5C%20students%22&f%5B6%5D=mods_accessCondition_useAndReproduction_mlt%3A%22in%5C%20copyright%22&f%5B7%5D=mods_name_corporate_affiliated_department_namePart_s%3A%22Illinois%5C%20Tech%5C%20Libraries%22&f%5B8%5D=-mods_typeOfResource_ms%3A%22Still%5C%20image%22",
+          "title": "Search results | repository.iit"
+        },
+        {
+          "url": "https://www.education-inequalities.org/",
+          "title": "World Inequality Database on Education - Home"
         }
       ],
       "count": 3
@@ -259,12 +241,26 @@
       "count": 3
     },
     {
-      "name": "tech-hardware-reviews",
+      "name": "tech-digital-platforms",
       "bookmarks": [
         {
-          "url": "http://www.accrepairs.com/",
-          "title": "The ACC Repair Guy!"
+          "url": "https://brightcove.com",
+          "title": "Brightcove | Leading Video Hosting & Streaming Platform"
         },
+        {
+          "url": "https://github.com/huggingface/diffusers",
+          "title": "GitHub - huggingface/diffusers: 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch."
+        },
+        {
+          "url": "https://www.icloud.com",
+          "title": "iCloud"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "tech-hardware-reviews",
+      "bookmarks": [
         {
           "url": "https://www.gearjunkies.com/2015/10/aston-microphones-a-uniquely-british-story-of-microphones/",
           "title": "Aston Microphones - A uniquely British story of microphones - Gearjunkies - Music tech news, Reviews, Videos, Synthesizers, Studio, Recording"
@@ -272,6 +268,10 @@
         {
           "url": "https://www.dday.it/redazione/48932/recensione-smartphone-xiaomi-15",
           "title": "Non solo elettrico: le batterie di nuova generazione | DMove.it"
+        },
+        {
+          "url": "http://www.accrepairs.com/",
+          "title": "The ACC Repair Guy!"
         }
       ],
       "count": 3

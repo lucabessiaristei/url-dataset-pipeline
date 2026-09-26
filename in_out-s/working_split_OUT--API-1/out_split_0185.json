@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "media-blogs-news",
+      "name": "news-media-blogs",
       "bookmarks": [
+        {
+          "url": "https://blog.history.in.gov/tag/anti-catholicism/",
+          "title": "anti-Catholicism - The Indiana History Blog"
+        },
         {
           "url": "http://www.bellezzedellatoscana.it/",
           "title": "Bellezze della Toscana"
@@ -10,6 +14,10 @@
         {
           "url": "https://fastdemocracy.com/bill-search/al/2023rs/bills/ALB00014834/",
           "title": "Bill tracking in Alabama - HB 7 (2023rs legislative session) - FastDemocracy"
+        },
+        {
+          "url": "https://whyy.org/articles/philadelphia-employment-programs-gun-violence-prevention/",
+          "title": "Criminal justice groups are offering help in Philly - WHYY"
         },
         {
           "url": "https://cheerstocarla.com/tag/enzo-angiolini/",
@@ -34,10 +42,6 @@
         {
           "url": "https://www.kansascitypbs.org/support/passport/",
           "title": "Kansas City PBS | Passport"
-        },
-        {
-          "url": "https://local2local.nl/blog/transparantie-in-de-ei-keten-zoek-de-kip/",
-          "title": "Transparantie in de ei-keten: zoek de kip! - Local2Local"
         },
         {
           "url": "https://future.techcrunch.com/2021/04/26/tesla-wants-to-make-every-home-a-distributed-power-plant/",
@@ -68,34 +72,22 @@
           "title": "STUDee Above the Rock"
         },
         {
-          "url": "https://blog.history.in.gov/tag/anti-catholicism/",
-          "title": "anti-Catholicism - The Indiana History Blog"
+          "url": "https://local2local.nl/blog/transparantie-in-de-ei-keten-zoek-de-kip/",
+          "title": "Transparantie in de ei-keten: zoek de kip! - Local2Local"
         },
         {
           "url": "https://www.premierleague.com/VAR",
           "title": "Video Assistant Referees Explained | VAR | Premier League"
-        },
-        {
-          "url": "https://whyy.org/articles/philadelphia-employment-programs-gun-violence-prevention/",
-          "title": "Criminal justice groups are offering help in Philly - WHYY"
         }
       ],
       "count": 19
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://disasterphilanthropy.org/disasters/2023-turkey-syria-earthquake/",
           "title": "2023 Turkey-Syria Earthquake - Center for Disaster Philanthropy"
-        },
-        {
-          "url": "https://www.povertyactionlab.org/",
-          "title": "The Abdul Latif Jameel Poverty Action Lab"
-        },
-        {
-          "url": "http://blog.kaporcenter.org",
-          "title": "The Bridge"
         },
         {
           "url": "https://desafiosocial.withgoogle.com/brazil2016",
@@ -136,6 +128,14 @@
         {
           "url": "https://go.missingkids.org/l/808593/2019-12-18/5n4b",
           "title": "Stay in Touch"
+        },
+        {
+          "url": "https://www.povertyactionlab.org/",
+          "title": "The Abdul Latif Jameel Poverty Action Lab"
+        },
+        {
+          "url": "http://blog.kaporcenter.org",
+          "title": "The Bridge"
         },
         {
           "url": "https://www.globenewswire.com/news-release/2019/12/10/1958411/0/en/The-Newman-s-Own-Awards-Celebrate-20-Years-of-Charitable-Giving-with-2019-Grant-Winners-Announcement.html",
@@ -226,12 +226,12 @@
       "name": "tech-platforms-services",
       "bookmarks": [
         {
-          "url": "https://www.appsyoulove.com/support",
-          "title": "Contact 1 - Apps You Love"
-        },
-        {
           "url": "https://cleantogreen.in/#updates-wrapper",
           "title": "Cleantogreen"
+        },
+        {
+          "url": "https://www.appsyoulove.com/support",
+          "title": "Contact 1 - Apps You Love"
         },
         {
           "url": "https://firemarkstudio.video.blog/",
@@ -304,12 +304,12 @@
           "title": "Ein Fehler ist aufgetreten"
         },
         {
-          "url": "http://www.stpaul.gov/",
-          "title": "Home | Saint Paul Minnesota"
-        },
-        {
           "url": "http://www.tesoro.it/",
           "title": "Home Page - Ministero dell'Economia e delle Finanze"
+        },
+        {
+          "url": "http://www.stpaul.gov/",
+          "title": "Home | Saint Paul Minnesota"
         },
         {
           "url": "http://msi.nga.mil/NGAPortal/MSI.portal?_nfpb=true&_pageLabel=msi_portal_page_62&pubCode=0015",
@@ -330,16 +330,12 @@
           "title": "HappyFox | Privacy Policy"
         },
         {
-          "url": "http://outfit7.com/privacy/",
-          "title": "PRIVACY POLICY FOR GAMES"
+          "url": "https://wagcco.my.salesforce-sites.com/pkb2/articles/en_US/Information/Walgreens-photo-center-Return--Refund-Policy/?l=en_US&fs=Search&pn=1",
+          "title": "Photo Help - Walgreens Photo Center Return & Refund Policy"
         },
         {
           "url": "https://www.crunchyroll.com/privacy",
           "title": "PRIVACY AND COOKIES POLICY | Sony Pictures International"
-        },
-        {
-          "url": "https://wagcco.my.salesforce-sites.com/pkb2/articles/en_US/Information/Walgreens-photo-center-Return--Refund-Policy/?l=en_US&fs=Search&pn=1",
-          "title": "Photo Help - Walgreens Photo Center Return & Refund Policy"
         },
         {
           "url": "http://bpmob.com/voicetranslator/privacy/",
@@ -348,12 +344,16 @@
         {
           "url": "https://www.sesameworkshop.org/privacy-policy",
           "title": "Privacy Policy - Sesame Workshop"
+        },
+        {
+          "url": "http://outfit7.com/privacy/",
+          "title": "PRIVACY POLICY FOR GAMES"
         }
       ],
       "count": 6
     },
     {
-      "name": "education-universities",
+      "name": "education-university",
       "bookmarks": [
         {
           "url": "https://csp.ucsc.edu/about/",
@@ -382,7 +382,7 @@
       "name": "companies-corporate",
       "bookmarks": [
         {
-          "url": "https://www.enlightened.com/",
+          "url": "http://www.enlightened.com/",
           "title": "Home - Enlightened"
         },
         {

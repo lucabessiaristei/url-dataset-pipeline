@@ -4,6 +4,10 @@
       "name": "science-environment",
       "bookmarks": [
         {
+          "url": "https://resourcewatch.org/dashboards/coral-reef-dashboards",
+          "title": "Coral Reef Dashboards | Resource Watch"
+        },
+        {
           "url": "https://bnhs.net/events/calendar/?cat1=indoor&event_id1=863",
           "title": "Events Calendar - Basildon Natural History Society"
         },
@@ -14,10 +18,6 @@
         {
           "url": "http://msi.ucsb.edu",
           "title": "Home | UCSB Marine Science Institute"
-        },
-        {
-          "url": "https://resourcewatch.org/dashboards/coral-reef-dashboards",
-          "title": "Coral Reef Dashboards | Resource Watch"
         },
         {
           "url": "https://www.seasketch.org/home.html",
@@ -39,36 +39,6 @@
       "count": 8
     },
     {
-      "name": "business-corporate",
-      "bookmarks": [
-        {
-          "url": "https://relianceretail.com/reliance-smart.html",
-          "title": "Reliance Retail"
-        },
-        {
-          "url": "https://www.megadruck.de/produkte/Geschaeftsdrucksachen/Briefbogen.asp?produktgruppe=51&ver=2&men=5.5.3",
-          "title": "MegaDruck.de Produktions- und Vertriebs GmbH - Onlinedruck einmal anders. Preiswert. Individuell. Persönlich."
-        },
-        {
-          "url": "https://marksoons.nl/category/momentum-podcast/",
-          "title": "Momentum Podcast Archieven - Mark Soons | Auteur | Businesscoach | Investeerder"
-        },
-        {
-          "url": "https://newsroom.ca.paypal-corp.com/",
-          "title": "PayPal Newsroom - Home"
-        },
-        {
-          "url": "http://ureeka.biz",
-          "title": "Start & Grow Your Business with the ZenBusiness Platform"
-        },
-        {
-          "url": "https://walmart.org/who-we-are",
-          "title": "Who We Are"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "tech-companies",
       "bookmarks": [
         {
@@ -88,19 +58,49 @@
           "title": "Microsoft: AI, cloud, produttività, informatica, giochi e app"
         },
         {
-          "url": "https://www.splunk.com/",
-          "title": "Splunk | The Key to Enterprise Resilience"
-        },
-        {
           "url": "https://dynamic-ais.spire.com",
           "title": "Spire : Global Data and Analytics"
         },
         {
           "url": "https://status.spire.com",
           "title": "Spire Maritime a Kpler Company Status"
+        },
+        {
+          "url": "https://www.splunk.com/",
+          "title": "Splunk | The Key to Enterprise Resilience"
         }
       ],
       "count": 7
+    },
+    {
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.megadruck.de/produkte/Geschaeftsdrucksachen/Briefbogen.asp?produktgruppe=51&ver=2&men=5.5.3",
+          "title": "MegaDruck.de Produktions- und Vertriebs GmbH - Onlinedruck einmal anders. Preiswert. Individuell. Persönlich."
+        },
+        {
+          "url": "https://marksoons.nl/category/momentum-podcast/",
+          "title": "Momentum Podcast Archieven - Mark Soons | Auteur | Businesscoach | Investeerder"
+        },
+        {
+          "url": "https://newsroom.ca.paypal-corp.com/",
+          "title": "PayPal Newsroom - Home"
+        },
+        {
+          "url": "https://relianceretail.com/reliance-smart.html",
+          "title": "Reliance Retail"
+        },
+        {
+          "url": "http://ureeka.biz",
+          "title": "Start & Grow Your Business with the ZenBusiness Platform"
+        },
+        {
+          "url": "https://walmart.org/who-we-are",
+          "title": "Who We Are"
+        }
+      ],
+      "count": 6
     },
     {
       "name": "media-general",
@@ -122,12 +122,12 @@
           "title": "Nick Simmons | HuffPost"
         },
         {
-          "url": "https://opocbluepacific.org/twitter/",
-          "title": "Twitter - OPOC"
-        },
-        {
           "url": "https://theguardian.newspapers.com",
           "title": "The past: read all about it."
+        },
+        {
+          "url": "https://opocbluepacific.org/twitter/",
+          "title": "Twitter - OPOC"
         }
       ],
       "count": 6
@@ -136,16 +136,16 @@
       "name": "org-nonprofit",
       "bookmarks": [
         {
-          "url": "https://www.aa.org/",
-          "title": "Have a problem with alcohol? There is a solution. | Alcoholics Anonymous"
-        },
-        {
           "url": "https://www.abrahamhouseofgod.com/",
           "title": "DESOTO ISLAMIC CENTER"
         },
         {
           "url": "https://www.givedirectly.org/",
           "title": "GiveDirectly: Send money to people living in poverty"
+        },
+        {
+          "url": "https://www.aa.org/",
+          "title": "Have a problem with alcohol? There is a solution. | Alcoholics Anonymous"
         },
         {
           "url": "https://www.kvc.org/",
@@ -204,16 +204,16 @@
           "title": "9 Fashion Trends Defining 2025: Capes To Bubble Skirts"
         },
         {
+          "url": "https://www.wgsn.com/en/blog",
+          "title": "Blog | WGSN"
+        },
+        {
           "url": "https://www.gemandpebble.com/product/labradorite-magpie-skull-necklace",
           "title": "Gem and Pebble | Gem and Pebble"
         },
         {
           "url": "https://theshipsstore.com/collections/cruise-shirts/products/uss-independence-cv-62-1993-94-long-sleeve-cruise-shirt-1",
           "title": "US Navy Shirts, Hoodies, Jackets | The Ship's Store"
-        },
-        {
-          "url": "https://www.wgsn.com/en/blog",
-          "title": "Blog | WGSN"
         },
         {
           "url": "https://www.titlenine.com/p/womens-fleece-lined-leggings-crash-striated/270916.html",
@@ -382,16 +382,16 @@
           "title": "Campus Virtual - Universidad del Rosario | campus"
         },
         {
+          "url": "https://wikis.swarthmore.edu/ling073/index.php?title=Wamesa_and_Tongan/Lexical_Selection&diff=prev&oldid=4220",
+          "title": "Difference between revisions of \"Wamesa and Tongan/Lexical Selection\" - LING073"
+        },
+        {
           "url": "https://www.scu.edu/",
           "title": "Home - Santa Clara University"
         },
         {
           "url": "https://alumni.wetherbysenior.co.uk/terms-conditions",
           "title": "Terms | Wetherby Senior School Alumni Network"
-        },
-        {
-          "url": "https://wikis.swarthmore.edu/ling073/index.php?title=Wamesa_and_Tongan/Lexical_Selection&diff=prev&oldid=4220",
-          "title": "Difference between revisions of \"Wamesa and Tongan/Lexical Selection\" - LING073"
         }
       ],
       "count": 4
@@ -404,12 +404,12 @@
           "title": "Danish butter cookies - amy bakes in the 'burgh"
         },
         {
-          "url": "https://www.dbricette.it/contatti.htm",
-          "title": "DBRicette: Contatti"
-        },
-        {
           "url": "https://www.eatthistown.ca/dartmouth-pizza-quest-woodsideeastern-passage/",
           "title": "Dartmouth Pizza Quest: Woodside/Eastern Passage - Eat This Town"
+        },
+        {
+          "url": "https://www.dbricette.it/contatti.htm",
+          "title": "DBRicette: Contatti"
         },
         {
           "url": "https://ecanarensis.com/category/gluten-free-2/desserts/",
@@ -422,20 +422,20 @@
       "name": "legal-privacy-policy",
       "bookmarks": [
         {
-          "url": "https://docs.appsyoulove.com/policies/privacy-policy/",
-          "title": "Privacy Policy · AppsYouLove Terms & Policies"
-        },
-        {
           "url": "https://roundingsquares.com/privacy/",
           "title": "Privacy - Rounding Squares"
         },
         {
-          "url": "https://uit.stanford.edu/security/copyright-infringement",
-          "title": "Report Alleged Copyright Infringement | University IT"
-        },
-        {
           "url": "https://www.tribpub.com/privacy-policy/#notice_opt_out#nt=secondarynavbar",
           "title": "PRIVACY POLICY - Tribune Publishing"
+        },
+        {
+          "url": "https://docs.appsyoulove.com/policies/privacy-policy/",
+          "title": "Privacy Policy · AppsYouLove Terms & Policies"
+        },
+        {
+          "url": "https://uit.stanford.edu/security/copyright-infringement",
+          "title": "Report Alleged Copyright Infringement | University IT"
         }
       ],
       "count": 4
@@ -443,6 +443,10 @@
     {
       "name": "news-general",
       "bookmarks": [
+        {
+          "url": "https://www.yahoo.com/entertainment/bp/cellmates-star-tom-sizemore-acting-sober-fatherhood-second-211501471.html",
+          "title": "'Cellmates' star Tom Sizemore on acting sober, fatherhood, and second chances"
+        },
         {
           "url": "https://www.pressherald.com/2023/02/27/missing-topsham-women-had-run-out-of-gas-survived-temps-of-15-degrees/",
           "title": "Before rescue, missing Midcoast women were stuck in car for days in sub-zero temps"
@@ -454,10 +458,6 @@
         {
           "url": "https://www.vice.com/en/article/m7gmga/japan-investigate-mysterious-sphere-beach",
           "title": "Japanese Officials Investigate Mysterious Sphere That Washed Up on Beach"
-        },
-        {
-          "url": "https://www.yahoo.com/entertainment/bp/cellmates-star-tom-sizemore-acting-sober-fatherhood-second-211501471.html",
-          "title": "'Cellmates' star Tom Sizemore on acting sober, fatherhood, and second chances"
         }
       ],
       "count": 4
@@ -496,23 +496,19 @@
           "title": "Nontoxic and sheer, moisturizing lip color. | Luxury Lip Tint - Intrigue - Henné Organics"
         },
         {
-          "url": "https://www.spacenk.com/us/bath-body/body-moisturiser-oils/body-oil/stretch-mark-oil-MUK200020396.html",
-          "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
-        },
-        {
           "url": "https://www.colorescience.com/products/brush-on-shield",
           "title": "Sunforgettable® Total Protection® Brush-On Shield | Colorescience"
+        },
+        {
+          "url": "https://www.spacenk.com/us/bath-body/body-moisturiser-oils/body-oil/stretch-mark-oil-MUK200020396.html",
+          "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
         }
       ],
       "count": 4
     },
     {
-      "name": "tech-privacy-security",
+      "name": "tech-security-privacy",
       "bookmarks": [
-        {
-          "url": "https://allaboutdnt.com/",
-          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
-        },
         {
           "url": "https://operations.osmfoundation.org/policies/api/",
           "title": "API Usage policy"
@@ -524,6 +520,10 @@
         {
           "url": "https://cloudsecurityalliance.org/star/registry/github-inc/",
           "title": "STAR Registry | CSA"
+        },
+        {
+          "url": "https://allaboutdnt.com/",
+          "title": "Thank you for visiting AllaboutDNT.com - Future of Privacy Forum"
         }
       ],
       "count": 4
@@ -583,25 +583,7 @@
       "count": 3
     },
     {
-      "name": "tech-news",
-      "bookmarks": [
-        {
-          "url": "https://techcrunch.com/category/artificial-intelligence/",
-          "title": "AI News & Artificial Intelligence | TechCrunch"
-        },
-        {
-          "url": "https://powerplatform.microsoft.com/en-us/",
-          "title": "AI-Powered Low-Code Tools | Microsoft Power Platform"
-        },
-        {
-          "url": "https://www.tchabitat.org/",
-          "title": "Home | Twin Cities Habitat For Humanity"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "org-foundations",
+      "name": "org-foundation",
       "bookmarks": [
         {
           "url": "https://www.houstonendowment.org/programs/",
@@ -622,16 +604,34 @@
       "name": "organizations-general",
       "bookmarks": [
         {
-          "url": "http://www.camcom.it/",
-          "title": "Sistema Camerale | Unioncamere"
+          "url": "https://www.valipac.be/",
+          "title": "Agir ensemble pour une économie circulaire | Valipac"
         },
         {
           "url": "https://www.cbd.int/",
           "title": "Home | Convention on Biological Diversity"
         },
         {
-          "url": "https://www.valipac.be/",
-          "title": "Agir ensemble pour une économie circulaire | Valipac"
+          "url": "http://www.camcom.it/",
+          "title": "Sistema Camerale | Unioncamere"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "tech-news",
+      "bookmarks": [
+        {
+          "url": "https://techcrunch.com/category/artificial-intelligence/",
+          "title": "AI News & Artificial Intelligence | TechCrunch"
+        },
+        {
+          "url": "https://powerplatform.microsoft.com/en-us/",
+          "title": "AI-Powered Low-Code Tools | Microsoft Power Platform"
+        },
+        {
+          "url": "https://www.tchabitat.org/",
+          "title": "Home | Twin Cities Habitat For Humanity"
         }
       ],
       "count": 3

@@ -69,58 +69,6 @@
       "count": 6
     },
     {
-      "name": "government-public-policy",
-      "bookmarks": [
-        {
-          "url": "http://www.ecs.org",
-          "title": "Education Commission of the States - Your Education Policy Team"
-        },
-        {
-          "url": "https://daten.berlin.de/",
-          "title": "Home | Berlin Open Data"
-        },
-        {
-          "url": "https://developmentfinance.un.org/",
-          "title": "Home | Financing for Sustainable Development Office"
-        },
-        {
-          "url": "https://www.sfchronicle.com/politics/article/dianne-feinstein-senate-17079487.php",
-          "title": "Is Dianne Feinstein mentally unfit to serve? Top senators, colleagues cite recent interactions"
-        },
-        {
-          "url": "http://www.dfo-mpo.gc.ca/media/rss-eng.htm",
-          "title": "Stay connected"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "media-entertainment-hobbies",
-      "bookmarks": [
-        {
-          "url": "https://youtube.com/about/",
-          "title": "About YouTube - YouTube"
-        },
-        {
-          "url": "https://myducksong.tumblr.com/",
-          "title": "got any grapes?"
-        },
-        {
-          "url": "https://blog.youtube/",
-          "title": "Official YouTube Blog for Latest YouTube News & Insights"
-        },
-        {
-          "url": "https://modelshipworld.com/",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://tv.youtube.com/",
-          "title": "YouTube TV - Watch & DVR Live Sports, Shows & News"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "ecommerce-retail-brands",
       "bookmarks": [
         {
@@ -147,6 +95,58 @@
       "count": 5
     },
     {
+      "name": "entertainment-media-hobbies",
+      "bookmarks": [
+        {
+          "url": "https://youtube.com/about/",
+          "title": "About YouTube - YouTube"
+        },
+        {
+          "url": "https://myducksong.tumblr.com/",
+          "title": "got any grapes?"
+        },
+        {
+          "url": "https://blog.youtube/",
+          "title": "Official YouTube Blog for Latest YouTube News & Insights"
+        },
+        {
+          "url": "https://modelshipworld.com/",
+          "title": "You are being redirected..."
+        },
+        {
+          "url": "https://tv.youtube.com/",
+          "title": "YouTube TV - Watch & DVR Live Sports, Shows & News"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "government-public-policy",
+      "bookmarks": [
+        {
+          "url": "http://www.ecs.org",
+          "title": "Education Commission of the States - Your Education Policy Team"
+        },
+        {
+          "url": "https://daten.berlin.de/",
+          "title": "Home | Berlin Open Data"
+        },
+        {
+          "url": "https://developmentfinance.un.org/",
+          "title": "Home | Financing for Sustainable Development Office"
+        },
+        {
+          "url": "https://www.sfchronicle.com/politics/article/dianne-feinstein-senate-17079487.php",
+          "title": "Is Dianne Feinstein mentally unfit to serve? Top senators, colleagues cite recent interactions"
+        },
+        {
+          "url": "http://www.dfo-mpo.gc.ca/media/rss-eng.htm",
+          "title": "Stay connected"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "health-wellness-food",
       "bookmarks": [
         {
@@ -154,12 +154,12 @@
           "title": "30 dinners for when you don't know what to cook | Good Food"
         },
         {
-          "url": "https://www.serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
-          "title": "COVID-19: More Testing to be Done in Canada"
-        },
-        {
           "url": "https://socialyme.com/tag/courgettes/",
           "title": "courgettes Archives - SociaLyme"
+        },
+        {
+          "url": "https://www.serenavet2016.com/post/covid-19-more-testing-to-be-done-in-canada",
+          "title": "COVID-19: More Testing to be Done in Canada"
         },
         {
           "url": "https://unitedwaysem.org/covid-19-help/",
@@ -257,20 +257,6 @@
       "count": 3
     },
     {
-      "name": "religion-philosophy-study",
-      "bookmarks": [
-        {
-          "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
-          "title": "MikraotGedolot - AlHaTorah.org"
-        },
-        {
-          "url": "https://www.myjewishlearning.com/article/messianic-judaism/",
-          "title": "Who Are Messianic \"Jews\"? | My Jewish Learning"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "urban-environmental-initiatives",
       "bookmarks": [
         {
@@ -287,6 +273,20 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "religion-philosophy-study",
+      "bookmarks": [
+        {
+          "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
+          "title": "MikraotGedolot - AlHaTorah.org"
+        },
+        {
+          "url": "https://www.myjewishlearning.com/article/messianic-judaism/",
+          "title": "Who Are Messianic \"Jews\"? | My Jewish Learning"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 54,

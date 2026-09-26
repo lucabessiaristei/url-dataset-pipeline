@@ -1,49 +1,19 @@
 {
   "folders": [
     {
-      "name": "lifestyle-travel-and-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.editionsfavre.com/livres/jai-ose/",
-          "title": "J'ai osé - Éditions Favre"
-        },
-        {
-          "url": "http://grill22.dk/",
-          "title": "Grill 22"
-        },
-        {
-          "url": "https://www.solzyatthemovies.com/2021/04/16/interview-with-william-daniels-and-bonnie-bartlett/",
-          "title": "Interview with William Daniels and Bonnie Bartlett - Solzy at the Movies"
-        },
-        {
-          "url": "https://www.dpp.cz/en/timetables",
-          "title": "Timetables | Prague Public Transit Company, joint-stock company"
-        },
-        {
-          "url": "https://www.ryanair.com/gb/en/useful-info/help-centre/faq-overview/baggage",
-          "title": "Book cheap flights using Fare Finder | Ryanair"
-        },
-        {
-          "url": "https://www.cosmossbykatemoss.com/product/dawn-tea/",
-          "title": "Cosmoss by Kate Moss"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "business-and-finance",
+      "name": "business-finance",
       "bookmarks": [
         {
           "url": "https://fleet.7-eleven.com/?utm_source=7-eleven.com&utm_medium=referral&utm_campaign=fleet_2021",
           "title": "7-Eleven Fleet - Fueling your fleet for the road ahead"
         },
         {
-          "url": "https://www.citizensbank.com/disclosures/msstores.aspx",
-          "title": "Microsoft Stores | Citizens"
-        },
-        {
           "url": "https://www.greendot.com/greendot/privacy-policy-bank?issuingBank=gdb",
           "title": "Account Agreements"
+        },
+        {
+          "url": "https://www.citizensbank.com/disclosures/msstores.aspx",
+          "title": "Microsoft Stores | Citizens"
         },
         {
           "url": "https://newsroom.fr.paypal-corp.com/accueil-newsroom",
@@ -61,38 +31,38 @@
       "count": 6
     },
     {
-      "name": "company-and-brands",
+      "name": "lifestyle-travel-entertainment",
       "bookmarks": [
         {
-          "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Uruguay | Autos Deportivos, Eléctricos y Más"
+          "url": "https://www.ryanair.com/gb/en/useful-info/help-centre/faq-overview/baggage",
+          "title": "Book cheap flights using Fare Finder | Ryanair"
         },
         {
-          "url": "http://www.canale5.com/",
-          "title": "Canale 5: video, puntate, programmi tv | Mediaset Infinity"
+          "url": "https://www.cosmossbykatemoss.com/product/dawn-tea/",
+          "title": "Cosmoss by Kate Moss"
         },
         {
-          "url": "https://www.gopenske.com/",
-          "title": "Penske Truck Leasing, Logistics, Truck Rental, Used Trucks Sales"
+          "url": "http://grill22.dk/",
+          "title": "Grill 22"
         },
         {
-          "url": "http://www.landbell.de",
-          "title": "Rücknahmesysteme & Verpackungslizenz in Deutschland"
+          "url": "https://www.solzyatthemovies.com/2021/04/16/interview-with-william-daniels-and-bonnie-bartlett/",
+          "title": "Interview with William Daniels and Bonnie Bartlett - Solzy at the Movies"
         },
         {
-          "url": "http://news.microsoft.com/facts-about-microsoft/",
-          "title": "Facts About Microsoft - Stories"
+          "url": "https://www.editionsfavre.com/livres/jai-ose/",
+          "title": "J'ai osé - Éditions Favre"
+        },
+        {
+          "url": "https://www.dpp.cz/en/timetables",
+          "title": "Timetables | Prague Public Transit Company, joint-stock company"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
       "name": "nonprofit-social-environmental",
       "bookmarks": [
-        {
-          "url": "https://www.weeecyprus.com.cy/el",
-          "title": "Αρχική - WEEE Cyprus"
-        },
         {
           "url": "http://www.heforshe.org/",
           "title": "Home Page | HeForShe"
@@ -112,28 +82,58 @@
         {
           "url": "https://www.ywcampls.org/",
           "title": "YWCA Minneapolis | Eliminating Racism | Empowering Women"
+        },
+        {
+          "url": "https://www.weeecyprus.com.cy/el",
+          "title": "Αρχική - WEEE Cyprus"
         }
       ],
       "count": 6
     },
     {
-      "name": "data-research-and-reports",
+      "name": "companies-brands",
       "bookmarks": [
         {
-          "url": "https://riuma.uma.es/xmlui/handle/10630/13422/browse?rpp=20&etal=-1&sort_by=-1&type=centro&starts_with=S&order=ASC",
-          "title": "Listar Publicaciones por centro"
+          "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Uruguay | Autos Deportivos, Eléctricos y Más"
+        },
+        {
+          "url": "http://www.canale5.com/",
+          "title": "Canale 5: video, puntate, programmi tv | Mediaset Infinity"
+        },
+        {
+          "url": "http://news.microsoft.com/facts-about-microsoft/",
+          "title": "Facts About Microsoft - Stories"
+        },
+        {
+          "url": "https://www.gopenske.com/",
+          "title": "Penske Truck Leasing, Logistics, Truck Rental, Used Trucks Sales"
+        },
+        {
+          "url": "http://www.landbell.de",
+          "title": "Rücknahmesysteme & Verpackungslizenz in Deutschland"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "data-research-reports",
+      "bookmarks": [
+        {
+          "url": "https://gis.citrusbocc.com/data-downloads.html",
+          "title": "Citrus County Geographic Information Systems (GIS) - Test Template"
         },
         {
           "url": "https://peru.oceana.org/es/blog/las-exportaciones-pesqueras-en-el-2019",
           "title": "Informe | Las exportaciones pesqueras en el 2019 - Oceana Peru"
         },
         {
-          "url": "https://www.flickr.com/photos/faonews/albums/",
-          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
+          "url": "https://riuma.uma.es/xmlui/handle/10630/13422/browse?rpp=20&etal=-1&sort_by=-1&type=centro&starts_with=S&order=ASC",
+          "title": "Listar Publicaciones por centro"
         },
         {
-          "url": "https://gis.citrusbocc.com/data-downloads.html",
-          "title": "Citrus County Geographic Information Systems (GIS) - Test Template"
+          "url": "https://www.flickr.com/photos/faonews/albums/",
+          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
         },
         {
           "url": "https://drselinalin.com/projects_category/theme/",
@@ -143,7 +143,7 @@
       "count": 5
     },
     {
-      "name": "tech-education-and-startups",
+      "name": "tech-education-startups",
       "bookmarks": [
         {
           "url": "https://www.oreilly.com/library/view/97-things-every/9781492076728/",
@@ -154,22 +154,22 @@
           "title": "CS50x 2024"
         },
         {
-          "url": "https://www.kaporcenter.org/the-computer-science-teacher-landscape-results-of-a-nationwide-teacher-survey",
-          "title": "The Computer Science Teacher Landscape: Results of a Nationwide Teacher Survey - Kapor Center"
-        },
-        {
           "url": "https://campus.co/global/startup-school/",
           "title": "Discover the Google for Startups Campus network - Google for Startups"
         },
         {
           "url": "https://techdevguide.withgoogle.com/",
           "title": "Resources - Google Careers"
+        },
+        {
+          "url": "https://www.kaporcenter.org/the-computer-science-teacher-landscape-results-of-a-nationwide-teacher-survey",
+          "title": "The Computer Science Teacher Landscape: Results of a Nationwide Teacher Survey - Kapor Center"
         }
       ],
       "count": 5
     },
     {
-      "name": "tech-design-and-support",
+      "name": "tech-design-support",
       "bookmarks": [
         {
           "url": "https://c9dec711a.app-ads-txt.com/",
@@ -191,7 +191,7 @@
       "count": 4
     },
     {
-      "name": "personal-blogs-and-profiles",
+      "name": "personal-blogs-profiles",
       "bookmarks": [
         {
           "url": "https://captainsnugglefuck.tumblr.com/",

@@ -1,239 +1,105 @@
 {
   "folders": [
     {
-      "name": "news-media",
+      "name": "news-current-events-media",
       "bookmarks": [
+        {
+          "url": "https://patch.com/new-jersey/middletown-nj/mean-girls-movie-musical-filming-middletown-march-april",
+          "title": "'Mean Girls' Movie Musical Filming In Middletown In March And April | Middletown, NJ Patch"
+        },
+        {
+          "url": "http://digitaledition.chicagotribune.com#nt=secondarynavbar",
+          "title": "Chicago Tribune"
+        },
         {
           "url": "https://www.csmonitor.com/",
           "title": "Christian Science Monitor - CSMonitor.com"
-        },
-        {
-          "url": "https://www.ctvnews.ca/",
-          "title": "CTV News - Breaking News and Video, Canada News Today"
         },
         {
           "url": "https://www.completesports.com/",
           "title": "Complete Sports Nigeria Latest Sports News And Updates"
         },
         {
-          "url": "http://digitaledition.chicagotribune.com",
-          "title": "Chicago Tribune"
-        },
-        {
-          "url": "https://krcrtv.com/north-coast-news/eureka-local-news/woman-dies-in-a-single-car-collision-in-arcata",
-          "title": "Woman dies in a single-car collision in Arcata"
-        },
-        {
-          "url": "https://www.teleamazonas.com/los-nominados-en-los-globos-de-oro-2020/",
-          "title": "Los nominados en los Globos de Oro 2020"
-        },
-        {
-          "url": "https://patch.com/new-jersey/middletown-nj/mean-girls-movie-musical-filming-middletown-march-april",
-          "title": "'Mean Girls' Movie Musical Filming In Middletown In March And April | Middletown, NJ Patch"
-        },
-        {
-          "url": "https://www.military.com/veteran-jobs/goodwill-industries-has-answer-new-survey-found-job-seekers-still-lack-critical-skills.html",
-          "title": "Goodwill Industries Has an Answer to New Survey That Found Job Seekers Still Lack Critical Skills | Military.com"
-        },
-        {
-          "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
-          "title": "Latest World & National News & Headlines - USATODAY.com"
+          "url": "https://www.ctvnews.ca/",
+          "title": "CTV News - Breaking News and Video, Canada News Today"
         },
         {
           "url": "https://www.euronews.com/travel",
           "title": "Euronews Travel | Change how you see the world"
         },
         {
+          "url": "https://www.expo2020dubai.com/en",
+          "title": "Expo 2020 Dubai | Home | Connecting Minds, Creating the Future | Expo 2020 Dubai"
+        },
+        {
+          "url": "https://www.world.rugby/sevens-series",
+          "title": "HSBC SVNS Series | Official Website"
+        },
+        {
+          "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
+          "title": "Latest World & National News & Headlines - USATODAY.com"
+        },
+        {
           "url": "https://www.lefigaro.fr/flash-actu",
           "title": "Le Figaro - Le Flash Actu"
+        },
+        {
+          "url": "https://www.teleamazonas.com/los-nominados-en-los-globos-de-oro-2020/",
+          "title": "Los nominados en los Globos de Oro 2020"
         },
         {
           "url": "https://theaircurrent.com/",
           "title": "The Air Current"
         },
         {
-          "url": "https://mastodon.green/@mongabay",
-          "title": "Mongabay (@mongabay@mastodon.green) - Mastodon.green"
-        },
-        {
           "url": "https://sbcountyda.org/2023/02/28/two-brothers-convicted-of-murdering-groom-on-wedding-day/",
           "title": "Two Brothers Convicted of Murdering Groom on Wedding Day - San Bernardino County District Attorney"
+        },
+        {
+          "url": "https://krcrtv.com/north-coast-news/eureka-local-news/woman-dies-in-a-single-car-collision-in-arcata",
+          "title": "Woman dies in a single-car collision in Arcata"
         }
       ],
       "count": 14
     },
     {
-      "name": "ai-ml-courses",
+      "name": "shopping-consumer-products",
       "bookmarks": [
         {
-          "url": "https://course.fast.ai/",
-          "title": "Practical Deep Learning for Coders - Practical Deep Learning"
+          "url": "https://www.backcountry.com/helly-hansen-powderqueen-bib-pant-womens",
+          "title": "Backcountry is not available"
         },
         {
-          "url": "https://www.coursera.org/learn/machine-learning",
-          "title": "Supervised Machine Learning: Regression and Classification | Coursera"
-        },
-        {
-          "url": "https://www.coursera.org/learn/algorithms-part2",
-          "title": "Algorithms, Part II | Coursera"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "government-data",
-      "bookmarks": [
-        {
-          "url": "http://data.nevcounty.opendata.arcgis.com/",
-          "title": "ArcGIS Hub"
-        },
-        {
-          "url": "https://www.govdata.de/dl-de/by-2-0",
-          "title": "DL-DE->BY-2.0 - GovData"
-        },
-        {
-          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
-          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
-        },
-        {
-          "url": "http://wod.iode.org",
-          "title": "void"
-        },
-        {
-          "url": "https://mpa-guide.protectedplanet.net/",
-          "title": "The MPA Guide"
-        },
-        {
-          "url": "https://cordis.europa.eu/project/rcn/204036/results/en",
-          "title": "Making a yeast-based candidate vaccine against Porcine Epidemic Diarrhea Virus (PEDV) | PIGYVAX | Project | Results | H2020 | CORDIS | European Commission"
-        },
-        {
-          "url": "https://www.seasketch.org/home.html",
-          "title": "SeaSketch"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "nonprofit-community",
-      "bookmarks": [
-        {
-          "url": "https://www.angelfood.org/",
-          "title": "Homepage | Project Angel Food"
-        },
-        {
-          "url": "http://www.nexuscp.org/",
-          "title": "Nexus Community Partners"
-        },
-        {
-          "url": "https://nalcab.org/",
-          "title": "NALCAB"
-        },
-        {
-          "url": "https://getset-tc.org/",
-          "title": "GetSet Transylvania"
-        },
-        {
-          "url": "http://www.qualcomm.com/company/wireless-reach",
-          "title": "Qualcomm Wireless Reach | How Technology Helps Underserved Communities"
-        },
-        {
-          "url": "https://girlup.org/",
-          "title": "Girl Up | Uniting Girls to Change the World"
-        },
-        {
-          "url": "https://www.lachamberfoundation.org/",
-          "title": "Home - Louisiana Chamber of Commerce Foundation, Inc"
-        },
-        {
-          "url": "https://apparelimpact.org/",
-          "title": "Apparel Impact Institute | Home"
-        },
-        {
-          "url": "https://give.feedingamerica.org/a/donate",
-          "title": "Donate Today to End Hunger in America | Feeding America"
-        },
-        {
-          "url": "https://nopriceonjustice.org/fines-fees-and-the-criminalization-of-mental-health-crisis/",
-          "title": "Fines, Fees and the Criminalization of Mental Health Crises - No Price on Justice"
-        },
-        {
-          "url": "http://Rescue-EU.org",
-          "title": "International Rescue Committee | International Rescue Committee (IRC)"
-        }
-      ],
-      "count": 11
-    },
-    {
-      "name": "tools-developer",
-      "bookmarks": [
-        {
-          "url": "https://leonardocolor.io/#",
-          "title": "Leonardo"
-        },
-        {
-          "url": "https://appsource.microsoft.com/",
-          "title": "Find the right app | Microsoft AppSource"
-        },
-        {
-          "url": "https://ca.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Extensió del WordPress | WordPress.org Català"
-        },
-        {
-          "url": "https://jsonlint.com/",
-          "title": "JSON Online Validator and Formatter - JSON Lint"
-        },
-        {
-          "url": "https://developer.paypal.com/braintree/docs",
-          "title": "Braintree Docs"
-        },
-        {
-          "url": "https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "Common Voice"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "education-learning",
-      "bookmarks": [
-        {
-          "url": "https://www.che.nl/opleidingen-aanbod?amp%3Bf%5B1%5D=type%3AMaster&amp%3Bf%5B2%5D=type%3APost-HBO&amp%3Bf%5B3%5D=type%3APost-hbo&amp%3Bf%5B4%5D=vakgebied%3AEducatie&f%5B0%5D=type%3AModule&f%5B1%5D=type%3APost-hbo&f%5B2%5D=vorm%3ADeeltijd",
-          "title": "CHE | Studeren doe je in Ede | Opleidingen"
-        },
-        {
-          "url": "https://www.speedsolving.com/wiki/index.php/CFOP_method",
-          "title": "CFOP method - Speedsolving.com Wiki"
-        },
-        {
-          "url": "https://stiintasitehnica.com/interviu/",
-          "title": "Interviurile S&T - Știință & Tehnică"
-        },
-        {
-          "url": "https://www.intellum.com",
-          "title": "AI Enterprise Learning | Intellum"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "shopping-retail",
-      "bookmarks": [
-        {
-          "url": "https://www.gmtpost.com/post/new-gucci-dive-watches",
-          "title": "New Gucci Dive Watches"
-        },
-        {
-          "url": "https://www.nainasingla.com/",
-          "title": "Naina Singla - Fashion Stylist and Style Expert. Virtual Capsule Styling for Women"
+          "url": "https://butcherbox.pxf.io/c/3408212/1578351/16419?subid3=people",
+          "title": "ButcherBox | Meat Delivery Subscription | ButcherBox"
         },
         {
           "url": "https://www.leevalley.com/en-ca/discover/woodworking/finishing",
           "title": "Finishing Supplies - Lee Valley Tools"
         },
         {
-          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
-          "title": "void"
+          "url": "https://www.dir-shop.cz/obchod-2-4-",
+          "title": "I. stupně Apeks | DIR-SHOP diving systems"
+        },
+        {
+          "url": "https://www.gmtpost.com/post/new-gucci-dive-watches",
+          "title": "New Gucci Dive Watches"
+        },
+        {
+          "url": "https://www.riteaid.com/shop/andalou-1000-roses-soothing-sleeping-mask-1-7-fl-oz",
+          "title": "Online Pharmacy and Store | Rite Aid"
+        },
+        {
+          "url": "https://shop.perfumersapprentice.com/t-PerfumersCorner.aspx",
+          "title": "PerfumersCorner"
+        },
+        {
+          "url": "https://business.gyft.com/gift-card-catalog/",
+          "title": "Radware Bot Manager Captcha"
+        },
+        {
+          "url": "https://oemdtc.com/category/recalls",
+          "title": "Recall - Unknown Manufacturer"
         },
         {
           "url": "https://www.batbike.se/product-category/reservdelar/?filter_bc=cargobike,ecoride&query_type_bc=or&filter_bk=400wh&query_type_bk=or",
@@ -244,100 +110,102 @@
           "title": "Samuel's Sweet Shop - Candy, Chocolate & Coffee in Rhinebeck, NY"
         },
         {
-          "url": "https://butcherbox.pxf.io/c/3408212/1578351/16419?subid3=people",
-          "title": "ButcherBox | Meat Delivery Subscription | Butcherbox"
-        },
-        {
-          "url": "https://www.backcountry.com/helly-hansen-powderqueen-bib-pant-womens",
-          "title": "Backcountry is not available"
-        },
-        {
-          "url": "https://www.fariyas.com/resort-in-lonavala/",
-          "title": "Fariyas Resort, Lonavala. Hotel, Restaurant & Wedding Venue"
+          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
+          "title": "void"
         }
       ],
-      "count": 9
+      "count": 12
     },
     {
-      "name": "entertainment-gaming",
+      "name": "social-community-nonprofit",
       "bookmarks": [
         {
-          "url": "https://www.fubo.tv/lp/StreamTV/?irad=343747&irmp=398453&subId1=streamingservices&subId2=ckhgo1ujg00003r8zaneft7pl",
-          "title": "Stream live TV & sports | Fubo"
+          "url": "https://give.feedingamerica.org/a/donate",
+          "title": "Donate Today to End Hunger in America | Feeding America"
         },
         {
-          "url": "https://boardgamegeek.com/boardgame/174430/gloomhaven",
-          "title": "Gloomhaven | Board Game | BoardGameGeek"
+          "url": "https://nopriceonjustice.org/fines-fees-and-the-criminalization-of-mental-health-crisis/",
+          "title": "Fines, Fees and the Criminalization of Mental Health Crises - No Price on Justice"
         },
         {
-          "url": "https://watch.diynetwork.com/watch/diy",
-          "title": "void"
+          "url": "https://getset-tc.org/",
+          "title": "GetSet Transylvania"
+        },
+        {
+          "url": "https://girlup.org/",
+          "title": "Girl Up | Uniting Girls to Change the World"
+        },
+        {
+          "url": "https://www.lachamberfoundation.org/",
+          "title": "Home - Louisiana Chamber of Commerce Foundation, Inc"
+        },
+        {
+          "url": "https://www.angelfood.org/",
+          "title": "Homepage | Project Angel Food"
+        },
+        {
+          "url": "http://Rescue-EU.org",
+          "title": "International Rescue Committee | International Rescue Committee (IRC)"
+        },
+        {
+          "url": "https://nalcab.org/",
+          "title": "NALCAB"
+        },
+        {
+          "url": "http://www.nexuscp.org/",
+          "title": "Nexus Community Partners"
+        },
+        {
+          "url": "https://www.shiftcities.org/",
+          "title": "Transforming cities for people and planet | UrbanShift"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "hobbies-crafts-gaming",
+      "bookmarks": [
+        {
+          "url": "https://www.purlsoho.com/create/category/knit/",
+          "title": "All Knitting Patterns: Free + Paid Patterns | Purl Soho"
+        },
+        {
+          "url": "https://www.speedsolving.com/wiki/index.php/CFOP_method",
+          "title": "CFOP method - Speedsolving.com Wiki"
         },
         {
           "url": "http://www.fillorbust.com/",
           "title": "Fill Or Bust! Card & Dice Game - Fill Or Bust!®"
         },
         {
-          "url": "https://evolution-of-silence.de/mainpage/index.php/game-the-crew/189-news-the-crew/shortnews-the-crew/?presets=preset9&backgroundlevel=low&bodylevel=high",
-          "title": "Shortnews (The Crew) - Evolution of Silence - Multigaming News & Community since 2011"
+          "url": "http://passion-histoire.net/ucp.php?mode=register&sid=6effe42e6f42909c11c9d571054f0495",
+          "title": "Forum Histoire - Passion Histoire • Panneau de contrôle de l'utilisateur • Inscription"
         },
         {
-          "url": "https://bestmobileappawards.com/app-submission/kidsbeetv?utm_source=badge&utm_medium=badge&utm_campaign=nominee_badge",
-          "title": "KidsBeeTV Mobile App | The Best Mobile App Awards"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "travel-transportation",
-      "bookmarks": [
-        {
-          "url": "http://www.mytaxiindia.com/",
-          "title": "Outstation Taxi Booking |Online Taxi & Car Rental Service| Mytaxiindia"
+          "url": "https://boardgamegeek.com/boardgame/174430/gloomhaven",
+          "title": "Gloomhaven | Board Game | BoardGameGeek"
         },
-        {
-          "url": "https://www.expo2020dubai.com/en",
-          "title": "Expo 2020 Dubai | Home | Connecting Minds, Creating the Future | Expo 2020 Dubai"
-        },
-        {
-          "url": "https://www.vegvesen.no/forerkort/",
-          "title": "Førerkort | Statens vegvesen"
-        },
-        {
-          "url": "https://bilete.cfrcalatori.ro/en-GB/Itineraries",
-          "title": "Itineraries + buy - CFR Călători online tickets"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "crafts-hobbies",
-      "bookmarks": [
         {
           "url": "https://knitmodern.tumblr.com/",
           "title": "Knitmodern on tumblr"
         },
         {
-          "url": "https://www.purlsoho.com/create/category/knit/",
-          "title": "All Knitting Patterns: Free + Paid Patterns | Purl Soho"
-        },
-        {
-          "url": "https://shop.perfumersapprentice.com/t-PerfumersCorner.aspx",
-          "title": "PerfumersCorner"
+          "url": "https://evolution-of-silence.de/mainpage/index.php/game-the-crew/189-news-the-crew/shortnews-the-crew/?presets=preset9&backgroundlevel=low&bodylevel=high",
+          "title": "Shortnews (The Crew) - Evolution of Silence - Multigaming News & Community since 2011"
         },
         {
           "url": "https://www.typographicposters.com/",
           "title": "typo/graphic posters"
         }
       ],
-      "count": 4
+      "count": 8
     },
     {
-      "name": "business-finance",
+      "name": "business-finance-corporate",
       "bookmarks": [
         {
-          "url": "https://www.latinodonorcollaborative.org/original-research/2022-ldc-u-s-latino-gdp-report",
-          "title": "2022 LDC U.S. Latino GDP Report™ - Latino Donor Collaborative"
+          "url": "https://www.intellum.com",
+          "title": "AI Enterprise Learning | Intellum"
         },
         {
           "url": "https://www.citizensbank.com/",
@@ -348,104 +216,304 @@
           "title": "complince checklist - LushAdvisors"
         },
         {
-          "url": "https://business.gyft.com/gift-card-catalog/",
-          "title": "Radware Bot Manager Captcha"
+          "url": "https://www.edf.fr/resultats?keywords=travail+des+%C3%A9quipes&type=0",
+          "title": "EDF France | EDF FR"
+        },
+        {
+          "url": "https://appsource.microsoft.com/",
+          "title": "Find the right app | Microsoft AppSource"
+        },
+        {
+          "url": "https://www.bablic.com/terms",
+          "title": "TOS - Translate Your Website - Bablic"
+        },
+        {
+          "url": "https://wbaworldwide.wba.com/",
+          "title": "WBA Worldwide | Login"
         }
       ],
-      "count": 4
+      "count": 7
     },
     {
-      "name": "tech-support",
+      "name": "data-statistics-public",
       "bookmarks": [
+        {
+          "url": "http://data.nevcounty.opendata.arcgis.com/",
+          "title": "ArcGIS Hub"
+        },
+        {
+          "url": "https://www.govdata.de/dl-de/by-2-0",
+          "title": "DL-DE-&gt;BY-2.0 - GovData"
+        },
+        {
+          "url": "http://www.slideshare.net/FAOoftheUN",
+          "title": "Fao"
+        },
+        {
+          "url": "http://www.istat.it/",
+          "title": "Istat"
+        },
+        {
+          "url": "https://oceanservice.noaa.gov/",
+          "title": "NOAA's National Ocean Service"
+        },
+        {
+          "url": "http://wod.iode.org",
+          "title": "void"
+        },
+        {
+          "url": "https://www.fiskeridir.no/Yrkesfiske/Rapportering-paa-havet/AApenhet-om-fangst-og-aktivitetsdata-ERS-og-posisjonsrapportering",
+          "title": "Åpne data om fangst- aktivitets- og posisjonsrapportering | Fiskeridirektoratet"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "education-learning-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.sfhta.eu/?page_id=2883&ai1ec=action~agenda%7Cpage_offset~-1%7Ccat_ids~53,54%7Crequest_format~json",
+          "title": "Calendar - SFHTA"
+        },
+        {
+          "url": "https://calendly.com/d/gsj-b7m-mr6/admissions-q-a",
+          "title": "Calendly"
+        },
+        {
+          "url": "https://www.che.nl/opleidingen-aanbod?amp%3Bf%5B1%5D=type%3AMaster&amp%3Bf%5B2%5D=type%3APost-HBO&amp%3Bf%5B3%5D=type%3APost-hbo&amp%3Bf%5B4%5D=vakgebied%3AEducatie&f%5B0%5D=type%3AModule&f%5B1%5D=type%3APost-hbo&f%5B2%5D=vorm%3ADeeltijd",
+          "title": "CHE | Studeren doe je in Ede | Opleidingen"
+        },
+        {
+          "url": "http://www.cs.washington.edu/people/faculty/lazowska/",
+          "title": "Ed Lazowska, Professor - Paul G. Allen School of Computer Science & Engineering"
+        },
+        {
+          "url": "https://bestmobileappawards.com/app-submission/kidsbeetv?utm_source=badge&utm_medium=badge&utm_campaign=nominee_badge",
+          "title": "KidsBeeTV Mobile App | The Best Mobile App Awards"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "software-developer-support",
+      "bookmarks": [
+        {
+          "url": "https://developer.paypal.com/braintree/docs",
+          "title": "Braintree Docs"
+        },
         {
           "url": "https://forum.coppeliarobotics.com/help/faq?sid=44eea4a80e85aab7e9b50e04f353589f",
           "title": "CoppeliaSim forums - Frequently Asked Questions"
-        },
-        {
-          "url": "https://mda.volpe.dot.gov/seavision/contact/sv2index.php?submit=no&reqtype=techhelp",
-          "title": "SeaVision: Help Desk"
         },
         {
           "url": "https://support.apple.com",
           "title": "Official Apple Support"
         },
         {
-          "url": "https://support.github.com/?utm_source=developermscom",
-          "title": "Sign in for Software Support and Product Help - GitHub Support"
+          "url": "https://mda.volpe.dot.gov/seavision/contact/sv2index.php?submit=no&reqtype=techhelp",
+          "title": "SeaVision: Help Desk"
         },
         {
-          "url": "https://help.shipt.com/how-shipt-works",
-          "title": "How Shipt Works - Shipt"
+          "url": "https://support.github.com/?utm_source=developermscom",
+          "title": "Sign in for Software Support and Product Help - GitHub Support"
         }
       ],
       "count": 5
     },
     {
-      "name": "sports",
+      "name": "career-employment-guidance",
       "bookmarks": [
         {
-          "url": "https://www.world.rugby/sevens-series",
-          "title": "HSBC SVNS Series | Official Website"
+          "url": "https://www.latinodonorcollaborative.org/original-research/2022-ldc-u-s-latino-gdp-report",
+          "title": "2022 LDC U.S. Latino GDP Report™ - Latino Donor Collaborative"
         },
         {
-          "url": "http://www.dir-shop.cz/obchod-2-4-",
-          "title": "I. stupně Apeks | DIR-SHOP diving systems"
+          "url": "https://www.military.com/veteran-jobs/goodwill-industries-has-answer-new-survey-found-job-seekers-still-lack-critical-skills.html",
+          "title": "Goodwill Industries Has an Answer to New Survey That Found Job Seekers Still Lack Critical Skills | Military.com"
         },
         {
-          "url": "https://www.dir-shop.cz/obchod-2-4-",
-          "title": "I. stupně Apeks | DIR-SHOP diving systems"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "social-chat",
-      "bookmarks": [
-        {
-          "url": "https://y99.in/",
-          "title": "Y99 - Free Random Online Chat Rooms without Registration"
-        },
-        {
-          "url": "https://mangakoibitochan.tumblr.com/",
-          "title": "ADHD Ahead!"
+          "url": "https://programmersguild.blogspot.com/2008/04/development-design-group-in-baltimore.html?showComment=1217638020000",
+          "title": "Programmers Guild: Development Design Group in Baltimore, MD, pays H-1b Architects $32,000 salary"
         },
         {
           "url": "https://whelmstadter.tumblr.com/post/116581506819",
           "title": "With all the national debate on immigration, I recently looked at the data for all the \"skilled worker\" visas we grant. It turns... - @whelmstadter on Tumblr"
         }
       ],
+      "count": 4
+    },
+    {
+      "name": "digital-streaming-services",
+      "bookmarks": [
+        {
+          "url": "https://help.shipt.com/how-shipt-works",
+          "title": "How Shipt Works - Shipt"
+        },
+        {
+          "url": "https://www.fubo.tv/lp/StreamTV/?irad=343747&irmp=398453&subId1=streamingservices&subId2=ckhgo1ujg00003r8zaneft7pl",
+          "title": "Stream live TV & sports | Fubo"
+        },
+        {
+          "url": "https://watch.diynetwork.com/watch/diy",
+          "title": "void"
+        },
+        {
+          "url": "https://y99.in/",
+          "title": "Y99 - Free Random Online Chat Rooms without Registration"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs-portfolios",
+      "bookmarks": [
+        {
+          "url": "https://mangakoibitochan.tumblr.com/",
+          "title": "ADHD Ahead!"
+        },
+        {
+          "url": "https://www.nainasingla.com/",
+          "title": "Naina Singla - Fashion Stylist and Style Expert. Virtual Capsule Styling for Women"
+        },
+        {
+          "url": "https://lisakippsbrown.com/videos/promoting-unity-while-saluting-diversity-triple-nikel/",
+          "title": "Promoting Unity While Saluting Diversity: Triple Nikel | Transformational Entrepreneurship: Lisa Kipps-Brown"
+        },
+        {
+          "url": "http://www.du-ciel.com/wordpress/wpg2?g2_itemId=3979",
+          "title": "Thomas Sagory »"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "science-technology-research",
+      "bookmarks": [
+        {
+          "url": "https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
+          "title": "Common Voice"
+        },
+        {
+          "url": "https://stiintasitehnica.com/interviu/",
+          "title": "Interviurile S&T - Știință & Tehnică"
+        },
+        {
+          "url": "https://cordis.europa.eu/project/rcn/204036/results/en",
+          "title": "Making a yeast-based candidate vaccine against Porcine Epidemic Diarrhea Virus (PEDV) | PIGYVAX | Project | Results | H2020 | CORDIS | European Commission"
+        },
+        {
+          "url": "http://www.qualcomm.com/company/wireless-reach",
+          "title": "Qualcomm Wireless Reach | How Technology Helps Underserved Communities"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "ai-machine-learning-education",
+      "bookmarks": [
+        {
+          "url": "https://www.coursera.org/learn/algorithms-part2",
+          "title": "Algorithms, Part II | Coursera"
+        },
+        {
+          "url": "https://course.fast.ai/",
+          "title": "Practical Deep Learning for Coders - Practical Deep Learning"
+        },
+        {
+          "url": "https://www.coursera.org/learn/machine-learning",
+          "title": "Supervised Machine Learning: Regression and Classification | Coursera"
+        }
+      ],
       "count": 3
     },
     {
-      "name": "environment-sustainability",
+      "name": "environmental-conservation",
       "bookmarks": [
         {
-          "url": "https://www.shiftcities.org/",
-          "title": "Transforming cities for people and planet | UrbanShift"
+          "url": "https://apparelimpact.org/",
+          "title": "Apparel Impact Institute | Home"
         },
         {
-          "url": "https://oceanservice.noaa.gov/",
-          "title": "NOAA's National Ocean Service"
+          "url": "https://gfetw.org",
+          "title": "GFETW | IMCS"
+        },
+        {
+          "url": "https://mpa-guide.protectedplanet.net/",
+          "title": "The MPA Guide"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://visitor.r20.constantcontact.com/manage/optin?v=001Sk_8Aa13394xonLLUknSR_CtAy6sVkj7-WTntErj4YHitEGv_xZXTgEreyr8MdkMKJ6cnoDLHPraoNtEuHeVpYuA7EHtjdGdcHtASf8lweU%3D",
+          "title": "Department of Agriculture : Sign Up to Stay in Touch"
+        },
+        {
+          "url": "https://www.vegvesen.no/forerkort/",
+          "title": "Førerkort | Statens vegvesen"
+        },
+        {
+          "url": "http://www.onguardonline.gov/articles/0031-kids-privacy",
+          "title": "Protecting Your Child's Privacy Online | Consumer Advice"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel-hospitality-transport",
+      "bookmarks": [
+        {
+          "url": "https://www.fariyas.com/resort-in-lonavala/",
+          "title": "Fariyas Resort, Lonavala. Hotel, Restaurant & Wedding Venue"
+        },
+        {
+          "url": "https://bilete.cfrcalatori.ro/en-GB/Itineraries",
+          "title": "Itineraries + buy - CFR Călători online tickets"
+        },
+        {
+          "url": "http://www.mytaxiindia.com/",
+          "title": "Outstation Taxi Booking |Online Taxi & Car Rental Service| Mytaxiindia"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "web-development-tools",
+      "bookmarks": [
+        {
+          "url": "https://ca.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Extensió del WordPress | WordPress.org Català"
+        },
+        {
+          "url": "https://jsonlint.com/",
+          "title": "JSON Online Validator and Formatter - JSON Lint"
+        },
+        {
+          "url": "https://leonardocolor.io/#",
+          "title": "Leonardo"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "general-uncategorized",
+      "bookmarks": [
+        {
+          "url": "http://www.gioiaonline.com/",
+          "title": "DropCatch.com"
+        },
+        {
+          "url": "http://www.seagrasssoftware.com/",
+          "title": "nl3.example.com - Coming Soon"
         }
       ],
       "count": 2
     },
     {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "http://www.istat.it/",
-          "title": "Istat"
-        },
-        {
-          "url": "https://www.edf.fr/resultats?keywords=travail+des+%C3%A9quipes&type=0",
-          "title": "EDF France | EDF FR"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "email-preferences",
+      "name": "website-management-preferences",
       "bookmarks": [
         {
           "url": "https://id.nbcnews.com/email-preferences?brand=nbc-news",
@@ -454,103 +522,11 @@
         {
           "url": "https://cloud.email.hollywoodreporter.com/signup/",
           "title": "The Hollywood Reporter Email Alerts & Newsletter Preferences"
-        },
-        {
-          "url": "https://visitor.r20.constantcontact.com/manage/optin?v=001Sk_8Aa13394xonLLUknSR_CtAy6sVkj7-WTntErj4YHitEGv_xZXTgEreyr8MdkMKJ6cnoDLHPraoNtEuHeVpYuA7EHtjdGdcHtASf8lweU%3D",
-          "title": "Department of Agriculture : Sign Up to Stay in Touch"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "recalls-safety",
-      "bookmarks": [
-        {
-          "url": "https://oemdtc.com/category/recalls",
-          "title": "Recall - Unknown Manufacturer"
-        },
-        {
-          "url": "https://www.bablic.com/terms",
-          "title": "TOS - Translate Your Website - Bablic"
         }
       ],
       "count": 2
-    },
-    {
-      "name": "personal-websites",
-      "bookmarks": [
-        {
-          "url": "http://www.cs.washington.edu/people/faculty/lazowska/",
-          "title": "Ed Lazowska, Professor - Paul G. Allen School of Computer Science & Engineering"
-        },
-        {
-          "url": "http://www.du-ciel.com/wordpress/wpg2?g2_itemId=3979",
-          "title": "Thomas Sagory »"
-        },
-        {
-          "url": "https://lisakippsbrown.com/videos/promoting-unity-while-saluting-diversity-triple-nikel/",
-          "title": "Promoting Unity While Saluting Diversity: Triple Nikel | Transformational Entrepreneurship: Lisa Kipps-Brown"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "pharmacy-health",
-      "bookmarks": [
-        {
-          "url": "https://www.riteaid.com/shop/andalou-1000-roses-soothing-sleeping-mask-1-7-fl-oz",
-          "title": "Online Pharmacy and Store | Rite Aid"
-        },
-        {
-          "url": "https://gfetw.org",
-          "title": "GFETW | IMCS"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://programmersguild.blogspot.com/2008/04/development-design-group-in-baltimore.html?showComment=1217638020000",
-          "title": "Programmers Guild: Development Design Group in Baltimore, MD, pays H-1b Architects $32,000 salary"
-        },
-        {
-          "url": "http://passion-histoire.net/ucp.php?mode=register&sid=6effe42e6f42909c11c9d571054f0495",
-          "title": "Forum Histoire - Passion Histoire • Panneau de contrôle de l'utilisateur • Inscription"
-        },
-        {
-          "url": "https://www.sfhta.eu/?page_id=2883&ai1ec=action~agenda%7Cpage_offset~-1%7Ccat_ids~53,54%7Crequest_format~json",
-          "title": "Calendar - SFHTA"
-        },
-        {
-          "url": "http://www.onguardonline.gov/articles/0031-kids-privacy",
-          "title": "Protecting Your Child's Privacy Online | Consumer Advice"
-        },
-        {
-          "url": "http://www.gioiaonline.com/",
-          "title": "DropCatch.com"
-        },
-        {
-          "url": "http://www.slideshare.net/FAOoftheUN",
-          "title": "Fao"
-        },
-        {
-          "url": "https://calendly.com/d/gsj-b7m-mr6/admissions-q-a",
-          "title": "Calendly"
-        },
-        {
-          "url": "http://www.seagrasssoftware.com/",
-          "title": "nl3.example.com - Coming Soon"
-        },
-        {
-          "url": "https://wbaworldwide.wba.com/",
-          "title": "WBA Worldwide | Login"
-        }
-      ],
-      "count": 9
     }
   ],
-  "total_bookmarks": 106,
-  "num_folders": 20
+  "total_bookmarks": 103,
+  "num_folders": 19
 }

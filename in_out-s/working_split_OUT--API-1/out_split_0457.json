@@ -122,6 +122,10 @@
       "name": "shopping",
       "bookmarks": [
         {
+          "url": "https://www.maccosmetics.com/",
+          "title": "american-express icon"
+        },
+        {
           "url": "https://cozyearth.com/products/bamboo-sheet-set?variant=40252110405812",
           "title": "Bamboo Sheet Sets | Cozy Earth"
         },
@@ -140,10 +144,6 @@
         {
           "url": "https://www.zappos.com/p/chinese-laundry-theresa-gold-metallic/product/8862068/",
           "title": "Women's Chinese Laundry Theresa | Zappos.com"
-        },
-        {
-          "url": "https://www.maccosmetics.com/",
-          "title": "american-express icon"
         }
       ],
       "count": 6
@@ -175,7 +175,7 @@
       "count": 5
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://donate.mongabay.org/?utm_source=mongabay.com&utm_medium=headerlink&utm_campaign=com-header-text-link-new",
@@ -201,7 +201,7 @@
       "count": 5
     },
     {
-      "name": "tools-web",
+      "name": "web-tools",
       "bookmarks": [
         {
           "url": "https://new.express.adobe.com/tools/generate-qr-code",
@@ -311,6 +311,20 @@
       "count": 3
     },
     {
+      "name": "business-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.eventbrite.de/e/mach-deine-website-bei-google-sichtbarer-tickets-559525173857?aff=erelexpmlt",
+          "title": "Mach deine Website bei Google sichtbarer Tickets, Di, 14.03.2023 um 16:00 Uhr | Eventbrite"
+        },
+        {
+          "url": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/",
+          "title": "The Total Economic Impact™ Of Microsoft Dynamics 365 Finance"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "public-health-covid19",
       "bookmarks": [
         {
@@ -320,20 +334,6 @@
         {
           "url": "https://unitedwaynyc.org/covid19/",
           "title": "COVID-19 Resource Guide - United Way of New York City"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "resources-business",
-      "bookmarks": [
-        {
-          "url": "https://www.eventbrite.de/e/mach-deine-website-bei-google-sichtbarer-tickets-559525173857?aff=erelexpmlt",
-          "title": "Mach deine Website bei Google sichtbarer Tickets, Di, 14.03.2023 um 16:00 Uhr | Eventbrite"
-        },
-        {
-          "url": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/",
-          "title": "The Total Economic Impact™ Of Microsoft Dynamics 365 Finance"
         }
       ],
       "count": 2

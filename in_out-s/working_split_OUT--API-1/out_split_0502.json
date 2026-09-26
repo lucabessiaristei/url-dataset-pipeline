@@ -1,12 +1,8 @@
 {
   "folders": [
     {
-      "name": "nonprofit-community-organizations",
+      "name": "community-nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "http://pfcblackchamber.org/",
-          "title": "PFC Black Chamber Home Page"
-        },
         {
           "url": "https://ceoworks.org/contact",
           "title": "CEO | Contact"
@@ -14,14 +10,6 @@
         {
           "url": "https://ghcf.org/",
           "title": "Greater Houston Community Foundation"
-        },
-        {
-          "url": "http://www.latinospro.org/runforlatinos",
-          "title": "Run for Latinos - Latinos Progresando"
-        },
-        {
-          "url": "https://map.peoplepower.org/?source=homepage",
-          "title": "Take Action | American Civil Liberties Union"
         },
         {
           "url": "http://www.militarychild.org/",
@@ -32,8 +20,20 @@
           "title": "National Center for Missing & Exploited Children"
         },
         {
+          "url": "http://pfcblackchamber.org/",
+          "title": "PFC Black Chamber Home Page"
+        },
+        {
           "url": "https://rifoundation.org/",
           "title": "RI Foundation | Rhode Island Foundation"
+        },
+        {
+          "url": "http://www.latinospro.org/runforlatinos",
+          "title": "Run for Latinos - Latinos Progresando"
+        },
+        {
+          "url": "https://map.peoplepower.org/?source=homepage",
+          "title": "Take Action | American Civil Liberties Union"
         },
         {
           "url": "https://www.talentbeyondboundaries.org/?",
@@ -41,6 +41,44 @@
         }
       ],
       "count": 9
+    },
+    {
+      "name": "entertainment-hobbies",
+      "bookmarks": [
+        {
+          "url": "https://cardbarrel.com/2010-2019-singles/2013/allen-and-ginter/one-little-corner/?items_per_page=24",
+          "title": "2010-2019 Singles :: 2013 :: Allen & Ginter :: One Little Corner"
+        },
+        {
+          "url": "https://tsg-pastetten.de/bildergalerie/2017-spartan-lauf/",
+          "title": "2017 TSG Teilnahme am Spartan Lauf München - TSG-Pastetten 1972 e.V."
+        },
+        {
+          "url": "https://ivanskiieee-blog.tumblr.com/",
+          "title": "@ivanskiieee-blog on Tumblr"
+        },
+        {
+          "url": "https://kuehbiko.tumblr.com/",
+          "title": "@kuehbiko on Tumblr"
+        },
+        {
+          "url": "http://www.cribbage.org/",
+          "title": "American Cribbage Congress Website"
+        },
+        {
+          "url": "https://www.globalratings.com/",
+          "title": "IARC ratings for mobile and digitally delivered games from International Age Rating Coalition"
+        },
+        {
+          "url": "https://www.shuajota.com/2021/11/nba-2k22-space-jam-new-legacy-100-free.html",
+          "title": "NBA 2K22 Space Jam: A New Legacy (100% Free Mods) by AGP2K"
+        },
+        {
+          "url": "https://tasvideos.org/",
+          "title": "TASVideos"
+        }
+      ],
+      "count": 8
     },
     {
       "name": "government-information-data",
@@ -54,12 +92,12 @@
           "title": "Career earnings by college major - The Hamilton Project"
         },
         {
-          "url": "https://www.dailykos.com/stories/2020/3/3/1922951/-Renewable-Tuesday-Polluting-Power-Plant-Data",
-          "title": "Renewable Tuesday: Polluting Power Plant Data You Can Use at Home!"
-        },
-        {
           "url": "https://moa-muniorg.hub.arcgis.com/pages/data",
           "title": "Downloadable Data"
+        },
+        {
+          "url": "https://reportfraud.ftc.gov/#/",
+          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
         },
         {
           "url": "https://www.gov.pl/web/zdrowie",
@@ -70,50 +108,12 @@
           "title": "National Oceanic and Atmospheric Administration"
         },
         {
-          "url": "https://reportfraud.ftc.gov/#/",
-          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
+          "url": "https://www.dailykos.com/stories/2020/3/3/1922951/-Renewable-Tuesday-Polluting-Power-Plant-Data",
+          "title": "Renewable Tuesday: Polluting Power Plant Data You Can Use at Home!"
         },
         {
           "url": "http://szerep.hu/faultetes/1",
           "title": "Szerep Község"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "hobbies-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://cardbarrel.com/2010-2019-singles/2013/allen-and-ginter/one-little-corner/?items_per_page=24",
-          "title": "2010-2019 Singles :: 2013 :: Allen & Ginter :: One Little Corner"
-        },
-        {
-          "url": "http://www.cribbage.org/",
-          "title": "American Cribbage Congress Website"
-        },
-        {
-          "url": "https://www.globalratings.com/",
-          "title": "IARC ratings for mobile and digitally delivered games from International Age Rating Coalition"
-        },
-        {
-          "url": "https://ivanskiieee-blog.tumblr.com/",
-          "title": "@ivanskiieee-blog on Tumblr"
-        },
-        {
-          "url": "https://kuehbiko.tumblr.com/",
-          "title": "@kuehbiko on Tumblr"
-        },
-        {
-          "url": "https://www.shuajota.com/2021/11/nba-2k22-space-jam-new-legacy-100-free.html",
-          "title": "NBA 2K22 Space Jam: A New Legacy (100% Free Mods) by AGP2K"
-        },
-        {
-          "url": "https://tsg-pastetten.de/bildergalerie/2017-spartan-lauf/",
-          "title": "2017 TSG Teilnahme am Spartan Lauf München - TSG-Pastetten 1972 e.V."
-        },
-        {
-          "url": "https://tasvideos.org/",
-          "title": "TASVideos"
         }
       ],
       "count": 8
@@ -126,20 +126,20 @@
           "title": "Android platform | Platform | Android Developers"
         },
         {
-          "url": "https://a.cms.omniupdate.com/11/?skin=oucampus&account=montgomery&site=www&action=de&path=/index.pcf",
-          "title": "Log In - Modern Campus CMS"
-        },
-        {
           "url": "http://git.tuebingen.mpg.de/?p=paraslash.git;a=commitdiff;h=4cc509155034d2079a8ba8d697003c9603ea6a6d;ds=sidebyside",
           "title": "git.tuebingen.mpg.de Git - paraslash.git/commitdiff"
+        },
+        {
+          "url": "https://www.mongodb.com/docs/manual/introduction/",
+          "title": "Introduction to MongoDB - Database Manual - MongoDB Docs"
         },
         {
           "url": "https://jwt.io/",
           "title": "JSON Web Tokens - jwt.io"
         },
         {
-          "url": "https://www.mongodb.com/docs/manual/introduction/",
-          "title": "Introduction to MongoDB - Database Manual - MongoDB Docs"
+          "url": "https://a.cms.omniupdate.com/11/?skin=oucampus&account=montgomery&site=www&action=de&path=/index.pcf",
+          "title": "Log In - Modern Campus CMS"
         },
         {
           "url": "https://switchboard.live",
@@ -168,6 +168,10 @@
           "title": "Artworks | Uffizi Galleries"
         },
         {
+          "url": "https://www.libertyellisfoundation.org/passenger",
+          "title": "Passenger Search - The Statue of Liberty & Ellis Island"
+        },
+        {
           "url": "https://www.imdb.com/name/nm0115202/bio",
           "title": "Ricou Browning - Biography - IMDb"
         },
@@ -178,10 +182,6 @@
         {
           "url": "http://www.leehawkins.com/NoFrames/Reviews/2021.htm",
           "title": "The 2021 Quo Annual"
-        },
-        {
-          "url": "https://www.libertyellisfoundation.org/passenger",
-          "title": "Passenger Search - The Statue of Liberty & Ellis Island"
         }
       ],
       "count": 6
@@ -189,10 +189,6 @@
     {
       "name": "ecommerce-products",
       "bookmarks": [
-        {
-          "url": "https://www.adrenaline-junkee.com/product-p/hcolsw12-0178.htm",
-          "title": "UTV Accessories | UTV Parts | UTV Products & More - Adrenaline Junkee"
-        },
         {
           "url": "http://www.cottonseedusa.com/",
           "title": "Cotton Casual Clothing Men & Women- Resort Wear"
@@ -206,12 +202,16 @@
           "title": "L-Bow kids mittens gloves outdoor apparel"
         },
         {
+          "url": "http://walmart.com/",
+          "title": "Robot or human?"
+        },
+        {
           "url": "https://www.mobvoi.com/us/pages/ticwatchs2",
           "title": "TicWatch S2 - The best smartwatch to take your outdoor game to the next level."
         },
         {
-          "url": "http://walmart.com/",
-          "title": "Robot or human?"
+          "url": "https://www.adrenaline-junkee.com/product-p/hcolsw12-0178.htm",
+          "title": "UTV Accessories | UTV Parts | UTV Products & More - Adrenaline Junkee"
         }
       ],
       "count": 6
@@ -228,30 +228,38 @@
           "title": "Celebrating 100 Years of Disney and the Wonder of Mickey and Minnie - Disney Parks Blog"
         },
         {
-          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
-          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
-        },
-        {
           "url": "https://india.mongabay.com",
           "title": "Environmental news and information in India - Landing"
         },
         {
-          "url": "https://www.magazines.com/people-magazine.html",
-          "title": "PEOPLE Magazine Subscription | Subscribe to PEOPLE Magazine"
-        },
-        {
           "url": "https://www.revealnews.org/article/how-activists-of-color-lose-battles-against-facebooks-moderator-army/",
           "title": "How activists of color lose battles against Facebook's moderator army - Reveal"
+        },
+        {
+          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
+          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
+        },
+        {
+          "url": "https://www.magazines.com/people-magazine.html",
+          "title": "PEOPLE Magazine Subscription | Subscribe to PEOPLE Magazine"
         }
       ],
       "count": 6
     },
     {
-      "name": "business-marketing-finance",
+      "name": "business-finance-marketing",
       "bookmarks": [
+        {
+          "url": "http://www.equitypandit.com/",
+          "title": "EquityPandit | Breaking News, NSE/BSE, Share Price, Nifty, Sensex Today"
+        },
         {
           "url": "https://docs.google.com/document/d/1O_nDqc8M2Do9TZa_fD2L27Agh3TNPI0I75GuJoeB1Fo/edit#heading=h.icfvvd1ksuu8",
           "title": "Instantly.ai Masterclass - Land in the Inbox Every Single Time With Our Ultimate Cold Email Framework - Documenti Google"
+        },
+        {
+          "url": "https://www.eventbrite.nl/e/masterclass-entrepreneurial-design-thinking-tickets-477376334467?aff=erelexpmlt",
+          "title": "Masterclass Entrepreneurial Design Thinking Tickets, Thu, Mar 23, 2023 at 1:00 PM | Eventbrite"
         },
         {
           "url": "https://www.correototal.com/actualidad/daytona-international-speedway-ha-confirmado-su-presencia-en-gran-turismo-7/",
@@ -260,14 +268,6 @@
         {
           "url": "https://www.s2fevents.com/",
           "title": "Start 2 Finish"
-        },
-        {
-          "url": "http://www.equitypandit.com/",
-          "title": "EquityPandit | Breaking News, NSE/BSE, Share Price, Nifty, Sensex Today"
-        },
-        {
-          "url": "https://www.eventbrite.nl/e/masterclass-entrepreneurial-design-thinking-tickets-477376334467?aff=erelexpmlt",
-          "title": "Masterclass Entrepreneurial Design Thinking Tickets, Thu, Mar 23, 2023 at 1:00 PM | Eventbrite"
         }
       ],
       "count": 5
@@ -298,12 +298,12 @@
       "name": "travel-leisure",
       "bookmarks": [
         {
-          "url": "https://www.cp.pt/passageiros/pt/bilhetes-e-descontos",
-          "title": "CP - Comboios de Portugal"
-        },
-        {
           "url": "https://www.eurocars.ro/de/mietwagen-Arad/SUV/Opel/Opel-Antara_107",
           "title": "Autovermietung Arad | SUV Klasse"
+        },
+        {
+          "url": "https://www.cp.pt/passageiros/pt/bilhetes-e-descontos",
+          "title": "CP - Comboios de Portugal"
         },
         {
           "url": "http://www.pianetavacanze.it/",
@@ -320,22 +320,22 @@
       "name": "environmental-science",
       "bookmarks": [
         {
-          "url": "http://www.bebat.be",
-          "title": "Samen recycleren, beter voor ons allemaal | Bebat"
-        },
-        {
           "url": "http://www.nfh.uit.no/norad/reports/mcs20mozambique20kelleher.doc",
           "title": "Nfh - Norges fiskerihøgskole | UiT"
         },
         {
           "url": "http://www.oceanbestpractices.org",
           "title": "Ocean Best Practices System"
+        },
+        {
+          "url": "http://www.bebat.be",
+          "title": "Samen recycleren, beter voor ons allemaal | Bebat"
         }
       ],
       "count": 3
     },
     {
-      "name": "legal-privacy-policies",
+      "name": "legal-privacy-policy",
       "bookmarks": [
         {
           "url": "https://gifmakerforiphone.weebly.com/privacy-policy.html",

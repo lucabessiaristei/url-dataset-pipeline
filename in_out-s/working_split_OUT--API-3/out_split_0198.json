@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "e-commerce-shopping",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://ostrovit.com/en/menu/superfoods-18763.html",
@@ -51,7 +51,7 @@
       "count": 11
     },
     {
-      "name": "hobbies-lifestyle-culture",
+      "name": "lifestyle-hobbies-culture",
       "bookmarks": [
         {
           "url": "https://www.ocala.com/story/news/local/2013/07/18/a-silver-springs-story-ricou-browning-was-the-creature/31923591007/",
@@ -66,12 +66,12 @@
           "title": "Fairhead Archives - John Roberts"
         },
         {
-          "url": "https://www.italieonline.eu/cs/dovolena/friuli-venezia-giulia",
-          "title": "Friuli-Venezia Giulia Itálie ubytování, 2026 Dovolená Friuli-Venezia Giulia Itálie - CK Italieonline"
-        },
-        {
           "url": "https://chipmusic.org/forums/",
           "title": "Forums - ChipMusic.org"
+        },
+        {
+          "url": "https://www.italieonline.eu/cs/dovolena/friuli-venezia-giulia",
+          "title": "Friuli-Venezia Giulia Itálie ubytování, 2026 Dovolená Friuli-Venezia Giulia Itálie - CK Italieonline"
         },
         {
           "url": "https://www.lisaguerrero.com",
@@ -97,11 +97,15 @@
       "count": 10
     },
     {
-      "name": "media-news-blogs",
+      "name": "news-media-blogs",
       "bookmarks": [
         {
           "url": "https://365thingssyracuse.wordpress.com/2013/01/07/7-cobblestone/",
           "title": "7. Cobblestone | 365 Things Syracuse"
+        },
+        {
+          "url": "https://www.bbc.co.uk/programmes/p08j3kcg",
+          "title": "BBC Radio 4 - Political Thinking with Nick Robinson, The Neil Ferguson One"
         },
         {
           "url": "http://britishnewsflash.org/warnhinweise-sollen-vor-massenvernichtungs-waffen-warnen/",
@@ -128,15 +132,49 @@
           "title": "sportsvilla | Just another WordPress.com site"
         },
         {
-          "url": "https://www.bbc.co.uk/programmes/p08j3kcg",
-          "title": "The Neil Ferguson One"
-        },
-        {
           "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
           "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
         }
       ],
       "count": 9
+    },
+    {
+      "name": "computer-web-development",
+      "bookmarks": [
+        {
+          "url": "https://omidfarhang.com/2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/",
+          "title": "Chrome 21 arrives with new API for video and audio communication | Omid Farhang"
+        },
+        {
+          "url": "https://codeway.co",
+          "title": "Codeway | Leading in AI-Powered Mobile App Development"
+        },
+        {
+          "url": "https://djvacto-blog.tumblr.com/post/90468162172",
+          "title": "Danny , What % of STEM Should Be Computer Science?"
+        },
+        {
+          "url": "https://google.qualtrics.com/jfe/form/SV_0JMOG0m5j8tQK7b",
+          "title": "Help build a better YouTube for Creators"
+        },
+        {
+          "url": "https://www.jetboost.io/",
+          "title": "No-code search and filters for Webflow CMS | Jetboost"
+        },
+        {
+          "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
+          "title": "OpenCV: OpenCV-Python Tutorials"
+        },
+        {
+          "url": "https://rose---child.tumblr.com/post/154518406730",
+          "title": "Rosie Rabbit - Computer science really is computer science!"
+        },
+        {
+          "url": "https://wordpress.com/?ref=wporg-footer",
+          "title": "WordPress.com: Everything You Need to Build Your Website"
+        }
+      ],
+      "count": 8
     },
     {
       "name": "social-justice-advocacy",
@@ -172,44 +210,6 @@
         {
           "url": "https://whynotyoufdn.org/",
           "title": "Why Not You Foundation"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "computer-web-development",
-      "bookmarks": [
-        {
-          "url": "https://omidfarhang.com/2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/",
-          "title": "Chrome 21 arrives with new API for video and audio communication | Omid Farhang"
-        },
-        {
-          "url": "https://codeway.co",
-          "title": "Codeway | Leading in AI-Powered Mobile App Development"
-        },
-        {
-          "url": "https://rose---child.tumblr.com/post/154518406730",
-          "title": "Computer science really is computer science!"
-        },
-        {
-          "url": "https://djvacto-blog.tumblr.com/post/90468162172",
-          "title": "Danny , What % of STEM Should Be Computer Science?"
-        },
-        {
-          "url": "https://google.qualtrics.com/jfe/form/SV_0JMOG0m5j8tQK7b",
-          "title": "Help build a better YouTube for Creators"
-        },
-        {
-          "url": "https://www.jetboost.io/",
-          "title": "No-code search and filters for Webflow CMS | Jetboost"
-        },
-        {
-          "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
-          "title": "OpenCV: OpenCV-Python Tutorials"
-        },
-        {
-          "url": "https://wordpress.com/?ref=wporg-footer",
-          "title": "WordPress.com: Everything You Need to Build Your Website"
         }
       ],
       "count": 8
@@ -256,10 +256,6 @@
           "title": "Dataset - data.gov.uk"
         },
         {
-          "url": "https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml",
-          "title": "NYC DOT - Open Streets"
-        },
-        {
           "url": "https://opendata.paris.fr/",
           "title": "Home - Paris Data"
         },
@@ -270,6 +266,10 @@
         {
           "url": "https://library.municode.com/ne/omaha/codes/code_of_ordinances?nodeId=PTIIMUCO_CH6AN",
           "title": "Municode Library"
+        },
+        {
+          "url": "https://www1.nyc.gov/html/dot/html/pedestrians/openstreets.shtml",
+          "title": "NYC DOT - Open Streets"
         },
         {
           "url": "https://montcherand.ch/pilier-public/avis-d-enquete/146-avis-d-enquete-08-12-2021",
@@ -283,8 +283,12 @@
       "count": 7
     },
     {
-      "name": "academic-research-science",
+      "name": "science-research-academic",
       "bookmarks": [
+        {
+          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
+          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
+        },
         {
           "url": "http://sfg.msi.ucsb.edu/",
           "title": "Environmental Markets Lab (emLab) | emLab"
@@ -304,40 +308,6 @@
         {
           "url": "https://news.ucsc.edu/2023/01/red-sea-urchins.html",
           "title": "Vulnerability of red sea urchins to climate change depends on location - News"
-        },
-        {
-          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
-          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "environmental-conservation",
-      "bookmarks": [
-        {
-          "url": "https://www.glasseo.com/des-moocs-pour-comprendre-les-enjeux-sur-le-climat",
-          "title": "Des Moocs pour comprendre les enjeux sur le climat | Glasseo"
-        },
-        {
-          "url": "https://www.iuu-vessels.org/",
-          "title": "IUU Vessel List"
-        },
-        {
-          "url": "https://news.mongabay.com/2020/11/more-indonesian-sailors-repatriated-from-deadly-chinese-fishing-fleet/",
-          "title": "More Indonesian sailors repatriated from deadly Chinese fishing fleet"
-        },
-        {
-          "url": "https://news.ucsc.edu/2023/01/red-sea-urchins.html",
-          "title": "Vulnerability of red sea urchins to climate change depends on location - News"
-        },
-        {
-          "url": "http://sfg.msi.ucsb.edu/",
-          "title": "Environmental Markets Lab (emLab) | emLab"
-        },
-        {
-          "url": "https://marineregions.org/",
-          "title": "Marine Regions"
         }
       ],
       "count": 6
@@ -372,16 +342,16 @@
       "name": "career-employment-resources",
       "bookmarks": [
         {
+          "url": "https://www.montgomerycollege.edu/contact-us/index.html#interpreter",
+          "title": "Contact Us | Montgomery College, Maryland"
+        },
+        {
           "url": "https://nypost.com/2021/05/30/goodwill-forges-alliances-to-offer-free-career-training-resources/",
           "title": "Goodwill forges alliances to offer free career training, resources"
         },
         {
           "url": "https://jobs.theguardian.com?INTCMP=jobs_us_web_newheader_dropdown",
           "title": "Job search | Find your dream job with Guardian Jobs"
-        },
-        {
-          "url": "https://www.montgomerycollege.edu/contact-us/index.html#interpreter",
-          "title": "Contact Us | Montgomery College, Maryland"
         },
         {
           "url": "https://upwardlyglobal.org/jobversity/#jobversity-impact",
@@ -473,6 +443,42 @@
       "count": 5
     },
     {
+      "name": "design-creative-resources",
+      "bookmarks": [
+        {
+          "url": "https://colordesigner.io/",
+          "title": "Color Designer - the most comprehensive color tools platform"
+        },
+        {
+          "url": "https://www.humaaans.com/",
+          "title": "Humaaans: Mix-&-Match illustration library"
+        },
+        {
+          "url": "http://www.designersjournal.net/tag/illustrator",
+          "title": "illustrator | Designers Journal"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "environmental-conservation",
+      "bookmarks": [
+        {
+          "url": "https://www.glasseo.com/des-moocs-pour-comprendre-les-enjeux-sur-le-climat",
+          "title": "Des Moocs pour comprendre les enjeux sur le climat | Glasseo"
+        },
+        {
+          "url": "https://www.iuu-vessels.org/",
+          "title": "IUU Vessel List"
+        },
+        {
+          "url": "https://news.mongabay.com/2020/11/more-indonesian-sailors-repatriated-from-deadly-chinese-fishing-fleet/",
+          "title": "More Indonesian sailors repatriated from deadly Chinese fishing fleet"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "international-organizations",
       "bookmarks": [
         {
@@ -486,24 +492,6 @@
         {
           "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F",
           "title": "Share on WhatsApp"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "creative-design-resources",
-      "bookmarks": [
-        {
-          "url": "https://colordesigner.io/",
-          "title": "Color Designer - the most comprehensive color tools platform"
-        },
-        {
-          "url": "https://www.humaaans.com/",
-          "title": "Humaaans: Mix-&-Match illustration library"
-        },
-        {
-          "url": "http://www.designersjournal.net/tag/illustrator",
-          "title": "illustrator | Designers Journal"
         }
       ],
       "count": 3
@@ -529,6 +517,6 @@
       "count": 1
     }
   ],
-  "total_bookmarks": 68,
+  "total_bookmarks": 102,
   "num_folders": 18
 }

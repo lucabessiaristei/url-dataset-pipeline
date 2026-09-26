@@ -1,35 +1,27 @@
 {
   "folders": [
     {
-      "name": "reference-education",
+      "name": "education-reference",
       "bookmarks": [
-        {
-          "url": "https://www.acca-x.com/",
-          "title": "ACCA-X online courses in accounting, business and finance"
-        },
         {
           "url": "https://collections.plos.org/s/calls-for-papers",
           "title": "About Collections - PLOS Collections"
         },
         {
-          "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3",
-          "title": "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics - American Economic Association"
-        },
-        {
-          "url": "https://downtownaustin.com/covid-19/roadmap-to-recovery/",
-          "title": "Roadmap to Recovery and Resilience | Downtown Austin Alliance"
+          "url": "https://www.acca-x.com/",
+          "title": "ACCA-X online courses in accounting, business and finance"
         },
         {
           "url": "https://wiki.emory.edu/label/19+center+daily+evaluation+regional",
           "title": "Emory Login Service"
         },
         {
-          "url": "http://www.esa.int/",
-          "title": "European Space Agency"
-        },
-        {
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Juice",
           "title": "ESA - Juice"
+        },
+        {
+          "url": "http://www.esa.int/",
+          "title": "European Space Agency"
         },
         {
           "url": "http://www.geonames.org/",
@@ -48,10 +40,6 @@
           "title": "Home :: Human Resources | The University of New Mexico"
         },
         {
-          "url": "https://its.ucsc.edu/terms/",
-          "title": "Website Privacy and Terms and Conditions - Information Technology Services"
-        },
-        {
           "url": "https://tvtropes.org/pmwiki/article_history.php?article=Creator.Harmonix",
           "title": "LoginPrompt - TV Tropes"
         },
@@ -68,6 +56,10 @@
           "title": "Propagande radiophonique"
         },
         {
+          "url": "https://downtownaustin.com/covid-19/roadmap-to-recovery/",
+          "title": "Roadmap to Recovery and Resilience | Downtown Austin Alliance"
+        },
+        {
           "url": "https://www.somaiya.edu/en",
           "title": "Somaiya Vidyavihar University"
         },
@@ -80,8 +72,16 @@
           "title": "TED: Ideas worth spreading"
         },
         {
+          "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3",
+          "title": "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics - American Economic Association"
+        },
+        {
           "url": "https://www.aub.edu.lb/fafs/pages/default.aspx",
           "title": "The Faculty of Agricultural and Food Sciences"
+        },
+        {
+          "url": "https://its.ucsc.edu/terms/",
+          "title": "Website Privacy and Terms and Conditions - Information Technology Services"
         }
       ],
       "count": 20
@@ -92,10 +92,6 @@
         {
           "url": "https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968",
           "title": "99% of AI Startups Will Be Dead by 2026 - Here's Why | by Srinivas Rao | Medium"
-        },
-        {
-          "url": "https://www.airtable.com/downloads",
-          "title": "Downloads - Airtable"
         },
         {
           "url": "https://www.appypie.com/",
@@ -110,12 +106,12 @@
           "title": "Brightcove | Leading Video Hosting & Streaming Platform"
         },
         {
-          "url": "https://cloudsecurityalliance.org/star/registry/github-inc/",
-          "title": "STAR Registry | CSA"
-        },
-        {
           "url": "https://www.movidaapple.com/blog/2014/01/25/apple-coloca-mensajes-con-bombillas-led-en-las-apple-store-para-el-3%ef%a3%bf-aniversario-mac-imagen/?shared=email&msg=fail",
           "title": "Colocan mensajes con bombillas LED en las Apple Store para el 3 aniversario Mac [imagen] - Movida Apple"
+        },
+        {
+          "url": "https://www.airtable.com/downloads",
+          "title": "Downloads - Airtable"
         },
         {
           "url": "http://www.comcraftfr.com/",
@@ -150,6 +146,10 @@
           "title": "Sign in for Software Support and Product Help - GitHub Support"
         },
         {
+          "url": "https://cloudsecurityalliance.org/star/registry/github-inc/",
+          "title": "STAR Registry | CSA"
+        },
+        {
           "url": "http://Surface.com/Storage",
           "title": "Surface storage options and hard drive sizes - Microsoft Support"
         },
@@ -165,7 +165,7 @@
       "count": 18
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://abortiondefensenetwork.org/",
@@ -176,16 +176,20 @@
           "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://www.beyondbenign.org/",
-          "title": "Home - Beyond Benign"
-        },
-        {
           "url": "https://www.centerffs.org",
           "title": "Center for Family Services"
         },
         {
           "url": "http://www.nativestartup.org/",
           "title": "Change Labs"
+        },
+        {
+          "url": "https://www.beyondbenign.org/",
+          "title": "Home - Beyond Benign"
+        },
+        {
+          "url": "https://www.ndf.fi/",
+          "title": "Home - Nordic Development Fund"
         },
         {
           "url": "https://www.robinhood.org/",
@@ -230,10 +234,6 @@
         {
           "url": "https://go.peoplepower.org/signup/join-our-people-power-volunteer-teams/?type=call",
           "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
-        },
-        {
-          "url": "https://www.ndf.fi/",
-          "title": "Home - Nordic Development Fund"
         }
       ],
       "count": 17
@@ -293,7 +293,53 @@
       "count": 12
     },
     {
-      "name": "blogs-personal",
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.wcpo.com/news/local-news/clermont-county/ohio-township/coroner-four-people-dead-in-home-in-ohio-township-near-new-richmond",
+          "title": "4 dead, 1 hospitalized after 'potential murder-suicide' near New Richmond in Ohio Township"
+        },
+        {
+          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
+          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
+        },
+        {
+          "url": "https://www.westword.com/news/chris-hinds-act-signed-into-law-by-governor-john-hickenlooper-on-may-29-10364152",
+          "title": "Chris Hinds Act Signed Into Law by Governor John Hickenlooper on May 29 | Denver Westword"
+        },
+        {
+          "url": "http://www.radioampm.com.ar/2017/10/direcotora-de-turismo.html",
+          "title": "Direcotora de Turismo"
+        },
+        {
+          "url": "https://www.npr.org/2023/02/28/1160018771/disney-world-desantis-special-district",
+          "title": "Disney World's special status dealt another blow by Florida Gov. Ron DeSantis : NPR"
+        },
+        {
+          "url": "https://www.ipsnoticias.net",
+          "title": "Home : IPS Agencia de Noticias"
+        },
+        {
+          "url": "https://www.infoszeged.hu/hirek/helyi_hirek/elegedettek/",
+          "title": "Hírek | infoSzeged | Friss hírek, helyi hírek, országos hírek, sport hírek, bulvár hírek"
+        },
+        {
+          "url": "http://www.ilfoglio.it/",
+          "title": "Il Foglio - Edizione Online"
+        },
+        {
+          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
+          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
+        },
+        {
+          "url": "https://www.la-croix.com/elections/resultats-presidentielles/bas-rhin-67/bernolsheim-67170",
+          "title": "Résultats présidentielle 2022 : Bernolsheim (67170)"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://b8horpet.tumblr.com/",
@@ -302,6 +348,10 @@
         {
           "url": "http://www.aspes-navaho.homepage.t-online.de/phpBB/index.php?sid=6862558204e2a92a628e89b24e821510",
           "title": "Aspes Forum • Foren-Übersicht"
+        },
+        {
+          "url": "https://www.natalido.com/cambodia",
+          "title": "Cambodia | natalido"
         },
         {
           "url": "https://cynalune.blogspot.com/2012/07/truc-ou-j-en-ai-marre.html",
@@ -328,58 +378,8 @@
           "title": "The spectacular Tradescant tomb: \"a world of wonders in one closet shut\" - Flickering Lamps"
         },
         {
-          "url": "https://www.natalido.com/cambodia",
-          "title": "Cambodia | natalido"
-        },
-        {
           "url": "https://wrappedup-nca-wa.tumblr.com/",
           "title": "Wrappedup NCA WA"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "news-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.wcpo.com/news/local-news/clermont-county/ohio-township/coroner-four-people-dead-in-home-in-ohio-township-near-new-richmond",
-          "title": "4 dead, 1 hospitalized after 'potential murder-suicide' near New Richmond in Ohio Township"
-        },
-        {
-          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
-          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
-        },
-        {
-          "url": "https://www.westword.com/news/chris-hinds-act-signed-into-law-by-governor-john-hickenlooper-on-may-29-10364152",
-          "title": "Chris Hinds Act Signed Into Law by Governor John Hickenlooper on May 29 | Denver Westword"
-        },
-        {
-          "url": "https://www.npr.org/2023/02/28/1160018771/disney-world-desantis-special-district",
-          "title": "Disney World's special status dealt another blow by Florida Gov. Ron DeSantis : NPR"
-        },
-        {
-          "url": "http://www.radioampm.com.ar/2017/10/direcotora-de-turismo.html",
-          "title": "Direcotora de Turismo"
-        },
-        {
-          "url": "https://www.infoszeged.hu/hirek/helyi_hirek/elegedettek/",
-          "title": "Hírek | infoSzeged | Friss hírek, helyi hírek, országos hírek, sport hírek, bulvár hírek"
-        },
-        {
-          "url": "https://www.ipsnoticias.net",
-          "title": "Home : IPS Agencia de Noticias"
-        },
-        {
-          "url": "http://www.ilfoglio.it/",
-          "title": "Il Foglio - Edizione Online"
-        },
-        {
-          "url": "https://www.glamourmagazine.co.uk/article/paris-hilton-interview-2023",
-          "title": "Paris Hilton On Her Dark Past, Misogyny & Becoming A Mum | Glamour UK"
-        },
-        {
-          "url": "https://www.la-croix.com/elections/resultats-presidentielles/bas-rhin-67/bernolsheim-67170",
-          "title": "Résultats présidentielle 2022 : Bernolsheim (67170)"
         }
       ],
       "count": 10
@@ -392,8 +392,16 @@
           "title": "300-Thread Count Rayon Made From Bamboo Cotton Sateen Sheet Set | The Company Store"
         },
         {
+          "url": "https://www.snackcrate.com/",
+          "title": "A Monthly Box from Around the World | SnackCrate"
+        },
+        {
           "url": "https://www.eibabo.be/fr/abb/barre-de-phase-tripolaire-10mm2-ps-3-12-fi-eb10643883",
           "title": "ABB | PS 3/12 FI | Jeu de barres - Barre de phase tripolaire 10mm² PS 3/12 FI | 2CDL230002R1012 | Peigne de raccordement"
+        },
+        {
+          "url": "https://www.sephora.sg/products/espressoh-glassy-blush-by-the-glass/v/default",
+          "title": "Buy Makeup, Cosmetics and Skincare | Sephora Singapore"
         },
         {
           "url": "https://us.lookfantastic.com/offers/beauty-box.list",
@@ -406,14 +414,6 @@
         {
           "url": "https://www.aubane-editions.fr/produit/repaire-de-fantomes/",
           "title": "Repaire de fantômes - Aubane Éditions"
-        },
-        {
-          "url": "https://www.sephora.sg/products/espressoh-glassy-blush-by-the-glass/v/default",
-          "title": "Buy Makeup, Cosmetics and Skincare | Sephora Singapore"
-        },
-        {
-          "url": "https://www.snackcrate.com/",
-          "title": "A Monthly Box from Around the World | SnackCrate"
         },
         {
           "url": "https://www.ikea.com/gb/en/cat/sofas-beds-10663/",

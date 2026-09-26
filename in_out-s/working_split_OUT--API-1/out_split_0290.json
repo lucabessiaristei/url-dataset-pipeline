@@ -77,42 +77,8 @@
       "count": 7
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://tfxmiisery.tumblr.com/",
-          "title": "@tfxmiisery on Tumblr"
-        },
-        {
-          "url": "https://www.robweir.com/blog/2006/08",
-          "title": "August 2006"
-        },
-        {
-          "url": "https://www.freudeforever.com/",
-          "title": "Freude Forever"
-        },
-        {
-          "url": "https://zsinger55.tumblr.com/",
-          "title": "Just Another Blog"
-        },
-        {
-          "url": "http://thoseheavenlydays.com/2016/06/23/oh-baby/",
-          "title": "Oh Baby! | Those Heavenly Days"
-        },
-        {
-          "url": "https://loopholesonlife.com/s01e08-exotics-of-music-2/",
-          "title": "S01E08 exotics of music - Loopholes on Life"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "misc-specialty-sites",
       "bookmarks": [
-        {
-          "url": "https://bavc.org",
-          "title": "Home - BAVC Media"
-        },
         {
           "url": "https://www.gereve63.net/collections/beaux-arts/",
           "title": "Dans les musées - Blocs-photos"
@@ -120,6 +86,10 @@
         {
           "url": "https://discoveryplus.com",
           "title": "discovery+ | Stream Real-Life TV Episodes"
+        },
+        {
+          "url": "https://bavc.org",
+          "title": "Home - BAVC Media"
         },
         {
           "url": "https://iloveveterinary.com/",
@@ -162,6 +132,36 @@
         {
           "url": "https://www.rawstory.com/",
           "title": "Raw Story - Celebrating 20 Years of Independent Journalism"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://tfxmiisery.tumblr.com/",
+          "title": "@tfxmiisery on Tumblr"
+        },
+        {
+          "url": "https://www.robweir.com/blog/2006/08",
+          "title": "August 2006"
+        },
+        {
+          "url": "https://www.freudeforever.com/",
+          "title": "Freude Forever"
+        },
+        {
+          "url": "https://zsinger55.tumblr.com/",
+          "title": "Just Another Blog"
+        },
+        {
+          "url": "http://thoseheavenlydays.com/2016/06/23/oh-baby/",
+          "title": "Oh Baby! | Those Heavenly Days"
+        },
+        {
+          "url": "https://loopholesonlife.com/s01e08-exotics-of-music-2/",
+          "title": "S01E08 exotics of music - Loopholes on Life"
         }
       ],
       "count": 6
@@ -253,7 +253,7 @@
       "count": 5
     },
     {
-      "name": "lifestyle-guides",
+      "name": "guides-lifestyle",
       "bookmarks": [
         {
           "url": "https://www.thearma.org/essays.htm",
@@ -393,24 +393,6 @@
       "count": 4
     },
     {
-      "name": "ai-ml-tech",
-      "bookmarks": [
-        {
-          "url": "https://www.jasper.ai/",
-          "title": "AI built for marketing | Jasper"
-        },
-        {
-          "url": "https://deepmind.google/discover/blog",
-          "title": "Blog - Google DeepMind"
-        },
-        {
-          "url": "https://octoverse.github.com/",
-          "title": "Octoverse 2024: The state of open source | The State of the Octoverse"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "cs-education-articles",
       "bookmarks": [
         {
@@ -478,6 +460,24 @@
         {
           "url": "https://www.radc.rush.edu/docs/parentStudyDesigns.htm;jsessionid=228FF4F01D85B9C8D3A22EEC666D615D",
           "title": "Study Design Summaries | RADC"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "tech-ai-ml",
+      "bookmarks": [
+        {
+          "url": "https://www.jasper.ai/",
+          "title": "AI built for marketing | Jasper"
+        },
+        {
+          "url": "https://deepmind.google/discover/blog",
+          "title": "Blog - Google DeepMind"
+        },
+        {
+          "url": "https://octoverse.github.com/",
+          "title": "Octoverse 2024: The state of open source | The State of the Octoverse"
         }
       ],
       "count": 3

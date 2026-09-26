@@ -4,10 +4,6 @@
       "name": "tech-tools",
       "bookmarks": [
         {
-          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
-          "title": "‎YouTube TV on the App Store"
-        },
-        {
           "url": "https://slidesgo.com/",
           "title": "Free Google Slides themes and Powerpoint templates | Slidesgo"
         },
@@ -34,6 +30,10 @@
         {
           "url": "http://www.nplayer.tv",
           "title": "nPlayer - The best mobile player in the world"
+        },
+        {
+          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
+          "title": "‎YouTube TV on the App Store"
         }
       ],
       "count": 8
@@ -137,7 +137,7 @@
       "count": 6
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://vote.civicnation.org/register/goodwill/",
@@ -220,12 +220,12 @@
       "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://www.howardstern.com/",
-          "title": "Howard Stern"
-        },
-        {
           "url": "https://sw.fanpop.com/clubs/michael-jackson/show/88?sort_method=rating",
           "title": "fanpop - Sign In au Register"
+        },
+        {
+          "url": "https://www.howardstern.com/",
+          "title": "Howard Stern"
         }
       ],
       "count": 2

@@ -37,12 +37,6 @@
       "preview": "Getting Started Watching TV Account Management Troubleshooting Frequently Asked Questions How do I restart my subscription? How do I sign up for a Fre"
     },
     {
-      "url": "https://data.humdata.org/dataset/cod-ab-ukr",
-      "title": "Ukraine - Subnational Administrative Boundaries | Humanitarian Dataset | HDX",
-      "description": "The actual boundaries were most recently adjusted in: January 2025. Boundary information source: State Scientific Production Enterprise \"Kartographia\". Contributor: OCHA Field Information Services Section (FISS). COD-AB quality level: cod-enhanced (geometry and attributes verified and standardized). Most recent COD-AB review conclusion: The COD-AB does not require any update. An edge-matched (COD-EM) dataset is available COD-EM HDX link: https://data.humdata.org/dataset/cod-em-ukr. OCHA country status: Operational (country office). Most recent COD-AB review date: January 2025. Deepest administrative level: ADM4. COD-PS HDX URL: https://data.humdata.org/dataset/cod-ps-ukr. Deepest administrative level with complete coverage: ADM3. Administrative level required by humanitarian community: ADM2. Note: The Ukrainian government has not fully implemented its new administrative structure reforms in the Autonomous Republic of Crimea [UA01] and Sevastopol [UA85]. Consequently, 31 ADM4 features within the Sevastopol ADM3 polygon retain P-codes that do not correctly conform to [UA85]. This will be rectified in a COD-AB update once the government has regained control of the Crimean Peninsula. Note: Some administrative feature names were adjusted in a September/October 2024 administratrive feature renaming exercise. See reference table at https://data.humdata.org/dataset/cod-ab-ukr. Note: The Ukraine COD-AB was most recently adjusted in early 2024 - affecting administrative level 3 (hromadas) only. Note: The population statistics common operational dataset (COD-PS-UKR) is only available via special request. See [Ukraine - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ukr). Users should use the 'Request Data' button. Note: Limitations of the Ukrainian-to-Russian transliteration method mean that more than one Ukrainian name may be represented by a single Russian feature name. Note: Feature name attribute fields in this dataset incorrectly use 'UA' to represent the Ukrainian language. The correct language code is 'UK'. This will be resolved in 2026. Note: ADM0 is not affected by the September/October 2024 administrative feature renaming exercise. Typical feature type: oblast (region) with three exceptions. P-code format: UAnn. COD-PS compatibility: ADM0, ADM1, ADM2. OCHA region: Europe. Feature count: 27. The ADM1 layer can be linked by P-CODE to the ADM1 Population statistics. Note: Kyiv (city) [UA80] and Sevastopol [UA85] are each a 'city with special status' rather than an 'oblast'. Note: Crimea [UA01] is an 'autonomous republic' rather than an 'oblast'. Note: However, Ukraine Population Statistics are only available on special request. ADMINISTRATIVE LEVEL 4 metadata: Typical feature type: ADM4 features may be of 'city', 'settlement', or 'village' type. However, all 'village' features are currently categorized in the 'ADM4_TYPE' as a 'settlement'. This is expected to be resolved in 2026. P-code format: UAnnnnnnnnnn. Feature count: 29707. COD-PS compatibility: no ADM4 population statistics are available. COD-PS HDX URL: https://data.humdata.org/dataset/cod-ps-ukr. Note: 329 ADM4 features were affected by the September/October 2024 administrative feature renaming excercise. Specific details are provided in the 'ADM4' tab of the 'UKR_Admin234_Renaming_ReferenceTable_20250123.xlsx' reference table available on the HDX dataset [Ukraine - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-ukr). Note: The COD-AB ADM4 boundary attributes for this COD-AB have not been adjusted. The Ukrainian government has not fully implemented its new administrative structure reforms in the Autonomous Republic of Crimea [UA01] and Sevastopol [UA85]. Consequently, 31 ADM4 features within the Sevastopol ADM3 polygon retain P-codes that do not correctly conform to [UA85]. This will be rectified in a COD-AB update once the government has regained control of the Crimean Peninsula. Access the Ukraine - Subnational Administrative Boundaries dataset to support humanitarian efforts.",
-      "preview": "You logged out of HDX Thank you for using HDX ! Ukraine - Subnational Administrative Boundaries This dataset is part of the Ukraine Data Grid Get Noti"
-    },
-    {
       "url": "https://www.woodfordreserve.com/",
       "title": "Homepage - Woodford Reserve",
       "description": "Woodford Reserve isn't manufactured, it's hand crafted in small batches. This artisanal process allows us to craft it at all five sources of bourbon flavor giving it its distinct taste and crisp, clean finish.",
@@ -193,12 +187,6 @@
       "preview": "top of page AES Society Mission AES Electrophoresis Society is a unique, non-profit, international organization founded to advance and promote electri"
     },
     {
-      "url": "https://www.penguinrandomhouse.com/books/318615/my-name-is-barbra-by-barbra-streisand/?ref=PRH61D056F1F743&aid=3377&linkid=PRH61D056F1F743",
-      "title": "My Name Is Barbra by Barbra Streisand: 9780525429524 | PenguinRandomHouse.com: Books",
-      "description": "The long-awaited memoir by the superstar of stage, screen, recordings, and television Barbra Streisand is by any account a living legend, a woman who...",
-      "preview": "Skip to Main Content (Press Enter) 📝 Quiz: What Book Should You Read Next? 📝 Quiz: What Book Should You Read Next? Books Kids Popular Authors & Events"
-    },
-    {
       "url": "https://www.nih.gov/news-events/news-releases",
       "title": "News Releases | National Institutes of Health (NIH)",
       "description": "News releases from the National Institutes of Health.",
@@ -265,12 +253,6 @@
       "preview": "About IMF's Work RESOURCES TOPICS IMF at a Glance Surveillance Lending Capacity Development IMF Factsheets List How the IMF Supports the Global Econom"
     },
     {
-      "url": "http://ambitointernacional.com/azerbaiyan-primera-republica-parlamentaria-en-todo-el-oriente-musulman/",
-      "title": "Azerbaiyán, primera República parlamentaria en todo el Oriente Musulmán - Ámbito Internacional",
-      "description": "Desde la recuperación de la independencia han sido un faro en su camino de progreso",
-      "preview": "Connect with us Share Tweet La vida lentamente esta volviendo a la normalidad en algunos países, luego de experimentar un alivio de la asfixiante pand"
-    },
-    {
       "url": "https://help.venmo.com/",
       "title": "Venmo Help Center and Support | Venmo",
       "description": "Looking for Venmo support? Find answers to commonly asked questions relating to your personal or business account.",
@@ -287,12 +269,6 @@
       "title": "UNU | United Nations University",
       "description": "void",
       "preview": "Skip to main content Evidence-based Solutions for a Sustainable Future UNU@50: EXPLORE UNU'S HISTORY, IMPACT AND FUTURE Expert Insights Blog Post Endi"
-    },
-    {
-      "url": "https://www.dbricette.it/index.htm",
-      "title": "DBRicette: Home Page",
-      "description": "void",
-      "preview": "DBRICETTE by Giorgio Musilli Il database di ricette più usato della rete Benvenuti! Proponiamo una grande raccolta di ricette in italiano. Insieme svi"
     },
     {
       "url": "https://newsroom.ie.paypal-corp.com/home",
@@ -403,12 +379,6 @@
       "preview": "Index of /biblio Name Last modified Size Description Parent Directory - export/ 2020-07-21 09:41 - filter.html 2020-07-18 03:06 64K filter0a3b.html 20"
     },
     {
-      "url": "https://alinacfisher.ca/media/articles/",
-      "title": "Articles - Alina C Fisher",
-      "description": "A selection of the articles I've written.",
-      "preview": "Skip to content Canada can save our wildlife species without sacrificing the economy - Dec 2022 The effects of \"outdoor\" domestic cats on wildlife - M"
-    },
-    {
       "url": "https://about.ads.microsoft.com/en-us/resources/microsoft-advertising-partner-program/microsoft-advertising-partner-program",
       "title": "Microsoft Advertising Partner Program",
       "description": "Get access to exclusive partner events, growth opportunities, and connect with a community of your peers. Receive recognition for your exceptional work and take your business to the next level.",
@@ -421,22 +391,10 @@
       "preview": "關於IARC | IARC 的運作方式 | 針對開發人員 | 新聞 | 聯繫方式 About IARC | How IARC Works | For Developers | News | Contact ÜBER IARC | WIE IARC ARBEITET | FÜR ENTWICKLER"
     },
     {
-      "url": "https://secure.donorschoose.org/donors/giving_history.html",
-      "title": "DonorsChoose Sign In | Public School Donations",
-      "description": "Sign in or create a new account to make public school donations via DonorsChoose",
-      "preview": "You're on track to get doubled donations (and unlock a reward for the colleague who referred you). Keep up the great work! Take credit for your charit"
-    },
-    {
       "url": "https://mb.oemdtc.com",
       "title": "Mercedes-Benz & Smart - OEMDTC",
       "description": "Mercedes-Benz & Smart Recalls, Technical Service Bulletins TSB's, Diagnostic & Repair Tips",
       "preview": "Skip to content"
-    },
-    {
-      "url": "http://www.obitalk.com/forum/index.php?action=printpage;topic=18685.0",
-      "title": "OBiTALK",
-      "description": "void",
-      "preview": "As of May 31st, 2025, PDMS-SP is no longer available. HP has decommissioned the service and disposed of all stored data. Authorized HP Partners may re"
     },
     {
       "url": "https://posthumanitieshub.net/2019/05/23/workshop-becoming-with-alien-encounters-and-speculative-storytelling/",
@@ -449,12 +407,6 @@
       "title": "1000PS Motorrad Forum - Die stärkste Motorradseite im Internet",
       "description": "1000PS.at, die stäkste Motorradseite im Internet. Bietet Testberichte, MotoGP Berichte, ein Forum, eine kostenlose Gebrauchtbörse für Motorräder, Motorrad Videos, Preisvergleich von Zubehör, Bekleidung und Helmen von mehr als 600 Motorradhändlern.",
       "preview": "Thema Antworten Aufrufe Aktivität Willkommen beim 1000PS Motorrad-Forum 1 71356 24. November 2020 Motorradtour mit Übernachtung Südeuropa 1 38 5. Okto"
-    },
-    {
-      "url": "https://sandiegozoowildlifealliance.org/",
-      "title": "San Diego Zoo Wildlife Alliance | Home page",
-      "description": "void",
-      "preview": "Skip to main content San Diego Zoo Visit Tickets Upgraded Experiences Plan Your Visit Renew/Rejoin Shop Safari Park Visit Tickets Safaris Plan Your Vi"
     },
     {
       "url": "https://mb.oemdtc.com/category/recalls",
@@ -668,6 +620,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 111
+    "total_bookmarks": 103
   }
 }

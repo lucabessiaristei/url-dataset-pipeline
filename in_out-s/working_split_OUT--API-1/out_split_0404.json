@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.buyfromablackwoman.org/",
@@ -10,10 +10,6 @@
         {
           "url": "https://copalmn.org/en/home/",
           "title": "COPAL Communities Organizing Latine Power and Action - COPAL leads social impact initiatives to improve the quality of life for Latino families in Minnesota."
-        },
-        {
-          "url": "https://www.cvaacc.org/",
-          "title": "Home"
         },
         {
           "url": "https://secure.qgiv.com/for/gt7d",
@@ -28,6 +24,18 @@
           "title": "Headwaters Foundation for Justice"
         },
         {
+          "url": "https://www.cvaacc.org/",
+          "title": "Home"
+        },
+        {
+          "url": "https://www.marylandbcc.org/",
+          "title": "Home - The Maryland Black Chamber of Commerce"
+        },
+        {
+          "url": "https://ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
+        },
+        {
           "url": "https://lulac.org/",
           "title": "LULAC"
         },
@@ -36,20 +44,12 @@
           "title": "MAD - A community of chefs, cooks and farmers with an appetite for knowledge."
         },
         {
-          "url": "https://www.marylandbcc.org/",
-          "title": "Home - The Maryland Black Chamber of Commerce"
-        },
-        {
           "url": "http://northsidefunders.org/",
           "title": "Northside Funders Group"
         },
         {
           "url": "http://www.srsh.org/",
           "title": "Scott's Run Settlement House | Food Pantry | Monongalia | Morgantown, WV"
-        },
-        {
-          "url": "https://ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
         }
       ],
       "count": 12
@@ -62,8 +62,20 @@
           "title": "Ayurvedic College to be set up in Gujarat - The Hindu BusinessLine"
         },
         {
+          "url": "https://www.montgomerycollege.edu/contact-us/index.html#interpreter",
+          "title": "Contact Us | Montgomery College, Maryland"
+        },
+        {
           "url": "http://devbootcamp.com/",
           "title": "Dev Bootcamps NYC: Coding Classes & Bootcamps in NYC"
+        },
+        {
+          "url": "https://teachergoesbacktoschool.org/tag/freeing-the-writer-within/",
+          "title": "Freeing The Writer Within | Teacher Goes Back to School"
+        },
+        {
+          "url": "https://posgrado.cientifica.edu.pe/",
+          "title": "Home Page | Universidad Científica del Sur"
         },
         {
           "url": "http://www.infinitec.org/team-sports",
@@ -74,16 +86,8 @@
           "title": "Items where Subject is \"N Fine Arts > NE Print media\" - Paramadina Repository"
         },
         {
-          "url": "https://www.montgomerycollege.edu/contact-us/index.html#interpreter",
-          "title": "Contact Us | Montgomery College, Maryland"
-        },
-        {
           "url": "https://survey.alchemer.com/s3/6280963/PLOS-Editorial-Board-Application",
           "title": "PLOS Editorial Board Application 2022"
-        },
-        {
-          "url": "https://posgrado.cientifica.edu.pe/",
-          "title": "Home Page | Universidad Científica del Sur"
         },
         {
           "url": "http://savoirs.ens.fr/conferencier.php?id=3344",
@@ -92,10 +96,6 @@
         {
           "url": "https://www.somaiya.edu/en",
           "title": "Somaiya Vidyavihar University"
-        },
-        {
-          "url": "https://teachergoesbacktoschool.org/tag/freeing-the-writer-within/",
-          "title": "Freeing The Writer Within | Teacher Goes Back to School"
         },
         {
           "url": "http://www.uniurb.it/",
@@ -108,16 +108,16 @@
       "name": "business-corporate",
       "bookmarks": [
         {
-          "url": "https://chronicle.security/",
-          "title": "Google Security Operations | Google Cloud"
-        },
-        {
           "url": "https://www.ganotechnologies.com",
           "title": "Gano Technologies LLC - Home Page"
         },
         {
           "url": "http://www.gennx360.com/",
           "title": "GenNx360 | Private Equity | Middle-Market | Industrial Business Services"
+        },
+        {
+          "url": "https://chronicle.security/",
+          "title": "Google Security Operations | Google Cloud"
         },
         {
           "url": "http://guysaircraft.com/",
@@ -147,7 +147,7 @@
       "count": 9
     },
     {
-      "name": "entertainment-and-hobbies",
+      "name": "entertainment-hobbies",
       "bookmarks": [
         {
           "url": "http://www.dickestel.com/classicexpo2004.htm",
@@ -158,24 +158,24 @@
           "title": "La meilleure application de streaming de musique classique | IDAGIO"
         },
         {
-          "url": "https://thefox.withemes.com/clean/facilisi-cum-ne-ad-vero-dolorem-quo/",
-          "title": "Notion"
-        },
-        {
           "url": "http://www.quickmeme.com/lolz/Misc/page/1",
           "title": "Misc memes | quickmeme"
+        },
+        {
+          "url": "https://thefox.withemes.com/clean/facilisi-cum-ne-ad-vero-dolorem-quo/",
+          "title": "Notion"
         },
         {
           "url": "https://somethinginthewater.com/",
           "title": "SOMETHING IN THE WATER | Virginia Beach, VA"
         },
         {
-          "url": "https://www.thecenturybar.com.au/",
-          "title": "TheCenturyBar | Dartsman | Australia"
-        },
-        {
           "url": "https://typewriterdatabase.com/",
           "title": "The Typewriter Database - Version Epsilon"
+        },
+        {
+          "url": "https://www.thecenturybar.com.au/",
+          "title": "TheCenturyBar | Dartsman | Australia"
         },
         {
           "url": "https://www.onkelpoppi.de/vollgepumpt-mit-blei-playerunknowns-battlegrounds-pubg/",
@@ -191,10 +191,6 @@
     {
       "name": "media-articles",
       "bookmarks": [
-        {
-          "url": "https://www.aviationsafetymagazine.com/features/why-twins-crash/",
-          "title": "Why Twins Crash - Aviation Safety"
-        },
         {
           "url": "https://www.wmagazine.com/culture/chrishell-stause-selling-sunset-interview",
           "title": "Chrishell Stause on 'Selling Sunset,' and Loving Horror Films"
@@ -226,6 +222,10 @@
         {
           "url": "https://thenewinquiry.com/blog/social-graph-vs-social-class/",
           "title": "Social graph vs. social class - The New Inquiry"
+        },
+        {
+          "url": "https://www.aviationsafetymagazine.com/features/why-twins-crash/",
+          "title": "Why Twins Crash - Aviation Safety"
         }
       ],
       "count": 9
@@ -234,16 +234,8 @@
       "name": "misc-international",
       "bookmarks": [
         {
-          "url": "https://alicealinhavandoletras.com/2021/05/19/folha-seca/",
-          "title": "Poesia da casa - Folha seca - Blog de de Alice - Alinhavando letras"
-        },
-        {
           "url": "https://alcsutdoboz.hu/bako-szilvia-allando-lakhelyenek-fiktivalasa/",
           "title": "Bakó Szilvia állandó lakhelyének fiktíválása - A l c s ú t d o b o z"
-        },
-        {
-          "url": "https://bordadosloymar.es/brands",
-          "title": "QQDEWI | Official Link Resmi Paling Terkenal Di Indonesia"
         },
         {
           "url": "https://jalhay-commerces.be/commune/Engis/4480/",
@@ -254,6 +246,14 @@
           "title": "Dobitnica bonbončka je ..."
         },
         {
+          "url": "https://deportecienporcien.com/jacobsen-me-gustaria-jugar-en-espana/",
+          "title": "JACOBSEN: «ME GUSTARÍA JUGAR EN ESPAÑA» - Deporte Cien Por Cien"
+        },
+        {
+          "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=5458365bbfef322424b92d972608bb59",
+          "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
+        },
+        {
           "url": "http://www.musica.it/",
           "title": "Musica.it"
         },
@@ -262,12 +262,12 @@
           "title": "PADOVA ESTREMA. HERE COME THE FREAKS: AND HARMONY DIES+DAMNATION GALLERY+HARKANE+MILL OF STONE - VENERDI' 12 OTTOBRE - Grind House Club"
         },
         {
-          "url": "https://deportecienporcien.com/jacobsen-me-gustaria-jugar-en-espana/",
-          "title": "JACOBSEN: «ME GUSTARÍA JUGAR EN ESPAÑA» - Deporte Cien Por Cien"
+          "url": "https://alicealinhavandoletras.com/2021/05/19/folha-seca/",
+          "title": "Poesia da casa - Folha seca - Blog de de Alice - Alinhavando letras"
         },
         {
-          "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=5458365bbfef322424b92d972608bb59",
-          "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
+          "url": "https://bordadosloymar.es/brands",
+          "title": "QQDEWI | Official Link Resmi Paling Terkenal Di Indonesia"
         }
       ],
       "count": 9
@@ -276,12 +276,16 @@
       "name": "dev-resources",
       "bookmarks": [
         {
-          "url": "https://hype4.academy/tools/glassmorphism-generator",
-          "title": "Glassmorphism CSS Generator | SquarePlanet | SquarePlanet"
+          "url": "https://photoai.com/ai-avatars?ref=avatarai",
+          "title": "Avatar AI™ | Professional Photo Shoots with AI"
         },
         {
           "url": "https://rubygems.org/gems/git_remote_branch/versions/0.3.5?locale=zh-CN",
           "title": "git_remote_branch | RubyGems.org | 您的社区 Gem 托管中心"
+        },
+        {
+          "url": "https://hype4.academy/tools/glassmorphism-generator",
+          "title": "Glassmorphism CSS Generator | SquarePlanet | SquarePlanet"
         },
         {
           "url": "https://import-os.tumblr.com/post/127990811278",
@@ -296,10 +300,6 @@
           "title": "MySQL :: MySQL 8.0 Reference Manual :: 12.9.1 The utf8mb4 Character Set (4-Byte UTF-8 Unicode Encoding)"
         },
         {
-          "url": "https://photoai.com/ai-avatars?ref=avatarai",
-          "title": "Avatar AI™ | Professional Photo Shoots with AI"
-        },
-        {
           "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
           "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
         },
@@ -311,37 +311,7 @@
       "count": 8
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://mangakoibitochan.tumblr.com/",
-          "title": "ADHD Ahead!"
-        },
-        {
-          "url": "https://aferael.tumblr.com/",
-          "title": "Bane of Light"
-        },
-        {
-          "url": "https://artfulvoyage.tumblr.com/",
-          "title": "Artful Voyage"
-        },
-        {
-          "url": "https://venividigames.tumblr.com/",
-          "title": "VeniVidiGames"
-        },
-        {
-          "url": "https://littlespookykid.tumblr.com/",
-          "title": "🌙"
-        },
-        {
-          "url": "https://xchaoticrage.tumblr.com/",
-          "title": "💗VII-XVIII-MCMXCIII 💗"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "government-and-civic",
+      "name": "government-civic",
       "bookmarks": [
         {
           "url": "https://apply.royal.uk/Apply/",
@@ -375,7 +345,7 @@
       "count": 7
     },
     {
-      "name": "shopping-and-travel",
+      "name": "shopping-travel",
       "bookmarks": [
         {
           "url": "https://www.1p.sg/products/apple-iphone-7-32gb",
@@ -443,59 +413,37 @@
       "count": 7
     },
     {
-      "name": "art-and-photography",
+      "name": "personal-blogs",
       "bookmarks": [
         {
-          "url": "https://tave.com/pashabelman-inline/contact/photographer",
-          "title": "Contact Pasha Belman Photography"
+          "url": "https://mangakoibitochan.tumblr.com/",
+          "title": "ADHD Ahead!"
         },
         {
-          "url": "http://cuicuifactory.com/f0235-6624/",
-          "title": "f0235-6624 | CuiCui Factory"
+          "url": "https://artfulvoyage.tumblr.com/",
+          "title": "Artful Voyage"
         },
         {
-          "url": "https://www.metmuseum.org/art/collection/search?showOnly=withImage%7CopenAccess",
-          "title": "Search The Collection - The Metropolitan Museum of Art"
+          "url": "https://aferael.tumblr.com/",
+          "title": "Bane of Light"
         },
         {
-          "url": "https://gallery.theredmstudio.com/selfie",
-          "title": "The Red M Studio | First Let Me Take a Selfie"
+          "url": "https://venividigames.tumblr.com/",
+          "title": "VeniVidiGames"
         },
         {
-          "url": "https://www.typographicposters.com/",
-          "title": "typo/graphic posters"
+          "url": "https://littlespookykid.tumblr.com/",
+          "title": "🌙"
+        },
+        {
+          "url": "https://xchaoticrage.tumblr.com/",
+          "title": "💗VII-XVIII-MCMXCIII 💗"
         }
       ],
-      "count": 5
+      "count": 6
     },
     {
-      "name": "media-news",
-      "bookmarks": [
-        {
-          "url": "https://www.cbssports.com/nfl/news/amazon-founder-jeff-bezos-interested-in-owning-nfl-team-has-strong-support-among-current-owners/",
-          "title": "Amazon founder Jeff Bezos interested in owning NFL team, has strong support among current owners - CBS Sports"
-        },
-        {
-          "url": "http://hosted2.ap.org/APDefault/*/Article_2015-03-05-US--Blurred%20Lines-Song%20Dispute/id-a6024f2efd254832b069c86a57c70c44",
-          "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News"
-        },
-        {
-          "url": "https://www.pressherald.com/2023/02/27/missing-topsham-women-had-run-out-of-gas-survived-temps-of-15-degrees/",
-          "title": "Before rescue, missing Midcoast women were stuck in car for days in sub-zero temps"
-        },
-        {
-          "url": "https://www.nfl.com/news/sean-payton-introduced-broncos-head-coach-russell-wilson-greg-penner",
-          "title": "Sean Payton introduced as Broncos head coach, discusses plan for QB Russell Wilson"
-        },
-        {
-          "url": "https://www.ft.com/world/uk",
-          "title": "UK | Financial Times"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "reference-and-data",
+      "name": "reference-data",
       "bookmarks": [
         {
           "url": "http://www.geonames.org/about.html",
@@ -525,15 +473,93 @@
       "count": 6
     },
     {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "https://www.blackcurlmagic.com/wash-your-damn-hair/",
+          "title": "About 5 - Black Curl Magic"
+        },
+        {
+          "url": "https://www.yogabycandace.com/blog",
+          "title": "Blog - YOGABYCANDACE"
+        },
+        {
+          "url": "http://brokenjawtips.com/",
+          "title": "Ellen's Broken Jaw Tips"
+        },
+        {
+          "url": "https://accesshealth.com.au/product/lumbar-disc-hydrator-traction/",
+          "title": "Lumbar Disc Hydrator and Traction | Access Health"
+        },
+        {
+          "url": "https://www.healthmap.org/covid-19/",
+          "title": "Novel Coronavirus (COVID-19)"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.cbssports.com/nfl/news/amazon-founder-jeff-bezos-interested-in-owning-nfl-team-has-strong-support-among-current-owners/",
+          "title": "Amazon founder Jeff Bezos interested in owning NFL team, has strong support among current owners - CBS Sports"
+        },
+        {
+          "url": "http://hosted2.ap.org/APDefault/*/Article_2015-03-05-US--Blurred%20Lines-Song%20Dispute/id-a6024f2efd254832b069c86a57c70c44",
+          "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News"
+        },
+        {
+          "url": "https://www.pressherald.com/2023/02/27/missing-topsham-women-had-run-out-of-gas-survived-temps-of-15-degrees/",
+          "title": "Before rescue, missing Midcoast women were stuck in car for days in sub-zero temps"
+        },
+        {
+          "url": "https://www.nfl.com/news/sean-payton-introduced-broncos-head-coach-russell-wilson-greg-penner",
+          "title": "Sean Payton introduced as Broncos head coach, discusses plan for QB Russell Wilson"
+        },
+        {
+          "url": "https://www.ft.com/world/uk",
+          "title": "UK | Financial Times"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "photography-art",
+      "bookmarks": [
+        {
+          "url": "https://tave.com/pashabelman-inline/contact/photographer",
+          "title": "Contact Pasha Belman Photography"
+        },
+        {
+          "url": "http://cuicuifactory.com/f0235-6624/",
+          "title": "f0235-6624 | CuiCui Factory"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search?showOnly=withImage%7CopenAccess",
+          "title": "Search The Collection - The Metropolitan Museum of Art"
+        },
+        {
+          "url": "https://gallery.theredmstudio.com/selfie",
+          "title": "The Red M Studio | First Let Me Take a Selfie"
+        },
+        {
+          "url": "https://www.typographicposters.com/",
+          "title": "typo/graphic posters"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "science-oceanography",
       "bookmarks": [
         {
-          "url": "http://msi.ucsb.edu",
-          "title": "Home | UCSB Marine Science Institute"
-        },
-        {
           "url": "https://mpatlas.org/",
           "title": "Home | Marine Protection Atlas"
+        },
+        {
+          "url": "http://msi.ucsb.edu",
+          "title": "Home | UCSB Marine Science Institute"
         },
         {
           "url": "https://www.pewtrusts.org/en/projects/pew-bertarelli-ocean-legacy",
@@ -551,33 +577,7 @@
       "count": 5
     },
     {
-      "name": "health-and-wellness",
-      "bookmarks": [
-        {
-          "url": "https://www.blackcurlmagic.com/wash-your-damn-hair/",
-          "title": "About 5 - Black Curl Magic"
-        },
-        {
-          "url": "http://brokenjawtips.com/",
-          "title": "Ellen's Broken Jaw Tips"
-        },
-        {
-          "url": "https://accesshealth.com.au/product/lumbar-disc-hydrator-traction/",
-          "title": "Lumbar Disc Hydrator and Traction | Access Health"
-        },
-        {
-          "url": "https://www.healthmap.org/covid-19/",
-          "title": "Novel Coronavirus (COVID-19)"
-        },
-        {
-          "url": "https://www.yogabycandace.com/blog",
-          "title": "Blog - YOGABYCANDACE"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "food-and-recipes",
+      "name": "food-recipes",
       "bookmarks": [
         {
           "url": "https://www.duncanhines.com/dolly-parton",

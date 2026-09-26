@@ -4,6 +4,10 @@
       "name": "news-media",
       "bookmarks": [
         {
+          "url": "https://www.click2houston.com/news/local/2023/02/07/we-will-not-tolerate-theft-or-endangerment-of-our-animals-keepers-find-fence-cut-at-houston-zoo/",
+          "title": "'We will not tolerate theft or endangerment of our animals': Keepers find fence cut at Houston Zoo"
+        },
+        {
           "url": "https://www.abc.net.au/news/",
           "title": "ABC News - Trusted Source of Latest News & Headlines"
         },
@@ -12,28 +16,20 @@
           "title": "BNN Bloomberg - Canada Business News, TSX Today, Oil and Energy Prices"
         },
         {
-          "url": "https://www.click2houston.com/news/local/2023/02/07/we-will-not-tolerate-theft-or-endangerment-of-our-animals-keepers-find-fence-cut-at-houston-zoo/",
-          "title": "'We will not tolerate theft or endangerment of our animals': Keepers find fence cut at Houston Zoo"
+          "url": "https://gestion.pe/economia/consumo-pota-peruana-impulsado-demanda-mercados-asiaticos-264701-noticia/",
+          "title": "Consumo de pota peruana es impulsado por demanda de los mercados asiáticos | ECONOMIA | GESTIÓN"
         },
         {
           "url": "https://wjla.com/news/local/fairfax-county-public-schools-pulls-lgbtq-books-graphic-sex-libraries-virginia-lawn-boy-gender-queer",
           "title": "Fairfax schools pulls two LGBTQ+ books with graphic sex from high school libraries"
         },
         {
-          "url": "https://gestion.pe/economia/consumo-pota-peruana-impulsado-demanda-mercados-asiaticos-264701-noticia/",
-          "title": "Consumo de pota peruana es impulsado por demanda de los mercados asiáticos | ECONOMIA | GESTIÓN"
-        },
-        {
           "url": "https://help.providencejournal.com/",
           "title": "Help Center - The Providence Journal"
         },
         {
-          "url": "https://www.iltarget.it/",
+          "url": "http://www.iltarget.it/",
           "title": "Il Target - Al cuore della notizia"
-        },
-        {
-          "url": "https://left.gr/mayri-ergasia?page=2",
-          "title": "μαύρη εργασία :: 3 :: left.gr"
         },
         {
           "url": "https://magnuslonden.net/fi/artikkelit/kolumnit/article-64532-28329-aikaa-unelmoida",
@@ -50,15 +46,19 @@
         {
           "url": "https://www.theatlantic.com/education/archive/2025/01/learning-loss-pandemic-impact/673123/",
           "title": "The '90s Blockbuster That's Also a Symphony - The Atlantic"
+        },
+        {
+          "url": "https://left.gr/mayri-ergasia?page=2",
+          "title": "μαύρη εργασία :: 3 :: left.gr"
         }
       ],
       "count": 12
     },
     {
-      "name": "organization-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://www.ala.org/",
+          "url": "http://www.ala.org/",
           "title": "American Library Association"
         },
         {
@@ -70,16 +70,16 @@
           "title": "Fund for Public Health NYC. Innovative partnership for New Yorkers"
         },
         {
-          "url": "https://de.rescue.org/",
-          "title": "International Rescue Committee | Rescue"
-        },
-        {
           "url": "https://www.musiciansoncall.org/",
           "title": "Home - Musicians On Call"
         },
         {
           "url": "https://www.saverlife.org/",
           "title": "Home - SaverLife"
+        },
+        {
+          "url": "https://de.rescue.org",
+          "title": "International Rescue Committee | Rescue"
         },
         {
           "url": "https://secure.uso.org/1812_wishbook_evergreen/?sc=WS18PHCHM1",
@@ -96,18 +96,6 @@
       "name": "reference-general",
       "bookmarks": [
         {
-          "url": "https://www.callupcontact.com/Rural-Roads-c99325.html",
-          "title": "Places close by Rural Roads Chefferie de Nkol Yem Cameroon"
-        },
-        {
-          "url": "https://delorie.com/archives/browse.cgi?p=djgpp/1997/10/09",
-          "title": "Mail Archives: djgpp/1997/10/09"
-        },
-        {
-          "url": "https://www.apple.com/legal/internet-services/terms/site.html",
-          "title": "Legal - Website Terms of Use - Apple"
-        },
-        {
           "url": "https://listingsca.com/alberta/",
           "title": "Alberta Business, Travel, and Local Directory"
         },
@@ -116,11 +104,23 @@
           "title": "Generate a list of random nouns"
         },
         {
+          "url": "https://apple.com/legal/internet-services/terms/site.html",
+          "title": "Legal - Website Terms of Use - Apple"
+        },
+        {
+          "url": "https://delorie.com/archives/browse.cgi?p=djgpp/1997/10/09",
+          "title": "Mail Archives: djgpp/1997/10/09"
+        },
+        {
+          "url": "https://www.callupcontact.com/Rural-Roads-c99325.html",
+          "title": "Places close by Rural Roads Chefferie de Nkol Yem Cameroon"
+        },
+        {
           "url": "https://www.kartverket.no/en/api-and-data/terms-of-use",
           "title": "Terms of use | Kartverket.no"
         },
         {
-          "url": "https://www.u-dictionary.com/",
+          "url": "https://www.u-dictionary.com",
           "title": "U-Dictionary:World's Best Translation APP"
         },
         {
@@ -131,6 +131,36 @@
       "count": 8
     },
     {
+      "name": "business-general",
+      "bookmarks": [
+        {
+          "url": "https://www.jumpto365.com/tools/power-bi",
+          "title": "About \"Power BI\""
+        },
+        {
+          "url": "https://www.acquisition.gov/browsefar",
+          "title": "FAR | Acquisition.GOV"
+        },
+        {
+          "url": "http://www.rcs.it/",
+          "title": "RCS MediaGroup"
+        },
+        {
+          "url": "https://www.govtjobsportal.in/2020/02/ssc-recruitment-2020-ssc-selection-post.html",
+          "title": "SSC Recruitment 2020 - SSC Selection Post Phase 8 Notification for 1355 Assistant, Clerk & Other Posts"
+        },
+        {
+          "url": "https://www.stantec.com/en/markets/urban-places",
+          "title": "Urban Places"
+        },
+        {
+          "url": "http://www.greatplacetowork.com/certified-company/7023741",
+          "title": "Working at Vera Institute of Justice | Great Place To Work®"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "education-resources",
       "bookmarks": [
         {
@@ -138,11 +168,11 @@
           "title": "Calculator Suite - GeoGebra"
         },
         {
-          "url": "https://calendar.mines.edu/",
+          "url": "http://calendar.mines.edu",
           "title": "Colorado School of Mines: Calendar"
         },
         {
-          "url": "https://freerice.com/",
+          "url": "http://freerice.com",
           "title": "Home | Freerice"
         },
         {
@@ -154,38 +184,8 @@
           "title": "Tally mcq questions With Answer | Accounting ERP Question | Computer Fundamental Page-14 section-1"
         },
         {
-          "url": "https://www.life.illinois.edu/hanks/",
+          "url": "http://www.life.illinois.edu/hanks/",
           "title": "The Hanks Lab at the University of Illinois"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "business-general",
-      "bookmarks": [
-        {
-          "url": "https://www.acquisition.gov/browsefar",
-          "title": "FAR | Acquisition.GOV"
-        },
-        {
-          "url": "https://www.govtjobsportal.in/2020/02/ssc-recruitment-2020-ssc-selection-post.html",
-          "title": "SSC Recruitment 2020 - SSC Selection Post Phase 8 Notification for 1355 Assistant, Clerk & Other Posts"
-        },
-        {
-          "url": "https://www.jumpto365.com/tools/power-bi",
-          "title": "About \"Power BI\""
-        },
-        {
-          "url": "https://www.rcs.it/",
-          "title": "RCS MediaGroup"
-        },
-        {
-          "url": "https://www.stantec.com/en/markets/urban-places",
-          "title": "Urban Places"
-        },
-        {
-          "url": "https://www.greatplacetowork.com/certified-company/7023741",
-          "title": "Working at Vera Institute of Justice | Great Place To Work®"
         }
       ],
       "count": 6
@@ -217,12 +217,34 @@
       "count": 5
     },
     {
-      "name": "music-misc",
+      "name": "media-streaming",
       "bookmarks": [
         {
-          "url": "https://www.complex.com/music/2014/05/mac-miller-mom-karen-meyers-interview",
-          "title": "My Son Is A Rapper: Meet Mac Miller's Mom, Karen Meyers"
+          "url": "https://www.bbc.co.uk/programmes/p08j3kcg",
+          "title": "BBC Radio 4 - Political Thinking with Nick Robinson, The Neil Ferguson One"
         },
+        {
+          "url": "https://www.marvel.com/articles/movies/scott-lang-memoir-look-out-for-the-little-guy",
+          "title": "Scott Lang Announces New Memoir 'Look Out for The Little Guy' Coming this Fall | Marvel"
+        },
+        {
+          "url": "https://www.starz.com/us/en/",
+          "title": "STARZ - Captivating Original Series. Hit Movies. Bold Storytelling."
+        },
+        {
+          "url": "https://abc.com/shows/the-company-you-keep",
+          "title": "Watch The Company You Keep TV Show - ABC.com"
+        },
+        {
+          "url": "https://tv.youtube.com/",
+          "title": "YouTube TV - Watch & DVR Live Sports, Shows & News"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "music-misc",
+      "bookmarks": [
         {
           "url": "https://electrosmash.com/boss-ds1-analysis",
           "title": "ElectroSmash - Boss DS1 Distortion Analysis"
@@ -236,7 +258,11 @@
           "title": "Mutable Instruments prehistoric projects"
         },
         {
-          "url": "https://forum.mymorningjacket.net/index.php?topic=12702.20",
+          "url": "https://www.complex.com/music/2014/05/mac-miller-mom-karen-meyers-interview",
+          "title": "My Son Is A Rapper: Meet Mac Miller's Mom, Karen Meyers"
+        },
+        {
+          "url": "http://forum.mymorningjacket.net/index.php?topic=12702.20",
           "title": "Talkin' Bout Neil Young..... - Page 2"
         }
       ],
@@ -321,36 +347,10 @@
       "count": 5
     },
     {
-      "name": "streaming-media",
-      "bookmarks": [
-        {
-          "url": "https://www.bbc.co.uk/programmes/p08j3kcg",
-          "title": "BBC Radio 4 - Political Thinking with Nick Robinson, The Neil Ferguson One"
-        },
-        {
-          "url": "https://www.marvel.com/articles/movies/scott-lang-memoir-look-out-for-the-little-guy",
-          "title": "Scott Lang Announces New Memoir 'Look Out for The Little Guy' Coming this Fall | Marvel"
-        },
-        {
-          "url": "https://www.starz.com/us/en/",
-          "title": "STARZ - Captivating Original Series. Hit Movies. Bold Storytelling."
-        },
-        {
-          "url": "https://abc.com/shows/the-company-you-keep",
-          "title": "Watch The Company You Keep TV Show - ABC.com"
-        },
-        {
-          "url": "https://tv.youtube.com/",
-          "title": "YouTube TV - Watch & DVR Live Sports, Shows & News"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "blogs-hobbies",
       "bookmarks": [
         {
-          "url": "https://gamecabinet.com/rules/OnceUponATimeVariant.html",
+          "url": "http://gamecabinet.com/rules/OnceUponATimeVariant.html",
           "title": "Once Upon a Time"
         },
         {
@@ -380,34 +380,12 @@
           "title": "Fighting overfishing in the Mediterranean through increased transparency - Fondation Didier et Martine Primat"
         },
         {
-          "url": "https://www.erp-recycling.at/",
+          "url": "http://www.erp-recycling.at",
           "title": "Home • About European Recycling Platform • ERP Global"
         },
         {
           "url": "https://xeno-canto.org/species/Turdus-merula",
           "title": "Making sure you're not a bot!"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "government-public-data",
-      "bookmarks": [
-        {
-          "url": "https://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
-          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
-        },
-        {
-          "url": "https://www.portaldasfinancas.gov.pt/at/html/index.html",
-          "title": "Portal das Finanças"
-        },
-        {
-          "url": "https://sf.gov/shared-spaces",
-          "title": "Shared Spaces | SF.gov"
-        },
-        {
-          "url": "https://www.acquisition.gov/browsefar",
-          "title": "FAR | Acquisition.GOV"
         }
       ],
       "count": 4
@@ -438,11 +416,11 @@
       "name": "webdev-resources",
       "bookmarks": [
         {
-          "url": "https://andreasviklund.com/",
+          "url": "http://andreasviklund.com/",
           "title": "andreasviklund.com"
         },
         {
-          "url": "https://www.bbcbasic.co.uk/bbcwin/tutorial/",
+          "url": "http://www.bbcbasic.co.uk/bbcwin/tutorial/",
           "title": "BBC BASIC Tutorial"
         },
         {
@@ -450,7 +428,7 @@
           "title": "CTAN: Package pgf"
         },
         {
-          "url": "https://s01.flagcounter.com/more30/vOp/76",
+          "url": "http://s01.flagcounter.com/more30/vOp/76",
           "title": "Flag Counter » History"
         }
       ],
@@ -493,19 +471,37 @@
       "count": 3
     },
     {
-      "name": "recipes-food",
+      "name": "food-recipes",
       "bookmarks": [
         {
           "url": "https://www.bonappetit.com/recipe/chicken-parmesan",
           "title": "BA's Best Chicken Parmesan Recipe | Bon Appétit"
         },
         {
-          "url": "https://www.cucinarefacile.com/",
-          "title": "Ricette di cucina e video ricette"
-        },
-        {
           "url": "https://it.spagos.es/",
           "title": "Home | Spago's"
+        },
+        {
+          "url": "http://www.cucinarefacile.com/",
+          "title": "Ricette di cucina e video ricette"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "government-public-data",
+      "bookmarks": [
+        {
+          "url": "http://www.gugik.gov.pl/pzgik/dane-bez-oplat/dane-z-panstwowego-rejestru-granic-i-powierzchni-jednostek-podzialow-terytorialnych-kraju-prg",
+          "title": "Dane udostępniane bezpłatnie do pobrania z serwisu www.geoportal.gov.pl - Główny Urząd Geodezji i Kartografii - Portal Gov.pl"
+        },
+        {
+          "url": "https://www.portaldasfinancas.gov.pt/at/html/index.html",
+          "title": "Portal das Finanças"
+        },
+        {
+          "url": "https://sf.gov/shared-spaces",
+          "title": "Shared Spaces | SF.gov"
         }
       ],
       "count": 3
@@ -522,7 +518,7 @@
           "title": "PROJECT LOON FLIGHT P-431 - 8/14/2018"
         },
         {
-          "url": "https://www.synapses.co.uk/science/mvolcano.html",
+          "url": "http://www.synapses.co.uk/science/mvolcano.html",
           "title": "Science Explained, explains the Montserrat volcano and other volcanos."
         }
       ],
@@ -540,7 +536,7 @@
           "title": "Road | UCI"
         },
         {
-          "url": "https://topgolf.com/company/contact/",
+          "url": "http://topgolf.com/company/contact/",
           "title": "Select Topgolf Region"
         }
       ],
@@ -550,11 +546,11 @@
       "name": "tech-articles",
       "bookmarks": [
         {
-          "url": "https://locate.apple.com/",
+          "url": "https://locate.apple.com",
           "title": "Find Locations"
         },
         {
-          "url": "https://www.fosspatents.com/2011/05/?m=1",
+          "url": "http://www.fosspatents.com/2011/05/?m=1",
           "title": "FOSS Patents: May 2011"
         },
         {
@@ -565,6 +561,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 109,
+  "total_bookmarks": 107,
   "num_folders": 22
 }

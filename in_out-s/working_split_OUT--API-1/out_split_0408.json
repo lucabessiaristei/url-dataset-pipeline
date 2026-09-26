@@ -24,12 +24,12 @@
           "title": "Home | Local Initiatives Support Corporation"
         },
         {
-          "url": "https://www.glsen.org/",
-          "title": "Homepage | GLSEN"
-        },
-        {
           "url": "https://impact.kaporcenter.org",
           "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://www.glsen.org/",
+          "title": "Homepage | GLSEN"
         },
         {
           "url": "https://www.lssmn.org/lifetrack",
@@ -70,8 +70,8 @@
           "title": "GenNx360 | Private Equity | Middle-Market | Industrial Business Services"
         },
         {
-          "url": "https://hauteliving.com/2023/02/giada-de-laurentiis-is-building-an-empire-and-shes-doing-it-her-way/725046/",
-          "title": "You are being redirected..."
+          "url": "https://ushcc.com/",
+          "title": "Home | United States Hispanic Chamber of Commerce"
         },
         {
           "url": "https://www.chuckbarnes.com/idx/details/homes/b325/319539/24568-Perdido-Beach-Blvd-801-Orange-Beach-AL-36561",
@@ -98,8 +98,8 @@
           "title": "Small Business Resource Center | Wells Fargo"
         },
         {
-          "url": "https://ushcc.com/",
-          "title": "Home | United States Hispanic Chamber of Commerce"
+          "url": "https://hauteliving.com/2023/02/giada-de-laurentiis-is-building-an-empire-and-shes-doing-it-her-way/725046/",
+          "title": "You are being redirected..."
         }
       ],
       "count": 11
@@ -120,12 +120,12 @@
           "title": "Coronavirus disease (COVID-19)"
         },
         {
-          "url": "https://www.svnews.ro/mamaitele-vedete-ies-in-club-si-la-concerte/88597/",
-          "title": "Mămăiţele vedete ies în club şi la concerte | Suceava News Online"
-        },
-        {
           "url": "https://patch.com/new-york/pleasantville/mount-pleasant-cop-says-hess-was-aggressor",
           "title": "Mount Pleasant Cop Says Hess Was 'Aggressor' | Pleasantville, NY Patch"
+        },
+        {
+          "url": "https://www.svnews.ro/mamaitele-vedete-ies-in-club-si-la-concerte/88597/",
+          "title": "Mămăiţele vedete ies în club şi la concerte | Suceava News Online"
         },
         {
           "url": "https://journalrecord.com/2019/04/30/oconnor-summit-explores-ways-to-create-vibrant-downtowns/",
@@ -147,7 +147,7 @@
       "count": 9
     },
     {
-      "name": "product-shopping",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://www.hybriden.se/en/product/cba-vol-32-9789187825071/",
@@ -261,15 +261,15 @@
       "count": 7
     },
     {
-      "name": "blogs-social-media",
+      "name": "social-media-blogs",
       "bookmarks": [
-        {
-          "url": "https://blog.mozilla.org/firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=firefox",
-          "title": "Firefox - The Mozilla Blog"
-        },
         {
           "url": "https://hipster-centeral-blog.tumblr.com/",
           "title": "@hipster-centeral-blog on Tumblr"
+        },
+        {
+          "url": "https://blog.mozilla.org/firefox/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=firefox",
+          "title": "Firefox - The Mozilla Blog"
         },
         {
           "url": "https://rimzy.net/category/autonomy/",
@@ -289,6 +289,32 @@
         }
       ],
       "count": 6
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.amc.com",
+          "title": "AMC | Watch TV Shows & Movies Online | Stream Current Episodes"
+        },
+        {
+          "url": "http://mpr.org/",
+          "title": "Home | Minnesota Public Radio"
+        },
+        {
+          "url": "https://www.lasrespuestas.org/juego-de-palabras-vip-11-paquete-dos/",
+          "title": "Juego De Palabras VIP 11 Paquete Dos [ Todos Los Niveles ] - Alejandro"
+        },
+        {
+          "url": "http://ladigitalmedia.org/video_v2/asset-detail/LSWI-0813-02_Fairhaven",
+          "title": "Louisiana Digital Media Archive"
+        },
+        {
+          "url": "https://microsoft.com/edge/features/surf-game",
+          "title": "Microsoft Edge Surf"
+        }
+      ],
+      "count": 5
     },
     {
       "name": "legal-privacy",
@@ -312,32 +338,6 @@
         {
           "url": "http://preferences-mgr.trustarc.com/?pid=disney01&aid=natgeo01&type=natgeo",
           "title": "TrustArc Preference Manager"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "media-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.amc.com",
-          "title": "AMC | Watch TV Shows & Movies Online | Stream Current Episodes"
-        },
-        {
-          "url": "https://www.lasrespuestas.org/juego-de-palabras-vip-11-paquete-dos/",
-          "title": "Juego De Palabras VIP 11 Paquete Dos [ Todos Los Niveles ] - Alejandro"
-        },
-        {
-          "url": "http://ladigitalmedia.org/video_v2/asset-detail/LSWI-0813-02_Fairhaven",
-          "title": "Louisiana Digital Media Archive"
-        },
-        {
-          "url": "https://microsoft.com/edge/features/surf-game",
-          "title": "Microsoft Edge Surf"
-        },
-        {
-          "url": "http://mpr.org/",
-          "title": "Home | Minnesota Public Radio"
         }
       ],
       "count": 5
@@ -408,33 +408,19 @@
       "name": "government-public-resources",
       "bookmarks": [
         {
-          "url": "https://www.greenbiz.com/events/greenbiz/2023",
-          "title": "Trellis Group (formerly GreenBiz)"
+          "url": "https://www.justiceinspectorates.gov.uk/hmicfrs/search?cat=stop-and-search-2&force=bermuda-police-service&frs=devon-and-somerset&s",
+          "title": "Establishing a secure connection ..."
         },
         {
           "url": "https://www.legis.iowa.gov/legislation/BillBook?ba=HJR8&ga=90",
           "title": "Iowa Legislature - BillBook"
         },
         {
-          "url": "https://www.justiceinspectorates.gov.uk/hmicfrs/search?cat=stop-and-search-2&force=bermuda-police-service&frs=devon-and-somerset&s",
-          "title": "Establishing a secure connection ..."
+          "url": "https://www.greenbiz.com/events/greenbiz/2023",
+          "title": "Trellis Group (formerly GreenBiz)"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "mobile-apps",
-      "bookmarks": [
-        {
-          "url": "http://aitube.doukantv.com/media/html/home/5.html",
-          "title": "Photo Translator: Translate+"
-        },
-        {
-          "url": "https://squeakosaurus.com",
-          "title": "- Squeakosaurus Squeakosaurus"
-        }
-      ],
-      "count": 2
     },
     {
       "name": "scientific-research",
@@ -471,6 +457,20 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "mobile-apps",
+      "bookmarks": [
+        {
+          "url": "https://squeakosaurus.com",
+          "title": "- Squeakosaurus Squeakosaurus"
+        },
+        {
+          "url": "http://aitube.doukantv.com/media/html/home/5.html",
+          "title": "Photo Translator: Translate+"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 94,

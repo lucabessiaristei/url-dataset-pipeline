@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "non-profit-community-support",
+      "name": "nonprofit-community-support",
       "bookmarks": [
         {
           "url": "https://ceoworks.org/",
@@ -10,10 +10,6 @@
         {
           "url": "https://www.welcomingamerica.org/",
           "title": "Home - Welcoming America"
-        },
-        {
-          "url": "https://instagram.com/theuso/",
-          "title": "USO (@theuso) • Instagram photos and videos"
         },
         {
           "url": "https://www.mnkaren.org/",
@@ -34,6 +30,10 @@
         {
           "url": "https://treetrust.org/",
           "title": "Transforming Lives and Landscapes"
+        },
+        {
+          "url": "https://instagram.com/theuso/",
+          "title": "USO (@theuso) • Instagram photos and videos"
         }
       ],
       "count": 8
@@ -54,12 +54,12 @@
           "title": "Goldeneye Winery"
         },
         {
-          "url": "https://www.oraclelights.com/products/2003-2006-q45-sedan-oracle-halo-kit",
-          "title": "ORACLE Lighting 2003-2006 Infiniti Q45 Sedan LED Headlight Halo Kit"
-        },
-        {
           "url": "https://www.riteaid.com/shop/bare-republic-mineral-sport-sunscreen-lotion-vanilla-coco-spf-50-5-fl-oz",
           "title": "Online Pharmacy and Store | Rite Aid"
+        },
+        {
+          "url": "https://www.oraclelights.com/products/2003-2006-q45-sedan-oracle-halo-kit",
+          "title": "ORACLE Lighting 2003-2006 Infiniti Q45 Sedan LED Headlight Halo Kit"
         },
         {
           "url": "https://www.giftpaperbox.com/china-rectangle_soap_packaging_hinged_lid_box_acrylic_diamond-13680274.html",
@@ -67,32 +67,6 @@
         }
       ],
       "count": 6
-    },
-    {
-      "name": "academic-education-resources",
-      "bookmarks": [
-        {
-          "url": "http://eps.ucsc.edu",
-          "title": "Earth & Planetary Sciences - Home of the UCSC Earth & Planetary Sciences Dept."
-        },
-        {
-          "url": "https://www.edweek.org/leadership/efforts-to-ban-critical-race-theory-now-restrict-teaching-for-a-third-of-americas-kids/2022/01",
-          "title": "Efforts to Ban Critical Race Theory Could Restrict Teaching for a Third of America's Kids"
-        },
-        {
-          "url": "http://www.minesnewsroom.com",
-          "title": "Mines Newsroom - Official news from the Colorado School of Mines"
-        },
-        {
-          "url": "https://ceya.udesa.edu.ar/index.php/informationobject/browse?sf_culture=en&view=table&sort=referenceCode&subjects=1199&topLod=0&sortDir=asc&onlyMedia=1",
-          "title": "UdeSA Ceya"
-        },
-        {
-          "url": "https://djvacto-blog.tumblr.com/post/90468162172",
-          "title": "Danny , What % of STEM Should Be Computer Science?"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "art-design-resources",
@@ -136,12 +110,12 @@
           "title": "ManyPixels - Unlimited Graphic Design | Try Now"
         },
         {
-          "url": "https://coschedule.com/",
-          "title": "The Social Media Calendar That Does It All - CoSchedule"
-        },
-        {
           "url": "http://hiquaso.de/",
           "title": "The domain name hiquaso.de is for sale."
+        },
+        {
+          "url": "https://coschedule.com/",
+          "title": "The Social Media Calendar That Does It All - CoSchedule"
         }
       ],
       "count": 5
@@ -168,6 +142,32 @@
         {
           "url": "https://momentum.medium.com/why-black-people-celebrate-mardi-gras-the-way-we-do-f3c58e20288f?source=home---------7------------------0----------",
           "title": "Why Black People Celebrate Mardi Gras The Way We Do | by Dr. Allison Wiltz | Momentum"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-academic-resources",
+      "bookmarks": [
+        {
+          "url": "https://djvacto-blog.tumblr.com/post/90468162172",
+          "title": "Danny , What % of STEM Should Be Computer Science?"
+        },
+        {
+          "url": "http://eps.ucsc.edu",
+          "title": "Earth & Planetary Sciences - Home of the UCSC Earth & Planetary Sciences Dept."
+        },
+        {
+          "url": "https://www.edweek.org/leadership/efforts-to-ban-critical-race-theory-now-restrict-teaching-for-a-third-of-americas-kids/2022/01",
+          "title": "Efforts to Ban Critical Race Theory Could Restrict Teaching for a Third of America's Kids"
+        },
+        {
+          "url": "http://www.minesnewsroom.com",
+          "title": "Mines Newsroom - Official news from the Colorado School of Mines"
+        },
+        {
+          "url": "https://ceya.udesa.edu.ar/index.php/informationobject/browse?sf_culture=en&view=table&sort=referenceCode&subjects=1199&topLod=0&sortDir=asc&onlyMedia=1",
+          "title": "UdeSA Ceya"
         }
       ],
       "count": 5
@@ -225,24 +225,6 @@
       "count": 5
     },
     {
-      "name": "software-tools-platforms",
-      "bookmarks": [
-        {
-          "url": "https://www.bscscan.com/txsInternal?block=12518551",
-          "title": "BNB Smart Chain (BNB) Blockchain Explorer"
-        },
-        {
-          "url": "https://speechify.com/medium?source=home-------------------------------------",
-          "title": "Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify"
-        },
-        {
-          "url": "https://tilda.cc/",
-          "title": "Create a Website for Free. Tilda Website Builder"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "sports-games-events",
       "bookmarks": [
         {
@@ -283,7 +265,7 @@
       "count": 3
     },
     {
-      "name": "digital-security-privacy",
+      "name": "digital-privacy-security",
       "bookmarks": [
         {
           "url": "https://relay.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=products",
@@ -319,7 +301,7 @@
       "count": 3
     },
     {
-      "name": "global-organizations-data",
+      "name": "global-data-organizations",
       "bookmarks": [
         {
           "url": "http://uis.unesco.org/",
@@ -373,25 +355,25 @@
       "count": 3
     },
     {
-      "name": "public-health-resources",
+      "name": "software-tools-platforms",
       "bookmarks": [
         {
-          "url": "https://nationaleczema.org/eczema-products/about-nea-seal-of-acceptance/",
-          "title": "About the Seal of Acceptance™ | National Eczema Association"
+          "url": "https://www.bscscan.com/txsInternal?block=12518551",
+          "title": "BNB Smart Chain (BNB) Blockchain Explorer"
         },
         {
-          "url": "https://espanol.cdc.gov/enes/coronavirus/2019-ncov/travelers/cruise-travel-during-covid19.html",
-          "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
+          "url": "https://tilda.cc/",
+          "title": "Create a Website for Free. Tilda Website Builder"
         },
         {
-          "url": "https://apps.who.int/gho/data/node.main.17",
-          "title": "legacy"
+          "url": "https://speechify.com/medium?source=home-------------------------------------",
+          "title": "Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify"
         }
       ],
       "count": 3
     },
     {
-      "name": "tech-support-communities",
+      "name": "tech-support-community",
       "bookmarks": [
         {
           "url": "https://connect.mozilla.org/",
@@ -407,8 +389,22 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "public-health-resources",
+      "bookmarks": [
+        {
+          "url": "https://espanol.cdc.gov/enes/coronavirus/2019-ncov/travelers/cruise-travel-during-covid19.html",
+          "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
+        },
+        {
+          "url": "https://apps.who.int/gho/data/node.main.17",
+          "title": "legacy"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 75,
+  "total_bookmarks": 74,
   "num_folders": 18
 }

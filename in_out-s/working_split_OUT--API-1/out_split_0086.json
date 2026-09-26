@@ -4,12 +4,12 @@
       "name": "academic-research",
       "bookmarks": [
         {
-          "url": "http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp",
-          "title": "CAS - Eschmeyer's Catalog of Fishes:"
-        },
-        {
           "url": "https://www.computerhistory.org/revolution/calculators/1",
           "title": "Calculators - CHM Revolution"
+        },
+        {
+          "url": "http://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatmain.asp",
+          "title": "CAS - Eschmeyer's Catalog of Fishes:"
         },
         {
           "url": "http://www.mic.pt/dispatcher?where=3&what=2&show=0&edicao_id=7340&lang=PT",
@@ -43,7 +43,7 @@
       "count": 9
     },
     {
-      "name": "business-economy-finance",
+      "name": "business-finance-economy",
       "bookmarks": [
         {
           "url": "https://www.gallup.com/corporate/212381/who-we-are.aspx",
@@ -77,7 +77,7 @@
       "count": 7
     },
     {
-      "name": "software-technology",
+      "name": "technology-software",
       "bookmarks": [
         {
           "url": "https://www.amiga-news.de/en/news/AN-2008-08-00002-EN.html",
@@ -109,24 +109,6 @@
         }
       ],
       "count": 7
-    },
-    {
-      "name": "general-info-support",
-      "bookmarks": [
-        {
-          "url": "https://give.org/about-us/contact-us",
-          "title": "Contact Us"
-        },
-        {
-          "url": "https://thrivebyfive.org.au/",
-          "title": "Home - Thrive By FiveThrive By Five"
-        },
-        {
-          "url": "http://aerfish.com/privacypolicy",
-          "title": "PrivacyPolicy | Aerfish"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "hobbies-crafts-products",
@@ -195,7 +177,25 @@
       "count": 4
     },
     {
-      "name": "personal-lifestyle-resources",
+      "name": "general-info-support",
+      "bookmarks": [
+        {
+          "url": "https://give.org/about-us/contact-us",
+          "title": "Contact Us"
+        },
+        {
+          "url": "https://thrivebyfive.org.au/",
+          "title": "Home - Thrive By FiveThrive By Five"
+        },
+        {
+          "url": "http://aerfish.com/privacypolicy",
+          "title": "PrivacyPolicy | Aerfish"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "lifestyle-personal-resources",
       "bookmarks": [
         {
           "url": "https://www.incommonbeauty.com/",
@@ -213,7 +213,7 @@
       "count": 3
     },
     {
-      "name": "social-media-personal-blogs",
+      "name": "personal-blogs-social-media",
       "bookmarks": [
         {
           "url": "https://a2tunes.tumblr.com/",

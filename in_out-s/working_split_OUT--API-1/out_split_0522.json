@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-media-entertainment-sports",
+      "name": "entertainment-sports-media-news",
       "bookmarks": [
         {
           "url": "https://www.bostonmabl.com/400hitter/player/batting/?PlID=33505&SeID=334&TmID=1133",
@@ -10,14 +10,6 @@
         {
           "url": "http://www.sentencingproject.org/publications/still-life-americas-increasing-use-life-long-term-sentences/",
           "title": "America's Increasing Use of Life and Long-Term Sentences - The Sentencing Project"
-        },
-        {
-          "url": "https://azpbs.org/",
-          "title": "Home - Arizona PBS"
-        },
-        {
-          "url": "http://www.aib.it/",
-          "title": "Homepage - AIB WEB"
         },
         {
           "url": "http://britishnewsflash.org/warnhinweise-sollen-vor-massenvernichtungs-waffen-warnen/",
@@ -48,6 +40,14 @@
           "title": "Fox News - Breaking News Updates | Latest News Headlines | Photos & News Videos"
         },
         {
+          "url": "https://azpbs.org/",
+          "title": "Home - Arizona PBS"
+        },
+        {
+          "url": "http://www.aib.it/",
+          "title": "Homepage - AIB WEB"
+        },
+        {
           "url": "http://www.ilsole24ore.it/",
           "title": "Il Sole 24 Ore: notizie di economia, finanza, borsa, fisco, cronaca italiana ed esteri - Il Sole 24 ORE"
         },
@@ -76,12 +76,12 @@
           "title": "Women's Mass Incarceration: The Whole Pie 2018 | Prison Policy Initiative"
         },
         {
-          "url": "https://cleantechnica.com/2022/03/11/yes-more-evs-fewer-emissions/",
-          "title": "Yes, More EVs = Fewer Emissions - CleanTechnica"
-        },
-        {
           "url": "https://jerrybrice.wordpress.com/tag/ybt/",
           "title": "ybt | Jerrybrice's Blog"
+        },
+        {
+          "url": "https://cleantechnica.com/2022/03/11/yes-more-evs-fewer-emissions/",
+          "title": "Yes, More EVs = Fewer Emissions - CleanTechnica"
         }
       ],
       "count": 20
@@ -118,12 +118,12 @@
           "title": "Notion"
         },
         {
-          "url": "https://nodejs.org/api/stream.html",
-          "title": "Stream | Node.js v24.10.0 Documentation"
-        },
-        {
           "url": "https://quantum4u.in/",
           "title": "Quantum4U | The Ultimate Mobile App Developers"
+        },
+        {
+          "url": "https://nodejs.org/api/stream.html",
+          "title": "Stream | Node.js v24.10.0 Documentation"
         }
       ],
       "count": 9
@@ -204,10 +204,6 @@
           "title": "Affirmations Publishing House in Australia | Leading Affirmation Card Publisher"
         },
         {
-          "url": "https://www.astromind.de/astrologie-artikel/wochenende-vom-29-april-bis-1-mai.html",
-          "title": "Wochenende vom 29. April bis 1. Mai - Astrologie"
-        },
-        {
           "url": "https://www.ulta.com/p/gimme-brow-tinted-volumizing-eyebrow-gel-xlsImpprod14191015",
           "title": "Benefit Cosmetics - Gimme Brow+ Tinted Volumizing Eyebrow Gel | Ulta Beauty"
         },
@@ -222,12 +218,16 @@
         {
           "url": "https://www.traeger.com/pellet-grills/timberline",
           "title": "Traeger Timberline WiFi Pellet Grill - Traeger®"
+        },
+        {
+          "url": "https://www.astromind.de/astrologie-artikel/wochenende-vom-29-april-bis-1-mai.html",
+          "title": "Wochenende vom 29. April bis 1. Mai - Astrologie"
         }
       ],
       "count": 6
     },
     {
-      "name": "social-community-advocacy",
+      "name": "community-social-advocacy",
       "bookmarks": [
         {
           "url": "https://lcfgeorgia.org/get-involved/donate/",
@@ -249,25 +249,7 @@
       "count": 4
     },
     {
-      "name": "food-drink-recipes-restaurants",
-      "bookmarks": [
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85930",
-          "title": "Searchable Recipe Database - Chipotle Shrimp with Mango Sauce"
-        },
-        {
-          "url": "https://www.theproteinbar.com/",
-          "title": "Healthy Restaurant & Franchise Opps. | Protein Bar & Kitchen"
-        },
-        {
-          "url": "https://notescoffee.com/",
-          "title": "Notes"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "company-policies-legal",
+      "name": "company-legal-policies",
       "bookmarks": [
         {
           "url": "https://flymapslive.com/privacy",
@@ -303,6 +285,42 @@
       "count": 3
     },
     {
+      "name": "food-drink-recipes-restaurants",
+      "bookmarks": [
+        {
+          "url": "https://www.theproteinbar.com/",
+          "title": "Healthy Restaurant & Franchise Opps. | Protein Bar & Kitchen"
+        },
+        {
+          "url": "https://notescoffee.com/",
+          "title": "Notes"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85930",
+          "title": "Searchable Recipe Database - Chipotle Shrimp with Mango Sauce"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel-leisure-activities",
+      "bookmarks": [
+        {
+          "url": "https://getbybus.com/fr/bus-barcelone-a-aalborg",
+          "title": "Barcelone à Aalborg - Toutes les infos en un seul endroit"
+        },
+        {
+          "url": "https://www.goldenfansatsea.com/",
+          "title": "Golden Fans at Sea"
+        },
+        {
+          "url": "https://aquarium.org/visit/",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "health-medical-guides",
       "bookmarks": [
         {
@@ -315,24 +333,6 @@
         }
       ],
       "count": 2
-    },
-    {
-      "name": "travel-leisure-activities",
-      "bookmarks": [
-        {
-          "url": "https://aquarium.org/visit/",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://getbybus.com/fr/bus-barcelone-a-aalborg",
-          "title": "Barcelone à Aalborg - Toutes les infos en un seul endroit"
-        },
-        {
-          "url": "https://www.goldenfansatsea.com/",
-          "title": "Golden Fans at Sea"
-        }
-      ],
-      "count": 3
     }
   ],
   "total_bookmarks": 67,

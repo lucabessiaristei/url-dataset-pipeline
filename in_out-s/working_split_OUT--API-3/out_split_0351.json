@@ -1,60 +1,6 @@
 {
   "folders": [
     {
-      "name": "programming-development-resources",
-      "bookmarks": [
-        {
-          "url": "https://source.android.com/security",
-          "title": "Android Security | Android Open Source Project"
-        },
-        {
-          "url": "https://fact-project.org/FACT++/structcmnds.html",
-          "title": "FACT++: cmnds Struct Reference"
-        },
-        {
-          "url": "https://tracker.debian.org/news/337073/accepted-gnome3-emblems-010-1-source-amd64/",
-          "title": "Debian Package Tracker"
-        },
-        {
-          "url": "https://devdojo.com/tails",
-          "title": "Dev Community - DevDojo"
-        },
-        {
-          "url": "https://www.mydomaincontact.com/index.php?domain_name=pittsburghraceforthecure.org",
-          "title": "Domain Contact Utility - pittsburghraceforthecure.org"
-        },
-        {
-          "url": "https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html",
-          "title": "Ein Fehler ist aufgetreten"
-        },
-        {
-          "url": "https://flask.palletsprojects.com/en/latest/quickstart/",
-          "title": "Quickstart - Flask Documentation (3.2.x)"
-        },
-        {
-          "url": "https://support.microsoft.com/en-us/internet-explorer/download-ie",
-          "title": "Internet Explorer Downloads - Microsoft Support"
-        },
-        {
-          "url": "https://klipper3d.org/Config_Reference.html",
-          "title": "Welcome - Klipper documentation"
-        },
-        {
-          "url": "https://www.seoquake.com/",
-          "title": "Free SEO Checker & Page Audit (Analyze Your Site)"
-        },
-        {
-          "url": "https://svelte.dev/docs/introduction",
-          "title": "Overview • Svelte Docs"
-        },
-        {
-          "url": "https://tools.pdf24.org/en/",
-          "title": "PDF24 Tools: Free PDF solutions for all PDF problems"
-        }
-      ],
-      "count": 12
-    },
-    {
       "name": "news-current-events",
       "bookmarks": [
         {
@@ -62,20 +8,16 @@
           "title": "A Tragic Loss: The Oneida community honors Oneida soccer coach Dale McCormick - Oneida Dispatch"
         },
         {
+          "url": "http://www.leccopolis.it/acque-contaminate-divieto-di-balneazione-a-malpensata-8208.html",
+          "title": "Acque contaminate, divieto di balneazione a Malpensata | Leccopolis"
+        },
+        {
           "url": "https://meteofrance.com/actualites",
           "title": "ACTUALITES METEO avec Météo-France"
         },
         {
-          "url": "https://leccopolis.it/acque-contaminate-divieto-di-balneazione-a-malpensata-8208.html",
-          "title": "Acque contaminate, divieto di balneazione a Malpensata | Leccopolis"
-        },
-        {
           "url": "https://reason.com/2022/10/10/biden-says-hes-pardoning-all-federal-weed-possession-offenders-he-isnt/",
           "title": "Biden Isn't Really Pardoning 'All' Federal Weed Possession Offenders"
-        },
-        {
-          "url": "https://www.oneidadispatch.com/2023/02/21/remembering-oneida-soccer-coach-dale-mccormick/",
-          "title": "A Tragic Loss: The Oneida community honors Oneida soccer coach Dale McCormick - Oneida Dispatch"
         },
         {
           "url": "https://thinkprogress.org/gavin-newsom-condoms-sex-workers-eb6f9b201d5e/",
@@ -102,42 +44,88 @@
           "title": "UNESCO : Building Peace through Education, Science and Culture, communication and information"
         }
       ],
-      "count": 11
+      "count": 10
     },
     {
-      "name": "entertainment-media-social",
+      "name": "programming-development-resources",
       "bookmarks": [
         {
-          "url": "https://www.bravotv.com/the-daily-dish/rhonj-is-gia-giudice-still-dating-her-boyfriend-christian-carmichael",
-          "title": "RHONJ: Is Gia Giudice Still Dating Her Boyfriend Christian Carmichael?"
+          "url": "https://source.android.com/security",
+          "title": "Android Security | Android Open Source Project"
         },
         {
-          "url": "https://www.elle.com/culture/celebrities/a11729/josh-groban-interview/",
-          "title": "Love Me Tenor"
+          "url": "https://tracker.debian.org/news/337073/accepted-gnome3-emblems-010-1-source-amd64/",
+          "title": "Debian Package Tracker"
+        },
+        {
+          "url": "https://devdojo.com/tails",
+          "title": "Dev Community - DevDojo"
+        },
+        {
+          "url": "https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html",
+          "title": "Ein Fehler ist aufgetreten"
+        },
+        {
+          "url": "https://fact-project.org/FACT++/structcmnds.html",
+          "title": "FACT++: cmnds Struct Reference"
+        },
+        {
+          "url": "https://svelte.dev/docs/introduction",
+          "title": "Overview • Svelte Docs"
+        },
+        {
+          "url": "https://tools.pdf24.org/en/",
+          "title": "PDF24 Tools: Free PDF solutions for all PDF problems"
+        },
+        {
+          "url": "https://flask.palletsprojects.com/en/latest/quickstart/",
+          "title": "Quickstart - Flask Documentation (3.2.x)"
+        },
+        {
+          "url": "https://klipper3d.org/Config_Reference.html",
+          "title": "Welcome - Klipper documentation"
+        },
+        {
+          "url": "https://www.mydomaincontact.com/index.php?domain_name=pittsburghraceforthecure.org",
+          "title": "You are about to send an inquiry regarding the following domain: pittsburghraceforthecure.org"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "social-media-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://radaronline.com/p/rupauls-drag-race-star-cherry-valentine-cause-of-death-revealed/",
+          "title": "'RuPaul's Drag Race' Star Cherry Valentine's Cause Of Death Revealed"
         },
         {
           "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=336abc4a64dd4cdbb9c172a58ac66a3e",
           "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
         },
         {
+          "url": "https://www.elle.com/culture/celebrities/a11729/josh-groban-interview/",
+          "title": "Love Me Tenor"
+        },
+        {
           "url": "https://about.medium.com/creators/",
           "title": "Medium Partner Program"
         },
         {
-          "url": "http://uber.demo.joomlart.com/index.php/music",
+          "url": "https://uber.demo.joomlart.com/index.php/music",
           "title": "Music"
         },
         {
-          "url": "https://nonsisamai.com/2008/10/voi-lo-sapete-che-giornali-leggete.html",
+          "url": "http://www.nonsisamai.com/2008/10/voi-lo-sapete-che-giornali-leggete.html?showComment=1222887960000",
           "title": "Non Si Sa Mai: voi lo sapete che giornali leggete?"
         },
         {
-          "url": "https://music.youtube.com/",
+          "url": "https://music.youtube.com",
           "title": "Prima di continuare"
         },
         {
-          "url": "https://radaronline.com/p/rupauls-drag-race-star-cherry-valentine-cause-of-death-revealed/",
-          "title": "'RuPaul's Drag Race' Star Cherry Valentine's Cause Of Death Revealed"
+          "url": "https://www.bravotv.com/the-daily-dish/rhonj-is-gia-giudice-still-dating-her-boyfriend-christian-carmichael",
+          "title": "RHONJ: Is Gia Giudice Still Dating Her Boyfriend Christian Carmichael?"
         },
         {
           "url": "https://y99.in/",
@@ -159,7 +147,7 @@
         },
         {
           "url": "https://cosmeticsmall.eu/en/stik-za-zheni-dove/128-dove-fresh-touch-krastavica-stik-za-zheni-protiv-izpotyavane-s-khidratirassh-krem-dav-8000630040843.html",
-          "title": "DOVE Fresh Touch краставица стик za zheni protiv izpotyavane s khidratirashch krem DAV"
+          "title": "DOVE Fresh Touch краставица стик за жени против изпотяване с хидратиращ крем ДАВ"
         },
         {
           "url": "https://www.glossybox.com/",
@@ -184,12 +172,12 @@
       "name": "corporate-organizational-info",
       "bookmarks": [
         {
-          "url": "https://corporate.disney.com/corporate/pp.html",
-          "title": "Disney Privacy Center Home - The Walt Disney Privacy Center"
+          "url": "https://www.moorecharitable.org",
+          "title": "Home - The Moore Charitable Foundation"
         },
         {
-          "url": "https://www.moorecharitable.org/",
-          "title": "Home - The Moore Charitable Foundation"
+          "url": "https://usaa.com/",
+          "title": "Insurance, Banking, Retirement & Investment Services | USAA | USAA"
         },
         {
           "url": "https://bulletin.stanford.edu/pages/c7vDgeOuJIfpZe8GKmW3/",
@@ -200,19 +188,15 @@
           "title": "Privacy Policy | BaseMap Inc"
         },
         {
-          "url": "https://usaa.com/",
-          "title": "Insurance, Banking, Retirement & Investment Services | USAA | USAA"
-        },
-        {
           "url": "https://corporate.walmart.com/",
           "title": "Walmart Corporate News and Information"
         },
         {
-          "url": "https://msds.walmartstores.com/",
+          "url": "http://msds.walmartstores.com/",
           "title": "Wercs UPC/Barcode - Powered By The Wercs"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
       "name": "education-academic-resources",
@@ -220,10 +204,6 @@
         {
           "url": "https://service.elsevier.com/app/overview/cell-press/",
           "title": "Cell Press Support Center"
-        },
-        {
-          "url": "https://randomgifgirlwrites.tumblr.com/post/644867760814473216",
-          "title": "Is learning computer science linked to improved learning in other subjects? - Random Gif Girl Writes"
         },
         {
           "url": "https://www.taalhammer.com/simple-recipe-to-personalise-your-language-learning/",
@@ -234,8 +214,12 @@
           "title": "Listar Publicaciones por centro"
         },
         {
-          "url": "https://qac.ac.uk/",
+          "url": "http://www.qac.ac.uk/",
           "title": "QAC Queen Alexandra College Birmingham - National college for people with disabilities."
+        },
+        {
+          "url": "https://randomgifgirlwrites.tumblr.com/post/644867760814473216",
+          "title": "Random Gif Girl Writes"
         },
         {
           "url": "https://darkhouroftokyo.tumblr.com/post/145706383388",
@@ -245,10 +229,36 @@
       "count": 6
     },
     {
+      "name": "arts-design-creativity",
+      "bookmarks": [
+        {
+          "url": "https://www.domestika.org/en/blog/8116-what-is-kirigami-differences-with-origami",
+          "title": "10 dicas chave para promover diversidade no processo criativo | Domestika"
+        },
+        {
+          "url": "https://demian-dfm.tumblr.com/",
+          "title": "@demian-dfm on Tumblr"
+        },
+        {
+          "url": "https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php#:~:text=On a black background, the,text on a white background",
+          "title": "Applying Color Theory to Digital Displays :: UXmatters"
+        },
+        {
+          "url": "https://authindia.com/waguv-weaving-of-kashmir-is-the-proper-blend-of-beauty-and-austere-furnishing/",
+          "title": "AuthIndia - India's Largest Art Community"
+        },
+        {
+          "url": "https://www.jamie-poole.com/store/p107/Gods-Grandeur-Whitby-Harbour-limited-edition-print.html",
+          "title": "Whitby Harbour Collage painting limited edition print"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "health-wellness-information",
       "bookmarks": [
         {
-          "url": "https://cocondesoi.blogspot.com/2015/02/conferencediabete-approche.html",
+          "url": "http://cocondesoi.blogspot.com/2015/02/conferencediabete-approche.html",
           "title": "Cocon de Soi: Conférence Diabète, approche naturopathique 25/03/15 2/2"
         },
         {
@@ -274,24 +284,76 @@
       "name": "hobbies-leisure-clubs",
       "bookmarks": [
         {
-          "url": "https://eingang.org/Games/boggle.html",
+          "url": "http://www.eingang.org/Games/boggle.html",
           "title": "Boggle/Big Boggle Word Finding Game FAQ"
         },
         {
-          "url": "https://schachclub-waldkirch.de/pressebericht-jahreshauptversammlung/",
-          "title": "Pressebericht Jahreshauptversammlung | Schachclub Waldkirch 1910 e.V."
-        },
-        {
-          "url": "https://blogs.plos.org/everyone/2011/10/21/how-deep-social-network-roots-help-scientists-communicate-their-research/",
+          "url": "http://blogs.plos.org/everyone/2011/10/21/how-deep-social-network-roots-help-scientists-communicate-their-research/",
           "title": "How deep social network \"roots\" help scientists communicate their research - EveryONE"
         },
         {
-          "url": "https://theskyscrapers.org/",
+          "url": "http://www.schachclub-waldkirch.de/pressebericht-jahreshauptversammlung/",
+          "title": "Pressebericht Jahreshauptversammlung | Schachclub Waldkirch 1910 e.V."
+        },
+        {
+          "url": "http://www.theskyscrapers.org/",
           "title": "Skyscrapers, Inc. Astronomical Society of Rhode Island"
         },
         {
           "url": "https://www.wissenswertes.at/tarot",
           "title": "Tarot legen - Karten legen - Tarot Astrologie"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "personal-blogs-archives",
+      "bookmarks": [
+        {
+          "url": "https://maryannyutzy.com/2007/12/24/christmas-card-and-letter-2007/",
+          "title": "Christmas Card and Letter, 2007 | Delaware Grammy"
+        },
+        {
+          "url": "http://www.ricettaricette.com/",
+          "title": "Cute And Fluffy"
+        },
+        {
+          "url": "http://cinzia1877.blogspot.com/",
+          "title": "Parlando e sentendo..."
+        },
+        {
+          "url": "https://e-n-t-p.tumblr.com/",
+          "title": "PSYCH"
+        },
+        {
+          "url": "https://karlpilkington-ismyfursona.tumblr.com/",
+          "title": "🐇"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "retail-consumer-guides",
+      "bookmarks": [
+        {
+          "url": "http://www.affirmations.com.au/",
+          "title": "Affirmations Publishing House in Australia | Leading Affirmation Card Publisher"
+        },
+        {
+          "url": "http://www.codicesorgente.it/",
+          "title": "Come scegliere ed acquistare i Migliori Prodotti ✔️ CodiceSorgente.it"
+        },
+        {
+          "url": "https://stores.bestbuy.ca/en-ca/search",
+          "title": "Find the nearest Best Buy store location near you | Best Buy Canada"
+        },
+        {
+          "url": "https://www.thewarmingstore.com/",
+          "title": "Heated Clothing, Heated Jackets, Heated Gloves, Heated Socks, Heated Vests | TheWarmingStore.com"
+        },
+        {
+          "url": "http://jijislief.nl/categorie_zwanger",
+          "title": "Jij is Lief - Zwanger"
         }
       ],
       "count": 5
@@ -308,42 +370,16 @@
           "title": "Flight bookings | select country and language | Finnair"
         },
         {
-          "url": "https://www.louvre.fr/en/visit",
-          "title": "Visit - Everything you need to know before visiting the museum"
-        },
-        {
           "url": "https://www.pueblobonito.com/resorts/emerald-bay",
           "title": "Pueblo Bonito Emerald Bay | Official Site"
         },
         {
           "url": "https://www.sentres.com/en/mountain-hikes/schwaz/mountain-hikes-in-schwaz/1431387/",
           "title": "The most beautiful mountain hikes on the Schwaz District » Sentres"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "arts-design-creativity",
-      "bookmarks": [
-        {
-          "url": "https://www.domestika.org/en/blog/8116-what-is-kirigami-differences-with-origami",
-          "title": "10 dicas chave para promover diversidade no processo criativo | Domestika"
         },
         {
-          "url": "https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php",
-          "title": "Applying Color Theory to Digital Displays :: UXmatters"
-        },
-        {
-          "url": "https://demian-dfm.tumblr.com/",
-          "title": "Architecture, design , stuff and things I like - @demian-dfm on Tumblr"
-        },
-        {
-          "url": "https://authindia.com/waguv-weaving-of-kashmir-is-the-proper-blend-of-beauty-and-austere-furnishing/",
-          "title": "AuthIndia - India's Largest Art Community"
-        },
-        {
-          "url": "https://www.jamie-poole.com/store/p107/Gods-Grandeur-Whitby-Harbour-limited-edition-print.html",
-          "title": "Whitby Harbour Collage painting limited edition print"
+          "url": "https://www.louvre.fr/en/visit",
+          "title": "Visit - Everything you need to know before visiting the museum"
         }
       ],
       "count": 5
@@ -356,49 +392,63 @@
           "title": "ASC International - Aquaculture Stewardship Council"
         },
         {
-          "url": "https://eltechresource.com/",
+          "url": "http://www.eltechresource.com",
           "title": "ELTECH Resource | Рециклирай, бъди отговорен!"
-        },
-        {
-          "url": "https://fisheryprogress.org/",
-          "title": "Tracking Global Fishery Improvement Projects | FisheryProgress"
         },
         {
           "url": "https://marineprotectedareas.noaa.gov/",
           "title": "National Marine Protected Areas Center"
         },
         {
-          "url": "https://www.moorecharitable.org/",
-          "title": "The Moore Charitable Foundation - Environmental Conservation"
+          "url": "https://fisheryprogress.org/",
+          "title": "Tracking Global Fishery Improvement Projects | FisheryProgress"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "retail-consumer-guides",
+      "name": "food-recipes-restaurants",
       "bookmarks": [
         {
-          "url": "https://affirmations.com.au/",
-          "title": "Affirmations Publishing House in Australia | Leading Affirmation Card Publisher"
+          "url": "https://www.eatthistown.ca/dartmouth-pizza-quest-woodsideeastern-passage/",
+          "title": "Dartmouth Pizza Quest: Woodside/Eastern Passage - Eat This Town"
         },
         {
-          "url": "https://stores.bestbuy.ca/en-ca/search",
-          "title": "Find the nearest Best Buy store location near you | Best Buy Canada"
+          "url": "https://www.bibliothecaculinaria.it/libri_cucina/edizioni_bibliotheca_culinaria/cartolina_dalla_cucina/happy-hour/",
+          "title": "Happy Hour - Libro di LUISE Franco - Bibliotheca Culinaria"
         },
         {
-          "url": "https://codicesorgente.it/",
-          "title": "Come scegliere ed acquistare i Migliori Prodotti ✔️ CodiceSorgente.it"
+          "url": "https://www.crawfishandnoodles.com/",
+          "title": "Seafood | Crawfish & Noodles Heights | Houston"
         },
         {
-          "url": "https://www.thewarmingstore.com/",
-          "title": "Heated Clothing, Heated Jackets, Heated Gloves, Heated Socks, Heated Vests | TheWarmingStore.com"
-        },
-        {
-          "url": "https://jijislief.nl/categorie_zwanger",
-          "title": "Jij is Lief - Zwanger"
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85934",
+          "title": "Searchable Recipe Database - Roast Beef Wellington with Horseradish Sauce"
         }
       ],
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "nonprofit-community-support",
+      "bookmarks": [
+        {
+          "url": "https://www.mnphilanthropiccollective.org/",
+          "title": "Minnesota Black Collective Foundation"
+        },
+        {
+          "url": "http://www.minnesotanonprofits.org/",
+          "title": "Minnesota Council of Nonprofits"
+        },
+        {
+          "url": "https://support.theguardian.com?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
+          "title": "Support the Guardian"
+        },
+        {
+          "url": "https://www.thefamilyconservancy.org/",
+          "title": "The Family Conservancy | Happy, Healthy, Educated Children"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "social-justice-advocacy",
@@ -423,50 +473,6 @@
       "count": 4
     },
     {
-      "name": "food-recipes-restaurants",
-      "bookmarks": [
-        {
-          "url": "https://www.bibliothecaculinaria.it/libri_cucina/edizioni_bibliotheca_culinaria/cartolina_dalla_cucina/happy-hour/",
-          "title": "Happy Hour - Libro di LUISE Franco - Bibliotheca Culinaria"
-        },
-        {
-          "url": "https://www.eatthistown.ca/dartmouth-pizza-quest-woodsideeastern-passage/",
-          "title": "Dartmouth Pizza Quest: Woodside/Eastern Passage - Eat This Town"
-        },
-        {
-          "url": "https://directaccessrecipes.com/index.jsp?recId=85934",
-          "title": "Roast Beef Wellington with Horseradish Sauce - Direct Access Recipes"
-        },
-        {
-          "url": "https://www.crawfishandnoodles.com/",
-          "title": "Seafood | Crawfish & Noodles Heights | Houston"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "nonprofit-community-support",
-      "bookmarks": [
-        {
-          "url": "https://www.thefamilyconservancy.org/",
-          "title": "The Family Conservancy | Happy, Healthy, Educated Children"
-        },
-        {
-          "url": "https://www.minnesotanonprofits.org/",
-          "title": "Minnesota Council of Nonprofits"
-        },
-        {
-          "url": "https://www.mnphilanthropiccollective.org/",
-          "title": "Minnesota Black Collective Foundation"
-        },
-        {
-          "url": "https://support.theguardian.com/",
-          "title": "Support the Guardian"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "economics-finance-data",
       "bookmarks": [
         {
@@ -474,7 +480,7 @@
           "title": "Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (GS10) | FRED | St. Louis Fed"
         },
         {
-          "url": "https://projects.worldbank.org/",
+          "url": "https://projects.worldbank.org",
           "title": "Projects & Operations | The World Bank"
         },
         {
@@ -496,39 +502,13 @@
           "title": "Gobierno de Costa Rica | Presidencia de la República de Costa Rica"
         },
         {
-          "url": "https://nsf.gov/",
+          "url": "http://www.nsf.gov/",
           "title": "NSF - National Science Foundation"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "personal-blogs-archives",
-      "bookmarks": [
-        {
-          "url": "https://maryannyutzy.com/2007/12/24/christmas-card-and-letter-2007/",
-          "title": "Christmas Card and Letter, 2007 | Delaware Grammy"
-        },
-        {
-          "url": "https://ricettaricette.com/",
-          "title": "Cute And Fluffy"
-        },
-        {
-          "url": "https://cinzia1877.blogspot.com/",
-          "title": "Parlando e sentendo..."
-        },
-        {
-          "url": "https://e-n-t-p.tumblr.com/",
-          "title": "PSYCH"
-        },
-        {
-          "url": "https://karlpilkington-ismyfursona.tumblr.com/",
-          "title": "🐇"
-        }
-      ],
-      "count": 5
     }
   ],
-  "total_bookmarks": 111,
+  "total_bookmarks": 100,
   "num_folders": 18
 }

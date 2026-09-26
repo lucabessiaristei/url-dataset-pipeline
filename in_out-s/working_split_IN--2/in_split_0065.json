@@ -7,12 +7,6 @@
       "preview": "Se connecter Identifiants personnels Login ou adresse email : Mot de passe : mot de passe oublié ? Rester identifié quelques jours S'inscrire"
     },
     {
-      "url": "https://signup.azure.com/studentverification?offerType=2",
-      "title": "Azure - Sign up",
-      "description": "void",
-      "preview": "void"
-    },
-    {
       "url": "http://catalogue.odis.org",
       "title": "IOC Ocean Data and Information System Catalogue",
       "description": "void",
@@ -203,12 +197,6 @@
       "title": "@michaelfresh-blog on Tumblr",
       "description": "Follow @michaelfresh-blog and get more of the good stuff by joining Tumblr today. Dive in!",
       "preview": "Posts Likes Following You are using an unsupported browser and things might not work as intended. Please make sure you're using the latest version of"
-    },
-    {
-      "url": "https://pytorch.org/docs/stable/nn.html",
-      "title": "torch.nn - PyTorch 2.8 documentation",
-      "description": "void",
-      "preview": "Learn Get Started Tutorials Learn the Basics PyTorch Recipes Intro to PyTorch - YouTube Series Webinars Community Landscape Join the Ecosystem Communi"
     },
     {
       "url": "https://www.whiskey.kitchen/",
@@ -638,6 +626,6 @@
     }
   ],
   "_meta": {
-    "total_bookmarks": 106
+    "total_bookmarks": 104
   }
 }

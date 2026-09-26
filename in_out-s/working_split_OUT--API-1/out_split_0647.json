@@ -71,29 +71,7 @@
       "count": 4
     },
     {
-      "name": "organizations-non-profit",
-      "bookmarks": [
-        {
-          "url": "https://naacp.org/find-resources/know-your-rights/democracy-voting",
-          "title": "Democracy & Voting"
-        },
-        {
-          "url": "https://thelastmile.org/",
-          "title": "Home - The Last Mile"
-        },
-        {
-          "url": "https://nativegov.org/",
-          "title": "Sovereignty matters. Native Governance Center"
-        },
-        {
-          "url": "http://www.ujamaaplace.org/",
-          "title": "Ujamaa Place"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "products-misc",
+      "name": "misc-products",
       "bookmarks": [
         {
           "url": "https://shop.australiazoo.com.au/robert-irwins-australia-photography-book/",
@@ -110,6 +88,28 @@
         {
           "url": "https://www.extremis.com/fr/collections/walrus/walrus-module-central",
           "title": "Walrus module central - Collection Walrus - Notre collection - Extremis"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://naacp.org/find-resources/know-your-rights/democracy-voting",
+          "title": "Democracy & Voting"
+        },
+        {
+          "url": "https://thelastmile.org/",
+          "title": "Home - The Last Mile"
+        },
+        {
+          "url": "https://nativegov.org/",
+          "title": "Sovereignty matters. Native Governance Center"
+        },
+        {
+          "url": "http://www.ujamaaplace.org/",
+          "title": "Ujamaa Place"
         }
       ],
       "count": 4
@@ -136,16 +136,16 @@
       "name": "reference-data",
       "bookmarks": [
         {
-          "url": "https://api.goyellow.de/suche/elektrotechnik-und-montage/schwerte",
-          "title": "▷ Die 5 besten Betriebe für Elektrotechnik & Montage in Schwerte | Adresse | Telefonnummer | Bewertungen | Leistungen | Öffnungszeiten"
-        },
-        {
           "url": "https://www.deviceinformed.com/medical-devices-global-directory/primary-care-equipment/distributors/equatorial-guinea",
           "title": "Primary care equipment distributors in Equatorial Guinea | Deviceinformed.com"
         },
         {
           "url": "https://www.treccani.it/vocabolario/tecnologia/",
           "title": "Tecnologìa - Significato ed etimologia - Vocabolario - Treccani"
+        },
+        {
+          "url": "https://api.goyellow.de/suche/elektrotechnik-und-montage/schwerte",
+          "title": "▷ Die 5 besten Betriebe für Elektrotechnik & Montage in Schwerte | Adresse | Telefonnummer | Bewertungen | Leistungen | Öffnungszeiten"
         }
       ],
       "count": 3

@@ -1,61 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://www.clclt.org/",
-          "title": "Homeownership | CLCLT | Minneapolis"
-        },
-        {
-          "url": "https://gennextmsp.org/",
-          "title": "Home - Generation Next"
-        },
-        {
-          "url": "https://mygabc.org/",
-          "title": "Greater Augusta Black Chamber Of Commerce - One Community"
-        },
-        {
-          "url": "https://www.petlists.org/shelters/heartland-humane-society-of-missouri-ofallon-mo",
-          "title": "Heartland Humane Society Of Missouri (O'Fallon, MO): How To Adopt? (+Fees) 2020"
-        },
-        {
-          "url": "https://inspireupfoundation.org/",
-          "title": "Inspire Up™, Inc."
-        },
-        {
-          "url": "https://www.mccormickfoundation.org/",
-          "title": "Homepage - Robert R. Mccormick Foundation"
-        },
-        {
-          "url": "https://www.missingkids.org/",
-          "title": "National Center for Missing & Exploited Children"
-        },
-        {
-          "url": "https://online.foundationsource.com/ws/index.jsp?site=marisla",
-          "title": "The Marisla Foundation"
-        },
-        {
-          "url": "https://www.deafwest.org/about",
-          "title": "About Deaf West Theatre | Transforming Accessibility in the Arts"
-        },
-        {
-          "url": "https://endjusticefees.org/",
-          "title": "End Justice Fees"
-        },
-        {
-          "url": "https://www.wildlifeday.org/en",
-          "title": "Home | Official website of UN World Wildlife Day"
-        },
-        {
-          "url": "https://www.nelp.org/wp-content/uploads/Policy-Brief-15-Minimum-Wage-Women-Workers-of-Color.pdf",
-          "title": "What a $15 Minimum Wage Means for Women and Workers of Color - National Employment Law Project"
-        }
-      ],
-      "count": 12
-    },
-    {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://holmivan.valami.info/cimke/film",
@@ -66,7 +12,7 @@
           "title": "'Stranger Things' Star Millie Bobby Brown Leaves Twitter After She Becomes Subject of Homophobic Meme - TheWrap"
         },
         {
-          "url": "https://www.chrisjerichocruise.com/",
+          "url": "http://www.chrisjerichocruise.com/",
           "title": "Chris Jericho's Rock 'N' Wrestling Rager at Sea"
         },
         {
@@ -74,23 +20,23 @@
           "title": "Fatal.Vows.S05.1080p.HULU.WEB-DL.AAC2.0.H.264-squalor - 21.5 GB"
         },
         {
-          "url": "https://subscriptions.kansascitypbs.org/subscribe.php",
-          "title": "Newsletters"
-        },
-        {
           "url": "https://www.yesnodetroit.com/2017/08/movie-review-dark-tower.html",
           "title": "Movie Review: The Dark Tower"
+        },
+        {
+          "url": "https://subscriptions.kansascitypbs.org/subscribe.php",
+          "title": "Newsletters"
         },
         {
           "url": "https://youtube.googleblog.com/",
           "title": "Official YouTube Blog for Latest YouTube News & Insights"
         },
         {
-          "url": "https://www.pevans.co.uk/Reviews/BigCheese.html",
+          "url": "http://www.pevans.co.uk/Reviews/BigCheese.html",
           "title": "Review of The Big Cheese"
         },
         {
-          "url": "https://www.lespressesdureel.com/EN/auteur.php?id=661",
+          "url": "https://www.lespressesdureel.com/EN/auteur.php?id=661&",
           "title": "Susan Hiller - Les presses du réel"
         },
         {
@@ -113,23 +59,77 @@
       "count": 13
     },
     {
-      "name": "blogs-personal",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://mctheunicorn.tumblr.com/",
-          "title": "@mctheunicorn on Tumblr"
+          "url": "https://www.deafwest.org/about",
+          "title": "About Deaf West Theatre | Transforming Accessibility in the Arts"
+        },
+        {
+          "url": "http://endjusticefees.org",
+          "title": "End Justice Fees"
+        },
+        {
+          "url": "https://mygabc.org/",
+          "title": "Greater Augusta Black Chamber Of Commerce - One Community"
+        },
+        {
+          "url": "https://www.petlists.org/shelters/heartland-humane-society-of-missouri-ofallon-mo",
+          "title": "Heartland Humane Society Of Missouri (O'Fallon, MO): How To Adopt? (+Fees) 2020"
+        },
+        {
+          "url": "https://gennextmsp.org/",
+          "title": "Home - Generation Next"
+        },
+        {
+          "url": "https://www.wildlifeday.org/en",
+          "title": "Home | Official website of UN World Wildlife Day"
+        },
+        {
+          "url": "https://www.clclt.org/",
+          "title": "Homeownership | CLCLT | Minneapolis"
+        },
+        {
+          "url": "https://www.mccormickfoundation.org/",
+          "title": "Homepage - Robert R. Mccormick Foundation"
+        },
+        {
+          "url": "https://inspireupfoundation.org/",
+          "title": "Inspire Up™, Inc."
+        },
+        {
+          "url": "http://www.missingkids.org/",
+          "title": "National Center for Missing & Exploited Children"
+        },
+        {
+          "url": "https://online.foundationsource.com/ws/index.jsp?site=marisla",
+          "title": "The Marisla Foundation"
+        },
+        {
+          "url": "https://www.nelp.org/wp-content/uploads/Policy-Brief-15-Minimum-Wage-Women-Workers-of-Color.pdf",
+          "title": "What a $15 Minimum Wage Means for Women and Workers of Color - National Employment Law Project"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://a2tunes.tumblr.com/",
+          "title": "@a2tunes on Tumblr"
         },
         {
           "url": "https://mckathlin.tumblr.com/",
           "title": "@mckathlin on Tumblr"
         },
         {
-          "url": "https://mrkokko.tumblr.com/",
-          "title": "@mrkokko on Tumblr"
+          "url": "https://mctheunicorn.tumblr.com/",
+          "title": "@mctheunicorn on Tumblr"
         },
         {
-          "url": "https://a2tunes.tumblr.com/",
-          "title": "@a2tunes on Tumblr"
+          "url": "https://mrkokko.tumblr.com/",
+          "title": "@mrkokko on Tumblr"
         },
         {
           "url": "https://soyjugadodeboca.tumblr.com/",
@@ -170,15 +170,15 @@
           "title": "Medium Rare"
         },
         {
-          "url": "https://www.publicnoticeillinois.com/",
-          "title": "Public Notice Illinois | Illinois Press Association - Springfield, IL"
-        },
-        {
           "url": "https://rev-log.com/us/consumer-electronics-recycling-opportunities/new-jersey/",
           "title": "New Jersey - Reverse Logistics Group"
         },
         {
-          "url": "https://www.olx.com.pk/islamabad-capital-territory_g2003003/sales_c62?filter=classified_type_eq_offer,job_type_eq_temporary",
+          "url": "https://www.publicnoticeillinois.com#nt=primarynavbar",
+          "title": "Public Notice Illinois | Illinois Press Association - Springfield, IL"
+        },
+        {
+          "url": "https://www.olx.com.pk/islamabad-capital-territory_g2003003/sales_c62?filter=classified_type_eq_offer%2Cjob_type_eq_temporary",
           "title": "Sales Jobs in Islamabad Capital Territory"
         },
         {
@@ -195,10 +195,6 @@
     {
       "name": "shopping-misc",
       "bookmarks": [
-        {
-          "url": "https://www.adrenaline-junkee.com/product-p/hcolsw12-0178.htm",
-          "title": "UTV Accessories | UTV Parts | UTV Products & More - Adrenaline Junkee"
-        },
         {
           "url": "https://www.firstordercode.com/category/baby",
           "title": "Baby Gear Promo Codes for October 2025 | FirstOrderCode Canada"
@@ -226,40 +222,44 @@
         {
           "url": "https://unclenearest.com/",
           "title": "Uncle Nearest Premium Whiskey - 100 Proof from Tennessee Uncle Nearest Premium Whiskey - 100 Proof from Tennessee"
+        },
+        {
+          "url": "https://www.adrenaline-junkee.com/product-p/hcolsw12-0178.htm",
+          "title": "UTV Accessories | UTV Parts | UTV Products & More - Adrenaline Junkee"
         }
       ],
       "count": 8
     },
     {
-      "name": "articles-news",
+      "name": "news-articles",
       "bookmarks": [
-        {
-          "url": "https://www.lamag.com/tag/prime-finds/",
-          "title": "Prime Finds Archives - LAmag"
-        },
         {
           "url": "https://www.svt.se/nyheter/inrikes",
           "title": "Inrikes | SVT Nyheter"
-        },
-        {
-          "url": "https://sports.yahoo.com/titans-dropped-off-taylor-lewan-141341305.html",
-          "title": "Titans dropped off Taylor Lewan's belongings at his front door - Yahoo Sports"
-        },
-        {
-          "url": "https://www.womenonly.gr/gossip/arthro/sok_h_garmpi_eftase_konta_sto_thanato-129579579/",
-          "title": "Σοκ: Η Γαρμπή έφτασε κοντά στο θάνατο!"
-        },
-        {
-          "url": "https://theblast.com/jack-osbourne-divorce-houses/",
-          "title": "void"
         },
         {
           "url": "https://mikaylalanemusic.com/",
           "title": "Mikayla Lane"
         },
         {
+          "url": "https://www.lamag.com/tag/prime-finds/",
+          "title": "Prime Finds Archives - LAmag"
+        },
+        {
+          "url": "https://sports.yahoo.com/titans-dropped-off-taylor-lewan-141341305.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAC_R55VMt0eCbY9rnnX6RV_YAF6EnRxzK_Rl26TvyuESfVvy__Iz5r2dCnGnWxXfgUOtA63pSCg0nWWd0dkEzn1tobb7Jv-biIGKL5AszLOVj1l3FXyoNUMY6RfLCG9ilxSjOr3RNr0ws1IfXjowo_APO-xL54lyTt-dELNSFZ-W",
+          "title": "Titans dropped off Taylor Lewan's belongings at his front door - Yahoo Sports"
+        },
+        {
+          "url": "https://theblast.com/jack-osbourne-divorce-houses/",
+          "title": "void"
+        },
+        {
           "url": "https://www.instagram.com/youtube/",
           "title": "YouTube (@youtube) • Instagram photos and videos"
+        },
+        {
+          "url": "https://www.womenonly.gr/gossip/arthro/sok_h_garmpi_eftase_konta_sto_thanato-129579579/",
+          "title": "Σοκ: Η Γαρμπή έφτασε κοντά στο θάνατο!"
         }
       ],
       "count": 7
@@ -272,12 +272,12 @@
           "title": "CAPCOG Regional Open Data Site"
         },
         {
-          "url": "https://www.livescience.com/gulf-stream-close-to-collapse",
-          "title": "Gulf Stream could be veering toward irreversible collapse, a new analysis warns | Live Science"
-        },
-        {
           "url": "https://impactchallenge.withgoogle.com/ai2018?p=YXJjaGl2ZQ==&v=NjA5Y2NjNDAxOTk4MGQ4N2NiYzk2OTdjZjYyYmVjYTRmYmRlM2Q1MA==",
           "title": "Google AI Impact Challenge 2018"
+        },
+        {
+          "url": "https://www.livescience.com/gulf-stream-close-to-collapse",
+          "title": "Gulf Stream could be veering toward irreversible collapse, a new analysis warns | Live Science"
         },
         {
           "url": "https://nicholas.duke.edu/news/models-may-help-reduce-bycatch-longline-fishing",
@@ -292,7 +292,7 @@
           "title": "Social Determinants of Health - Healthy People 2030 | odphp.health.gov"
         },
         {
-          "url": "https://wod.iode.org/",
+          "url": "http://wod.iode.org",
           "title": "void"
         }
       ],
@@ -302,24 +302,24 @@
       "name": "business-services",
       "bookmarks": [
         {
-          "url": "https://library.donorbox.org/",
-          "title": "Free Nonprofit Resources, Templates & Checklists By Donorbox Library"
-        },
-        {
-          "url": "https://www.innogistics.net/",
-          "title": "INNOGISTICS | Logistics | Freight | Shipping"
-        },
-        {
-          "url": "https://usa.visa.com/run-your-business/small-business-tools/small-business-hub.html",
-          "title": "Small Business Solutions | Small Business Hub | Visa"
-        },
-        {
           "url": "https://smallbusiness.withgoogle.com/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
           "title": "Before you continue"
         },
         {
+          "url": "https://library.donorbox.org/",
+          "title": "Free Nonprofit Resources, Templates & Checklists By Donorbox Library"
+        },
+        {
+          "url": "http://www.innogistics.net/",
+          "title": "INNOGISTICS | Logistics | Freight | Shipping"
+        },
+        {
           "url": "https://dashboard.stripe.com/register",
           "title": "Sign Up and Create a Stripe Account | Stripe"
+        },
+        {
+          "url": "https://usa.visa.com/run-your-business/small-business-tools/small-business-hub.html",
+          "title": "Small Business Solutions | Small Business Hub | Visa"
         },
         {
           "url": "https://www.vizzuality.com/",
@@ -340,11 +340,11 @@
           "title": "Khan Academy"
         },
         {
-          "url": "https://mathworld.wolfram.com/topics/LinearAlgebra.html",
+          "url": "http://mathworld.wolfram.com/topics/LinearAlgebra.html",
           "title": "Linear Algebra -- from Wolfram MathWorld"
         },
         {
-          "url": "https://kids.nationalgeographic.com/",
+          "url": "https://kids.nationalgeographic.com",
           "title": "National Geographic Kids | National Geographic Kids"
         },
         {
@@ -374,16 +374,16 @@
           "title": "Layshock v. Hermitage School District - ACLU of Pennsylvania"
         },
         {
+          "url": "https://www.univision.com/global/privacy-policy-en",
+          "title": "Privacy Notice - TelevisaUnivision"
+        },
+        {
           "url": "https://supersimple.com/app-privacy-policy/",
           "title": "Privacy Policy for Skyship Entertainment Company - Super Simple"
         },
         {
           "url": "https://www.fractalabogados.com/terminos-y-condiciones2/",
           "title": "Términos y Condiciones :: Fractalabogados"
-        },
-        {
-          "url": "https://www.univision.com/global/privacy-policy-en",
-          "title": "Privacy Notice - TelevisaUnivision"
         }
       ],
       "count": 6
@@ -392,8 +392,8 @@
       "name": "organizations-government",
       "bookmarks": [
         {
-          "url": "https://cms.who.int/initiatives/the-mrna-vaccine-technology-transfer-hub",
-          "title": "Login"
+          "url": "https://reform.un.org/content/development-reform",
+          "title": "Development Reform | United to Reform"
         },
         {
           "url": "https://www.faa.gov/",
@@ -404,12 +404,12 @@
           "title": "FRA"
         },
         {
-          "url": "https://www.kadaster.nl/",
+          "url": "http://www.kadaster.nl/",
           "title": "Kadaster | Particulier - Kadaster.nl particulier"
         },
         {
-          "url": "https://reform.un.org/content/development-reform",
-          "title": "Development Reform | United to Reform"
+          "url": "https://cms.who.int/initiatives/the-mrna-vaccine-technology-transfer-hub",
+          "title": "Login"
         },
         {
           "url": "https://www.valencia.es/",
@@ -422,7 +422,7 @@
       "name": "programming-resources",
       "bookmarks": [
         {
-          "url": "https://www.adahome.com/",
+          "url": "http://www.adahome.com/",
           "title": "Ada Home: the Home of the Brave Ada Programmers (HBAP)"
         },
         {
@@ -445,12 +445,8 @@
       "count": 5
     },
     {
-      "name": "recipes-cooking",
+      "name": "cooking-recipes",
       "bookmarks": [
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85919",
-          "title": "Searchable Recipe Database - Almond Macaroons with chocolate fillinf"
-        },
         {
           "url": "https://amybakesintheburgh.com/tag/danish-butter-cookies/",
           "title": "Danish butter cookies - amy bakes in the 'burgh"
@@ -460,8 +456,12 @@
           "title": "Kneden brooddeeg - Mariëlle in de Keuken"
         },
         {
-          "url": "https://ricettedalmondo.blogspot.com/",
+          "url": "http://ricettedalmondo.blogspot.com/",
           "title": "Ricette dal Mondo"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85919",
+          "title": "Searchable Recipe Database - Almond Macaroons with chocolate fillinf"
         }
       ],
       "count": 4
@@ -474,7 +474,7 @@
           "title": "Glyphs"
         },
         {
-          "url": "https://www.soundblaster.com/",
+          "url": "http://www.soundblaster.com/",
           "title": "Schede audio DAC e amplificatore USB interne ed esterne e guida per l'acquisto Sound Blaster - Creative Labs (Italia)"
         },
         {
@@ -500,7 +500,7 @@
           "title": "Create Test Taker Account"
         },
         {
-          "url": "https://families.google/",
+          "url": "https://families.google",
           "title": "Google Families - Helping Make Technology Work For Your Family"
         },
         {
@@ -540,7 +540,7 @@
           "title": "Contact Pasha Belman Photography"
         },
         {
-          "url": "https://www.thephotoargus.com/",
+          "url": "https://www.thephotoargus.com",
           "title": "The Photo Argus - Fresh photography ideas, useful tips and creative inspiration."
         }
       ],
@@ -565,24 +565,6 @@
       "count": 3
     },
     {
-      "name": "products-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.kiwico.com/us/store/dp/roller-coaster-physics-ferris-wheel-project-kit/4072",
-          "title": "Marble Roller Coaster | KiwiCo"
-        },
-        {
-          "url": "https://weplayapp.com/",
-          "title": "WePlay - Online Board Game Lounge"
-        },
-        {
-          "url": "https://weplayapp.com/",
-          "title": "WePlay - Online Board Game Lounge"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "shopping-fashion",
       "bookmarks": [
         {
@@ -599,6 +581,20 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "products-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://www.kiwico.com/us/store/dp/roller-coaster-physics-ferris-wheel-project-kit/4072",
+          "title": "Marble Roller Coaster | KiwiCo"
+        },
+        {
+          "url": "https://weplayapp.com/",
+          "title": "WePlay - Online Board Game Lounge"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 119,

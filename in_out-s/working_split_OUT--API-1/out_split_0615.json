@@ -1,16 +1,8 @@
 {
   "folders": [
     {
-      "name": "online-tools-and-software",
+      "name": "software-online-tools",
       "bookmarks": [
-        {
-          "url": "https://4gnews.pt/ve-como-e-o-wear-os-3-sem-a-personalizacao-da-samsung-por-cima/",
-          "title": "Vê como é o Wear OS 3 sem a personalização da Samsung por cima - 4gnews"
-        },
-        {
-          "url": "https://domenomania.pl/centrum-wiedzy/jak-po-zalogowaniu-zmienic-haslo-do-panelu-klienta",
-          "title": "Zmiana hasła przy użyciu funkcji przypomnij hasło » Domenomania.pl"
-        },
         {
           "url": "https://www.elastic.co/guide/en/kibana/current/discover.html",
           "title": "Discover | Elastic Docs"
@@ -24,24 +16,32 @@
           "title": "Get Firefox for desktop and mobile - Firefox.com Global"
         },
         {
-          "url": "https://login.microsoftonline.com/",
-          "title": "Sign in to your account"
-        },
-        {
           "url": "https://optinmonster.com/gdpr/cookies/",
           "title": "OptinMonster Cookie List - OptinMonster"
         },
         {
-          "url": "https://www.paltalk.com/",
-          "title": "Video Chat | Paltalk"
+          "url": "https://www.social-engineer.org/framework/attack-vectors/phishing-attacks-2/",
+          "title": "Phishing - Security Through Education"
         },
         {
           "url": "http://www.quirksmode.org/js/index.html?dhtmloptions.html",
           "title": "QuirksMode - JavaScript"
         },
         {
-          "url": "https://www.social-engineer.org/framework/attack-vectors/phishing-attacks-2/",
-          "title": "Phishing - Security Through Education"
+          "url": "https://login.microsoftonline.com/",
+          "title": "Sign in to your account"
+        },
+        {
+          "url": "https://www.paltalk.com/",
+          "title": "Video Chat | Paltalk"
+        },
+        {
+          "url": "https://4gnews.pt/ve-como-e-o-wear-os-3-sem-a-personalizacao-da-samsung-por-cima/",
+          "title": "Vê como é o Wear OS 3 sem a personalização da Samsung por cima - 4gnews"
+        },
+        {
+          "url": "https://domenomania.pl/centrum-wiedzy/jak-po-zalogowaniu-zmienic-haslo-do-panelu-klienta",
+          "title": "Zmiana hasła przy użyciu funkcji przypomnij hasło » Domenomania.pl"
         },
         {
           "url": "https://v.qq.com/txp/iframe/player.html?origin=https%3A%2F%2Fmp.weixin.qq.com&vid=x07243ccjl8&autoplay=false&full=true&show1080p=false",
@@ -51,57 +51,65 @@
       "count": 11
     },
     {
-      "name": "business-and-corporate-information",
+      "name": "business-corporate-information",
       "bookmarks": [
         {
-          "url": "https://newsroom.accenture.com",
-          "title": "Newsroom | Accenture"
+          "url": "https://www.bancaynegocios.com/tag/barinas2021/",
+          "title": "#Barinas2021 - Banca y Negocios"
+        },
+        {
+          "url": "https://www.wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
+          "title": "Despite job openings, gap remains between labor pool and needed skills"
         },
         {
           "url": "https://aeds-mn.org/",
           "title": "HOME | African Economic Development Solutions | AEDS-MN | Saint Paul"
         },
         {
-          "url": "https://www.alterna.pro/",
-          "title": "Inicio | Alterna"
-        },
-        {
-          "url": "https://www.bancaynegocios.com/tag/barinas2021/",
-          "title": "#Barinas2021 - Banca y Negocios"
-        },
-        {
-          "url": "https://www.ccep.jobs/location/toulouse-jobs/26309/3017382-11071623-2972315/4",
-          "title": "Search Toulouse Jobs at CCEP"
-        },
-        {
-          "url": "https://www.lasff.com/social-media-posts-example.html",
-          "title": "Social Media Posts (example)"
-        },
-        {
-          "url": "https://timesofsandiego.com/business/2019/05/23/six-san-diego-small-businesses-win-chambers-annual-awards/",
-          "title": "Six San Diego Small Businesses Win Chamber's Annual Awards"
-        },
-        {
           "url": "http://www.walgreensbootsalliance.com/",
           "title": "Home | Walgreens Boots Alliance"
+        },
+        {
+          "url": "https://www.alterna.pro/",
+          "title": "Inicio | Alterna"
         },
         {
           "url": "https://news.walgreens.com/our-stories/",
           "title": "News Hub | Walgreens Boots Alliance"
         },
         {
-          "url": "https://www.wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
-          "title": "Despite job openings, gap remains between labor pool and needed skills"
+          "url": "https://newsroom.accenture.com",
+          "title": "Newsroom | Accenture"
+        },
+        {
+          "url": "https://www.ccep.jobs/location/toulouse-jobs/26309/3017382-11071623-2972315/4",
+          "title": "Search Toulouse Jobs at CCEP"
+        },
+        {
+          "url": "https://timesofsandiego.com/business/2019/05/23/six-san-diego-small-businesses-win-chambers-annual-awards/",
+          "title": "Six San Diego Small Businesses Win Chamber's Annual Awards"
+        },
+        {
+          "url": "https://www.lasff.com/social-media-posts-example.html",
+          "title": "Social Media Posts (example)"
         }
       ],
       "count": 10
     },
     {
-      "name": "academic-and-university-resources",
+      "name": "academic-university-resources",
       "bookmarks": [
         {
           "url": "https://www.kidsafeseal.com/aboutourprogram.html",
           "title": "About our program"
+        },
+        {
+          "url": "http://www.uw.edu/accessibility",
+          "title": "Accessibility at the UW"
+        },
+        {
+          "url": "http://www.trentu.ca/archaeology/",
+          "title": "Archaeology - Trent University"
         },
         {
           "url": "https://scfindingaids.uvm.edu/repositories/2/resources?q%5B%5D=%2A&op%5B%5D=&field%5B%5D=title&from_year%5B%5D=&to_year%5B%5D=&limit=resource&filter_fields%5B%5D=langcode&filter_values%5B%5D=eng&sort=title_sort%20asc&page=8",
@@ -116,27 +124,23 @@
           "title": "Coursera Partnerships | Coursera"
         },
         {
-          "url": "https://www.smarttales.app",
-          "title": "Smart Tales: Learning App for Kids | Math & Reading Games"
-        },
-        {
-          "url": "http://www.trentu.ca/archaeology/",
-          "title": "Archaeology - Trent University"
-        },
-        {
           "url": "http://www.ucsf.edu/",
           "title": "Home | UC San Francisco"
         },
         {
-          "url": "http://www.uw.edu/accessibility",
-          "title": "Accessibility at the UW"
+          "url": "https://www.smarttales.app",
+          "title": "Smart Tales: Learning App for Kids | Math & Reading Games"
         }
       ],
       "count": 8
     },
     {
-      "name": "events-and-cultural-experiences",
+      "name": "events-cultural-experiences",
       "bookmarks": [
+        {
+          "url": "https://web.cvent.com/event/ab5149fc-4ebf-4b21-b1eb-2da3fa98cee6/summary?utm_campaign=spritz_sandiego0929",
+          "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - San Diego: Liberty Station - September 29, 2022"
+        },
         {
           "url": "https://lwtheatres.co.uk/whats-on/ariana-debose/",
           "title": "Ariana DeBose Tickets - The London Palladium, London - Official Box Office"
@@ -146,23 +150,31 @@
           "title": "Eurocrypt 2002"
         },
         {
-          "url": "https://www.musee-orsay.fr/en/whats-on",
-          "title": "What's on | Musée d'Orsay"
-        },
-        {
           "url": "http://topgolf.com/company/contact/",
           "title": "Select Topgolf Region"
         },
         {
-          "url": "https://web.cvent.com/event/ab5149fc-4ebf-4b21-b1eb-2da3fa98cee6/summary?utm_campaign=spritz_sandiego0929",
-          "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - San Diego: Liberty Station - September 29, 2022"
+          "url": "https://www.musee-orsay.fr/en/whats-on",
+          "title": "What's on | Musée d'Orsay"
         }
       ],
       "count": 5
     },
     {
-      "name": "lifestyle-and-home-design",
+      "name": "lifestyle-home-design",
       "bookmarks": [
+        {
+          "url": "https://www.milkmagazine.net/",
+          "title": "Milk Magazine | Mode, lifestyle, voyage et expériences en famille"
+        },
+        {
+          "url": "https://www.insideweddings.com/weddings/chudney-ross-joshua-faulkner/45563/",
+          "title": "Real Wedding of Chudney Ross + Joshua Faulkner - Inside Weddings"
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/709135/right-at-home-by-bobby-berk/",
+          "title": "Right at Home by Bobby Berk: 9780593578353 | PenguinRandomHouse.com: Books"
+        },
         {
           "url": "https://www.craftsmanspace.com/knowledge/chip-carving-patterns.html",
           "title": "Wood carving books | CRAFTSMANSPACE"
@@ -170,32 +182,20 @@
         {
           "url": "https://www.ekollel.com/?s=are%20nestle%20nerds",
           "title": "You searched for are nestle nerds - The Kosher Portal"
-        },
-        {
-          "url": "https://www.insideweddings.com/weddings/chudney-ross-joshua-faulkner/45563/",
-          "title": "Real Wedding of Chudney Ross + Joshua Faulkner - Inside Weddings"
-        },
-        {
-          "url": "https://www.milkmagazine.net/",
-          "title": "Milk Magazine | Mode, lifestyle, voyage et expériences en famille"
-        },
-        {
-          "url": "https://www.penguinrandomhouse.com/books/709135/right-at-home-by-bobby-berk/",
-          "title": "Right at Home by Bobby Berk: 9780593578353 | PenguinRandomHouse.com: Books"
         }
       ],
       "count": 5
     },
     {
-      "name": "shopping-and-fashion",
+      "name": "shopping-fashion",
       "bookmarks": [
-        {
-          "url": "https://www.essie.com/nail-polish/enamel/pinks/hi-maintenance",
-          "title": "Hi Maintenance - Sheer Pale Pink Nail Polish - Essie"
-        },
         {
           "url": "https://geckojoy.club/blogs/geckochitchat/tagged/measure",
           "title": "Gecko Chit Chat - tagged \"measure\" - Geckojoy"
+        },
+        {
+          "url": "https://www.essie.com/nail-polish/enamel/pinks/hi-maintenance",
+          "title": "Hi Maintenance - Sheer Pale Pink Nail Polish - Essie"
         },
         {
           "url": "https://www.lulus.com/products/charmed-and-classy-black-polka-dot-long-sleeve-midi-dress/1053642.html",
@@ -213,69 +213,55 @@
       "count": 5
     },
     {
-      "name": "social-media-and-profiles",
+      "name": "social-media-profiles",
       "bookmarks": [
-        {
-          "url": "https://thedragonvollys.tumblr.com/",
-          "title": "@thedragonvollys on Tumblr"
-        },
         {
           "url": "https://parish107.tumblr.com/",
           "title": "@parish107 on Tumblr"
         },
         {
-          "url": "https://reading-not-sleeping.tumblr.com/",
-          "title": "Reading Not Sleeping"
+          "url": "https://thedragonvollys.tumblr.com/",
+          "title": "@thedragonvollys on Tumblr"
+        },
+        {
+          "url": "https://starsky.be/squad/ann-van-elsen",
+          "title": "Ann Van Elsen | Starsky"
         },
         {
           "url": "https://rhawkins20-blog-blog-blog.tumblr.com/",
           "title": "Digitalia"
         },
         {
-          "url": "https://starsky.be/squad/ann-van-elsen",
-          "title": "Ann Van Elsen | Starsky"
+          "url": "https://reading-not-sleeping.tumblr.com/",
+          "title": "Reading Not Sleeping"
         }
       ],
       "count": 5
     },
     {
-      "name": "environmental-and-sustainability",
+      "name": "government-public-policy",
       "bookmarks": [
         {
-          "url": "https://www.cdp.net/en",
-          "title": "CDP: Turning Transparency to Action"
-        },
-        {
-          "url": "https://climatecommunication.yale.edu/publications/politics-global-warming-september-2021/",
-          "title": "Politics & Global Warming, September 2021 - Yale Program on Climate Change Communication"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government-and-public-policy",
-      "bookmarks": [
-        {
-          "url": "https://corporate.walmart.com/recalls",
-          "title": "Product Recalls"
+          "url": "https://www.meiningen.at/fotos/projekt-teddybaerkrankenhaus/baerenkrankenhaus1_-40.jpg/view",
+          "title": "Gemeinde Meiningen - Gemeinde"
         },
         {
           "url": "https://reportfraud.ftc.gov/#/",
           "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
         },
         {
-          "url": "https://www.kryteriononline.com/terms-use",
-          "title": "Terms of Use - Kryterion"
+          "url": "https://corporate.walmart.com/recalls",
+          "title": "Product Recalls"
         },
         {
-          "url": "https://www.meiningen.at/fotos/projekt-teddybaerkrankenhaus/baerenkrankenhaus1_-40.jpg/view",
-          "title": "Gemeinde Meiningen - Gemeinde"
+          "url": "https://www.kryteriononline.com/terms-use",
+          "title": "Terms of Use - Kryterion"
         }
       ],
       "count": 4
     },
     {
-      "name": "sports-and-fitness",
+      "name": "sports-fitness",
       "bookmarks": [
         {
           "url": "https://www.padelfederacion.es/Estadisticas.asp?Id=199323",
@@ -291,6 +277,20 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "environmental-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://www.cdp.net/en",
+          "title": "CDP: Turning Transparency to Action"
+        },
+        {
+          "url": "https://climatecommunication.yale.edu/publications/politics-global-warming-september-2021/",
+          "title": "Politics & Global Warming, September 2021 - Yale Program on Climate Change Communication"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 58,

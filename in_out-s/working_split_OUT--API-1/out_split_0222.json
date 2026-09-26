@@ -1,28 +1,8 @@
 {
   "folders": [
     {
-      "name": "articles-news-commentary",
+      "name": "news-articles-commentary",
       "bookmarks": [
-        {
-          "url": "https://www.commercialappeal.com/story/news/local/suburbs/collierville/2023/02/15/paul-rudd-ant-man-tennessee-shelter-dog-adoption-lookalike/69906980007/",
-          "title": "Paul Rudd: Shelter wants Ant-Man actor to adopt 'look-alike' dog"
-        },
-        {
-          "url": "https://www.renewableenergyworld.com/solar/corporate-sustainability-requires-impactful-clean-energy-investments/#gref",
-          "title": "Corporate sustainability requires impactful clean energy investments"
-        },
-        {
-          "url": "https://www.sfexaminer.com/fixes/san-francisco-plans-to-purchase-200-units-to-house-homeless-families/",
-          "title": "San Francisco plans to purchase 200 units to house homeless families | Archives | sfexaminer.com"
-        },
-        {
-          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
-          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
-        },
-        {
-          "url": "https://www.self.com/story/issa-rae",
-          "title": "Issa Rae on Life as a Newlywed, Creating Boundaries, and Taking Care of One Another | SELF"
-        },
         {
           "url": "https://www.vox.com/energy-and-environment/2020/7/16/21324662/climate-change-air-pollution-tracking-greenhouse-gas-emissions-trace-coalition",
           "title": "Climate change: The world's greenhouse gas emissions will be tracked in real time | Vox"
@@ -30,6 +10,26 @@
         {
           "url": "https://mahxipad.tumblr.com/post/143010030732",
           "title": "Computer science: the impact of K-12 on university enrollment - @mahxipad on Tumblr"
+        },
+        {
+          "url": "https://www.renewableenergyworld.com/solar/corporate-sustainability-requires-impactful-clean-energy-investments/#gref",
+          "title": "Corporate sustainability requires impactful clean energy investments"
+        },
+        {
+          "url": "http://rdcu.be/bZ0CL",
+          "title": "Environmental market design for large-scale marine conservation | Nature Sustainability"
+        },
+        {
+          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
+          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
+        },
+        {
+          "url": "https://www.providencejournal.com/entertainment/dining/",
+          "title": "Food and Dining in Providence, RI | The Providence Journal"
+        },
+        {
+          "url": "https://www.self.com/story/issa-rae",
+          "title": "Issa Rae on Life as a Newlywed, Creating Boundaries, and Taking Care of One Another | SELF"
         },
         {
           "url": "https://blockclubchicago.org/2023/02/13/midwests-first-la-michoacana-plus-opens-on-26th-street-bringing-ice-cream-paletas-and-more-to-little-village/",
@@ -40,12 +40,12 @@
           "title": "New study ranks Downtown Atlanta as 'growing downtown' - Curbed Atlanta"
         },
         {
-          "url": "http://rdcu.be/bZ0CL",
-          "title": "Environmental market design for large-scale marine conservation | Nature Sustainability"
+          "url": "https://www.commercialappeal.com/story/news/local/suburbs/collierville/2023/02/15/paul-rudd-ant-man-tennessee-shelter-dog-adoption-lookalike/69906980007/",
+          "title": "Paul Rudd: Shelter wants Ant-Man actor to adopt 'look-alike' dog"
         },
         {
-          "url": "https://www.providencejournal.com/entertainment/dining/",
-          "title": "Food and Dining in Providence, RI | The Providence Journal"
+          "url": "https://www.sfexaminer.com/fixes/san-francisco-plans-to-purchase-200-units-to-house-homeless-families/",
+          "title": "San Francisco plans to purchase 200 units to house homeless families | Archives | sfexaminer.com"
         },
         {
           "url": "https://unknews.unk.edu/tag/vaccination/",
@@ -59,8 +59,12 @@
       "count": 13
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
+        {
+          "url": "https://www.heart.org",
+          "title": "American Heart Association | To be a relentless force for a world of longer, healthier lives"
+        },
         {
           "url": "https://connectupmn.org/",
           "title": "ConnectUP! Institute - A social finance and enterprise development studio"
@@ -78,10 +82,6 @@
           "title": "Led by TRUTH - Nonprofit, Mentorship, Consulting"
         },
         {
-          "url": "https://lfca.earth/members/",
-          "title": "Members"
-        },
-        {
           "url": "https://www.lssmn.org/lifetrack",
           "title": "Lifetrack | Lutheran Social Service of Minnesota"
         },
@@ -90,8 +90,8 @@
           "title": "MCCD | Metropolitan Consortium of Community Developers"
         },
         {
-          "url": "https://www.heart.org",
-          "title": "American Heart Association | To be a relentless force for a world of longer, healthier lives"
+          "url": "https://lfca.earth/members/",
+          "title": "Members"
         },
         {
           "url": "http://www.rwjf.org/",
@@ -116,16 +116,16 @@
           "title": "ActionKit"
         },
         {
-          "url": "https://www.blueorigin.com/",
-          "title": "Home | Blue Origin"
+          "url": "http://www.metacdn.com",
+          "title": "CDN by MetaCDN - Live Streaming - Content Delivery Network"
         },
         {
           "url": "https://www.elevancehealth.com",
           "title": "Elevance Health | Advancing Health Beyond Healthcare"
         },
         {
-          "url": "http://www.grs-batterien.de",
-          "title": "Start | GRS Batterien Service GmbH"
+          "url": "https://www.blueorigin.com/",
+          "title": "Home | Blue Origin"
         },
         {
           "url": "http://www.invictusafrica.com/",
@@ -136,12 +136,12 @@
           "title": "Learning Through Play - Inspiring Kid's Imagination With Magikbee"
         },
         {
-          "url": "http://www.metacdn.com",
-          "title": "CDN by MetaCDN - Live Streaming - Content Delivery Network"
-        },
-        {
           "url": "https://www.roadmaptozero.com/",
           "title": "Roadmap to Zero"
+        },
+        {
+          "url": "http://www.grs-batterien.de",
+          "title": "Start | GRS Batterien Service GmbH"
         }
       ],
       "count": 8
@@ -150,12 +150,12 @@
       "name": "dev-resources",
       "bookmarks": [
         {
-          "url": "https://api-docs.carto.com",
-          "title": "CARTO API Documentation"
-        },
-        {
           "url": "https://www.chessprogramming.org/Bitboards",
           "title": "Bitboards - Chessprogramming wiki"
+        },
+        {
+          "url": "https://api-docs.carto.com",
+          "title": "CARTO API Documentation"
         },
         {
           "url": "https://www.geeksforgeeks.org/java/",
@@ -181,6 +181,70 @@
       "count": 7
     },
     {
+      "name": "shopping-misc",
+      "bookmarks": [
+        {
+          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
+          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
+        },
+        {
+          "url": "https://ostrovit.com/en/menu/superfoods-18763.html",
+          "title": "Advanced search engine - Official store | OstroVit"
+        },
+        {
+          "url": "https://www.buschvanderworp.nl/verf-mediums-vernis/gouache-plakkaat/winsor-newton-designers-gouache/bruin/",
+          "title": "Bruin - Busch & van der Worp"
+        },
+        {
+          "url": "https://www.emporiojanial.com.br/tintas/tintas-para-tecido/146/Turquesa?PS=30&map=c,c,productClusterSearchableIds,specificationFilter_71",
+          "title": "Empório Janial"
+        },
+        {
+          "url": "https://www.interessante-geschenke.de/eshop/einzigartige-holzgeschenke/militar-geschenke/us-panzer-abrams-militar-tank-holzspielzeug-geschenke-fur-soldaten-und-kinder/",
+          "title": "HOLZ Militär Panzer Abrams 23 cm | mit Ihrer Gravur"
+        },
+        {
+          "url": "https://www.thelightcouture.com/en/collections/classic-antique/metal-and-bohemian-crystal-chandelier/",
+          "title": "Metal and Bohemian Crystal Chandelier - Thelightcouture"
+        },
+        {
+          "url": "https://orderhavenly.com/s/order",
+          "title": "Order Online | Havenly"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "reference-lookup",
+      "bookmarks": [
+        {
+          "url": "http://www.portaldalinguaportuguesa.org/?action=lemma&lemma=14457&template=print",
+          "title": "afoitar (verbo) -"
+        },
+        {
+          "url": "http://flechebragarde.ddns.net/bd/auteur.php?coll=albums&idauteur=3277&liste=styles",
+          "title": "BD Gest' & BDGWeb - Détails pour l'auteur"
+        },
+        {
+          "url": "https://supreme.justia.com/cases/federal/us/237/309/",
+          "title": "Frank v. Mangum | 237 U.S. 309 (1915) | Justia U.S. Supreme Court Center"
+        },
+        {
+          "url": "https://historiska.se/utstallningar/haxor/",
+          "title": "Häxor | Historiska Museet"
+        },
+        {
+          "url": "https://election-legislative.linternaute.com/resultats/porri/ville-2B245",
+          "title": "Résultat des élections législatives 2025 à Porri (20215)"
+        },
+        {
+          "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
+          "title": "Ubstadt-Weiher - Vikipedio"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "shopping-beauty",
       "bookmarks": [
         {
@@ -196,53 +260,19 @@
           "title": "Trvalá na riasy - Vsetkoprenechty.sk"
         },
         {
+          "url": "https://www.burtsbees.com/product/tinted-lip-oil/792850898103.html",
+          "title": "void"
+        },
+        {
           "url": "https://www.jcpenney.com/p/eva-nyc-kweeen-glitter-spray/ppr5008150071?pTmplType=regular",
           "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
         },
         {
           "url": "https://www.jcpenney.com/p/exa-beauty-high-fidelity-balancing-color-corrector/ppr5008239340?pTmplType=beauty&slfpid=3",
           "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
-        },
-        {
-          "url": "https://www.burtsbees.com/product/tinted-lip-oil/792850898103.html",
-          "title": "void"
         }
       ],
       "count": 6
-    },
-    {
-      "name": "shopping-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.buschvanderworp.nl/verf-mediums-vernis/gouache-plakkaat/winsor-newton-designers-gouache/bruin/",
-          "title": "Bruin - Busch & van der Worp"
-        },
-        {
-          "url": "https://www.emporiojanial.com.br/tintas/tintas-para-tecido/146/Turquesa?PS=30&map=c,c,productClusterSearchableIds,specificationFilter_71",
-          "title": "Empório Janial"
-        },
-        {
-          "url": "https://www.interessante-geschenke.de/eshop/einzigartige-holzgeschenke/militar-geschenke/us-panzer-abrams-militar-tank-holzspielzeug-geschenke-fur-soldaten-und-kinder/",
-          "title": "HOLZ Militär Panzer Abrams 23 cm | mit Ihrer Gravur"
-        },
-        {
-          "url": "https://orderhavenly.com/s/order",
-          "title": "Order Online | Havenly"
-        },
-        {
-          "url": "https://ostrovit.com/en/menu/superfoods-18763.html",
-          "title": "Advanced search engine - Official store | OstroVit"
-        },
-        {
-          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
-          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
-        },
-        {
-          "url": "https://www.thelightcouture.com/en/collections/classic-antique/metal-and-bohemian-crystal-chandelier/",
-          "title": "Metal and Bohemian Crystal Chandelier - Thelightcouture"
-        }
-      ],
-      "count": 7
     },
     {
       "name": "travel",
@@ -260,12 +290,12 @@
           "title": "Sehenswürdigkeiten Attraktionen München - muenchen.de"
         },
         {
-          "url": "https://njewasafaris.com/",
-          "title": "void"
-        },
-        {
           "url": "https://www.spicejet.com/",
           "title": "SpiceJet - Flight Booking for Domestic and International, Cheap Air Tickets"
+        },
+        {
+          "url": "https://njewasafaris.com/",
+          "title": "void"
         },
         {
           "url": "https://www.travelocity.com/",
@@ -290,12 +320,12 @@
           "title": "Typography.Guru Online Community"
         },
         {
-          "url": "https://www.zilliondesigns.com/blog/",
-          "title": "ZD Blog | Resource for design tips, tutorials, & more - ZillionDesigns"
-        },
-        {
           "url": "https://quotesondesign.com/",
           "title": "void"
+        },
+        {
+          "url": "https://www.zilliondesigns.com/blog/",
+          "title": "ZD Blog | Resource for design tips, tutorials, & more - ZillionDesigns"
         }
       ],
       "count": 5
@@ -327,34 +357,30 @@
       "count": 5
     },
     {
-      "name": "reference-lookup",
+      "name": "uncategorized",
       "bookmarks": [
         {
-          "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
-          "title": "Ubstadt-Weiher - Vikipedio"
+          "url": "https://www.coolandcomfort.be/nl/agenda/item/1063/15th-iir-gustav-lorentzen-conference-on-working-fluids",
+          "title": "Agenda | Cool and Comfort"
         },
         {
-          "url": "https://supreme.justia.com/cases/federal/us/237/309/",
-          "title": "Frank v. Mangum | 237 U.S. 309 (1915) | Justia U.S. Supreme Court Center"
+          "url": "https://www.sevesteen.com/feeds/3240310945383736767/comments/default",
+          "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
         },
         {
-          "url": "https://historiska.se/utstallningar/haxor/",
-          "title": "Häxor | Historiska Museet"
+          "url": "https://www.ssoar.info/ssoar/discover?filtertype_0=thesoz&filtertype_1=author&filtertype_2=thesoz&filter_relational_operator_1=equals&filtertype_3=thesoz&filter_relational_operator_0=equals&filtertype_4=review&filter_2=alcohol+consumption&filter_relational_operator_3=equals&filtertype_5=documentType&filter_1=Hilpert%2C+Leon&filter_relational_operator_2=equals&filtertype_6=series&filter_0=Kind&filter_relational_operator_5=equals&filtertype_7=institution&filter_relational_operator_4=equals&filter_6=ifb-Materialien&filter_relational_operator_7=equals&filter_5=13&filter_relational_operator_6=equals&filter_4=2&filter_3=adolescent&filter_7=Staatsinstitut+f%C3%BCr+Familienforschung+an+der+Universit%C3%A4t+Bamberg+%28ifb%29&filtertype=author&filter_relational_operator=equals&filter=Hauth%2C+Doris",
+          "title": "Search"
         },
         {
-          "url": "http://www.portaldalinguaportuguesa.org/?action=lemma&lemma=14457&template=print",
-          "title": "afoitar (verbo) -"
+          "url": "https://www.st-marys-clayton-le-moors.lancs.sch.uk/policy-documents/child-protection",
+          "title": "St Mary's Roman Catholic Primary School - Safeguarding"
         },
         {
-          "url": "https://election-legislative.linternaute.com/resultats/porri/ville-2B245",
-          "title": "Résultat des élections législatives 2025 à Porri (20215)"
-        },
-        {
-          "url": "http://flechebragarde.ddns.net/bd/auteur.php?coll=albums&idauteur=3277&liste=styles",
-          "title": "BD Gest' & BDGWeb - Détails pour l'auteur"
+          "url": "https://acs782.tumblr.com/",
+          "title": "Stuff"
         }
       ],
-      "count": 6
+      "count": 5
     },
     {
       "name": "government",
@@ -386,22 +412,22 @@
           "title": "Google Cloud | Google Cloud Blog"
         },
         {
-          "url": "https://storeleads.app/",
-          "title": "Store Leads - The platform for ecommerce data."
+          "url": "http://kathieleegiffordnft.com",
+          "title": "KLG Pioneers"
         },
         {
           "url": "http://www.live555.com",
           "title": "LIVE555.COM"
         },
         {
-          "url": "http://kathieleegiffordnft.com",
-          "title": "KLG Pioneers"
+          "url": "https://storeleads.app/",
+          "title": "Store Leads - The platform for ecommerce data."
         }
       ],
       "count": 4
     },
     {
-      "name": "web-services-account",
+      "name": "web-services-accounts",
       "bookmarks": [
         {
           "url": "https://login.ey.com/myey/login",
@@ -421,20 +447,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "business-finance",
-      "bookmarks": [
-        {
-          "url": "https://www.acca-x.com/",
-          "title": "ACCA-X online courses in accounting, business and finance"
-        },
-        {
-          "url": "https://stock.walmart.com/stock-information/default.aspx",
-          "title": "Quote and Chart :: Walmart Inc. (WMT)"
-        }
-      ],
-      "count": 2
     },
     {
       "name": "careers-jobs",
@@ -491,6 +503,34 @@
       "count": 3
     },
     {
+      "name": "business-finance",
+      "bookmarks": [
+        {
+          "url": "https://www.acca-x.com/",
+          "title": "ACCA-X online courses in accounting, business and finance"
+        },
+        {
+          "url": "https://stock.walmart.com/stock-information/default.aspx",
+          "title": "Quote and Chart :: Walmart Inc. (WMT)"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "local-services",
+      "bookmarks": [
+        {
+          "url": "https://www.pacificcremationservices.com/obituaries/Thomas--Walter--Smith?obId=25875204",
+          "title": "Most Recent Obituaries | Pacific Cremation Services"
+        },
+        {
+          "url": "https://www.tabbytracker.com/cat.php?id=189148",
+          "title": "Safe Cat in Willow Grove, PA (19090) - Tabby Tracker"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "news-international",
       "bookmarks": [
         {
@@ -500,20 +540,6 @@
         {
           "url": "https://www.tdm.com.mo/pt/news-detail/599429",
           "title": "TDM"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "services-local",
-      "bookmarks": [
-        {
-          "url": "https://www.pacificcremationservices.com/obituaries/Thomas--Walter--Smith?obId=25875204",
-          "title": "Most Recent Obituaries | Pacific Cremation Services"
-        },
-        {
-          "url": "https://www.tabbytracker.com/cat.php?id=189148",
-          "title": "Safe Cat in Willow Grove, PA (19090) - Tabby Tracker"
         }
       ],
       "count": 2
@@ -537,32 +563,6 @@
         }
       ],
       "count": 1
-    },
-    {
-      "name": "uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://www.sevesteen.com/feeds/3240310945383736767/comments/default",
-          "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
-        },
-        {
-          "url": "https://www.ssoar.info/ssoar/discover?filtertype_0=thesoz&filtertype_1=author&filtertype_2=thesoz&filter_relational_operator_1=equals&filtertype_3=thesoz&filter_relational_operator_0=equals&filtertype_4=review&filter_2=alcohol+consumption&filter_relational_operator_3=equals&filtertype_5=documentType&filter_1=Hilpert%2C+Leon&filter_relational_operator_2=equals&filtertype_6=series&filter_0=Kind&filter_relational_operator_5=equals&filtertype_7=institution&filter_relational_operator_4=equals&filter_6=ifb-Materialien&filter_relational_operator_7=equals&filter_5=13&filter_relational_operator_6=equals&filter_4=2&filter_3=adolescent&filter_7=Staatsinstitut+f%C3%BCr+Familienforschung+an+der+Universit%C3%A4t+Bamberg+%28ifb%29&filtertype=author&filter_relational_operator=equals&filter=Hauth%2C+Doris",
-          "title": "Search"
-        },
-        {
-          "url": "https://www.st-marys-clayton-le-moors.lancs.sch.uk/policy-documents/child-protection",
-          "title": "St Mary's Roman Catholic Primary School - Safeguarding"
-        },
-        {
-          "url": "https://acs782.tumblr.com/",
-          "title": "Stuff"
-        },
-        {
-          "url": "https://www.coolandcomfort.be/nl/agenda/item/1063/15th-iir-gustav-lorentzen-conference-on-working-fluids",
-          "title": "Agenda | Cool and Comfort"
-        }
-      ],
-      "count": 5
     }
   ],
   "total_bookmarks": 108,

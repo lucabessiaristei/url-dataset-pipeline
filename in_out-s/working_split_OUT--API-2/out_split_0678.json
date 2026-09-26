@@ -1,560 +1,12 @@
 {
   "folders": [
     {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "https://bja.ojp.gov",
-          "title": "Home | Bureau of Justice Assistance"
-        },
-        {
-          "url": "https://energy.gov/",
-          "title": "Department of Energy"
-        },
-        {
-          "url": "https://fns.usda.gov/snap",
-          "title": "Supplemental Nutrition Assistance Program (SNAP) | Food and Nutrition Service"
-        },
-        {
-          "url": "https://legalaffairs.gov.in",
-          "title": "Home | Department of Legal Affairs, MoL &J, GoI"
-        },
-        {
-          "url": "https://open.canada.ca/en",
-          "title": "Open Government | Open Government - Government of Canada"
-        },
-        {
-          "url": "https://reportfraud.ftc.gov",
-          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
-        },
-        {
-          "url": "https://seavision.volpe.dot.gov/legal/eula",
-          "title": "SeaVision"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://aljazeera.com/economy/",
-          "title": "Economy | Today's latest from Al Jazeera"
-        },
-        {
-          "url": "https://bbc.com/news/world-asia-50934145",
-          "title": "'Ghost boat' containing human remains washes up on Japanese island"
-        },
-        {
-          "url": "https://cnnpressroom.blogs.cnn.com/2023/02/27/cnn-primetime-jill-biden-abroad/",
-          "title": "CNN PRIMETIME: JILL BIDEN ABROAD"
-        },
-        {
-          "url": "https://edition.cnn.com/travel/article/venice-canal-drought-italy-climate-scli-intl/index.html",
-          "title": "Venice canals run dry amid fears Italy faces another drought | CNN"
-        },
-        {
-          "url": "https://faz.net/aktuell/feuilleton/buehne-und-konzert/eklat-in-hannover-attacke-mit-tierkot-auf-unsere-tanzkritikerin-18672999.html",
-          "title": "Attacke mit Tierkot auf unsere Tanzkritikerin: Eklat in Hannover | FAZ"
-        },
-        {
-          "url": "https://idnes.cz/technet",
-          "title": "iDNES.cz - s námi víte víc"
-        },
-        {
-          "url": "https://kantar.com/north-america/inspiration/technology/85-per-cent-of-us-households-have-a-video-subscription-service",
-          "title": "85% of US households have a video subscription service"
-        },
-        {
-          "url": "https://link.nbcnews.com/join/5cj/think-signup",
-          "title": "Sign up for the THINK newsletter | NBC News"
-        },
-        {
-          "url": "https://nzz.ch/digital",
-          "title": "Technologie - News, Hintergründe & Kommentare | NZZ"
-        },
-        {
-          "url": "https://politifact.com/factchecks/2022/feb/25/vladimir-putin/putin-repeats-long-running-claim-genocide-ukraine/",
-          "title": "PolitiFact | Vladimir Putin repeats false claim of genocide in Ukraine"
-        },
-        {
-          "url": "https://tbrnewsmedia.com/tag/suffolk-county-plastic-reduction-task-force/",
-          "title": "Suffolk County Plastic Reduction Task Force | TBR News Media"
-        }
-      ],
-      "count": 11
-    },
-    {
-      "name": "technology-tools",
-      "bookmarks": [
-        {
-          "url": "https://analyst.lightcast.io",
-          "title": "Login | Analyst"
-        },
-        {
-          "url": "https://bluecamroo.com/support/home/selectplan",
-          "title": "Select Your BlueCamroo Plan"
-        },
-        {
-          "url": "https://diffchecker.com/",
-          "title": "Compare text and find differences online or offline - Diffchecker"
-        },
-        {
-          "url": "https://gradientos.app/",
-          "title": "Gradientos"
-        },
-        {
-          "url": "https://looker.com",
-          "title": "Looker business intelligence platform embedded analytics | Google Cloud"
-        },
-        {
-          "url": "https://mailjet.com/solutions/use-cases/newsletter-templates/",
-          "title": "Newsletter Templates - Send Beautiful and Responsive Emails | Mailjet"
-        },
-        {
-          "url": "https://pngquant.org/",
-          "title": "pngquant - lossy PNG compressor"
-        },
-        {
-          "url": "https://randomlists.com/nouns",
-          "title": "Generate a list of random nouns"
-        },
-        {
-          "url": "https://reverseimagesear.ch/",
-          "title": "Reverse Image Search: Find similar images on Internet"
-        },
-        {
-          "url": "https://smugmug.com/",
-          "title": "SmugMug: Protect, Share, Store, and Sell Your Photos"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "education-research",
-      "bookmarks": [
-        {
-          "url": "https://aubmediterraneo.cy/",
-          "title": "American University of Beirut - Home - Pafos"
-        },
-        {
-          "url": "https://conferences.nature.com",
-          "title": "Nature Conferences"
-        },
-        {
-          "url": "https://coursera.org/partnerships",
-          "title": "Coursera Partnerships | Coursera"
-        },
-        {
-          "url": "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/",
-          "title": "Introduction to Microsoft Azure: Describe Cloud Concepts - Training | Microsoft Learn"
-        },
-        {
-          "url": "https://st-marys-clayton-le-moors.lancs.sch.uk/policy-documents/child-protection",
-          "title": "St Mary's Roman Catholic Primary School - Safeguarding"
-        },
-        {
-          "url": "https://uni-bremen.de/forschung/foerderangebote-service/ausschreibungen/erasmus-dozentenmobilitaet",
-          "title": "Erasmus Dozentenmobilität - Universität Bremen"
-        },
-        {
-          "url": "https://visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
-          "title": "A brief history of scientific practice | | Visionlearning"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "nonprofit-organizations",
-      "bookmarks": [
-        {
-          "url": "https://aclu-ky.org",
-          "title": "Home - ACLU Kentucky"
-        },
-        {
-          "url": "https://bluemeridian.org/",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://etvendowment.org/?page=17",
-          "title": "ETV Endowment of South Carolina"
-        },
-        {
-          "url": "https://exoduslending.org/",
-          "title": "What We Do - Exodus Lending - Exodus Lending"
-        },
-        {
-          "url": "https://goatsofanarchy.org/",
-          "title": "Goats of Anarchy"
-        },
-        {
-          "url": "https://peaceisalifestyle.com/",
-          "title": "LIFE CAMP - PEACE IS A LIFESTYLE"
-        },
-        {
-          "url": "https://seres.org/",
-          "title": "SERES - Youth Leadership"
-        },
-        {
-          "url": "https://therosienetwork.org/missionandimpact",
-          "title": "MISSION & IMPACT | The Rosie Network"
-        },
-        {
-          "url": "https://wordpressfoundation.org/donate/",
-          "title": "Donate - WordPress Foundation"
-        },
-        {
-          "url": "https://ywcastpaul.org/",
-          "title": "YWCA St. Paul - Eliminating Racism, Empowering Women"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "software-development",
-      "bookmarks": [
-        {
-          "url": "https://anthropic.com/claude/docs/quickstart",
-          "title": "Get started with Claude - Claude Docs"
-        },
-        {
-          "url": "https://developers-dot-devsite-v2-prod.appspot.com/google-ads/scripts/docs/solutions/adsmanagerapp-mobile-pagespeed",
-          "title": "Account Summary Report | Google Ads Scripts | Google for Developers"
-        },
-        {
-          "url": "https://docs.python.org/3/library/concurrent.futures.html",
-          "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
-        },
-        {
-          "url": "https://forgemia.inra.fr/gauthier.quesnel/irritator/-/tree/0264d282d6ef5bffa1c13116f9fab528ca09d202/lib",
-          "title": "lib · 0264d282d6ef5bffa1c13116f9fab528ca09d202 · Gauthier Quesnel / irritator · GitLab"
-        },
-        {
-          "url": "https://openttd.org/hu/Manual/Game%20Mechanics/",
-          "title": "OpenTTD | Game Mechanics"
-        },
-        {
-          "url": "https://planet.com/developers/",
-          "title": "Planet Documentation | Planet Documentation"
-        },
-        {
-          "url": "https://tensorflow.org/guide/data",
-          "title": "tf.data: Build TensorFlow input pipelines | TensorFlow Core"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "ecommerce-shopping",
-      "bookmarks": [
-        {
-          "url": "https://bagborroworsteal.com/",
-          "title": "Rent, Buy and Sell Designer Handbags & Accessories - Bag Borrow or Steal"
-        },
-        {
-          "url": "https://boxycharm.com",
-          "title": "BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription"
-        },
-        {
-          "url": "https://ellie.com/",
-          "title": "Activewear Monthly Subscription Box - Gym & Workout Clothes For Women - Ellie"
-        },
-        {
-          "url": "https://llbean.com/llb/shop/86878",
-          "title": "Ultrasoft Comfort Flannel Sheet Set | Sheets | L.L.Bean International"
-        },
-        {
-          "url": "https://nike.com/w/new-releases-3n82y",
-          "title": "New Releases. Nike.com"
-        },
-        {
-          "url": "https://perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms/",
-          "title": "Cremes efeito lifting Estée Lauder online | Perfume's Club"
-        },
-        {
-          "url": "https://ryanair.com/gb/en/useful-info/help-centre/faq-overview/baggage",
-          "title": "Book cheap flights using Fare Finder | Ryanair"
-        },
-        {
-          "url": "https://sunglassesid.com/sightings/cutler-and-gross-kingsman-sunglasses-colin-firth-kingsman-secret-service",
-          "title": "Cutler and Gross Kingsman sunglasses - Colin Firth - Kingsman: The Secret Service | Sunglasses ID"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "design-creative",
-      "bookmarks": [
-        {
-          "url": "https://astridspapiereuphorie.at/2019/03/11387/",
-          "title": "Team-sketch-challenge #209 - Astrids Papiereuphorie"
-        },
-        {
-          "url": "https://joelapompe.net/",
-          "title": "Joe La Pompe advertising, publicité"
-        },
-        {
-          "url": "https://learnui.design/blog",
-          "title": "Free UI/UX Tutorials & Tools: The Learn UI Design Blog"
-        },
-        {
-          "url": "https://licensing.pixels.com/art/all/all/all/movies+star+paintings?sort=bestsellers",
-          "title": "Movies Star Paintings for Sale"
-        },
-        {
-          "url": "https://wideeyecreative.com",
-          "title": "Wide Eye / a digital creative agency - web design & branding for mission-driven organizations and nonprofits"
-        },
-        {
-          "url": "https://worldillustrationawards.com/",
-          "title": "World Illustration Awards - World Illustration Awards"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "health-wellness",
-      "bookmarks": [
-        {
-          "url": "https://firebrandsports.com/",
-          "title": "chromacore | Portland's Best Lagree Fitness Studio"
-        },
-        {
-          "url": "https://healthline.com/nutrition/ketogenic-diet-101",
-          "title": "The Ketogenic Diet: A Detailed Beginner's Guide to Keto"
-        },
-        {
-          "url": "https://lodgeatwoodloch.com/",
-          "title": "The Lodge at Woodloch: Spa Resort in Poconos, Pennsylvania"
-        },
-        {
-          "url": "https://patient.info/",
-          "title": "Patient.info: Health Information and Symptom Checker"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment-media",
-      "bookmarks": [
-        {
-          "url": "https://broadway.com/buzz/201284/arturo-perez-jr-samantha-jayne-to-direct-the-mean-girls-movie-musical/",
-          "title": "Arturo Perez Jr. & Samantha Jayne to Direct the Mean Girls Movie Musical | Broadway Buzz | Broadway.com"
-        },
-        {
-          "url": "https://canale5.com/",
-          "title": "Canale 5: video, puntate, programmi tv | Mediaset Infinity"
-        },
-        {
-          "url": "https://hollywoodreporter.com/news/selena-gomez-to-host-multi-network-global-citizen-concert-supporting-covid-19-vaccine-push",
-          "title": "Selena Gomez to Host Global Citizen COVID-19 Vaccine Concert"
-        },
-        {
-          "url": "https://hulu.com/live-tv",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        },
-        {
-          "url": "https://la7.it/laria-che-tira/video/cristoforetti-la-prima-italiana-nello-spazio-24-11-2014-141680",
-          "title": "Cristoforetti, la prima italiana nello spazio"
-        },
-        {
-          "url": "https://reesesbookclub.com/",
-          "title": "Home - Reese's Book Club"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "ai-ml-resources",
-      "bookmarks": [
-        {
-          "url": "https://chessprogramming.org/NNUE",
-          "title": "NNUE - Chessprogramming wiki"
-        },
-        {
-          "url": "https://rulequest.com/Personal/",
-          "title": "Ross Quinlan's personal homepage"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "home-decor",
-      "bookmarks": [
-        {
-          "url": "https://atlanticarona.com/",
-          "title": "Hotel sulle rive del lago di Arona | Hotel Atlantic - Hotel 4 stelle ad Arona"
-        },
-        {
-          "url": "https://oriental-carpets.com/Rugs/Carpet/id/63320",
-          "title": "RugPeople.com | Large & oversized, modern & oriental carpets and rugs - new and antique"
-        },
-        {
-          "url": "https://svenskafonster.se/en/environment/",
-          "title": "Visioner om en ljusare, mer hållbar framtid | Svenska Fönster"
-        },
-        {
-          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
-          "title": "ginko taklampa | Trendspanarna.nu"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "misc-personal",
-      "bookmarks": [
-        {
-          "url": "https://amuse.io/album/kendra-the-bunnies-of-all-time",
-          "title": "Amuse"
-        },
-        {
-          "url": "https://bethanyrutter.com/2011/09/28/a-fine-vintage-3/",
-          "title": "A Fine Vintage #3. - Bethany Rutter"
-        },
-        {
-          "url": "https://cafenoseaustin.com/",
-          "title": "Café No Sé"
-        },
-        {
-          "url": "https://flickeringlamps.com/2015/09/04/the-spectacular-tradescant-tomb-a-world-of-wonders-in-one-closet-shut/?like_comment=5176&_wpnonce=739ca7eef0",
-          "title": "The spectacular Tradescant tomb: \"a world of wonders in one closet shut\" - Flickering Lamps"
-        },
-        {
-          "url": "https://hacksandheels.tumblr.com/",
-          "title": "adventures of The Girl"
-        },
-        {
-          "url": "https://hipster-centeral-blog.tumblr.com/",
-          "title": "@hipster-centeral-blog on Tumblr"
-        },
-        {
-          "url": "https://lswcollectorapp.home.blog/contact-us/",
-          "title": "Contact Us - LSW Collector"
-        },
-        {
-          "url": "https://wtfdidyoujust.tumblr.com/",
-          "title": "@wtfdidyoujust on Tumblr"
-        },
-        {
-          "url": "https://yvonnelin.se/2017/07/25/skams-probitas/",
-          "title": "Skäms Probitas - Yvonne Lin"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "sports-athletics",
-      "bookmarks": [
-        {
-          "url": "https://arizonapolevaultacademy.com/WeatherUpdate/tabid/596/ctl/Login/Default.aspx?returnurl=%2FWeatherUpdate%2Ftabid%2F596%2Fctl%2FLogin%2FDefault.aspx",
-          "title": "Arizona Pole Vault Academy > Home"
-        },
-        {
-          "url": "https://kwcpanthers.com/sports/baseball/roster/matt-pobereyko/2588",
-          "title": "Matt Pobereyko - Baseball - Kentucky Wesleyan College Athletics"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "environment-sustainability",
-      "bookmarks": [
-        {
-          "url": "https://cambio-carsharing.de/cms/carsharing/de/1/cms_f2_128/cms_f8_1/cms?cms_knschluessel=FAHRZEUGE&cms_Feurocode=LBG&cms_Fname=Uelzen&cms_Fregionid=626",
-          "title": "Welche Autos gibt es bei cambio? | cambio CarSharing"
-        },
-        {
-          "url": "https://erp-recycling.it",
-          "title": "Sistemi Collettivi RAEE: Consorzio ERP Italia"
-        },
-        {
-          "url": "https://global-standard.org/",
-          "title": "Home - GOTS - Global Organic Textile Standard"
-        },
-        {
-          "url": "https://landbell.de",
-          "title": "Rücknahmesysteme & Verpackungslizenz in Deutschland"
-        },
-        {
-          "url": "https://oceanriskalliance.org/",
-          "title": "Homepage - ORRAA"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "museums-culture",
-      "bookmarks": [
-        {
-          "url": "https://astrogav.eu/G_A_V_%20-%20Gruppo%20Astronomico%20Viareggio_paolo%20farinella.htm",
-          "title": "Storia del Gruppo: Prof. Paolo Farinella"
-        },
-        {
-          "url": "https://guggenheim.org/visit",
-          "title": "Plan Your Visit | The Guggenheim Museums and Foundation"
-        },
-        {
-          "url": "https://treccani.it/vocabolario/innovazione/",
-          "title": "Innovazióne - Significato ed etimologia - Vocabolario - Treccani"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "weather-climate",
-      "bookmarks": [
-        {
-          "url": "https://meteofrance.com/actualites",
-          "title": "ACTUALITES METEO avec Météo-France"
-        },
-        {
-          "url": "https://smhi.se/vader/prognoser/ortsprognoser",
-          "title": "Väderprognos - SMHI"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "business-services",
-      "bookmarks": [
-        {
-          "url": "https://bbbprograms.org/programs/all-programs/children's-advertising-review-unit",
-          "title": "Children's Advertising Review Unit (CARU) - BBB National Programs"
-        },
-        {
-          "url": "https://danvilleutilities.com/nDanville/nDanville.html",
-          "title": "nDanville Welcome | Danville Utilities"
-        },
-        {
-          "url": "https://finanze.it/",
-          "title": "Dipartimento Finanze - Home"
-        },
-        {
-          "url": "https://garrettatddi.com/",
-          "title": "Commercial Christmas Decorations | Garrett at DDI"
-        },
-        {
-          "url": "https://howl.me/cjbJfJ9zKGz",
-          "title": "Howl | Where Creators & Brands Link Up"
-        },
-        {
-          "url": "https://paypal-corp.com/newsroom.ie/home",
-          "title": "PayPal Newsroom - Home"
-        },
-        {
-          "url": "https://raps.org/news-and-articles/news-articles?DocumentTags=Labeling",
-          "title": "Regulatory Affairs Professionals Society | RAPS"
-        },
-        {
-          "url": "https://votervoice.net/GOODWILL/home",
-          "title": "Action Center"
-        }
-      ],
-      "count": 8
-    },
-    {
       "name": "misc-web-tools",
       "bookmarks": [
+        {
+          "url": "http://www.radio981.gr/blog/%CE%B4%CE%B9%CE%B1%CE%B2%CE%B1%CF%83%CF%84%CE%B5-34",
+          "title": "Account Suspended"
+        },
         {
           "url": "https://assets.bbhub.io/dotorg/sites/2/2015/04/2014-Annual-Update.pdf",
           "title": "Annual Report | Bloomberg Philanthropies"
@@ -568,69 +20,577 @@
           "title": "Donate to National Geographic - National Geographic Society"
         },
         {
-          "url": "https://firefox.com",
+          "url": "http://notifier.email.my/",
+          "title": "email notifier :: free email notification for GMail, POP3 and IMAP4 email accounts"
+        },
+        {
+          "url": "http://plants.ensembl.org/Oryza_sativa/Gene/Summary?g=Os02g0286200;r=2:10758967-10762460;t=Os02t0286200-01",
+          "title": "Gene: Os02g0286200 - Summary - Oryza_sativa - Ensembl Genomes 62"
+        },
+        {
+          "url": "http://firefox.com",
           "title": "Get Firefox for desktop and mobile - Firefox.com Global"
         },
         {
-          "url": "https://hnf.fra.affrc.go.jp/english.html",
+          "url": "http://hnf.fra.affrc.go.jp/english.html",
           "title": "HNF, Hokkaido National Fisheries Research Institute | Japan Fisheries Research and Education Agency"
-        },
-        {
-          "url": "https://interactive.guim.co.uk/uploader/embed/2021/11/archive-zip/giv-825UtiOvVJmipSt/",
-          "title": "void"
         },
         {
           "url": "https://motorola-global-portal.custhelp.com/app/home",
           "title": "Home | Motorola Support US"
         },
         {
-          "url": "https://notifier.email.my/",
-          "title": "email notifier :: free email notification for GMail, POP3 and IMAP4 email accounts"
-        },
-        {
           "url": "https://pinterest.com/pin/create/button/?url=https://www.fao.org/documents/card/en?details=ca7012en&description=Card",
           "title": "Pinterest"
-        },
-        {
-          "url": "https://plants.ensembl.org/Oryza_sativa/Gene/Summary?g=Os02g0286200;r=2:10758967-10762460;t=Os02t0286200-01",
-          "title": "Gene: Os02g0286200 - Summary - Oryza_sativa - Ensembl Genomes 62"
-        },
-        {
-          "url": "https://radio981.gr/blog/%CE%B4%CE%B9%CE%B1%CE%B2%CE%B1%CF%83%CF%84%CE%B5-34",
-          "title": "Account Suspended"
-        },
-        {
-          "url": "https://salempress.com/home.do",
-          "title": "Salem Press"
-        },
-        {
-          "url": "https://servicestart.com/fr/showFAQ.do",
-          "title": "Prenez le bon départ - devis des Pros - Servicestart"
-        },
-        {
-          "url": "https://shareowneronline.com/transactional/anonymous/dspp/company-plans/TGT1/2948/DPPSales",
-          "title": "void"
         },
         {
           "url": "https://tr2me.com/shop/tr2me-orders-ps-sf-5a4260/",
           "title": "TR2me Orders PS / SF - 5A4260 - TR2ME"
         },
         {
-          "url": "https://twitpic.com/2xbppo",
+          "url": "http://twitpic.com/2xbppo",
           "title": "Twitpic"
+        },
+        {
+          "url": "https://interactive.guim.co.uk/uploader/embed/2021/11/archive-zip/giv-825UtiOvVJmipSt/",
+          "title": "void"
+        },
+        {
+          "url": "https://www.shareowneronline.com/transactional/anonymous/dspp/company-plans/TGT1/2948/DPPSales",
+          "title": "void"
         },
         {
           "url": "https://wiki.smfi.unipr.it/dokuwiki/doku.php?id=wiki_tutorial&tab_files=files&do=media&tab_details=view&image=lmn%3Apapers%3Aglass2013.pdf&ns=lmn%3Aisr",
           "title": "Wiki: mantenere la documentazione in modo efficace [UNIVERSITÀ DI PARMADIPARTIMENTO DI SCIENZE MATEMATICHE, FISICHE E INFORMATICHE]"
-        },
-        {
-          "url": "https://xview.us/iuu/",
-          "title": "xView3 - IUU"
         }
       ],
-      "count": 18
+      "count": 15
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.bbc.com/news/world-asia-50934145",
+          "title": "'Ghost boat' containing human remains washes up on Japanese island"
+        },
+        {
+          "url": "https://www.kantar.com/north-america/inspiration/technology/85-per-cent-of-us-households-have-a-video-subscription-service",
+          "title": "85% of US households have a video subscription service"
+        },
+        {
+          "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/eklat-in-hannover-attacke-mit-tierkot-auf-unsere-tanzkritikerin-18672999.html",
+          "title": "Attacke mit Tierkot auf unsere Tanzkritikerin: Eklat in Hannover | FAZ"
+        },
+        {
+          "url": "https://cnnpressroom.blogs.cnn.com/2023/02/27/cnn-primetime-jill-biden-abroad/",
+          "title": "CNN PRIMETIME: JILL BIDEN ABROAD"
+        },
+        {
+          "url": "https://www.aljazeera.com/economy/",
+          "title": "Economy | Today's latest from Al Jazeera"
+        },
+        {
+          "url": "https://www.idnes.cz/technet",
+          "title": "iDNES.cz - s námi víte víc"
+        },
+        {
+          "url": "https://www.politifact.com/factchecks/2022/feb/25/vladimir-putin/putin-repeats-long-running-claim-genocide-ukraine/",
+          "title": "PolitiFact | Vladimir Putin repeats false claim of genocide in Ukraine"
+        },
+        {
+          "url": "https://link.nbcnews.com/join/5cj/think-signup",
+          "title": "Sign up for the THINK newsletter | NBC News"
+        },
+        {
+          "url": "https://tbrnewsmedia.com/tag/suffolk-county-plastic-reduction-task-force/",
+          "title": "Suffolk County Plastic Reduction Task Force | TBR News Media"
+        },
+        {
+          "url": "https://www.nzz.ch/digital",
+          "title": "Technologie - News, Hintergründe & Kommentare | NZZ"
+        },
+        {
+          "url": "https://edition.cnn.com/travel/article/venice-canal-drought-italy-climate-scli-intl/index.html",
+          "title": "Venice canals run dry amid fears Italy faces another drought | CNN"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://wordpressfoundation.org/donate/",
+          "title": "Donate - WordPress Foundation"
+        },
+        {
+          "url": "https://www.etvendowment.org/?page=17",
+          "title": "ETV Endowment of South Carolina"
+        },
+        {
+          "url": "https://www.goatsofanarchy.org/",
+          "title": "Goats of Anarchy"
+        },
+        {
+          "url": "https://www.aclu-ky.org",
+          "title": "Home - ACLU Kentucky"
+        },
+        {
+          "url": "https://www.peaceisalifestyle.com/",
+          "title": "LIFE CAMP - PEACE IS A LIFESTYLE"
+        },
+        {
+          "url": "https://www.therosienetwork.org/missionandimpact",
+          "title": "MISSION & IMPACT | The Rosie Network"
+        },
+        {
+          "url": "https://www.seres.org/",
+          "title": "SERES - Youth Leadership"
+        },
+        {
+          "url": "https://exoduslending.org/",
+          "title": "What We Do - Exodus Lending - Exodus Lending"
+        },
+        {
+          "url": "https://www.bluemeridian.org/",
+          "title": "You are being redirected..."
+        },
+        {
+          "url": "https://www.ywcastpaul.org/",
+          "title": "YWCA St. Paul - Eliminating Racism, Empowering Women"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "technology-tools",
+      "bookmarks": [
+        {
+          "url": "https://www.diffchecker.com/",
+          "title": "Compare text and find differences online or offline - Diffchecker"
+        },
+        {
+          "url": "https://www.randomlists.com/nouns",
+          "title": "Generate a list of random nouns"
+        },
+        {
+          "url": "https://www.gradientos.app/",
+          "title": "Gradientos"
+        },
+        {
+          "url": "https://analyst.lightcast.io",
+          "title": "Login | Analyst"
+        },
+        {
+          "url": "https://www.looker.com",
+          "title": "Looker business intelligence platform embedded analytics | Google Cloud"
+        },
+        {
+          "url": "https://www.mailjet.com/solutions/use-cases/newsletter-templates/?utm_term=email marketing companies&utm_campaign=16976795972&utm_content=&utm_source=google&utm_medium=cpc&creative=620234205298&keyword=email marketing companies&matchtype=b&network=g&device=c&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT-B9cSmo_Bj3bHDn2DtDYbHopFe6olSIV7YbNXoTQDmUUa5NWH2O8saAj4mEALw_wcB",
+          "title": "Newsletter Templates - Send Beautiful and Responsive Emails | Mailjet"
+        },
+        {
+          "url": "https://pngquant.org/",
+          "title": "pngquant - lossy PNG compressor"
+        },
+        {
+          "url": "https://reverseimagesear.ch/",
+          "title": "Reverse Image Search: Find similar images on Internet"
+        },
+        {
+          "url": "https://www.bluecamroo.com/support/home/selectplan",
+          "title": "Select Your BlueCamroo Plan"
+        },
+        {
+          "url": "https://www.smugmug.com/",
+          "title": "SmugMug: Protect, Share, Store, and Sell Your Photos"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "misc-personal",
+      "bookmarks": [
+        {
+          "url": "https://hipster-centeral-blog.tumblr.com/",
+          "title": "@hipster-centeral-blog on Tumblr"
+        },
+        {
+          "url": "https://wtfdidyoujust.tumblr.com/",
+          "title": "@wtfdidyoujust on Tumblr"
+        },
+        {
+          "url": "https://bethanyrutter.com/2011/09/28/a-fine-vintage-3/",
+          "title": "A Fine Vintage #3. - Bethany Rutter"
+        },
+        {
+          "url": "https://hacksandheels.tumblr.com/",
+          "title": "adventures of The Girl"
+        },
+        {
+          "url": "https://cafenoseaustin.com/",
+          "title": "Café No Sé"
+        },
+        {
+          "url": "https://lswcollectorapp.home.blog/contact-us/",
+          "title": "Contact Us - LSW Collector"
+        },
+        {
+          "url": "https://yvonnelin.se/2017/07/25/skams-probitas/",
+          "title": "Skäms Probitas - Yvonne Lin"
+        },
+        {
+          "url": "https://flickeringlamps.com/2015/09/04/the-spectacular-tradescant-tomb-a-world-of-wonders-in-one-closet-shut/?like_comment=5176&_wpnonce=739ca7eef0",
+          "title": "The spectacular Tradescant tomb: \"a world of wonders in one closet shut\" - Flickering Lamps"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "shopping-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://www.ellie.com/",
+          "title": "Activewear Monthly Subscription Box - Gym & Workout Clothes For Women - Ellie"
+        },
+        {
+          "url": "https://www.ryanair.com/gb/en/useful-info/help-centre/faq-overview/baggage",
+          "title": "Book cheap flights using Fare Finder | Ryanair"
+        },
+        {
+          "url": "https://www.boxycharm.com",
+          "title": "BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription"
+        },
+        {
+          "url": "https://www.perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms/",
+          "title": "Cremes efeito lifting Estée Lauder online | Perfume's Club"
+        },
+        {
+          "url": "https://www.sunglassesid.com/sightings/cutler-and-gross-kingsman-sunglasses-colin-firth-kingsman-secret-service",
+          "title": "Cutler and Gross Kingsman sunglasses - Colin Firth - Kingsman: The Secret Service | Sunglasses ID"
+        },
+        {
+          "url": "https://www.nike.com/w/new-releases-3n82y",
+          "title": "New Releases. Nike.com"
+        },
+        {
+          "url": "https://www.bagborroworsteal.com/",
+          "title": "Rent, Buy and Sell Designer Handbags & Accessories - Bag Borrow or Steal"
+        },
+        {
+          "url": "https://www.llbean.com/llb/shop/86878",
+          "title": "Ultrasoft Comfort Flannel Sheet Set | Sheets | L.L.Bean International"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "business-services",
+      "bookmarks": [
+        {
+          "url": "https://www.votervoice.net/GOODWILL/home",
+          "title": "Action Center"
+        },
+        {
+          "url": "https://bbbprograms.org/programs/all-programs/children's-advertising-review-unit",
+          "title": "Children's Advertising Review Unit (CARU) - BBB National Programs"
+        },
+        {
+          "url": "http://www.garrettatddi.com/",
+          "title": "Commercial Christmas Decorations | Garrett at DDI"
+        },
+        {
+          "url": "http://www.finanze.it/",
+          "title": "Dipartimento Finanze - Home"
+        },
+        {
+          "url": "https://howl.me/cjbJfJ9zKGz",
+          "title": "Howl | Where Creators & Brands Link Up"
+        },
+        {
+          "url": "https://danvilleutilities.com/nDanville/nDanville.html",
+          "title": "nDanville Welcome | Danville Utilities"
+        },
+        {
+          "url": "https://www.raps.org/news-and-articles/news-articles?DocumentTags=Labeling",
+          "title": "Regulatory Affairs Professionals Society | RAPS"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "government-agencies",
+      "bookmarks": [
+        {
+          "url": "https://energy.gov/",
+          "title": "Department of Energy"
+        },
+        {
+          "url": "https://reportfraud.ftc.gov/#/",
+          "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
+        },
+        {
+          "url": "https://bja.ojp.gov",
+          "title": "Home | Bureau of Justice Assistance"
+        },
+        {
+          "url": "https://legalaffairs.gov.in",
+          "title": "Home | Department of Legal Affairs, MoL &J, GoI"
+        },
+        {
+          "url": "https://open.canada.ca/en",
+          "title": "Open Government | Open Government - Government of Canada"
+        },
+        {
+          "url": "https://seavision.volpe.dot.gov/legal/eula",
+          "title": "SeaVision"
+        },
+        {
+          "url": "https://www.fns.usda.gov/snap",
+          "title": "Supplemental Nutrition Assistance Program (SNAP) | Food and Nutrition Service"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "design-creative",
+      "bookmarks": [
+        {
+          "url": "https://www.learnui.design/blog",
+          "title": "Free UI/UX Tutorials & Tools: The Learn UI Design Blog"
+        },
+        {
+          "url": "https://www.joelapompe.net/",
+          "title": "Joe La Pompe advertising, publicité"
+        },
+        {
+          "url": "https://licensing.pixels.com/art/all/all/all/movies+star+paintings?sort=bestsellers",
+          "title": "Movies Star Paintings for Sale"
+        },
+        {
+          "url": "https://www.astridspapiereuphorie.at/2019/03/11387/",
+          "title": "Team-sketch-challenge #209 - Astrids Papiereuphorie"
+        },
+        {
+          "url": "http://www.wideeyecreative.com",
+          "title": "Wide Eye / a digital creative agency - web design & branding for mission-driven organizations and nonprofits"
+        },
+        {
+          "url": "https://worldillustrationawards.com/",
+          "title": "World Illustration Awards - World Illustration Awards"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "education-research",
+      "bookmarks": [
+        {
+          "url": "http://www.visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
+          "title": "A brief history of scientific practice | | Visionlearning"
+        },
+        {
+          "url": "https://aubmediterraneo.cy/",
+          "title": "American University of Beirut - Home - Pafos"
+        },
+        {
+          "url": "https://www.uni-bremen.de/forschung/foerderangebote-service/ausschreibungen/erasmus-dozentenmobilitaet",
+          "title": "Erasmus Dozentenmobilität - Universität Bremen"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/",
+          "title": "Introduction to Microsoft Azure: Describe Cloud Concepts - Training | Microsoft Learn"
+        },
+        {
+          "url": "https://conferences.nature.com",
+          "title": "Nature Conferences"
+        },
+        {
+          "url": "https://www.st-marys-clayton-le-moors.lancs.sch.uk/policy-documents/child-protection",
+          "title": "St Mary's Roman Catholic Primary School - Safeguarding"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.broadway.com/buzz/201284/arturo-perez-jr-samantha-jayne-to-direct-the-mean-girls-movie-musical/",
+          "title": "Arturo Perez Jr. & Samantha Jayne to Direct the Mean Girls Movie Musical | Broadway Buzz | Broadway.com"
+        },
+        {
+          "url": "http://www.canale5.com/",
+          "title": "Canale 5: video, puntate, programmi tv | Mediaset Infinity"
+        },
+        {
+          "url": "https://www.la7.it/laria-che-tira/video/cristoforetti-la-prima-italiana-nello-spazio-24-11-2014-141680",
+          "title": "Cristoforetti, la prima italiana nello spazio"
+        },
+        {
+          "url": "https://www.hulu.com/live-tv",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://reesesbookclub.com/",
+          "title": "Home - Reese's Book Club"
+        },
+        {
+          "url": "https://www.hollywoodreporter.com/news/selena-gomez-to-host-multi-network-global-citizen-concert-supporting-covid-19-vaccine-push",
+          "title": "Selena Gomez to Host Global Citizen COVID-19 Vaccine Concert"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "environment-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://global-standard.org/",
+          "title": "Home - GOTS - Global Organic Textile Standard"
+        },
+        {
+          "url": "https://oceanriskalliance.org/",
+          "title": "Homepage - ORRAA"
+        },
+        {
+          "url": "http://www.landbell.de",
+          "title": "Rücknahmesysteme & Verpackungslizenz in Deutschland"
+        },
+        {
+          "url": "http://www.erp-recycling.it",
+          "title": "Sistemi Collettivi RAEE: Consorzio ERP Italia"
+        },
+        {
+          "url": "https://www.cambio-carsharing.de/cms/carsharing/de/1/cms_f2_128/cms_f8_1/cms?cms_knschluessel=FAHRZEUGE&cms_Feurocode=LBG&cms_Fname=Uelzen&cms_Fregionid=626",
+          "title": "Welche Autos gibt es bei cambio? | cambio CarSharing"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "home-decor",
+      "bookmarks": [
+        {
+          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
+          "title": "ginko taklampa | Trendspanarna.nu"
+        },
+        {
+          "url": "http://www.atlanticarona.com/",
+          "title": "Hotel sulle rive del lago di Arona | Hotel Atlantic - Hotel 4 stelle ad Arona"
+        },
+        {
+          "url": "http://www.oriental-carpets.com/Rugs/Carpet/id/63320",
+          "title": "RugPeople.com | Large & oversized, modern & oriental carpets and rugs - new and antique"
+        },
+        {
+          "url": "https://svenskafonster.se/en/environment/",
+          "title": "Visioner om en ljusare, mer hållbar framtid | Svenska Fönster"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "software-development",
+      "bookmarks": [
+        {
+          "url": "https://developers-dot-devsite-v2-prod.appspot.com/google-ads/scripts/docs/solutions/adsmanagerapp-mobile-pagespeed",
+          "title": "Account Summary Report | Google Ads Scripts | Google for Developers"
+        },
+        {
+          "url": "https://docs.python.org/3/library/concurrent.futures.html",
+          "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://forgemia.inra.fr/gauthier.quesnel/irritator/-/tree/0264d282d6ef5bffa1c13116f9fab528ca09d202/lib",
+          "title": "lib · 0264d282d6ef5bffa1c13116f9fab528ca09d202 · Gauthier Quesnel / irritator · GitLab"
+        },
+        {
+          "url": "https://www.tensorflow.org/guide/data",
+          "title": "tf.data: Build TensorFlow input pipelines | TensorFlow Core"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "https://firebrandsports.com/",
+          "title": "chromacore | Portland's Best Lagree Fitness Studio"
+        },
+        {
+          "url": "http://patient.info/",
+          "title": "Patient.info: Health Information and Symptom Checker"
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/ketogenic-diet-101",
+          "title": "The Ketogenic Diet: A Detailed Beginner's Guide to Keto"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "museums-culture",
+      "bookmarks": [
+        {
+          "url": "https://www.treccani.it/vocabolario/innovazione/",
+          "title": "Innovazióne - Significato ed etimologia - Vocabolario - Treccani"
+        },
+        {
+          "url": "https://www.guggenheim.org/visit",
+          "title": "Plan Your Visit | The Guggenheim Museums and Foundation"
+        },
+        {
+          "url": "https://www.astrogav.eu/G_A_V_%20-%20Gruppo%20Astronomico%20Viareggio_paolo%20farinella.htm",
+          "title": "Storia del Gruppo: Prof. Paolo Farinella"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "ai-ml-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.chessprogramming.org/NNUE",
+          "title": "NNUE - Chessprogramming wiki"
+        },
+        {
+          "url": "http://www.rulequest.com/Personal/",
+          "title": "Ross Quinlan's personal homepage"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "sports-athletics",
+      "bookmarks": [
+        {
+          "url": "http://arizonapolevaultacademy.com/WeatherUpdate/tabid/596/ctl/Login/Default.aspx?returnurl=%2FWeatherUpdate%2Ftabid%2F596%2Fctl%2FLogin%2FDefault.aspx",
+          "title": "Arizona Pole Vault Academy > Home"
+        },
+        {
+          "url": "https://kwcpanthers.com/sports/baseball/roster/matt-pobereyko/2588",
+          "title": "Matt Pobereyko - Baseball - Kentucky Wesleyan College Athletics"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "weather-climate",
+      "bookmarks": [
+        {
+          "url": "https://meteofrance.com/actualites",
+          "title": "ACTUALITES METEO avec Météo-France"
+        },
+        {
+          "url": "https://www.smhi.se/vader/prognoser/ortsprognoser",
+          "title": "Väderprognos - SMHI"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 131,
-  "num_folders": 18
+  "total_bookmarks": 119,
+  "num_folders": 19
 }

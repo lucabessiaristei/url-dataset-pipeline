@@ -24,16 +24,12 @@
           "title": "Data Processing Addendum for Products where Google is a Data Processor"
         },
         {
-          "url": "https://www.gndr.org/",
-          "title": "GNDR - Global Network of Civil Society Organisations for Disaster Reduction"
-        },
-        {
           "url": "http://www.gettingout.com/",
           "title": "GettingOut"
         },
         {
-          "url": "https://www.unglobalcompact.org/what-is-gc/our-work/social/poverty",
-          "title": "Poverty | UN Global Compact"
+          "url": "https://www.gndr.org/",
+          "title": "GNDR - Global Network of Civil Society Organisations for Disaster Reduction"
         },
         {
           "url": "http://intranet.ywca.org/",
@@ -50,6 +46,10 @@
         {
           "url": "http://pmangellfamfound.org/",
           "title": "Paul M. Angell Family Foundation - Supporting Conservation, Performing Arts, Social Impact"
+        },
+        {
+          "url": "https://www.unglobalcompact.org/what-is-gc/our-work/social/poverty",
+          "title": "Poverty | UN Global Compact"
         },
         {
           "url": "https://www.restaurantworkerscf.org/",
@@ -74,12 +74,12 @@
       "name": "news-blogs-articles",
       "bookmarks": [
         {
-          "url": "https://365thingssyracuse.wordpress.com/2013/01/07/7-cobblestone/",
-          "title": "7. Cobblestone | 365 Things Syracuse"
-        },
-        {
           "url": "https://news.airbnb.com/fresh/",
           "title": "\"The Fresh Prince\" Will Smith Invites You to a Royal Stay on Airbnb"
+        },
+        {
+          "url": "https://365thingssyracuse.wordpress.com/2013/01/07/7-cobblestone/",
+          "title": "7. Cobblestone | 365 Things Syracuse"
         },
         {
           "url": "https://blog.history.in.gov/tag/anti-catholicism/",
@@ -148,10 +148,6 @@
           "title": "Mein Konto » MOGASI"
         },
         {
-          "url": "https://membership.chicagotribune.com/manage/dashboard/#nt=secondarynavbar",
-          "title": "void"
-        },
-        {
           "url": "https://hubpages.com/signin/?s=high&url=https%3A%2F%2Fhubpages.com%2Fforum%2Fpost%2Freply%2F3979922",
           "title": "Sign In | HubPages"
         },
@@ -162,12 +158,16 @@
         {
           "url": "http://uw.edu",
           "title": "UW Homepage"
+        },
+        {
+          "url": "https://membership.chicagotribune.com/manage/dashboard/#nt=secondarynavbar",
+          "title": "void"
         }
       ],
       "count": 8
     },
     {
-      "name": "commerce-business-services",
+      "name": "business-commerce-services",
       "bookmarks": [
         {
           "url": "https://agrobolder.com/products/bobina-50",
@@ -238,12 +238,12 @@
           "title": "TOI - Breaking News, Latest News, India News, World News, Bollywood, Sports, Business and Political News | The Times of India"
         },
         {
-          "url": "https://itunes.apple.com/app/apple-store/id1193350206?pt=9008&ct=ytv-footer-ios&mt=8",
-          "title": "‎YouTube TV on the App Store"
-        },
-        {
           "url": "https://tv.youtube.com/",
           "title": "YouTube TV - Watch & DVR Live Sports, Shows & News"
+        },
+        {
+          "url": "https://itunes.apple.com/app/apple-store/id1193350206?pt=9008&ct=ytv-footer-ios&mt=8",
+          "title": "‎YouTube TV on the App Store"
         }
       ],
       "count": 5
@@ -297,24 +297,6 @@
       "count": 4
     },
     {
-      "name": "university-environmental-studies",
-      "bookmarks": [
-        {
-          "url": "http://www.eeb.ucsc.edu",
-          "title": "Ecology & Evolutionary Biology"
-        },
-        {
-          "url": "https://earth.stanford.edu/news/oil-spills-and-coastal-resilience",
-          "title": "Oil spills and coastal resilience | Stanford Doerr School of Sustainability"
-        },
-        {
-          "url": "https://press.nature.com/",
-          "title": "Home | press.springernature.com"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "travel-culture-museums",
       "bookmarks": [
         {
@@ -328,6 +310,24 @@
         {
           "url": "https://www.britannica.com/place/Tokyo",
           "title": "Tokyo | Japan, Population, Map, History, & Facts | Britannica"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "university-environmental-studies",
+      "bookmarks": [
+        {
+          "url": "http://www.eeb.ucsc.edu",
+          "title": "Ecology & Evolutionary Biology"
+        },
+        {
+          "url": "https://press.nature.com/",
+          "title": "Home | press.springernature.com"
+        },
+        {
+          "url": "https://earth.stanford.edu/news/oil-spills-and-coastal-resilience",
+          "title": "Oil spills and coastal resilience | Stanford Doerr School of Sustainability"
         }
       ],
       "count": 3

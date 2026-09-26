@@ -1,61 +1,31 @@
 {
   "folders": [
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
-          "url": "https://kosas.com/products/lipfuel",
+          "url": "https://kosas.com/products/lipfuel?variant=32907926995001",
           "title": "LipFuel Lip Balm | Kosas Cosmetics"
         },
         {
-          "url": "https://patagonia.com/product/mens-powder-town-ski-snowboard-jacket/31625.html",
+          "url": "https://www.patagonia.com/product/mens-powder-town-ski-snowboard-jacket/31625.html?dwvar_31625_color=WAVB&cgid=root",
           "title": "Men's Ski & Snowboard Clothing & Gear by Patagonia"
         },
         {
-          "url": "https://randco.com/",
+          "url": "https://www.randco.com/",
           "title": "R+Co | The Culture Of Hairdressing"
+        },
+        {
+          "url": "http://www.soundblaster.com/",
+          "title": "Schede audio DAC e amplificatore USB interne ed esterne e guida per l'acquisto Sound Blaster - Creative Labs (Italia)"
         },
         {
           "url": "https://shakerandspoon.com/",
           "title": "Shaker & Spoon"
         },
         {
-          "url": "https://soundblaster.com/",
-          "title": "Schede audio DAC e amplificatore USB interne ed esterne e guida per l'acquisto Sound Blaster - Creative Labs (Italia)"
-        },
-        {
-          "url": "https://thekoreanfashion.com/collections/women_earrings",
+          "url": "https://www.thekoreanfashion.com/collections/women_earrings?page=15",
           "title": "Women's Earrings | Rings, Necklaces, Earrings, and Bracelets - Page 15 - The Korean Fashion"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "tech-development-resources",
-      "bookmarks": [
-        {
-          "url": "https://airtable.com/lp/resources/webinars/quarterly-customer-wb-ondemand",
-          "title": "On Demand Webinar: Airtable Features & Spotlight | Airtable - Airtable"
-        },
-        {
-          "url": "https://cnccookbook.com/speeds-feeds-definitive-guide/",
-          "title": "CNC Cookbook - The Ultimate CNC Machining Resource"
-        },
-        {
-          "url": "https://devbootcamp.com/",
-          "title": "Dev Bootcamps NYC: Coding Classes & Bootcamps in NYC"
-        },
-        {
-          "url": "https://imgbin..com/",
-          "title": "IMGBIN.com - Download Transparent PNG Images, For Free"
-        },
-        {
-          "url": "https://developer.nvidia.com/blog/",
-          "title": "NVIDIA Technical Blog"
-        },
-        {
-          "url": "https://webaim.org/",
-          "title": "WebAIM: Web Accessibility In Mind"
         }
       ],
       "count": 6
@@ -64,46 +34,72 @@
       "name": "sports-hobbies-lifestyle",
       "bookmarks": [
         {
-          "url": "https://aviationsafetymagazine.com/features/why-twins-crash/",
-          "title": "Why Twins Crash - Aviation Safety"
-        },
-        {
-          "url": "https://5fish.mobi/2777",
+          "url": "https://5fish.mobi/2777?language=Arove",
           "title": "5fish | The Gospel in Every Language | Learn about Christian beliefs in Arove"
         },
         {
-          "url": "https://johnrutter.com/contact-us",
+          "url": "https://johnrutter.com/contact-us?currency=USD",
           "title": "Contact us | John Rutter"
         },
         {
-          "url": "https://padelfederacion.es/Estadisticas.asp?Id=199323",
+          "url": "https://www.padelfederacion.es/Estadisticas.asp?Id=199323",
           "title": "Estadísticas | FEP"
         },
         {
-          "url": "https://spindrift-racing.com",
+          "url": "https://www.spindrift-racing.com",
           "title": "Sails of Change"
+        },
+        {
+          "url": "https://www.aviationsafetymagazine.com/features/why-twins-crash/",
+          "title": "Why Twins Crash - Aviation Safety"
         }
       ],
       "count": 5
     },
     {
-      "name": "government-policy-data",
+      "name": "tech-development-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.cnccookbook.com/speeds-feeds-definitive-guide/",
+          "title": "CNC Cookbook - The Ultimate CNC Machining Resource"
+        },
+        {
+          "url": "http://devbootcamp.com/",
+          "title": "Dev Bootcamps NYC: Coding Classes & Bootcamps in NYC"
+        },
+        {
+          "url": "https://developer.nvidia.com/blog/",
+          "title": "NVIDIA Technical Blog"
+        },
+        {
+          "url": "https://www.airtable.com/lp/resources/webinars/quarterly-customer-wb-ondemand?utm_source=airtable&utm_medium=web_banner&utm_campaign=Platform-tier1",
+          "title": "On Demand Webinar: Airtable Features & Spotlight | Airtable - Airtable"
+        },
+        {
+          "url": "https://webaim.org/",
+          "title": "WebAIM: Web Accessibility In Mind"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "government-data-policy",
       "bookmarks": [
         {
           "url": "https://americasvoice.org/press_releases/by-the-numbers-10-key-immigration-stats-from-midterms-and-beyond/",
           "title": "By the Numbers: 10 Key Immigration Stats From Midterms and Beyond - America's Voice"
         },
         {
-          "url": "https://cbprs.org/",
+          "url": "http://cbprs.org/",
           "title": "Cross Border Privacy Rules System"
-        },
-        {
-          "url": "https://dfo-mpo.gc.ca/media/rss-eng.htm",
-          "title": "Stay connected"
         },
         {
           "url": "https://investors.target.com/investors",
           "title": "Investors | Target Corporation"
+        },
+        {
+          "url": "http://www.dfo-mpo.gc.ca/media/rss-eng.htm",
+          "title": "Stay connected"
         }
       ],
       "count": 4
@@ -112,37 +108,55 @@
       "name": "marketing-content-creation",
       "bookmarks": [
         {
-          "url": "https://mailjet.com/solutions/use-cases/newsletter-templates/",
-          "title": "Newsletter Templates - Send Beautiful and Responsive Emails | Mailjet"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/Newsletter-Templates-Send-Beautiful-and-Responsive-Emails-Mailjet-a1ddc172f9f24d2d95708274950c534a",
-          "title": "Notion"
-        },
-        {
           "url": "https://tealover-studyblr.tumblr.com/",
           "title": "My PhD Life"
         },
         {
-          "url": "https://twitch.tv/mozillahubs",
+          "url": "https://www.mailjet.com/solutions/use-cases/newsletter-templates/?utm_term=email marketing companies&utm_campaign=16976795972&utm_content=&utm_source=google&utm_medium=cpc&creative=620234205298&keyword=email marketing companies&matchtype=b&network=g&device=c&gclid=Cj0KCQiAiJSeBhCCARIsAHnAzT-B9cSmo_Bj3bHDn2DtDYbHopFe6olSIV7YbNXoTQDmUUa5NWH2O8saAj4mEALw_wcB",
+          "title": "Newsletter Templates - Send Beautiful and Responsive Emails | Mailjet"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Newsletter-Templates-Send-Beautiful-and-Responsive-Emails-Mailjet-a1ddc172f9f24d2d95708274950c534a?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://www.twitch.tv/mozillahubs",
           "title": "Twitch"
         }
       ],
       "count": 4
     },
     {
+      "name": "community-social-impact",
+      "bookmarks": [
+        {
+          "url": "http://www.headwatersfoundation.org/",
+          "title": "Headwaters Foundation for Justice"
+        },
+        {
+          "url": "http://www.pocaan.org/",
+          "title": "Home | POCAAN - BIPOC Social Service Agency - Seattle"
+        },
+        {
+          "url": "https://www.listennotes.com/podcasts/moving-up-together-moving-up-together-qNSPIX3VDKn/",
+          "title": "Moving Up Together (podcast) - Moving Up Together | Listen Notes"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "environmental-resource-management",
       "bookmarks": [
         {
-          "url": "https://mragamericas.com/",
+          "url": "https://www.mragamericas.com/",
           "title": "MRAG Americas - MRAG Americas, Inc."
         },
         {
-          "url": "https://responsiblemineralsinitiative.org/",
+          "url": "http://www.responsiblemineralsinitiative.org/",
           "title": "Responsible Minerals Initiative"
         },
         {
-          "url": "https://weeecyprus.com.cy/el",
+          "url": "https://www.weeecyprus.com.cy/el",
           "title": "Αρχική - WEEE Cyprus"
         }
       ],
@@ -152,39 +166,21 @@
       "name": "health-fitness-wellness",
       "bookmarks": [
         {
-          "url": "https://balanced-wellness.org/",
+          "url": "http://www.balanced-wellness.org/",
           "title": "Balanced Wellness - Women, Couples & Teen Therapy in SC & NC"
         },
         {
-          "url": "https://orangetheory.com/en-in/",
+          "url": "https://www.orangetheory.com/en-in/",
           "title": "Group Fitness Class & Interval Training | Orangetheory Fitness India"
         },
         {
-          "url": "https://roguefitness.com/rogue-echo-foam-games-box",
+          "url": "https://www.roguefitness.com/rogue-echo-foam-games-box",
           "title": "Rogue Echo Foam Games Box | Rogue Fitness"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "social-community-impact",
-      "bookmarks": [
-        {
-          "url": "https://headwatersfoundation.org/",
-          "title": "Headwaters Foundation for Justice"
-        },
-        {
-          "url": "https://listennotes.com/podcasts/moving-up-together-moving-up-together-qNSPIX3VDKn/",
-          "title": "Moving Up Together (podcast) - Moving Up Together | Listen Notes"
-        },
-        {
-          "url": "https://pocaan.org/",
-          "title": "Home | POCAAN - BIPOC Social Service Agency - Seattle"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 34,
+  "total_bookmarks": 33,
   "num_folders": 8
 }

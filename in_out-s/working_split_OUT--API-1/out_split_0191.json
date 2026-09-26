@@ -4,12 +4,12 @@
       "name": "shopping-services",
       "bookmarks": [
         {
-          "url": "https://bignosekate.co/",
-          "title": "Big Nose Kate® - Western Whiskey"
-        },
-        {
           "url": "https://canaves.com/canaves-oia-epitome/",
           "title": "Best Santorini Resort | Canaves Oia Epitome | Luxury suites"
+        },
+        {
+          "url": "https://bignosekate.co/",
+          "title": "Big Nose Kate® - Western Whiskey"
         },
         {
           "url": "https://ostrovit.com/en/menu/carbohydrates-18771.html",
@@ -47,7 +47,7 @@
       "count": 10
     },
     {
-      "name": "organizations-nonprofits",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.actionkit.com/",
@@ -89,7 +89,7 @@
       "count": 9
     },
     {
-      "name": "blogs-personal",
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://hacksandheels.tumblr.com/",
@@ -209,28 +209,6 @@
       "count": 5
     },
     {
-      "name": "articles-news",
-      "bookmarks": [
-        {
-          "url": "https://www.woodtv.com/news/alibis-ignored-the-jeff-titus-case/",
-          "title": "Alibis Ignored: The Jeff Titus Case"
-        },
-        {
-          "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a42167534/lea-michele-ramin-karimloo-funny-girl-broadway-interview/",
-          "title": "Lea Michele and Ramin Karimloo Interview on Funny Girl"
-        },
-        {
-          "url": "https://communityimpact.com/search?s=Tennessee+Department+of+Health&si=174,6&ssi=66,28",
-          "title": "Search | Community Impact"
-        },
-        {
-          "url": "https://news.un.org/en/story/2022/07/1121802",
-          "title": "UN Ocean Conference ends with call for greater global commitment to address dire state of the ocean | UN News"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "education-resources",
       "bookmarks": [
         {
@@ -248,6 +226,28 @@
         {
           "url": "https://resources.github.com/devops/",
           "title": "What is DevOps? · GitHub"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.woodtv.com/news/alibis-ignored-the-jeff-titus-case/",
+          "title": "Alibis Ignored: The Jeff Titus Case"
+        },
+        {
+          "url": "https://www.townandcountrymag.com/leisure/arts-and-culture/a42167534/lea-michele-ramin-karimloo-funny-girl-broadway-interview/",
+          "title": "Lea Michele and Ramin Karimloo Interview on Funny Girl"
+        },
+        {
+          "url": "https://communityimpact.com/search?s=Tennessee+Department+of+Health&si=174,6&ssi=66,28",
+          "title": "Search | Community Impact"
+        },
+        {
+          "url": "https://news.un.org/en/story/2022/07/1121802",
+          "title": "UN Ocean Conference ends with call for greater global commitment to address dire state of the ocean | UN News"
         }
       ],
       "count": 4
@@ -273,6 +273,24 @@
         }
       ],
       "count": 4
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://apple.co/3k8sYxT",
+          "title": "Let's Go! with Matthew Stafford, Maxx Crosby, Peter King & Jim Gray - Podcast - Apple Podcasts"
+        },
+        {
+          "url": "https://www.kingpet.co.uk/profile/10208386785934913-Reghan-F/",
+          "title": "Reghan F. · Dog and Cat Photo Contest"
+        },
+        {
+          "url": "https://www.spotify.com/",
+          "title": "Spotify - Web Player: Music for everyone"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "food-recipes",
@@ -306,24 +324,6 @@
         {
           "url": "https://www.invasivespeciesinfo.gov/resources-indexed?f%5B0%5D=field_location%3A117&f%5B1%5D=field_location%3A104&f%5B2%5D=field_location%3A127&f%5B3%5D=field_location%3A109&f%5B4%5D=field_source%3A67&f%5B5%5D=field_location%3A135&f%5B6%5D=field_location%3A98&f%5B7%5D=field_location%3A106&f%5B8%5D=field_location%3A107&f%5B9%5D=field_location%3A118&amp%3Bf%5B1%5D=field_location%3A110",
           "title": "Resource Search 1 | National Invasive Species Information Center"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "media-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://apple.co/3k8sYxT",
-          "title": "Let's Go! with Matthew Stafford, Maxx Crosby, Peter King & Jim Gray - Podcast - Apple Podcasts"
-        },
-        {
-          "url": "https://www.kingpet.co.uk/profile/10208386785934913-Reghan-F/",
-          "title": "Reghan F. · Dog and Cat Photo Contest"
-        },
-        {
-          "url": "https://www.spotify.com/",
-          "title": "Spotify - Web Player: Music for everyone"
         }
       ],
       "count": 3

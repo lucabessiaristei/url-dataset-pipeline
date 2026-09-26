@@ -1,15 +1,27 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "http://www.aib.it/",
-          "title": "Homepage - AIB WEB"
+          "url": "https://www.stopasianhate.info/",
+          "title": "#StopAsianHate - Fight Anti-Asian Racism"
         },
         {
           "url": "https://www.florafamily.org/",
           "title": "Flora Family Foundation"
+        },
+        {
+          "url": "https://www.seattlefoundation.org/",
+          "title": "Home - Seattle Foundation"
+        },
+        {
+          "url": "https://royalfoundation.com/",
+          "title": "Home Page - Royal Foundation"
+        },
+        {
+          "url": "http://www.aib.it/",
+          "title": "Homepage - AIB WEB"
         },
         {
           "url": "https://learnfresh.org/",
@@ -28,20 +40,8 @@
           "title": "National NeighborWorks Association | National Neighborworks Association"
         },
         {
-          "url": "https://royalfoundation.com/",
-          "title": "Home Page - Royal Foundation"
-        },
-        {
-          "url": "https://www.seattlefoundation.org/",
-          "title": "Home - Seattle Foundation"
-        },
-        {
           "url": "https://socialjusticeparenting.com/",
           "title": "Social Justice Parenting"
-        },
-        {
-          "url": "https://www.stopasianhate.info/",
-          "title": "#StopAsianHate - Fight Anti-Asian Racism"
         },
         {
           "url": "https://usplasticspact.org/about/",
@@ -62,12 +62,12 @@
       "name": "business-corporate",
       "bookmarks": [
         {
-          "url": "https://assessment.connectedcouncil.org",
-          "title": "Digitally Driven Assessment - Grow your business with digital tools"
-        },
-        {
           "url": "http://www.iol.it/",
           "title": "Creazione siti web, E-Commerce e presenza online | Italiaonline"
+        },
+        {
+          "url": "https://assessment.connectedcouncil.org",
+          "title": "Digitally Driven Assessment - Grow your business with digital tools"
         },
         {
           "url": "https://www.wilsonmarketing.com/",
@@ -76,10 +76,6 @@
         {
           "url": "https://hbr.org/2013/12/how-diversity-can-drive-innovation",
           "title": "How Diversity Can Drive Innovation"
-        },
-        {
-          "url": "https://www.imb2b.com/trend/show.php?itemid=2397",
-          "title": "新加坡國家館 進駐醫療展 - IMB2B.com"
         },
         {
           "url": "https://www.southampton.ac.uk/news/events/2015/10/paul-ettinger-caffe-nero-co-founder.page",
@@ -96,12 +92,16 @@
         {
           "url": "https://eventowe.pl/atrakcje-i-szkolenia/wystepy-artystyczne",
           "title": "Występy artystyczne - Atrakcje i szkolenia - Eventowe.pl"
+        },
+        {
+          "url": "https://www.imb2b.com/trend/show.php?itemid=2397",
+          "title": "新加坡國家館 進駐醫療展 - IMB2B.com"
         }
       ],
       "count": 9
     },
     {
-      "name": "science-education-health",
+      "name": "education-science-health",
       "bookmarks": [
         {
           "url": "http://www.chemicalelements.com/elements/ir.html",
@@ -146,12 +146,12 @@
       "name": "government-agencies",
       "bookmarks": [
         {
-          "url": "http://international.gc.ca/world-monde/index.aspx?lang=eng",
-          "title": "Canada and the world"
-        },
-        {
           "url": "https://www.data.gouv.fr/fr/",
           "title": "Accueil - data.gouv.fr"
+        },
+        {
+          "url": "http://international.gc.ca/world-monde/index.aspx?lang=eng",
+          "title": "Canada and the world"
         },
         {
           "url": "https://ceo.maharashtra.gov.in",
@@ -173,7 +173,37 @@
       "count": 6
     },
     {
-      "name": "media-social",
+      "name": "shopping-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://www.patanjaliayurved.net/",
+          "title": "Ayurvedic Products Online Shopping: Shop Online for Food, Herbal cosmetics, Juices, Ayurvedic medicines, Books - Patanjaliayurved.net"
+        },
+        {
+          "url": "https://www.bolkplants.nl/product/1501192/potgrond",
+          "title": "bolkplants"
+        },
+        {
+          "url": "https://www.gemandpebble.com/product/labradorite-magpie-skull-necklace",
+          "title": "Gem and Pebble | Gem and Pebble"
+        },
+        {
+          "url": "https://www.myollie.com/",
+          "title": "Ollie: Fresh & Healthy, Human-Grade Dog Food Delivery"
+        },
+        {
+          "url": "http://www.giftsin24.com/",
+          "title": "Personalized Stationery | Cards, Notepads, Napkins, Gifts & More"
+        },
+        {
+          "url": "https://www.lillypulitzer.com/belle-tassel-necklace/007656.html?dwvar_007656_color=962",
+          "title": "Women's Resort Wear, Dresses & Swimwear | Lilly Pulitzer"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "social-media",
       "bookmarks": [
         {
           "url": "https://forum.1000ps.at/forum/showProfile.asp?memid=211411",
@@ -203,62 +233,6 @@
       "count": 6
     },
     {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://time.com/5866881/al-gore-climate-trace-emissions/",
-          "title": "Al Gore's New Project, 'Climate Trace,' Will Track Emissions | TIME"
-        },
-        {
-          "url": "https://www.theguardian.com/world/europe-news",
-          "title": "Europe | The Guardian"
-        },
-        {
-          "url": "https://www.stripes.com/branches/army/2023-02-24/army-cold-case-murder-germany-9238525.html",
-          "title": "Former soldier faces murder charge in decades-old killing of Army private in Germany | Stars and Stripes"
-        },
-        {
-          "url": "https://nos.nl/nieuws",
-          "title": "NOS Nieuws - Nieuws, Sport en Evenementen | Nederlandse Omroep Stichting"
-        },
-        {
-          "url": "https://polls.saintleo.edu/6405-2/",
-          "title": "Polling Institute at Saint Leo University - Florida's Republican Gov. DeSantis' Job-Approval Stands at More than 56%, While His COVID Job Performance Marks Nearly as High in New Saint Leo University Survey"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "shopping-ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://www.bolkplants.nl/product/1501192/potgrond",
-          "title": "bolkplants"
-        },
-        {
-          "url": "https://www.gemandpebble.com/product/labradorite-magpie-skull-necklace",
-          "title": "Gem and Pebble | Gem and Pebble"
-        },
-        {
-          "url": "https://www.myollie.com/",
-          "title": "Ollie: Fresh & Healthy, Human-Grade Dog Food Delivery"
-        },
-        {
-          "url": "https://www.patanjaliayurved.net/",
-          "title": "Ayurvedic Products Online Shopping: Shop Online for Food, Herbal cosmetics, Juices, Ayurvedic medicines, Books - Patanjaliayurved.net"
-        },
-        {
-          "url": "http://www.giftsin24.com/",
-          "title": "Personalized Stationery | Cards, Notepads, Napkins, Gifts & More"
-        },
-        {
-          "url": "https://www.lillypulitzer.com/belle-tassel-necklace/007656.html?dwvar_007656_color=962",
-          "title": "Women's Resort Wear, Dresses & Swimwear | Lilly Pulitzer"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "software-tools",
       "bookmarks": [
         {
@@ -278,12 +252,12 @@
           "title": "RANDOM.ORG - List Randomizer"
         },
         {
-          "url": "http://www.shavedlabs.com",
-          "title": "Shaved Labs - iPhone Apps"
-        },
-        {
           "url": "https://sharpen.design/",
           "title": "Sharpen - Design Challenge Generator"
+        },
+        {
+          "url": "http://www.shavedlabs.com",
+          "title": "Shaved Labs - iPhone Apps"
         }
       ],
       "count": 6
@@ -315,15 +289,41 @@
       "count": 5
     },
     {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://time.com/5866881/al-gore-climate-trace-emissions/",
+          "title": "Al Gore's New Project, 'Climate Trace,' Will Track Emissions | TIME"
+        },
+        {
+          "url": "https://www.theguardian.com/world/europe-news",
+          "title": "Europe | The Guardian"
+        },
+        {
+          "url": "https://www.stripes.com/branches/army/2023-02-24/army-cold-case-murder-germany-9238525.html",
+          "title": "Former soldier faces murder charge in decades-old killing of Army private in Germany | Stars and Stripes"
+        },
+        {
+          "url": "https://nos.nl/nieuws",
+          "title": "NOS Nieuws - Nieuws, Sport en Evenementen | Nederlandse Omroep Stichting"
+        },
+        {
+          "url": "https://polls.saintleo.edu/6405-2/",
+          "title": "Polling Institute at Saint Leo University - Florida's Republican Gov. DeSantis' Job-Approval Stands at More than 56%, While His COVID Job Performance Marks Nearly as High in New Saint Leo University Survey"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "tech-misc",
       "bookmarks": [
         {
-          "url": "http://greeleygis.greeley.opendata.arcgis.com/",
-          "title": "ArcGIS Hub"
-        },
-        {
           "url": "http://lists.plug.org.au/pipermail/plug/2012-February/081356.html",
           "title": "[plug] warning - cover your ears: can I get a full windoze install dvd from a recovery partition?"
+        },
+        {
+          "url": "http://greeleygis.greeley.opendata.arcgis.com/",
+          "title": "ArcGIS Hub"
         },
         {
           "url": "https://chrysler.oemdtc.com/category/recalls",
@@ -341,29 +341,7 @@
       "count": 5
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://hipster-centeral-blog.tumblr.com/",
-          "title": "@hipster-centeral-blog on Tumblr"
-        },
-        {
-          "url": "https://meld0416.tumblr.com/",
-          "title": "Fabulousness"
-        },
-        {
-          "url": "https://105northtower.tumblr.com/",
-          "title": "Obscure Star Trek References"
-        },
-        {
-          "url": "https://sci-chic.tumblr.com/",
-          "title": "Sci Chic"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "hobby-recreation",
+      "name": "hobbies-recreation",
       "bookmarks": [
         {
           "url": "http://s403915573.onlinehome.fr/boutique2/details.php?gid=1552&pid=711503",
@@ -380,6 +358,28 @@
         {
           "url": "https://www.magicum-berlin.de/oeffnungszeiten/",
           "title": "Öffnungszeiten - Magicum Berlin Magic Museum"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://hipster-centeral-blog.tumblr.com/",
+          "title": "@hipster-centeral-blog on Tumblr"
+        },
+        {
+          "url": "https://meld0416.tumblr.com/",
+          "title": "Fabulousness"
+        },
+        {
+          "url": "https://105northtower.tumblr.com/",
+          "title": "Obscure Star Trek References"
+        },
+        {
+          "url": "https://sci-chic.tumblr.com/",
+          "title": "Sci Chic"
         }
       ],
       "count": 4

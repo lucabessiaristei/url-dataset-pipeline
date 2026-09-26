@@ -1,31 +1,31 @@
 {
   "folders": [
     {
-      "name": "news-media--reports",
+      "name": "news-media-reports",
       "bookmarks": [
-        {
-          "url": "https://actions.fullfact.org/petitions/mps-owe-us-truth/?utm_source=%2F&utm_medium=nav",
-          "title": "Full Fact"
-        },
-        {
-          "url": "https://www.theatlantic.com/business/archive/2017/08/restaurant-jobs-boom/536244/",
-          "title": "Restaurants Are the New Factories - The Atlantic"
-        },
         {
           "url": "https://www.glamour.com/story/camilla-cabello-new-normal-self-care-issue",
           "title": "Camila Cabello's October Glamour Cover Story: A New Normal | Glamour"
-        },
-        {
-          "url": "https://www.fedscoop.com/diux-releases-giant-overhead-imagery-data-set-computer-vision-challenge/",
-          "title": "DIUx releases a giant overhead imagery data set for computer vision challenge | FedScoop"
         },
         {
           "url": "https://www.ipcc.ch/report/ar6/wg2/",
           "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
         },
         {
+          "url": "https://www.fedscoop.com/diux-releases-giant-overhead-imagery-data-set-computer-vision-challenge/",
+          "title": "DIUx releases a giant overhead imagery data set for computer vision challenge | FedScoop"
+        },
+        {
+          "url": "https://actions.fullfact.org/petitions/mps-owe-us-truth/?utm_source=%2F&utm_medium=nav",
+          "title": "Full Fact"
+        },
+        {
           "url": "https://businessfinder.nj.com/icici-infotech-edison-nj-1.html",
           "title": "New Jersey Local News, Breaking News, Sports & Weather"
+        },
+        {
+          "url": "https://www.theatlantic.com/business/archive/2017/08/restaurant-jobs-boom/536244/",
+          "title": "Restaurants Are the New Factories - The Atlantic"
         },
         {
           "url": "https://www.quotenmeter.de/n/102356/",
@@ -35,45 +35,11 @@
       "count": 7
     },
     {
-      "name": "education-learning--resources",
-      "bookmarks": [
-        {
-          "url": "https://computinged.wordpress.com",
-          "title": "Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?"
-        },
-        {
-          "url": "https://connect.looker.com/?utm_source=lookercommunity&utm_medium=link_in_header&utm_campaign=connect_community_promo&utm_id=communitytoconnectlink",
-          "title": "Google Cloud Skills Boost"
-        },
-        {
-          "url": "https://education.mpbonline.org/",
-          "title": "Learning"
-        },
-        {
-          "url": "https://www.sdpb.org/earlylearning/",
-          "title": "Early Learning Initiative | SDPB"
-        },
-        {
-          "url": "http://www.visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
-          "title": "A brief history of scientific practice | | Visionlearning"
-        },
-        {
-          "url": "https://www.zearn.org/",
-          "title": "Login | Zearn Math"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "products--e-commerce",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://blog.artstorefronts.com/new-features/",
           "title": "Art Storefronts Features - New Additions to the ASF Platform"
-        },
-        {
-          "url": "https://daviddagim.co.il/en/product/seabass-2/?add-to-cart=3031",
-          "title": "Seabass - דוד דגים - דגים טריים חנות דגים בירושלים"
         },
         {
           "url": "https://furfactory.co.uk/products/gor-flex-wobbly-wand-50cm-blue-red",
@@ -84,26 +50,60 @@
           "title": "New Gucci Dive Watches"
         },
         {
-          "url": "https://myeldesign.com/products/stein-necklace-with-aquamarine-in-gold",
-          "title": "Stein Necklace in Yellow Gold with Aquamarine | MYEL Design"
+          "url": "https://daviddagim.co.il/en/product/seabass-2/?add-to-cart=3031",
+          "title": "Seabass - דוד דגים - דגים טריים חנות דגים בירושלים"
         },
         {
           "url": "https://www.partsworldshop.com/de/2~205~motorrad/BMW/K-1300-R-S",
           "title": "Sortiment / BMW / K 1300 R / S - Parts World Shop"
+        },
+        {
+          "url": "https://myeldesign.com/products/stein-necklace-with-aquamarine-in-gold",
+          "title": "Stein Necklace in Yellow Gold with Aquamarine | MYEL Design"
         }
       ],
       "count": 6
     },
     {
-      "name": "tech-software-web--resources",
+      "name": "education-learning-resources",
       "bookmarks": [
         {
-          "url": "https://www.fontpair.co/",
-          "title": "Fontpair - Free, beautiful fonts and font pairings curated just for you"
+          "url": "http://www.visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
+          "title": "A brief history of scientific practice | | Visionlearning"
         },
+        {
+          "url": "https://computinged.wordpress.com",
+          "title": "Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?"
+        },
+        {
+          "url": "https://www.sdpb.org/earlylearning/",
+          "title": "Early Learning Initiative | SDPB"
+        },
+        {
+          "url": "https://connect.looker.com/?utm_source=lookercommunity&utm_medium=link_in_header&utm_campaign=connect_community_promo&utm_id=communitytoconnectlink",
+          "title": "Google Cloud Skills Boost"
+        },
+        {
+          "url": "https://education.mpbonline.org/",
+          "title": "Learning"
+        },
+        {
+          "url": "https://www.zearn.org/",
+          "title": "Login | Zearn Math"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "tech-software-web-resources",
+      "bookmarks": [
         {
           "url": "https://www.jasper.ai/",
           "title": "AI built for marketing | Jasper"
+        },
+        {
+          "url": "https://www.fontpair.co/",
+          "title": "Fontpair - Free, beautiful fonts and font pairings curated just for you"
         },
         {
           "url": "http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=58625",
@@ -114,70 +114,70 @@
           "title": "Microsoft Accessibility Blog - Making technology easier to see, hear and use!"
         },
         {
-          "url": "https://www.optimizely.com/legal/opt-out/",
-          "title": "Using query parameters - Optimizely Web Experimentation"
-        },
-        {
           "url": "https://thunkable.com/#/",
           "title": "Thunkable: Best no code app builder | No code app creation"
+        },
+        {
+          "url": "https://www.optimizely.com/legal/opt-out/",
+          "title": "Using query parameters - Optimizely Web Experimentation"
         }
       ],
       "count": 6
     },
     {
-      "name": "arts-culture--history",
+      "name": "arts-culture-history",
       "bookmarks": [
-        {
-          "url": "https://www.analogmuseum.org/english/",
-          "title": "void"
-        },
         {
           "url": "https://arkivet.thorvaldsensmuseum.dk/dokumenter/Smaatryk1836,Kjoebenhavnsposten14.5",
           "title": "14.5.1836 - Arkivet, Thorvaldsens Museum"
-        },
-        {
-          "url": "https://latino.si.edu/",
-          "title": "National Museum of the American Latino | Home"
         },
         {
           "url": "https://www.uffizi.it/en/artworks",
           "title": "Artworks | Uffizi Galleries"
         },
         {
+          "url": "https://latino.si.edu/",
+          "title": "National Museum of the American Latino | Home"
+        },
+        {
           "url": "https://www.westminster-abbey.org/about-the-abbey/history/royalty",
           "title": "Royalty | Westminster Abbey"
+        },
+        {
+          "url": "https://www.analogmuseum.org/english/",
+          "title": "void"
         }
       ],
       "count": 5
     },
     {
-      "name": "nonprofit--social-impact",
+      "name": "nonprofit-social-impact",
       "bookmarks": [
         {
           "url": "https://www.acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
           "title": "Benefits that Last: Long-Term Impact and Cost-Benefit Findings for Year Up | The Administration for Children and Families"
         },
         {
-          "url": "https://www.falfoundation.org/",
-          "title": "The Francine A. LeFrak Foundation"
-        },
-        {
           "url": "https://inspireupfoundation.org/",
           "title": "Inspire Up™, Inc."
+        },
+        {
+          "url": "https://www.redeemercenter.org/",
+          "title": "Nonprofit | Redeemer Center for Life | North Minneapolis"
         },
         {
           "url": "https://impactreport.overdeck.org/",
           "title": "Overdeck Family Foundation 2024 Grantmaking & Impact Report"
         },
         {
-          "url": "https://www.redeemercenter.org/",
-          "title": "Nonprofit | Redeemer Center for Life | North Minneapolis"
+          "url": "https://www.falfoundation.org/",
+          "title": "The Francine A. LeFrak Foundation"
         }
       ],
       "count": 5
     },
     {
-      "name": "business-web--assets",
+      "name": "business-web-assets",
       "bookmarks": [
         {
           "url": "https://balticword.eu/",
@@ -199,7 +199,7 @@
       "count": 4
     },
     {
-      "name": "general-information--guides",
+      "name": "general-information-guides",
       "bookmarks": [
         {
           "url": "https://solarsystem.nasa.gov/planets/overview/",
@@ -221,12 +221,8 @@
       "count": 4
     },
     {
-      "name": "web-utilities--accounts",
+      "name": "web-utilities-accounts",
       "bookmarks": [
-        {
-          "url": "https://sites.google.com/a/onolai.org/yhs-website/Sutter-Buttes-Preservation/middle-mountain-montage",
-          "title": "Sign in - Google Accounts"
-        },
         {
           "url": "https://id.nbcnews.com/email-preferences?brand=nbc-news",
           "title": "Home"
@@ -238,20 +234,24 @@
         {
           "url": "https://www.iubenda.com/privacy-policy/59274660/full-legal",
           "title": "Privacy Policy of Tenuta Larnianone"
+        },
+        {
+          "url": "https://sites.google.com/a/onolai.org/yhs-website/Sutter-Buttes-Preservation/middle-mountain-montage",
+          "title": "Sign in - Google Accounts"
         }
       ],
       "count": 4
     },
     {
-      "name": "black-business--community",
+      "name": "black-business-community",
       "bookmarks": [
-        {
-          "url": "https://iconi.com/",
-          "title": "ICONI | Motivational, Size Inclusive, & Fabric Innovative Activewear"
-        },
         {
           "url": "https://oaacc.org/",
           "title": "HOME -"
+        },
+        {
+          "url": "https://iconi.com/",
+          "title": "ICONI | Motivational, Size Inclusive, & Fabric Innovative Activewear"
         },
         {
           "url": "https://usblackchambers.org",
@@ -261,25 +261,25 @@
       "count": 3
     },
     {
-      "name": "government-civic--resources",
+      "name": "government-civic-resources",
       "bookmarks": [
         {
-          "url": "https://www.chmi.cz/portal/dt",
-          "title": "Portál ČHMÚ : Home"
+          "url": "https://www.votervoice.net/GOODWILL/home",
+          "title": "Action Center"
         },
         {
           "url": "https://www.pa.gov/guides/get-vaccinated/",
           "title": "Home | Commonwealth of Pennsylvania"
         },
         {
-          "url": "https://www.votervoice.net/GOODWILL/home",
-          "title": "Action Center"
+          "url": "https://www.chmi.cz/portal/dt",
+          "title": "Portál ČHMÚ : Home"
         }
       ],
       "count": 3
     },
     {
-      "name": "personal--leisure",
+      "name": "personal-leisure",
       "bookmarks": [
         {
           "url": "https://lwtheatres.co.uk/whats-on/ariana-debose/",

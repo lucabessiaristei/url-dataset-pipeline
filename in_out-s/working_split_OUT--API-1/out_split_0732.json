@@ -43,7 +43,7 @@
       "count": 9
     },
     {
-      "name": "organizations-nonprofit-civic",
+      "name": "civic-nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.blueprosperity.org",
@@ -66,12 +66,12 @@
           "title": "Home - Robin Hood"
         },
         {
-          "url": "https://www.loomis.us/",
-          "title": "Loomis US | The Future of Cash Management"
-        },
-        {
           "url": "https://unworldoceansday.org/",
           "title": "Homepage - United Nations World Oceans Day"
+        },
+        {
+          "url": "https://www.loomis.us/",
+          "title": "Loomis US | The Future of Cash Management"
         },
         {
           "url": "https://www.uso.org/",
@@ -81,7 +81,7 @@
       "count": 8
     },
     {
-      "name": "shopping-travel-lifestyle",
+      "name": "lifestyle-shopping-travel",
       "bookmarks": [
         {
           "url": "https://www.sporkful.com/alan-and-arlene-alda-bonded-over-a-fallen-rum-cake/",
@@ -92,12 +92,12 @@
           "title": "CP - Comboios de Portugal"
         },
         {
-          "url": "https://www.indycar.com/Schedule",
-          "title": "NTT INDYCAR SERIES Race Schedule, Results, Dates, Times | Official Site of INDYCAR"
-        },
-        {
           "url": "https://www.continente.pt/loja-online/",
           "title": "Loja Online | Continente Online"
+        },
+        {
+          "url": "https://www.indycar.com/Schedule",
+          "title": "NTT INDYCAR SERIES Race Schedule, Results, Dates, Times | Official Site of INDYCAR"
         },
         {
           "url": "https://www.sproutedkitchen.com/",
@@ -118,16 +118,12 @@
       "name": "blogs-articles-creative",
       "bookmarks": [
         {
-          "url": "https://annieburdickfreelance.com/",
-          "title": "Annie Burdick - Editing, Writing, Creative Content"
-        },
-        {
           "url": "https://mahxipad.tumblr.com/",
           "title": "@mahxipad on Tumblr"
         },
         {
-          "url": "https://gelunnucifera.tumblr.com/",
-          "title": "Fragments of My Imagination"
+          "url": "https://annieburdickfreelance.com/",
+          "title": "Annie Burdick - Editing, Writing, Creative Content"
         },
         {
           "url": "https://www.macrofinephotography.com/blog/color-me-confused",
@@ -136,6 +132,10 @@
         {
           "url": "http://blogs.esa.int/",
           "title": "ESA Blog Navigator - Navigator page for active ESA blogs"
+        },
+        {
+          "url": "https://gelunnucifera.tumblr.com/",
+          "title": "Fragments of My Imagination"
         },
         {
           "url": "https://www.periscope.tv",
@@ -196,25 +196,13 @@
       "name": "business-services-solutions",
       "bookmarks": [
         {
-          "url": "https://www.loomis.us/",
-          "title": "Loomis US | The Future of Cash Management"
-        },
-        {
-          "url": "https://www.sfaacc.org/",
-          "title": "Businesses | San Francisco African American Chamber Of Commerce | San Francisco"
-        },
-        {
-          "url": "https://jlgray.com/properties?property=cimmaron-i-apartments&propertyid=90",
-          "title": "Cimmaron I Apartments - JL Gray Company"
-        },
-        {
           "url": "https://www.tillhub.at/kassensysteme-baeckerei/",
           "title": "Kassensystem Bäckerei | Die smarte Tillhub Kassa"
         }
       ],
-      "count": 4
+      "count": 1
     }
   ],
-  "total_bookmarks": 43,
+  "total_bookmarks": 40,
   "num_folders": 7
 }

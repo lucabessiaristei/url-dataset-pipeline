@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profits",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://c4ads.org/about-us/",
@@ -14,10 +14,6 @@
         {
           "url": "http://www.icj-cij.org/",
           "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
-        },
-        {
-          "url": "https://donabertarelli.com/dona-bertarelli/",
-          "title": "Our Founder - Dona Bertarelli Philanthropy"
         },
         {
           "url": "http://fairtradeusa.org/",
@@ -52,6 +48,10 @@
           "title": "National Museum of the American Latino | Home"
         },
         {
+          "url": "https://donabertarelli.com/dona-bertarelli/",
+          "title": "Our Founder - Dona Bertarelli Philanthropy"
+        },
+        {
           "url": "http://pmangellfamfound.org/",
           "title": "Paul M. Angell Family Foundation - Supporting Conservation, Performing Arts, Social Impact"
         },
@@ -83,61 +83,7 @@
       "count": 19
     },
     {
-      "name": "news-current-affairs",
-      "bookmarks": [
-        {
-          "url": "https://www.twincities.com/2015/09/06/at-least-3-minnesota-motorcyclists-killed-over-holiday-weekend/",
-          "title": "At least 3 Minnesota motorcyclists killed over holiday weekend - Twin Cities"
-        },
-        {
-          "url": "https://www.bbc.co.uk/programmes/m001j9yy",
-          "title": "BBC Radio 2 - Zoe Ball, Vernon Kay and Ariana DeBose pop in"
-        },
-        {
-          "url": "https://www.theguardian.com/environment/2021/oct/31/cop26-literally-the-last-chance-saloon-to-save-planet-prince-charles",
-          "title": "Cop26 'literally the last chance saloon' to save planet - Prince Charles | Cop26 | The Guardian"
-        },
-        {
-          "url": "https://www.insidehighered.com/news/2022/02/10/how-k-12-book-bans-affect-higher-education",
-          "title": "How K-12 book bans affect higher education"
-        },
-        {
-          "url": "https://oceanpanel.org/oa2030-new-members-caf_sdrhub/",
-          "title": "New Members Boost Ocean Action 2030's Mission for Sustainability"
-        },
-        {
-          "url": "https://www.ksat.com/",
-          "title": "San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More"
-        },
-        {
-          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
-          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
-        },
-        {
-          "url": "https://www.hollywoodreporter.com/tip-line",
-          "title": "Tip Line | The Hollywood Reporter"
-        },
-        {
-          "url": "https://www.satcentrum.com/clanky/3316/tv-nova-a-nova-sport-vysilaji-moto-gp-a-formuli-1/",
-          "title": "TV NOVA a NOVA Sport vysílají MOTO GP a Formuli 1 - Články | satCentrum"
-        },
-        {
-          "url": "https://www.exergue.com/h/2016-07/tt/brexit.html",
-          "title": "Exergue - Un Brexit pour rien, Ou pas"
-        },
-        {
-          "url": "https://www.gettyimages.com/detail/news-photo/russian-t-72-tank-destroyed-in-ukraine-is-installed-in-news-photo/1247431813?phrase=landmark%20ukraine%20anniversary&adppopup=true",
-          "title": "A Russian T-72 tank destroyed in Ukraine is installed in front of... Foto di attualità - Getty Images"
-        },
-        {
-          "url": "https://www.gq.com/story/what-ever-happened-to-brendan-fraser",
-          "title": "What Ever Happened To Brendan Fraser? | GQ"
-        }
-      ],
-      "count": 12
-    },
-    {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://www.tnpaccessories.com/products/tnp-accessories-ab-mat-black-blue",
@@ -160,6 +106,10 @@
           "title": "Buy Makeup, Cosmetics and Skincare | Sephora Singapore"
         },
         {
+          "url": "https://www.redcorp.com/fr/product/services-garanties/lexmark/warranty-1-year-onsite-nbd-2349444--2349444/08626025",
+          "title": "LEXMARK Warranty 1 Year Onsite Nbd (2349444) - 2349444 - Redcorp.com/fr"
+        },
+        {
           "url": "https://www.clarinsusa.com/en/lip-comfort-oil/CS00555678.html",
           "title": "Lip Comfort Oil Best Plumping Hydrating & Conditioning Lip Oil | CLARINS®"
         },
@@ -176,16 +126,12 @@
           "title": "POGGIO LE VOLPIPOGGIO LE VOLPI - Magia DiVino S.r.l. (p.i.02774660597)"
         },
         {
-          "url": "https://www.redcorp.com/fr/product/services-garanties/lexmark/warranty-1-year-onsite-nbd-2349444--2349444/08626025",
-          "title": "LEXMARK Warranty 1 Year Onsite Nbd (2349444) - 2349444 - Redcorp.com/fr"
+          "url": "https://www.sony.com/electronics/cameras",
+          "title": "Sony Cameras | Digital Cameras & Lenses"
         },
         {
           "url": "https://www.partsworldshop.com/de/2~205~motorrad/BMW/K-1300-R-S",
           "title": "Sortiment / BMW / K 1300 R / S - Parts World Shop"
-        },
-        {
-          "url": "https://www.sony.com/electronics/cameras",
-          "title": "Sony Cameras | Digital Cameras & Lenses"
         },
         {
           "url": "https://www.traeger.com/pellet-grills/timberline",
@@ -195,46 +141,58 @@
       "count": 13
     },
     {
-      "name": "software-development-tools",
+      "name": "news-current-affairs",
       "bookmarks": [
         {
-          "url": "http://cadingandcoding.blogspot.com/",
-          "title": "CADing and Coding"
+          "url": "https://www.survivornet.com/articles/mean-girls-star-stephanie-bissonnette-shares-her-amazing-story-from-cancer-to-returning-to-the-broadway-stage/",
+          "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
         },
         {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
-          "title": "MutationObserver - Web APIs | MDN"
+          "url": "https://www.gettyimages.com/detail/news-photo/russian-t-72-tank-destroyed-in-ukraine-is-installed-in-news-photo/1247431813?phrase=landmark%20ukraine%20anniversary&adppopup=true",
+          "title": "A Russian T-72 tank destroyed in Ukraine is installed in front of... Foto di attualità - Getty Images"
         },
         {
-          "url": "https://www.omni.us/",
-          "title": "Omni Channel Outreach System | Omni.us"
+          "url": "https://www.twincities.com/2015/09/06/at-least-3-minnesota-motorcyclists-killed-over-holiday-weekend/",
+          "title": "At least 3 Minnesota motorcyclists killed over holiday weekend - Twin Cities"
         },
         {
-          "url": "https://www.janestreet.com/puzzles/",
-          "title": "Puzzles :: Jane Street"
+          "url": "https://www.bbc.co.uk/programmes/m001j9yy",
+          "title": "BBC Radio 2 - Zoe Ball, Vernon Kay and Ariana DeBose pop in"
         },
         {
-          "url": "https://www.race-technology.com/wiki/index.php/InstallingTheSystem/MountingThePeliCase",
-          "title": "Race Technology Knowledge Base | InstallingTheSystem / MountingThePeliCase"
+          "url": "https://www.theguardian.com/environment/2021/oct/31/cop26-literally-the-last-chance-saloon-to-save-planet-prince-charles",
+          "title": "Cop26 'literally the last chance saloon' to save planet - Prince Charles | Cop26 | The Guardian"
         },
         {
-          "url": "https://www.supa-palette.com/",
-          "title": "Supa Palette - The ultimate color palette generator for Figma!"
+          "url": "https://www.exergue.com/h/2016-07/tt/brexit.html",
+          "title": "Exergue - Un Brexit pour rien, Ou pas"
         },
         {
-          "url": "https://iics.medium.com/tech-support-scammers-use-xss-vulnerability-to-show-fake-malware-infection-7e56138ed186",
-          "title": "Tech support scammers use XSS vulnerability to show fake malware infection | by Eli Cyber Security | Medium"
+          "url": "https://www.insidehighered.com/news/2022/02/10/how-k-12-book-bans-affect-higher-education",
+          "title": "How K-12 book bans affect higher education"
         },
         {
-          "url": "https://tech.bakkenbaeck.com/post/training-a-language-model-in-spacy-v3",
-          "title": "Training a language model in spaCy v3 - Bakken & Baeck"
+          "url": "https://oceanpanel.org/oa2030-new-members-caf_sdrhub/",
+          "title": "New Members Boost Ocean Action 2030's Mission for Sustainability"
         },
         {
-          "url": "https://visualstudio.microsoft.com/",
-          "title": "Visual Studio: IDE and Code Editor for Software Development"
+          "url": "https://www.ksat.com/",
+          "title": "San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More"
+        },
+        {
+          "url": "https://www.hollywoodreporter.com/tip-line",
+          "title": "Tip Line | The Hollywood Reporter"
+        },
+        {
+          "url": "https://www.satcentrum.com/clanky/3316/tv-nova-a-nova-sport-vysilaji-moto-gp-a-formuli-1/",
+          "title": "TV NOVA a NOVA Sport vysílají MOTO GP a Formuli 1 - Články | satCentrum"
+        },
+        {
+          "url": "https://www.gq.com/story/what-ever-happened-to-brendan-fraser",
+          "title": "What Ever Happened To Brendan Fraser? | GQ"
         }
       ],
-      "count": 9
+      "count": 12
     },
     {
       "name": "business-professional-services",
@@ -287,6 +245,48 @@
       "count": 11
     },
     {
+      "name": "software-development-tools",
+      "bookmarks": [
+        {
+          "url": "http://cadingandcoding.blogspot.com/",
+          "title": "CADing and Coding"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver",
+          "title": "MutationObserver - Web APIs | MDN"
+        },
+        {
+          "url": "https://www.omni.us/",
+          "title": "Omni Channel Outreach System | Omni.us"
+        },
+        {
+          "url": "https://www.janestreet.com/puzzles/",
+          "title": "Puzzles :: Jane Street"
+        },
+        {
+          "url": "https://www.race-technology.com/wiki/index.php/InstallingTheSystem/MountingThePeliCase",
+          "title": "Race Technology Knowledge Base | InstallingTheSystem / MountingThePeliCase"
+        },
+        {
+          "url": "https://www.supa-palette.com/",
+          "title": "Supa Palette - The ultimate color palette generator for Figma!"
+        },
+        {
+          "url": "https://iics.medium.com/tech-support-scammers-use-xss-vulnerability-to-show-fake-malware-infection-7e56138ed186",
+          "title": "Tech support scammers use XSS vulnerability to show fake malware infection | by Eli Cyber Security | Medium"
+        },
+        {
+          "url": "https://tech.bakkenbaeck.com/post/training-a-language-model-in-spacy-v3",
+          "title": "Training a language model in spaCy v3 - Bakken & Baeck"
+        },
+        {
+          "url": "https://visualstudio.microsoft.com/",
+          "title": "Visual Studio: IDE and Code Editor for Software Development"
+        }
+      ],
+      "count": 9
+    },
+    {
       "name": "environmental-science-research",
       "bookmarks": [
         {
@@ -298,24 +298,24 @@
           "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability | Climate Change 2022: Impacts, Adaptation and Vulnerability"
         },
         {
-          "url": "https://www.fra.affrc.go.jp/english/eindex.html",
-          "title": "FRA"
-        },
-        {
           "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
           "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
+        },
+        {
+          "url": "https://www.fra.affrc.go.jp/english/eindex.html",
+          "title": "FRA"
         },
         {
           "url": "https://map.imcsnet.org",
           "title": "Map of maritime regions | IMCS"
         },
         {
-          "url": "http://archives.nereusprogram.org/event/preparatory-committe-for-marine-biological-diversity-of-areas-beyond-national-jurisdiction/?lang=en",
-          "title": "Second Session of the Preparatory Committee for Marine Biological Diversity of Areas Beyond National Jurisdiction | Nereus Program"
-        },
-        {
           "url": "http://www.seafoodslaveryrisk.org/",
           "title": "Seafood Slavery Risk Tool"
+        },
+        {
+          "url": "http://archives.nereusprogram.org/event/preparatory-committe-for-marine-biological-diversity-of-areas-beyond-national-jurisdiction/?lang=en",
+          "title": "Second Session of the Preparatory Committee for Marine Biological Diversity of Areas Beyond National Jurisdiction | Nereus Program"
         },
         {
           "url": "https://mrag.co.uk/",
@@ -344,10 +344,6 @@
           "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
         },
         {
-          "url": "https://bip.marcinowice.pl/?id=1332",
-          "title": "Start - DANE PODSTAWOWE, menu 25 - BIP - Gmina Marcinowice"
-        },
-        {
           "url": "https://www.nj.gov/dep/get-past-plastic/#reusable_bags",
           "title": "NJDEP"
         },
@@ -358,12 +354,50 @@
         {
           "url": "https://sf.gov/shared-spaces",
           "title": "Shared Spaces | SF.gov"
+        },
+        {
+          "url": "https://bip.marcinowice.pl/?id=1332",
+          "title": "Start - DANE PODSTAWOWE, menu 25 - BIP - Gmina Marcinowice"
         }
       ],
       "count": 8
     },
     {
-      "name": "privacy-legal-standards",
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://scfindingaids.uvm.edu/repositories/2/resources?q%5B%5D=%2A&op%5B%5D=&field%5B%5D=title&from_year%5B%5D=&to_year%5B%5D=&limit=resource&filter_fields%5B%5D=langcode&filter_values%5B%5D=eng&sort=title_sort%20asc&page=8",
+          "title": "Collections | Finding Aids"
+        },
+        {
+          "url": "https://en.unesco.org/covid19/educationresponse",
+          "title": "Education: From COVID-19 school closures to recovery | UNESCO"
+        },
+        {
+          "url": "https://www.etymonline.com/",
+          "title": "Online Etymology Dictionary"
+        },
+        {
+          "url": "https://www.belgiumwwii.be/belgique-en-guerre/articles/propagande-radiophonique.html",
+          "title": "Propagande radiophonique"
+        },
+        {
+          "url": "https://www.topuniversities.com/university-rankings/world-university-rankings/2023",
+          "title": "QS World University Rankings 2023: Top Global Universities | TopUniversities"
+        },
+        {
+          "url": "http://slideme.org/fr/node/20110178/reviews",
+          "title": "SLIDEME-end"
+        },
+        {
+          "url": "http://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
+          "title": "Theodor Derendorf - ZonsWiki"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "legal-privacy-standards",
       "bookmarks": [
         {
           "url": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -397,49 +431,45 @@
       "count": 7
     },
     {
-      "name": "education-resources",
+      "name": "entertainment-streaming",
       "bookmarks": [
         {
-          "url": "https://scfindingaids.uvm.edu/repositories/2/resources?q%5B%5D=%2A&op%5B%5D=&field%5B%5D=title&from_year%5B%5D=&to_year%5B%5D=&limit=resource&filter_fields%5B%5D=langcode&filter_values%5B%5D=eng&sort=title_sort%20asc&page=8",
-          "title": "Collections | Finding Aids"
+          "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
+          "title": "Amuse"
         },
         {
-          "url": "https://www.etymonline.com/",
-          "title": "Online Etymology Dictionary"
+          "url": "http://www.nacionlibre.net/track/1044/furiosa-aullidos",
+          "title": "Aullidos por Furiosa (Furiosa) | Nación Libre Records"
         },
         {
-          "url": "https://en.unesco.org/covid19/educationresponse",
-          "title": "Education: From COVID-19 school closures to recovery | UNESCO"
+          "url": "https://www.hulu.com/",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
         },
         {
-          "url": "https://www.belgiumwwii.be/belgique-en-guerre/articles/propagande-radiophonique.html",
-          "title": "Propagande radiophonique"
+          "url": "https://www.twitch.tv",
+          "title": "Twitch"
         },
         {
-          "url": "https://www.topuniversities.com/university-rankings/world-university-rankings/2023",
-          "title": "QS World University Rankings 2023: Top Global Universities | TopUniversities"
+          "url": "https://upfaithandfamily.com",
+          "title": "UP Faith & Family Your Streaming Home for Uplifting Entertainment"
         },
         {
-          "url": "http://slideme.org/fr/node/20110178/reviews",
-          "title": "SLIDEME-end"
-        },
-        {
-          "url": "http://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
-          "title": "Theodor Derendorf - ZonsWiki"
+          "url": "https://www.hbomax.com/series/urn:hbo:series:GYyjGGgyuCoOEtAEAAAGQ",
+          "title": "Watch Who's Talking to Chris Wallace? | HBO Max"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
       "name": "health-wellness",
       "bookmarks": [
         {
-          "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
-          "title": "116 Quick & Healthy Recipes | Good Food"
-        },
-        {
           "url": "http://www.acordeilinda.com/2014/05/a-acne-na-mulher-adulta.html",
           "title": "! Acordei Linda !: A ACNE NA MULHER ADULTA"
+        },
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
+          "title": "116 Quick & Healthy Recipes | Good Food"
         },
         {
           "url": "https://www.hopitalveterinairetaschereau.com/en/general/prevention-and-treatment-of-parasites/",
@@ -459,40 +489,6 @@
         }
       ],
       "count": 6
-    },
-    {
-      "name": "entertainment-streaming",
-      "bookmarks": [
-        {
-          "url": "https://share.amuse.io/album/kendra-the-bunnies-of-all-time",
-          "title": "Amuse"
-        },
-        {
-          "url": "http://www.nacionlibre.net/track/1044/furiosa-aullidos",
-          "title": "Aullidos por Furiosa (Furiosa) | Nación Libre Records"
-        },
-        {
-          "url": "https://www.bbc.co.uk/programmes/m001j9yy",
-          "title": "BBC Radio 2 - Zoe Ball, Vernon Kay and Ariana DeBose pop in"
-        },
-        {
-          "url": "https://www.hulu.com/",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        },
-        {
-          "url": "https://www.hbomax.com/series/urn:hbo:series:GYyjGGgyuCoOEtAEAAAGQ",
-          "title": "Watch Who's Talking to Chris Wallace? | HBO Max"
-        },
-        {
-          "url": "https://www.twitch.tv",
-          "title": "Twitch"
-        },
-        {
-          "url": "https://upfaithandfamily.com",
-          "title": "UP Faith & Family Your Streaming Home for Uplifting Entertainment"
-        }
-      ],
-      "count": 7
     },
     {
       "name": "design-ux-resources",
@@ -575,6 +571,6 @@
       "count": 2
     }
   ],
-  "total_bookmarks": 121,
+  "total_bookmarks": 120,
   "num_folders": 15
 }

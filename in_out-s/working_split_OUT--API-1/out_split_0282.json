@@ -1,73 +1,27 @@
 {
   "folders": [
     {
-      "name": "government-legal-public-info",
-      "bookmarks": [
-        {
-          "url": "http://www.ecfr.gov/",
-          "title": "eCFR :: Home"
-        },
-        {
-          "url": "https://founders.archives.gov/documents/Madison/01-08-02-0163",
-          "title": "Memorial and Remonstrance against Religious Assessments, [ca. ..."
-        },
-        {
-          "url": "http://www.icj-cij.org/",
-          "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
-        },
-        {
-          "url": "http://www.marina.difesa.it/",
-          "title": "Homepage - Marina Militare - Marina Militare"
-        },
-        {
-          "url": "http://planetarynames.wr.usgs.gov/",
-          "title": "Planetary Names"
-        },
-        {
-          "url": "http://scourby.com/privacy-policy",
-          "title": "Privacy Policy - Scourby bible Media"
-        },
-        {
-          "url": "https://www.riamoneytransfer.com/about-ria/preventing-fraud",
-          "title": "Fraud Awareness US - Ria Money Transfer"
-        },
-        {
-          "url": "https://www.reprolegalhelpline.org/sma-contact-the-helpline/",
-          "title": "Contact the Helpline - Repro Legal Helpline"
-        },
-        {
-          "url": "https://www.westword.com/news/chris-hinds-act-signed-into-law-by-governor-john-hickenlooper-on-may-29-10364152",
-          "title": "Chris Hinds Act Signed Into Law by Governor John Hickenlooper on May 29 | Denver Westword"
-        }
-      ],
-      "count": 9
-    },
-    {
       "name": "corporate-nonprofit-organizations",
       "bookmarks": [
         {
-          "url": "https://www.bluenaturealliance.org/",
-          "title": "Homepage - Blue Nature Alliance"
-        },
-        {
           "url": "https://www.capgemini.com/us-en/",
           "title": "Capgemini: Leading Global Technology Services Provider"
+        },
+        {
+          "url": "https://www.mightycause.com/organization/Havenlynhv",
+          "title": "Havenly | Mightycause"
+        },
+        {
+          "url": "https://www.bluenaturealliance.org/",
+          "title": "Homepage - Blue Nature Alliance"
         },
         {
           "url": "https://www.domesticworkers.org/",
           "title": "Homepage | National Domestic Workers Alliance"
         },
         {
-          "url": "https://jobs.walgreens.com",
-          "title": "Working at WALGREENS"
-        },
-        {
           "url": "https://www.mccdmn.org/",
           "title": "MCCD | Metropolitan Consortium of Community Developers"
-        },
-        {
-          "url": "https://www.mightycause.com/organization/Havenlynhv",
-          "title": "Havenly | Mightycause"
         },
         {
           "url": "http://pfcblackchamber.org/",
@@ -80,6 +34,52 @@
         {
           "url": "http://waittinstitute.org",
           "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
+        },
+        {
+          "url": "https://jobs.walgreens.com",
+          "title": "Working at WALGREENS"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "government-legal-public-info",
+      "bookmarks": [
+        {
+          "url": "https://www.westword.com/news/chris-hinds-act-signed-into-law-by-governor-john-hickenlooper-on-may-29-10364152",
+          "title": "Chris Hinds Act Signed Into Law by Governor John Hickenlooper on May 29 | Denver Westword"
+        },
+        {
+          "url": "https://www.reprolegalhelpline.org/sma-contact-the-helpline/",
+          "title": "Contact the Helpline - Repro Legal Helpline"
+        },
+        {
+          "url": "http://www.icj-cij.org/",
+          "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
+        },
+        {
+          "url": "http://www.ecfr.gov/",
+          "title": "eCFR :: Home"
+        },
+        {
+          "url": "https://www.riamoneytransfer.com/about-ria/preventing-fraud",
+          "title": "Fraud Awareness US - Ria Money Transfer"
+        },
+        {
+          "url": "http://www.marina.difesa.it/",
+          "title": "Homepage - Marina Militare - Marina Militare"
+        },
+        {
+          "url": "https://founders.archives.gov/documents/Madison/01-08-02-0163",
+          "title": "Memorial and Remonstrance against Religious Assessments, [ca. ..."
+        },
+        {
+          "url": "http://planetarynames.wr.usgs.gov/",
+          "title": "Planetary Names"
+        },
+        {
+          "url": "http://scourby.com/privacy-policy",
+          "title": "Privacy Policy - Scourby bible Media"
         }
       ],
       "count": 9
@@ -88,47 +88,43 @@
       "name": "ai-data-analytics-platforms",
       "bookmarks": [
         {
+          "url": "https://www.mapbox.com/about/maps/",
+          "title": "About Mapbox Technology"
+        },
+        {
           "url": "https://learn.microsoft.com/en-us/azure/ai-services/",
           "title": "Azure AI Foundry documentation | Microsoft Learn"
-        },
-        {
-          "url": "http://community.planet.com/",
-          "title": "Planet Community | Planet Community"
-        },
-        {
-          "url": "https://fedtechmagazine.com/article/2018/11/how-computer-vision-can-help-agencies-spot-critical-needs",
-          "title": "How Computer Vision Can Help Agencies Spot Critical Needs | FedTech Magazine"
         },
         {
           "url": "https://www.electricitymaps.com/",
           "title": "Electricity Maps | The world's most comprehensive electricity data platform"
         },
         {
+          "url": "https://fedtechmagazine.com/article/2018/11/how-computer-vision-can-help-agencies-spot-critical-needs",
+          "title": "How Computer Vision Can Help Agencies Spot Critical Needs | FedTech Magazine"
+        },
+        {
           "url": "https://looker.com/",
           "title": "Looker business intelligence platform embedded analytics | Google Cloud"
         },
         {
-          "url": "https://www.mapbox.com/about/maps/",
-          "title": "About Mapbox Technology"
-        },
-        {
-          "url": "https://www.meta.com/quest/",
-          "title": "Visori VR e MR Meta Quest e accessori accessori | Meta Store"
+          "url": "http://community.planet.com/",
+          "title": "Planet Community | Planet Community"
         },
         {
           "url": "https://www.maxar.com/one-maxar",
           "title": "Vantor - Spatial Intelligence Connecting Sensors Across Every Domain | Vantor"
+        },
+        {
+          "url": "https://www.meta.com/quest/",
+          "title": "Visori VR e MR Meta Quest e accessori accessori | Meta Store"
         }
       ],
       "count": 8
     },
     {
-      "name": "creative-design-resources",
+      "name": "design-creative-resources",
       "bookmarks": [
-        {
-          "url": "https://www.unblock.coffee/",
-          "title": "Unblock Coffee - Award-winning ads only"
-        },
         {
           "url": "https://za.pinterest.com/itmakeyourdays/baseball-canvas/",
           "title": "20 Baseball Canvas ideas | baseball canvas, canvas art wall decor, canvas"
@@ -136,6 +132,10 @@
         {
           "url": "https://jasoncanty01.tumblr.com/",
           "title": "Jason Canty's Tumblr Stuffs"
+        },
+        {
+          "url": "http://www.sundaymatineebook.com/",
+          "title": "New York Hardcore Photos | Sunday Matinee Book"
         },
         {
           "url": "https://www.pinterest.com/",
@@ -146,12 +146,12 @@
           "title": "Scarica Vettori, Immagini, Foto e Video Gratuiti"
         },
         {
-          "url": "http://www.sundaymatineebook.com/",
-          "title": "New York Hardcore Photos | Sunday Matinee Book"
-        },
-        {
           "url": "https://www.tate.org.uk/art/art-terms/s/surrealism",
           "title": "Surrealism | Tate"
+        },
+        {
+          "url": "https://www.unblock.coffee/",
+          "title": "Unblock Coffee - Award-winning ads only"
         }
       ],
       "count": 7
@@ -164,10 +164,6 @@
           "title": "Buenísima coctelería en Barcelona Mamainé en el Born"
         },
         {
-          "url": "https://bileti.bdz.bg/",
-          "title": "БДЖ билетоиздаване"
-        },
-        {
           "url": "http://oradealife.ro/galerii-poze/festivaluri/336-carnavalul-florilor-2017.html",
           "title": "Carnavalul Florilor 2017"
         },
@@ -176,16 +172,20 @@
           "title": "show - 2014 LasVegas SEMA AMERICANCAR P1"
         },
         {
-          "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
-          "title": "Ubstadt-Weiher - Vikipedio"
-        },
-        {
           "url": "https://www.gowildimages.com/Landscapes/Europe/Switzerland/i-Lt3pt7Q/",
           "title": "Switzerland - GoWild Images Australia"
         },
         {
+          "url": "https://eo.wikipedia.org/wiki/Ubstadt-Weiher",
+          "title": "Ubstadt-Weiher - Vikipedio"
+        },
+        {
           "url": "http://www.weirdwwii.com/2012/03/das-boot.html",
           "title": "Weird WWII: \"Das Boot\""
+        },
+        {
+          "url": "https://bileti.bdz.bg/",
+          "title": "БДЖ билетоиздаване"
         }
       ],
       "count": 7
@@ -198,6 +198,10 @@
           "title": "30 dinners for when you don't know what to cook | Good Food"
         },
         {
+          "url": "https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952",
+          "title": "7 Ways You Should Be Using Dish Soap to Clean Your Stuff | Lifehacker"
+        },
+        {
           "url": "https://www.dbricette.it/info.htm",
           "title": "DBRicette: Informazioni"
         },
@@ -206,16 +210,12 @@
           "title": "Dull Market: What It Is, How It Works, Examples"
         },
         {
-          "url": "https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952",
-          "title": "7 Ways You Should Be Using Dish Soap to Clean Your Stuff | Lifehacker"
+          "url": "https://treeschool.org/en/seminario-con-ojo-de-agua-en-la-herradura/",
+          "title": "Seminario con OJO DE AGUA en La Herradura!!!!!! - Tree School"
         },
         {
           "url": "https://www.wissenswertes.at/tarot",
           "title": "Tarot legen - Karten legen - Tarot Astrologie"
-        },
-        {
-          "url": "https://treeschool.org/en/seminario-con-ojo-de-agua-en-la-herradura/",
-          "title": "Seminario con OJO DE AGUA en La Herradura!!!!!! - Tree School"
         }
       ],
       "count": 6
@@ -232,46 +232,46 @@
           "title": "Health Chat Rooms - Mental Health Chat Rooms - Off-Topic Chat Rooms - HealthfulChat"
         },
         {
-          "url": "https://www.parakeetcafe.com/",
-          "title": "Parakeet Cafe | Healthy Food in San Diego, LA & Newport Beach"
+          "url": "https://www.tonetranslate.com/",
+          "title": "Home - Tone Translate"
         },
         {
           "url": "https://www.starlingbank.com/blog/",
           "title": "Noteworthy | Starling Blog | Starling"
         },
         {
-          "url": "https://www.ravelry.com/designers/kiki-crochet-designs",
-          "title": "Ravelry: Designs by Kiki Crochet Designs"
+          "url": "https://www.parakeetcafe.com/",
+          "title": "Parakeet Cafe | Healthy Food in San Diego, LA & Newport Beach"
         },
         {
-          "url": "https://www.tonetranslate.com/",
-          "title": "Home - Tone Translate"
+          "url": "https://www.ravelry.com/designers/kiki-crochet-designs",
+          "title": "Ravelry: Designs by Kiki Crochet Designs"
         }
       ],
       "count": 6
     },
     {
-      "name": "web-dev-software-tools",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
-          "url": "https://hype4.academy/tools/glassmorphism-generator",
-          "title": "Glassmorphism CSS Generator | SquarePlanet | SquarePlanet"
+          "url": "https://ruedesmille.com/attimi/carousel-attimo-cuore/",
+          "title": "Carousel Attimo Cuore | Rue des Mille"
         },
         {
-          "url": "http://www.favicon.cc/",
-          "title": "favicon.ico Generator"
+          "url": "https://www.roku.com/products/streaming-stick-plus",
+          "title": "Close"
         },
         {
-          "url": "https://llama.pe/certificado-digital-de-prueba-sunat",
-          "title": "Certificado digital de PRUEBA - SUNAT | Firma Digital con Certificado Digital Perú - Llama.pe"
+          "url": "https://lacelock.net/",
+          "title": "Fingaz Beauty"
         },
         {
-          "url": "https://www.tecnologiaalvarado.com.ve/conectores/716-modulo-sfp-monomodo-20km.html",
-          "title": "Tecnologia Alvarado | Equipos e insumos para Redes y Seguridad"
+          "url": "https://www.skandium.com/collections/knoll-outdoor-collection",
+          "title": "Knoll Outdoor Collection - Skandium"
         },
         {
-          "url": "https://www.uneed.best/",
-          "title": "Uneed - A launch platform for your products | Uneed"
+          "url": "http://ginecologocertificado.mex.tl/242074_Productos.html",
+          "title": "Productos ginecologo certificado"
         }
       ],
       "count": 5
@@ -279,6 +279,10 @@
     {
       "name": "sports-news-records",
       "bookmarks": [
+        {
+          "url": "https://www.mlb.com/standings",
+          "title": "2025 MLB Standings and Records: Regular Season | MLB.com"
+        },
         {
           "url": "https://www.essentiallysports.com/",
           "title": "EssentiallySports | The Fan's Perspective"
@@ -292,10 +296,6 @@
           "title": "Matt Pobereyko - Baseball - Kentucky Wesleyan College Athletics"
         },
         {
-          "url": "https://www.mlb.com/standings",
-          "title": "2025 MLB Standings and Records: Regular Season | MLB.com"
-        },
-        {
           "url": "https://www.thesportsnews.in/",
           "title": "The Sports News | Cricket News, Football News, Sports Business News, IPL, PKL, ISL, IPL 2024"
         }
@@ -303,27 +303,27 @@
       "count": 5
     },
     {
-      "name": "e-commerce-products",
+      "name": "web-dev-software-tools",
       "bookmarks": [
         {
-          "url": "http://ginecologocertificado.mex.tl/242074_Productos.html",
-          "title": "Productos ginecologo certificado"
+          "url": "https://llama.pe/certificado-digital-de-prueba-sunat",
+          "title": "Certificado digital de PRUEBA - SUNAT | Firma Digital con Certificado Digital Perú - Llama.pe"
         },
         {
-          "url": "https://lacelock.net/",
-          "title": "Fingaz Beauty"
+          "url": "http://www.favicon.cc/",
+          "title": "favicon.ico Generator"
         },
         {
-          "url": "https://www.roku.com/products/streaming-stick-plus",
-          "title": "Close"
+          "url": "https://hype4.academy/tools/glassmorphism-generator",
+          "title": "Glassmorphism CSS Generator | SquarePlanet | SquarePlanet"
         },
         {
-          "url": "https://ruedesmille.com/attimi/carousel-attimo-cuore/",
-          "title": "Carousel Attimo Cuore | Rue des Mille"
+          "url": "https://www.tecnologiaalvarado.com.ve/conectores/716-modulo-sfp-monomodo-20km.html",
+          "title": "Tecnologia Alvarado | Equipos e insumos para Redes y Seguridad"
         },
         {
-          "url": "https://www.skandium.com/collections/knoll-outdoor-collection",
-          "title": "Knoll Outdoor Collection - Skandium"
+          "url": "https://www.uneed.best/",
+          "title": "Uneed - A launch platform for your products | Uneed"
         }
       ],
       "count": 5
@@ -336,12 +336,12 @@
           "title": "How Much Does The Tooth Fairy Pay For A Tooth | Delta Dental"
         },
         {
-          "url": "https://newsroom.apac.paypal-corp.com/home",
-          "title": "PayPal Newsroom - Home"
-        },
-        {
           "url": "https://news.walgreens.com/our-stories/",
           "title": "News Hub | Walgreens Boots Alliance"
+        },
+        {
+          "url": "https://newsroom.apac.paypal-corp.com/home",
+          "title": "PayPal Newsroom - Home"
         }
       ],
       "count": 3
@@ -350,16 +350,16 @@
       "name": "ocean-conservation-initiatives",
       "bookmarks": [
         {
-          "url": "https://www.nature.com/articles/s41586-021-03371-z",
-          "title": "Protecting the global ocean for biodiversity, food and climate | Nature"
+          "url": "http://un.org/oceanconference",
+          "title": "2022 UN Ocean Conference | United Nations"
         },
         {
           "url": "https://ouroceanpanama2023.gob.pa/commitments/",
           "title": "Commitments - Our Ocean 2023"
         },
         {
-          "url": "http://un.org/oceanconference",
-          "title": "2022 UN Ocean Conference | United Nations"
+          "url": "https://www.nature.com/articles/s41586-021-03371-z",
+          "title": "Protecting the global ocean for biodiversity, food and climate | Nature"
         }
       ],
       "count": 3

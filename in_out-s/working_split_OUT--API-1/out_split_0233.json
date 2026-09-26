@@ -1,15 +1,15 @@
 {
   "folders": [
     {
-      "name": "corporate-and-brand",
+      "name": "brands-corporate",
       "bookmarks": [
-        {
-          "url": "http://store.apple.com/us_epp_55499",
-          "title": "Government Purchase Program - Shopping Agreement - Apple"
-        },
         {
           "url": "https://investors.fiserv.com/",
           "title": "Fiserv, Inc. (FI)"
+        },
+        {
+          "url": "http://store.apple.com/us_epp_55499",
+          "title": "Government Purchase Program - Shopping Agreement - Apple"
         },
         {
           "url": "https://kids.youtube.com/t/privacynotice",
@@ -20,12 +20,12 @@
           "title": "Our Goals - Best Buy Corporate News and Information"
         },
         {
-          "url": "https://www.plex.tv",
-          "title": "Stream Movies & Find Shows On The Best Streaming Services"
-        },
-        {
           "url": "https://eu.community.samsung.com/?category.id=uk&profile.language=en-gb",
           "title": "Samsung Community"
+        },
+        {
+          "url": "https://www.plex.tv",
+          "title": "Stream Movies & Find Shows On The Best Streaming Services"
         },
         {
           "url": "https://press.stripe.com/",
@@ -46,6 +46,10 @@
       "name": "articles-reads",
       "bookmarks": [
         {
+          "url": "https://fr.vietnamplus.vn/4e-session-de-la-commission-de-cooperation-vietnamargentine/57164.vnp",
+          "title": "4e Session de la Commission de coopération Vietnam-Argentine | Vietnam+ (VietnamPlus)"
+        },
+        {
           "url": "https://fortune.com/2021/04/02/aclu-shares-data-facebook-third-parties-digital-privacy/",
           "title": "ACLU, a defender of digital privacy, reveals that it shares user data with Facebook | Fortune"
         },
@@ -56,10 +60,6 @@
         {
           "url": "https://spotmedia.ro/tag/covid-19-stiri",
           "title": "Covid 19 știri - Stiri - spotmedia.ro"
-        },
-        {
-          "url": "https://fr.vietnamplus.vn/4e-session-de-la-commission-de-cooperation-vietnamargentine/57164.vnp",
-          "title": "4e Session de la Commission de coopération Vietnam-Argentine | Vietnam+ (VietnamPlus)"
         },
         {
           "url": "https://bioinformation.net/008/97320630008175.htm",
@@ -77,19 +77,11 @@
       "count": 7
     },
     {
-      "name": "business-and-professional",
+      "name": "business-professional",
       "bookmarks": [
-        {
-          "url": "https://assuredstrategy.com/",
-          "title": "Leadership Training. Scaling Up Coaches. Executive Coaching."
-        },
         {
           "url": "http://www.atma.com.au/cbk/",
           "title": "Association of Taxation & Management Accountants - Welcome"
-        },
-        {
-          "url": "https://www.careercircle.com/",
-          "title": "Where Skills Go To Work"
         },
         {
           "url": "https://www.epaalumni.com/",
@@ -104,15 +96,27 @@
           "title": "IOTC | Indian Ocean Tuna Commission / Commission des Thons de l'Océan Indien"
         },
         {
+          "url": "https://assuredstrategy.com/",
+          "title": "Leadership Training. Scaling Up Coaches. Executive Coaching."
+        },
+        {
           "url": "https://medium-rare.com/",
           "title": "Medium Rare"
+        },
+        {
+          "url": "https://www.careercircle.com/",
+          "title": "Where Skills Go To Work"
         }
       ],
       "count": 7
     },
     {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
+        {
+          "url": "https://www.thedailybeast.com/obsessed/ant-man-and-the-wasp-quantumania-writer-jeff-loveness-doesnt-care-if-you-hated-the-movie?ref=scroll",
+          "title": "'Quantumania' Writer: \"The Reviews Are Wrong!\""
+        },
         {
           "url": "https://www.siriusxm.com/clips/clip/65cfb29a-195e-4b44-91fb-9e855ad51e03/1bb40a1e-1920-4ab0-a756-9d95a7e2b7fb",
           "title": "David Downey on Revitalizing America's Downtowns | Julie Mason - Julie Mason Mornings undefined | undefined : '' | Listen on SiriusXM"
@@ -120,6 +124,10 @@
         {
           "url": "https://www.iheart.com/podcast/",
           "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
+        },
+        {
+          "url": "https://teksciory.interia.pl/szukaj?q=mamusia+nie+moze",
+          "title": "mamusia nie moze - Teksciory.pl"
         },
         {
           "url": "http://www.people.com/tag/marlon-brando/",
@@ -130,14 +138,6 @@
           "title": "Paris Hilton on Her Son, Her Childhood, Marriage, and New Memoir"
         },
         {
-          "url": "https://www.thedailybeast.com/obsessed/ant-man-and-the-wasp-quantumania-writer-jeff-loveness-doesnt-care-if-you-hated-the-movie?ref=scroll",
-          "title": "'Quantumania' Writer: \"The Reviews Are Wrong!\""
-        },
-        {
-          "url": "https://teksciory.interia.pl/szukaj?q=mamusia+nie+moze",
-          "title": "mamusia nie moze - Teksciory.pl"
-        },
-        {
           "url": "https://theblast.com/kate-hudson-daughter-birth-certificate-rani-rose/",
           "title": "void"
         }
@@ -145,15 +145,15 @@
       "count": 7
     },
     {
-      "name": "tech-tools-and-data",
+      "name": "tech-tools-data",
       "bookmarks": [
-        {
-          "url": "https://academy.carto.com/",
-          "title": "CARTO Academy | Academy"
-        },
         {
           "url": "https://wildlifedashboard.c4ads.org/",
           "title": "C4ADS Wildlife Seizure Dashboard"
+        },
+        {
+          "url": "https://academy.carto.com/",
+          "title": "CARTO Academy | Academy"
         },
         {
           "url": "https://training.contentful.com/",
@@ -179,7 +179,37 @@
       "count": 7
     },
     {
-      "name": "advocacy-nonprofits",
+      "name": "misc-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://nuecesgundin.es/carro/",
+          "title": "Carro de la Compra - Nueces Gundín"
+        },
+        {
+          "url": "https://www.lamobilery.fr/accueil/attachment/demi-cercle-top",
+          "title": "demi-cercle-top | La Mobilery"
+        },
+        {
+          "url": "https://help.walmart.com/app/answers/detail/a_id/8",
+          "title": "Robot or human?"
+        },
+        {
+          "url": "https://www.clayholder.com/Family/September-2015-Georgetown-CO/i-mXBPMpZ",
+          "title": "September 2015 Georgetown, CO - clayholder"
+        },
+        {
+          "url": "http://www.lawyersadvantage.com/",
+          "title": "void"
+        },
+        {
+          "url": "https://hamiltonbeach.com/inside-the-test-kitchen",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "nonprofit-advocacy",
       "bookmarks": [
         {
           "url": "http://ow.ly/DBQy50E0Gkx",
@@ -190,12 +220,12 @@
           "title": "DonorsChoose: Check Cookies"
         },
         {
-          "url": "https://caresmentoring.org/",
-          "title": "National CARES Mentoring Movement"
-        },
-        {
           "url": "https://neighborhoodtrust.org/",
           "title": "Financial security for all workers - Neighborhood Trust Financial Partners"
+        },
+        {
+          "url": "https://caresmentoring.org/",
+          "title": "National CARES Mentoring Movement"
         },
         {
           "url": "https://www.cao-ombudsman.org/",
@@ -204,36 +234,6 @@
         {
           "url": "http://www.policylink.org/",
           "title": "PolicyLink | PolicyLink"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://www.clayholder.com/Family/September-2015-Georgetown-CO/i-mXBPMpZ",
-          "title": "September 2015 Georgetown, CO - clayholder"
-        },
-        {
-          "url": "https://www.lamobilery.fr/accueil/attachment/demi-cercle-top",
-          "title": "demi-cercle-top | La Mobilery"
-        },
-        {
-          "url": "https://hamiltonbeach.com/inside-the-test-kitchen",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "https://help.walmart.com/app/answers/detail/a_id/8",
-          "title": "Robot or human?"
-        },
-        {
-          "url": "https://nuecesgundin.es/carro/",
-          "title": "Carro de la Compra - Nueces Gundín"
-        },
-        {
-          "url": "http://www.lawyersadvantage.com/",
-          "title": "void"
         }
       ],
       "count": 6
@@ -269,7 +269,7 @@
       "count": 6
     },
     {
-      "name": "shopping-and-food",
+      "name": "shopping-food",
       "bookmarks": [
         {
           "url": "https://buzzbakeshop.com/",

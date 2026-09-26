@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "non-profit-organizations",
+      "name": "nonprofit-organizations",
       "bookmarks": [
+        {
+          "url": "https://www.iowaaces360.org",
+          "title": "ACES 360 - Iowa ACEs 360"
+        },
         {
           "url": "https://aalftc.org/",
           "title": "African American Leadership Forum"
@@ -12,16 +16,16 @@
           "title": "Chatham Business Association | Small Business Development | Chicago small business"
         },
         {
-          "url": "https://www.lirs.org/",
-          "title": "Global Refuge | Welcome & hope since 1939"
+          "url": "https://www.socialworkschi.org/",
+          "title": "Chicago's Youth Charity - Donate & Volunteer | SocialWorks"
         },
         {
           "url": "http://www.livestockdialogue.org/",
           "title": "Global Agenda for Sustainable Livestock | FAO"
         },
         {
-          "url": "https://www.iowaaces360.org",
-          "title": "ACES 360 - Iowa ACEs 360"
+          "url": "https://www.lirs.org/",
+          "title": "Global Refuge | Welcome & hope since 1939"
         },
         {
           "url": "https://www.neaq.org/",
@@ -34,10 +38,6 @@
         {
           "url": "http://www.repak.ie",
           "title": "Repak: Ireland's leading environmental not for profit organisation"
-        },
-        {
-          "url": "https://www.socialworkschi.org/",
-          "title": "Chicago's Youth Charity - Donate & Volunteer | SocialWorks"
         },
         {
           "url": "http://map.peoplepower.org/",
@@ -59,11 +59,23 @@
       "count": 13
     },
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
+        {
+          "url": "https://urban-beach-house.com/products/carbs-koozie",
+          "title": "- Urban Beach House"
+        },
+        {
+          "url": "https://artitrail.com/sectors/agriculture/mega-sweeper-actisweep/",
+          "title": "Artitrail | Mega Sweeper Actisweep"
+        },
         {
           "url": "https://www.astroai.com/mini-fridge-10liter-15can-white/ap/10001406",
           "title": "AstroAI | For All of Life's Adventures"
+        },
+        {
+          "url": "https://www.patanjaliayurved.net/",
+          "title": "Ayurvedic Products Online Shopping: Shop Online for Food, Herbal cosmetics, Juices, Ayurvedic medicines, Books - Patanjaliayurved.net"
         },
         {
           "url": "https://www.gyft.com/buy-gift-cards/google-play/",
@@ -74,16 +86,8 @@
           "title": "EloPOS sistem - Intel Celeron J4105 - 4 GB/128 GB SATA - 39.6 cm (15.6\") LCD Touchscreen Pcap, WIn 10"
         },
         {
-          "url": "https://artitrail.com/sectors/agriculture/mega-sweeper-actisweep/",
-          "title": "Artitrail | Mega Sweeper Actisweep"
-        },
-        {
           "url": "https://www.obaly-dekorace.cz/pap-uterky-zasobniky/uterky-rolovane/",
           "title": "PAP.UTĚRKY, ZÁSOBNÍKY » Utěrky rolované » obaly-dekorace.cz"
-        },
-        {
-          "url": "https://www.patanjaliayurved.net/",
-          "title": "Ayurvedic Products Online Shopping: Shop Online for Food, Herbal cosmetics, Juices, Ayurvedic medicines, Books - Patanjaliayurved.net"
         },
         {
           "url": "https://www.retro-darky.cz/plechova-retro-cedule-plakat-prazska-kolbovka/",
@@ -94,57 +98,11 @@
           "title": "SUPER500-Credenza 1500 x 750 - Lesedi Interiors"
         },
         {
-          "url": "https://urban-beach-house.com/products/carbs-koozie",
-          "title": "- Urban Beach House"
-        },
-        {
           "url": "https://api.mirraw.com/designers/varanga-17756/designs/women-magenta-golden-paisley-printed-a-line-kurta-kurtas-and-kurtis",
           "title": "Women Magenta & Golden Paisley Printed A Line Kurta - Varanga - 3536568"
         }
       ],
       "count": 10
-    },
-    {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://metaphoricalnerd.tumblr.com/",
-          "title": "@metaphoricalnerd on Tumblr"
-        },
-        {
-          "url": "http://bebehblog.com/carolines-nursery/",
-          "title": "Caroline's Nursery - bebehblog"
-        },
-        {
-          "url": "https://thegreataztecagator.tumblr.com/",
-          "title": "For Science, You Monster."
-        },
-        {
-          "url": "https://xvesalius.tumblr.com/",
-          "title": "It's Quite Romantic"
-        },
-        {
-          "url": "https://thathousekilledmasterchauncy.tumblr.com/",
-          "title": "manifestwealthsuccess.com"
-        },
-        {
-          "url": "https://ourspiritualquest.com/category/zeitgeist/",
-          "title": "Zeitgeist | Our Spiritual Quest"
-        },
-        {
-          "url": "https://studgin.tumblr.com/",
-          "title": "Untitled"
-        },
-        {
-          "url": "https://venividigames.tumblr.com/",
-          "title": "VeniVidiGames"
-        },
-        {
-          "url": "https://ourspiritualquest.com/category/zeitgeist/",
-          "title": "Zeitgeist | Our Spiritual Quest"
-        }
-      ],
-      "count": 9
     },
     {
       "name": "misc-resources",
@@ -162,6 +120,10 @@
           "title": "CC Global Network Community Site"
         },
         {
+          "url": "https://vision.esa.int/cm22",
+          "title": "Council Meeting at Ministerial Level - ESA Vision"
+        },
+        {
           "url": "https://plate-archive.hs.uni-hamburg.de/index.php/es/fotografia?&cat0=101&cat1=0001000010000000000000010&cat2=0000000000000000000000000001000000000000000000000000000001000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&cat3=000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000&cat4=000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&cat5=000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&cat6=000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&cat1=0001000010000001000000010",
           "title": "Fotografía"
         },
@@ -174,10 +136,6 @@
           "title": "MCPLOTS"
         },
         {
-          "url": "https://www.milestonehotel.com/?cjevent=4ec1f2f92cc511eb834e01140a180510",
-          "title": "The Milestone Hotel & Residences, Five-Star Boutique Hotel, Kensington, London"
-        },
-        {
           "url": "https://www.mymondomix.com/jacqueline-pearce-nude",
           "title": "Mymondomix.com - Explorez l'art sous toutes ses formes avec passion et créativité"
         },
@@ -186,11 +144,53 @@
           "title": "Sarah Rosemary Carter's Handprints in the Children's Garden - White House Historical Association"
         },
         {
-          "url": "https://vision.esa.int/cm22",
-          "title": "Council Meeting at Ministerial Level - ESA Vision"
+          "url": "https://www.milestonehotel.com/?cjevent=4ec1f2f92cc511eb834e01140a180510",
+          "title": "The Milestone Hotel & Residences, Five-Star Boutique Hotel, Kensington, London"
         }
       ],
       "count": 10
+    },
+    {
+      "name": "news-articles",
+      "bookmarks": [
+        {
+          "url": "https://www.businessinsider.com/1-in-4-us-workers-plan-new-job-after-coronavirus-pandemic-survey-2021-4",
+          "title": "26% US Workers Plan New Job Hunt After COVID-19 Pandemic: Survey - Business Insider"
+        },
+        {
+          "url": "https://www.deutschlandfunkkultur.de/arbeitszeit-frueher-und-heute-die-hohe-anzahl-von-100.html",
+          "title": "Arbeitszeit früher und heute - Die hohe Anzahl von Feiertagen im Mittelalter trügt"
+        },
+        {
+          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
+          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
+        },
+        {
+          "url": "https://www.berlingske.dk/kommentarer",
+          "title": "Kirkeordførerne hykler i sagen om Morten Kvist | Berlingske"
+        },
+        {
+          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
+          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
+        },
+        {
+          "url": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.hamiltonfamilies.org%2Fnewsroom%2Fsan-francisco-plans-to-purchase-200-units-to-house-homeless-families",
+          "title": "Reddit - The heart of the internet"
+        },
+        {
+          "url": "http://www.news.ucsb.edu/2018/019222/true-sanctuary",
+          "title": "True Sanctuary | The Current"
+        },
+        {
+          "url": "https://www.realself.com/news/dolores-catania-breast-augmentation",
+          "title": "Why Dolores Catania Got a Third Breast Augmentation | RealSelf News"
+        },
+        {
+          "url": "https://www.20minutes.fr/cinema/4013493-20221210-avatar-voie-eau-film-rien-acteurs-estime-james-cameron",
+          "title": "« Avatar : La Voie de l'eau » : « Mon film ne serait rien sans les acteurs », estime James Cameron"
+        }
+      ],
+      "count": 9
     },
     {
       "name": "legal-docs",
@@ -231,49 +231,7 @@
       "count": 8
     },
     {
-      "name": "news-articles",
-      "bookmarks": [
-        {
-          "url": "https://www.businessinsider.com/1-in-4-us-workers-plan-new-job-after-coronavirus-pandemic-survey-2021-4",
-          "title": "26% US Workers Plan New Job Hunt After COVID-19 Pandemic: Survey - Business Insider"
-        },
-        {
-          "url": "https://www.20minutes.fr/cinema/4013493-20221210-avatar-voie-eau-film-rien-acteurs-estime-james-cameron",
-          "title": "« Avatar : La Voie de l'eau » : « Mon film ne serait rien sans les acteurs », estime James Cameron"
-        },
-        {
-          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
-          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
-        },
-        {
-          "url": "https://www.deutschlandfunkkultur.de/arbeitszeit-frueher-und-heute-die-hohe-anzahl-von-100.html",
-          "title": "Arbeitszeit früher und heute - Die hohe Anzahl von Feiertagen im Mittelalter trügt"
-        },
-        {
-          "url": "https://www.berlingske.dk/kommentarer",
-          "title": "Kirkeordførerne hykler i sagen om Morten Kvist | Berlingske"
-        },
-        {
-          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
-          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
-        },
-        {
-          "url": "https://www.reddit.com/submit?url=https%3A%2F%2Fwww.hamiltonfamilies.org%2Fnewsroom%2Fsan-francisco-plans-to-purchase-200-units-to-house-homeless-families",
-          "title": "Reddit - The heart of the internet"
-        },
-        {
-          "url": "http://www.news.ucsb.edu/2018/019222/true-sanctuary",
-          "title": "True Sanctuary | The Current"
-        },
-        {
-          "url": "https://www.realself.com/news/dolores-catania-breast-augmentation",
-          "title": "Why Dolores Catania Got a Third Breast Augmentation | RealSelf News"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "news-media-orgs",
+      "name": "news-media-organizations",
       "bookmarks": [
         {
           "url": "https://assine.estadao.com.br/landingpage/?referrer_url=https%3A%2F%2Fpolitica.estadao.com.br%2Fnoticias%2Fgeral%2Ctiao-viana-cpmf-e-renan-vao-a-plenario-este-ano%2C82863&utm_campaign=alwayson%3Ac&utm_content=link%3Aselo-superior%3Alp-planos%3A&utm_medium=botao&utm_source=estadao%3Aeditorias&utm_term=%3A%3A%3A%3A",
@@ -282,10 +240,6 @@
         {
           "url": "https://www.scmp.com/",
           "title": "Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post"
-        },
-        {
-          "url": "https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerPageviewId%22%3A%22%22%2C%22referrerUrl%22%3A%22%22%7D",
-          "title": "The Guardian Weekly Subscriptions | The Guardian"
         },
         {
           "url": "https://www.klrn.org/",
@@ -306,6 +260,48 @@
         {
           "url": "http://www.rcs.it/",
           "title": "RCS MediaGroup"
+        },
+        {
+          "url": "https://support.theguardian.com/subscribe/weekly?REFPVID=&INTCMP=undefined&acquisitionData=%7B%22source%22%3A%22GUARDIAN_WEB%22%2C%22componentId%22%3A%22PrintSubscriptionsHeaderLink%22%2C%22componentType%22%3A%22ACQUISITIONS_HEADER%22%2C%22referrerPageviewId%22%3A%22%22%2C%22referrerUrl%22%3A%22%22%7D",
+          "title": "The Guardian Weekly Subscriptions | The Guardian"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://metaphoricalnerd.tumblr.com/",
+          "title": "@metaphoricalnerd on Tumblr"
+        },
+        {
+          "url": "http://bebehblog.com/carolines-nursery/",
+          "title": "Caroline's Nursery - bebehblog"
+        },
+        {
+          "url": "https://thegreataztecagator.tumblr.com/",
+          "title": "For Science, You Monster."
+        },
+        {
+          "url": "https://xvesalius.tumblr.com/",
+          "title": "It's Quite Romantic"
+        },
+        {
+          "url": "https://thathousekilledmasterchauncy.tumblr.com/",
+          "title": "manifestwealthsuccess.com"
+        },
+        {
+          "url": "https://studgin.tumblr.com/",
+          "title": "Untitled"
+        },
+        {
+          "url": "https://venividigames.tumblr.com/",
+          "title": "VeniVidiGames"
+        },
+        {
+          "url": "https://ourspiritualquest.com/category/zeitgeist/",
+          "title": "Zeitgeist | Our Spiritual Quest"
         }
       ],
       "count": 8
@@ -314,12 +310,12 @@
       "name": "software-dev-tools",
       "bookmarks": [
         {
-          "url": "https://nl.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress plugin | WordPress.org Nederlands"
-        },
-        {
           "url": "https://es.wordpress.org/plugins/gdpr-cookie-compliance/",
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org España"
+        },
+        {
+          "url": "https://nl.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress plugin | WordPress.org Nederlands"
         },
         {
           "url": "https://glyphsapp.com/",
@@ -349,19 +345,23 @@
       "count": 8
     },
     {
-      "name": "corporate-business",
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://br.linkedin.com/company/baruk-automacao-inteligente?trk=organization_guest_main-feed-card-text",
           "title": "Baruk - Automação Inteligente | LinkedIn"
         },
         {
-          "url": "https://www.blueorigin.com/",
-          "title": "Home | Blue Origin"
+          "url": "https://marketing-advertising.tampabay.com/",
+          "title": "Customized Marketing and Advertising Solutions I Times Total Media I Florida"
         },
         {
           "url": "https://fasterpaymentscouncil.org/",
           "title": "Faster Payments Council"
+        },
+        {
+          "url": "https://www.blueorigin.com/",
+          "title": "Home | Blue Origin"
         },
         {
           "url": "http://www.innogistics.net/",
@@ -372,10 +372,6 @@
           "title": "iVendi | Automotive Retail Technology"
         },
         {
-          "url": "https://marketing-advertising.tampabay.com/",
-          "title": "Customized Marketing and Advertising Solutions I Times Total Media I Florida"
-        },
-        {
           "url": "https://www.walmarthealth.com/?utm_source=walmart&utm_medium=referral&utm_campaign=LHN",
           "title": "Robot or human?"
         }
@@ -383,7 +379,7 @@
       "count": 7
     },
     {
-      "name": "e-commerce-fashion",
+      "name": "ecommerce-fashion",
       "bookmarks": [
         {
           "url": "https://www.corneliajames.com/?gadid=637287656153&gclid=CjwKCAiA0cyfBhBREiwAAtStHKiiL5ukqH-_5x9nJsO2urImFRTJoTbCdJA-Yiw7uGNheeX7oWFrNRoCPKIQAvD_BwE&utm_campaign=1655166926&utm_content=65327481244&utm_medium=paid&utm_source=google&utm_term=cornelia%20james%20gloves",
@@ -447,28 +443,6 @@
       "count": 6
     },
     {
-      "name": "misc-corporate",
-      "bookmarks": [
-        {
-          "url": "https://www.bnymellon.com/",
-          "title": "BNY | Global Financial Services"
-        },
-        {
-          "url": "https://contactus.target.com/ContactUs?Con=ContactUs&lnk=fnav_t_spc_1_28",
-          "title": "Contact Us"
-        },
-        {
-          "url": "http://news.microsoft.com/facts-about-microsoft/",
-          "title": "Facts About Microsoft - Stories"
-        },
-        {
-          "url": "https://stock.walmart.com/",
-          "title": "Walmart Inc. (WMT)"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "software-dev-docs",
       "bookmarks": [
         {
@@ -495,23 +469,49 @@
       "count": 5
     },
     {
+      "name": "sports-news",
+      "bookmarks": [
+        {
+          "url": "https://z-news.link/anniversary-of-the-olympics-80-what-were-the-most-pure-moscow-games/",
+          "title": "Anniversary of the Olympics-80: what were the most \"pure\" Moscow Games"
+        },
+        {
+          "url": "http://forum.zeusnews.it/viewtopic.php?t=75037&view=next&sid=c65475a4b4f5c1174facc5d2a60da775",
+          "title": "Olimpo Informatico :: Leggi argomento - Il canto delle meduse"
+        },
+        {
+          "url": "https://www.bbc.com/sport/football/scores-fixtures",
+          "title": "Scores & Fixtures - Football - BBC Sport"
+        },
+        {
+          "url": "https://www.sportsmanagement.co.uk/index.cfm",
+          "title": "Sports jobs, sports news, sports features | Sports Management magazine"
+        },
+        {
+          "url": "https://www.svt.se/sport/",
+          "title": "SVT Sport"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "automotive",
       "bookmarks": [
         {
-          "url": "https://www.bmw.com.co/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "Tienda BMW Colombia: Carros y Accesorios - BMW Shop Colombia"
+          "url": "https://www.bmw-lebanon.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Cars | Beirut, Lebanon | BMW Bassoul Heneine"
         },
         {
           "url": "https://www.bmw.com.gt/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
           "title": "BMW Guatemala | Autos Deportivos, Híbridos y Más - Home"
         },
         {
-          "url": "https://www.bmw-lebanon.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Cars | Beirut, Lebanon | BMW Bassoul Heneine"
-        },
-        {
           "url": "https://ford.oemdtc.com/category/recalls",
           "title": "Recalls | Ford & Lincoln - OEMDTC"
+        },
+        {
+          "url": "https://www.bmw.com.co/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "Tienda BMW Colombia: Carros y Accesorios - BMW Shop Colombia"
         }
       ],
       "count": 4
@@ -550,12 +550,34 @@
           "title": "Forum SEARCH - RateMyFishTank.com"
         },
         {
-          "url": "http://www.foolsdog.com/Classic1910/",
-          "title": "The Classic 1910 Tarot - The Fools Dog"
-        },
-        {
           "url": "https://thestolenidea.tumblr.com/",
           "title": "Game Development"
+        },
+        {
+          "url": "http://www.foolsdog.com/Classic1910/",
+          "title": "The Classic 1910 Tarot - The Fools Dog"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "misc-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.bnymellon.com/",
+          "title": "BNY | Global Financial Services"
+        },
+        {
+          "url": "https://contactus.target.com/ContactUs?Con=ContactUs&lnk=fnav_t_spc_1_28",
+          "title": "Contact Us"
+        },
+        {
+          "url": "http://news.microsoft.com/facts-about-microsoft/",
+          "title": "Facts About Microsoft - Stories"
+        },
+        {
+          "url": "https://stock.walmart.com/",
+          "title": "Walmart Inc. (WMT)"
         }
       ],
       "count": 4
@@ -583,51 +605,7 @@
       "count": 4
     },
     {
-      "name": "sports-news",
-      "bookmarks": [
-        {
-          "url": "https://z-news.link/anniversary-of-the-olympics-80-what-were-the-most-pure-moscow-games/",
-          "title": "Anniversary of the Olympics-80: what were the most \"pure\" Moscow Games"
-        },
-        {
-          "url": "http://forum.zeusnews.it/viewtopic.php?t=75037&view=next&sid=c65475a4b4f5c1174facc5d2a60da775",
-          "title": "Olimpo Informatico :: Leggi argomento - Il canto delle meduse"
-        },
-        {
-          "url": "https://www.bbc.com/sport/football/scores-fixtures",
-          "title": "Scores & Fixtures - Football - BBC Sport"
-        },
-        {
-          "url": "https://www.sportsmanagement.co.uk/index.cfm",
-          "title": "Sports jobs, sports news, sports features | Sports Management magazine"
-        },
-        {
-          "url": "https://www.svt.se/sport/",
-          "title": "SVT Sport"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "career-job-search",
-      "bookmarks": [
-        {
-          "url": "http://jobs.apple.com/",
-          "title": "Apple Roles and Opportunities - Careers at Apple"
-        },
-        {
-          "url": "https://www.cfgnh.org/articles/job-training-education-friendship-and-a-voice",
-          "title": "Job Training,... | The Community Foundation for Greater New Haven"
-        },
-        {
-          "url": "https://workingnation.com/",
-          "title": "WorkingNation - Stories That Empower America's Workforce"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "design-art-portfolios",
+      "name": "art-design-portfolios",
       "bookmarks": [
         {
           "url": "https://www.behance.net/galleries/photography",
@@ -645,7 +623,25 @@
       "count": 3
     },
     {
-      "name": "food-and-drink",
+      "name": "careers-job-search",
+      "bookmarks": [
+        {
+          "url": "http://jobs.apple.com/",
+          "title": "Apple Roles and Opportunities - Careers at Apple"
+        },
+        {
+          "url": "https://www.cfgnh.org/articles/job-training-education-friendship-and-a-voice",
+          "title": "Job Training,... | The Community Foundation for Greater New Haven"
+        },
+        {
+          "url": "https://workingnation.com/",
+          "title": "WorkingNation - Stories That Empower America's Workforce"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "food-drink",
       "bookmarks": [
         {
           "url": "https://www.croquonslavie.fr/articles/astuces-galettes-rois",
@@ -663,7 +659,7 @@
       "count": 3
     },
     {
-      "name": "hobby-crafts-and-diy",
+      "name": "hobbies-crafts-diy",
       "bookmarks": [
         {
           "url": "https://www.leevalley.com/en-ca/discover/woodworking/finishing",
@@ -688,12 +684,12 @@
           "title": "DLive · Your Stream, Your Rules"
         },
         {
-          "url": "https://www.plex.tv",
-          "title": "Stream Movies & Find Shows On The Best Streaming Services"
-        },
-        {
           "url": "https://www.starz.com/us/en/",
           "title": "STARZ - Captivating Original Series. Hit Movies. Bold Storytelling."
+        },
+        {
+          "url": "https://www.plex.tv",
+          "title": "Stream Movies & Find Shows On The Best Streaming Services"
         }
       ],
       "count": 3
@@ -702,21 +698,21 @@
       "name": "social-media",
       "bookmarks": [
         {
+          "url": "https://livability.com/topics/love-where-you-live/10-ways-you-can-help-local-businesses-right-now",
+          "title": "10 Ways You Can Help Local Businesses Right Now - Livability.com"
+        },
+        {
           "url": "https://www.justchat.co.uk/",
           "title": "Chat in the online chat rooms at Just Chat"
         },
         {
           "url": "https://freead1.net/grp/service:2/transports-services:40/automotive-services:393/India:17/none:69/Bangalore:3627",
           "title": "Free ads without registration"
-        },
-        {
-          "url": "https://livability.com/topics/love-where-you-live/10-ways-you-can-help-local-businesses-right-now",
-          "title": "10 Ways You Can Help Local Businesses Right Now - Livability.com"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 143,
+  "total_bookmarks": 142,
   "num_folders": 24
 }

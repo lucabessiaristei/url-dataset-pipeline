@@ -1,8 +1,34 @@
 {
   "folders": [
     {
+      "name": "entertainment",
+      "bookmarks": [
+        {
+          "url": "https://www.dilloncarmichael.com/",
+          "title": "Dillon Carmichael | Official Website"
+        },
+        {
+          "url": "https://journa.host/@rhett",
+          "title": "Rhett Ayers Butler (@rhett@journa.host) - Journa.host"
+        },
+        {
+          "url": "https://vix.com/nuevo",
+          "title": "ViX: Cine y TV Gratis en Español"
+        },
+        {
+          "url": "https://rxhaellsk.tumblr.com/",
+          "title": "💀"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "news",
       "bookmarks": [
+        {
+          "url": "https://www.tennessean.com/story/entertainment/2022/10/02/hardy-hospitalized-after-bus-accident-on-interstate-40-near-nashville/69533641007/",
+          "title": "HARDY hospitalized after bus accident on Interstate 40 near Nashville"
+        },
         {
           "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
           "title": "Latest World & National News & Headlines - USATODAY.com"
@@ -10,10 +36,6 @@
         {
           "url": "https://www.khon2.com/local-news/passengers-shaken-by-turbulence-floating-off-of-our-chairs/",
           "title": "Passengers shaken by turbulence 'Floating off of our chairs' | KHON2"
-        },
-        {
-          "url": "https://www.tennessean.com/story/entertainment/2022/10/02/hardy-hospitalized-after-bus-accident-on-interstate-40-near-nashville/69533641007/",
-          "title": "HARDY hospitalized after bus accident on Interstate 40 near Nashville"
         },
         {
           "url": "https://www.quotenmeter.de/n/102356/",
@@ -30,128 +52,34 @@
           "title": "Chromium Blog"
         },
         {
-          "url": "https://docs.looker.com",
-          "title": "Looker | Google Cloud"
+          "url": "https://powervirtualagents.microsoft.com",
+          "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
         },
         {
           "url": "https://material.io/blog/digital-wellbeing-ux-principles",
           "title": "Design Principles for Digital Wellbeing"
         },
         {
-          "url": "https://powervirtualagents.microsoft.com",
-          "title": "Customize Copilot and Create Agents | Microsoft Copilot Studio"
+          "url": "https://docs.looker.com",
+          "title": "Looker | Google Cloud"
         }
       ],
       "count": 4
     },
     {
-      "name": "entertainment",
+      "name": "art",
       "bookmarks": [
         {
-          "url": "https://vix.com/nuevo",
-          "title": "ViX: Cine y TV Gratis en Español"
+          "url": "https://www.pinterest.dk/bangolufsen/",
+          "title": "Bang & Olufsen (bangolufsen) - Profile | Pinterest"
         },
         {
-          "url": "https://www.dilloncarmichael.com/",
-          "title": "Dillon Carmichael | Official Website"
+          "url": "https://www.visualartgroup.it/comunicare-il-made-in-italy",
+          "title": "Comunicare il made in italy - Visual Art Group"
         },
         {
-          "url": "https://rxhaellsk.tumblr.com/",
-          "title": "💀"
-        },
-        {
-          "url": "https://journa.host/@rhett",
-          "title": "Rhett Ayers Butler (@rhett@journa.host) - Journa.host"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "education",
-      "bookmarks": [
-        {
-          "url": "https://betterkids.education/",
-          "title": "Better Kids - Social Emotional Learning"
-        },
-        {
-          "url": "https://roberta-golinkoff.com",
-          "title": "Roberta Golinkoff"
-        },
-        {
-          "url": "https://psychologyofconversions.com/",
-          "title": "void"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "shopping",
-      "bookmarks": [
-        {
-          "url": "https://www.bagborroworsteal.com/",
-          "title": "Rent, Buy and Sell Designer Handbags & Accessories - Bag Borrow or Steal"
-        },
-        {
-          "url": "https://hindi.alibaba.com/product-detail/hot-sale-fox-fur-coat-winter-long-mink-knitted-cardigan-fashionhorn-sleeve-fox-fur-coat-for-women-1600323300092.html",
-          "title": "Product Not Available"
-        },
-        {
-          "url": "https://www.yupptv.com/help/privacy-terms",
-          "title": "Privacy & Terms | YuppTV"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "privacy",
-      "bookmarks": [
-        {
-          "url": "https://pmc.com/terms-of-use/",
-          "title": "Terms of Use | PMC"
-        },
-        {
-          "url": "https://es.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org España"
-        },
-        {
-          "url": "https://es-co.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Colombia"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://girllovesfood.net",
-          "title": "Girl Loves Food"
-        },
-        {
-          "url": "https://ricette-antipasti.blogspot.com/",
-          "title": "Ricette Antipasti"
-        },
-        {
-          "url": "https://oceans5.org/",
-          "title": "Dedicated to protecting the world's five oceans | Oceans 5"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "science",
-      "bookmarks": [
-        {
-          "url": "https://otga.wufoo.com/forms/z1s9qpjo025j40t/",
-          "title": "Implementing the Ocean Data and Information System"
-        },
-        {
-          "url": "https://sliderulemuseum.com/SR_Course.htm",
-          "title": "300 Multiple Choices"
-        },
-        {
-          "url": "https://www.sentencingproject.org/publications/still-life-americas-increasing-use-life-long-term-sentences/",
-          "title": "America's Increasing Use of Life and Long-Term Sentences - The Sentencing Project"
+          "url": "https://www.museoscienza.org/it/visita",
+          "title": "Museo Nazionale della Scienza e della Tecnologia"
         }
       ],
       "count": 3
@@ -160,12 +88,12 @@
       "name": "careers",
       "bookmarks": [
         {
-          "url": "https://careers.walmart.com/corporate/corporate-affairs-and-communications",
-          "title": "Corporate Communications Jobs | Walmart Careers"
-        },
-        {
           "url": "https://copalmn.org/en/home/",
           "title": "COPAL Communities Organizing Latine Power and Action - COPAL leads social impact initiatives to improve the quality of life for Latino families in Minnesota."
+        },
+        {
+          "url": "https://careers.walmart.com/corporate/corporate-affairs-and-communications",
+          "title": "Corporate Communications Jobs | Walmart Careers"
         },
         {
           "url": "https://echoinggreen.org/",
@@ -175,19 +103,109 @@
       "count": 3
     },
     {
-      "name": "art",
+      "name": "education",
       "bookmarks": [
         {
-          "url": "https://www.museoscienza.org/it/visita",
-          "title": "Museo Nazionale della Scienza e della Tecnologia"
+          "url": "https://www.betterkids.education/",
+          "title": "Better Kids - Social Emotional Learning"
         },
         {
-          "url": "https://www.visualartgroup.it/comunicare-il-made-in-italy",
-          "title": "Comunicare il made in italy - Visual Art Group"
+          "url": "http://www.roberta-golinkoff.com",
+          "title": "Roberta Golinkoff"
         },
         {
-          "url": "https://www.pinterest.dk/bangolufsen/",
-          "title": "Bang & Olufsen (bangolufsen) - Profile | Pinterest"
+          "url": "http://psychologyofconversions.com/",
+          "title": "void"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "misc",
+      "bookmarks": [
+        {
+          "url": "https://adminrecords.ucsd.edu/PPM/docs/516-30.html?_ga=2.247330180.1274190464.1634572926-1643277195.1631479253",
+          "title": "516-30 Face Mask Policy"
+        },
+        {
+          "url": "https://kkskalica.sk/",
+          "title": "Aktuality"
+        },
+        {
+          "url": "https://www.data.gouv.fr/fr/datasets/quartiers-de-marseille",
+          "title": "Quartiers de Marseille"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "privacy",
+      "bookmarks": [
+        {
+          "url": "https://es-co.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Colombia"
+        },
+        {
+          "url": "https://es.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org España"
+        },
+        {
+          "url": "https://pmc.com/terms-of-use/",
+          "title": "Terms of Use | PMC"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "science",
+      "bookmarks": [
+        {
+          "url": "https://sliderulemuseum.com/SR_Course.htm",
+          "title": "300 Multiple Choices"
+        },
+        {
+          "url": "http://www.sentencingproject.org/publications/still-life-americas-increasing-use-life-long-term-sentences/",
+          "title": "America's Increasing Use of Life and Long-Term Sentences - The Sentencing Project"
+        },
+        {
+          "url": "https://otga.wufoo.com/forms/z1s9qpjo025j40t/",
+          "title": "Implementing the Ocean Data and Information System"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "shopping",
+      "bookmarks": [
+        {
+          "url": "https://www.yupptv.com/help/privacy-terms",
+          "title": "Privacy & Terms | YuppTV"
+        },
+        {
+          "url": "https://hindi.alibaba.com/product-detail/hot-sale-fox-fur-coat-winter-long-mink-knitted-cardigan-fashionhorn-sleeve-fox-fur-coat-for-women-1600323300092.html",
+          "title": "Product Not Available"
+        },
+        {
+          "url": "https://www.bagborroworsteal.com/",
+          "title": "Rent, Buy and Sell Designer Handbags & Accessories - Bag Borrow or Steal"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel",
+      "bookmarks": [
+        {
+          "url": "https://oceans5.org/",
+          "title": "Dedicated to protecting the world's five oceans | Oceans 5"
+        },
+        {
+          "url": "http://www.girllovesfood.net/",
+          "title": "Girl Loves Food"
+        },
+        {
+          "url": "http://ricette-antipasti.blogspot.com/",
+          "title": "Ricette Antipasti"
         }
       ],
       "count": 3
@@ -196,35 +214,17 @@
       "name": "photography",
       "bookmarks": [
         {
-          "url": "https://photo.walgreens.com",
-          "title": "Photo Prints, Custom Cards, and Posters | Walgreens Photo"
+          "url": "http://vuce.gub.uy/pesc2/",
+          "title": "PESC / BATE - DINARA: certificado de ingreso sanitario para productos de la pesca - VUCE"
         },
         {
-          "url": "https://vuce.gub.uy/pesc2/",
-          "title": "PESC / BATE - DINARA: certificado de ingreso sanitario para productos de la pesca - VUCE"
+          "url": "https://photo.walgreens.com",
+          "title": "Photo Prints, Custom Cards, and Posters | Walgreens Photo"
         }
       ],
       "count": 2
-    },
-    {
-      "name": "misc",
-      "bookmarks": [
-        {
-          "url": "https://kkskalica.sk/",
-          "title": "Aktuality"
-        },
-        {
-          "url": "https://adminrecords.ucsd.edu/PPM/docs/516-30.html?_ga=2.247330180.1274190464.1634572926-1643277195.1631479253",
-          "title": "516-30 Face Mask Policy"
-        },
-        {
-          "url": "https://data.gouv.fr/fr/datasets/quartiers-de-marseille",
-          "title": "Quartiers de Marseille"
-        }
-      ],
-      "count": 3
     }
   ],
-  "total_bookmarks": 42,
-  "num_folders": 11
+  "total_bookmarks": 38,
+  "num_folders": 12
 }

@@ -1,27 +1,27 @@
 {
   "folders": [
     {
-      "name": "digital-tools-productivity",
+      "name": "digital-productivity-tools",
       "bookmarks": [
         {
           "url": "https://crontab.guru/",
           "title": "Crontab.guru - The cron schedule expression generator"
         },
         {
-          "url": "https://form.asana.com/?k=lY4uuTrGcroevKe_0emL1Q&d=941506444463212",
-          "title": "Loading... - Form by Asana"
-        },
-        {
           "url": "https://hemingwayapp.com/",
           "title": "Hemingway Editor"
         },
         {
-          "url": "https://jackiecolburn.medium.com/more-icebreakers-you-can-steal-for-better-meetings-72afad91067d?source=home---------4------------------0----------",
-          "title": "More icebreakers you can steal for better meetings | by Jackie Colburn | Medium"
+          "url": "https://form.asana.com/?k=lY4uuTrGcroevKe_0emL1Q&d=941506444463212",
+          "title": "Loading... - Form by Asana"
         },
         {
           "url": "https://about.medium.com/creators/",
           "title": "Medium Partner Program"
+        },
+        {
+          "url": "https://jackiecolburn.medium.com/more-icebreakers-you-can-steal-for-better-meetings-72afad91067d?source=home---------4------------------0----------",
+          "title": "More icebreakers you can steal for better meetings | by Jackie Colburn | Medium"
         },
         {
           "url": "https://help.nationalgeographic.com/",
@@ -135,8 +135,12 @@
       "count": 9
     },
     {
-      "name": "academic-research-science",
+      "name": "science-research-academic",
       "bookmarks": [
+        {
+          "url": "https://scikit-learn.org/stable/modules/impute.html",
+          "title": "7.4. Imputation of missing values - scikit-learn 1.7.2 documentation"
+        },
         {
           "url": "http://www.csiresearch.com/JOSI-BUS-Fall2015.html",
           "title": "Academic Research Conference | Center For Scholastic Inquiry"
@@ -160,10 +164,6 @@
         {
           "url": "https://cordis.europa.eu/project/rcn/204036/results/en",
           "title": "Making a yeast-based candidate vaccine against Porcine Epidemic Diarrhea Virus (PEDV) | PIGYVAX | Project | Results | H2020 | CORDIS | European Commission"
-        },
-        {
-          "url": "https://scikit-learn.org/stable/modules/impute.html",
-          "title": "7.4. Imputation of missing values - scikit-learn 1.7.2 documentation"
         }
       ],
       "count": 7
@@ -240,12 +240,12 @@
           "title": "BS&Co - Email Marketing Agency | Drive Revenue with Strategic Campaigns"
         },
         {
-          "url": "https://www.blackrock.com/",
-          "title": "Gestione degli investimenti e servizi finanziari | BlackRock"
-        },
-        {
           "url": "http://www.gennx360.com/",
           "title": "GenNx360 | Private Equity | Middle-Market | Industrial Business Services"
+        },
+        {
+          "url": "https://www.blackrock.com/",
+          "title": "Gestione degli investimenti e servizi finanziari | BlackRock"
         },
         {
           "url": "https://www.goldtechservices.com/",
@@ -281,28 +281,6 @@
       "count": 5
     },
     {
-      "name": "company-brands-profiles",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-kuwait.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Showroom | Kuwait | Ali Alghanim & Sons BMW"
-        },
-        {
-          "url": "https://locate.apple.com/",
-          "title": "Find Locations"
-        },
-        {
-          "url": "https://fullfact.org/",
-          "title": "Full Fact"
-        },
-        {
-          "url": "https://matchingham.gs/?sfb65_qg584y4k6750958la/500462/5112946",
-          "title": "Matchingham Games"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "health-safety-standards",
       "bookmarks": [
         {
@@ -329,7 +307,7 @@
       "count": 5
     },
     {
-      "name": "non-profit-organizations",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://ceoworks.org/contact",
@@ -377,33 +355,37 @@
       "count": 4
     },
     {
-      "name": "ecommerce-food-products",
+      "name": "brands-company-profiles",
       "bookmarks": [
         {
-          "url": "https://www.dbricette.it/links_siti.htm",
-          "title": "DBRicette: Links siti"
+          "url": "https://www.bmw-kuwait.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Showroom | Kuwait | Ali Alghanim & Sons BMW"
         },
         {
-          "url": "https://furfactory.co.uk/products/gor-flex-wobbly-wand-50cm-blue-red",
-          "title": "Gor Flex Wobbly Wand (50cm) Blue/Red - The FurFactory"
+          "url": "https://locate.apple.com/",
+          "title": "Find Locations"
         },
         {
-          "url": "http://www.growninidaho.com/products",
-          "title": "Products - Grown In Idaho"
+          "url": "https://fullfact.org/",
+          "title": "Full Fact"
+        },
+        {
+          "url": "https://matchingham.gs/?sfb65_qg584y4k6750958la/500462/5112946",
+          "title": "Matchingham Games"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
       "name": "education-learning-resources",
       "bookmarks": [
         {
-          "url": "http://www.aib.it/",
-          "title": "Homepage - AIB WEB"
-        },
-        {
           "url": "https://digital-collections.columbuslibrary.org/digital/collection/p16802coll28/id/138985/",
           "title": "CONTENTdm"
+        },
+        {
+          "url": "http://www.aib.it/",
+          "title": "Homepage - AIB WEB"
         },
         {
           "url": "http://outlier.uchicago.edu/",
@@ -452,6 +434,24 @@
         {
           "url": "https://www.businessoffashion.com/articles/luxury/the-plan-for-off-white-after-virgil-abloh/",
           "title": "The Plan for Off-White After Virgil Abloh | BoF"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "ecommerce-food-products",
+      "bookmarks": [
+        {
+          "url": "https://www.dbricette.it/links_siti.htm",
+          "title": "DBRicette: Links siti"
+        },
+        {
+          "url": "https://furfactory.co.uk/products/gor-flex-wobbly-wand-50cm-blue-red",
+          "title": "Gor Flex Wobbly Wand (50cm) Blue/Red - The FurFactory"
+        },
+        {
+          "url": "http://www.growninidaho.com/products",
+          "title": "Products - Grown In Idaho"
         }
       ],
       "count": 3
@@ -510,12 +510,12 @@
       "name": "travel-tourism-guides",
       "bookmarks": [
         {
-          "url": "https://www.callupcontact.com/Rural-Roads-c99325.html",
-          "title": "Places close by Rural Roads Chefferie de Nkol Yem Cameroon"
-        },
-        {
           "url": "https://www.nps.gov/yose/planyourvisit/hiking.htm",
           "title": "Hiking - Yosemite National Park (U.S. National Park Service)"
+        },
+        {
+          "url": "https://www.callupcontact.com/Rural-Roads-c99325.html",
+          "title": "Places close by Rural Roads Chefferie de Nkol Yem Cameroon"
         }
       ],
       "count": 2

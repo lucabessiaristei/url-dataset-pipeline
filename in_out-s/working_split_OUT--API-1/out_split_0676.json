@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-and-articles",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://theface.com/music/adele-new-album-30-candice-carty-williams-interview-volume4-issue9-burberry-stormzy",
@@ -47,7 +47,7 @@
       "count": 10
     },
     {
-      "name": "social-issues-and-advocacy",
+      "name": "social-issues-advocacy",
       "bookmarks": [
         {
           "url": "https://www.aclu.org/news/topic/abortion-criminal-defense-initiative-reproductive-rights",
@@ -58,20 +58,16 @@
           "title": "Home - ACLU of Rhode Island"
         },
         {
-          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.kdV4lB5ya",
-          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
-        },
-        {
           "url": "https://williamsinstitute.law.ucla.edu/research/health-and-hiv-aids/hiv-criminalization-in-california-penal-implications-for-people-living-with-hivaids/",
           "title": "Home - Williams Institute"
         },
         {
-          "url": "https://justiceforvets.org/wp-content/uploads/2017/03/RAND.pdf",
-          "title": "Justice for Vets - All Rise"
+          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.kdV4lB5ya",
+          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
         },
         {
-          "url": "https://nativegov.org/",
-          "title": "Sovereignty matters. Native Governance Center"
+          "url": "https://justiceforvets.org/wp-content/uploads/2017/03/RAND.pdf",
+          "title": "Justice for Vets - All Rise"
         },
         {
           "url": "http://nmccap.org/",
@@ -80,6 +76,10 @@
         {
           "url": "http://www.seafoodslaveryrisk.org/",
           "title": "Seafood Slavery Risk Tool"
+        },
+        {
+          "url": "https://nativegov.org/",
+          "title": "Sovereignty matters. Native Governance Center"
         },
         {
           "url": "https://www.prisonpolicy.org/reports/pie2019women.html",
@@ -108,64 +108,68 @@
           "title": "Home - Microsoft Developer Blogs"
         },
         {
-          "url": "https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html",
-          "title": "Training a Classifier - PyTorch Tutorials 2.8.0+cu128 documentation"
-        },
-        {
           "url": "https://www.tensorflow.org/hub/",
           "title": "TensorFlow Hub"
+        },
+        {
+          "url": "https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html",
+          "title": "Training a Classifier - PyTorch Tutorials 2.8.0+cu128 documentation"
         },
         {
           "url": "http://webonthefly.com/",
           "title": "WebOnTheFly - web content management and custom development for small business"
         },
         {
-          "url": "https://resources.github.com/devops/fundamentals/devsecops/",
-          "title": "What is DevSecOps? · GitHub"
-        },
-        {
           "url": "https://www.wix.com/",
           "title": "Website Builder - Create a Free Website In Minutes | Wix.com"
+        },
+        {
+          "url": "https://resources.github.com/devops/fundamentals/devsecops/",
+          "title": "What is DevSecOps? · GitHub"
         }
       ],
       "count": 9
     },
     {
-      "name": "education-and-research",
+      "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://htu.edu/academics/colleges/cas/dept-of-educator-preparation/african-american-male-teacher-initiative",
-          "title": "African American Male Teacher Initiative « Huston-Tillotson"
+          "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/",
+          "title": "500 Best Songs of All Time"
         },
         {
-          "url": "http://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Animal-Sciences/Animal-Production-Systems-Group.htm",
-          "title": "Animal Production Systems Group - WUR"
+          "url": "https://www.livexlive.com",
+          "title": "LiveOne - Music, Podcasts and more"
         },
         {
-          "url": "http://undergraduate.bulletins.psu.edu/undergraduate/colleges/engineering/civil-engineering-bs/#suggestedacademicplantext",
-          "title": "Civil Engineering, B.S. (Engineering) &vert Penn State"
+          "url": "https://www.metv.com/setmarket.php?marketID=192/",
+          "title": "MeTV - America's #1 Classic Television Network"
         },
         {
-          "url": "https://search.alexanderstreet.com/dncr/browse/content-type?f%5B0%5D=genre_hierarchy_facet%3ADance%7CBallet&f%5B1%5D=publishing_body_facet%3Amacfadden%20communications%20group%2AMacfadden%20Communications%20Group%7C64542&items_per_page=25&order=count&ajax=1&lazr_facet_popup%5Bfield%5D=genre_hierarchy_facet&lazr_facet_popup%5Breal_facet%5D=genre_hierarchy_facet&lazr_facet_popup%5Bpopup_title%5D=Dance&lazr_facet_popup%5Bhierarchy_filter%5D=Dance%7C",
-          "title": "Home - Alexander Street, part of Clarivate"
+          "url": "https://richeisenshow.com",
+          "title": "Rich Eisen Show - Official site of The Rich Eisen Show"
         },
         {
-          "url": "https://about.coursera.org/how-coursera-works/",
-          "title": "How does Coursera work? Get started on Coursera | Coursera"
+          "url": "https://www.vudu.com",
+          "title": "Service is not available in your region."
         },
         {
-          "url": "https://ims.ucsc.edu/about/directors-message.html",
-          "title": "Institute of Marine Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
+          "url": "https://www.flickr.com/photos/faonews/albums/",
+          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
         },
         {
-          "url": "https://wiktenauer.com/wiki/George_Silver",
-          "title": "George Silver ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
+          "url": "https://www.murfie.com",
+          "title": "The New Murfie"
+        },
+        {
+          "url": "http://worldofwonder.net/",
+          "title": "World of Wonder Productions"
         }
       ],
-      "count": 7
+      "count": 8
     },
     {
-      "name": "legal-and-policy",
+      "name": "legal-policy",
       "bookmarks": [
         {
           "url": "http://www.cleverbot.com/privacy",
@@ -192,86 +196,52 @@
           "title": "Terms of Use - December 14, 2023 - Patreon"
         },
         {
-          "url": "https://www.youronlinechoices.eu/",
-          "title": "Your Online Choices | EDAA"
-        },
-        {
           "url": "https://topgolf.com/us/company/privacy-policy/",
           "title": "You are being redirected..."
+        },
+        {
+          "url": "https://www.youronlinechoices.eu/",
+          "title": "Your Online Choices | EDAA"
         }
       ],
       "count": 8
     },
     {
-      "name": "media-and-entertainment",
+      "name": "education-research",
       "bookmarks": [
         {
-          "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/",
-          "title": "500 Best Songs of All Time"
+          "url": "https://htu.edu/academics/colleges/cas/dept-of-educator-preparation/african-american-male-teacher-initiative",
+          "title": "African American Male Teacher Initiative « Huston-Tillotson"
         },
         {
-          "url": "https://www.flickr.com/photos/faonews/albums/",
-          "title": "The Food and Agriculture Organization of the United Nations (FAO) Official Photostream's albums | Flickr"
+          "url": "http://www.wageningenur.nl/en/Expertise-Services/Chair-groups/Animal-Sciences/Animal-Production-Systems-Group.htm",
+          "title": "Animal Production Systems Group - WUR"
         },
         {
-          "url": "https://www.livexlive.com",
-          "title": "LiveOne - Music, Podcasts and more"
+          "url": "http://undergraduate.bulletins.psu.edu/undergraduate/colleges/engineering/civil-engineering-bs/#suggestedacademicplantext",
+          "title": "Civil Engineering, B.S. (Engineering) &vert Penn State"
         },
         {
-          "url": "https://www.metv.com/setmarket.php?marketID=192/",
-          "title": "MeTV - America's #1 Classic Television Network"
+          "url": "https://wiktenauer.com/wiki/George_Silver",
+          "title": "George Silver ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
         },
         {
-          "url": "https://richeisenshow.com",
-          "title": "Rich Eisen Show - Official site of The Rich Eisen Show"
+          "url": "https://search.alexanderstreet.com/dncr/browse/content-type?f%5B0%5D=genre_hierarchy_facet%3ADance%7CBallet&f%5B1%5D=publishing_body_facet%3Amacfadden%20communications%20group%2AMacfadden%20Communications%20Group%7C64542&items_per_page=25&order=count&ajax=1&lazr_facet_popup%5Bfield%5D=genre_hierarchy_facet&lazr_facet_popup%5Breal_facet%5D=genre_hierarchy_facet&lazr_facet_popup%5Bpopup_title%5D=Dance&lazr_facet_popup%5Bhierarchy_filter%5D=Dance%7C",
+          "title": "Home - Alexander Street, part of Clarivate"
         },
         {
-          "url": "https://www.murfie.com",
-          "title": "The New Murfie"
+          "url": "https://about.coursera.org/how-coursera-works/",
+          "title": "How does Coursera work? Get started on Coursera | Coursera"
         },
         {
-          "url": "https://www.vudu.com",
-          "title": "Service is not available in your region."
-        },
-        {
-          "url": "http://worldofwonder.net/",
-          "title": "World of Wonder Productions"
+          "url": "https://ims.ucsc.edu/about/directors-message.html",
+          "title": "Institute of Marine Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
         }
       ],
-      "count": 8
+      "count": 7
     },
     {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://www.commonsense.org",
-          "title": "Common Sense"
-        },
-        {
-          "url": "https://www.cct.org/",
-          "title": "Home - The Chicago Community Trust"
-        },
-        {
-          "url": "http://www.greatplacetowork.com/certified-company/7023741",
-          "title": "Working at Vera Institute of Justice | Great Place To Work®"
-        },
-        {
-          "url": "https://www.gnof.org/",
-          "title": "Greater New Orleans Foundation | Giving in Action"
-        },
-        {
-          "url": "https://www.unwto.org/",
-          "title": "UN Tourism | Bringing the world closer"
-        },
-        {
-          "url": "http://waittinstitute.org/",
-          "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "shopping-and-products",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://smile.amazon.com/",
@@ -305,7 +275,37 @@
       "count": 7
     },
     {
-      "name": "art-and-design",
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://www.commonsense.org",
+          "title": "Common Sense"
+        },
+        {
+          "url": "https://www.gnof.org/",
+          "title": "Greater New Orleans Foundation | Giving in Action"
+        },
+        {
+          "url": "https://www.cct.org/",
+          "title": "Home - The Chicago Community Trust"
+        },
+        {
+          "url": "https://www.unwto.org/",
+          "title": "UN Tourism | Bringing the world closer"
+        },
+        {
+          "url": "http://waittinstitute.org/",
+          "title": "Waitt Institute | Blue Prosperity and Sustainable Ocean Management"
+        },
+        {
+          "url": "http://www.greatplacetowork.com/certified-company/7023741",
+          "title": "Working at Vera Institute of Justice | Great Place To Work®"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "art-design",
       "bookmarks": [
         {
           "url": "https://www.chuldenkopaintings.com/about",
@@ -331,15 +331,11 @@
       "count": 5
     },
     {
-      "name": "blogs-and-personal",
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://stuff-that-interests-me.tumblr.com/",
           "title": "@stuff-that-interests-me on Tumblr"
-        },
-        {
-          "url": "https://acs782.tumblr.com/",
-          "title": "Stuff"
         },
         {
           "url": "https://perspectivebookseries.com/tag/amazon-canada/",
@@ -352,9 +348,35 @@
         {
           "url": "https://numbzie.tumblr.com/",
           "title": "Nothing. A big steaming pile of it."
+        },
+        {
+          "url": "https://acs782.tumblr.com/",
+          "title": "Stuff"
         }
       ],
       "count": 5
+    },
+    {
+      "name": "data-science",
+      "bookmarks": [
+        {
+          "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series",
+          "title": "Climate at a Glance | Global Time Series | National Centers for Environmental Information (NCEI)"
+        },
+        {
+          "url": "http://link.springer.com/journal/10485",
+          "title": "Home | Applied Categorical Structures"
+        },
+        {
+          "url": "https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni",
+          "title": "Nino SST Indices (Nino 1+2, 3, 3.4, 4; ONI and TNI) | Climate Data Guide"
+        },
+        {
+          "url": "https://csdap.earthdata.nasa.gov/",
+          "title": "Satellite Data Explorer"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "events-conferences",
@@ -379,7 +401,7 @@
       "count": 4
     },
     {
-      "name": "government-and-legislation",
+      "name": "government-legislation",
       "bookmarks": [
         {
           "url": "https://covid19.ca.gov/",
@@ -401,7 +423,7 @@
       "count": 4
     },
     {
-      "name": "guides-and-recipes",
+      "name": "guides-recipes",
       "bookmarks": [
         {
           "url": "http://brokenjawtips.com/",
@@ -423,28 +445,6 @@
       "count": 4
     },
     {
-      "name": "science-and-data",
-      "bookmarks": [
-        {
-          "url": "http://link.springer.com/journal/10485",
-          "title": "Home | Applied Categorical Structures"
-        },
-        {
-          "url": "https://climatedataguide.ucar.edu/climate-data/nino-sst-indices-nino-12-3-34-4-oni-and-tni",
-          "title": "Nino SST Indices (Nino 1+2, 3, 3.4, 4; ONI and TNI) | Climate Data Guide"
-        },
-        {
-          "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series",
-          "title": "Climate at a Glance | Global Time Series | National Centers for Environmental Information (NCEI)"
-        },
-        {
-          "url": "https://csdap.earthdata.nasa.gov/",
-          "title": "Satellite Data Explorer"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "web-archive",
       "bookmarks": [
         {
@@ -456,18 +456,18 @@
           "title": "300 Multiple Choices"
         },
         {
-          "url": "http://psychologyofconversions.com/",
-          "title": "void"
-        },
-        {
           "url": "http://twitpic.com/2xbppo",
           "title": "Twitpic"
+        },
+        {
+          "url": "http://psychologyofconversions.com/",
+          "title": "void"
         }
       ],
       "count": 4
     },
     {
-      "name": "business-and-finance",
+      "name": "business-finance",
       "bookmarks": [
         {
           "url": "http://www.diyappreview.com",
@@ -492,12 +492,12 @@
           "title": "Milfs Dating, Gratis Sex met een Milf"
         },
         {
-          "url": "http://ginrummytournaments.com/",
-          "title": "WSOGR"
-        },
-        {
           "url": "https://news.nationalgeographic.com/2018/02/global-industrial-fishing-footprint-spd/?beta=true",
           "title": "National Geographic | National Geographic"
+        },
+        {
+          "url": "http://ginrummytournaments.com/",
+          "title": "WSOGR"
         }
       ],
       "count": 3
@@ -521,7 +521,7 @@
       "count": 3
     },
     {
-      "name": "software-and-apps",
+      "name": "software-apps",
       "bookmarks": [
         {
           "url": "https://www.amiga-news.de/en/news/AN-2008-08-00002-EN.html",
@@ -537,20 +537,6 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "sports",
-      "bookmarks": [
-        {
-          "url": "http://www.legaseriea.it/en",
-          "title": "Lega Serie A | Home"
-        },
-        {
-          "url": "https://www.pgatour.com/player/08793/tiger-woods/career",
-          "title": "Tiger Woods PGA TOUR Player Profile, Stats, Bio, Career"
-        }
-      ],
-      "count": 2
     },
     {
       "name": "travel",
@@ -569,6 +555,20 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "sports",
+      "bookmarks": [
+        {
+          "url": "http://www.legaseriea.it/en",
+          "title": "Lega Serie A | Home"
+        },
+        {
+          "url": "https://www.pgatour.com/player/08793/tiger-woods/career",
+          "title": "Tiger Woods PGA TOUR Player Profile, Stats, Bio, Career"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 111,

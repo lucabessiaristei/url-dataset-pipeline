@@ -12,10 +12,6 @@
           "title": "Be Like Ada - What % of STEM Should Be Computer Science?"
         },
         {
-          "url": "https://docs.carto.com/",
-          "title": "Welcome | CARTO Documentation"
-        },
-        {
           "url": "http://www.chemguide.co.uk/",
           "title": "chemguide: helping you to understand Chemistry - Main Menu"
         },
@@ -50,6 +46,10 @@
         {
           "url": "https://manjaro.fr/forum/viewforum.php?f=18&sid=a5441c61340bdc5a3dce826924861a3d",
           "title": "Trucs & Astuces -"
+        },
+        {
+          "url": "https://docs.carto.com/",
+          "title": "Welcome | CARTO Documentation"
         }
       ],
       "count": 12
@@ -62,16 +62,12 @@
           "title": "'Mean Girls' Star Stephanie Bissonnette Shares Her Amazing Story, from Cancer to Returning to the Broadway Stage - SurvivorNet"
         },
         {
-          "url": "https://www.dodho.com",
-          "title": "Home | Dodho"
-        },
-        {
           "url": "https://handsapt.tumblr.com/",
           "title": "hands_apt"
         },
         {
-          "url": "https://www.motogp.com/en/teams",
-          "title": "Teams | MotoGP™"
+          "url": "https://www.dodho.com",
+          "title": "Home | Dodho"
         },
         {
           "url": "https://www.mysticaquarium.org/",
@@ -88,6 +84,10 @@
         {
           "url": "https://www.visionsdureel.ch/photo-video/2021/surfaces-cristina-motta/",
           "title": "Surfaces - Cristina Motta - Visions du Réel"
+        },
+        {
+          "url": "https://www.motogp.com/en/teams",
+          "title": "Teams | MotoGP™"
         },
         {
           "url": "http://thebroadwaycruise.com/",
@@ -147,7 +147,7 @@
       "count": 9
     },
     {
-      "name": "retail-products-services",
+      "name": "products-retail-services",
       "bookmarks": [
         {
           "url": "https://www.captainds.com",
@@ -185,7 +185,7 @@
       "count": 8
     },
     {
-      "name": "software-business-tools",
+      "name": "business-software-tools",
       "bookmarks": [
         {
           "url": "https://builtwith.com/",

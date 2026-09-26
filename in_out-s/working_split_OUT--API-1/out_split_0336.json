@@ -55,7 +55,7 @@
       "count": 12
     },
     {
-      "name": "academic-government-resources",
+      "name": "government-academic-resources",
       "bookmarks": [
         {
           "url": "http://www.agronomy.org/",
@@ -101,15 +101,15 @@
       "count": 10
     },
     {
-      "name": "career-business-resources",
+      "name": "business-career-resources",
       "bookmarks": [
-        {
-          "url": "https://acmemarine.com/products/acme-propeller-1635",
-          "title": "ACME 1635 20.00\" x 20.00\" Cruiser 4-Blade Propeller - ACME Marine"
-        },
         {
           "url": "https://jobs.accaglobal.com/?utm_source=ACCAglobal&utm_medium=referral&utm_campaign=footer",
           "title": "ACCA Careers | jobs | Choose from 26,089 live vacancies"
+        },
+        {
+          "url": "https://acmemarine.com/products/acme-propeller-1635",
+          "title": "ACME 1635 20.00\" x 20.00\" Cruiser 4-Blade Propeller - ACME Marine"
         },
         {
           "url": "https://www.gallupatwork.com/",
@@ -169,7 +169,7 @@
       "count": 7
     },
     {
-      "name": "non-profit-advocacy",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
         {
           "url": "https://www.beaconinterfaith.org/",
@@ -229,6 +229,28 @@
       "count": 6
     },
     {
+      "name": "corporate-privacy-policy",
+      "bookmarks": [
+        {
+          "url": "https://getchannels.com/privacy/",
+          "title": "Channels - Privacy Policy"
+        },
+        {
+          "url": "https://wagcco.my.salesforce-sites.com/pkb2/articles/en_US/Information/Walgreens-photo-center-Return--Refund-Policy/?l=en_US&fs=Search&pn=1",
+          "title": "Photo Help - Walgreens Photo Center Return & Refund Policy"
+        },
+        {
+          "url": "https://www.phoneduo.app/privacy.html",
+          "title": "Privacy"
+        },
+        {
+          "url": "https://celebrityvoicechanger.com/privacy",
+          "title": "Privacy Policy"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "educational-learning-guides",
       "bookmarks": [
         {
@@ -254,10 +276,6 @@
       "name": "food-nutrition",
       "bookmarks": [
         {
-          "url": "https://hallbart.stockholm/ata-dricka/",
-          "title": "Äta och dricka - Stockholms stad"
-        },
-        {
           "url": "http://www.nutriente.it/",
           "title": "nutriente.it"
         },
@@ -268,28 +286,10 @@
         {
           "url": "http://us.chinesemenu.com/us/deerfield-beach-fl-33442/szechuan-city/",
           "title": "Szechuan City - Deerfield Beach - Online Coupons, Specials, Discounts. Order Asian, Chinese Food - ChineseMenu.com"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "privacy-corporate-policies",
-      "bookmarks": [
-        {
-          "url": "https://getchannels.com/privacy/",
-          "title": "Channels - Privacy Policy"
         },
         {
-          "url": "https://wagcco.my.salesforce-sites.com/pkb2/articles/en_US/Information/Walgreens-photo-center-Return--Refund-Policy/?l=en_US&fs=Search&pn=1",
-          "title": "Photo Help - Walgreens Photo Center Return & Refund Policy"
-        },
-        {
-          "url": "https://www.phoneduo.app/privacy.html",
-          "title": "Privacy"
-        },
-        {
-          "url": "https://celebrityvoicechanger.com/privacy",
-          "title": "Privacy Policy"
+          "url": "https://hallbart.stockholm/ata-dricka/",
+          "title": "Äta och dricka - Stockholms stad"
         }
       ],
       "count": 4
@@ -335,19 +335,19 @@
       "count": 3
     },
     {
-      "name": "crafts-hobbies",
+      "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://www.purlsoho.com/create/category/knit/",
-          "title": "All Knitting Patterns: Free + Paid Patterns | Purl Soho"
+          "url": "https://www.sagawards.org/fyc/iamanactor",
+          "title": "23rd I AM AN ACTOR | Screen Actors Guild Awards"
         },
         {
-          "url": "https://cicitive.dk/tag/jul/",
-          "title": "jul Arkiv - Cicitive"
+          "url": "https://xplorela.com/2012/07/20/the-los-angeles-arboretum-botanical-garden/",
+          "title": "ANEKA4D | Situs Slot Thailand Paling Gacor Yang Penuh Dengan Pola Gacor"
         },
         {
-          "url": "https://www.thephotoargus.com",
-          "title": "The Photo Argus - Fresh photography ideas, useful tips and creative inspiration."
+          "url": "https://www.hulu.com/live-tv",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
         }
       ],
       "count": 3
@@ -371,19 +371,19 @@
       "count": 3
     },
     {
-      "name": "media-entertainment",
+      "name": "hobbies-crafts",
       "bookmarks": [
         {
-          "url": "https://www.sagawards.org/fyc/iamanactor",
-          "title": "23rd I AM AN ACTOR | Screen Actors Guild Awards"
+          "url": "https://www.purlsoho.com/create/category/knit/",
+          "title": "All Knitting Patterns: Free + Paid Patterns | Purl Soho"
         },
         {
-          "url": "https://xplorela.com/2012/07/20/the-los-angeles-arboretum-botanical-garden/",
-          "title": "ANEKA4D | Situs Slot Thailand Paling Gacor Yang Penuh Dengan Pola Gacor"
+          "url": "https://cicitive.dk/tag/jul/",
+          "title": "jul Arkiv - Cicitive"
         },
         {
-          "url": "https://www.hulu.com/live-tv",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+          "url": "https://www.thephotoargus.com",
+          "title": "The Photo Argus - Fresh photography ideas, useful tips and creative inspiration."
         }
       ],
       "count": 3

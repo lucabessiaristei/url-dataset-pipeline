@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "technology-and-web-resources",
+      "name": "technology-web-resources",
       "bookmarks": [
         {
           "url": "https://wellbeing.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
@@ -106,12 +106,12 @@
           "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
         },
         {
-          "url": "https://tedatwork.ted.com",
-          "title": "TED@Work : Inspire new ways of working"
-        },
-        {
           "url": "https://info.microsoft.com/ww-landing-Contact-Microsoft-Education-website.html?lcid=en-us",
           "title": "Tecnologia e software per istituti di istruzione | Microsoft Education"
+        },
+        {
+          "url": "https://tedatwork.ted.com",
+          "title": "TED@Work : Inspire new ways of working"
         }
       ],
       "count": 9
@@ -155,23 +155,23 @@
       "count": 8
     },
     {
-      "name": "arts-culture-and-hobbies",
+      "name": "arts-culture-hobbies",
       "bookmarks": [
         {
-          "url": "https://www.birdforum.net/threads/birdsong-identification-tips.377063/",
-          "title": "Taita Falcon stake out at JD Strijdom tunnel: still reliable? | BirdForum"
+          "url": "https://www.manhattantheatreclub.com/",
+          "title": "Home Page - Manhattan Theatre Club"
         },
         {
           "url": "https://hroarr.com/",
           "title": "HROARR | Resources for the Historical European Martial Arts & Sports Community"
         },
         {
-          "url": "https://www.manhattantheatreclub.com/",
-          "title": "Home Page - Manhattan Theatre Club"
-        },
-        {
           "url": "http://www.people.com/tag/marlon-brando/",
           "title": "Marlon Brando"
+        },
+        {
+          "url": "https://www.birdforum.net/threads/birdsong-identification-tips.377063/",
+          "title": "Taita Falcon stake out at JD Strijdom tunnel: still reliable? | BirdForum"
         },
         {
           "url": "https://www.universparticulier.be/",
@@ -185,7 +185,7 @@
       "count": 6
     },
     {
-      "name": "travel-and-tourism",
+      "name": "travel-tourism",
       "bookmarks": [
         {
           "url": "https://www.uffizi.it/biglietti",
@@ -215,29 +215,7 @@
       "count": 6
     },
     {
-      "name": "company-and-product-info",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw-pakistan.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW New Car Dealer | Pakistan | BMW Dewan"
-        },
-        {
-          "url": "https://mabanque.bnpparibas/en/home",
-          "title": "BNP Paribas | The bank for a changing world"
-        },
-        {
-          "url": "https://www.stylishstorage.com.au/collections/bathroom/bedroom",
-          "title": "Bathroom - Stylish Storage"
-        },
-        {
-          "url": "https://www.ins4fl.com/insurance-companies/chubb-group/",
-          "title": "Your Local Apopka Chubb Group Agency | DeClue Brothers Insurance Solutions"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "news-and-articles",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://www.rosslynva.org/feature/rosslyn-refresh",
@@ -278,15 +256,37 @@
           "title": "Home - Welcoming America"
         },
         {
-          "url": "http://www.rwjf.org/",
-          "title": "Robert Wood Johnson Foundation | RWJF"
-        },
-        {
           "url": "https://www.cfgnh.org/articles/job-training-education-friendship-and-a-voice",
           "title": "Job Training,... | The Community Foundation for Greater New Haven"
+        },
+        {
+          "url": "http://www.rwjf.org/",
+          "title": "Robert Wood Johnson Foundation | RWJF"
         }
       ],
       "count": 5
+    },
+    {
+      "name": "companies-products-info",
+      "bookmarks": [
+        {
+          "url": "https://www.stylishstorage.com.au/collections/bathroom/bedroom",
+          "title": "Bathroom - Stylish Storage"
+        },
+        {
+          "url": "https://www.bmw-pakistan.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW New Car Dealer | Pakistan | BMW Dewan"
+        },
+        {
+          "url": "https://mabanque.bnpparibas/en/home",
+          "title": "BNP Paribas | The bank for a changing world"
+        },
+        {
+          "url": "https://www.ins4fl.com/insurance-companies/chubb-group/",
+          "title": "Your Local Apopka Chubb Group Agency | DeClue Brothers Insurance Solutions"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "general-reference-information",
@@ -311,7 +311,7 @@
       "count": 4
     },
     {
-      "name": "blogs-and-personal-sites",
+      "name": "blogs-personal-sites",
       "bookmarks": [
         {
           "url": "https://l-elizabethstewart.com/2019/09/06/21-illogical-instructions-part-2-noah-a-move-of-god/",
@@ -329,7 +329,7 @@
       "count": 3
     },
     {
-      "name": "government-and-policy",
+      "name": "government-policy",
       "bookmarks": [
         {
           "url": "https://consumer.ftc.gov/consumer-alerts",
@@ -347,7 +347,7 @@
       "count": 3
     },
     {
-      "name": "health-and-regulatory-info",
+      "name": "health-regulatory-info",
       "bookmarks": [
         {
           "url": "https://www.diabetes.org",

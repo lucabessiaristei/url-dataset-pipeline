@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "hobby-interests",
+      "name": "hobbies-interests",
       "bookmarks": [
         {
           "url": "https://www.anticariat-ezoteric.ro/",
@@ -16,16 +16,16 @@
           "title": "Minecraft: How to Build a Modern House - Easy Tutorial - YouTube | Modern minecraft houses, Minecraft modern, Minecraft house designs"
         },
         {
-          "url": "https://postermemorabilia.com/zh-cn/products/sanandreas",
-          "title": "San Andreas Signed Poster with COA"
+          "url": "http://www.ricettarioitaliano.com/",
+          "title": "Ricettario Italiano - Benvenuti!"
         },
         {
           "url": "http://ricettedalmondo.blogspot.com/",
           "title": "Ricette dal Mondo"
         },
         {
-          "url": "http://www.ricettarioitaliano.com/",
-          "title": "Ricettario Italiano - Benvenuti!"
+          "url": "https://postermemorabilia.com/zh-cn/products/sanandreas",
+          "title": "San Andreas Signed Poster with COA"
         },
         {
           "url": "https://gardening.stackexchange.com/help/badges/2/student?userid=29656",
@@ -38,16 +38,16 @@
       "name": "business-services",
       "bookmarks": [
         {
-          "url": "https://btseventmanagement.com/",
-          "title": "Home - BTS Event Management"
-        },
-        {
           "url": "http://www.corbindesign.com/",
           "title": "Corbin Design: The Wayfinding Experts"
         },
         {
           "url": "http://www.district-360.com/",
           "title": "CRM Software for Downtown Districts | Business Improvement Downtown Districts"
+        },
+        {
+          "url": "https://btseventmanagement.com/",
+          "title": "Home - BTS Event Management"
         },
         {
           "url": "https://east.co",
@@ -64,24 +64,24 @@
       "name": "government-resources",
       "bookmarks": [
         {
-          "url": "https://www.cbs.nl/en-gb/our-services/open-data",
-          "title": "Open data | CBS"
+          "url": "https://www.deq.ok.gov/land-protection-division/recycling/computer-equipment-recycling/",
+          "title": "Environmental Quality Department (292)"
+        },
+        {
+          "url": "https://sustainabledevelopment.un.org/sdg14",
+          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
         },
         {
           "url": "https://cordis.europa.eu/project/rcn/204036/results/en",
           "title": "Making a yeast-based candidate vaccine against Porcine Epidemic Diarrhea Virus (PEDV) | PIGYVAX | Project | Results | H2020 | CORDIS | European Commission"
         },
         {
-          "url": "https://www.deq.ok.gov/land-protection-division/recycling/computer-equipment-recycling/",
-          "title": "Environmental Quality Department (292)"
-        },
-        {
           "url": "https://ncbiinsights.ncbi.nlm.nih.gov/",
           "title": "NCBI Insights - News about NCBI resources and events"
         },
         {
-          "url": "https://sustainabledevelopment.un.org/sdg14",
-          "title": "Goal 14 .:. Sustainable Development Knowledge Platform"
+          "url": "https://www.cbs.nl/en-gb/our-services/open-data",
+          "title": "Open data | CBS"
         }
       ],
       "count": 5
@@ -113,7 +113,7 @@
       "count": 5
     },
     {
-      "name": "tech-documentation-support",
+      "name": "tech-support-documentation",
       "bookmarks": [
         {
           "url": "https://bmo.readthedocs.io/en/latest/",
@@ -142,8 +142,8 @@
       "name": "business-corporate",
       "bookmarks": [
         {
-          "url": "http://www.afis.gr",
-          "title": "Αρχική - ΑΦΗΣ"
+          "url": "https://www.samsung-climatesolutions.com/en-gb/b2c.html",
+          "title": "Climate Control Systems for Home | Samsung Climate Solutions UK"
         },
         {
           "url": "https://fingersoft.com/",
@@ -154,14 +154,14 @@
           "title": "Ανταλλακτήρια Συναλλάγματος Θεσσαλονίκη | Money Station Exchange"
         },
         {
-          "url": "https://www.samsung-climatesolutions.com/en-gb/b2c.html",
-          "title": "Climate Control Systems for Home | Samsung Climate Solutions UK"
+          "url": "http://www.afis.gr",
+          "title": "Αρχική - ΑΦΗΣ"
         }
       ],
       "count": 4
     },
     {
-      "name": "non-profit-charity",
+      "name": "nonprofit-charity",
       "bookmarks": [
         {
           "url": "https://www.accessability.org/",
@@ -183,24 +183,6 @@
       "count": 4
     },
     {
-      "name": "education-organizations",
-      "bookmarks": [
-        {
-          "url": "https://centrodeidiomas.cientifica.edu.pe/",
-          "title": "Centro de Idiomas | Universidad Científica del Sur"
-        },
-        {
-          "url": "https://www.eccchicago.org/",
-          "title": "Everyone Can Code Chicago - Everyone Can Code Chicago"
-        },
-        {
-          "url": "http://www.qac.ac.uk/",
-          "title": "QAC Queen Alexandra College Birmingham - National college for people with disabilities."
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "news-media",
       "bookmarks": [
         {
@@ -214,6 +196,24 @@
         {
           "url": "https://www.lefigaro.fr/international",
           "title": "Le Figaro - International : Actualité internationale en direct"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "organizations-education",
+      "bookmarks": [
+        {
+          "url": "https://centrodeidiomas.cientifica.edu.pe/",
+          "title": "Centro de Idiomas | Universidad Científica del Sur"
+        },
+        {
+          "url": "https://www.eccchicago.org/",
+          "title": "Everyone Can Code Chicago - Everyone Can Code Chicago"
+        },
+        {
+          "url": "http://www.qac.ac.uk/",
+          "title": "QAC Queen Alexandra College Birmingham - National college for people with disabilities."
         }
       ],
       "count": 3

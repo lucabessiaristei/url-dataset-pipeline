@@ -4,10 +4,6 @@
       "name": "news-articles",
       "bookmarks": [
         {
-          "url": "http://zikever.over-blog.com/2013/11/decouvrez-le-nouveau-clip-de-lindsay-starling.html",
-          "title": "Lindsey Stirling : découvrez son nouveau clip \"Minimal Beat\" ! - Zik' Ever"
-        },
-        {
           "url": "https://fox11online.com/news/local/green-bay/fox-11-obtains-green-bay-city-hall-surveillance-recording",
           "title": "FOX 11 obtains Green Bay City Hall surveillance recording"
         },
@@ -18,6 +14,10 @@
         {
           "url": "https://co.fashionnetwork.com/tags/news/la-mer.html",
           "title": "La Mer : Noticias - FashionNetwork.com Colombia"
+        },
+        {
+          "url": "http://zikever.over-blog.com/2013/11/decouvrez-le-nouveau-clip-de-lindsay-starling.html",
+          "title": "Lindsey Stirling : découvrez son nouveau clip \"Minimal Beat\" ! - Zik' Ever"
         },
         {
           "url": "https://www.kdrtv.co.ke/news/accident-otile-brown-hit-boda-boda-operators-outside-city-club/",
@@ -89,7 +89,7 @@
       "count": 9
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "http://www.adb.org",
@@ -201,7 +201,7 @@
       "count": 4
     },
     {
-      "name": "tech-legal-privacy",
+      "name": "privacy-legal-tech",
       "bookmarks": [
         {
           "url": "https://operations.osmfoundation.org/policies/api/",
@@ -221,24 +221,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://deelovescode.tumblr.com/",
-          "title": "@deelovescode on Tumblr"
-        },
-        {
-          "url": "https://voltair355.tumblr.com/",
-          "title": "Dr B"
-        },
-        {
-          "url": "https://jacobjoaquin.tumblr.com/",
-          "title": "The Old School"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "education-research",
@@ -272,6 +254,24 @@
         {
           "url": "https://www.giveusashout.org/",
           "title": "Shout: The UK's free, confidential, 24/7 mental health text service | Shout 85258"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://deelovescode.tumblr.com/",
+          "title": "@deelovescode on Tumblr"
+        },
+        {
+          "url": "https://voltair355.tumblr.com/",
+          "title": "Dr B"
+        },
+        {
+          "url": "https://jacobjoaquin.tumblr.com/",
+          "title": "The Old School"
         }
       ],
       "count": 3

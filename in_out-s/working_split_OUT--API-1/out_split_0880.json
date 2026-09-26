@@ -1,19 +1,49 @@
 {
   "folders": [
     {
+      "name": "education-academic-resources",
+      "bookmarks": [
+        {
+          "url": "https://generalspace.ggc.edu/handle/10675.3/607660/browse?type=author",
+          "title": "DSpace"
+        },
+        {
+          "url": "https://research.mines.edu/",
+          "title": "Home - Research and Technology Transfer"
+        },
+        {
+          "url": "https://www.ucsb.edu/",
+          "title": "Home | UC Santa Barbara"
+        },
+        {
+          "url": "https://libguides.ala.org/ala-periodicals",
+          "title": "Index of Titles - American Library Association Periodicals - LibGuides at American Library Association"
+        },
+        {
+          "url": "https://career.engr.psu.edu/students/index.aspx",
+          "title": "index | Penn State Engineering"
+        },
+        {
+          "url": "http://www.agclassroom.org/",
+          "title": "National Agriculture in the Classroom"
+        },
+        {
+          "url": "http://ec.ala.org/membership/join",
+          "title": "Store"
+        },
+        {
+          "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3",
+          "title": "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics - American Economic Association"
+        }
+      ],
+      "count": 8
+    },
+    {
       "name": "news-current-events-media",
       "bookmarks": [
         {
-          "url": "https://theaircurrent.com/",
-          "title": "The Air Current"
-        },
-        {
           "url": "https://time.com/5866881/al-gore-climate-trace-emissions/",
           "title": "Al Gore's New Project, 'Climate Trace,' Will Track Emissions | TIME"
-        },
-        {
-          "url": "https://www.apnews.com/hub/world-news",
-          "title": "World News: Top & Breaking World News Today | AP News"
         },
         {
           "url": "https://cricblog.net/",
@@ -24,16 +54,24 @@
           "title": "GitHub Universe 2025"
         },
         {
-          "url": "https://www.kdrtv.co.ke/news/accident-otile-brown-hit-boda-boda-operators-outside-city-club/",
-          "title": "Otile Brown Hit Boda Boda Operators Outside City Club"
+          "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
+          "title": "Latest World & National News & Headlines - USATODAY.com"
         },
         {
           "url": "https://myignite.microsoft.com/",
           "title": "Microsoft Ignite - November 18-21, 2025"
         },
         {
-          "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
-          "title": "Latest World & National News & Headlines - USATODAY.com"
+          "url": "https://www.kdrtv.co.ke/news/accident-otile-brown-hit-boda-boda-operators-outside-city-club/",
+          "title": "Otile Brown Hit Boda Boda Operators Outside City Club"
+        },
+        {
+          "url": "https://theaircurrent.com/",
+          "title": "The Air Current"
+        },
+        {
+          "url": "https://www.apnews.com/hub/world-news",
+          "title": "World News: Top & Breaking World News Today | AP News"
         }
       ],
       "count": 8
@@ -88,65 +126,27 @@
           "title": "Blodiga trollformler | Institutet för språk och folkminnen"
         },
         {
-          "url": "https://nmaahc.si.edu/kwanzaa",
-          "title": "Kwanzaa | National Museum of African American History and Culture"
-        },
-        {
           "url": "https://archive.vaclavhavel-library.org/Archive/BookCatalogue?author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Ji%C5%99%C3%AD%20Dienstbier&author=Krystyna%20Krauzeauthor=Pavel%20Landovsk%C3%BD&author=Ji%C5%99%C3%AD%20Dienstbierauthor=V%C3%A1clav%20Havel&author=Pavel%20Landovsk%C3%BDsort=2&lang=cs",
           "title": "Knihovna Václava Havla"
+        },
+        {
+          "url": "https://nmaahc.si.edu/kwanzaa",
+          "title": "Kwanzaa | National Museum of African American History and Culture"
         },
         {
           "url": "https://www.namenforschung.net/dfd/woerterbuch/liste/?tx_dfd_names%5Baction%5D=list&tx_dfd_names%5Bcontroller%5D=Names&tx_dfd_names%5Bquery%5D=&tx_dfd_names%5BallSelectedFacets%5D%5B0%5D=201&tx_dfd_names%5BallSelectedFacets%5D%5B1%5D=322&tx_dfd_names%5BallSelectedFacets%5D%5B2%5D=269&cHash=08017f487a918d43e58e37ef9aa339f0",
           "title": "Liste : Digitales Familiennamenwörterbuch Deutschlands (DFD) : Namenforschung.net"
         },
         {
-          "url": "https://antologiaspoeticas.com/tag/oh-mar/",
-          "title": "Oh Mar | Antologias Poéticas"
-        },
-        {
           "url": "https://www.museoscienza.org/it/visita",
           "title": "Museo Nazionale della Scienza e della Tecnologia"
+        },
+        {
+          "url": "https://antologiaspoeticas.com/tag/oh-mar/",
+          "title": "Oh Mar | Antologias Poéticas"
         }
       ],
       "count": 7
-    },
-    {
-      "name": "education-academic-resources",
-      "bookmarks": [
-        {
-          "url": "http://www.agclassroom.org/",
-          "title": "National Agriculture in the Classroom"
-        },
-        {
-          "url": "https://career.engr.psu.edu/students/index.aspx",
-          "title": "index | Penn State Engineering"
-        },
-        {
-          "url": "https://libguides.ala.org/ala-periodicals",
-          "title": "Index of Titles - American Library Association Periodicals - LibGuides at American Library Association"
-        },
-        {
-          "url": "https://research.mines.edu/",
-          "title": "Home - Research and Technology Transfer"
-        },
-        {
-          "url": "http://ec.ala.org/membership/join",
-          "title": "Store"
-        },
-        {
-          "url": "https://www.ucsb.edu/",
-          "title": "Home | UC Santa Barbara"
-        },
-        {
-          "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3",
-          "title": "The Credibility Revolution in Empirical Economics: How Better Research Design Is Taking the Con out of Econometrics - American Economic Association"
-        },
-        {
-          "url": "https://generalspace.ggc.edu/handle/10675.3/607660/browse?type=author",
-          "title": "DSpace"
-        }
-      ],
-      "count": 8
     },
     {
       "name": "dev-software-tools-platforms",
@@ -186,20 +186,20 @@
           "title": "Candle Holders - Dave Ameika Pottery"
         },
         {
-          "url": "https://www.finescale.com/how-to/sea",
-          "title": "Oops, Something Went Wrong! | Finescale Modeler Magazine"
-        },
-        {
-          "url": "https://www.finescale.com/how-to/ships",
-          "title": "Oops, Something Went Wrong! | Finescale Modeler Magazine"
-        },
-        {
           "url": "https://www.lifeofpix.com/",
           "title": "Free high resolution photography | Life of Pix"
         },
         {
           "url": "https://www.instructables.com/Kites/",
           "title": "Kites - Instructables"
+        },
+        {
+          "url": "https://www.finescale.com/how-to/sea",
+          "title": "Oops, Something Went Wrong! | Finescale Modeler Magazine"
+        },
+        {
+          "url": "https://www.finescale.com/how-to/ships",
+          "title": "Oops, Something Went Wrong! | Finescale Modeler Magazine"
         },
         {
           "url": "https://theawesomer.com/the-chapel-hdr-timelapse/85230/",
@@ -212,28 +212,28 @@
       "name": "music-film-entertainment",
       "bookmarks": [
         {
-          "url": "https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=418&itscg=10000&itsct=mus-0-try_it_free-ipad-apl-220405",
-          "title": "Connecting to Apple Music"
+          "url": "https://www.upi.com/Entertainment_News/2004/05/04/ABC-fires-Lisa-Guerrero-from-football-gig/67291083696468/",
+          "title": "ABC fires Lisa Guerrero from football gig - UPI.com"
         },
         {
-          "url": "http://beatlesource.com/bs/ae-boy2.html",
-          "title": "THE SOURCE - Acetates - E.M.I. - This Boy"
+          "url": "https://music.apple.com/deeplink?app=music&p=subscribe&at=1000l4QJ&ct=418&itscg=10000&itsct=mus-0-try_it_free-ipad-apl-220405",
+          "title": "Connecting to Apple Music"
         },
         {
           "url": "https://www.billboard.com/music/country/makin-tracks-maren-morris-i-cant-love-you-anymore-1235164375/",
           "title": "Makin' Tracks: Maren Morris Turns a Spat Into an Upbeat Single With 'I Can't Love You Anymore'"
         },
         {
-          "url": "https://www.boxofficemojo.com/release/rl2500036097/",
-          "title": "Top Gun: Maverick - Box Office Mojo"
-        },
-        {
-          "url": "https://www.upi.com/Entertainment_News/2004/05/04/ABC-fires-Lisa-Guerrero-from-football-gig/67291083696468/",
-          "title": "ABC fires Lisa Guerrero from football gig - UPI.com"
-        },
-        {
           "url": "https://www.billedbladet.dk/kongelige/sverige/se-med-victoria-viser-sine-funklende-diademer-frem-0",
           "title": "Se med: Victoria viser sine funklende diademer frem | BILLED-BLADET"
+        },
+        {
+          "url": "http://beatlesource.com/bs/ae-boy2.html",
+          "title": "THE SOURCE - Acetates - E.M.I. - This Boy"
+        },
+        {
+          "url": "https://www.boxofficemojo.com/release/rl2500036097/",
+          "title": "Top Gun: Maverick - Box Office Mojo"
         }
       ],
       "count": 6
@@ -241,6 +241,10 @@
     {
       "name": "personal-blogs-writing",
       "bookmarks": [
+        {
+          "url": "https://soyjugadodeboca.tumblr.com/",
+          "title": "@soyjugadodeboca on Tumblr"
+        },
         {
           "url": "http://bebehblog.com/carolines-nursery/",
           "title": "Caroline's Nursery - bebehblog"
@@ -254,16 +258,12 @@
           "title": "Into The Night Photography"
         },
         {
-          "url": "https://pushing-the-mower.tumblr.com/",
-          "title": "Pushing the mower"
-        },
-        {
-          "url": "https://soyjugadodeboca.tumblr.com/",
-          "title": "@soyjugadodeboca on Tumblr"
-        },
-        {
           "url": "https://whomstplantdaddy.tumblr.com/",
           "title": "Oh hai :3"
+        },
+        {
+          "url": "https://pushing-the-mower.tumblr.com/",
+          "title": "Pushing the mower"
         }
       ],
       "count": 6
@@ -272,16 +272,12 @@
       "name": "consumer-business-finance",
       "bookmarks": [
         {
-          "url": "https://www.capitalone.ca/",
-          "title": "Secured, Guaranteed and Rewards Credit Cards | Capital One Canada"
+          "url": "https://sail-invia.com/ich-hasse-paypal/",
+          "title": "Ich hasse PayPal! Das Quasi-Monopol ermöglicht unerträgliche Arroganz"
         },
         {
           "url": "https://govx.com/",
           "title": "Military & Government Discounts on 1000+ Brands | GOVX"
-        },
-        {
-          "url": "https://sail-invia.com/ich-hasse-paypal/",
-          "title": "Ich hasse PayPal! Das Quasi-Monopol ermöglicht unerträgliche Arroganz"
         },
         {
           "url": "https://www.brandbank.com/cz/reseni-pro-resellery/",
@@ -290,53 +286,13 @@
         {
           "url": "http://ossbss.pipelinepub.com/index.php?download=1568",
           "title": "Research Center"
+        },
+        {
+          "url": "https://www.capitalone.ca/",
+          "title": "Secured, Guaranteed and Rewards Credit Cards | Capital One Canada"
         }
       ],
       "count": 5
-    },
-    {
-      "name": "general-corporate-info",
-      "bookmarks": [
-        {
-          "url": "https://canelasf.com/our-story/",
-          "title": "Our Story - Canela Bistro Bar"
-        },
-        {
-          "url": "https://livenationproductions.com/",
-          "title": "Live Nation Productions"
-        },
-        {
-          "url": "http://www.usanetwork.com/page/help",
-          "title": "Availability Notice"
-        },
-        {
-          "url": "https://www.vesuvius.com/en/index.html",
-          "title": "Vesuvius"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "geo-spatial-data-analysis",
-      "bookmarks": [
-        {
-          "url": "https://blog.google/products/search/mapping-wildfires-with-satellite-data/",
-          "title": "Mapping wildfires with the power of satellite data"
-        },
-        {
-          "url": "https://ourworldindata.org/grapher/life-expectancy",
-          "title": "Life expectancy - Our World in Data"
-        },
-        {
-          "url": "https://data.humdata.org/dataset/cod-ab-ukr",
-          "title": "Ukraine - Subnational Administrative Boundaries | Humanitarian Dataset | HDX"
-        },
-        {
-          "url": "https://data-osi.opendata.arcgis.com/datasets/townlands-osi-national-statutory-boundaries-",
-          "title": "Surveying Open Data Portal"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "government-public-administration",
@@ -344,10 +300,6 @@
         {
           "url": "https://www.banquemondiale.org/fr/country/algeria",
           "title": "Algérie"
-        },
-        {
-          "url": "https://election-legislative.linternaute.com/resultats/porri/ville-2B245",
-          "title": "Résultat des élections législatives 2025 à Porri (20215)"
         },
         {
           "url": "https://www.justice.gov",
@@ -360,6 +312,10 @@
         {
           "url": "https://nereusprogram.org/reports/policy-brief-satellite-tracking-to-monitor-area-based-management-tools-identify-governance-gaps-in-fisheries-beyond-national-jurisdiction/",
           "title": "POLICY BRIEF: Satellite tracking to monitor area-based management tools & identify governance gaps in fisheries beyond national jurisdiction - Nereus Program - The Nippon Foundation"
+        },
+        {
+          "url": "https://election-legislative.linternaute.com/resultats/porri/ville-2B245",
+          "title": "Résultat des élections législatives 2025 à Porri (20215)"
         }
       ],
       "count": 5
@@ -368,12 +324,16 @@
       "name": "home-garden-consumer-products",
       "bookmarks": [
         {
+          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
+          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
+        },
+        {
           "url": "https://www.carawayhome.com/products/large-baking-sheet/",
           "title": "Large Baking Sheet | Best Non-Stick & Non-Toxic Sheet Pan | Caraway"
         },
         {
-          "url": "https://www.samsung.com/us/watches/galaxy-watch5/",
-          "title": "Explore Galaxy Watch7 Smartwatch | Wearables | Samsung US"
+          "url": "https://special-led.de/led-leuchtmittell-lamps-light-retrofit.html?led_watt_roehren=1052",
+          "title": "LED Leuchtmittel Retrofit (austauschbar)"
         },
         {
           "url": "https://hindi.alibaba.com/product-detail/hot-sale-fox-fur-coat-winter-long-mink-knitted-cardigan-fashionhorn-sleeve-fox-fur-coat-for-women-1600323300092.html",
@@ -382,38 +342,12 @@
         {
           "url": "https://www.naturehills.com/sierra-spreader-juniper",
           "title": "Sierra Spreader Juniper Bush | Buy Now At Naturehills.com"
-        },
-        {
-          "url": "https://special-led.de/led-leuchtmittell-lamps-light-retrofit.html?led_watt_roehren=1052",
-          "title": "LED Leuchtmittel Retrofit (austauschbar)"
         }
       ],
       "count": 5
     },
     {
-      "name": "legal-privacy-policy",
-      "bookmarks": [
-        {
-          "url": "https://www.crazyegg.com/privacy",
-          "title": "Crazy Egg | Privacy Policy"
-        },
-        {
-          "url": "https://disneytermsofuse.com/english/",
-          "title": "English - Disney Terms of Use - United States - Disney Terms Of Use"
-        },
-        {
-          "url": "https://www.jiahometechs.com/support/",
-          "title": "void"
-        },
-        {
-          "url": "http://datatrust.walgreens.com/consumerrights",
-          "title": "Privacy Web Form"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "social-services-nonprofit",
+      "name": "nonprofit-social-services",
       "bookmarks": [
         {
           "url": "https://www.centerffs.org/",
@@ -446,16 +380,38 @@
           "title": "BMW New Car Dealer | Pakistan | BMW Dewan"
         },
         {
+          "url": "http://tech-m.com.pl/oferta/rodzaj-montazu/na-zewnatrz-pojazdu/",
+          "title": "NA ZEWNĄTRZ POJAZDU | Techmot"
+        },
+        {
           "url": "https://ford.oemdtc.com/category/recalls",
           "title": "Recalls | Ford & Lincoln - OEMDTC"
         },
         {
           "url": "http://status.spire.com/",
           "title": "Spire Maritime a Kpler Company Status"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "corporate-info-general",
+      "bookmarks": [
+        {
+          "url": "http://www.usanetwork.com/page/help",
+          "title": "Availability Notice"
         },
         {
-          "url": "http://tech-m.com.pl/oferta/rodzaj-montazu/na-zewnatrz-pojazdu/",
-          "title": "NA ZEWNĄTRZ POJAZDU | Techmot"
+          "url": "https://livenationproductions.com/",
+          "title": "Live Nation Productions"
+        },
+        {
+          "url": "https://canelasf.com/our-story/",
+          "title": "Our Story - Canela Bistro Bar"
+        },
+        {
+          "url": "https://www.vesuvius.com/en/index.html",
+          "title": "Vesuvius"
         }
       ],
       "count": 4
@@ -463,10 +419,6 @@
     {
       "name": "dev-documentation-guides",
       "bookmarks": [
-        {
-          "url": "https://developers.hive.io/nodeop/seed-node.html",
-          "title": "Seed Node"
-        },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
           "title": "async function - JavaScript | MDN"
@@ -476,8 +428,34 @@
           "title": "Mapbox Docs"
         },
         {
+          "url": "https://developers.hive.io/nodeop/seed-node.html",
+          "title": "Seed Node"
+        },
+        {
           "url": "https://www.tensorflow.org/api_docs/python/tf/keras/layers/Discretization?hl=pt-BR",
           "title": "tf.keras.layers.Discretization | TensorFlow v2.16.1"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "geo-spatial-data-analysis",
+      "bookmarks": [
+        {
+          "url": "https://ourworldindata.org/grapher/life-expectancy",
+          "title": "Life expectancy - Our World in Data"
+        },
+        {
+          "url": "https://blog.google/products/search/mapping-wildfires-with-satellite-data/",
+          "title": "Mapping wildfires with the power of satellite data"
+        },
+        {
+          "url": "https://data-osi.opendata.arcgis.com/datasets/townlands-osi-national-statutory-boundaries-",
+          "title": "Surveying Open Data Portal"
+        },
+        {
+          "url": "https://data.humdata.org/dataset/cod-ab-ukr",
+          "title": "Ukraine - Subnational Administrative Boundaries | Humanitarian Dataset | HDX"
         }
       ],
       "count": 4
@@ -505,6 +483,28 @@
       "count": 4
     },
     {
+      "name": "legal-privacy-policy",
+      "bookmarks": [
+        {
+          "url": "https://www.crazyegg.com/privacy",
+          "title": "Crazy Egg | Privacy Policy"
+        },
+        {
+          "url": "https://disneytermsofuse.com/english/",
+          "title": "English - Disney Terms of Use - United States - Disney Terms Of Use"
+        },
+        {
+          "url": "http://datatrust.walgreens.com/consumerrights",
+          "title": "Privacy Web Form"
+        },
+        {
+          "url": "https://www.jiahometechs.com/support/",
+          "title": "void"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "travel-food-leisure",
       "bookmarks": [
         {
@@ -512,21 +512,17 @@
           "title": "Alberta Business, Travel, and Local Directory"
         },
         {
-          "url": "https://bk.asia-city.com/restaurants/news/bangkok-best-street-food",
-          "title": "How many of these essential Bangkok street eats have you tasted? - BK Magazine Online | The insider's guide to Bangkok"
-        },
-        {
           "url": "https://book.passkey.com/event/50337801/owner/16066798/home",
           "title": "ByBlack Conference - Learn about the event and search for hotels"
         },
         {
-          "url": "https://canelasf.com/our-story/",
-          "title": "Our Story - Canela Bistro Bar"
+          "url": "https://bk.asia-city.com/restaurants/news/bangkok-best-street-food",
+          "title": "How many of these essential Bangkok street eats have you tasted? - BK Magazine Online | The insider's guide to Bangkok"
         }
       ],
-      "count": 4
+      "count": 3
     }
   ],
-  "total_bookmarks": 103,
+  "total_bookmarks": 102,
   "num_folders": 19
 }

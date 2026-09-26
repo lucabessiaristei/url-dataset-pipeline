@@ -4,26 +4,6 @@
       "name": "organizations-civic",
       "bookmarks": [
         {
-          "url": "https://c4ads.org/",
-          "title": "Home - C4ADS"
-        },
-        {
-          "url": "https://www.hocmn.org/",
-          "title": "Minnesota Homeownership Center"
-        },
-        {
-          "url": "https://www.packard.org",
-          "title": "Homepage • The David and Lucile Packard Foundation"
-        },
-        {
-          "url": "https://www.talentbeyondboundaries.org/?",
-          "title": "Talent Beyond Boundaries"
-        },
-        {
-          "url": "https://unitedwaynyc.org/covid19/",
-          "title": "COVID-19 Resource Guide - United Way of New York City"
-        },
-        {
           "url": "https://www.acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
           "title": "Benefits that Last: Long-Term Impact and Cost-Benefit Findings for Year Up | The Administration for Children and Families"
         },
@@ -34,6 +14,10 @@
         {
           "url": "https://consumidor.ftc.gov",
           "title": "Consejos para consumidores | La Comisión Federal de Comercio"
+        },
+        {
+          "url": "https://unitedwaynyc.org/covid19/",
+          "title": "COVID-19 Resource Guide - United Way of New York City"
         },
         {
           "url": "https://www.esrbratings.org/",
@@ -52,8 +36,24 @@
           "title": "Green Science Policy Institute"
         },
         {
+          "url": "https://c4ads.org/",
+          "title": "Home - C4ADS"
+        },
+        {
+          "url": "https://www.packard.org",
+          "title": "Homepage • The David and Lucile Packard Foundation"
+        },
+        {
           "url": "https://www.milspouseroadmap.org/",
           "title": "MilSpouse Roadmap"
+        },
+        {
+          "url": "https://www.hocmn.org/",
+          "title": "Minnesota Homeownership Center"
+        },
+        {
+          "url": "https://www.talentbeyondboundaries.org/?",
+          "title": "Talent Beyond Boundaries"
         },
         {
           "url": "https://storymaps.arcgis.com/stories/a6d6ee36d8184b43b4ae03c8e453f1ba",
@@ -117,53 +117,7 @@
       "count": 10
     },
     {
-      "name": "hobby-lifestyle",
-      "bookmarks": [
-        {
-          "url": "https://bokmodern.com/portfolio/b12-2/",
-          "title": "B12 Pattern - BŌK Modern"
-        },
-        {
-          "url": "https://chipmusic.org/forums/",
-          "title": "Forums - ChipMusic.org"
-        },
-        {
-          "url": "http://mjrichardsphotography.com/tag/family/",
-          "title": "family - M J Richards Photography"
-        },
-        {
-          "url": "https://guitarra.artepulsado.com/foros/showthread.php?24180-Guitarra-Miguel-Moya-Almer%EF%BF%BD%EF%BF%BDa&s=4e83db1cd5646ee7121e76e3a1edfe2a",
-          "title": "Guitarra Miguel Moya Almería | Guitarra Artepulsado"
-        },
-        {
-          "url": "https://www.moje-siti.cz/strojove-jehly-schmetz/jehly-strojove-705-h-universal-90-14/",
-          "title": "Jehly strojové 705 H UNIVERSAL 90/14 - Moje šití"
-        },
-        {
-          "url": "http://mamastillgotit.com/motherhood-101/",
-          "title": "Motherhood 101 - MamaStillGotIt"
-        },
-        {
-          "url": "https://flightaware.com/photos/view/447116-d07a85c727f57a4d146d0c81fafac071881bab08",
-          "title": "Photo of Piper L-21 Super (N10YV) - FlightAware"
-        },
-        {
-          "url": "https://porsche.oemdtc.com",
-          "title": "Porsche - OEMDTC"
-        },
-        {
-          "url": "https://quotesondesign.com/",
-          "title": "void"
-        },
-        {
-          "url": "http://vsichkozaknigite.bg/news/%D1%85%D0%B5%D1%80%D0%BC%D0%B0%D0%BD-%D0%BA%D0%BE%D1%85-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B3%D0%B0-%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5/",
-          "title": "Обичай всичко за книгите ⋆ Reading Trolls"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "media-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://www.guggenheim.org/artwork/movement/cubism",
@@ -209,23 +163,73 @@
       "count": 10
     },
     {
+      "name": "lifestyle-hobbies",
+      "bookmarks": [
+        {
+          "url": "https://bokmodern.com/portfolio/b12-2/",
+          "title": "B12 Pattern - BŌK Modern"
+        },
+        {
+          "url": "http://mjrichardsphotography.com/tag/family/",
+          "title": "family - M J Richards Photography"
+        },
+        {
+          "url": "https://chipmusic.org/forums/",
+          "title": "Forums - ChipMusic.org"
+        },
+        {
+          "url": "https://guitarra.artepulsado.com/foros/showthread.php?24180-Guitarra-Miguel-Moya-Almer%EF%BF%BD%EF%BF%BDa&s=4e83db1cd5646ee7121e76e3a1edfe2a",
+          "title": "Guitarra Miguel Moya Almería | Guitarra Artepulsado"
+        },
+        {
+          "url": "https://www.moje-siti.cz/strojove-jehly-schmetz/jehly-strojove-705-h-universal-90-14/",
+          "title": "Jehly strojové 705 H UNIVERSAL 90/14 - Moje šití"
+        },
+        {
+          "url": "http://mamastillgotit.com/motherhood-101/",
+          "title": "Motherhood 101 - MamaStillGotIt"
+        },
+        {
+          "url": "https://flightaware.com/photos/view/447116-d07a85c727f57a4d146d0c81fafac071881bab08",
+          "title": "Photo of Piper L-21 Super (N10YV) - FlightAware"
+        },
+        {
+          "url": "https://porsche.oemdtc.com",
+          "title": "Porsche - OEMDTC"
+        },
+        {
+          "url": "https://quotesondesign.com/",
+          "title": "void"
+        },
+        {
+          "url": "http://vsichkozaknigite.bg/news/%D1%85%D0%B5%D1%80%D0%BC%D0%B0%D0%BD-%D0%BA%D0%BE%D1%85-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B3%D0%B0-%D0%B2-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B7%D0%B0-%D1%81%D0%B8%D0%BD%D0%B5/",
+          "title": "Обичай всичко за книгите ⋆ Reading Trolls"
+        }
+      ],
+      "count": 10
+    },
+    {
       "name": "tech-tools",
       "bookmarks": [
         {
-          "url": "https://www.airtable.com/downloads",
-          "title": "Downloads - Airtable"
-        },
-        {
           "url": "https://ballparkhq.com/",
           "title": "Ballpark - Research anything. Powered by AI."
+        },
+        {
+          "url": "https://www.vecteezy.com/",
+          "title": "Download Free Vectors, Images, Photos & Videos | Vecteezy"
+        },
+        {
+          "url": "https://www.airtable.com/downloads",
+          "title": "Downloads - Airtable"
         },
         {
           "url": "https://drastic-ds.com/app.php/help/faq?sid=d50f779056a4349a284a082e159e1c31",
           "title": "DraStic - Frequently Asked Questions"
         },
         {
-          "url": "http://www.higherlogic.com",
-          "title": "Powerful Online Community Software | Higher Logic"
+          "url": "https://www.youvisit.com/#/vte/?data-platform=v&data-inst=120317&data-image-width=100%&data-image-height=100%&data-loc=142905&",
+          "title": "home - YouVisit"
         },
         {
           "url": "https://secure.imvu.com/welcome/ftux/",
@@ -236,20 +240,16 @@
           "title": "Notion Website Maker: Create A Free Website Built In Notion"
         },
         {
+          "url": "http://www.higherlogic.com",
+          "title": "Powerful Online Community Software | Higher Logic"
+        },
+        {
           "url": "https://www.onelook.com/spruce/",
           "title": "Spruce"
         },
         {
-          "url": "https://www.vecteezy.com/",
-          "title": "Download Free Vectors, Images, Photos & Videos | Vecteezy"
-        },
-        {
           "url": "https://visualstudio.microsoft.com/?utm_source=developermscom",
           "title": "Visual Studio: IDE and Code Editor for Software Development"
-        },
-        {
-          "url": "https://www.youvisit.com/#/vte/?data-platform=v&data-inst=120317&data-image-width=100%&data-image-height=100%&data-loc=142905&",
-          "title": "home - YouVisit"
         }
       ],
       "count": 10
@@ -338,12 +338,12 @@
           "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
         },
         {
-          "url": "https://www.newamericaneconomy.org/stories/page/4/?state=new-york-district-24&category=feature",
-          "title": "Stories - New American Economy"
-        },
-        {
           "url": "https://www.vera.org/publications/people-in-jail-in-2019",
           "title": "People in Jail in 2019 | Vera Institute"
+        },
+        {
+          "url": "https://www.newamericaneconomy.org/stories/page/4/?state=new-york-district-24&category=feature",
+          "title": "Stories - New American Economy"
         },
         {
           "url": "https://www.wri.org/publication/scale-illicit-trade-pacific-ocean-marine-resources",
@@ -387,11 +387,15 @@
       "count": 6
     },
     {
-      "name": "cooking-food",
+      "name": "food-cooking",
       "bookmarks": [
         {
           "url": "http://www.alimentipedia.it/",
           "title": "Alimentipedia: Enciclopedia degli Alimenti, dei Vini e di Cucina"
+        },
+        {
+          "url": "http://www.ricettepercucinare.com/",
+          "title": "Blog di cucina e ricette italiane | Ricettepercucinare.com | HOME"
         },
         {
           "url": "https://marielleindekeuken.nl/kneden-brooddeeg/",
@@ -400,10 +404,6 @@
         {
           "url": "https://www.bbcgoodfood.com/recipes/collection/one-pot-recipes",
           "title": "One-Pot Recipes | Good Food"
-        },
-        {
-          "url": "http://www.ricettepercucinare.com/",
-          "title": "Blog di cucina e ricette italiane | Ricettepercucinare.com | HOME"
         }
       ],
       "count": 4
@@ -434,16 +434,16 @@
       "name": "reference-general",
       "bookmarks": [
         {
-          "url": "https://www.dpp.cz/en/timetables",
-          "title": "Timetables | Prague Public Transit Company, joint-stock company"
-        },
-        {
           "url": "https://no.wikipedia.org/wiki/Fagundes",
           "title": "Fagundes - Wikipedia"
         },
         {
           "url": "https://dados.ibict.br/organization/ibict-gov?groups=pessoal&tags=cargo&res_format=CSV&license_id=other-pd&_tags_limit=0",
           "title": "IBICT - Organizações - Dados Abertos do Ibict"
+        },
+        {
+          "url": "https://www.dpp.cz/en/timetables",
+          "title": "Timetables | Prague Public Transit Company, joint-stock company"
         }
       ],
       "count": 3

@@ -4,11 +4,11 @@
       "name": "social-civic-information",
       "bookmarks": [
         {
-          "url": "https://international.gc.ca/world-monde/index.aspx",
+          "url": "http://international.gc.ca/world-monde/index.aspx?lang=eng",
           "title": "Canada and the world"
         },
         {
-          "url": "https://thehotline.org/",
+          "url": "http://thehotline.org/",
           "title": "Domestic Violence Support | National Domestic Violence Hotline"
         },
         {
@@ -16,29 +16,11 @@
           "title": "Home - Better Work"
         },
         {
-          "url": "https://uni-potsdam.de/de/gsp-deutsch/studiumlehre/lesekabinett",
+          "url": "https://www.uni-potsdam.de/de/gsp-deutsch/studiumlehre/lesekabinett",
           "title": "Lesekabinett - Studium und Lehre - Professur Grundschulpädagogik Deutsch - Universität Potsdam"
         }
       ],
       "count": 4
-    },
-    {
-      "name": "lifestyle-travel-shopping",
-      "bookmarks": [
-        {
-          "url": "https://andbeyond.com/our-lodges/africa/south-africa/kruger-national-park/ngala-private-game-reserve/andbeyond-ngala-safari-lodge",
-          "title": "&Beyond Ngala Safari Lodge | Luxury Kruger Safari Stay"
-        },
-        {
-          "url": "https://mittprivatakrig.com/2021/12/26/staden",
-          "title": "Staden... | Yolanda and her creative scream"
-        },
-        {
-          "url": "https://everlane.com/products/womens-transit-bag-black",
-          "title": "The Renew Transit Fanny Pack | Black - Everlane"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "web-creative-resources",
@@ -48,17 +30,31 @@
           "title": "Getting Started: Fetching Data | Next.js"
         },
         {
-          "url": "https://punchmark.com/",
+          "url": "http://www.punchmark.com?ref=webclient",
           "title": "Punchmark Jewelry Website Design: Websites for Jewelers & Vendors"
         },
         {
-          "url": "https://storyblocks.com/",
+          "url": "https://www.storyblocks.com/",
           "title": "Unlimited Stock Videos, Templates, Audio & Images - Storyblocks"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "lifestyle-shopping-travel",
+      "bookmarks": [
+        {
+          "url": "https://www.andbeyond.com/our-lodges/africa/south-africa/kruger-national-park/ngala-private-game-reserve/andbeyond-ngala-safari-lodge/",
+          "title": "&Beyond Ngala Safari Lodge | Luxury Kruger Safari Stay"
+        },
+        {
+          "url": "https://mittprivatakrig.com/2021/12/26/staden/",
+          "title": "Staden... | Yolanda and her creative scream"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 10,
+  "total_bookmarks": 9,
   "num_folders": 3
 }

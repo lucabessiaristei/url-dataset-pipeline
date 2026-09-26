@@ -1,12 +1,8 @@
 {
   "folders": [
     {
-      "name": "education--higher-ed-policy",
+      "name": "education-higher-ed-policy",
       "bookmarks": [
-        {
-          "url": "http://www.biology.lu.se/",
-          "title": "Start | Department of Biology"
-        },
         {
           "url": "https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/szukajPrzedmiotu&jed_org_kod=22000000&callback=g_abee134e&method=faculty_groups&grupaKod=2200-PRSM07&cp_showDescriptions=0&cp_showGroupsColumn=0&cp_cdydsDisplayLevel=2&f_tylkoWRejestracji=0&f_obcojezyczne=0&kierujNaPlanyGrupy=1&tabc902_offset=0&tabc902_limit=100&tabc902_order=4d1a2a",
           "title": "Blok: Nauka prawa w Warszawie w warunkach globalizacji - Uniwersytet Warszawski - USOSweb"
@@ -52,6 +48,10 @@
           "title": "Recherche | Institut Curie Advanced Training"
         },
         {
+          "url": "http://www.biology.lu.se/",
+          "title": "Start | Department of Biology"
+        },
+        {
           "url": "https://unu.edu",
           "title": "UNU | United Nations University"
         }
@@ -59,41 +59,7 @@
       "count": 13
     },
     {
-      "name": "business-software--enterprise-solutions",
-      "bookmarks": [
-        {
-          "url": "https://support.office.com/en-us/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9",
-          "title": "About accounts in Office - Microsoft Support"
-        },
-        {
-          "url": "https://support.microsoft.com/contactus",
-          "title": "Contact Us - Microsoft Support"
-        },
-        {
-          "url": "https://appsource.microsoft.com/en-us/",
-          "title": "Find the right app | Microsoft AppSource"
-        },
-        {
-          "url": "https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity",
-          "title": "Forums | Microsoft Power Platform Community"
-        },
-        {
-          "url": "http://fusionlayer.com/",
-          "title": "FusionLayer | Network Source of Truth | IPAM DNS & DHCP (DDI)"
-        },
-        {
-          "url": "https://www.intellum.com/privacy-policy",
-          "title": "Privacy Policy | Intellum"
-        },
-        {
-          "url": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/",
-          "title": "The Total Economic Impact™ Of Microsoft Dynamics 365 Finance"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "corporate--products-services",
+      "name": "corporate-products-services",
       "bookmarks": [
         {
           "url": "https://amzn.to/3x8Hk7p",
@@ -112,16 +78,16 @@
           "title": "Log In ‹ Fier - WordPress"
         },
         {
-          "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html",
-          "title": "U-2 Dragon Lady | Lockheed Martin"
-        },
-        {
           "url": "https://newsroom.es.paypal-corp.com/inicio",
           "title": "PayPal Newsroom - Inicio"
         },
         {
           "url": "https://blog.shopgoodwill.com/english",
           "title": "Shopgoodwill.com"
+        },
+        {
+          "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html",
+          "title": "U-2 Dragon Lady | Lockheed Martin"
         },
         {
           "url": "https://gethuman.com/issue/Universal-Studios-Hollywood/o54n/I-bought-three-tickets-for-universal-studios-All-the-tickets-are-labeled-with-my-name",
@@ -131,7 +97,7 @@
       "count": 8
     },
     {
-      "name": "education--stem-computer-science",
+      "name": "education-stem-computer-science",
       "bookmarks": [
         {
           "url": "https://know4life.tumblr.com/post/143086526763",
@@ -169,7 +135,7 @@
       "count": 8
     },
     {
-      "name": "government--data-services",
+      "name": "government-data-services",
       "bookmarks": [
         {
           "url": "http://gis.arkansas.gov/?product=situs-address-points",
@@ -207,15 +173,49 @@
       "count": 8
     },
     {
-      "name": "entertainment--film-tv-events",
+      "name": "business-software-enterprise-solutions",
       "bookmarks": [
         {
-          "url": "https://www.dsei-japan.com/welcome",
-          "title": "DSEI Japan 2027"
+          "url": "https://support.office.com/en-us/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9",
+          "title": "About accounts in Office - Microsoft Support"
         },
+        {
+          "url": "https://support.microsoft.com/contactus",
+          "title": "Contact Us - Microsoft Support"
+        },
+        {
+          "url": "https://appsource.microsoft.com/en-us/",
+          "title": "Find the right app | Microsoft AppSource"
+        },
+        {
+          "url": "https://powerusers.microsoft.com/t5/Microsoft-Power-Automate/ct-p/MPACommunity",
+          "title": "Forums | Microsoft Power Platform Community"
+        },
+        {
+          "url": "http://fusionlayer.com/",
+          "title": "FusionLayer | Network Source of Truth | IPAM DNS & DHCP (DDI)"
+        },
+        {
+          "url": "https://www.intellum.com/privacy-policy",
+          "title": "Privacy Policy | Intellum"
+        },
+        {
+          "url": "https://tools.totaleconomicimpact.com/go/microsoft/D365Finance/",
+          "title": "The Total Economic Impact™ Of Microsoft Dynamics 365 Finance"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "entertainment-film-tv-events",
+      "bookmarks": [
         {
           "url": "http://rupaulsdragcon.com/",
           "title": "Drag Race: The Experience"
+        },
+        {
+          "url": "https://www.dsei-japan.com/welcome",
+          "title": "DSEI Japan 2027"
         },
         {
           "url": "https://www.bet.com/article/7zsvok/drew-sidora-bet-interview",
@@ -241,7 +241,7 @@
       "count": 7
     },
     {
-      "name": "non-profit--social-services",
+      "name": "nonprofit-social-services",
       "bookmarks": [
         {
           "url": "https://wlos.com/news/local/animal-shelter-dog-forever-home-cashiers-highlands-humane-society-adopted-hound-mitch-happy-ending-western-north-carolina-jackson-county",
@@ -256,26 +256,26 @@
           "title": "Home - WIN"
         },
         {
-          "url": "http://www.nationalparenthelpline.org/find-support",
-          "title": "void"
-        },
-        {
           "url": "https://thatwaterbeadlady.org/",
           "title": "Small and Deadly Danger, Water Bead Education, Water Beads - That Water Bead Lady - San Antonio, Texas"
+        },
+        {
+          "url": "https://www.ywcacassclay.org/housing/",
+          "title": "Supportive Housing | A Place to Call Home - YWCA Cass Clay"
         },
         {
           "url": "https://thelatrust.org/",
           "title": "The Los Angeles Trust for Children's Health"
         },
         {
-          "url": "https://www.ywcacassclay.org/housing/",
-          "title": "Supportive Housing | A Place to Call Home - YWCA Cass Clay"
+          "url": "http://www.nationalparenthelpline.org/find-support",
+          "title": "void"
         }
       ],
       "count": 7
     },
     {
-      "name": "digital-services--subscriptions-platforms",
+      "name": "digital-services-subscriptions-platforms",
       "bookmarks": [
         {
           "url": "https://one.apple.com/us?itscg=10000&itsct=one-NA-mac-tile-apl-avl-102020",
@@ -305,33 +305,7 @@
       "count": 6
     },
     {
-      "name": "legal--privacy-licensing",
-      "bookmarks": [
-        {
-          "url": "https://fdanj.nlm.nih.gov/?f%5Bfdanj.adjudicatingcourtjurisdiction%5D%5B%5D=E.+Dist.+N.Y.&f%5Bfdanj.caseissuedate%5D%5B%5D=September+1962&f%5Bfdanj.casekeywords%5D%5B%5D=Coldene+vitamin+tonic+with+iron&f%5Bfdanj.collection%5D%5B%5D=ffnj&f%5Bfdanj.defendantnames%5D%5B%5D=Sanco+Drug+Co.&per_page=10&sort=fdanj.title+desc&subject=Nyal%27s+Prescription+%2233%22+and+Nyal+Prescription+%2223%22+Pills",
-          "title": "Collections: Foods, 1940-1966 / Defendants: Sanco Drug Co. / Product Keywords: Coldene vitamin tonic with iron / Issue Dates: September 1962 / Adjudicating Courts: E. Dist. N.Y. - FDA Notices of Judgment Collection, 1908-1966 Search Results"
-        },
-        {
-          "url": "https://translate.wordpress.org/projects/wp-plugins/gdpr-cookie-compliance",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law < GlotPress | WordPress.org"
-        },
-        {
-          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
-          "title": "Open Government Licence"
-        },
-        {
-          "url": "http://www.geocaching.com/about/privacypolicy.aspx",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html",
-          "title": "OneTrust | Privacy Management Software"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "news--general",
+      "name": "news-general",
       "bookmarks": [
         {
           "url": "https://www.formula1.com/en/latest/features.html",
@@ -361,7 +335,7 @@
       "count": 6
     },
     {
-      "name": "design--resources-tools",
+      "name": "design-resources-tools",
       "bookmarks": [
         {
           "url": "https://www.astropix.com/",
@@ -387,7 +361,7 @@
       "count": 5
     },
     {
-      "name": "history-research--diverse-topics",
+      "name": "history-research-diverse-topics",
       "bookmarks": [
         {
           "url": "https://www.computerhistory.org/revolution/calculators/1",
@@ -413,7 +387,33 @@
       "count": 5
     },
     {
-      "name": "beauty-fashion--products-services",
+      "name": "legal-privacy-licensing",
+      "bookmarks": [
+        {
+          "url": "https://fdanj.nlm.nih.gov/?f%5Bfdanj.adjudicatingcourtjurisdiction%5D%5B%5D=E.+Dist.+N.Y.&f%5Bfdanj.caseissuedate%5D%5B%5D=September+1962&f%5Bfdanj.casekeywords%5D%5B%5D=Coldene+vitamin+tonic+with+iron&f%5Bfdanj.collection%5D%5B%5D=ffnj&f%5Bfdanj.defendantnames%5D%5B%5D=Sanco+Drug+Co.&per_page=10&sort=fdanj.title+desc&subject=Nyal%27s+Prescription+%2233%22+and+Nyal+Prescription+%2223%22+Pills",
+          "title": "Collections: Foods, 1940-1966 / Defendants: Sanco Drug Co. / Product Keywords: Coldene vitamin tonic with iron / Issue Dates: September 1962 / Adjudicating Courts: E. Dist. N.Y. - FDA Notices of Judgment Collection, 1908-1966 Search Results"
+        },
+        {
+          "url": "https://translate.wordpress.org/projects/wp-plugins/gdpr-cookie-compliance",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law < GlotPress | WordPress.org"
+        },
+        {
+          "url": "https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html",
+          "title": "OneTrust | Privacy Management Software"
+        },
+        {
+          "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+          "title": "Open Government Licence"
+        },
+        {
+          "url": "http://www.geocaching.com/about/privacypolicy.aspx",
+          "title": "Privacy Policy"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "beauty-fashion-products-services",
       "bookmarks": [
         {
           "url": "https://www.sephora.com/product/danessa-myricks-beauty-infinite-chrome-flakes-multichrome-gel-for-eyes-face-P481968",
@@ -435,12 +435,8 @@
       "count": 4
     },
     {
-      "name": "lifestyle--home-food-decor",
+      "name": "lifestyle-home-food-decor",
       "bookmarks": [
-        {
-          "url": "http://www.balsamhill.com/p/vermont-white-spruce-artificial-christmas-tree?",
-          "title": "Vermont White Spruce® Artificial Christmas Tree | Balsam Hill"
-        },
         {
           "url": "https://buzzbakeshop.com/",
           "title": "Buzz Bakeshop | Alexandria VA"
@@ -452,12 +448,16 @@
         {
           "url": "https://orderhavenly.com/s/order",
           "title": "Order Online | Havenly"
+        },
+        {
+          "url": "http://www.balsamhill.com/p/vermont-white-spruce-artificial-christmas-tree?",
+          "title": "Vermont White Spruce® Artificial Christmas Tree | Balsam Hill"
         }
       ],
       "count": 4
     },
     {
-      "name": "programming--developer-tools",
+      "name": "programming-developer-tools",
       "bookmarks": [
         {
           "url": "https://www.handtalk.me/en/helpaccessibility/",
@@ -479,15 +479,15 @@
       "count": 4
     },
     {
-      "name": "ai-ml--tools-datasets",
+      "name": "ai-ml-tools-datasets",
       "bookmarks": [
-        {
-          "url": "https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "Common Voice"
-        },
         {
           "url": "https://scikit-learn.org/stable/modules/impute.html",
           "title": "7.4. Imputation of missing values - scikit-learn 1.7.2 documentation"
+        },
+        {
+          "url": "https://commonvoice.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
+          "title": "Common Voice"
         },
         {
           "url": "https://xgboost.readthedocs.io/en/stable/parameter.html",
@@ -497,7 +497,7 @@
       "count": 3
     },
     {
-      "name": "environmental-science--climate-fracking",
+      "name": "environmental-science-climate-fracking",
       "bookmarks": [
         {
           "url": "https://www.vox.com/energy-and-environment/2020/7/16/21324662/climate-change-air-pollution-tracking-greenhouse-gas-emissions-trace-coalition",
@@ -515,7 +515,7 @@
       "count": 3
     },
     {
-      "name": "gaming--industry-hobbies",
+      "name": "gaming-industry-hobbies",
       "bookmarks": [
         {
           "url": "https://www.buyprimeaccount.com/product/one-service-medal-100win/?add_to_wishlist=3838&_wpnonce=5f0b1c7097",
@@ -533,7 +533,7 @@
       "count": 3
     },
     {
-      "name": "health-wellness--fitness-spa",
+      "name": "health-wellness-fitness-spa",
       "bookmarks": [
         {
           "url": "https://stottestrompen.dk/shop/75-cep-kompressionsstroemper/",
@@ -551,7 +551,7 @@
       "count": 3
     },
     {
-      "name": "lifestyle--hobbies-personal",
+      "name": "personal-lifestyle-hobbies",
       "bookmarks": [
         {
           "url": "https://purepuremilk.tumblr.com/",
@@ -569,25 +569,7 @@
       "count": 3
     },
     {
-      "name": "public-health--covid-19",
-      "bookmarks": [
-        {
-          "url": "https://coronavirus.delaware.gov/",
-          "title": "Coronavirus - Delaware's Coronavirus Official Website"
-        },
-        {
-          "url": "https://www.covid.gov/tests",
-          "title": "Lab Leak: The True Origins of Covid-19 - The White House"
-        },
-        {
-          "url": "https://www.questhealth.com/product/covid-19-active-infection-test-39448.html?elqTrackId=c8ffdbef244e4da5ab89a3f6a7c7be2b&elqaid=93&elqat=2",
-          "title": "TB, Covid & Respiratory Conditions | Quest®"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "science--research",
+      "name": "science-research",
       "bookmarks": [
         {
           "url": "https://www.eurekalert.org/jrnls/sciadvances/",
@@ -603,8 +585,22 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "public-health-covid-19",
+      "bookmarks": [
+        {
+          "url": "https://www.covid.gov/tests",
+          "title": "Lab Leak: The True Origins of Covid-19 - The White House"
+        },
+        {
+          "url": "https://www.questhealth.com/product/covid-19-active-infection-test-39448.html?elqTrackId=c8ffdbef244e4da5ab89a3f6a7c7be2b&elqaid=93&elqat=2",
+          "title": "TB, Covid & Respiratory Conditions | Quest®"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 118,
+  "total_bookmarks": 117,
   "num_folders": 22
 }

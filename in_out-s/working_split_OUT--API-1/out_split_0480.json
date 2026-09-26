@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-and-articles",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://www.kantar.com/north-america/inspiration/technology/85-per-cent-of-us-households-have-a-video-subscription-service",
@@ -55,7 +55,7 @@
       "count": 12
     },
     {
-      "name": "design-and-culture",
+      "name": "culture-design",
       "bookmarks": [
         {
           "url": "https://www.allesoverboekenenschrijvers.nl/tag/2011/",
@@ -74,6 +74,10 @@
           "title": "Happy Hour - Libro di LUISE Franco - Bibliotheca Culinaria"
         },
         {
+          "url": "https://thequeenssix.co.uk/",
+          "title": "Home - The Queen's Six"
+        },
+        {
           "url": "https://www.nateluebbe.com",
           "title": "Nate Luebbe - Landscape, Wildlife, Travel & Adventure Photography"
         },
@@ -88,10 +92,6 @@
         {
           "url": "https://www.studioalyse.com/",
           "title": "Studio Alyse"
-        },
-        {
-          "url": "https://thequeenssix.co.uk/",
-          "title": "Home - The Queen's Six"
         },
         {
           "url": "https://interactive.guim.co.uk/uploader/embed/2021/11/archive-zip/giv-825UtiOvVJmipSt/",
@@ -112,6 +112,10 @@
           "title": "fanpop - Sign In au Register"
         },
         {
+          "url": "https://mysupport.apple.com/add-coverage/",
+          "title": "Il mio supporto"
+        },
+        {
           "url": "https://us02web.zoom.us/j/82663842838?pwd=NTkwSzBSQ2c5UFExUCtZc0dIdDBkZz09",
           "title": "Launch Meeting - Zoom"
         },
@@ -122,16 +126,12 @@
         {
           "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
           "title": "Login - Clickteam Community Hub"
-        },
-        {
-          "url": "https://mysupport.apple.com/add-coverage/",
-          "title": "Il mio supporto"
         }
       ],
       "count": 6
     },
     {
-      "name": "shopping-and-products",
+      "name": "shopping-products",
       "bookmarks": [
         {
           "url": "https://www.ulta.com/p/gimme-brow-tinted-volumizing-eyebrow-gel-xlsImpprod14191015",
@@ -161,7 +161,33 @@
       "count": 6
     },
     {
-      "name": "travel-and-local",
+      "name": "tech-documentation",
+      "bookmarks": [
+        {
+          "url": "https://docs.python.org/3/library/asyncio.html",
+          "title": "asyncio - Asynchronous I/O - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://learn.microsoft.com/en-us/ef/core/modeling/index",
+          "title": "Creating and Configuring a Model - EF Core | Microsoft Learn"
+        },
+        {
+          "url": "https://electronjs.org/docs/latest",
+          "title": "Introduction | Electron"
+        },
+        {
+          "url": "https://proj.org/usage/quickstart.html",
+          "title": "Quick start - PROJ 9.7.0 documentation"
+        },
+        {
+          "url": "https://aviation-docs.spire.com/",
+          "title": "Spire Aviation | Spire Aviation"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "travel-local",
       "bookmarks": [
         {
           "url": "https://www.airnewzealand.co.nz/homepage",
@@ -213,72 +239,6 @@
       "count": 5
     },
     {
-      "name": "corporate-and-brands",
-      "bookmarks": [
-        {
-          "url": "https://www.claires.com/",
-          "title": "Claire's | Ear piercing - gentle safe and fun for all ages"
-        },
-        {
-          "url": "https://hello.grahamdigital.com/",
-          "title": "Graham Media Group"
-        },
-        {
-          "url": "https://www.aetv.com",
-          "title": "Hearst Networks EMEA"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "nonprofits-and-ngos",
-      "bookmarks": [
-        {
-          "url": "https://almaauun.org/",
-          "title": "Home - Al-Maa'uun"
-        },
-        {
-          "url": "https://havenlynhv.org/",
-          "title": "Havenly - Community Café & Homestyle Kitchen"
-        },
-        {
-          "url": "https://www.iucn.org/about/donors-and-partners/patrons-nature",
-          "title": "Patrons of Nature | IUCN"
-        },
-        {
-          "url": "https://walmart.org/",
-          "title": "Walmart Foundation"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "tech-documentation",
-      "bookmarks": [
-        {
-          "url": "https://docs.python.org/3/library/asyncio.html",
-          "title": "asyncio - Asynchronous I/O - Python 3.14.0 documentation"
-        },
-        {
-          "url": "https://learn.microsoft.com/en-us/ef/core/modeling/index",
-          "title": "Creating and Configuring a Model - EF Core | Microsoft Learn"
-        },
-        {
-          "url": "https://electronjs.org/docs/latest",
-          "title": "Introduction | Electron"
-        },
-        {
-          "url": "https://proj.org/usage/quickstart.html",
-          "title": "Quick start - PROJ 9.7.0 documentation"
-        },
-        {
-          "url": "https://aviation-docs.spire.com/",
-          "title": "Spire Aviation | Spire Aviation"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "business-services",
       "bookmarks": [
         {
@@ -301,25 +261,7 @@
       "count": 4
     },
     {
-      "name": "data-and-reports",
-      "bookmarks": [
-        {
-          "url": "https://www.unocha.org/sites/unocha/files/Global-Humanitarian-Response-Plan-COVID-19.pdf",
-          "title": "Global Humanitarian Response Plan: COVID-19 (April - December 2020) GHRP July Update [EN/AR] - World | ReliefWeb"
-        },
-        {
-          "url": "https://www.itu.int/en/sustainable-world/Pages/goal12.aspx",
-          "title": "Goal 12. Sustainable consumption & production"
-        },
-        {
-          "url": "https://stratocat.com.ar/fichas/2018/WNM-20180814.htm",
-          "title": "PROJECT LOON FLIGHT P-431 - 8/14/2018"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "education-and-universities",
+      "name": "education-university",
       "bookmarks": [
         {
           "url": "https://studyaiko-blog.tumblr.com/post/150101031139",
@@ -341,18 +283,62 @@
       "count": 4
     },
     {
-      "name": "people-and-profiles",
+      "name": "nonprofit-ngo",
       "bookmarks": [
         {
-          "url": "https://muniversepr.com/noticias/este-es-el-septimo-grupo-de-jovenes-seleccionadas-para-miss-universe-puerto-rico-2023/",
-          "title": "Este es el séptimo grupo de jóvenes seleccionadas para Miss Universe Puerto Rico 2023 | Miss Universe Puerto Rico"
+          "url": "https://havenlynhv.org/",
+          "title": "Havenly - Community Café & Homestyle Kitchen"
         },
         {
-          "url": "https://www.jotscroll.com/nanven-nimfel",
-          "title": "Nanven Nimfel - Biography and Profile - Jotscroll"
+          "url": "https://almaauun.org/",
+          "title": "Home - Al-Maa'uun"
+        },
+        {
+          "url": "https://www.iucn.org/about/donors-and-partners/patrons-nature",
+          "title": "Patrons of Nature | IUCN"
+        },
+        {
+          "url": "https://walmart.org/",
+          "title": "Walmart Foundation"
         }
       ],
-      "count": 2
+      "count": 4
+    },
+    {
+      "name": "brands-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.claires.com/",
+          "title": "Claire's | Ear piercing - gentle safe and fun for all ages"
+        },
+        {
+          "url": "https://hello.grahamdigital.com/",
+          "title": "Graham Media Group"
+        },
+        {
+          "url": "https://www.aetv.com",
+          "title": "Hearst Networks EMEA"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "data-reports",
+      "bookmarks": [
+        {
+          "url": "https://www.unocha.org/sites/unocha/files/Global-Humanitarian-Response-Plan-COVID-19.pdf",
+          "title": "Global Humanitarian Response Plan: COVID-19 (April - December 2020) GHRP July Update [EN/AR] - World | ReliefWeb"
+        },
+        {
+          "url": "https://www.itu.int/en/sustainable-world/Pages/goal12.aspx",
+          "title": "Goal 12. Sustainable consumption & production"
+        },
+        {
+          "url": "https://stratocat.com.ar/fichas/2018/WNM-20180814.htm",
+          "title": "PROJECT LOON FLIGHT P-431 - 8/14/2018"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "automotive",
@@ -364,6 +350,20 @@
         {
           "url": "https://ferrari.oemdtc.com/category/recalls",
           "title": "Recalls | Ferrari - OEMDTC"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "people-profiles",
+      "bookmarks": [
+        {
+          "url": "https://muniversepr.com/noticias/este-es-el-septimo-grupo-de-jovenes-seleccionadas-para-miss-universe-puerto-rico-2023/",
+          "title": "Este es el séptimo grupo de jóvenes seleccionadas para Miss Universe Puerto Rico 2023 | Miss Universe Puerto Rico"
+        },
+        {
+          "url": "https://www.jotscroll.com/nanven-nimfel",
+          "title": "Nanven Nimfel - Biography and Profile - Jotscroll"
         }
       ],
       "count": 2

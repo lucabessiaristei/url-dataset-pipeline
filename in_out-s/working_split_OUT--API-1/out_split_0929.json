@@ -1,15 +1,85 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "news-reports",
       "bookmarks": [
         {
-          "url": "https://animalfoundation.com/",
-          "title": "The Animal Foundation"
+          "url": "https://www.engadget.com/ai/",
+          "title": "AI News | Engadget"
         },
         {
-          "url": "https://www.blackchamberofcommerce.org/",
-          "title": "Southern California Black Chamber of Commerce"
+          "url": "https://authors.acm.org/journals/rights-policies",
+          "title": "Author Rights Policies"
+        },
+        {
+          "url": "https://www.delpher.nl/nl/kranten/view?identifier=ddd:010368266:mpeg21:p005&coll=ddd",
+          "title": "De Sumatra post » 02 dec 1920 - Pag. 5 | Delpher"
+        },
+        {
+          "url": "https://www.edweek.org/leadership/efforts-to-ban-critical-race-theory-now-restrict-teaching-for-a-third-of-americas-kids/2022/01",
+          "title": "Efforts to Ban Critical Race Theory Could Restrict Teaching for a Third of America's Kids"
+        },
+        {
+          "url": "https://news.gtp.gr/2010/05/01/greeces-reputation-hits-bookings/",
+          "title": "Greece's Reputation Hits Bookings | GTP Headlines"
+        },
+        {
+          "url": "https://www.hrw.org/report/2018/01/23/hidden-chains/rights-abuses-and-forced-labor-thailands-fishing-industry",
+          "title": "Hidden Chains: Rights Abuses and Forced Labor in Thailand's Fishing Industry | HRW"
+        },
+        {
+          "url": "https://www.greenbiz.com/article/how-impact-accounting-can-accelerate-corporate-emissions-reductions",
+          "title": "How impact accounting can accelerate corporate emissions reductions | Trellis"
+        },
+        {
+          "url": "http://www.ilfoglio.it/",
+          "title": "Il Foglio - Edizione Online"
+        },
+        {
+          "url": "https://www.jacksonville.com/story/sports/college/jacksonville-dolphins/2022/07/09/ron-grigg-resigns-ju-womens-track-and-cross-country-coach-after-difficult-read-posts-student-athlete/10022152002/",
+          "title": "Jacksonville University track coach resigns after bullying allegations"
+        },
+        {
+          "url": "https://www.msn.com/en-us/news/us/green-bay-stands-by-audio-surveillance-in-response-to-state-senate-letter/ar-AA17uuKL",
+          "title": "MSN"
+        },
+        {
+          "url": "http://www.thedaily.com/article/2012/12/10/121012-news-bus-audio-surveillance/",
+          "title": "New York Post - Breaking News, Top Headlines, Photos & Videos"
+        },
+        {
+          "url": "http://www.minesnewsroom.com/news/all/rss.xml",
+          "title": "News"
+        },
+        {
+          "url": "https://moegamer.net/2017/01/04/nights-of-azure-introduction-and-history/",
+          "title": "Nights of Azure: Introduction and History - MoeGamer"
+        },
+        {
+          "url": "https://supersimple.com/app-privacy-policy/",
+          "title": "Privacy Policy for Skyship Entertainment Company - Super Simple"
+        },
+        {
+          "url": "https://newrepublic.com/article/165124/ron-desantis-white-house-florida-democrats-eyeing-him",
+          "title": "Ron DeSantis Is Eyeing the White House. Florida Democrats Are Eyeing Him. | The New Republic"
+        },
+        {
+          "url": "https://www.rollcall.com/2021/08/19/why-saving-downtown-is-key-to-our-covid-19-economic-recovery/",
+          "title": "Why saving downtown is key to our COVID-19 economic recovery - Roll Call"
+        }
+      ],
+      "count": 16
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://mnisotafund.org/about",
+          "title": "About Us - Mni Sota Fund"
+        },
+        {
+          "url": "https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KELL020",
+          "title": "Anna-Maria and Stephen Kellen Foundation Inc C/o Joel E Sammet & Co LLP | Foundation Directory | Candid"
         },
         {
           "url": "https://blackbrand.biz/",
@@ -20,36 +90,40 @@
           "title": "CEO | Center for Employment Opportunities"
         },
         {
-          "url": "https://fconline.foundationcenter.org/fdo-grantmaker-profile/?key=KELL020",
-          "title": "Anna-Maria and Stephen Kellen Foundation Inc C/o Joel E Sammet & Co LLP | Foundation Directory | Candid"
+          "url": "https://donate.nationalgeographic.org/donate",
+          "title": "Donate to National Geographic - National Geographic Society"
         },
         {
           "url": "https://www.islandconservation.org/",
           "title": "Home - Island Conservation"
         },
         {
-          "url": "https://www.thekitesociety.org.uk/",
-          "title": "void"
-        },
-        {
-          "url": "https://mnisotafund.org/about",
-          "title": "About Us - Mni Sota Fund"
-        },
-        {
-          "url": "https://nativegov.org/",
-          "title": "Sovereignty matters. Native Governance Center"
-        },
-        {
-          "url": "https://donate.nationalgeographic.org/donate",
-          "title": "Donate to National Geographic - National Geographic Society"
+          "url": "https://weareultraviolet.org/",
+          "title": "Home - Ultraviolet"
         },
         {
           "url": "https://www.tent.org/become-a-member/",
           "title": "Join the Tent Partnership for Refugees"
         },
         {
+          "url": "https://www.blackchamberofcommerce.org/",
+          "title": "Southern California Black Chamber of Commerce"
+        },
+        {
+          "url": "https://nativegov.org/",
+          "title": "Sovereignty matters. Native Governance Center"
+        },
+        {
+          "url": "https://animalfoundation.com/",
+          "title": "The Animal Foundation"
+        },
+        {
           "url": "https://usowishbook.uso.org",
           "title": "USO Wishbook | USO.org"
+        },
+        {
+          "url": "https://www.thekitesociety.org.uk/",
+          "title": "void"
         },
         {
           "url": "https://volunteer.defyventures.org/",
@@ -60,10 +134,6 @@
           "title": "VOW for Girls"
         },
         {
-          "url": "https://weareultraviolet.org/",
-          "title": "Home - Ultraviolet"
-        },
-        {
           "url": "https://www.ywboston.org/about-us/employment/program-impact-senior-associate/",
           "title": "YW Boston Jobs: Join Our Team to Drive Change"
         }
@@ -71,35 +141,85 @@
       "count": 16
     },
     {
+      "name": "entertainment-culture",
+      "bookmarks": [
+        {
+          "url": "https://www.bmw-welt.com/en.html",
+          "title": "BMW Welt and BMW Museum in Munich"
+        },
+        {
+          "url": "https://www.downtowntempe.com/events/amountainchallenge",
+          "title": "Events | Downtown Tempe, AZ"
+        },
+        {
+          "url": "https://www.guggenheim.org/exhibitions",
+          "title": "Exhibitions | The Guggenheim Museums and Foundation"
+        },
+        {
+          "url": "http://www.uffizi.firenze.it/",
+          "title": "Homepage | Gallerie degli Uffizi"
+        },
+        {
+          "url": "https://www.kanopy.com",
+          "title": "Kanopy - Stream Classic Cinema, Indie Film and Top Documentaries"
+        },
+        {
+          "url": "https://www.klrn.org/",
+          "title": "KLRN TV | Using the power of media to inform, entertain and inspire"
+        },
+        {
+          "url": "https://www.kew.org/",
+          "title": "Royal Botanic Gardens, Kew | Kew"
+        },
+        {
+          "url": "https://www.bibliotecadisangavino.net/sistema-bibliotecario-monte-linas/104-san-gavino-m-le",
+          "title": "San Gavino M.le - Biblioteca Multimediale di San Gavino \"Faustino Onnis\""
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85949",
+          "title": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)"
+        },
+        {
+          "url": "https://www.erlebniswelt-ernstthal.de/",
+          "title": "Sommerrodelbahn Ernstthal | Erlebniswelt Ernstthal | Lauscha"
+        },
+        {
+          "url": "https://www.calacademy.org/about-us/sustainability-in-action",
+          "title": "Sustainability in Action - California Academy of Sciences"
+        },
+        {
+          "url": "https://www.trtizle.com/engelsiz/gonul-dagi-engelsiz/gonul-dagi-46-bolum-engelsiz-7677514",
+          "title": "tabii - Watch TV Shows Movies and Series"
+        },
+        {
+          "url": "https://www.heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
+          "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
+        }
+      ],
+      "count": 13
+    },
+    {
       "name": "education-reference",
       "bookmarks": [
         {
-          "url": "https://site.xavier.edu/polt/typewriters/tw-repair.html",
-          "title": "Typewriter Repair Shops"
+          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
+          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
         },
         {
           "url": "https://gsb.urosario.edu.co/Inicio/?_ga=2.50986857.1991745945.1660754957-1637710740.1648474320",
           "title": "Graduate School of Business Universidad del Rosario - Business School Bogotá | GSB"
         },
         {
-          "url": "https://hyundai.oemdtc.com/category/recalls",
-          "title": "Recalls | Hyundai - OEMDTC"
-        },
-        {
-          "url": "https://repository.iit.edu/islandora/search?type=edismax&cp=islandora%3Auascstudentlife&islandora_solr_search_navigation=0&f%5B0%5D=-mods_subject_topic_ms%3A%22Tricycles%22&f%5B1%5D=-mods_name_creator_namePart_s%3A%22Anderson%2C%5C%20Robert%22&f%5B2%5D=mods_relatedItem_host_titleInfo_title_s%3A%22Office%5C%20of%5C%20Communications%5C%20and%5C%20Marketing%5C%20photographs%2C%5C%201905%5C-1999%22&f%5B3%5D=-mods_subject_topic_ms%3A%22Students%5C-%5C-Social%5C%20life%5C%20and%5C%20customs%22&f%5B4%5D=mods_subject_topic_ms%3A%22Microscopes%22&f%5B5%5D=mods_subject_topic_ms%3A%22Women%5C%20college%5C%20students%22&f%5B6%5D=mods_accessCondition_useAndReproduction_mlt%3A%22in%5C%20copyright%22&f%5B7%5D=mods_name_corporate_affiliated_department_namePart_s%3A%22Illinois%5C%20Tech%5C%20Libraries%22&f%5B8%5D=-mods_typeOfResource_ms%3A%22Still%5C%20image%22",
-          "title": "Search results | repository.iit"
-        },
-        {
           "url": "http://link.springer.com/journal/10485",
           "title": "Home | Applied Categorical Structures"
         },
         {
-          "url": "https://marineregions.org/",
-          "title": "Marine Regions"
-        },
-        {
           "url": "http://www.microsim.com/",
           "title": "Introduction to Microsim of Mobile Phone"
+        },
+        {
+          "url": "https://marineregions.org/",
+          "title": "Marine Regions"
         },
         {
           "url": "http://www.odinwestpac.org/",
@@ -110,16 +230,132 @@
           "title": "Online Chess Strategy"
         },
         {
+          "url": "https://hyundai.oemdtc.com/category/recalls",
+          "title": "Recalls | Hyundai - OEMDTC"
+        },
+        {
           "url": "http://www.fishbase.org",
           "title": "Search FishBase"
         },
         {
-          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
-          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
+          "url": "https://repository.iit.edu/islandora/search?type=edismax&cp=islandora%3Auascstudentlife&islandora_solr_search_navigation=0&f%5B0%5D=-mods_subject_topic_ms%3A%22Tricycles%22&f%5B1%5D=-mods_name_creator_namePart_s%3A%22Anderson%2C%5C%20Robert%22&f%5B2%5D=mods_relatedItem_host_titleInfo_title_s%3A%22Office%5C%20of%5C%20Communications%5C%20and%5C%20Marketing%5C%20photographs%2C%5C%201905%5C-1999%22&f%5B3%5D=-mods_subject_topic_ms%3A%22Students%5C-%5C-Social%5C%20life%5C%20and%5C%20customs%22&f%5B4%5D=mods_subject_topic_ms%3A%22Microscopes%22&f%5B5%5D=mods_subject_topic_ms%3A%22Women%5C%20college%5C%20students%22&f%5B6%5D=mods_accessCondition_useAndReproduction_mlt%3A%22in%5C%20copyright%22&f%5B7%5D=mods_name_corporate_affiliated_department_namePart_s%3A%22Illinois%5C%20Tech%5C%20Libraries%22&f%5B8%5D=-mods_typeOfResource_ms%3A%22Still%5C%20image%22",
+          "title": "Search results | repository.iit"
+        },
+        {
+          "url": "https://site.xavier.edu/polt/typewriters/tw-repair.html",
+          "title": "Typewriter Repair Shops"
         },
         {
           "url": "https://www.sleepfoundation.org/bedding-information/best-thread-count-for-sheets",
           "title": "What Is the Best Thread Count for Sheets? Here's the Magic Number"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "government-agencies",
+      "bookmarks": [
+        {
+          "url": "http://dhss.alaska.gov/dph/epi/id/pages/COVID-19/vaccine.aspx",
+          "title": "Alaska Department of Health and Social Services"
+        },
+        {
+          "url": "https://dhs.iowa.gov/how-to-apply?elqTrackId=eaf4fa61ecdc4da0a0dec3b31cf4f273&elqaid=93&elqat=2",
+          "title": "Apply for Services | Health & Human Services"
+        },
+        {
+          "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
+          "title": "Carbon Dioxide - Earth Indicator - NASA Science"
+        },
+        {
+          "url": "https://www.mgap.gub.uy/solicitudforestal/denunciacorta.aspx",
+          "title": "Denuncia Corta"
+        },
+        {
+          "url": "https://undocs.org/en/A/HLPF/2019/l.1",
+          "title": "Document Viewer"
+        },
+        {
+          "url": "http://www.esa.int/",
+          "title": "European Space Agency"
+        },
+        {
+          "url": "https://www.hcsheriff.gov/pressreleases/display.php?releaseid=1533",
+          "title": "Hamilton County Sheriff's Office Website"
+        },
+        {
+          "url": "http://www.inail.it/",
+          "title": "Home"
+        },
+        {
+          "url": "http://www.nasa.gov",
+          "title": "NASA"
+        },
+        {
+          "url": "https://www.data.gouv.fr/fr/datasets/quartiers-de-marseille",
+          "title": "Quartiers de Marseille"
+        },
+        {
+          "url": "http://www.sfa.sc/",
+          "title": "Seychelles Fisheries Authority"
+        },
+        {
+          "url": "https://foodcomplaint.fsis.usda.gov/eCCF/",
+          "title": "USDA Electronic Consumer Complaint Form - Welcome"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "shopping-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://www.astroai.com/mini-fridge-10liter-15can-white/ap/10001406",
+          "title": "AstroAI | For All of Life's Adventures"
+        },
+        {
+          "url": "https://corporate.bang-olufsen.com/en",
+          "title": "Bang & Olufsen Corporate"
+        },
+        {
+          "url": "https://www.signsrxusa.com/product-category/gift-card/",
+          "title": "Custom Gift Certificates for brand promotion | SignsRxUSA"
+        },
+        {
+          "url": "https://rifraf.dk/p/imonis-3-loftlampe-black-lindby/",
+          "title": "Forside - RifRaf"
+        },
+        {
+          "url": "https://store.oliviagarden.com/products/ceramic-ion-speed-xl",
+          "title": "Hair brushes: Ceramic + Ion Speed XL Thermal Round | Olivia Garden"
+        },
+        {
+          "url": "https://www.jovanalouis.com/",
+          "title": "Jovana Louis"
+        },
+        {
+          "url": "https://www.tillhub.at/kassensysteme-baeckerei/",
+          "title": "Kassensystem Bäckerei | Die smarte Tillhub Kassa"
+        },
+        {
+          "url": "http://www.decadecounter.com/",
+          "title": "MASTER38 Slot gacor untuk para master slotter dimanapun berada"
+        },
+        {
+          "url": "https://spot-and-tango.i5md.net/c/3408212/1071343/9669?subid3=people",
+          "title": "Meet UnKibble™: Human-Grade Dog Food At An Affordable Price"
+        },
+        {
+          "url": "http://ParisHilton.com",
+          "title": "Paris Hilton - Entrepreneur, Advocate, Musician, Entertainer"
+        },
+        {
+          "url": "https://roseana.pl/pl/c/Perfumetki-meskie-inspiracja-J.P.-GAULTIER/110",
+          "title": "Roseana: Francuskie I Arabskie Perfumy | Oryginalne Zapachy Z Paryża I Dubaju"
+        },
+        {
+          "url": "https://skims.com/",
+          "title": "SKIMS | Solutions For Every Body"
         }
       ],
       "count": 12
@@ -144,24 +380,24 @@
           "title": "Fontshare: Quality Fonts. Free."
         },
         {
-          "url": "https://www.jetboost.io/",
-          "title": "No-code search and filters for Webflow CMS | Jetboost"
-        },
-        {
           "url": "https://jsfiddle.net/",
           "title": "JSFiddle - Code Playground"
+        },
+        {
+          "url": "https://www.jetboost.io/",
+          "title": "No-code search and filters for Webflow CMS | Jetboost"
         },
         {
           "url": "https://kotilabdulkadir.notion.site/Mockup-Plugin-4d94d59a10b14d30ba4e76fc8d307501?pvs=25",
           "title": "Notion"
         },
         {
-          "url": "https://www.postgresql.org/docs/current/index.html",
-          "title": "PostgreSQL: Documentation: 18: PostgreSQL 18.0 Documentation"
-        },
-        {
           "url": "https://www.uuidgenerator.net/version4",
           "title": "Online UUID Generator Tool"
+        },
+        {
+          "url": "https://www.postgresql.org/docs/current/index.html",
+          "title": "PostgreSQL: Documentation: 18: PostgreSQL 18.0 Documentation"
         },
         {
           "url": "https://www.vectorstyler.com/",
@@ -175,49 +411,7 @@
       "count": 11
     },
     {
-      "name": "web-platforms-apps",
-      "bookmarks": [
-        {
-          "url": "https://accounts.acm.org?redirectUri=%2Fdoi%2F10.1145%2F3328778.3366808",
-          "title": "ACM Account"
-        },
-        {
-          "url": "https://www.educationalappstore.com/best-apps/best-video-streaming-apps-for-kids",
-          "title": "Streaming Apps for Kids That Are Safe and Educational - EducationalAppStore"
-        },
-        {
-          "url": "https://itunes.com/apps/storytoysentertainmentlimited",
-          "title": "iTunes - Apple"
-        },
-        {
-          "url": "https://www.paltalk.com/",
-          "title": "Video Chat | Paltalk"
-        },
-        {
-          "url": "https://ghop.page.link/signin-cta",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "url": "https://g.co/yourfamily",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "url": "https://supersimple.com/app/",
-          "title": "Super Simple App - Super Simple"
-        },
-        {
-          "url": "https://apps.apple.com/us/charts/iphone/entertainment-apps/6016",
-          "title": "‎Top iPhone Entertainment apps on the App Store - Apple"
-        },
-        {
-          "url": "http://www.watchworthy.app/",
-          "title": "Watchworthy - Personalized TV Show Recommendations"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "blogs-personal",
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://8-hrs.tumblr.com/",
@@ -232,16 +426,8 @@
           "title": "@whateverzswift on Tumblr"
         },
         {
-          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
-          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
-        },
-        {
           "url": "https://mickeykilloran.tumblr.com/post/143019225768",
           "title": "Computer science: the impact of K-12 on university... - Miss Killoran"
-        },
-        {
-          "url": "https://emotionalmusings.com/2021/04/01/new-beginnings-my-dance-with-spirit/?like_comment=3454&_wpnonce=823327fa49",
-          "title": "New Beginnings, My Dance with Spirit - Emotional Musings"
         },
         {
           "url": "https://erwinthedevil-blog.tumblr.com/",
@@ -250,6 +436,14 @@
         {
           "url": "https://reidjon.tumblr.com/",
           "title": "Jon Reid Tumbling"
+        },
+        {
+          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
+          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
+        },
+        {
+          "url": "https://emotionalmusings.com/2021/04/01/new-beginnings-my-dance-with-spirit/?like_comment=3454&_wpnonce=823327fa49",
+          "title": "New Beginnings, My Dance with Spirit - Emotional Musings"
         },
         {
           "url": "https://sci-chic.tumblr.com/",
@@ -263,182 +457,84 @@
       "count": 10
     },
     {
-      "name": "news-reports",
+      "name": "web-platforms-apps",
       "bookmarks": [
         {
-          "url": "https://authors.acm.org/journals/rights-policies",
-          "title": "Author Rights Policies"
+          "url": "https://accounts.acm.org?redirectUri=%2Fdoi%2F10.1145%2F3328778.3366808",
+          "title": "ACM Account"
         },
         {
-          "url": "https://www.edweek.org/leadership/efforts-to-ban-critical-race-theory-now-restrict-teaching-for-a-third-of-americas-kids/2022/01",
-          "title": "Efforts to Ban Critical Race Theory Could Restrict Teaching for a Third of America's Kids"
+          "url": "https://itunes.com/apps/storytoysentertainmentlimited",
+          "title": "iTunes - Apple"
         },
         {
-          "url": "https://www.engadget.com/ai/",
-          "title": "AI News | Engadget"
+          "url": "https://ghop.page.link/signin-cta",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "url": "https://www.delpher.nl/nl/kranten/view?identifier=ddd:010368266:mpeg21:p005&coll=ddd",
-          "title": "De Sumatra post » 02 dec 1920 - Pag. 5 | Delpher"
+          "url": "https://g.co/yourfamily",
+          "title": "Sign in - Google Accounts"
         },
         {
-          "url": "https://news.gtp.gr/2010/05/01/greeces-reputation-hits-bookings/",
-          "title": "Greece's Reputation Hits Bookings | GTP Headlines"
+          "url": "https://www.educationalappstore.com/best-apps/best-video-streaming-apps-for-kids",
+          "title": "Streaming Apps for Kids That Are Safe and Educational - EducationalAppStore"
         },
         {
-          "url": "https://www.greenbiz.com/article/how-impact-accounting-can-accelerate-corporate-emissions-reductions",
-          "title": "How impact accounting can accelerate corporate emissions reductions | Trellis"
+          "url": "https://supersimple.com/app/",
+          "title": "Super Simple App - Super Simple"
         },
         {
-          "url": "https://www.hrw.org/report/2018/01/23/hidden-chains/rights-abuses-and-forced-labor-thailands-fishing-industry",
-          "title": "Hidden Chains: Rights Abuses and Forced Labor in Thailand's Fishing Industry | HRW"
+          "url": "https://www.paltalk.com/",
+          "title": "Video Chat | Paltalk"
         },
         {
-          "url": "http://www.ilfoglio.it/",
-          "title": "Il Foglio - Edizione Online"
+          "url": "http://www.watchworthy.app/",
+          "title": "Watchworthy - Personalized TV Show Recommendations"
         },
         {
-          "url": "https://www.jacksonville.com/story/sports/college/jacksonville-dolphins/2022/07/09/ron-grigg-resigns-ju-womens-track-and-cross-country-coach-after-difficult-read-posts-student-athlete/10022152002/",
-          "title": "Jacksonville University track coach resigns after bullying allegations"
-        },
-        {
-          "url": "https://www.msn.com/en-us/news/us/green-bay-stands-by-audio-surveillance-in-response-to-state-senate-letter/ar-AA17uuKL",
-          "title": "MSN"
-        },
-        {
-          "url": "http://www.minesnewsroom.com/news/all/rss.xml",
-          "title": "News"
-        },
-        {
-          "url": "https://newrepublic.com/article/165124/ron-desantis-white-house-florida-democrats-eyeing-him",
-          "title": "Ron DeSantis Is Eyeing the White House. Florida Democrats Are Eyeing Him. | The New Republic"
-        },
-        {
-          "url": "https://moegamer.net/2017/01/04/nights-of-azure-introduction-and-history/",
-          "title": "Nights of Azure: Introduction and History - MoeGamer"
-        },
-        {
-          "url": "https://supersimple.com/app-privacy-policy/",
-          "title": "Privacy Policy for Skyship Entertainment Company - Super Simple"
-        },
-        {
-          "url": "http://www.thedaily.com/article/2012/12/10/121012-news-bus-audio-surveillance/",
-          "title": "New York Post - Breaking News, Top Headlines, Photos & Videos"
-        },
-        {
-          "url": "https://www.rollcall.com/2021/08/19/why-saving-downtown-is-key-to-our-covid-19-economic-recovery/",
-          "title": "Why saving downtown is key to our COVID-19 economic recovery - Roll Call"
+          "url": "https://apps.apple.com/us/charts/iphone/entertainment-apps/6016",
+          "title": "‎Top iPhone Entertainment apps on the App Store - Apple"
         }
       ],
-      "count": 16
+      "count": 9
     },
     {
-      "name": "shopping-ecommerce",
+      "name": "lifestyle-hobbies",
       "bookmarks": [
         {
-          "url": "https://www.astroai.com/mini-fridge-10liter-15can-white/ap/10001406",
-          "title": "AstroAI | For All of Life's Adventures"
+          "url": "https://www.suzannes.se/271607502_502687727816019_5709728333999177448_n/",
+          "title": "271607502_502687727816019_5709728333999177448_n - Suzannes.se"
         },
         {
-          "url": "https://corporate.bang-olufsen.com/en",
-          "title": "Bang & Olufsen Corporate"
+          "url": "http://brokenjawtips.com/",
+          "title": "Ellen's Broken Jaw Tips"
         },
         {
-          "url": "http://www.decadecounter.com/",
-          "title": "MASTER38 Slot gacor untuk para master slotter dimanapun berada"
+          "url": "https://vsco.co/yerremia/gallery",
+          "title": "Gallery | yerremia | VSCO"
         },
         {
-          "url": "https://rifraf.dk/p/imonis-3-loftlampe-black-lindby/",
-          "title": "Forside - RifRaf"
+          "url": "https://www.self.com/story/issa-rae",
+          "title": "Issa Rae on Life as a Newlywed, Creating Boundaries, and Taking Care of One Another | SELF"
         },
         {
-          "url": "https://store.oliviagarden.com/products/ceramic-ion-speed-xl",
-          "title": "Hair brushes: Ceramic + Ion Speed XL Thermal Round | Olivia Garden"
+          "url": "https://www.hachettebookgroup.com/genre/travel/united-states-travel/west-united-states-travel/pacific-ak-ca-hi-or-wa/?lens=avalon-travel",
+          "title": "Pacific (ak, Ca, Hi, Or, Wa) | Hachette Book Group"
         },
         {
-          "url": "https://www.jovanalouis.com/",
-          "title": "Jovana Louis"
+          "url": "https://www.i-doser.com/advisor.php",
+          "title": "Personal Dose Advisor"
         },
         {
-          "url": "http://ParisHilton.com",
-          "title": "Paris Hilton - Entrepreneur, Advocate, Musician, Entertainer"
+          "url": "https://evolution-of-silence.de/mainpage/index.php/game-the-crew/189-news-the-crew/shortnews-the-crew/?presets=preset9&backgroundlevel=low&bodylevel=high",
+          "title": "Shortnews (The Crew) - Evolution of Silence - Multigaming News & Community since 2011"
         },
         {
-          "url": "https://roseana.pl/pl/c/Perfumetki-meskie-inspiracja-J.P.-GAULTIER/110",
-          "title": "Roseana: Francuskie I Arabskie Perfumy | Oryginalne Zapachy Z Paryża I Dubaju"
-        },
-        {
-          "url": "https://www.signsrxusa.com/product-category/gift-card/",
-          "title": "Custom Gift Certificates for brand promotion | SignsRxUSA"
-        },
-        {
-          "url": "https://skims.com/",
-          "title": "SKIMS | Solutions For Every Body"
-        },
-        {
-          "url": "https://spot-and-tango.i5md.net/c/3408212/1071343/9669?subid3=people",
-          "title": "Meet UnKibble™: Human-Grade Dog Food At An Affordable Price"
-        },
-        {
-          "url": "https://www.tillhub.at/kassensysteme-baeckerei/",
-          "title": "Kassensystem Bäckerei | Die smarte Tillhub Kassa"
+          "url": "http://szerep.hu/faultetes/1",
+          "title": "Szerep Község"
         }
       ],
-      "count": 12
-    },
-    {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "http://dhss.alaska.gov/dph/epi/id/pages/COVID-19/vaccine.aspx",
-          "title": "Alaska Department of Health and Social Services"
-        },
-        {
-          "url": "http://www.esa.int/",
-          "title": "European Space Agency"
-        },
-        {
-          "url": "https://foodcomplaint.fsis.usda.gov/eCCF/",
-          "title": "USDA Electronic Consumer Complaint Form - Welcome"
-        },
-        {
-          "url": "https://www.hcsheriff.gov/pressreleases/display.php?releaseid=1533",
-          "title": "Hamilton County Sheriff's Office Website"
-        },
-        {
-          "url": "http://www.inail.it/",
-          "title": "Home"
-        },
-        {
-          "url": "https://dhs.iowa.gov/how-to-apply?elqTrackId=eaf4fa61ecdc4da0a0dec3b31cf4f273&elqaid=93&elqat=2",
-          "title": "Apply for Services | Health & Human Services"
-        },
-        {
-          "url": "https://www.mgap.gub.uy/solicitudforestal/denunciacorta.aspx",
-          "title": "Denuncia Corta"
-        },
-        {
-          "url": "http://www.nasa.gov",
-          "title": "NASA"
-        },
-        {
-          "url": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
-          "title": "Carbon Dioxide - Earth Indicator - NASA Science"
-        },
-        {
-          "url": "https://www.data.gouv.fr/fr/datasets/quartiers-de-marseille",
-          "title": "Quartiers de Marseille"
-        },
-        {
-          "url": "http://www.sfa.sc/",
-          "title": "Seychelles Fisheries Authority"
-        },
-        {
-          "url": "https://undocs.org/en/A/HLPF/2019/l.1",
-          "title": "Document Viewer"
-        }
-      ],
-      "count": 12
+      "count": 8
     },
     {
       "name": "business-corporate",
@@ -452,14 +548,6 @@
           "title": "CardConnect Status"
         },
         {
-          "url": "https://www.imb2b.com/trend/show.php?itemid=2397",
-          "title": "新加坡國家館 進駐醫療展 - IMB2B.com"
-        },
-        {
-          "url": "https://knockinc.com/about",
-          "title": "KNOCK | Minority/Women Owned Creative Agency | Culture"
-        },
-        {
           "url": "https://www.omfif.org/events/cee-in-focus-the-future-of-capital-markets/",
           "title": "CEE in focus: the future of capital markets - OMFIF"
         },
@@ -468,107 +556,19 @@
           "title": "Il CRM numero 1 al mondo | Salesforce"
         },
         {
+          "url": "https://knockinc.com/about",
+          "title": "KNOCK | Minority/Women Owned Creative Agency | Culture"
+        },
+        {
           "url": "https://ads.tiktok.com",
           "title": "TikTok for Business | Marketing & Advertising on TikTok"
+        },
+        {
+          "url": "https://www.imb2b.com/trend/show.php?itemid=2397",
+          "title": "新加坡國家館 進駐醫療展 - IMB2B.com"
         }
       ],
       "count": 7
-    },
-    {
-      "name": "hobbies-lifestyle",
-      "bookmarks": [
-        {
-          "url": "http://brokenjawtips.com/",
-          "title": "Ellen's Broken Jaw Tips"
-        },
-        {
-          "url": "https://evolution-of-silence.de/mainpage/index.php/game-the-crew/189-news-the-crew/shortnews-the-crew/?presets=preset9&backgroundlevel=low&bodylevel=high",
-          "title": "Shortnews (The Crew) - Evolution of Silence - Multigaming News & Community since 2011"
-        },
-        {
-          "url": "https://vsco.co/yerremia/gallery",
-          "title": "Gallery | yerremia | VSCO"
-        },
-        {
-          "url": "https://www.hachettebookgroup.com/genre/travel/united-states-travel/west-united-states-travel/pacific-ak-ca-hi-or-wa/?lens=avalon-travel",
-          "title": "Pacific (ak, Ca, Hi, Or, Wa) | Hachette Book Group"
-        },
-        {
-          "url": "https://www.i-doser.com/advisor.php",
-          "title": "Personal Dose Advisor"
-        },
-        {
-          "url": "https://www.self.com/story/issa-rae",
-          "title": "Issa Rae on Life as a Newlywed, Creating Boundaries, and Taking Care of One Another | SELF"
-        },
-        {
-          "url": "http://szerep.hu/faultetes/1",
-          "title": "Szerep Község"
-        },
-        {
-          "url": "https://www.suzannes.se/271607502_502687727816019_5709728333999177448_n/",
-          "title": "271607502_502687727816019_5709728333999177448_n - Suzannes.se"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "culture-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.bibliotecadisangavino.net/sistema-bibliotecario-monte-linas/104-san-gavino-m-le",
-          "title": "San Gavino M.le - Biblioteca Multimediale di San Gavino \"Faustino Onnis\""
-        },
-        {
-          "url": "https://www.bmw-welt.com/en.html",
-          "title": "BMW Welt and BMW Museum in Munich"
-        },
-        {
-          "url": "https://www.calacademy.org/about-us/sustainability-in-action",
-          "title": "Sustainability in Action - California Academy of Sciences"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85949",
-          "title": "Searchable Recipe Database - Indies- Chocolate (VEGAN) & Ganache (Not Vegan)"
-        },
-        {
-          "url": "https://www.downtowntempe.com/events/amountainchallenge",
-          "title": "Events | Downtown Tempe, AZ"
-        },
-        {
-          "url": "https://www.erlebniswelt-ernstthal.de/",
-          "title": "Sommerrodelbahn Ernstthal | Erlebniswelt Ernstthal | Lauscha"
-        },
-        {
-          "url": "https://www.guggenheim.org/exhibitions",
-          "title": "Exhibitions | The Guggenheim Museums and Foundation"
-        },
-        {
-          "url": "https://www.heritagepark.ca/bookings-and-functions/venues/wainwright-hotel",
-          "title": "Unique Wedding Reception Calgary | Wainwright Hotel Heritage Park"
-        },
-        {
-          "url": "http://www.uffizi.firenze.it/",
-          "title": "Homepage | Gallerie degli Uffizi"
-        },
-        {
-          "url": "https://www.kanopy.com",
-          "title": "Kanopy - Stream Classic Cinema, Indie Film and Top Documentaries"
-        },
-        {
-          "url": "https://www.klrn.org/",
-          "title": "KLRN TV | Using the power of media to inform, entertain and inspire"
-        },
-        {
-          "url": "https://www.kew.org/",
-          "title": "Royal Botanic Gardens, Kew | Kew"
-        },
-        {
-          "url": "https://www.trtizle.com/engelsiz/gonul-dagi-engelsiz/gonul-dagi-46-bolum-engelsiz-7677514",
-          "title": "tabii - Watch TV Shows Movies and Series"
-        }
-      ],
-      "count": 13
     },
     {
       "name": "misc-services",
@@ -578,16 +578,16 @@
           "title": "5fish | The Gospel in Every Language | Learn about Christian beliefs in Arove"
         },
         {
-          "url": "http://www.ecobatterien.lu",
-          "title": "Home | Ecobatterien"
+          "url": "https://www.lagazettedescommunes.com/449633/et-si-on-parlait-enfin-du-travail-dans-la-fonction-publique/",
+          "title": "Et si on parlait (enfin) du travail dans la fonction publique !"
         },
         {
           "url": "https://freead1.net/grp/sale-buy:3/foods:100/mushrooms:536/USA:42/California:5/Artesia:139",
           "title": "Free ads without registration"
         },
         {
-          "url": "https://www.lagazettedescommunes.com/449633/et-si-on-parlait-enfin-du-travail-dans-la-fonction-publique/",
-          "title": "Et si on parlait (enfin) du travail dans la fonction publique !"
+          "url": "http://www.ecobatterien.lu",
+          "title": "Home | Ecobatterien"
         },
         {
           "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
@@ -608,12 +608,12 @@
       "name": "sports",
       "bookmarks": [
         {
-          "url": "https://charlestonkettlebellclub.com/",
-          "title": "Charleston Kettlebell Club"
-        },
-        {
           "url": "https://www.ilmtalzottelstedt.de/nachwuchs/archiv/2020-21/c-junioren/spiele/11981-ilmtal-zottelstedt-sv-09-arnstadt",
           "title": "2020/21 : Ilmtal Zottelstedt vs. SV 09 Arnstadt 4 : 1"
+        },
+        {
+          "url": "https://charlestonkettlebellclub.com/",
+          "title": "Charleston Kettlebell Club"
         },
         {
           "url": "https://sports.answers.com/Q/How_many_super_bowls_did_teddy_bruschi_win",

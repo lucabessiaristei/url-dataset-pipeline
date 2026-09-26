@@ -4,12 +4,12 @@
       "name": "government-public-sector",
       "bookmarks": [
         {
-          "url": "https://www.dfo-mpo.gc.ca/index-eng.html",
-          "title": "Fisheries and Oceans Canada"
-        },
-        {
           "url": "https://data.gov.sg/",
           "title": "data.gov.sg"
+        },
+        {
+          "url": "https://www.dfo-mpo.gc.ca/index-eng.html",
+          "title": "Fisheries and Oceans Canada"
         },
         {
           "url": "https://sdgs.un.org/goals/goal14",
@@ -24,16 +24,8 @@
           "title": "Home | U.S. Treasury Inspector General for Tax Administration OIG"
         },
         {
-          "url": "https://www.ilo.org/global/topics/forced-labour/definition/lang--en/index.htm",
-          "title": "What is forced labour? | International Labour Organization"
-        },
-        {
           "url": "https://kab.org/",
           "title": "Keep America Beautiful - Keep America Beautiful"
-        },
-        {
-          "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html",
-          "title": "U-2 Dragon Lady | Lockheed Martin"
         },
         {
           "url": "http://www.missingkids.org/",
@@ -42,6 +34,14 @@
         {
           "url": "https://www.seattleaquarium.org/",
           "title": "Seattle Aquarium | Inspiring Conservation of our Marine Environment"
+        },
+        {
+          "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html",
+          "title": "U-2 Dragon Lady | Lockheed Martin"
+        },
+        {
+          "url": "https://www.ilo.org/global/topics/forced-labour/definition/lang--en/index.htm",
+          "title": "What is forced labour? | International Labour Organization"
         }
       ],
       "count": 10
@@ -89,41 +89,7 @@
       "count": 9
     },
     {
-      "name": "news-current-events",
-      "bookmarks": [
-        {
-          "url": "https://americasvoice.org/press_releases/by-the-numbers-10-key-immigration-stats-from-midterms-and-beyond/",
-          "title": "By the Numbers: 10 Key Immigration Stats From Midterms and Beyond - America's Voice"
-        },
-        {
-          "url": "https://www.denverbroncos.com/news/denver-broncos-cheerleader-gabriela-windey-named-a-co-winner-of-pop-warner-human",
-          "title": "Denver Broncos Cheerleader Gabriela Windey named a co-winner of Pop Warner Humanitarian Award"
-        },
-        {
-          "url": "http://www.ew.com/article/2016/02/25/explosions-in-sky-ted-cruz-campaign",
-          "title": "Explosions In the Sky 'not okay' with Ted Cruz using their song in campaign video"
-        },
-        {
-          "url": "https://www.hindustantimes.com/opinion/policies-and-people-how-ai-is-helping-india-s-poor-become-climateresilient-101663847864017.html?fbclid=IwAR15I1N38dVutWYDzi6AHMVl57RpEssDjZODLXdgxOLrJXmQ70V1d02Dgcc",
-          "title": "Policies and People | How AI is helping India's poor become climate-resilient | Hindustan Times"
-        },
-        {
-          "url": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/",
-          "title": "Milwaukee man dies in an avalanche while on vacation in Wyoming"
-        },
-        {
-          "url": "http://www.nacleanenergy.com/articles/35982/cleaner-ev-charging-can-reduce-curtailment",
-          "title": "North American Clean Energy - Cleaner EV Charging Can Reduce Curtailment"
-        },
-        {
-          "url": "https://www.vg.no/nyheter",
-          "title": "Nyheter fra VG"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "business-finance-career",
+      "name": "business-finance-careers",
       "bookmarks": [
         {
           "url": "https://smallbusiness.withgoogle.com/?utm_source=gwg&utm_medium=ep&utm_campaign=gwg_footer",
@@ -152,6 +118,40 @@
         {
           "url": "https://ushcccares.netlify.app/",
           "title": "USHCC CARES"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "news-current-events",
+      "bookmarks": [
+        {
+          "url": "https://americasvoice.org/press_releases/by-the-numbers-10-key-immigration-stats-from-midterms-and-beyond/",
+          "title": "By the Numbers: 10 Key Immigration Stats From Midterms and Beyond - America's Voice"
+        },
+        {
+          "url": "https://www.denverbroncos.com/news/denver-broncos-cheerleader-gabriela-windey-named-a-co-winner-of-pop-warner-human",
+          "title": "Denver Broncos Cheerleader Gabriela Windey named a co-winner of Pop Warner Humanitarian Award"
+        },
+        {
+          "url": "http://www.ew.com/article/2016/02/25/explosions-in-sky-ted-cruz-campaign",
+          "title": "Explosions In the Sky 'not okay' with Ted Cruz using their song in campaign video"
+        },
+        {
+          "url": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/",
+          "title": "Milwaukee man dies in an avalanche while on vacation in Wyoming"
+        },
+        {
+          "url": "http://www.nacleanenergy.com/articles/35982/cleaner-ev-charging-can-reduce-curtailment",
+          "title": "North American Clean Energy - Cleaner EV Charging Can Reduce Curtailment"
+        },
+        {
+          "url": "https://www.vg.no/nyheter",
+          "title": "Nyheter fra VG"
+        },
+        {
+          "url": "https://www.hindustantimes.com/opinion/policies-and-people-how-ai-is-helping-india-s-poor-become-climateresilient-101663847864017.html?fbclid=IwAR15I1N38dVutWYDzi6AHMVl57RpEssDjZODLXdgxOLrJXmQ70V1d02Dgcc",
+          "title": "Policies and People | How AI is helping India's poor become climate-resilient | Hindustan Times"
         }
       ],
       "count": 7
@@ -220,27 +220,45 @@
       "name": "lifestyle-hobbies",
       "bookmarks": [
         {
-          "url": "https://artists.apple.com/",
-          "title": "Apple Music for Artists"
+          "url": "https://www.suzannes.se/271607502_502687727816019_5709728333999177448_n/",
+          "title": "271607502_502687727816019_5709728333999177448_n - Suzannes.se"
         },
         {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
-          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
+          "url": "https://artists.apple.com/",
+          "title": "Apple Music for Artists"
         },
         {
           "url": "https://www.everydayhealth.com/",
           "title": "Everyday Health: Trusted Medical Information, Expert Health Advice, News, Tools, and Resources"
         },
         {
-          "url": "https://www.featureshoot.com",
-          "title": "Travel photography, Fashion photography, Documentary photography, Editorial photography, and Portrait Photographers: Feature Shoot"
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85915",
+          "title": "Searchable Recipe Database - BACI DI DAMA SALATI"
         },
         {
-          "url": "https://www.suzannes.se/271607502_502687727816019_5709728333999177448_n/",
-          "title": "271607502_502687727816019_5709728333999177448_n - Suzannes.se"
+          "url": "https://www.featureshoot.com",
+          "title": "Travel photography, Fashion photography, Documentary photography, Editorial photography, and Portrait Photographers: Feature Shoot"
         }
       ],
       "count": 5
+    },
+    {
+      "name": "privacy-internet-management",
+      "bookmarks": [
+        {
+          "url": "https://privacyseals.bbbprograms.org/seal/Confirmation/195838664",
+          "title": "Apple Inc. - BBB National Programs Global Privacy Seals"
+        },
+        {
+          "url": "https://futuretodayinc.com/privacy.html",
+          "title": "Privacy Policy | Future Today Inc"
+        },
+        {
+          "url": "http://www.aboutads.info/choices",
+          "title": "WebChoices"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "retail-products",
@@ -256,24 +274,6 @@
         {
           "url": "https://www.marksandspencer.com/l/lingerie",
           "title": "New in Lingerie & Underwear | New in Ladies Nightwear at M&S"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "privacy-internet-management",
-      "bookmarks": [
-        {
-          "url": "http://www.aboutads.info/choices",
-          "title": "WebChoices"
-        },
-        {
-          "url": "https://privacyseals.bbbprograms.org/seal/Confirmation/195838664",
-          "title": "Apple Inc. - BBB National Programs Global Privacy Seals"
-        },
-        {
-          "url": "https://futuretodayinc.com/privacy.html",
-          "title": "Privacy Policy | Future Today Inc"
         }
       ],
       "count": 3

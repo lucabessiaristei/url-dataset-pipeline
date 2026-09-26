@@ -8,16 +8,24 @@
           "title": "Abortion Criminal Defense Initiative | American Civil Liberties Union"
         },
         {
-          "url": "https://aedamn.org/",
-          "title": "Home | AEDA"
-        },
-        {
           "url": "http://www.faithforall.org",
           "title": "Faith for ALL"
         },
         {
+          "url": "https://aedamn.org/",
+          "title": "Home | AEDA"
+        },
+        {
+          "url": "https://rebuildingtogether-twincities.org/",
+          "title": "Homepage - Rebuilding Together Minnesota"
+        },
+        {
           "url": "https://www.mccormickfoundation.org/",
           "title": "Homepage - Robert R. Mccormick Foundation"
+        },
+        {
+          "url": "https://pgafamilyfoundation.org",
+          "title": "Homepage | Allen Family Philanthropies"
         },
         {
           "url": "https://togetherband.org/pages/ambassadors",
@@ -30,14 +38,6 @@
         {
           "url": "https://pandemicrelief.unitedwayla.org/",
           "title": "Pandemic Relief Fund | United Way LA"
-        },
-        {
-          "url": "https://pgafamilyfoundation.org",
-          "title": "Homepage | Allen Family Philanthropies"
-        },
-        {
-          "url": "https://rebuildingtogether-twincities.org/",
-          "title": "Homepage - Rebuilding Together Minnesota"
         },
         {
           "url": "http://www.repak.ie",
@@ -89,15 +89,11 @@
       "count": 9
     },
     {
-      "name": "e-commerce-product-shopping",
+      "name": "ecommerce-shopping-products",
       "bookmarks": [
         {
           "url": "https://www.musicaltommy.com/almohadillas/1464-almohadilla-violin-44-kun-300-original-.html",
           "title": "Almohadilla Violín 4/4 Kun 300 Original"
-        },
-        {
-          "url": "https://musclepower.pl/product-pol-16564-SANTE-Crunchy-350g.html",
-          "title": "⚡ Crunchy - 350g - SANTE - Cena, dawkowanie, opinie - sklep MusclePower"
         },
         {
           "url": "https://www.vrai.com/diamond-jewelry",
@@ -122,6 +118,10 @@
         {
           "url": "https://www.themenlohouse.com/club",
           "title": "The Menlo Club | Personalized Styling For Men, Delivered to Your Door"
+        },
+        {
+          "url": "https://musclepower.pl/product-pol-16564-SANTE-Crunchy-350g.html",
+          "title": "⚡ Crunchy - 350g - SANTE - Cena, dawkowanie, opinie - sklep MusclePower"
         }
       ],
       "count": 8
@@ -168,12 +168,12 @@
       "name": "health-lifestyle-recreation",
       "bookmarks": [
         {
-          "url": "https://www.ptsd.va.gov/understand/common/common_veterans.asp#:~:text=The%20number%20of%20Veterans%20with,PTSD%20in%20a%20given%20year.",
-          "title": "How Common is PTSD in Veterans? - PTSD: National Center for PTSD"
-        },
-        {
           "url": "https://hebbarskitchen.com/",
           "title": "Hebbars Kitchen - Indian Veg Recipes | Vegetarian Indian Recipes blog"
+        },
+        {
+          "url": "https://www.ptsd.va.gov/understand/common/common_veterans.asp#:~:text=The%20number%20of%20Veterans%20with,PTSD%20in%20a%20given%20year.",
+          "title": "How Common is PTSD in Veterans? - PTSD: National Center for PTSD"
         },
         {
           "url": "https://ourworldindata.org/grapher/life-expectancy",
@@ -188,16 +188,16 @@
           "title": "The most beautiful mountain hikes on the Schwaz District » Sentres"
         },
         {
-          "url": "https://www.urbia.de/forum/6-kids-schule/2047473-wo-schulranzen-kaufen",
-          "title": "Wo Schulranzen kaufen?? | Forum Kids & Schule - urbia.de"
-        },
-        {
           "url": "https://www.realself.com/news/dolores-catania-breast-augmentation",
           "title": "Why Dolores Catania Got a Third Breast Augmentation | RealSelf News"
         },
         {
           "url": "https://www.vogue.com/article/cara-loves-karl-capsule-collection",
           "title": "With Cara Loves Karl, Cara Delevingne Brings Karl Lagerfeld-Inspired Style to One-and-All | Vogue"
+        },
+        {
+          "url": "https://www.urbia.de/forum/6-kids-schule/2047473-wo-schulranzen-kaufen",
+          "title": "Wo Schulranzen kaufen?? | Forum Kids & Schule - urbia.de"
         }
       ],
       "count": 8
@@ -222,12 +222,12 @@
           "title": "Notes on Parameter Tuning - xgboost 3.0.5 documentation"
         },
         {
-          "url": "https://pytorch.org/docs/stable/nn.html",
-          "title": "torch.nn - PyTorch 2.8 documentation"
-        },
-        {
           "url": "https://www.tensorflow.org/guide/keras/sequential_model",
           "title": "The Sequential model | TensorFlow Core"
+        },
+        {
+          "url": "https://pytorch.org/docs/stable/nn.html",
+          "title": "torch.nn - PyTorch 2.8 documentation"
         }
       ],
       "count": 6
@@ -262,10 +262,6 @@
       "name": "software-web-development-guides",
       "bookmarks": [
         {
-          "url": "http://www.epaperpress.com/sortsearch/",
-          "title": "Sorting and Searching Algorithms"
-        },
-        {
           "url": "https://fonts.google.com/",
           "title": "Browse Fonts - Google Fonts"
         },
@@ -280,12 +276,16 @@
         {
           "url": "https://kotilabdulkadir.notion.site/Makeswift-the-visual-builder-for-Next-js-e4a2b4ff43f644c48747fb40e0baec17?pvs=25",
           "title": "Notion"
+        },
+        {
+          "url": "http://www.epaperpress.com/sortsearch/",
+          "title": "Sorting and Searching Algorithms"
         }
       ],
       "count": 5
     },
     {
-      "name": "financial-business-services",
+      "name": "business-financial-services",
       "bookmarks": [
         {
           "url": "http://www.futurefunds.com.au/",
@@ -306,12 +306,12 @@
       "name": "personal-blogs-creative-projects",
       "bookmarks": [
         {
-          "url": "https://mirabellsecondchances.home.blog/2019/07/11/chapter-nine-cucooned/?like_comment=1432&_wpnonce=f5f1005677",
-          "title": "Chapter Nine: Cucooned - Second Chances by Mirabell"
-        },
-        {
           "url": "https://hk-devblog.com/2016/06/10/another-graphic-test/?like_comment=461&_wpnonce=2e306d0ffa",
           "title": "Another graphic test - STRAY Devblog"
+        },
+        {
+          "url": "https://mirabellsecondchances.home.blog/2019/07/11/chapter-nine-cucooned/?like_comment=1432&_wpnonce=f5f1005677",
+          "title": "Chapter Nine: Cucooned - Second Chances by Mirabell"
         },
         {
           "url": "https://mathematicallemoncake.tumblr.com/",

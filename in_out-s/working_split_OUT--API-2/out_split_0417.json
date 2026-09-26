@@ -4,10 +4,6 @@
       "name": "news-politics-current-events",
       "bookmarks": [
         {
-          "url": "https://alkoholia-netista.info/uutiset/stm-hallitusneuvos-ei-antanut-alkoholilain-etamyyntia-koskevaa-lausuntoa-ajoissa-tietopyytajalle",
-          "title": "STM:n hallitusneuvos ei antanut alkoholilain etämyyntiä koskevaa lausuntoa ajoissa tietopyytäjälle - Alkoholia-netista.info"
-        },
-        {
           "url": "https://gadebate.un.org/en",
           "title": "General Debate of the 80th Session | General Debate"
         },
@@ -30,6 +26,10 @@
         {
           "url": "https://www.stripes.com/theaters/europe/2008-11-09/slain-teen%E2%80%99s-mom-still-seeks-justice-1986876.html1",
           "title": "Slain teen's mom still seeks justice | Stars and Stripes"
+        },
+        {
+          "url": "https://alkoholia-netista.info/uutiset/stm-hallitusneuvos-ei-antanut-alkoholilain-etamyyntia-koskevaa-lausuntoa-ajoissa-tietopyytajalle",
+          "title": "STM:n hallitusneuvos ei antanut alkoholilain etämyyntiä koskevaa lausuntoa ajoissa tietopyytäjälle - Alkoholia-netista.info"
         }
       ],
       "count": 7
@@ -37,6 +37,10 @@
     {
       "name": "programming-development-resources",
       "bookmarks": [
+        {
+          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
+          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
+        },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function",
           "title": "async function - JavaScript | MDN"
@@ -60,10 +64,6 @@
         {
           "url": "https://nocodefounders.com/tools",
           "title": "No Code Tools | No Code Founders"
-        },
-        {
-          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
-          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
         }
       ],
       "count": 7
@@ -72,20 +72,12 @@
       "name": "entertainment-media-resources",
       "bookmarks": [
         {
-          "url": "https://www.hbo.com/insecure",
-          "title": "Watch Insecure (HBO) | HBO Max"
-        },
-        {
-          "url": "https://watch.frndlytv.com/",
-          "title": "Watch Family-Friendly TV Live and On Demand | FRNDLY TV"
+          "url": "https://myducksong.tumblr.com/",
+          "title": "got any grapes?"
         },
         {
           "url": "https://www.kansascitypbs.org/support/passport/",
           "title": "Kansas City PBS | Passport"
-        },
-        {
-          "url": "https://myducksong.tumblr.com/",
-          "title": "got any grapes?"
         },
         {
           "url": "https://www.nvidia.com/en-us/shield/shield-tv-pro/",
@@ -94,6 +86,14 @@
         {
           "url": "http://wiki.selectbutton.net/titlescreen?ns=hardware&tab_files=files&do=media&tab_details=view&image=fig%3Ainternal_conflict%3Akidniki_in.png",
           "title": "Title Screen [selectbutton wiki]"
+        },
+        {
+          "url": "https://watch.frndlytv.com/",
+          "title": "Watch Family-Friendly TV Live and On Demand | FRNDLY TV"
+        },
+        {
+          "url": "https://www.hbo.com/insecure",
+          "title": "Watch Insecure (HBO) | HBO Max"
         }
       ],
       "count": 6
@@ -106,12 +106,12 @@
           "title": "2010-2019 Singles :: 2013 :: Allen & Ginter :: One Little Corner"
         },
         {
-          "url": "https://dgnurseries.com/product/nicotiana-tabacum-2/",
-          "title": "Nicotiana tabacum - Wahat Al Sahraa"
-        },
-        {
           "url": "https://emotionalmusings.com/2021/04/01/new-beginnings-my-dance-with-spirit/?like_comment=3454&_wpnonce=823327fa49",
           "title": "New Beginnings, My Dance with Spirit - Emotional Musings"
+        },
+        {
+          "url": "https://dgnurseries.com/product/nicotiana-tabacum-2/",
+          "title": "Nicotiana tabacum - Wahat Al Sahraa"
         },
         {
           "url": "https://www.parenttoolkit.com/",
@@ -129,7 +129,7 @@
       "count": 6
     },
     {
-      "name": "news-business-tech",
+      "name": "news-tech-business",
       "bookmarks": [
         {
           "url": "http://www.bingogamingnews.com/",
@@ -148,19 +148,23 @@
           "title": "Final Fantasy 7 Remake: online un nuovo trailer - PlayStation Zone"
         },
         {
-          "url": "https://officialandroid.blogspot.com/",
-          "title": "Official Android news and updates | Google Blog"
-        },
-        {
           "url": "https://www.vandamme.eu/fr/actualites",
           "title": "Nouvelles | Van Damme"
+        },
+        {
+          "url": "https://officialandroid.blogspot.com/",
+          "title": "Official Android news and updates | Google Blog"
         }
       ],
       "count": 6
     },
     {
-      "name": "news-sports-analysis",
+      "name": "sports-news-analysis",
       "bookmarks": [
+        {
+          "url": "https://loebauer-sv.de/archiv/1990.html",
+          "title": "1990 | loebauer-sv.de"
+        },
         {
           "url": "https://caribbeancricket.com/news",
           "title": "CaribbeanCricket.com - The Independent Voice of West Indies Cricket"
@@ -174,10 +178,6 @@
           "title": "Latest Cricket News, Match Predictions & Analysis - Cricadium"
         },
         {
-          "url": "https://loebauer-sv.de/archiv/1990.html",
-          "title": "1990 | loebauer-sv.de"
-        },
-        {
           "url": "https://sportspages.in/blog/",
           "title": "Sports Blogs and Articles | News and Statistics"
         },
@@ -189,7 +189,59 @@
       "count": 6
     },
     {
-      "name": "business-services-marketing",
+      "name": "academic-university-resources",
+      "bookmarks": [
+        {
+          "url": "https://genealogy.cjh.org/synagogue/1132",
+          "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
+        },
+        {
+          "url": "https://www.openhistory.de/author/charlottejahnz/",
+          "title": "Charlotte Jahnz - Open History e.V."
+        },
+        {
+          "url": "https://cos2022.sites.stanford.edu/events",
+          "title": "Events | Center for Ocean Solutions"
+        },
+        {
+          "url": "https://phs.weill.cornell.edu/research-collaboration/publications?page=1&s=title&f%5Bag%5D=G&f%5Bauthor%5D=595&o=desc",
+          "title": "Publications | Page 2 | Population Health Sciences"
+        },
+        {
+          "url": "https://www.stanford.edu/search/",
+          "title": "Search Results - Stanford University"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "arts-design-creative-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.ginabinkley.com/ESSENCE/46",
+          "title": "Alicia-Fisk-lo2 | Gina Binkley"
+        },
+        {
+          "url": "https://www.outdoorlife.com/gear/best-gopros/",
+          "title": "Best GoPros of 2024 | Outdoor Life"
+        },
+        {
+          "url": "https://the-particulars.com/interview-groups/a-e/chatting-with-danielle-fichera/",
+          "title": "Danielle Fichera - The Particulars"
+        },
+        {
+          "url": "https://hackdesign.org/",
+          "title": "Design lessons for everyone, curated by top designers | Hack Design"
+        },
+        {
+          "url": "https://fontshare.com/fonts/clash-display",
+          "title": "Fontshare: Quality Fonts. Free."
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "business-marketing-services",
       "bookmarks": [
         {
           "url": "https://www.kimmo.co.za/about.php",
@@ -222,6 +274,10 @@
           "title": "Come and See Foundation Help Center"
         },
         {
+          "url": "https://translifeline.org/",
+          "title": "Home - Trans Lifeline"
+        },
+        {
           "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/publications/",
           "title": "International Downtown Association"
         },
@@ -230,38 +286,8 @@
           "title": "MilSpouse Roadmap"
         },
         {
-          "url": "https://translifeline.org/",
-          "title": "Home - Trans Lifeline"
-        },
-        {
           "url": "https://unitedwaymiami.org/",
           "title": "United Way Miami | Volunteer, Donate, or Find Help in Miami"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "creative-arts-design-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.ginabinkley.com/ESSENCE/46",
-          "title": "Alicia-Fisk-lo2 | Gina Binkley"
-        },
-        {
-          "url": "https://fontshare.com/fonts/clash-display",
-          "title": "Fontshare: Quality Fonts. Free."
-        },
-        {
-          "url": "https://hackdesign.org/",
-          "title": "Design lessons for everyone, curated by top designers | Hack Design"
-        },
-        {
-          "url": "https://www.outdoorlife.com/gear/best-gopros/",
-          "title": "Best GoPros of 2024 | Outdoor Life"
-        },
-        {
-          "url": "https://the-particulars.com/interview-groups/a-e/chatting-with-danielle-fichera/",
-          "title": "Danielle Fichera - The Particulars"
         }
       ],
       "count": 5
@@ -274,10 +300,6 @@
           "title": "EMPRES-i +"
         },
         {
-          "url": "https://flotillafoundation.org/",
-          "title": "The Flotilla Foundation"
-        },
-        {
           "url": "https://mailback-msft.tes-amm.com/_Content/nl-BE/",
           "title": "Microsoft Mail-back Program"
         },
@@ -288,6 +310,10 @@
         {
           "url": "https://www.sprfmo.org/web/public/vessel",
           "title": "South Pacific Regional Fishing Management Organisation"
+        },
+        {
+          "url": "https://flotillafoundation.org/",
+          "title": "The Flotilla Foundation"
         }
       ],
       "count": 5
@@ -300,34 +326,56 @@
           "title": "California Residents: Opt Out of Sale of Personal Information | PMC"
         },
         {
-          "url": "https://celebrityvoicechanger.com/privacy",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
-          "title": "void"
+          "url": "http://www.unfpa.org/gender-equality",
+          "title": "Gender equality | United Nations Population Fund"
         },
         {
           "url": "https://deathpenaltyinfo.org/policy-issues/innocence",
           "title": "Innocence | Death Penalty Information Center"
         },
         {
-          "url": "http://www.unfpa.org/gender-equality",
-          "title": "Gender equality | United Nations Population Fund"
+          "url": "https://celebrityvoicechanger.com/privacy",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
+          "title": "void"
         }
       ],
       "count": 5
     },
     {
-      "name": "lifestyle-shopping-products",
+      "name": "education-career-development",
       "bookmarks": [
         {
-          "url": "https://www.sephora.com/product/danessa-myricks-beauty-infinite-chrome-flakes-multichrome-gel-for-eyes-face-P481968",
-          "title": "Infinite Chrome Flakes Multichrome Gel for Eyes & Face - Danessa Myricks Beauty | Sephora"
+          "url": "https://know4life.tumblr.com/post/143086526763",
+          "title": "16% of all new wages in the U.S. are in computer... - Know4LIFE"
         },
+        {
+          "url": "https://annieburdickfreelance.com/",
+          "title": "Annie Burdick - Editing, Writing, Creative Content"
+        },
+        {
+          "url": "http://www.prnewswire.com/news-releases/horizon-media-study-reveals-americans-prioritize-stem-subjects-over-the-arts-science-is-cool-coding-is-new-literacy-300154137.html",
+          "title": "Horizon Media Study Reveals Americans Prioritize STEM Subjects over the Arts; Science is \"Cool,\" Coding is New Literacy"
+        },
+        {
+          "url": "https://webcourseworks.com/",
+          "title": "Web Courseworks is now Forj LMS | Forj"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "shopping-lifestyle-products",
+      "bookmarks": [
         {
           "url": "https://www.otto.de/herren/mode/",
           "title": "Herrenbekleidung online kaufen | OTTO"
+        },
+        {
+          "url": "https://www.sephora.com/product/danessa-myricks-beauty-infinite-chrome-flakes-multichrome-gel-for-eyes-face-P481968",
+          "title": "Infinite Chrome Flakes Multichrome Gel for Eyes & Face - Danessa Myricks Beauty | Sephora"
         },
         {
           "url": "https://skylar.com/pages/scent-club",
@@ -339,64 +387,6 @@
         }
       ],
       "count": 4
-    },
-    {
-      "name": "education-career-development",
-      "bookmarks": [
-        {
-          "url": "https://annieburdickfreelance.com/",
-          "title": "Annie Burdick - Editing, Writing, Creative Content"
-        },
-        {
-          "url": "http://www.prnewswire.com/news-releases/horizon-media-study-reveals-americans-prioritize-stem-subjects-over-the-arts-science-is-cool-coding-is-new-literacy-300154137.html",
-          "title": "Horizon Media Study Reveals Americans Prioritize STEM Subjects over the Arts; Science is \"Cool,\" Coding is New Literacy"
-        },
-        {
-          "url": "https://know4life.tumblr.com/post/143086526763",
-          "title": "16% of all new wages in the U.S. are in computer... - Know4LIFE"
-        },
-        {
-          "url": "https://webcourseworks.com/",
-          "title": "Web Courseworks is now Forj LMS | Forj"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "news-local-us",
-      "bookmarks": [
-        {
-          "url": "https://www.dailynews.com/2021/12/13/new-plan-calls-for-closure-of-aliso-canyon-facility-by-2023/",
-          "title": "New plan calls for closure of Aliso Canyon gas facility by 2023 - Daily News"
-        },
-        {
-          "url": "https://laist.com/news/food/the-city-of-la-just-extended-al-fresco-dining-for-at-least-a-year",
-          "title": "The City Of LA Just Extended Al Fresco Dining For At Least A Year | LAist"
-        },
-        {
-          "url": "https://www.tucsonweekly.com/tucson/home-run/Content?oid=22907546",
-          "title": "Content Mania!"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "news-science-health",
-      "bookmarks": [
-        {
-          "url": "https://www.medscape.com/",
-          "title": "Latest Medical News, Clinical Trials, Guidelines - Today on Medscape"
-        },
-        {
-          "url": "https://philippines.mongabay.com/",
-          "title": "Conservation and environmental science news - Mongabay"
-        },
-        {
-          "url": "https://www.reproduccionasistida.org/complicaciones-durante-el-embarazo/gripe-y-resfriado-durante-el-embarazo/",
-          "title": "Prevenir infecciones durante el embarazo"
-        }
-      ],
-      "count": 3
     },
     {
       "name": "local-public-services-czech",
@@ -417,50 +407,56 @@
       "count": 3
     },
     {
-      "name": "tech-utilities-software",
+      "name": "news-local-us",
       "bookmarks": [
         {
-          "url": "https://fier.com/login",
-          "title": "Log In ‹ Fier - WordPress"
+          "url": "https://www.tucsonweekly.com/tucson/home-run/Content?oid=22907546",
+          "title": "Content Mania!"
         },
         {
-          "url": "https://kotilabdulkadir.notion.site/Mighty-Networks-Build-Communities-Courses-Memberships-df74a633c32421c9242b0f773771c29?pvs=25",
-          "title": "Notion"
+          "url": "https://www.dailynews.com/2021/12/13/new-plan-calls-for-closure-of-aliso-canyon-facility-by-2023/",
+          "title": "New plan calls for closure of Aliso Canyon gas facility by 2023 - Daily News"
         },
         {
-          "url": "https://vpn.mozilla.org",
-          "title": "Get Mozilla VPN - Mozilla (US)"
+          "url": "https://laist.com/news/food/the-city-of-la-just-extended-al-fresco-dining-for-at-least-a-year",
+          "title": "The City Of LA Just Extended Al Fresco Dining For At Least A Year | LAist"
         }
       ],
       "count": 3
     },
     {
-      "name": "university-academic-resources",
+      "name": "news-science-health",
       "bookmarks": [
         {
-          "url": "https://genealogy.cjh.org/synagogue/1132",
-          "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
+          "url": "https://philippines.mongabay.com/",
+          "title": "Conservation and environmental science news - Mongabay"
         },
         {
-          "url": "https://www.openhistory.de/author/charlottejahnz/",
-          "title": "Charlotte Jahnz - Open History e.V."
+          "url": "https://www.medscape.com/",
+          "title": "Latest Medical News, Clinical Trials, Guidelines - Today on Medscape"
         },
         {
-          "url": "https://cos2022.sites.stanford.edu/events",
-          "title": "Events | Center for Ocean Solutions"
-        },
-        {
-          "url": "https://phs.weill.cornell.edu/research-collaboration/publications?page=1&s=title&f%5Bag%5D=G&f%5Bauthor%5D=595&o=desc",
-          "title": "Publications | Page 2 | Population Health Sciences"
-        },
-        {
-          "url": "https://www.stanford.edu/search/",
-          "title": "Search Results - Stanford University"
+          "url": "https://www.reproduccionasistida.org/complicaciones-durante-el-embarazo/gripe-y-resfriado-durante-el-embarazo/",
+          "title": "Prevenir infecciones durante el embarazo"
         }
       ],
-      "count": 5
+      "count": 3
+    },
+    {
+      "name": "software-tech-utilities",
+      "bookmarks": [
+        {
+          "url": "https://vpn.mozilla.org",
+          "title": "Get Mozilla VPN - Mozilla (US)"
+        },
+        {
+          "url": "https://fier.com/login",
+          "title": "Log In ‹ Fier - WordPress"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 88,
-  "num_folders": 17
+  "total_bookmarks": 87,
+  "num_folders": 18
 }

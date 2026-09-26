@@ -12,10 +12,6 @@
           "title": "bbPress.org"
         },
         {
-          "url": "http://www.cineca.it/",
-          "title": "Home Page | Cineca"
-        },
-        {
           "url": "http://www.ganotechnologies.com",
           "title": "Gano Technologies LLC - Home Page"
         },
@@ -26,6 +22,10 @@
         {
           "url": "https://www.coursera.org/professional-certificates/g-suite-administration",
           "title": "Google Professional Workspace Administrator Professional Certificate | Coursera"
+        },
+        {
+          "url": "http://www.cineca.it/",
+          "title": "Home Page | Cineca"
         },
         {
           "url": "https://digcitconnect.org",
@@ -133,25 +133,7 @@
       "count": 4
     },
     {
-      "name": "organizations-services",
-      "bookmarks": [
-        {
-          "url": "https://www.votervoice.net/GOODWILL/home",
-          "title": "Action Center"
-        },
-        {
-          "url": "https://www.deltafoundation.net",
-          "title": "Delta Research and Educational Foundation - The Official Research and Educational Foundation of Delta Sigma Theta Sorority, Inc."
-        },
-        {
-          "url": "http://www.erp-recycling.co.uk",
-          "title": "Home • About European Recycling Platform • ERP Global"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "lifestyle-blogs",
+      "name": "blogs-lifestyle",
       "bookmarks": [
         {
           "url": "https://indriel.no/heftige-midtsommer-energier-og-tarotkortet-skjebnehjulet-alt-henger-sammen/",
@@ -182,6 +164,24 @@
         {
           "url": "https://www.bergstadt-schneeberg.de/news/1/647837/nachrichten/sg-liegenschaften-nicht-erreichbar.html",
           "title": "SG Liegenschaften nicht erreichbar - Stadt Schneeberg"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "organizations-services",
+      "bookmarks": [
+        {
+          "url": "https://www.votervoice.net/GOODWILL/home",
+          "title": "Action Center"
+        },
+        {
+          "url": "https://www.deltafoundation.net",
+          "title": "Delta Research and Educational Foundation - The Official Research and Educational Foundation of Delta Sigma Theta Sorority, Inc."
+        },
+        {
+          "url": "http://www.erp-recycling.co.uk",
+          "title": "Home • About European Recycling Platform • ERP Global"
         }
       ],
       "count": 3

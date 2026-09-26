@@ -1,43 +1,177 @@
 {
   "folders": [
     {
-      "name": "art-and-design",
+      "name": "misc",
+      "bookmarks": [
+        {
+          "url": "https://beartag.org/",
+          "title": "Bear Taxon Advisory Group (TAG) - Association of Zoos and Aquariums (AZA)"
+        },
+        {
+          "url": "https://www.cadstudio.cz/tag/upgrade%20konec",
+          "title": "CAD Studio - vyhledávání: upgrade konec"
+        },
+        {
+          "url": "https://www.itsgoodfor.biz/case-study/civil-rights-groups-criticize-facebook-censoring-police-shootings",
+          "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
+        },
+        {
+          "url": "https://wikis.ec.europa.eu/display/WEBGUIDE/04.+Cookies+and+similar+technologies",
+          "title": "Europa Web Guide - European Commission"
+        },
+        {
+          "url": "https://imagn.com/licensing-reprints/",
+          "title": "Licensing and Reprints"
+        },
+        {
+          "url": "http://ladigitalmedia.org/video_v2/asset-detail/LSWI-0813-02_Fairhaven",
+          "title": "Louisiana Digital Media Archive"
+        },
+        {
+          "url": "https://lists.fedoraproject.org/archives/list/desktop@lists.fedoraproject.org/message/YPPVTOA3UMAPVQIZMFLFN57HAJYJLCIU/",
+          "title": "Making sure you're not a bot!"
+        },
+        {
+          "url": "https://www.toyota.com/",
+          "title": "New Cars, Trucks, SUVs & Hybrids | Toyota Official Site"
+        },
+        {
+          "url": "http://www.nacleanenergy.com/articles/35982/cleaner-ev-charging-can-reduce-curtailment",
+          "title": "North American Clean Energy - Cleaner EV Charging Can Reduce Curtailment"
+        },
+        {
+          "url": "https://www.caldeiraomagico.pt/produto/tarot-esoterico/",
+          "title": "TAROT ESOTERICO - Caldeirão Mágico - Artigos Esótericos"
+        },
+        {
+          "url": "https://insider.windows.com/",
+          "title": "The Windows Insider Program"
+        },
+        {
+          "url": "https://twowaypr.tumblr.com/",
+          "title": "Two-Way PR"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "science-technology",
+      "bookmarks": [
+        {
+          "url": "https://hacksandheels.tumblr.com/",
+          "title": "adventures of The Girl"
+        },
+        {
+          "url": "https://www.tensorflow.org/tutorials/keras/classification",
+          "title": "Basic classification: Classify images of clothing | TensorFlow Core"
+        },
+        {
+          "url": "https://api-docs.carto.com",
+          "title": "CARTO API Documentation"
+        },
+        {
+          "url": "https://lab.kb.nl/?theme=dark&amp%3Bf%5B0%5D=field_file_format%3A18&amp%3Bf%5B1%5D=field_product_source%3A5&f%5B0%5D=field_product_type%3A2&f%5B1%5D=field_product_source%3A9&f%5B2%5D=field_category%3A30",
+          "title": "KB LAB | KB LAB"
+        },
+        {
+          "url": "https://scratch.mit.edu/terms_of_use",
+          "title": "Scratch - Scratch Terms of Use"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "art-design",
       "bookmarks": [
         {
           "url": "https://www.tate.org.uk/art/art-terms/c/cubism",
           "title": "Cubism | Tate"
         },
         {
-          "url": "https://jollygoodbeer.co.uk/pollys-smooth_grove-keg/",
-          "title": "Pollys-Smooth_Grove-KEG - Jolly Good Beer"
-        },
-        {
           "url": "https://zpwholesale.com/products/infinity-stackable-ring-in-sterling-silver-6924-ss",
           "title": "Infinity Stackable Ring in Sterling Silver, #6924-ss - Zoe & Piper Wholesale"
+        },
+        {
+          "url": "https://jollygoodbeer.co.uk/pollys-smooth_grove-keg/",
+          "title": "Pollys-Smooth_Grove-KEG - Jolly Good Beer"
         }
       ],
       "count": 3
     },
     {
-      "name": "environment-and-conservation",
+      "name": "business-finance",
       "bookmarks": [
         {
-          "url": "https://wwfmmi.org/what_we_do/fisheries/transforming_small_scale_fisheries/impact_of_covid_on_mediterranean_fisheries/",
-          "title": "Impact of COVID on Mediterranean fisheries | WWF"
+          "url": "https://durable.co/",
+          "title": "Durable AI Website Builder and Small Business Software"
         },
         {
-          "url": "https://wearestillin.com/",
-          "title": "Home | We Are Still In"
+          "url": "https://instagram.com/theuso/",
+          "title": "USO (@theuso) • Instagram photos and videos"
         },
+        {
+          "url": "https://global-crypto.co.uk/en/crypto-ico/yumerium",
+          "title": "Yumerium ICO"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "culture-society",
+      "bookmarks": [
+        {
+          "url": "https://www.dasra.org/",
+          "title": "Dasra Home Page"
+        },
+        {
+          "url": "https://www.seattlefoundation.org/",
+          "title": "Home - Seattle Foundation"
+        },
+        {
+          "url": "https://www.yearupannualreport.com/",
+          "title": "Year Up Annual Report"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "entertainment-leisure",
+      "bookmarks": [
+        {
+          "url": "https://www.bravotv.com",
+          "title": "Bravo Official Site: Shows, Videos, News & Schedule"
+        },
+        {
+          "url": "http://www.games-db.com/Arcade/",
+          "title": "Browse in Arcade < Games-db.com: computer games, video games, arcade, pinball, handheld, traditional >"
+        },
+        {
+          "url": "http://ginrummytournaments.com/",
+          "title": "WSOGR"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "environment-conservation",
+      "bookmarks": [
         {
           "url": "https://donate.mongabay.org/?utm_source=mongabay.com&utm_medium=headerlink&utm_campaign=com-header-text-link-new",
           "title": "Donate to Mongabay"
+        },
+        {
+          "url": "https://www.wearestillin.com/",
+          "title": "Home | We Are Still In"
+        },
+        {
+          "url": "http://www.wwfmmi.org/what_we_do/fisheries/transforming_small_scale_fisheries/impact_of_covid_on_mediterranean_fisheries/",
+          "title": "Impact of COVID on Mediterranean fisheries | WWF"
         }
       ],
       "count": 3
     },
     {
-      "name": "health-and-wellness",
+      "name": "health-wellness",
       "bookmarks": [
         {
           "url": "https://cv.nmhealth.org/covid-vaccine/",
@@ -48,201 +182,63 @@
           "title": "Helping breast cancer patients get quality healthcare"
         },
         {
-          "url": "https://isuroon.org/",
+          "url": "https://www.isuroon.org/",
           "title": "Isuroon - Strong Women Strong Community"
         }
       ],
       "count": 3
     },
     {
-      "name": "news-and-media",
+      "name": "news-media",
       "bookmarks": [
         {
-          "url": "https://kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
+          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
           "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
         },
         {
-          "url": "https://oneidadispatch.com/2023/02/21/remembering-oneida-soccer-coach-dale-mccormick/",
+          "url": "https://www.oneidadispatch.com/2023/02/21/remembering-oneida-soccer-coach-dale-mccormick/",
           "title": "A Tragic Loss: The Oneida community honors Oneida soccer coach Dale McCormick - Oneida Dispatch"
         },
         {
-          "url": "https://georgium.ucoz.hu/news/2016-01-20",
+          "url": "http://georgium.ucoz.hu/news/2016-01-20",
           "title": "György Béla Honlapja | Főoldal - Hírek, hasznos információk"
         }
       ],
       "count": 3
     },
     {
-      "name": "science-and-technology",
+      "name": "shopping-retail",
       "bookmarks": [
         {
-          "url": "https://tensorflow.org/tutorials/keras/classification",
-          "title": "Basic classification: Classify images of clothing | TensorFlow Core"
-        },
-        {
-          "url": "https://api-docs.carto.com",
-          "title": "CARTO API Documentation"
-        },
-        {
-          "url": "https://scratch.mit.edu/terms_of_use",
-          "title": "Scratch - Scratch Terms of Use"
-        },
-        {
-          "url": "https://hacksandheels.tumblr.com/",
-          "title": "adventures of The Girl"
-        },
-        {
-          "url": "https://lab.kb.nl/?theme=dark&amp%3Bf%5B0%5D=field_file_format%3A18&amp%3Bf%5B1%5D=field_product_source%3A5&f%5B0%5D=field_product_type%3A2&f%5B1%5D=field_product_source%3A9&f%5B2%5D=field_category%3A30",
-          "title": "KB LAB | KB LAB"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "shopping-and-retail",
-      "bookmarks": [
-        {
-          "url": "https://fentybeauty.com/products/stunna-lip-paint-longwear-fluid-lip-color-uncensored",
-          "title": "Stunna Lip Paint Longwear Fluid Lip Color | Fenty Beauty"
+          "url": "https://capitaloneshopping.com/capitalone",
+          "title": "Capital One Shopping"
         },
         {
           "url": "https://tyres.geniepowered.com.au/product-category/size-20/",
           "title": "Size 20 | Genie Powered Tyres"
         },
         {
-          "url": "https://capitaloneshopping.com/capitalone",
-          "title": "Capital One Shopping"
+          "url": "https://fentybeauty.com/products/stunna-lip-paint-longwear-fluid-lip-color-uncensored",
+          "title": "Stunna Lip Paint Longwear Fluid Lip Color | Fenty Beauty"
         }
       ],
       "count": 3
     },
     {
-      "name": "society-and-culture",
-      "bookmarks": [
-        {
-          "url": "https://seattlefoundation.org/",
-          "title": "Home - Seattle Foundation"
-        },
-        {
-          "url": "https://yearupannualreport.com/",
-          "title": "Year Up Annual Report"
-        },
-        {
-          "url": "https://dasra.org/",
-          "title": "Dasra Home Page"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "entertainment-and-leisure",
-      "bookmarks": [
-        {
-          "url": "https://bravotv.com",
-          "title": "Bravo Official Site: Shows, Videos, News & Schedule"
-        },
-        {
-          "url": "https://games-db.com/Arcade/",
-          "title": "Browse in Arcade < Games-db.com: computer games, video games, arcade, pinball, handheld, traditional >"
-        },
-        {
-          "url": "https://ginrummytournaments.com/",
-          "title": "WSOGR"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "business-and-finance",
-      "bookmarks": [
-        {
-          "url": "https://durable.co/",
-          "title": "Durable AI Website Builder and Small Business Software"
-        },
-        {
-          "url": "https://global-crypto.co.uk/en/crypto-ico/yumerium",
-          "title": "Yumerium ICO"
-        },
-        {
-          "url": "https://instagram.com/theuso/",
-          "title": "USO (@theuso) • Instagram photos and videos"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "education-and-research",
+      "name": "education-research",
       "bookmarks": [
         {
           "url": "https://phs.weill.cornell.edu/research-collaboration/publications?page=1&s=title&f%5Bag%5D=G&f%5Bauthor%5D=595&o=desc",
           "title": "Publications | Page 2 | Population Health Sciences"
         },
         {
-          "url": "https://ihusonline.unisinos.br/edicao/260",
-          "title": "Início"
-        },
-        {
           "url": "https://data.apps.fao.org/",
           "title": "void"
         }
       ],
-      "count": 3
-    },
-    {
-      "name": "misc",
-      "bookmarks": [
-        {
-          "url": "https://imagn.com/licensing-reprints/",
-          "title": "Licensing and Reprints"
-        },
-        {
-          "url": "https://nacleanenergy.com/articles/35982/cleaner-ev-charging-can-reduce-curtailment",
-          "title": "North American Clean Energy - Cleaner EV Charging Can Reduce Curtailment"
-        },
-        {
-          "url": "https://insider.windows.com/",
-          "title": "The Windows Insider Program"
-        },
-        {
-          "url": "https://cadstudio.cz/tag/upgrade%20konec",
-          "title": "CAD Studio - vyhledávání: upgrade konec"
-        },
-        {
-          "url": "https://wikis.ec.europa.eu/display/WEBGUIDE/04.+Cookies+and+similar+technologies",
-          "title": "Europa Web Guide - European Commission"
-        },
-        {
-          "url": "https://lists.fedoraproject.org/archives/list/desktop@lists.fedoraproject.org/message/YPPVTOA3UMAPVQIZMFLFN57HAJYJLCIU/",
-          "title": "Making sure you're not a bot!"
-        },
-        {
-          "url": "https://itsgoodfor.biz/case-study/civil-rights-groups-criticize-facebook-censoring-police-shootings",
-          "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
-        },
-        {
-          "url": "https://toyota.com/",
-          "title": "New Cars, Trucks, SUVs & Hybrids | Toyota Official Site"
-        },
-        {
-          "url": "https://twowaypr.tumblr.com/",
-          "title": "Two-Way PR"
-        },
-        {
-          "url": "https://ladigitalmedia.org/video_v2/asset-detail/LSWI-0813-02_Fairhaven",
-          "title": "Louisiana Digital Media Archive"
-        },
-        {
-          "url": "https://beartag.org/",
-          "title": "Bear Taxon Advisory Group (TAG) - Association of Zoos and Aquariums (AZA)"
-        },
-        {
-          "url": "https://caldeiraomagico.pt/produto/tarot-esoterico/",
-          "title": "TAROT ESOTERICO - Caldeirão Mágico - Artigos Esótericos"
-        }
-      ],
-      "count": 13
+      "count": 2
     }
   ],
-  "total_bookmarks": 47,
+  "total_bookmarks": 43,
   "num_folders": 11
 }

@@ -4,12 +4,12 @@
       "name": "news-articles",
       "bookmarks": [
         {
-          "url": "https://abcnews.go.com/",
-          "title": "ABC News - Breaking News, Latest News and Videos"
-        },
-        {
           "url": "https://www.businessinsider.com/1-in-4-us-workers-plan-new-job-after-coronavirus-pandemic-survey-2021-4",
           "title": "26% US Workers Plan New Job Hunt After COVID-19 Pandemic: Survey - Business Insider"
+        },
+        {
+          "url": "https://abcnews.go.com/",
+          "title": "ABC News - Breaking News, Latest News and Videos"
         },
         {
           "url": "https://caughtatpoint.com/",
@@ -90,28 +90,28 @@
           "title": "Connexion - Club.doctissimo.fr"
         },
         {
-          "url": "http://elsmediakits.com",
-          "title": "Elsevier Pharma Solutions"
+          "url": "https://laylasleep.com/product/layla-shredded-memory-foam-pillow/",
+          "title": "Cooling Shredded Memory Foam Pillow | Layla Sleep®"
         },
         {
-          "url": "https://hidratespark.com/blogs/hidrate-spark/march-is-national-nutrition-month",
-          "title": "March is National Nutrition Month | HidrateSpark"
+          "url": "http://elsmediakits.com",
+          "title": "Elsevier Pharma Solutions"
         },
         {
           "url": "http://www.idreams.pl/our-products/show/product/21-Lets-Create-Pottery",
           "title": "Let's Create! Pottery | Products | Infinite Dreams"
         },
         {
-          "url": "https://laylasleep.com/product/layla-shredded-memory-foam-pillow/",
-          "title": "Cooling Shredded Memory Foam Pillow | Layla Sleep®"
+          "url": "https://home.nest.com/en/US",
+          "title": "Log into the Nest app"
+        },
+        {
+          "url": "https://hidratespark.com/blogs/hidrate-spark/march-is-national-nutrition-month",
+          "title": "March is National Nutrition Month | HidrateSpark"
         },
         {
           "url": "https://merchants.fiserv.com",
           "title": "Merchant Services | Payment Processing Enterprise Solutions | Fiserv"
-        },
-        {
-          "url": "https://home.nest.com/en/US",
-          "title": "Log into the Nest app"
         },
         {
           "url": "https://www.vandamme.eu/fr/actualites",
@@ -129,56 +129,6 @@
       "count": 13
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://zeaphra.tumblr.com/",
-          "title": "Blog"
-        },
-        {
-          "url": "http://www.fangsforthefantasy.com/2014/10/the-walking-dead-season-five-episode_27.html",
-          "title": "Fangs For The Fantasy: The Walking Dead, Season Five, Episode Three: Four Walls and a Roof"
-        },
-        {
-          "url": "https://www.heresybrush.com/en/",
-          "title": "HeresyBrush - Painting and Modelling blog"
-        },
-        {
-          "url": "https://levonbiss.com",
-          "title": "LEVON BISS | Discover Nature's Artistry Today"
-        },
-        {
-          "url": "https://www.mathieustern.com",
-          "title": "Mathieu Stern"
-        },
-        {
-          "url": "https://moegamer.net/2017/01/04/nights-of-azure-introduction-and-history/",
-          "title": "Nights of Azure: Introduction and History - MoeGamer"
-        },
-        {
-          "url": "https://latenightsandgiggles.tumblr.com/",
-          "title": "My Life as a Teenage Robot"
-        },
-        {
-          "url": "https://political-minds.tumblr.com/",
-          "title": "Political-Minds"
-        },
-        {
-          "url": "https://clairemazurel.com/fr/portfolio-89434-presse",
-          "title": "PRESSE"
-        },
-        {
-          "url": "https://linktr.ee/summer.residency",
-          "title": "Summer Residency | Linktree"
-        },
-        {
-          "url": "https://crisssemm.tumblr.com/",
-          "title": "void"
-        }
-      ],
-      "count": 11
-    },
-    {
       "name": "org-community-support",
       "bookmarks": [
         {
@@ -192,10 +142,6 @@
         {
           "url": "https://copalmn.org/en/home/",
           "title": "COPAL Communities Organizing Latine Power and Action - COPAL leads social impact initiatives to improve the quality of life for Latino families in Minnesota."
-        },
-        {
-          "url": "https://goldentriangledc.com/return-to-office/",
-          "title": "Return to the Office - Golden Triangle"
         },
         {
           "url": "https://connect.ala.org/home",
@@ -230,6 +176,10 @@
           "title": "Pec Cares -"
         },
         {
+          "url": "https://goldentriangledc.com/return-to-office/",
+          "title": "Return to the Office - Golden Triangle"
+        },
+        {
           "url": "https://www.ywcagc.org/",
           "title": "YWCA GREATER CHARLESTON - YWCA GREATER CHARLESTON"
         }
@@ -237,23 +187,73 @@
       "count": 13
     },
     {
-      "name": "tech-software",
+      "name": "personal-blogs",
       "bookmarks": [
         {
-          "url": "https://www.i-doser.com/advisor.php",
-          "title": "Personal Dose Advisor"
+          "url": "https://zeaphra.tumblr.com/",
+          "title": "Blog"
         },
         {
-          "url": "https://e.issuu.com/embed.html?d=fisheco_203_2020&pageNumber=76&u=magazinefisheco",
-          "title": "Issuu Reader"
+          "url": "http://www.fangsforthefantasy.com/2014/10/the-walking-dead-season-five-episode_27.html",
+          "title": "Fangs For The Fantasy: The Walking Dead, Season Five, Episode Three: Four Walls and a Roof"
         },
+        {
+          "url": "https://www.heresybrush.com/en/",
+          "title": "HeresyBrush - Painting and Modelling blog"
+        },
+        {
+          "url": "https://levonbiss.com",
+          "title": "LEVON BISS | Discover Nature's Artistry Today"
+        },
+        {
+          "url": "https://www.mathieustern.com",
+          "title": "Mathieu Stern"
+        },
+        {
+          "url": "https://latenightsandgiggles.tumblr.com/",
+          "title": "My Life as a Teenage Robot"
+        },
+        {
+          "url": "https://moegamer.net/2017/01/04/nights-of-azure-introduction-and-history/",
+          "title": "Nights of Azure: Introduction and History - MoeGamer"
+        },
+        {
+          "url": "https://political-minds.tumblr.com/",
+          "title": "Political-Minds"
+        },
+        {
+          "url": "https://clairemazurel.com/fr/portfolio-89434-presse",
+          "title": "PRESSE"
+        },
+        {
+          "url": "https://linktr.ee/summer.residency",
+          "title": "Summer Residency | Linktree"
+        },
+        {
+          "url": "https://crisssemm.tumblr.com/",
+          "title": "void"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "tech-software",
+      "bookmarks": [
         {
           "url": "https://kafkai.com/en/",
           "title": "AI SEO Content & Competitor Insights Tool - Kafkai"
         },
         {
+          "url": "https://www.sayellow.com/south-africa/auctioneers-livestock-in-sedibeng",
+          "title": "Auctioneers - Livestock in Sedibeng, South Africa"
+        },
+        {
           "url": "https://www.likewise.com",
           "title": "Find New TV Shows, Movies, Books, Podcasts & More"
+        },
+        {
+          "url": "https://e.issuu.com/embed.html?d=fisheco_203_2020&pageNumber=76&u=magazinefisheco",
+          "title": "Issuu Reader"
         },
         {
           "url": "https://www.looker.com",
@@ -264,12 +264,12 @@
           "title": "Medium Status"
         },
         {
-          "url": "https://prod.outgoing.prod.webservices.mozgcp.net/v1/d0ad1f1006b7d027d2f20ecc4caa532a9c838393ad1d419cafd80e8770a1b936/https%3A//github.com/mozilla/contain-facebook",
-          "title": "Redirecting to https://github.com/mozilla/contain-facebook"
+          "url": "https://www.i-doser.com/advisor.php",
+          "title": "Personal Dose Advisor"
         },
         {
-          "url": "https://www.sayellow.com/south-africa/auctioneers-livestock-in-sedibeng",
-          "title": "Auctioneers - Livestock in Sedibeng, South Africa"
+          "url": "https://prod.outgoing.prod.webservices.mozgcp.net/v1/d0ad1f1006b7d027d2f20ecc4caa532a9c838393ad1d419cafd80e8770a1b936/https%3A//github.com/mozilla/contain-facebook",
+          "title": "Redirecting to https://github.com/mozilla/contain-facebook"
         },
         {
           "url": "https://vms.drweb.com/virus/?i=24687843",
@@ -318,12 +318,12 @@
           "title": "Tennessee Supreme Court Cases | Tennessee State Library & Archives"
         },
         {
-          "url": "https://fws.gov/",
-          "title": "U.S. Fish and Wildlife Service"
-        },
-        {
           "url": "https://flickr.com/usdagov",
           "title": "U.S. Department of Agriculture | Flickr"
+        },
+        {
+          "url": "https://fws.gov/",
+          "title": "U.S. Fish and Wildlife Service"
         }
       ],
       "count": 9
@@ -336,28 +336,28 @@
           "title": "Beyond the Bag - Closed Loop Partners"
         },
         {
-          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
-          "title": "Donate Now - Mozilla Foundation"
+          "url": "https://rodaleinstitute.org/why-organic/organic-farming-practices/crop-rotations/",
+          "title": "Crop Rotations - Rodale Institute"
         },
         {
           "url": "https://www.mongabay.org/donate/?bottom_menu_link",
           "title": "Donate - Environmental Journalism and Education"
         },
         {
+          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
+          "title": "Donate Now - Mozilla Foundation"
+        },
+        {
           "url": "https://www.nyclu.org",
           "title": "Homepage - NYCLU"
         },
         {
-          "url": "https://www.motorolasolutions.com/en_xu/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html",
-          "title": "Motorola Solutions Foundation - Motorola Solutions EMEA"
-        },
-        {
-          "url": "https://rodaleinstitute.org/why-organic/organic-farming-practices/crop-rotations/",
-          "title": "Crop Rotations - Rodale Institute"
-        },
-        {
           "url": "https://sustainablefoodgroup.org/the-sustainability-standard",
           "title": "IPM Institute - IPM Institute"
+        },
+        {
+          "url": "https://www.motorolasolutions.com/en_xu/about/company-overview/corporate-responsibility/motorola-solutions-foundation.html",
+          "title": "Motorola Solutions Foundation - Motorola Solutions EMEA"
         },
         {
           "url": "http://www.unwater.org/",
@@ -394,19 +394,49 @@
           "title": "Jumpsuits for Women | Aerie"
         },
         {
-          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
-          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
-        },
-        {
           "url": "https://www.mochu.com.tw/products/%E8%B2%B4%E6%97%8F%E5%B0%8F%E7%8E%8B%E5%AD%90%E5%A5%97%E8%A3%9D",
           "title": "Mochu童裝"
         },
         {
           "url": "http://www.suspenderstore.com/",
           "title": "Suspenders for Men, Women, and Kids | SuspenderStore"
+        },
+        {
+          "url": "https://www.meitani.gr/el/bytype/pendants/SXK167008/",
+          "title": "ΚΡΕΜΑΣΤΟ Μπρούντζος no2 Σχήματα 24,00€ - Μαργαρίτα Μεϊτάνη | χειρόγραφα"
         }
       ],
       "count": 8
+    },
+    {
+      "name": "hobbies-reference",
+      "bookmarks": [
+        {
+          "url": "https://wiktenauer.com/wiki/George_Silver",
+          "title": "George Silver ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
+        },
+        {
+          "url": "http://zitate.net/mitglied-zitate",
+          "title": "Mitgliedzitate - Die besten Zitate und Sprüche über Mitglieder - Zitate.net"
+        },
+        {
+          "url": "http://bolsboardgames.com/",
+          "title": "Scrabble Word Finder, Dictionary, Cheat, Anagram Help - BoLS Boardgames"
+        },
+        {
+          "url": "https://typewriterdatabase.com/smithcorona.35.typewriter-models",
+          "title": "Typewriter Database Popular Typewriter Models"
+        },
+        {
+          "url": "http://www.worldbunco.com/",
+          "title": "World Bunco Association - The Official Site"
+        },
+        {
+          "url": "https://esotericarchives.com/agrippa/",
+          "title": "Writings of Heinrich Cornelius Agrippa (1486-1535)"
+        }
+      ],
+      "count": 6
     },
     {
       "name": "tech-articles",
@@ -439,31 +469,31 @@
       "count": 6
     },
     {
-      "name": "hobbies-reference",
+      "name": "travel-places",
       "bookmarks": [
         {
-          "url": "http://bolsboardgames.com/",
-          "title": "Scrabble Word Finder, Dictionary, Cheat, Anagram Help - BoLS Boardgames"
+          "url": "https://sexyfishmiami.com/",
+          "title": "Asian Restaurant & Late Night Bar Miami | Fish Restaurant | Sexy Fish"
         },
         {
-          "url": "https://wiktenauer.com/wiki/George_Silver",
-          "title": "George Silver ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
+          "url": "https://www.jimbeam.com/pl-pl/buy?language=en-au&language_content_entity=nl",
+          "title": "Buy Jim Beam Bourbon Products with Our Locator | Jim Beam®"
         },
         {
-          "url": "http://zitate.net/mitglied-zitate",
-          "title": "Mitgliedzitate - Die besten Zitate und Sprüche über Mitglieder - Zitate.net"
+          "url": "https://fogoislandinn.ca/",
+          "title": "Fogo Island Inn | All-Inclusive Hospitality & Regenerative Travel"
         },
         {
-          "url": "https://typewriterdatabase.com/smithcorona.35.typewriter-models",
-          "title": "Typewriter Database Popular Typewriter Models"
+          "url": "https://www.intrepidmuseum.org/",
+          "title": "Intrepid Museum"
         },
         {
-          "url": "http://www.worldbunco.com/",
-          "title": "World Bunco Association - The Official Site"
+          "url": "https://uk.flightaware.com/live/cancelled/",
+          "title": "Live Airline Flight Cancellations Info & Statistics - FlightAware"
         },
         {
-          "url": "https://esotericarchives.com/agrippa/",
-          "title": "Writings of Heinrich Cornelius Agrippa (1486-1535)"
+          "url": "https://bileti.bdz.bg/",
+          "title": "БДЖ билетоиздаване"
         }
       ],
       "count": 6
@@ -476,16 +506,16 @@
           "title": "Open Data Commons Open Database License (ODbL) - Open Data Commons: legal tools for open data"
         },
         {
+          "url": "https://shared.ydstatic.com/dict/market/youdaoInfos/index.html",
+          "title": "Privacy Policy"
+        },
+        {
           "url": "https://akismet.com/privacy/",
           "title": "Privacy Policy - Akismet"
         },
         {
           "url": "https://www.wetv.com/privacy",
           "title": "Privacy Policy - AMC Networks Inc."
-        },
-        {
-          "url": "https://shared.ydstatic.com/dict/market/youdaoInfos/index.html",
-          "title": "Privacy Policy"
         },
         {
           "url": "https://www.teachley.com/privacy",
@@ -519,36 +549,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "travel-places",
-      "bookmarks": [
-        {
-          "url": "https://bileti.bdz.bg/",
-          "title": "БДЖ билетоиздаване"
-        },
-        {
-          "url": "https://www.jimbeam.com/pl-pl/buy?language=en-au&language_content_entity=nl",
-          "title": "Buy Jim Beam Bourbon Products with Our Locator | Jim Beam®"
-        },
-        {
-          "url": "https://fogoislandinn.ca/",
-          "title": "Fogo Island Inn | All-Inclusive Hospitality & Regenerative Travel"
-        },
-        {
-          "url": "https://www.intrepidmuseum.org/",
-          "title": "Intrepid Museum"
-        },
-        {
-          "url": "https://uk.flightaware.com/live/cancelled/",
-          "title": "Live Airline Flight Cancellations Info & Statistics - FlightAware"
-        },
-        {
-          "url": "https://sexyfishmiami.com/",
-          "title": "Asian Restaurant & Late Night Bar Miami | Fish Restaurant | Sexy Fish"
-        }
-      ],
-      "count": 6
     },
     {
       "name": "education-resources",

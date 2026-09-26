@@ -4,32 +4,32 @@
       "name": "science-environment",
       "bookmarks": [
         {
-          "url": "http://blogs.esa.int/",
-          "title": "ESA Blog Navigator - Navigator page for active ESA blogs"
+          "url": "https://rap.riken.jp/en/labs/aptdg/amst/",
+          "title": "Advanced Manufacturing Support Team | RIKEN Center for Advanced Photonics"
         },
         {
           "url": "https://inbuildingtech.com/buildings/brainbox-ai-watttime-partner-to-reduce-co2-emissions-produced-by-cre-properties/",
           "title": "BrainBox AI, WattTime partner to reduce CO2 emissions produced by CRE properties | RCR Wireless News"
         },
         {
-          "url": "https://ipbes.net/global-assessment",
-          "title": "Global Assessment Report on Biodiversity and Ecosystem Services | IPBES secretariat"
-        },
-        {
           "url": "https://www.ipcc.ch/report/ar6/wg3/",
           "title": "Climate Change 2022: Mitigation of Climate Change"
         },
         {
-          "url": "https://oceansolutions.stanford.edu/news/leveraging-blue-foods-can-help-policymakers-address-multiple-global-challenges-new-analysis",
-          "title": "Leveraging blue foods can help policymakers address multiple global challenges, new analysis shows | Center for Ocean Solutions"
-        },
-        {
-          "url": "https://rap.riken.jp/en/labs/aptdg/amst/",
-          "title": "Advanced Manufacturing Support Team | RIKEN Center for Advanced Photonics"
+          "url": "http://blogs.esa.int/",
+          "title": "ESA Blog Navigator - Navigator page for active ESA blogs"
         },
         {
           "url": "http://tnfri.fra.affrc.go.jp/eindex.html",
           "title": "Fisheries Research Agency"
+        },
+        {
+          "url": "https://ipbes.net/global-assessment",
+          "title": "Global Assessment Report on Biodiversity and Ecosystem Services | IPBES secretariat"
+        },
+        {
+          "url": "https://oceansolutions.stanford.edu/news/leveraging-blue-foods-can-help-policymakers-address-multiple-global-challenges-new-analysis",
+          "title": "Leveraging blue foods can help policymakers address multiple global challenges, new analysis shows | Center for Ocean Solutions"
         },
         {
           "url": "https://www.wwf.eu/?1014116/Unregulated-fishing-on-the-high-seas-of-the-Indian-Ocean",
@@ -46,16 +46,20 @@
           "title": "Angi (formerly Angie's List): Home Service Pros"
         },
         {
-          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
-          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
-        },
-        {
           "url": "https://online.adp.com/olp/olplanding.html?APPID=WFNPORTAL&v=1813381371",
           "title": "Federation Redirector"
         },
         {
+          "url": "https://withjoy.com",
+          "title": "Joy - Wedding Planning, Redesigned"
+        },
+        {
           "url": "http://www.libero.it/",
           "title": "Libero: Mail, Ricerca e News con aggiornamento quotidiano"
+        },
+        {
+          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
+          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
         },
         {
           "url": "https://ride.lyft.com/?entrypoint=lyftcom",
@@ -68,10 +72,6 @@
         {
           "url": "https://www.wellsfargo.com/",
           "title": "Wells Fargo Bank | Financial Services & Online Banking"
-        },
-        {
-          "url": "https://withjoy.com",
-          "title": "Joy - Wedding Planning, Redesigned"
         }
       ],
       "count": 8
@@ -118,8 +118,20 @@
           "title": "Adaptec | Microchip Technology"
         },
         {
+          "url": "https://www.vogons.org/viewforum.php?f=46",
+          "title": "General Old Hardware \\ VOGONS"
+        },
+        {
           "url": "https://blog.orbcomm.com",
           "title": "IoT Blog | ORBCOMM"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/No-code-headless-commerce-and-websites-Unstack-Inc-41f1daebe140443386901f7dd8fed2aa?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "http://zarzadzanie.szczecin.pl/o-regeneracji-hydrauliki/",
+          "title": "O regeneracji hydrauliki"
         },
         {
           "url": "https://blog.stationa.com/2022/partnering-with-watttime",
@@ -128,18 +140,6 @@
         {
           "url": "https://iuu.xview.us/",
           "title": "xView3 - IUU"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/No-code-headless-commerce-and-websites-Unstack-Inc-41f1daebe140443386901f7dd8fed2aa?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://www.vogons.org/viewforum.php?f=46",
-          "title": "General Old Hardware \\ VOGONS"
-        },
-        {
-          "url": "http://zarzadzanie.szczecin.pl/o-regeneracji-hydrauliki/",
-          "title": "O regeneracji hydrauliki"
         }
       ],
       "count": 7
@@ -227,7 +227,7 @@
       "count": 5
     },
     {
-      "name": "media-news-reviews",
+      "name": "news-media-reviews",
       "bookmarks": [
         {
           "url": "https://www.commonsensemedia.org/",
@@ -301,7 +301,7 @@
       "count": 4
     },
     {
-      "name": "recipes-food",
+      "name": "food-recipes",
       "bookmarks": [
         {
           "url": "https://www.bbcgoodfood.com/recipes/collection/quick-and-healthy-recipes",
@@ -326,16 +326,16 @@
       "name": "shopping-ecommerce",
       "bookmarks": [
         {
+          "url": "https://www.vogue.com/article/editor-picks-fall-winter-2025-trends",
+          "title": "11 Fall Fashion Trends Vogue Editors Are Shopping | Vogue"
+        },
+        {
           "url": "https://www.marksandspencer.com/l/beauty",
           "title": "Beauty Products | M&S"
         },
         {
           "url": "https://www.perfumesclub.pt/pt/cosmeticos-faciais_tratamentos-faciais_efeito-reafirmante-e-lifting/estee-lauder/mulher/fms/",
           "title": "Cremes efeito lifting Estée Lauder online | Perfume's Club"
-        },
-        {
-          "url": "https://www.vogue.com/article/editor-picks-fall-winter-2025-trends",
-          "title": "11 Fall Fashion Trends Vogue Editors Are Shopping | Vogue"
         },
         {
           "url": "https://www.llbean.com/llb/shop/86878",
@@ -370,12 +370,12 @@
           "title": "Meredith Corporation MediaRoom - News Releases"
         },
         {
-          "url": "https://newsroom.latam.paypal-corp.com/inicio",
-          "title": "PayPal Newsroom - Inicio"
-        },
-        {
           "url": "https://newsroom.ie.paypal-corp.com/",
           "title": "PayPal Newsroom - Home"
+        },
+        {
+          "url": "https://newsroom.latam.paypal-corp.com/inicio",
+          "title": "PayPal Newsroom - Inicio"
         }
       ],
       "count": 3
@@ -399,15 +399,33 @@
       "count": 3
     },
     {
+      "name": "education-reference",
+      "bookmarks": [
+        {
+          "url": "https://coding-with-kids-blog.tumblr.com/post/116835195814",
+          "title": "Coding with Kids - codeorg: With all the national debate on..."
+        },
+        {
+          "url": "https://patternobserver.com/",
+          "title": "Home - Pattern Observer"
+        },
+        {
+          "url": "https://corpus.quran.com/translation.jsp?chapter=90&verse=8",
+          "title": "The Quranic Arabic Corpus - Translation"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "government-resources",
       "bookmarks": [
         {
-          "url": "https://visitor.r20.constantcontact.com/manage/optin?v=001Sk_8Aa13394xonLLUknSR_CtAy6sVkj7-WTntErj4YHitEGv_xZXTgEreyr8MdkMKJ6cnoDLHPraoNtEuHeVpYuA7EHtjdGdcHtASf8lweU%3D",
-          "title": "Department of Agriculture : Sign Up to Stay in Touch"
-        },
-        {
           "url": "https://fdanj.nlm.nih.gov/?f%5Bfdanj.caseissuedate%5D%5B%5D=September+1939&f%5Bfdanj.casekeywords%5D%5B%5D=frozen+fish&f%5Bfdanj.defendantnames%5D%5B%5D=Cape+Fish+Co.&per_page=50&sort=fdanj.title+asc&subject=Nyal%27s+Prescription+%2233%22+and+Nyal+Prescription+%2223%22+Pills",
           "title": "Defendants: Cape Fish Co. / Product Keywords: frozen fish / Issue Dates: September 1939 - FDA Notices of Judgment Collection, 1908-1966 Search Results"
+        },
+        {
+          "url": "https://visitor.r20.constantcontact.com/manage/optin?v=001Sk_8Aa13394xonLLUknSR_CtAy6sVkj7-WTntErj4YHitEGv_xZXTgEreyr8MdkMKJ6cnoDLHPraoNtEuHeVpYuA7EHtjdGdcHtASf8lweU%3D",
+          "title": "Department of Agriculture : Sign Up to Stay in Touch"
         },
         {
           "url": "https://www.cia.gov/index.html",
@@ -466,24 +484,6 @@
         {
           "url": "http://www.garr.net/",
           "title": "Consortium GARR: LA RETE ITALIANA DELL'ISTRUZIONE E DELLA RICERCA"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "reference-education",
-      "bookmarks": [
-        {
-          "url": "https://coding-with-kids-blog.tumblr.com/post/116835195814",
-          "title": "Coding with Kids - codeorg: With all the national debate on..."
-        },
-        {
-          "url": "https://patternobserver.com/",
-          "title": "Home - Pattern Observer"
-        },
-        {
-          "url": "https://corpus.quran.com/translation.jsp?chapter=90&verse=8",
-          "title": "The Quranic Arabic Corpus - Translation"
         }
       ],
       "count": 3

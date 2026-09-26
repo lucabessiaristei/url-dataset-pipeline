@@ -16,27 +16,35 @@
           "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://regional-open-data-capcog.opendata.arcgis.com",
+          "url": "https://regional-open-data-capcog.opendata.arcgis.com/",
           "title": "CAPCOG Regional Open Data Site"
+        },
+        {
+          "url": "https://www.reprolegalhelpline.org/sma-contact-the-helpline/",
+          "title": "Contact the Helpline - Repro Legal Helpline"
         },
         {
           "url": "https://www.diabetes.org",
           "title": "Diabetes Research, Education, Advocacy | ADA"
         },
         {
-          "url": "https://www.faa.gov",
+          "url": "http://www.faa.gov/",
           "title": "Federal Aviation Administration"
         },
         {
-          "url": "https://www.fayetteville-ar.gov/384/GIS-Interactive-Maps",
+          "url": "http://www.fayetteville-ar.gov/384/GIS-Interactive-Maps",
           "title": "GIS Maps | Fayetteville, AR - Official Website"
         },
         {
-          "url": "https://www.gndr.org",
+          "url": "https://www.gndr.org/",
           "title": "GNDR - Global Network of Civil Society Organisations for Disaster Reduction"
         },
         {
-          "url": "https://www.pa.gov/guides/get-vaccinated",
+          "url": "https://thelastmile.org/",
+          "title": "Home - The Last Mile"
+        },
+        {
+          "url": "https://www.pa.gov/guides/get-vaccinated/",
           "title": "Home | Commonwealth of Pennsylvania"
         },
         {
@@ -44,31 +52,23 @@
           "title": "Home | U.S. Election Assistance Commission"
         },
         {
-          "url": "https://thelastmile.org",
-          "title": "Home - The Last Mile"
-        },
-        {
-          "url": "https://www.nicwa.org",
+          "url": "https://www.nicwa.org/",
           "title": "Homepage - NICWA"
         },
         {
-          "url": "https://rescue-se.org",
+          "url": "http://Rescue-SE.org",
           "title": "International Rescue Committee | RESCUE"
-        },
-        {
-          "url": "https://www.reprolegalhelpline.org/sma-contact-the-helpline",
-          "title": "Contact the Helpline - Repro Legal Helpline"
         },
         {
           "url": "https://unicefusa.donorsupport.co/login",
           "title": "UNICEF USA"
         },
         {
-          "url": "https://walmartsustainabilityhub.com",
+          "url": "http://walmartsustainabilityhub.com/",
           "title": "Walmart Sustainability Hub"
         },
         {
-          "url": "https://live.worldbank.org",
+          "url": "https://live.worldbank.org/",
           "title": "We Livestream Events on International Development | World Bank Live"
         }
       ],
@@ -78,19 +78,23 @@
       "name": "tech-development",
       "bookmarks": [
         {
-          "url": "https://idecad.com",
+          "url": "http://www.idecad.com/",
           "title": "AEC Software for Architecture & Structural Engineering"
         },
         {
-          "url": "https://www.apple.com",
-          "title": "Apple"
-        },
-        {
-          "url": "https://c9dec711a.app-ads-txt.com",
+          "url": "https://c9dec711a.app-ads-txt.com/",
           "title": "app-ads-txt.com"
         },
         {
-          "url": "https://bugs.firefox-dev.tools",
+          "url": "https://www.apple.com/",
+          "title": "Apple"
+        },
+        {
+          "url": "http://wiki.fablab-kali.de/doku.php?id=documentation:electronics:start&do=backlink",
+          "title": "documentation:electronics:start - Backlinks [FabLab Kamp-Lintfort]"
+        },
+        {
+          "url": "https://bugs.firefox-dev.tools/",
           "title": "Find DevTools bugs"
         },
         {
@@ -98,7 +102,7 @@
           "title": "Get started with GitHub Copilot - GitHub Docs"
         },
         {
-          "url": "https://mozilla.github.io/hackweek-avatar-maker",
+          "url": "https://mozilla.github.io/hackweek-avatar-maker/",
           "title": "Hackweek Avatar Maker"
         },
         {
@@ -106,7 +110,7 @@
           "title": "Is learning computer science linked to improved learning in other subjects? - @stuff-that-interests-me on Tumblr"
         },
         {
-          "url": "https://lycos.com",
+          "url": "http://www.lycos.com/",
           "title": "Lycos.com"
         },
         {
@@ -114,28 +118,24 @@
           "title": "Mozilla (@mozilla@mastodon.social) - Mastodon"
         },
         {
-          "url": "https://docs.python.org/3/tutorial/index.html",
-          "title": "The Python Tutorial - Python 3.14.0 documentation"
-        },
-        {
           "url": "https://sagansense.tumblr.com/post/144207254040",
           "title": "SAGAN SENSE - Computing occupations are the largest category of new wages in America"
         },
         {
-          "url": "https://saaslandingpage.com",
+          "url": "https://saaslandingpage.com/",
           "title": "The Best Landing Page Examples For Design Inspiration - SaaS Landing Page"
         },
         {
-          "url": "https://xchaoticrage.tumblr.com/post/90177493115",
-          "title": "Too Much STEM, Not Enough Computer Science?"
+          "url": "https://docs.python.org/3/tutorial/index.html",
+          "title": "The Python Tutorial - Python 3.14.0 documentation"
         },
         {
-          "url": "https://webflow.com",
+          "url": "https://webflow.com/?gspk=bWF0dGhld2hhbWlsdG9uNDAxNQ&gsxid=AGryZGVs8SE0&utm_medium=affiliate",
           "title": "Webflow: Create a custom website | Visual website builder"
         },
         {
-          "url": "https://wiki.fablab-kali.de/doku.php?id=documentation:electronics:start&do=backlink",
-          "title": "documentation:electronics:start - Backlinks [FabLab Kamp-Lintfort]"
+          "url": "https://xchaoticrage.tumblr.com/post/90177493115",
+          "title": "💗VII-XVIII-MCMXCIII 💗 | Too Much STEM, Not Enough Computer Science?"
         }
       ],
       "count": 15
@@ -144,12 +144,8 @@
       "name": "entertainment-hobbies",
       "bookmarks": [
         {
-          "url": "https://www.hachettebooks.com/titles/stephen-steve-o-glover/a-hard-kick-in-the-nuts/9780306826771",
+          "url": "https://www.hachettebooks.com/titles/stephen-steve-o-glover/a-hard-kick-in-the-nuts/9780306826771/",
           "title": "A Hard Kick in the Nuts by Stephen Steve-O Glover | Hachette Book Group"
-        },
-        {
-          "url": "https://artists.youtube.com",
-          "title": "YouTube for Artists - Where Music Grows"
         },
         {
           "url": "https://www.bbcgoodfood.com/recipes/beef-bourguignon",
@@ -164,15 +160,15 @@
           "title": "discovery+ | Stream Real-Life TV Episodes"
         },
         {
-          "url": "https://www.fifteensquared.net",
+          "url": "https://www.fifteensquared.net/",
           "title": "Fifteensquared - Never knowingly undersolved"
         },
         {
-          "url": "https://pakomusic.it/tag/gabryel",
+          "url": "https://www.pakomusic.it/tag/gabryel/",
           "title": "gabryel - PaKo Music Magazine"
         },
         {
-          "url": "https://www.baseball-reference.com",
+          "url": "https://www.baseball-reference.com/",
           "title": "MLB Stats, Scores, History, & Records | Baseball-Reference.com"
         },
         {
@@ -188,12 +184,16 @@
           "title": "TED Audio Collective"
         },
         {
-          "url": "https://rps.org",
+          "url": "https://rps.org/",
           "title": "The Royal Photographic Society - Home - RPS"
         },
         {
-          "url": "https://modelshipworld.com",
+          "url": "https://modelshipworld.com/",
           "title": "You are being redirected..."
+        },
+        {
+          "url": "http://artists.youtube.com/",
+          "title": "YouTube for Artists - Where Music Grows"
         }
       ],
       "count": 13
@@ -206,19 +206,19 @@
           "title": "Agrobolder | Tienda Oficial"
         },
         {
-          "url": "https://www.bestbuyads.com",
+          "url": "https://www.bestbuyads.com/",
           "title": "Best Buy Ads"
         },
         {
-          "url": "https://www.burnabyheights.com/listing-category/esthetics-spa-services",
-          "title": "Esthetics & Spa Services - Heights Merchants Association"
-        },
-        {
-          "url": "https://electricworld.co.uk/l/hoods",
+          "url": "https://www.electricworld.co.uk/l/hoods",
           "title": "Electric World Cooker Hoods | Domestic Appliance Retailer Lisburn | Wide Range of Appliances"
         },
         {
-          "url": "https://www.glossybox.com",
+          "url": "https://www.burnabyheights.com/listing-category/esthetics-spa-services/",
+          "title": "Esthetics & Spa Services - Heights Merchants Association"
+        },
+        {
+          "url": "https://www.glossybox.com/",
           "title": "GLOSSYBOX: The UK's Most Trusted Beauty Box"
         },
         {
@@ -230,11 +230,11 @@
           "title": "Klubbshop - Hasundgot IL"
         },
         {
-          "url": "https://www.aeropostale.com",
+          "url": "http://www.aeropostale.com/",
           "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
         },
         {
-          "url": "https://www.itembeauty.com",
+          "url": "https://www.itembeauty.com/",
           "title": "Personalized Monthly Makeup & Beauty Sample Subscription | IPSY"
         },
         {
@@ -246,7 +246,7 @@
           "title": "Roseana: Francuskie I Arabskie Perfumy | Oryginalne Zapachy Z Paryża I Dubaju"
         },
         {
-          "url": "https://mobilezon.in/product-category/screen-protectors",
+          "url": "https://mobilezon.in/product-category/screen-protectors/",
           "title": "Screen Protectors - MobileZon"
         },
         {
@@ -264,11 +264,11 @@
           "title": "Battle Waged Over Rescued Dog Who Roamed Streets With Coyote Pack | Inside Edition"
         },
         {
-          "url": "https://www.blitzquotidiano.it/cronaca-italia/cocaina-nascosta-in-tavole-da-surf-19-arresti-tra-roma-e-guidonia-1733514",
+          "url": "https://www.blitzquotidiano.it/cronaca-italia/cocaina-nascosta-in-tavole-da-surf-19-arresti-tra-roma-e-guidonia-1733514/",
           "title": "Cocaina nascosta in tavole da surf: 19 arresti tra Roma e Guidonia - Blitzquotidiano.it"
         },
         {
-          "url": "https://www.aljazeera.com/economy",
+          "url": "https://www.aljazeera.com/economy/",
           "title": "Economy | Today's latest from Al Jazeera"
         },
         {
@@ -280,7 +280,7 @@
           "title": "F1: Lewis Hamilton najszybszy na trzecim treningu, incydent z udziałem Robert Kubicy - Przegląd Sportowy Onet"
         },
         {
-          "url": "https://www.ipsnews.net/deutsch",
+          "url": "https://www.ipsnews.net/deutsch/",
           "title": "IPS Inter Press Service - Deutsch - Nachrichten aus dem Süden"
         },
         {
@@ -292,19 +292,19 @@
           "title": "Le Figaro - International : Actualité internationale en direct"
         },
         {
-          "url": "https://www.hindustantimes.com/opinion/policies-and-people-how-ai-is-helping-india-s-poor-become-climateresilient-101663847864017.html",
+          "url": "https://www.hindustantimes.com/opinion/policies-and-people-how-ai-is-helping-india-s-poor-become-climateresilient-101663847864017.html?fbclid=IwAR15I1N38dVutWYDzi6AHMVl57RpEssDjZODLXdgxOLrJXmQ70V1d02Dgcc",
           "title": "Policies and People | How AI is helping India's poor become climate-resilient | Hindustan Times"
         },
         {
-          "url": "https://dsp.delaware.gov/2023/01/18/state-police-investigating-two-vehicle-fatal-accident-2",
+          "url": "https://dsp.delaware.gov/2023/01/18/state-police-investigating-two-vehicle-fatal-accident-2/",
           "title": "State Police Investigating Two-Vehicle Fatal Accident - Delaware State Police - State of Delaware"
         },
         {
-          "url": "https://jacobin.com/2023/02/christian-super-bowl-ads-he-gets-us-servant-foundation-abortion-gay-rights",
+          "url": "https://jacobin.com/2023/02/christian-super-bowl-ads-he-gets-us-servant-foundation-abortion-gay-rights?utm_campaign=later-linkinbio-themeteor&utm_content=later-33016107&utm_medium=social&utm_source=linkin.bio",
           "title": "The Far Right Is Funding Evangelical Super Bowl Sunday Ads"
         },
         {
-          "url": "https://www.worldpresslive.com",
+          "url": "https://www.worldpresslive.com/",
           "title": "World Press Live - International News - Biusiness - Technology"
         }
       ],
@@ -318,27 +318,27 @@
           "title": "Beauty Products | M&S"
         },
         {
-          "url": "https://culpa.info/new_review?prof=1026",
-          "title": "CULPA"
+          "url": "https://gb.coursera.org/",
+          "title": "Coursera | Degrees, Certificates, & Free Online Courses"
         },
         {
-          "url": "https://gb.coursera.org",
-          "title": "Coursera | Degrees, Certificates, & Free Online Courses"
+          "url": "https://culpa.info/new_review?prof=1026",
+          "title": "CULPA"
         },
         {
           "url": "https://kfupm.discovery.symplectic.org/Fyl-Louie-Panoy",
           "title": "Discovery"
         },
         {
-          "url": "https://www.scu.edu",
+          "url": "https://www.scu.edu/",
           "title": "Home - Santa Clara University"
         },
         {
-          "url": "https://sliderulemuseum.com",
+          "url": "https://sliderulemuseum.com/",
           "title": "International Slide Rule Museum home page. ISRM is the world's largest free digital repository of all things concerning slide rules and other math artifacts. There are over 7000 Images or PDF's in the ISRM Galleries."
         },
         {
-          "url": "https://mts-nature.nature.com",
+          "url": "https://mts-nature.nature.com/",
           "title": "Nature"
         },
         {
@@ -346,7 +346,7 @@
           "title": "NEDCC Preservation Leaflets - NEDCC"
         },
         {
-          "url": "https://www.britannica.com/EBchecked/topic/409383/neptunium",
+          "url": "http://www.britannica.com/EBchecked/topic/409383/neptunium",
           "title": "Neptunium | Radioactive, Fissionable, Transuranic | Britannica"
         },
         {
@@ -354,7 +354,7 @@
           "title": "Register of Antarctic Species (RAS) - Desmosoma modestum Nordenstam, 1933"
         },
         {
-          "url": "https://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
+          "url": "http://zons-geschichte.de/zonswiki/index.php?title=Theodor_Derendorf",
           "title": "Theodor Derendorf - ZonsWiki"
         }
       ],
@@ -364,15 +364,15 @@
       "name": "blogs-social",
       "bookmarks": [
         {
-          "url": "https://blaqplastik.tumblr.com",
+          "url": "https://blaqplastik.tumblr.com/",
           "title": "@blaqplastik on Tumblr"
         },
         {
-          "url": "https://herbiv-whore.tumblr.com",
+          "url": "https://herbiv-whore.tumblr.com/",
           "title": "Blog Deleted."
         },
         {
-          "url": "https://chat27.co.za",
+          "url": "https://www.chat27.co.za/",
           "title": "Chat27"
         },
         {
@@ -380,62 +380,48 @@
           "title": "KULT FORUM • Zaloguj"
         },
         {
-          "url": "https://madressinhijos.quieroconducirquierovivir.com/2014/11",
+          "url": "https://madressinhijos.quieroconducirquierovivir.com/2014/11/",
           "title": "noviembre | 2014 | Madres sin Hijos"
         },
         {
-          "url": "https://chemistri.tumblr.com",
+          "url": "https://chemistri.tumblr.com/",
           "title": "stu(dying)"
         },
         {
-          "url": "https://wepon.tumblr.com",
+          "url": "https://wepon.tumblr.com/",
           "title": "The Entire Sona Fandom"
         },
         {
-          "url": "https://the-eastern.tumblr.com",
+          "url": "https://the-eastern.tumblr.com/",
           "title": "Turn to the East"
         }
       ],
       "count": 8
     },
     {
-      "name": "tech-news-blogs",
+      "name": "misc",
       "bookmarks": [
         {
-          "url": "https://googleresearch.blogspot.com/2015/04/google-handwriting-input-in-82.html",
-          "title": "Google Handwriting Input in 82 languages on your Android mobile device"
+          "url": "https://activationideas.com/",
+          "title": "Activation Ideas"
         },
         {
-          "url": "https://www.theatlantic.com/technology",
-          "title": "Technology - The Atlantic"
+          "url": "https://www.lc-hoevelaken.nl/portal2/index.php/foto-albums/113-nieuwjaarsbijeenkomst-2017",
+          "title": "Grafstenen, 500+ grafsteen voorbeelden online te zien"
         },
         {
-          "url": "https://blog.mozilla.org",
-          "title": "The Mozilla Blog"
+          "url": "https://indriel.no/heftige-midtsommer-energier-og-tarotkortet-skjebnehjulet-alt-henger-sammen/",
+          "title": "HEFTIGE MIDTSOMMER ENERGIER OG TAROTKORTET SKJEBNEHJULET. ALT HENGER SAMMEN! - Indriel Body & Soul"
+        },
+        {
+          "url": "https://indd.adobe.com/view/bfa8bb85-bc5d-4aff-a2f4-3ebe540d3bee",
+          "title": "Publish Online"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
-      "name": "travel",
-      "bookmarks": [
-        {
-          "url": "https://zentravel.gr",
-          "title": "Home - ZenTravel"
-        },
-        {
-          "url": "https://www.berlin.de/museum",
-          "title": "Museumsführer - Berlin.de"
-        },
-        {
-          "url": "https://www.greatwolf.com/summer-campin",
-          "title": "Summer Camp-In | Summer Activities | Great Wolf Lodge"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "privacy-legal",
+      "name": "legal-privacy",
       "bookmarks": [
         {
           "url": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US",
@@ -453,26 +439,40 @@
       "count": 3
     },
     {
-      "name": "misc",
+      "name": "tech-news-blogs",
       "bookmarks": [
         {
-          "url": "https://activationideas.com",
-          "title": "Activation Ideas"
+          "url": "https://googleresearch.blogspot.com/2015/04/google-handwriting-input-in-82.html",
+          "title": "Google Handwriting Input in 82 languages on your Android mobile device"
         },
         {
-          "url": "https://www.lc-hoevelaken.nl/portal2/index.php/foto-albums/113-nieuwjaarsbijeenkomst-2017",
-          "title": "Grafstenen, 500+ grafsteen voorbeelden online te zien"
+          "url": "https://www.theatlantic.com/technology/",
+          "title": "Technology - The Atlantic"
         },
         {
-          "url": "https://indriel.no/heftige-midtsommer-energier-og-tarotkortet-skjebnehjulet-alt-henger-sammen",
-          "title": "HEFTIGE MIDTSOMMER ENERGIER OG TAROTKORTET SKJEBNEHJULET. ALT HENGER SAMMEN! - Indriel Body & Soul"
-        },
-        {
-          "url": "https://indd.adobe.com/view/bfa8bb85-bc5d-4aff-a2f4-3ebe540d3bee",
-          "title": "Publish Online"
+          "url": "https://blog.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=who-we-are",
+          "title": "The Mozilla Blog"
         }
       ],
-      "count": 4
+      "count": 3
+    },
+    {
+      "name": "travel",
+      "bookmarks": [
+        {
+          "url": "http://www.zentravel.gr/",
+          "title": "Home - ZenTravel"
+        },
+        {
+          "url": "https://www.berlin.de/museum/",
+          "title": "Museumsführer - Berlin.de"
+        },
+        {
+          "url": "https://www.greatwolf.com/summer-campin",
+          "title": "Summer Camp-In | Summer Activities | Great Wolf Lodge"
+        }
+      ],
+      "count": 3
     }
   ],
   "total_bookmarks": 102,

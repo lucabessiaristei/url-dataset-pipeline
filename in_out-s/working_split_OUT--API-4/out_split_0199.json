@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://acumen.org/america/",
@@ -12,7 +12,7 @@
           "title": "Association for Professional Observers (APO)"
         },
         {
-          "url": "https://nest.ceoworks.org/",
+          "url": "https://nest.ceoworks.org",
           "title": "CEO NEST"
         },
         {
@@ -28,12 +28,12 @@
           "title": "Donate to National Geographic - National Geographic Society"
         },
         {
-          "url": "http://epsm.iotc.org/form/arepstart?lang=en",
-          "title": "ePSM Application - Login"
-        },
-        {
           "url": "https://hmong.org/",
           "title": "Empowering our Diverse Community - Hmong American Partnership"
+        },
+        {
+          "url": "http://epsm.iotc.org/form/arepstart?lang=en",
+          "title": "ePSM Application - Login"
         },
         {
           "url": "http://adcolor.org/leaders?trk=organization_guest_main-feed-card_reshare-text",
@@ -67,12 +67,66 @@
       "count": 15
     },
     {
-      "name": "media-news-entertainment",
+      "name": "tech-corporate-community",
       "bookmarks": [
         {
-          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
-          "title": "‎YouTube TV on the App Store"
+          "url": "https://newsroom.br.paypal-corp.com/home",
+          "title": "Conheça o Newsroom, o portal de notícias do PayPal Brasil"
         },
+        {
+          "url": "https://community.dynamics.com/",
+          "title": "Find Answers | Microsoft Dynamics 365 Community"
+        },
+        {
+          "url": "https://diversity.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
+          "title": "Google - Building Together for Everyone"
+        },
+        {
+          "url": "https://experiments.withgoogle.com/collection/ai",
+          "title": "Google Labs: Google's home for AI experiments - Google Labs"
+        },
+        {
+          "url": "https://ideas.mozilla.org/",
+          "title": "Home - Mozilla Connect"
+        },
+        {
+          "url": "https://www.looker.com",
+          "title": "Looker business intelligence platform embedded analytics | Google Cloud"
+        },
+        {
+          "url": "https://about.ads.microsoft.com/en-us/partners/welcome?s_cid=en-us-gct-web-src_ext-sub_0-flx_uhfcombepartner",
+          "title": "Microsoft Advertising Partner Program"
+        },
+        {
+          "url": "https://myignite.microsoft.com/",
+          "title": "Microsoft Ignite - November 18-21, 2025"
+        },
+        {
+          "url": "https://discussions.apple.com",
+          "title": "Official Apple Support Community"
+        },
+        {
+          "url": "https://www.cloudskillsboost.google/subscriptions?utm_source=cgc&utm_medium=website&utm_campaign=evergreen",
+          "title": "Purchase A Subscription | Google Cloud Skills Boost"
+        },
+        {
+          "url": "https://support.roku.com/index",
+          "title": "Roku"
+        },
+        {
+          "url": "https://help.github.com/en",
+          "title": "Sign in for Software Support and Product Help - GitHub Support"
+        },
+        {
+          "url": "https://careers.blackrock.com/",
+          "title": "Working at BlackRock"
+        }
+      ],
+      "count": 13
+    },
+    {
+      "name": "news-media-entertainment",
+      "bookmarks": [
         {
           "url": "https://www.goal.com/en",
           "title": "Football News, Live Scores, Results & Transfers | Goal.com"
@@ -86,16 +140,16 @@
           "title": "Home - SportsNewsIreland - SportsNewsIreland"
         },
         {
+          "url": "https://olered.com/",
+          "title": "Homepage - Ole Red"
+        },
+        {
           "url": "https://filmtoro.cz/film/hydra",
           "title": "Hydra (2009) ▶️ Kde sledovat"
         },
         {
           "url": "https://www.joelapompe.net/",
           "title": "Joe La Pompe advertising, publicité"
-        },
-        {
-          "url": "https://olered.com/",
-          "title": "Homepage - Ole Red"
         },
         {
           "url": "https://flipboard.com/@people",
@@ -116,67 +170,13 @@
         {
           "url": "https://news.un.org/en/story/2022/07/1121802",
           "title": "UN Ocean Conference ends with call for greater global commitment to address dire state of the ocean | UN News"
+        },
+        {
+          "url": "https://itunes.apple.com/app/apple-store/id1193350206?mt=8",
+          "title": "‎YouTube TV on the App Store"
         }
       ],
       "count": 12
-    },
-    {
-      "name": "tech-corporate-community",
-      "bookmarks": [
-        {
-          "url": "https://discussions.apple.com/",
-          "title": "Official Apple Support Community"
-        },
-        {
-          "url": "https://www.cloudskillsboost.google/subscriptions?utm_source=cgc&utm_medium=website&utm_campaign=evergreen",
-          "title": "Purchase A Subscription | Google Cloud Skills Boost"
-        },
-        {
-          "url": "https://community.dynamics.com/",
-          "title": "Find Answers | Microsoft Dynamics 365 Community"
-        },
-        {
-          "url": "https://experiments.withgoogle.com/collection/ai",
-          "title": "Google Labs: Google's home for AI experiments - Google Labs"
-        },
-        {
-          "url": "https://diversity.google/?utm_source=about&utm_medium=referral&utm_campaign=footer-link",
-          "title": "Google - Building Together for Everyone"
-        },
-        {
-          "url": "https://ideas.mozilla.org/",
-          "title": "Home - Mozilla Connect"
-        },
-        {
-          "url": "https://newsroom.br.paypal-corp.com/home",
-          "title": "Conheça o Newsroom, o portal de notícias do PayPal Brasil"
-        },
-        {
-          "url": "https://www.looker.com/",
-          "title": "Looker business intelligence platform embedded analytics | Google Cloud"
-        },
-        {
-          "url": "https://about.ads.microsoft.com/en-us/partners/welcome?s_cid=en-us-gct-web-src_ext-sub_0-flx_uhfcombepartner",
-          "title": "Microsoft Advertising Partner Program"
-        },
-        {
-          "url": "https://myignite.microsoft.com/",
-          "title": "Microsoft Ignite - November 18-21, 2025"
-        },
-        {
-          "url": "https://support.roku.com/index",
-          "title": "Roku"
-        },
-        {
-          "url": "https://help.github.com/en",
-          "title": "Sign in for Software Support and Product Help - GitHub Support"
-        },
-        {
-          "url": "https://careers.blackrock.com/",
-          "title": "Working at BlackRock"
-        }
-      ],
-      "count": 13
     },
     {
       "name": "shopping-lifestyle",
@@ -229,8 +229,12 @@
       "count": 11
     },
     {
-      "name": "tech-tools-dev",
+      "name": "tech-dev-tools",
       "bookmarks": [
+        {
+          "url": "https://potion.so/",
+          "title": "Create custom Notion websites in minutes"
+        },
         {
           "url": "http://notifier.email.my/",
           "title": "email notifier :: free email notification for GMail, POP3 and IMAP4 email accounts"
@@ -244,12 +248,12 @@
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Modul WordPress | WordPress.org În Română"
         },
         {
-          "url": "https://www.githubstatus.com/",
-          "title": "GitHub Status"
-        },
-        {
           "url": "https://securitylab.github.com/",
           "title": "GitHub Security Lab | Securing open source software, together."
+        },
+        {
+          "url": "https://www.githubstatus.com/",
+          "title": "GitHub Status"
         },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserverEntry",
@@ -260,20 +264,16 @@
           "title": "Notion"
         },
         {
-          "url": "https://potion.so/",
-          "title": "Potion | Create custom Notion websites in minutes"
-        },
-        {
           "url": "https://quill.org/lessons/#/teach/class-lessons/-KsKpXAoaEIY5jvWMIzJ/preview",
           "title": "Quill.org | Interactive Writing and Grammar"
         },
         {
-          "url": "http://ticdesign.chumenwenwen.com/en",
-          "title": "TicDesign | Index"
-        },
-        {
           "url": "https://www.workato.com/integrations/quip+senses",
           "title": "Quip and Senses integration | Workato"
+        },
+        {
+          "url": "http://ticdesign.chumenwenwen.com/en",
+          "title": "TicDesign | Index"
         }
       ],
       "count": 11
@@ -302,16 +302,16 @@
           "title": "Digitalization and the American workforce | Brookings"
         },
         {
-          "url": "https://www.nlm.nih.gov/web_policies.html",
-          "title": "NLM Web Policies"
+          "url": "https://hsc.unm.edu/news/echo/",
+          "title": "Newsroom - Project ECHO"
         },
         {
           "url": "https://support.nlm.nih.gov/",
           "title": "NLM Support Center · NLM Customer Support Center"
         },
         {
-          "url": "https://hsc.unm.edu/news/echo/",
-          "title": "Newsroom - Project ECHO"
+          "url": "https://www.nlm.nih.gov/web_policies.html",
+          "title": "NLM Web Policies"
         },
         {
           "url": "http://datosabiertos.laspalmasgc.es/dataset/?id=callejero-municipal",
@@ -328,16 +328,12 @@
       "name": "misc-other",
       "bookmarks": [
         {
-          "url": "https://www.actusf.com/forumimaginaire/memberlist.php?mode=contactadmin&sid=5d1d8991a65815d957880828b7aa6936",
-          "title": "L'Appel de l'imaginaire - Envoyer un courriel"
-        },
-        {
-          "url": "http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3F&showlogo=0&appsrc=cUcI1A",
-          "title": "登录 - 微博"
-        },
-        {
           "url": "http://formacioncontinua.cientifica.edu.pe/",
           "title": "Home | U. Cientifica - Formación Continua"
+        },
+        {
+          "url": "https://www.actusf.com/forumimaginaire/memberlist.php?mode=contactadmin&sid=5d1d8991a65815d957880828b7aa6936",
+          "title": "L'Appel de l'imaginaire - Envoyer un courriel"
         },
         {
           "url": "http://mamastillgotit.com/motherhood-101/",
@@ -354,6 +350,10 @@
         {
           "url": "https://www.zerocric.com/",
           "title": "zerocric.com -"
+        },
+        {
+          "url": "http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3F&showlogo=0&appsrc=cUcI1A",
+          "title": "登录 - 微博"
         }
       ],
       "count": 7
@@ -374,11 +374,11 @@
           "title": "Dawn Staffing Solutions Inc | LinkedIn"
         },
         {
-          "url": "http://elsmediakits.com/",
+          "url": "http://elsmediakits.com",
           "title": "Elsevier Pharma Solutions"
         },
         {
-          "url": "http://www.maven.sc/",
+          "url": "http://www.maven.sc",
           "title": "Maven | Creative Agency specialising in Design, Print, Web & TV"
         },
         {
@@ -396,12 +396,12 @@
       "name": "legal-policy",
       "bookmarks": [
         {
-          "url": "https://hrtechprivacy.com/",
-          "title": "HR Tech Privacy - Welcome to the HR Tech Privacy Center"
-        },
-        {
           "url": "https://optout.networkadvertising.org/",
           "title": "How to Opt Out - NAI: Network Advertising Initiative"
+        },
+        {
+          "url": "https://hrtechprivacy.com/",
+          "title": "HR Tech Privacy - Welcome to the HR Tech Privacy Center"
         },
         {
           "url": "https://www.moneynetwork.com/privacy-and-security.html",
@@ -421,32 +421,6 @@
         }
       ],
       "count": 6
-    },
-    {
-      "name": "recipes-food",
-      "bookmarks": [
-        {
-          "url": "https://www.patreon.com/clairesaffitz",
-          "title": "Claire Saffitz | creating recipes, videos, and community | Patreon"
-        },
-        {
-          "url": "https://divainbucatarie.ro/tag/retete-afrodisiace/",
-          "title": "File de pastrav cu piure de telina - Diva in Bucatarie"
-        },
-        {
-          "url": "https://www.adihadean.ro/tag/oua-fierte/",
-          "title": "ouă fierte - Adi Hădean"
-        },
-        {
-          "url": "https://sobewff.org/",
-          "title": "SOBEWFF | February 19 - 22, 2026 in Miami, Florida"
-        },
-        {
-          "url": "https://www.realbatchcooking.com/tag/tortilladesetas/",
-          "title": "tortilladesetas archivos - La Vida Bonica"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "reference-resources",
@@ -479,26 +453,30 @@
       "count": 6
     },
     {
-      "name": "cs-education",
+      "name": "food-recipes",
       "bookmarks": [
         {
-          "url": "https://twowaypr.tumblr.com/post/144207264792",
-          "title": "Computing occupations are the largest category of... - Two-Way PR"
+          "url": "https://www.patreon.com/clairesaffitz",
+          "title": "Claire Saffitz | creating recipes, videos, and community | Patreon"
         },
         {
-          "url": "https://djvacto-blog.tumblr.com/post/90468162172",
-          "title": "Danny , What % of STEM Should Be Computer Science?"
+          "url": "https://divainbucatarie.ro/tag/retete-afrodisiace/",
+          "title": "File de pastrav cu piure de telina - Diva in Bucatarie"
         },
         {
-          "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
-          "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
+          "url": "https://www.adihadean.ro/tag/oua-fierte/",
+          "title": "ouă fierte - Adi Hădean"
         },
         {
-          "url": "https://nothingbigbangtheory.tumblr.com/post/116858137854",
-          "title": "With all the national debate on immigration, I recently looked at the data for all the \"skilled worker\" visas we grant. It turns... - @nothingbigbangtheory on Tumblr"
+          "url": "https://sobewff.org/",
+          "title": "SOBEWFF | February 19 - 22, 2026 in Miami, Florida"
+        },
+        {
+          "url": "https://www.realbatchcooking.com/tag/tortilladesetas/",
+          "title": "tortilladesetas archivos - La Vida Bonica"
         }
       ],
-      "count": 4
+      "count": 5
     },
     {
       "name": "science-environment",
@@ -527,7 +505,29 @@
       "count": 5
     },
     {
-      "name": "home-diy-decor",
+      "name": "cs-education",
+      "bookmarks": [
+        {
+          "url": "https://twowaypr.tumblr.com/post/144207264792",
+          "title": "Computing occupations are the largest category of... - Two-Way PR"
+        },
+        {
+          "url": "https://djvacto-blog.tumblr.com/post/90468162172",
+          "title": "Danny , What % of STEM Should Be Computer Science?"
+        },
+        {
+          "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
+          "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
+        },
+        {
+          "url": "https://nothingbigbangtheory.tumblr.com/post/116858137854",
+          "title": "With all the national debate on immigration, I recently looked at the data for all the \"skilled worker\" visas we grant. It turns... - @nothingbigbangtheory on Tumblr"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "home-decor-diy",
       "bookmarks": [
         {
           "url": "https://www.goodhousekeeping.com/home/cleaning/a24885/tidy-home-tips/",
@@ -556,7 +556,7 @@
           "title": "Avviso di reindirizzamento"
         },
         {
-          "url": "https://isuzu.oemdtc.com/",
+          "url": "https://isuzu.oemdtc.com",
           "title": "Isuzu - OEMDTC"
         },
         {

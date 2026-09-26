@@ -35,11 +35,15 @@
       "count": 7
     },
     {
-      "name": "organizations-community",
+      "name": "community-organizations",
       "bookmarks": [
         {
           "url": "https://www.aioic.org/",
           "title": "American Indian OIC - Education and Career Services in Minneapolis, MN"
+        },
+        {
+          "url": "https://www.robinhood.org/",
+          "title": "Home - Robin Hood"
         },
         {
           "url": "https://www.leverforchange.org/",
@@ -48,10 +52,6 @@
         {
           "url": "http://www.hopfrog.it/",
           "title": "Prima Pagina - Hop Frog"
-        },
-        {
-          "url": "https://www.robinhood.org/",
-          "title": "Home - Robin Hood"
         },
         {
           "url": "https://www.twincitiesrise.org/",
@@ -68,12 +68,12 @@
       "name": "technology",
       "bookmarks": [
         {
-          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
-          "title": "PolicyDetail - AWS Identity and Access Management"
-        },
-        {
           "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control",
           "title": "Cache-Control header - HTTP | MDN"
+        },
+        {
+          "url": "https://labs.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
+          "title": "Home | Mozilla New Products"
         },
         {
           "url": "https://howl.me/cjbJfJ9zKGz",
@@ -84,18 +84,18 @@
           "title": "Inrete - Internet to support your business"
         },
         {
-          "url": "https://labs.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
-          "title": "Home | Mozilla New Products"
-        },
-        {
           "url": "https://newsleecher.com/forum/search.php?search_id=unanswered&sid=968c183c58a4dce6400cf929062f8d58",
           "title": "NewsLeecher - The Complete Usenet Package"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
+          "title": "PolicyDetail - AWS Identity and Access Management"
         }
       ],
       "count": 6
     },
     {
-      "name": "data-and-research",
+      "name": "data-research",
       "bookmarks": [
         {
           "url": "https://data.grandlyon.com/",
@@ -158,16 +158,16 @@
           "title": "Outerspacious Software - Privacy Policy"
         },
         {
+          "url": "https://www.speakinc.com/speakers/Mitchell-Baldwin/",
+          "title": "Private Speaker - SpeakInc."
+        },
+        {
           "url": "https://www.cvent.com/d/bjqgzd",
           "title": "Redirect page for inactive events"
         },
         {
           "url": "https://allswellhome.com/collections/use-all-less-toppers-and-allswell-mattress/products/the-supreme-pillow",
           "title": "Robot or human?"
-        },
-        {
-          "url": "https://www.speakinc.com/speakers/Mitchell-Baldwin/",
-          "title": "Private Speaker - SpeakInc."
         }
       ],
       "count": 5
@@ -184,16 +184,16 @@
           "title": "Environmental Justice Foundation | Homepage"
         },
         {
-          "url": "https://www.cbd.int/",
-          "title": "Home | Convention on Biological Diversity"
+          "url": "https://www.skylight.global/",
+          "title": "Home"
         },
         {
           "url": "https://www.islandconservation.org/",
           "title": "Home - Island Conservation"
         },
         {
-          "url": "https://www.skylight.global/",
-          "title": "Home"
+          "url": "https://www.cbd.int/",
+          "title": "Home | Convention on Biological Diversity"
         }
       ],
       "count": 5
@@ -243,7 +243,7 @@
       "count": 4
     },
     {
-      "name": "news-and-articles",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/",
@@ -265,7 +265,7 @@
       "count": 4
     },
     {
-      "name": "guides-and-info",
+      "name": "guides-info",
       "bookmarks": [
         {
           "url": "https://branchen.koeln.de/branchen/koeln-stadt/koeln/muelheim/architekten/k/1720",

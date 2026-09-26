@@ -1,23 +1,77 @@
 {
   "folders": [
     {
-      "name": "media-entertainment-culture",
+      "name": "software-development-resources",
+      "bookmarks": [
+        {
+          "url": "https://docs.python.org/3/library/collections.html",
+          "title": "collections - Container datatypes - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://firefox-dev.tools/",
+          "title": "Firefox Developer Tools"
+        },
+        {
+          "url": "https://www.weebly.com/",
+          "title": "Free Website Builder: Build a Free Website or Online Store | Weebly"
+        },
+        {
+          "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch",
+          "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
+        },
+        {
+          "url": "https://www.codecademy.com/learn/learn-git",
+          "title": "Learn Git: Tutorial + Basics | Codecademy"
+        },
+        {
+          "url": "https://www.edx.org/learn/linux",
+          "title": "Learn Linux | edX"
+        },
+        {
+          "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
+          "title": "Login - Clickteam Community Hub"
+        },
+        {
+          "url": "https://www.chessprogramming.org/NNUE",
+          "title": "NNUE - Chessprogramming wiki"
+        },
+        {
+          "url": "https://pory.io/",
+          "title": "No-Code App Builder • Pory"
+        },
+        {
+          "url": "https://pngquant.org/",
+          "title": "pngquant - lossy PNG compressor"
+        },
+        {
+          "url": "http://dogeleven.github.io",
+          "title": "TofuSoup"
+        },
+        {
+          "url": "https://pytorch.org/docs/stable/nn.html",
+          "title": "torch.nn - PyTorch 2.8 documentation"
+        },
+        {
+          "url": "https://www.myfonts.com/pages/whatthefont",
+          "title": "WhatTheFont Font Finder - Identify Fonts by Image"
+        },
+        {
+          "url": "https://forum.hardware.fr/hfr/Programmation/Perl/repertoire-serveur-distant-sujet_128705_1.htm",
+          "title": "Zipper un répertoire, fichier sur un serveur distant - Perl - Programmation - FORUM HardWare.fr"
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "entertainment-media-culture",
       "bookmarks": [
         {
           "url": "http://www.dickestel.com/classicexpo2004.htm",
           "title": "2004 Classic Gaming Expo in Las Vegas"
         },
         {
-          "url": "https://www.unblock.coffee/",
-          "title": "Unblock Coffee - Award-winning ads only"
-        },
-        {
-          "url": "http://abc.go.com/shows/the-view/video/pl55492969/vdka0_va37t1oc",
-          "title": "WATCH: {videotitle} Video | The View"
-        },
-        {
-          "url": "https://p.badoo.com/l/2f23922d23e23c25722521422122120b21",
-          "title": "Sito/app di incontri gratis: chat, amici, amore | Badoo"
+          "url": "https://josiahconcept.org/2018/04/15/best-of-jcm-comment-section-facepalm/",
+          "title": "Best of JCM: Comment Section Facepalm | Josiah Concept Ministries"
         },
         {
           "url": "https://herbiv-whore.tumblr.com/",
@@ -26,10 +80,6 @@
         {
           "url": "https://buddhism-controversy-blog.com/2012/04/09/boring-texts-by-je-tsongkhapa-vs-good-feeling-texts-by-geshe-kelsang/?replytocom=2917",
           "title": "Boring Books by Je Tsongkhapa vs. Good Feeling Books by Geshe Kelsang - Tibetan Buddhism - Struggling With Diffi·Cult Issues"
-        },
-        {
-          "url": "https://josiahconcept.org/2018/04/15/best-of-jcm-comment-section-facepalm/",
-          "title": "Best of JCM: Comment Section Facepalm | Josiah Concept Ministries"
         },
         {
           "url": "https://www.thinkingjuice.co.uk",
@@ -54,102 +104,36 @@
         {
           "url": "https://postermemorabilia.com/zh-cn/products/sanandreas",
           "title": "San Andreas Signed Poster with COA"
+        },
+        {
+          "url": "https://p.badoo.com/l/2f23922d23e23c25722521422122120b21",
+          "title": "Sito/app di incontri gratis: chat, amici, amore | Badoo"
+        },
+        {
+          "url": "https://www.unblock.coffee/",
+          "title": "Unblock Coffee - Award-winning ads only"
+        },
+        {
+          "url": "http://abc.go.com/shows/the-view/video/pl55492969/vdka0_va37t1oc",
+          "title": "WATCH: {videotitle} Video | The View"
         }
       ],
       "count": 13
     },
     {
-      "name": "software-development-resources",
+      "name": "environmental-social-justice",
       "bookmarks": [
         {
-          "url": "https://www.chessprogramming.org/NNUE",
-          "title": "NNUE - Chessprogramming wiki"
-        },
-        {
-          "url": "https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch",
-          "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
-        },
-        {
-          "url": "https://www.edx.org/learn/linux",
-          "title": "Learn Linux | edX"
-        },
-        {
-          "url": "https://www.codecademy.com/learn/learn-git",
-          "title": "Learn Git: Tutorial + Basics | Codecademy"
-        },
-        {
-          "url": "https://community.clickteam.com/activity.php?s=6882b562771a681f4073dec62e9d40a2",
-          "title": "Login - Clickteam Community Hub"
-        },
-        {
-          "url": "https://pory.io/",
-          "title": "No-Code App Builder • Pory"
-        },
-        {
-          "url": "https://pngquant.org/",
-          "title": "pngquant - lossy PNG compressor"
-        },
-        {
-          "url": "https://docs.python.org/3/library/collections.html",
-          "title": "collections - Container datatypes - Python 3.14.0 documentation"
-        },
-        {
-          "url": "https://pytorch.org/docs/stable/nn.html",
-          "title": "torch.nn - PyTorch 2.8 documentation"
-        },
-        {
-          "url": "http://dogeleven.github.io",
-          "title": "TofuSoup"
-        },
-        {
-          "url": "https://www.myfonts.com/pages/whatthefont",
-          "title": "WhatTheFont Font Finder - Identify Fonts by Image"
-        },
-        {
-          "url": "https://www.weebly.com/",
-          "title": "Free Website Builder: Build a Free Website or Online Store | Weebly"
-        },
-        {
-          "url": "https://firefox-dev.tools/",
-          "title": "Firefox Developer Tools"
-        },
-        {
-          "url": "https://forum.hardware.fr/hfr/Programmation/Perl/repertoire-serveur-distant-sujet_128705_1.htm",
-          "title": "Zipper un répertoire, fichier sur un serveur distant - Perl - Programmation - FORUM HardWare.fr"
-        }
-      ],
-      "count": 14
-    },
-    {
-      "name": "social-environmental-justice",
-      "bookmarks": [
-        {
-          "url": "https://www.anti-biasmontessori.com/",
-          "title": "Tiffany M. Jewell | author and educator"
-        },
-        {
-          "url": "https://map.peoplepower.org/?source=homepage",
-          "title": "Take Action | American Civil Liberties Union"
-        },
-        {
-          "url": "https://redimpacto.org/",
-          "title": "Página principal - Red Impacto LATAM"
-        },
-        {
-          "url": "https://www.pewtrusts.org/en/projects/pew-bertarelli-ocean-legacy",
-          "title": "Pew Bertarelli Ocean Legacy | The Pew Charitable Trusts"
-        },
-        {
-          "url": "https://columbusfoundation.org/?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgXY-8-ryOf412lm3ahKkKjspzxUVg-gVPHVDPFSFORurvkOWzZTzVxoC45AQAvD_BwE",
-          "title": "Home | The Columbus Foundation"
+          "url": "https://communityfoundations.ca/events/healthycommunities-simple-ways-to-create-vibrant-safe-spaces-or-adapt-public-places-and-programming-during-a-pandemic/",
+          "title": "#HealthyCommunities: Simple Ways To Create Vibrant Safe Spaces or Adapt Public Places and Programming During a Pandemic - Community Foundations of Canada"
         },
         {
           "url": "https://www.aclunc.org/news/governor-signs-bill-modernizing-california-hiv-laws",
           "title": "Governor Signs Bill Modernizing California HIV Laws | ACLU of Northern CA"
         },
         {
-          "url": "https://communityfoundations.ca/events/healthycommunities-simple-ways-to-create-vibrant-safe-spaces-or-adapt-public-places-and-programming-during-a-pandemic/",
-          "title": "#HealthyCommunities: Simple Ways To Create Vibrant Safe Spaces or Adapt Public Places and Programming During a Pandemic - Community Foundations of Canada"
+          "url": "https://columbusfoundation.org/?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgXY-8-ryOf412lm3ahKkKjspzxUVg-gVPHVDPFSFORurvkOWzZTzVxoC45AQAvD_BwE",
+          "title": "Home | The Columbus Foundation"
         },
         {
           "url": "https://www.iucncontributionsfornature.org",
@@ -158,115 +142,25 @@
         {
           "url": "https://www.fairlabor.org/blog/entry/joint-letter-prime-minister-narendra-modi",
           "title": "Joint letters to Prime Minister Narendra Modi - Fair Labor Association"
+        },
+        {
+          "url": "https://www.pewtrusts.org/en/projects/pew-bertarelli-ocean-legacy",
+          "title": "Pew Bertarelli Ocean Legacy | The Pew Charitable Trusts"
+        },
+        {
+          "url": "https://redimpacto.org/",
+          "title": "Página principal - Red Impacto LATAM"
+        },
+        {
+          "url": "https://map.peoplepower.org/?source=homepage",
+          "title": "Take Action | American Civil Liberties Union"
+        },
+        {
+          "url": "https://www.anti-biasmontessori.com/",
+          "title": "Tiffany M. Jewell | author and educator"
         }
       ],
       "count": 9
-    },
-    {
-      "name": "current-events-reporting",
-      "bookmarks": [
-        {
-          "url": "http://hosted2.ap.org/APDefault/*/Article_2015-03-05-US--Blurred%20Lines-Song%20Dispute/id-a6024f2efd254832b069c86a57c70c44",
-          "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News"
-        },
-        {
-          "url": "https://covid.cdc.gov/covid-data-tracker/#datatracker-home",
-          "title": "CDT Redirect Page"
-        },
-        {
-          "url": "https://www.hollandsentinel.com/story/news/columns/2020/05/10/mother-s-day-2020/1218142007/",
-          "title": "Mother's Day 2020"
-        },
-        {
-          "url": "https://www.ecowatch.com/pakistan-flooding-climate-change-2.html",
-          "title": "Devastating Pakistan Floods Most Likely Worsened by Climate Crisis - EcoWatch"
-        },
-        {
-          "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
-          "title": "Latest World & National News & Headlines - USATODAY.com"
-        },
-        {
-          "url": "https://muniversepr.com/noticias/este-es-el-septimo-grupo-de-jovenes-seleccionadas-para-miss-universe-puerto-rico-2023/",
-          "title": "Este es el séptimo grupo de jóvenes seleccionadas para Miss Universe Puerto Rico 2023 | Miss Universe Puerto Rico"
-        },
-        {
-          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
-          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
-        },
-        {
-          "url": "https://wjla.com/news/local/amtrak-train-derailment-northern-virginia-cars-collision-stranded-passengers-nonstop-trip-pets-sanford-florida-south-carolina-csx-freight-replacement-crew-food-meals-lorton-washington-dc-dmv-travel",
-          "title": "Delayed Amtrak train carrying northern Va. passengers arrives after 37-hour trip"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "tech-industry-insights",
-      "bookmarks": [
-        {
-          "url": "https://arstechnica.com/tech-policy/2014/06/first-chicago-robber-caught-via-facial-recognition-gets-22-years/",
-          "title": "First Chicago robber caught via facial recognition gets 22 years - Ars Technica"
-        },
-        {
-          "url": "https://justice.kaporcenter.org/",
-          "title": "Homepage - Kapor Center"
-        },
-        {
-          "url": "https://pcper.com/tag/k53/",
-          "title": "k53 - PC Perspective"
-        },
-        {
-          "url": "https://www.entrepreneur.com/business-news/heres-how-to-get-150000-from-shark-tanks-daymond/436848",
-          "title": "Here's How to Get $150,000 From 'Shark Tank''s Daymond John"
-        },
-        {
-          "url": "https://meritamerica.org/",
-          "title": "Workforce Program | Start a Technology Career | Merit America"
-        },
-        {
-          "url": "https://news.microsoft.com/",
-          "title": "Microsoft Source"
-        },
-        {
-          "url": "https://camerajabber.com",
-          "title": "Camera Jabber - The latest news, reviews, tutorials and everything photography"
-        },
-        {
-          "url": "https://career.engr.psu.edu/employers/index.aspx",
-          "title": "Employers | Penn State Engineering"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "automotive-travel-transport",
-      "bookmarks": [
-        {
-          "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
-          "title": "BMW Uruguay | Autos Deportivos, Eléctricos y Más"
-        },
-        {
-          "url": "http://www.fiat.com/",
-          "title": "Fiat - Official Website"
-        },
-        {
-          "url": "https://www.mvg.de/tickets-tarife.html",
-          "title": "Abos & Tickets der MVG | MVG"
-        },
-        {
-          "url": "https://www.booking.com/help.en-gb.html",
-          "title": "void"
-        },
-        {
-          "url": "https://cars.superpages.com/ames-ia/taxis",
-          "title": "Best 7 Taxis in Ames, IA | superpages.com"
-        },
-        {
-          "url": "https://www.rya.org.uk/knowledge/safety",
-          "title": "Water Safety Advice | Home | RYA - Royal Yachting Association"
-        }
-      ],
-      "count": 6
     },
     {
       "name": "company-organization-portals",
@@ -284,10 +178,6 @@
           "title": "Ecotecnia | Eficiencia energética"
         },
         {
-          "url": "https://www.gocoastguard.com/max",
-          "title": "Max | United States Coast Guard"
-        },
-        {
           "url": "https://www.greenmeadowslawnscape.com/hardscaping/",
           "title": "Hardscaping Services - Green Meadows Lawnscape"
         },
@@ -296,12 +186,92 @@
           "title": "Intrepid Museum"
         },
         {
+          "url": "https://www.gocoastguard.com/max",
+          "title": "Max | United States Coast Guard"
+        },
+        {
           "url": "https://reviewed.usatoday.com",
           "title": "Product Reviews, Features, and Deals - Reviewed"
         },
         {
           "url": "https://webaccounts.imo.org",
           "title": "Working..."
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "current-events-reporting",
+      "bookmarks": [
+        {
+          "url": "http://hosted2.ap.org/APDefault/*/Article_2015-03-05-US--Blurred%20Lines-Song%20Dispute/id-a6024f2efd254832b069c86a57c70c44",
+          "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News"
+        },
+        {
+          "url": "https://covid.cdc.gov/covid-data-tracker/#datatracker-home",
+          "title": "CDT Redirect Page"
+        },
+        {
+          "url": "https://wjla.com/news/local/amtrak-train-derailment-northern-virginia-cars-collision-stranded-passengers-nonstop-trip-pets-sanford-florida-south-carolina-csx-freight-replacement-crew-food-meals-lorton-washington-dc-dmv-travel",
+          "title": "Delayed Amtrak train carrying northern Va. passengers arrives after 37-hour trip"
+        },
+        {
+          "url": "https://www.ecowatch.com/pakistan-flooding-climate-change-2.html",
+          "title": "Devastating Pakistan Floods Most Likely Worsened by Climate Crisis - EcoWatch"
+        },
+        {
+          "url": "https://muniversepr.com/noticias/este-es-el-septimo-grupo-de-jovenes-seleccionadas-para-miss-universe-puerto-rico-2023/",
+          "title": "Este es el séptimo grupo de jóvenes seleccionadas para Miss Universe Puerto Rico 2023 | Miss Universe Puerto Rico"
+        },
+        {
+          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
+          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
+        },
+        {
+          "url": "https://www.usatoday.com/story/news/nation/2023/02/26/mexico-president-photo-mythological-elf/11354835002/",
+          "title": "Latest World & National News & Headlines - USATODAY.com"
+        },
+        {
+          "url": "https://www.hollandsentinel.com/story/news/columns/2020/05/10/mother-s-day-2020/1218142007/",
+          "title": "Mother's Day 2020"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "tech-industry-insights",
+      "bookmarks": [
+        {
+          "url": "https://camerajabber.com",
+          "title": "Camera Jabber - The latest news, reviews, tutorials and everything photography"
+        },
+        {
+          "url": "https://career.engr.psu.edu/employers/index.aspx",
+          "title": "Employers | Penn State Engineering"
+        },
+        {
+          "url": "https://arstechnica.com/tech-policy/2014/06/first-chicago-robber-caught-via-facial-recognition-gets-22-years/",
+          "title": "First Chicago robber caught via facial recognition gets 22 years - Ars Technica"
+        },
+        {
+          "url": "https://www.entrepreneur.com/business-news/heres-how-to-get-150000-from-shark-tanks-daymond/436848",
+          "title": "Here's How to Get $150,000 From 'Shark Tank''s Daymond John"
+        },
+        {
+          "url": "https://justice.kaporcenter.org/",
+          "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "https://pcper.com/tag/k53/",
+          "title": "k53 - PC Perspective"
+        },
+        {
+          "url": "https://news.microsoft.com/",
+          "title": "Microsoft Source"
+        },
+        {
+          "url": "https://meritamerica.org/",
+          "title": "Workforce Program | Start a Technology Career | Merit America"
         }
       ],
       "count": 8
@@ -348,14 +318,6 @@
           "title": "17-29-018 | CIE"
         },
         {
-          "url": "https://www.almanac.com/content/full-moon-march",
-          "title": "Worm Moon: Full Moon in March 2025 | The Old Farmer's Almanac"
-        },
-        {
-          "url": "http://kindness.sesamestreet.org",
-          "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
-        },
-        {
           "url": "https://pubmed.ncbi.nlm.nih.gov/19240812",
           "title": "Estimating the worldwide extent of illegal fishing - PubMed"
         },
@@ -368,11 +330,49 @@
           "title": "Natural Dyes- MAIWA"
         },
         {
+          "url": "http://kindness.sesamestreet.org",
+          "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
+        },
+        {
           "url": "https://podcasts.apple.com/us/podcast/sunny-stormy-cloudy-days-01-a-cloudy-day-story/id635364022?i=1000457275091",
           "title": "Sunny, Stormy, Cloudy Days 01:... - Sesame in Communities - Apple Podcasts"
+        },
+        {
+          "url": "https://www.almanac.com/content/full-moon-march",
+          "title": "Worm Moon: Full Moon in March 2025 | The Old Farmer's Almanac"
         }
       ],
       "count": 7
+    },
+    {
+      "name": "travel-automotive-transport",
+      "bookmarks": [
+        {
+          "url": "https://www.mvg.de/tickets-tarife.html",
+          "title": "Abos & Tickets der MVG | MVG"
+        },
+        {
+          "url": "https://cars.superpages.com/ames-ia/taxis",
+          "title": "Best 7 Taxis in Ames, IA | superpages.com"
+        },
+        {
+          "url": "https://www.bmw.com.uy/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Uruguay | Autos Deportivos, Eléctricos y Más"
+        },
+        {
+          "url": "http://www.fiat.com/",
+          "title": "Fiat - Official Website"
+        },
+        {
+          "url": "https://www.booking.com/help.en-gb.html",
+          "title": "void"
+        },
+        {
+          "url": "https://www.rya.org.uk/knowledge/safety",
+          "title": "Water Safety Advice | Home | RYA - Royal Yachting Association"
+        }
+      ],
+      "count": 6
     },
     {
       "name": "legal-privacy-policy",
@@ -382,16 +382,16 @@
           "title": "cprarequestform"
         },
         {
-          "url": "http://www.lawyersadvantage.com/",
-          "title": "void"
+          "url": "https://roundingsquares.com/privacy/",
+          "title": "Privacy - Rounding Squares"
         },
         {
           "url": "https://www.memberclicks.com/privacy",
           "title": "Privacy Policy | MemberClicks"
         },
         {
-          "url": "https://roundingsquares.com/privacy/",
-          "title": "Privacy - Rounding Squares"
+          "url": "http://www.lawyersadvantage.com/",
+          "title": "void"
         }
       ],
       "count": 4

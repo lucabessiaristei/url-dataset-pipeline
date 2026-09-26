@@ -1,11 +1,53 @@
 {
   "folders": [
     {
-      "name": "non-profit-organizations",
+      "name": "websites-homepages",
       "bookmarks": [
         {
-          "url": "http://www.responsiblemineralsinitiative.org/",
-          "title": "Responsible Minerals Initiative"
+          "url": "https://balticword.eu/",
+          "title": "balticword.eu steht zum Verkauf"
+        },
+        {
+          "url": "https://www.eou.edu/?s=ebk5867.cn",
+          "title": "ebk5867.cn | Search Results | Eastern Oregon University"
+        },
+        {
+          "url": "https://www.seoghoer.dk/nyheder/frederik-til-haandboldfinale-med-familien",
+          "title": "Frederik: Til håndboldfinale med familien | SE og HØR"
+        },
+        {
+          "url": "https://tbytmedia.com/2020/05/22/keep-ya-head-up-rhys-lewis-interview/",
+          "title": "Keep Ya Head Up: Rhys Lewis Interview | Think Before You Type Media Group"
+        },
+        {
+          "url": "http://www.motorola.com/",
+          "title": "motorola Italia | Telefoni Android & Razr | motorola"
+        },
+        {
+          "url": "http://rechnerlexikon.de/en/wiki.phtml?title=Patent:DE460651&diff=0&oldid=67603",
+          "title": "Patent:DE460651 - Rechnerlexikon"
+        },
+        {
+          "url": "http://community.planet.com/",
+          "title": "Planet Community | Planet Community"
+        },
+        {
+          "url": "https://www.systembolaget.se/sortiment/",
+          "title": "void"
+        },
+        {
+          "url": "https://gckgrebow.pl/2018/04/zajecia-dla-as-w-kwietniu/",
+          "title": "Zajęcia dla AS w kwietniu - Gminne Centrum Kultury w Grębowie"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://bcbcc.org/",
+          "title": "Beaufort County Black Chamber of Commerce | Together We Rise"
         },
         {
           "url": "https://www.aauw.org/",
@@ -16,12 +58,126 @@
           "title": "Homepage - Ready for School, Ready for Life"
         },
         {
-          "url": "https://landbanktwincities.org/",
+          "url": "http://www.landbanktwincities.org/",
           "title": "Land Bank Twin Cities - Social Impact Real Estate"
         },
         {
-          "url": "https://bcbcc.org/",
-          "title": "Beaufort County Black Chamber of Commerce | Together We Rise"
+          "url": "http://www.responsiblemineralsinitiative.org/",
+          "title": "Responsible Minerals Initiative"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "online-tools-resources",
+      "bookmarks": [
+        {
+          "url": "https://aws.amazon.com/training/restart/",
+          "title": "AWS restart"
+        },
+        {
+          "url": "https://create.microsoft.com/?utm_source=m356edge&utm_medium=microsite&utm_campaign=creation",
+          "title": "Free templates for social media, documents & designs | Microsoft Create"
+        },
+        {
+          "url": "https://vpn.mozilla.org",
+          "title": "Get Mozilla VPN - Mozilla (US)"
+        },
+        {
+          "url": "https://docs.looker.com/",
+          "title": "Looker | Google Cloud"
+        },
+        {
+          "url": "https://consultations.worldbank.org/?map=1",
+          "title": "World Bank Consultations"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "arts-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://boekenkastweb.wordpress.com/2019/12/20/blu-ray-in-de-kijker-once-upon-a-time-in-hollywood-quentin-tarantino/",
+          "title": "Blu-ray in de kijker: Once Upon A Time In... Hollywood - Quentin Tarantino - De Boekenkast Redactie.Boekenkast@gmail.com"
+        },
+        {
+          "url": "https://www.hulu.com/",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://www.epix.com",
+          "title": "MGM+ | Instant Access to Movies, TV Series & More"
+        },
+        {
+          "url": "https://www.cinemablend.com/news/1660840/the-craft-remake-is-getting-off-the-ground",
+          "title": "The Craft Remake Is Getting Off The Ground | Cinemablend"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "energy-environment",
+      "bookmarks": [
+        {
+          "url": "https://www.geospatialworld.net/blogs/californian-non-profit-emissions-power-plants/",
+          "title": "Californian non-profit to monitor emissions from all power plants globally"
+        },
+        {
+          "url": "https://peru.info/en-us/foreign-trade/news/7/30/giant-squid--leader-in-fishery-exports",
+          "title": "Giant Squid: leader in fishery exports"
+        },
+        {
+          "url": "https://iotc.org/",
+          "title": "IOTC | Indian Ocean Tuna Commission / Commission des Thons de l'Océan Indien"
+        },
+        {
+          "url": "https://www.drklein.de/kosten-grundstueckskauf.html",
+          "title": "Kosten beim Grundstückskauf"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "science-technology",
+      "bookmarks": [
+        {
+          "url": "https://subaru.oemdtc.com/category/diagnostic-tips",
+          "title": "Diagnostic Tips | Subaru - OEMDTC"
+        },
+        {
+          "url": "https://www.ipachart.com/",
+          "title": "IPA Chart"
+        },
+        {
+          "url": "https://jsonlint.com/",
+          "title": "JSON Online Validator and Formatter - JSON Lint"
+        },
+        {
+          "url": "https://xview2.org/",
+          "title": "xView2"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "technology-computing",
+      "bookmarks": [
+        {
+          "url": "https://subversion.apache.org/",
+          "title": "Apache Subversion"
+        },
+        {
+          "url": "https://docs.python.org/3/library/concurrent.futures.html",
+          "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge",
+          "title": "Lifecycle FAQ - Internet Explorer and Microsoft Edge | Microsoft Learn"
+        },
+        {
+          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
+          "title": "PolicyDetail - AWS Identity and Access Management"
         }
       ],
       "count": 4
@@ -34,48 +190,62 @@
           "title": "Association for Computing Machinery"
         },
         {
-          "url": "https://www.usegalileo.ai/",
-          "title": "Stitch - Design with AI"
+          "url": "https://bsandco.us/all-designs",
+          "title": "BS&Co - Email Marketing Agency | Drive Revenue with Strategic Campaigns"
         },
         {
-          "url": "https://www.bsandco.us/all-designs",
-          "title": "BS&Co - Email Marketing Agency | Drive Revenue with Strategic Campaigns"
+          "url": "https://www.usegalileo.ai/",
+          "title": "Stitch - Design with AI"
         }
       ],
       "count": 3
     },
     {
-      "name": "technology-and-computing",
+      "name": "education-research",
       "bookmarks": [
         {
-          "url": "https://subversion.apache.org/",
-          "title": "Apache Subversion"
+          "url": "https://koreauniv.pure.elsevier.com/en/publications/genetic-polymorphisms-of-the-%CE%B2sub2sub-adrenergic-receptor-in-the-",
+          "title": "Genetic polymorphisms of the β>2>-Adrenergic receptor in the severity of bronchial asthma - Korea University Pure"
         },
         {
-          "url": "https://docs.aws.amazon.com/IAM/latest/APIReference/API_PolicyDetail.html",
-          "title": "PolicyDetail - AWS Identity and Access Management"
+          "url": "https://www.metmuseum.org/art/collection/search?showOnly=withImage%7CopenAccess",
+          "title": "Search The Collection - The Metropolitan Museum of Art"
         },
         {
-          "url": "https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge",
-          "title": "Lifecycle FAQ - Internet Explorer and Microsoft Edge | Microsoft Learn"
-        },
-        {
-          "url": "https://docs.python.org/3/library/concurrent.futures.html",
-          "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
+          "url": "https://en.unesco.org/news/covid-19-ocean-ally-against-virus",
+          "title": "UNESCO : Building Peace through Education, Science and Culture, communication and information"
         }
       ],
-      "count": 4
+      "count": 3
     },
     {
-      "name": "news-and-media",
+      "name": "education-training",
       "bookmarks": [
         {
-          "url": "https://www.newschannel5.com/news/newschannel-5-investigates/the-das-deals/listening-devices-installed-around-nashville-das-office-installer-confirms-da-defends-practice",
-          "title": "Listening devices installed around Nashville DA's office, vendor confirms"
+          "url": "http://www.gtcenter.org/",
+          "title": "Home - Stony Brook Center for Game Theory"
         },
+        {
+          "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089P71.html",
+          "title": "Le Pliage Original L Tote bag Paper - Recycled canvas | Longchamp US"
+        },
+        {
+          "url": "https://www.nbcsports.com/?cid=eref:nbcnews:text",
+          "title": "NBC Sports - news, scores, stats, rumors, videos, and more"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
         {
           "url": "https://www.denverpost.com/2021/05/13/xcel-energy-crestone-peak-cleaner-gas/",
           "title": "Colorado oil and gas company aims to produce \"cleanest molecules\" anywhere"
+        },
+        {
+          "url": "https://www.newschannel5.com/news/newschannel-5-investigates/the-das-deals/listening-devices-installed-around-nashville-das-office-installer-confirms-da-defends-practice",
+          "title": "Listening devices installed around Nashville DA's office, vendor confirms"
         },
         {
           "url": "https://extratv.com/2023/02/28/michael-b-jordan-talks-directing-creed-iii-while-co-stars-react-to-calvin-klein-ad-exclusive/",
@@ -85,91 +255,21 @@
       "count": 3
     },
     {
-      "name": "education-and-research",
+      "name": "computing-software",
       "bookmarks": [
         {
-          "url": "https://www.metmuseum.org/art/collection/search?showOnly=withImage%7CopenAccess",
-          "title": "Search The Collection - The Metropolitan Museum of Art"
+          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
+          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
         },
         {
-          "url": "https://en.unesco.org/news/covid-19-ocean-ally-against-virus",
-          "title": "UNESCO : Building Peace through Education, Science and Culture, communication and information"
-        },
-        {
-          "url": "https://koreauniv.pure.elsevier.com/en/publications/genetic-polymorphisms-of-the-%CE%B2sub2sub-adrenergic-receptor-in-the-",
-          "title": "Genetic polymorphisms of the β>2>-Adrenergic receptor in the severity of bronchial asthma - Korea University Pure"
+          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
+          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
         }
       ],
-      "count": 3
+      "count": 2
     },
     {
-      "name": "entertainment-and-arts",
-      "bookmarks": [
-        {
-          "url": "https://www.hulu.com/",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        },
-        {
-          "url": "https://www.epix.com",
-          "title": "MGM+ | Instant Access to Movies, TV Series & More"
-        },
-        {
-          "url": "https://boekenkastweb.wordpress.com/2019/12/20/blu-ray-in-de-kijker-once-upon-a-time-in-hollywood-quentin-tarantino/",
-          "title": "Blu-ray in de kijker: Once Upon A Time In... Hollywood - Quentin Tarantino - De Boekenkast Redactie.Boekenkast@gmail.com"
-        },
-        {
-          "url": "https://www.cinemablend.com/news/1660840/the-craft-remake-is-getting-off-the-ground",
-          "title": "The Craft Remake Is Getting Off The Ground | Cinemablend"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "environment-and-energy",
-      "bookmarks": [
-        {
-          "url": "https://www.geospatialworld.net/blogs/californian-non-profit-emissions-power-plants/",
-          "title": "Californian non-profit to monitor emissions from all power plants globally"
-        },
-        {
-          "url": "https://iotc.org/",
-          "title": "IOTC | Indian Ocean Tuna Commission / Commission des Thons de l'Océan Indien"
-        },
-        {
-          "url": "https://www.drklein.de/kosten-grundstueckskauf.html",
-          "title": "Kosten beim Grundstückskauf"
-        },
-        {
-          "url": "https://peru.info/en-us/foreign-trade/news/7/30/giant-squid--leader-in-fishery-exports",
-          "title": "Giant Squid: leader in fishery exports"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "science-and-technology",
-      "bookmarks": [
-        {
-          "url": "https://xview2.org/",
-          "title": "xView2"
-        },
-        {
-          "url": "https://jsonlint.com/",
-          "title": "JSON Online Validator and Formatter - JSON Lint"
-        },
-        {
-          "url": "https://www.ipachart.com/",
-          "title": "IPA Chart"
-        },
-        {
-          "url": "https://subaru.oemdtc.com/category/diagnostic-tips",
-          "title": "Diagnostic Tips | Subaru - OEMDTC"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "travel-and-tourism",
+      "name": "travel-tourism",
       "bookmarks": [
         {
           "url": "https://www.beautybay.com/p/nudestix/nudies-tinted-blur/deep-95/?slfpid=3",
@@ -181,120 +281,8 @@
         }
       ],
       "count": 2
-    },
-    {
-      "name": "websites-and-homepages",
-      "bookmarks": [
-        {
-          "url": "https://www.seoghoer.dk/nyheder/frederik-til-haandboldfinale-med-familien",
-          "title": "Frederik: Til håndboldfinale med familien | SE og HØR"
-        },
-        {
-          "url": "https://community.planet.com/",
-          "title": "Planet Community | Planet Community"
-        },
-        {
-          "url": "http://community.planet.com/",
-          "title": "Planet Community"
-        },
-        {
-          "url": "https://tbytmedia.com/2020/05/22/keep-ya-head-up-rhys-lewis-interview/",
-          "title": "Keep Ya Head Up: Rhys Lewis Interview | Think Before You Type Media Group"
-        },
-        {
-          "url": "https://www.eou.edu/?s=ebk5867.cn",
-          "title": "ebk5867.cn | Search Results | Eastern Oregon University"
-        },
-        {
-          "url": "http://www.motorola.com/",
-          "title": "motorola Italia | Telefoni Android & Razr | motorola"
-        },
-        {
-          "url": "https://balticword.eu/",
-          "title": "balticword.eu steht zum Verkauf"
-        },
-        {
-          "url": "https://www.systembolaget.se/sortiment/",
-          "title": "void"
-        },
-        {
-          "url": "http://rechnerlexikon.de/en/wiki.phtml?title=Patent:DE460651&diff=0&oldid=67603",
-          "title": "Patent:DE460651 - Rechnerlexikon"
-        },
-        {
-          "url": "https://gckgrebow.pl/2018/04/zajecia-dla-as-w-kwietniu/",
-          "title": "Zajęcia dla AS w kwietniu - Gminne Centrum Kultury w Grębowie"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "online-tools-and-resources",
-      "bookmarks": [
-        {
-          "url": "https://docs.looker.com/",
-          "title": "Looker | Google Cloud"
-        },
-        {
-          "url": "https://consultations.worldbank.org/?map=1",
-          "title": "World Bank Consultations"
-        },
-        {
-          "url": "https://create.microsoft.com/?utm_source=m356edge&utm_medium=microsite&utm_campaign=creation",
-          "title": "Free templates for social media, documents & designs | Microsoft Create"
-        },
-        {
-          "url": "https://vpn.mozilla.org",
-          "title": "Get Mozilla VPN - Mozilla (US)"
-        },
-        {
-          "url": "https://aws.amazon.com/training/restart/",
-          "title": "AWS restart"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education-and-training",
-      "bookmarks": [
-        {
-          "url": "https://www.nbcsports.com/?cid=eref:nbcnews:text",
-          "title": "NBC Sports - news, scores, stats, rumors, videos, and more"
-        },
-        {
-          "url": "https://www.longchamp.com/us/en/products/tote-bag-l-L1899089P71.html",
-          "title": "Le Pliage Original L Tote bag Paper - Recycled canvas | Longchamp US"
-        },
-        {
-          "url": "https://mtst-nature.nature.com/",
-          "title": "Nature"
-        },
-        {
-          "url": "http://www.gtcenter.org/",
-          "title": "Home - Stony Brook Center for Game Theory"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "computing-and-software",
-      "bookmarks": [
-        {
-          "url": "https://www.usegalileo.ai/",
-          "title": "Stitch - Design with AI"
-        },
-        {
-          "url": "https://www.facilitiesnet.com/designconstruction/article/Allowing-for-Varying-Employee-Ages-Preferences-in-Workplace-Style--16099?source=part",
-          "title": "Allowing for Varying Employee Ages, Preferences in Workplace Style - Facilities Management Insights"
-        },
-        {
-          "url": "https://concernedpuengineer-blog.tumblr.com/post/121240027990",
-          "title": "Maryland moves to increase diversity in computer science - @concernedpuengineer-blog on Tumblr"
-        }
-      ],
-      "count": 3
     }
   ],
-  "total_bookmarks": 61,
-  "num_folders": 12
+  "total_bookmarks": 51,
+  "num_folders": 13
 }

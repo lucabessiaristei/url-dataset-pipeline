@@ -31,7 +31,7 @@
       "count": 6
     },
     {
-      "name": "e-commerce-online-stores",
+      "name": "ecommerce-online-stores",
       "bookmarks": [
         {
           "url": "https://www.berrylush.com/",
@@ -46,12 +46,12 @@
           "title": "Huda Beauty | Now Shipping to Italy"
         },
         {
-          "url": "https://www.technika-stroje.cz/dilna-zahrada-les/eshop/99-1-nove-produkty/520-3-Sedak",
-          "title": "Nářadí a stroje pro dům, dílnu, zahradu a stavbu"
-        },
-        {
           "url": "https://www.shopdisney.com/franchises/national-geographic/",
           "title": "National Geographic Store | Disney Store"
+        },
+        {
+          "url": "https://www.technika-stroje.cz/dilna-zahrada-les/eshop/99-1-nove-produkty/520-3-Sedak",
+          "title": "Nářadí a stroje pro dům, dílnu, zahradu a stavbu"
         }
       ],
       "count": 5
@@ -60,12 +60,12 @@
       "name": "web-development-tools-platforms",
       "bookmarks": [
         {
-          "url": "https://mozilla.design/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=resources",
-          "title": "Home - Mozilla Dot Design"
-        },
-        {
           "url": "https://mozilla.github.io/hackweek-avatar-maker/",
           "title": "Hackweek Avatar Maker"
+        },
+        {
+          "url": "https://mozilla.design/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=resources",
+          "title": "Home - Mozilla Dot Design"
         },
         {
           "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
@@ -108,10 +108,6 @@
       "name": "business-job-industrial-services",
       "bookmarks": [
         {
-          "url": "http://www.grs-batterien.de",
-          "title": "Start | GRS Batterien Service GmbH"
-        },
-        {
           "url": "https://www.handelsblatt.com/unternehmen/industrie",
           "title": "Handelsblatt"
         },
@@ -122,6 +118,10 @@
         {
           "url": "https://newsroom.ie.paypal-corp.com/",
           "title": "PayPal Newsroom - Home"
+        },
+        {
+          "url": "http://www.grs-batterien.de",
+          "title": "Start | GRS Batterien Service GmbH"
         }
       ],
       "count": 4
@@ -129,10 +129,6 @@
     {
       "name": "community-advocacy-sports",
       "bookmarks": [
-        {
-          "url": "https://www.academylittleleague.org/academyll",
-          "title": "Home"
-        },
         {
           "url": "http://dallasblackchamber.org/",
           "title": "Dallas Black Chamber of Commerce"
@@ -142,6 +138,10 @@
           "title": "Full Fact"
         },
         {
+          "url": "https://www.academylittleleague.org/academyll",
+          "title": "Home"
+        },
+        {
           "url": "https://pillsburyunited.org/",
           "title": "Pillsbury United Communities"
         }
@@ -149,7 +149,7 @@
       "count": 4
     },
     {
-      "name": "environmental-animal-welfare-non-profits",
+      "name": "environmental-animal-welfare-nonprofits",
       "bookmarks": [
         {
           "url": "https://www.goatsofanarchy.org/",
@@ -251,24 +251,6 @@
       "count": 3
     },
     {
-      "name": "environment-science-news",
-      "bookmarks": [
-        {
-          "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/25997e7",
-          "title": "Coast Guard patrols North Pacific in support of international fisheries"
-        },
-        {
-          "url": "https://spectrum.ieee.org/energywise/energy/fossil-fuels/how-to-track-the-emissions-of-every-power-plant-on-the-planet-from-space",
-          "title": "How to Track the Emissions of Every Power Plant on the Planet from Space - IEEE Spectrum"
-        },
-        {
-          "url": "https://www.theguardian.com/environment/2021/nov/02/four-latin-american-countries-join-protected-marine-reserves-to-create-mega-mpa",
-          "title": "Latin American countries join reserves to create vast marine protected area | Ecuador | The Guardian"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "food-meal-services",
       "bookmarks": [
         {
@@ -287,7 +269,25 @@
       "count": 3
     },
     {
-      "name": "news-and-updates-global",
+      "name": "news-science-environment",
+      "bookmarks": [
+        {
+          "url": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/25997e7",
+          "title": "Coast Guard patrols North Pacific in support of international fisheries"
+        },
+        {
+          "url": "https://spectrum.ieee.org/energywise/energy/fossil-fuels/how-to-track-the-emissions-of-every-power-plant-on-the-planet-from-space",
+          "title": "How to Track the Emissions of Every Power Plant on the Planet from Space - IEEE Spectrum"
+        },
+        {
+          "url": "https://www.theguardian.com/environment/2021/nov/02/four-latin-american-countries-join-protected-marine-reserves-to-create-mega-mpa",
+          "title": "Latin American countries join reserves to create vast marine protected area | Ecuador | The Guardian"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "news-updates-global",
       "bookmarks": [
         {
           "url": "https://press.un.org/en/highlights/UNGA77",
@@ -312,12 +312,12 @@
           "title": "Come and See Foundation Help Center"
         },
         {
-          "url": "https://forum.corel.com/search.php?search_id=active_topics&sid=9078362d4fdca1df89b80c0d3a53f368",
-          "title": "Supporto - Corel"
-        },
-        {
           "url": "https://discord.gg/f4hvx8Rp2q",
           "title": "Google Maps Platform"
+        },
+        {
+          "url": "https://forum.corel.com/search.php?search_id=active_topics&sid=9078362d4fdca1df89b80c0d3a53f368",
+          "title": "Supporto - Corel"
         }
       ],
       "count": 3
@@ -348,18 +348,18 @@
           "title": "@a2tunes on Tumblr"
         },
         {
-          "url": "https://e-n-t-p.tumblr.com/",
-          "title": "PSYCH"
-        },
-        {
           "url": "https://michaelfresh-blog.tumblr.com/",
           "title": "@michaelfresh-blog on Tumblr"
+        },
+        {
+          "url": "https://e-n-t-p.tumblr.com/",
+          "title": "PSYCH"
         }
       ],
       "count": 3
     },
     {
-      "name": "uncategorized-miscellaneous",
+      "name": "miscellaneous-uncategorized",
       "bookmarks": [
         {
           "url": "https://besthindisex.com/indian/?link=category_thumb",

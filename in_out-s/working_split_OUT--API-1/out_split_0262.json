@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "education-academic-research",
+      "name": "academic-research-education",
       "bookmarks": [
         {
           "url": "https://belikeada.tumblr.com/post/89425124609",
@@ -68,12 +68,12 @@
       "name": "developer-it-tools",
       "bookmarks": [
         {
-          "url": "https://www.accessguide.io/",
-          "title": "Homepage - Access Guide"
-        },
-        {
           "url": "https://developers.googleblog.com",
           "title": "Home - Google Developers Blog"
+        },
+        {
+          "url": "https://www.accessguide.io/",
+          "title": "Homepage - Access Guide"
         },
         {
           "url": "https://www.netip.de/live/11/45/stats.htm",
@@ -207,30 +207,8 @@
       "count": 5
     },
     {
-      "name": "consumer-services-general",
-      "bookmarks": [
-        {
-          "url": "https://contactus.target.com/ContactUs?Con=ContactUs&lnk=fnav_t_spc_1_28",
-          "title": "Contact Us"
-        },
-        {
-          "url": "https://1profire.com/fl/putnum-county/fire-sprinkler-installation/",
-          "title": "Fire Sprinkler Installation in Putnum County, Florida"
-        },
-        {
-          "url": "https://livestream.com",
-          "title": "Stream Live Video Online | Vimeo Livestream"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "design-creative-multimedia",
       "bookmarks": [
-        {
-          "url": "https://www.filmvorfuehrer.de/topic/26002-samsung-cinema-screen/?do=editlogComment&comment=287769",
-          "title": "Änderungshistorie - Filmvorführer.de"
-        },
         {
           "url": "https://littlebigdetails.com/",
           "title": "Little Big Details - The details are not the details"
@@ -238,12 +216,16 @@
         {
           "url": "https://karmahjalmarstal.com/2011/11/29/same-same-but-different-etsy-tiger/",
           "title": "Same same but different #etsy #tiger/ | You can't start a fire without a spark"
+        },
+        {
+          "url": "https://www.filmvorfuehrer.de/topic/26002-samsung-cinema-screen/?do=editlogComment&comment=287769",
+          "title": "Änderungshistorie - Filmvorführer.de"
         }
       ],
       "count": 3
     },
     {
-      "name": "food-recipes-cooking",
+      "name": "food-cooking-recipes",
       "bookmarks": [
         {
           "url": "https://kmamasauce.com/pages/our-soul",
@@ -256,6 +238,24 @@
         {
           "url": "https://simplytadka.com/",
           "title": "Simply Tadka"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "general-consumer-services",
+      "bookmarks": [
+        {
+          "url": "https://contactus.target.com/ContactUs?Con=ContactUs&lnk=fnav_t_spc_1_28",
+          "title": "Contact Us"
+        },
+        {
+          "url": "https://1profire.com/fl/putnum-county/fire-sprinkler-installation/",
+          "title": "Fire Sprinkler Installation in Putnum County, Florida"
+        },
+        {
+          "url": "https://livestream.com",
+          "title": "Stream Live Video Online | Vimeo Livestream"
         }
       ],
       "count": 3

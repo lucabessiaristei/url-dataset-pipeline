@@ -12,7 +12,7 @@
           "title": "Hispanic Federation | Taking Hispanic Causes to Heart"
         },
         {
-          "url": "https://www.moorecharitable.org/",
+          "url": "https://www.moorecharitable.org",
           "title": "Home - The Moore Charitable Foundation"
         },
         {
@@ -51,7 +51,7 @@
       "count": 11
     },
     {
-      "name": "entertainment-sports",
+      "name": "sports-entertainment",
       "bookmarks": [
         {
           "url": "https://demozoo.org/parties/241/",
@@ -70,7 +70,7 @@
           "title": "No, ASAP Rocky And Jonathan Majors Are Not Being Emasculated | by Whitney Alese | ZORA"
         },
         {
-          "url": "https://www.siriusxm.com/",
+          "url": "https://www.siriusxm.com",
           "title": "SiriusXM: Music, Sports, Talk & Podcasts, Live & On Demand"
         },
         {
@@ -145,6 +145,32 @@
       "count": 6
     },
     {
+      "name": "ai-marketing-tools",
+      "bookmarks": [
+        {
+          "url": "https://www.closerscopy.com/",
+          "title": "AI Copywriting Robot - ClosersCopy"
+        },
+        {
+          "url": "https://marketingkit.withgoogle.com",
+          "title": "Before you continue"
+        },
+        {
+          "url": "https://partnerships.nature.com/product/digital-advertising/",
+          "title": "Digital Advertising | Engage with Scientists | Nature Partnerships"
+        },
+        {
+          "url": "https://elmnt13.com/",
+          "title": "Elmnt13 - Marketing | Management"
+        },
+        {
+          "url": "https://www.copy.ai/",
+          "title": "Future proof your business with GTM AI"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "cs-education",
       "bookmarks": [
         {
@@ -197,54 +223,6 @@
       "count": 5
     },
     {
-      "name": "tools-marketing-ai",
-      "bookmarks": [
-        {
-          "url": "https://www.closerscopy.com/",
-          "title": "AI Copywriting Robot - ClosersCopy"
-        },
-        {
-          "url": "https://marketingkit.withgoogle.com/",
-          "title": "Before you continue"
-        },
-        {
-          "url": "https://partnerships.nature.com/product/digital-advertising/",
-          "title": "Digital Advertising | Engage with Scientists | Nature Partnerships"
-        },
-        {
-          "url": "https://elmnt13.com/",
-          "title": "Elmnt13 - Marketing | Management"
-        },
-        {
-          "url": "https://www.copy.ai/",
-          "title": "Future proof your business with GTM AI"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://olive-cole.tumblr.com/",
-          "title": "."
-        },
-        {
-          "url": "https://stockholmskallan.stockholm.se/post/30871",
-          "title": "Klemmings omdöme om Strindberg - Stockholmskällan"
-        },
-        {
-          "url": "https://whomstplantdaddy.tumblr.com/",
-          "title": "Oh hai :3"
-        },
-        {
-          "url": "https://rimzy.net/category/autonomy/",
-          "title": "Personal blog of Yzmir Ramirez » Autonomy"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "education-university",
       "bookmarks": [
         {
@@ -252,7 +230,7 @@
           "title": "Coursera Partnerships | Coursera"
         },
         {
-          "url": "http://www.engr.psu.edu/",
+          "url": "http://www.engr.psu.edu",
           "title": "Inspiring Change. Impacting Tomorrow | Penn State Engineering"
         },
         {
@@ -278,12 +256,12 @@
           "title": "How to Play | British Go Association"
         },
         {
-          "url": "https://chasha.su/grafik-zarybleniya-nashego-vodoyoma/news_post/zapusk-karpa-naveska-1-0-1-7-kg-600-kg",
-          "title": "Запуск карпа. Навеска 1,0-1,7 кг 600 кг"
-        },
-        {
           "url": "https://kendamabulgaria.bg/en/shop/ezoterika/page/6/?orderby=price",
           "title": "Езотерика и гадателски карти"
+        },
+        {
+          "url": "https://chasha.su/grafik-zarybleniya-nashego-vodoyoma/news_post/zapusk-karpa-naveska-1-0-1-7-kg-600-kg",
+          "title": "Запуск карпа. Навеска 1,0-1,7 кг 600 кг"
         }
       ],
       "count": 4
@@ -311,7 +289,7 @@
       "count": 4
     },
     {
-      "name": "misc-logins-errors",
+      "name": "misc-login-error",
       "bookmarks": [
         {
           "url": "https://sliderulemuseum.com/SR_Course.htm",
@@ -328,6 +306,28 @@
         {
           "url": "https://wiki.muc.ccc.de/start?image=public_pics%3Aherz.jpg&tab_details=view&do=media&tab_files=files&ns=reprap%3Aprints",
           "title": "Making sure you're not a bot!"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://olive-cole.tumblr.com/",
+          "title": "."
+        },
+        {
+          "url": "https://stockholmskallan.stockholm.se/post/30871",
+          "title": "Klemmings omdöme om Strindberg - Stockholmskällan"
+        },
+        {
+          "url": "https://whomstplantdaddy.tumblr.com/",
+          "title": "Oh hai :3"
+        },
+        {
+          "url": "https://rimzy.net/category/autonomy/",
+          "title": "Personal blog of Yzmir Ramirez » Autonomy"
         }
       ],
       "count": 4

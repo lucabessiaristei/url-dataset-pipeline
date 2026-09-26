@@ -8,6 +8,10 @@
           "title": "20 Necessary IT Certifications + Salaries I Skillsoft"
         },
         {
+          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
+          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
+        },
+        {
           "url": "https://training.apple.com/us/en/appdeveloper",
           "title": "App Developer Training"
         },
@@ -22,10 +26,6 @@
         {
           "url": "https://hydrogen.shopify.dev",
           "title": "Hydrogen: Shopify's headless commerce framework"
-        },
-        {
-          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
-          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
         },
         {
           "url": "https://learntocodewithme.tumblr.com/",
@@ -127,7 +127,7 @@
       "count": 8
     },
     {
-      "name": "business-finance-e-commerce",
+      "name": "business-finance-ecommerce",
       "bookmarks": [
         {
           "url": "https://sell.amazon.com/programs/black-business-accelerator",
@@ -187,24 +187,6 @@
       "count": 5
     },
     {
-      "name": "technology-products-support",
-      "bookmarks": [
-        {
-          "url": "https://getsupport.apple.com/?caller=psp",
-          "title": "void"
-        },
-        {
-          "url": "https://www.mozilla.com/firefox/",
-          "title": "Get Firefox for desktop and mobile - Firefox.com Global"
-        },
-        {
-          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
-          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "academic-health-research",
       "bookmarks": [
         {
@@ -218,6 +200,24 @@
         {
           "url": "https://www.stanfordchildrens.org/en/topic/default?id=separation-anxiety-90-P02283",
           "title": "Separation Anxiety - Stanford Medicine Children's Health"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "technology-products-support",
+      "bookmarks": [
+        {
+          "url": "https://www.mozilla.com/firefox/",
+          "title": "Get Firefox for desktop and mobile - Firefox.com Global"
+        },
+        {
+          "url": "https://blockchair.com/it/litecoin/address/LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr",
+          "title": "Litecoin indirizzo LU4hLcRWYysyXTTkdLig98FqgnfYfL8ycr"
+        },
+        {
+          "url": "https://getsupport.apple.com/?caller=psp",
+          "title": "void"
         }
       ],
       "count": 3

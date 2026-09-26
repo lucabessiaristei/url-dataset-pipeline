@@ -1,15 +1,19 @@
 {
   "folders": [
     {
-      "name": "news-and-media",
+      "name": "news-media",
       "bookmarks": [
         {
-          "url": "http://www.leccopolis.it/acque-contaminate-divieto-di-balneazione-a-malpensata-8208.html",
-          "title": "Acque contaminate, divieto di balneazione a Malpensata | Leccopolis"
+          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
+          "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
         },
         {
           "url": "https://www.ocala.com/story/news/local/2013/07/18/a-silver-springs-story-ricou-browning-was-the-creature/31923591007/",
           "title": "A Silver Springs story: Ricou Browning was the Creature"
+        },
+        {
+          "url": "http://www.leccopolis.it/acque-contaminate-divieto-di-balneazione-a-malpensata-8208.html",
+          "title": "Acque contaminate, divieto di balneazione a Malpensata | Leccopolis"
         },
         {
           "url": "https://www.amc.com",
@@ -26,10 +30,6 @@
         {
           "url": "https://foxsanantonio.com/newsletter-daily/dog-owner-of-deadly-attack-speaks-out",
           "title": "COMPLETE INTERVIEW with owner of pit bulls that killed 81-year-old man"
-        },
-        {
-          "url": "https://www.kut.org/life-arts/2021-05-24/history-with-the-bark-off-lbj-presidential-library-celebrates-50-years",
-          "title": "'History With The Bark Off': LBJ Presidential Library Celebrates 50 Years | KUT Radio, Austin's NPR Station"
         },
         {
           "url": "https://www.dr.dk/nyheder/indland",
@@ -75,7 +75,7 @@
       "count": 17
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "http://www.aclusc.org/",
@@ -90,10 +90,6 @@
           "title": "Apparel Impact Institute | Home"
         },
         {
-          "url": "https://charleshaydenfoundation.org/",
-          "title": "Home - The Charles Hayden Foundation"
-        },
-        {
           "url": "https://www.climatetrace.org/",
           "title": "Climate TRACE"
         },
@@ -106,6 +102,18 @@
           "title": "Fondazione Giangiacomo Feltrinelli"
         },
         {
+          "url": "https://charleshaydenfoundation.org/",
+          "title": "Home - The Charles Hayden Foundation"
+        },
+        {
+          "url": "https://www.lisc.org/",
+          "title": "Home | Local Initiatives Support Corporation"
+        },
+        {
+          "url": "https://www.packard.org",
+          "title": "Homepage • The David and Lucile Packard Foundation"
+        },
+        {
           "url": "http://horizonschildren.org/",
           "title": "Horizons For Homeless Children | Volunteer Opportunities Boston"
         },
@@ -116,14 +124,6 @@
         {
           "url": "https://www.kiva.org/",
           "title": "Make a loan, change a life | Kiva"
-        },
-        {
-          "url": "https://www.lisc.org/",
-          "title": "Home | Local Initiatives Support Corporation"
-        },
-        {
-          "url": "https://www.packard.org",
-          "title": "Homepage • The David and Lucile Packard Foundation"
         },
         {
           "url": "https://airbel.rescue.org/",
@@ -141,8 +141,12 @@
       "count": 15
     },
     {
-      "name": "dev-tools-and-docs",
+      "name": "dev-tools-docs",
       "bookmarks": [
+        {
+          "url": "https://utilso.com/base64-encoding-of/aymara%27s/",
+          "title": "Base64 Encoding - Base64 Encode and Decode - All-in-one tools for developers"
+        },
         {
           "url": "https://catboost.ai/en/docs/concepts/python-reference_catboostregressor",
           "title": "CatBoostRegressor | CatBoost"
@@ -158,10 +162,6 @@
         {
           "url": "https://www.devops-research.com/research.html#reports",
           "title": "DORA | Get Better at Getting Better"
-        },
-        {
-          "url": "http://ttool.de/anleitungen/ccee.htm",
-          "title": "Untitled Document"
         },
         {
           "url": "https://docs.docker.com/get-started/",
@@ -188,8 +188,8 @@
           "title": "Typedream: AI Website Builder"
         },
         {
-          "url": "https://utilso.com/base64-encoding-of/aymara%27s/",
-          "title": "Base64 Encoding - Base64 Encode and Decode - All-in-one tools for developers"
+          "url": "http://ttool.de/anleitungen/ccee.htm",
+          "title": "Untitled Document"
         },
         {
           "url": "https://resources.github.com/devops/",
@@ -199,7 +199,7 @@
       "count": 13
     },
     {
-      "name": "blogs-and-personal-sites",
+      "name": "blogs-personal-sites",
       "bookmarks": [
         {
           "url": "https://keithdiaries.wordpress.com/2017/12/15/1203/1869-03-05/",
@@ -212,6 +212,10 @@
         {
           "url": "https://alex-warner.com/",
           "title": "Alex Warner"
+        },
+        {
+          "url": "http://www.diegeilehydra.at/category/allgemein/page/2/",
+          "title": "Allgemein - Seite 2 - Hydra"
         },
         {
           "url": "https://annieburdickfreelance.com/",
@@ -234,10 +238,6 @@
           "title": "puts post"
         },
         {
-          "url": "http://www.diegeilehydra.at/category/allgemein/page/2/",
-          "title": "Allgemein - Seite 2 - Hydra"
-        },
-        {
           "url": "https://www.lliurex.es/category/sobre-la-cultura/",
           "title": "Sobre la Cultura - Lliurex"
         },
@@ -253,7 +253,7 @@
       "count": 12
     },
     {
-      "name": "companies-and-services",
+      "name": "companies-services",
       "bookmarks": [
         {
           "url": "https://atoz.amazon.work/help",
@@ -268,10 +268,6 @@
           "title": "Home | Goldman Sachs"
         },
         {
-          "url": "http://www.imbdc.com/",
-          "title": "Thanks for visiting! | imbdc 2020 site"
-        },
-        {
           "url": "https://investors.alkami.com/",
           "title": "Investor Relations | Alkami Technology, Inc. - Investor Relations"
         },
@@ -284,12 +280,16 @@
           "title": "RCS MediaGroup"
         },
         {
+          "url": "http://survey.walmart.com/",
+          "title": "Survey"
+        },
+        {
           "url": "https://sustainability.google",
           "title": "Sustainable Innovation & Technology - Google Sustainability"
         },
         {
-          "url": "http://survey.walmart.com/",
-          "title": "Survey"
+          "url": "http://www.imbdc.com/",
+          "title": "Thanks for visiting! | imbdc 2020 site"
         },
         {
           "url": "https://www.truist.com/",
@@ -299,91 +299,7 @@
       "count": 10
     },
     {
-      "name": "government-and-agencies",
-      "bookmarks": [
-        {
-          "url": "http://opendata.ayto-caceres.es/",
-          "title": "Inicio - OpenData Cáceres"
-        },
-        {
-          "url": "https://www.bjs.gov",
-          "title": "Home | Bureau of Justice Statistics"
-        },
-        {
-          "url": "http://research.mines.edu",
-          "title": "Home - Research and Technology Transfer"
-        },
-        {
-          "url": "https://www.iccat.int/en/",
-          "title": "ICCAT·CICTA·CICAA"
-        },
-        {
-          "url": "https://www.noaa.gov/",
-          "title": "National Oceanic and Atmospheric Administration"
-        },
-        {
-          "url": "https://www.service-public.fr/particuliers/vosdroits/F878",
-          "title": "Comment un salarié à temps plein peut-il passer à temps partiel ? | Service Public"
-        },
-        {
-          "url": "https://fish-commercial-names.ec.europa.eu/fish-names/species_es?sn=35114",
-          "title": "Synalpheus heroni"
-        },
-        {
-          "url": "https://data.apps.fao.org/",
-          "title": "void"
-        },
-        {
-          "url": "https://earth.esa.int/eogateway/missions/Spire",
-          "title": "undefined - Earth Online"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "reference-and-hobbies",
-      "bookmarks": [
-        {
-          "url": "https://harmonet.hu/ezoteria/73735-a-tarot-minden-lapjanak-jelentese-egyszeruen-nagy-arkanum-kartyai.html",
-          "title": "A tarot minden lapjának jelentése egyszerűen Nagy arkánum..."
-        },
-        {
-          "url": "http://www.boardgamegeek.com/game/5120",
-          "title": "Doubles Wild | Board Game | BoardGameGeek"
-        },
-        {
-          "url": "https://www.yinovacenter.com/faq/",
-          "title": "Frequently Asked Questions | The Yinova Center"
-        },
-        {
-          "url": "https://thequeenssix.co.uk/",
-          "title": "Home - The Queen's Six"
-        },
-        {
-          "url": "http://www.laparola.net/ricerca.php?frase=Politica+sulla+privacy&versione=C.E.I.",
-          "title": "La Sacra Bibbia"
-        },
-        {
-          "url": "http://www.buoneforchette.com/",
-          "title": "Ricette di cucina - Le ricette di Buoneforchette.com"
-        },
-        {
-          "url": "https://awionline.org/content/refinement-database?f%5B0%5D=animal_type%3A323&f%5B1%5D=animal_type%3A346&f%5B2%5D=animal_type%3A359&f%5B3%5D=animal_type%3A391&f%5B4%5D=animal_type%3A394&f%5B5%5D=animal_type%3A403&f%5B6%5D=animal_type%3A420&f%5B7%5D=topic%3A352&f%5B8%5D=topic%3A357",
-          "title": "Search publications on improving welfare for animals in research - Refinement Database"
-        },
-        {
-          "url": "http://www.booklists.yalsa.net/directory/results?author=1692",
-          "title": "Search results - YALSA Book Finder"
-        },
-        {
-          "url": "https://thenauticalalmanac.com/",
-          "title": "The Nautical Almanac"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "shopping-and-ecommerce",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://ibbedesign.com/en/products/childrens-house-bed-tery-with-siderail-90x200-cm",
@@ -429,7 +345,91 @@
       "count": 10
     },
     {
-      "name": "design-and-media-assets",
+      "name": "government-agencies",
+      "bookmarks": [
+        {
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F878",
+          "title": "Comment un salarié à temps plein peut-il passer à temps partiel ? | Service Public"
+        },
+        {
+          "url": "http://research.mines.edu",
+          "title": "Home - Research and Technology Transfer"
+        },
+        {
+          "url": "https://www.bjs.gov",
+          "title": "Home | Bureau of Justice Statistics"
+        },
+        {
+          "url": "https://www.iccat.int/en/",
+          "title": "ICCAT·CICTA·CICAA"
+        },
+        {
+          "url": "http://opendata.ayto-caceres.es/",
+          "title": "Inicio - OpenData Cáceres"
+        },
+        {
+          "url": "https://www.noaa.gov/",
+          "title": "National Oceanic and Atmospheric Administration"
+        },
+        {
+          "url": "https://fish-commercial-names.ec.europa.eu/fish-names/species_es?sn=35114",
+          "title": "Synalpheus heroni"
+        },
+        {
+          "url": "https://earth.esa.int/eogateway/missions/Spire",
+          "title": "undefined - Earth Online"
+        },
+        {
+          "url": "https://data.apps.fao.org/",
+          "title": "void"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "hobbies-reference",
+      "bookmarks": [
+        {
+          "url": "https://harmonet.hu/ezoteria/73735-a-tarot-minden-lapjanak-jelentese-egyszeruen-nagy-arkanum-kartyai.html",
+          "title": "A tarot minden lapjának jelentése egyszerűen Nagy arkánum..."
+        },
+        {
+          "url": "http://www.boardgamegeek.com/game/5120",
+          "title": "Doubles Wild | Board Game | BoardGameGeek"
+        },
+        {
+          "url": "https://www.yinovacenter.com/faq/",
+          "title": "Frequently Asked Questions | The Yinova Center"
+        },
+        {
+          "url": "https://thequeenssix.co.uk/",
+          "title": "Home - The Queen's Six"
+        },
+        {
+          "url": "http://www.laparola.net/ricerca.php?frase=Politica+sulla+privacy&versione=C.E.I.",
+          "title": "La Sacra Bibbia"
+        },
+        {
+          "url": "http://www.buoneforchette.com/",
+          "title": "Ricette di cucina - Le ricette di Buoneforchette.com"
+        },
+        {
+          "url": "https://awionline.org/content/refinement-database?f%5B0%5D=animal_type%3A323&f%5B1%5D=animal_type%3A346&f%5B2%5D=animal_type%3A359&f%5B3%5D=animal_type%3A391&f%5B4%5D=animal_type%3A394&f%5B5%5D=animal_type%3A403&f%5B6%5D=animal_type%3A420&f%5B7%5D=topic%3A352&f%5B8%5D=topic%3A357",
+          "title": "Search publications on improving welfare for animals in research - Refinement Database"
+        },
+        {
+          "url": "http://www.booklists.yalsa.net/directory/results?author=1692",
+          "title": "Search results - YALSA Book Finder"
+        },
+        {
+          "url": "https://thenauticalalmanac.com/",
+          "title": "The Nautical Almanac"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "design-media-assets",
       "bookmarks": [
         {
           "url": "http://www.clubvosgienphalsbourglutzelbourg.com/album-photos/photos-annee-2020/assemblee-generale/20200221-191139-1.html",
@@ -467,7 +467,7 @@
       "count": 8
     },
     {
-      "name": "social-and-community",
+      "name": "social-community",
       "bookmarks": [
         {
           "url": "https://www.voteannapaulina.com/platform",
@@ -505,7 +505,7 @@
       "count": 8
     },
     {
-      "name": "education-and-learning",
+      "name": "education-learning",
       "bookmarks": [
         {
           "url": "https://www.idealist.org/en/days/to-my-old-racist-earth-join-a-socially-distanced-protest-for-july-4th",
@@ -531,7 +531,7 @@
       "count": 5
     },
     {
-      "name": "legal-and-policy",
+      "name": "legal-policy",
       "bookmarks": [
         {
           "url": "https://business.safety.google/processorterms",
@@ -557,7 +557,7 @@
       "count": 5
     },
     {
-      "name": "travel-and-hospitality",
+      "name": "travel-hospitality",
       "bookmarks": [
         {
           "url": "https://xplorela.com/2012/07/20/the-los-angeles-arboretum-botanical-garden/",
@@ -583,25 +583,7 @@
       "count": 5
     },
     {
-      "name": "health-and-wellness",
-      "bookmarks": [
-        {
-          "url": "https://www.aa.org/",
-          "title": "Have a problem with alcohol? There is a solution. | Alcoholics Anonymous"
-        },
-        {
-          "url": "https://www.medanta.org/",
-          "title": "Super Speciality Hospital | Best Healthcare Hospital in India"
-        },
-        {
-          "url": "https://www.mojezdravi.cz/novinky/strie-trapi-hlavne-zeny-ale-i-sportovce-jak-s-nimi-zatocit-5385.html",
-          "title": "Strie trápí hlavně ženy, ale i sportovce. Jak s nimi zatočit? | Moje zdraví"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "marketing-and-tools",
+      "name": "marketing-tools",
       "bookmarks": [
         {
           "url": "https://apple.co/NewsPlusOffer",
@@ -623,7 +605,7 @@
       "count": 4
     },
     {
-      "name": "automotive-and-industrial",
+      "name": "automotive-industrial",
       "bookmarks": [
         {
           "url": "https://maserati.oemdtc.com",
@@ -636,6 +618,24 @@
         {
           "url": "https://suzuki.oemdtc.com",
           "title": "Suzuki - OEMDTC"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "https://www.aa.org/",
+          "title": "Have a problem with alcohol? There is a solution. | Alcoholics Anonymous"
+        },
+        {
+          "url": "https://www.mojezdravi.cz/novinky/strie-trapi-hlavne-zeny-ale-i-sportovce-jak-s-nimi-zatocit-5385.html",
+          "title": "Strie trápí hlavně ženy, ale i sportovce. Jak s nimi zatočit? | Moje zdraví"
+        },
+        {
+          "url": "https://www.medanta.org/",
+          "title": "Super Speciality Hospital | Best Healthcare Hospital in India"
         }
       ],
       "count": 3

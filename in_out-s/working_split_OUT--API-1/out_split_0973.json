@@ -8,34 +8,34 @@
           "title": "AI Copywriting Robot - ClosersCopy"
         },
         {
-          "url": "https://designs.ai/logomaker/start",
-          "title": "Create unique logo easily with Logomaker from Designs.ai"
-        },
-        {
           "url": "https://learn.microsoft.com/en-us/azure/ai-services/",
           "title": "Azure AI Foundry documentation | Microsoft Learn"
         },
         {
-          "url": "https://www.splunk.com/",
-          "title": "Splunk | The Key to Enterprise Resilience"
+          "url": "https://designs.ai/logomaker/start",
+          "title": "Create unique logo easily with Logomaker from Designs.ai"
         },
         {
           "url": "https://googlecloudplatform.github.io/region-picker/",
           "title": "Google Cloud region picker"
         },
         {
-          "url": "https://pytorch.org/docs/stable/data.html",
-          "title": "torch.utils.data - PyTorch 2.8 documentation"
+          "url": "https://www.splunk.com/",
+          "title": "Splunk | The Key to Enterprise Resilience"
         },
         {
           "url": "https://pytorch.org/docs/stable/nn.html",
           "title": "torch.nn - PyTorch 2.8 documentation"
+        },
+        {
+          "url": "https://pytorch.org/docs/stable/data.html",
+          "title": "torch.utils.data - PyTorch 2.8 documentation"
         }
       ],
       "count": 7
     },
     {
-      "name": "digital-media-content",
+      "name": "digital-content-media",
       "bookmarks": [
         {
           "url": "https://www.bet.com/",
@@ -46,8 +46,8 @@
           "title": "Interview with William Daniels and Bonnie Bartlett - Solzy at the Movies"
         },
         {
-          "url": "https://www.soundclick.com",
-          "title": "Stream Music Free & Download MP3, Buy & Sell Beats | SoundClick"
+          "url": "https://www.pixtury.com/en/photos/piancapaolo/33937",
+          "title": "Modern print on canvas, poster and wall art of Naples"
         },
         {
           "url": "https://www.nbc.com/apps",
@@ -58,8 +58,8 @@
           "title": "PetaPixel | Photography and Camera News, Reviews, and Inspiration"
         },
         {
-          "url": "https://www.pixtury.com/en/photos/piancapaolo/33937",
-          "title": "Modern print on canvas, poster and wall art of Naples"
+          "url": "https://www.soundclick.com",
+          "title": "Stream Music Free & Download MP3, Buy & Sell Beats | SoundClick"
         }
       ],
       "count": 6
@@ -67,10 +67,6 @@
     {
       "name": "education-learning-resources",
       "bookmarks": [
-        {
-          "url": "https://www.extension.purdue.edu/extmedia/ct/ct-1.html",
-          "title": "CT-1"
-        },
         {
           "url": "https://www.infantilandia.es/albumes-ilustrados-infantiles/1072-chocolate-infinito-un-cuento-sobre-la-adopcion.html",
           "title": "CHOCOLATE INFINITO. Libro de la Editorial SM (9788467577624)"
@@ -80,16 +76,20 @@
           "title": "Common Sense Education"
         },
         {
-          "url": "http://www.uniurb.it/",
-          "title": "Università degli Studi di Urbino Carlo Bo"
+          "url": "https://www.extension.purdue.edu/extmedia/ct/ct-1.html",
+          "title": "CT-1"
+        },
+        {
+          "url": "https://www.fi.edu/",
+          "title": "Home | The Franklin Institute"
         },
         {
           "url": "https://www.metmuseum.org/toah/hd/pape/hd_pape.htm",
           "title": "The Papacy during the Renaissance - The Metropolitan Museum of Art"
         },
         {
-          "url": "https://www.fi.edu/",
-          "title": "Home | The Franklin Institute"
+          "url": "http://www.uniurb.it/",
+          "title": "Università degli Studi di Urbino Carlo Bo"
         }
       ],
       "count": 6
@@ -102,16 +102,16 @@
           "title": "Computer science: the impact of K-12 on university enrollment - @mahxipad on Tumblr"
         },
         {
-          "url": "https://pub.dev/packages?q=url_launcher",
-          "title": "Search results for url_launcher"
-        },
-        {
           "url": "https://education.github.com/",
           "title": "GitHub Education · GitHub"
         },
         {
           "url": "https://docs.npmjs.com/",
           "title": "npm Docs"
+        },
+        {
+          "url": "https://pub.dev/packages?q=url_launcher",
+          "title": "Search results for url_launcher"
         },
         {
           "url": "https://openaccess.inaf.it/browse?type=author&sort_by=1&order=ASC&rpp=20&etal=10&value=Zepeda%2C+A.&starts_with=K",
@@ -124,20 +124,20 @@
       "name": "sports-gaming-leisure",
       "bookmarks": [
         {
-          "url": "http://www.games-db.com/Arcade/",
-          "title": "Browse in Arcade < Games-db.com: computer games, video games, arcade, pinball, handheld, traditional >"
-        },
-        {
           "url": "https://www.phuketgolfcourse.com/blue-canyon-country-club.htm",
           "title": "Blue Canyon Country Club Phuket | Green Fees & Golf Packages 2025"
         },
         {
-          "url": "https://www.sportelo.com.ng/",
-          "title": "Sportelo - Sports And Much More...."
+          "url": "http://www.games-db.com/Arcade/",
+          "title": "Browse in Arcade < Games-db.com: computer games, video games, arcade, pinball, handheld, traditional >"
         },
         {
           "url": "https://howlongtobeat.com/game?id=46186&s=backlogs",
           "title": "Friday the 13th: The Game - Lists | HowLongToBeat"
+        },
+        {
+          "url": "https://www.sportelo.com.ng/",
+          "title": "Sportelo - Sports And Much More...."
         },
         {
           "url": "http://runjumpthrow.usatf.org/",
@@ -147,11 +147,37 @@
       "count": 5
     },
     {
+      "name": "community-social-justice",
+      "bookmarks": [
+        {
+          "url": "https://www.bwwa-us.com/",
+          "title": "Black Women's Wealth Alliance"
+        },
+        {
+          "url": "https://hispanicfamilycenter.com/",
+          "title": "Healthy Families & Communities - Serving South Jersey since 1976"
+        },
+        {
+          "url": "https://interfaithworks-bloom.kindful.com",
+          "title": "Interfaith Works, Inc. | Kindful"
+        },
+        {
+          "url": "https://www.lisc.org/twin-cities/",
+          "title": "Twin Cities | LISC Twin Cities"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "ecommerce-payments",
       "bookmarks": [
         {
           "url": "https://developer.bestbuy.com/",
           "title": "Best Buy Developer Portal"
+        },
+        {
+          "url": "https://integrate.clover.com",
+          "title": "Integrated Payment Solutions for Software Vendors | Fiserv"
         },
         {
           "url": "https://help.samsclub.com/app/answers/detail/a_id/354?xid=ftr:shipping-faqs",
@@ -160,10 +186,6 @@
         {
           "url": "https://www.stripe.com",
           "title": "Stripe | Infrastruttura finanziaria per aumentare i tuoi ricavi"
-        },
-        {
-          "url": "https://integrate.clover.com",
-          "title": "Integrated Payment Solutions for Software Vendors | Fiserv"
         }
       ],
       "count": 4
@@ -172,20 +194,20 @@
       "name": "food-recipes-restaurants",
       "bookmarks": [
         {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85919",
-          "title": "Searchable Recipe Database - Almond Macaroons with chocolate fillinf"
-        },
-        {
-          "url": "https://www.nelliessouthernkitchen.com/",
-          "title": "Nellie's Southern Kitchen"
-        },
-        {
           "url": "https://www.tacobell.co.in/",
           "title": "Home-TacoBell"
         },
         {
           "url": "https://www.loveandlemons.com/",
           "title": "Love and Lemons - Healthy, whole food, vegan and vegetarian recipes"
+        },
+        {
+          "url": "https://www.nelliessouthernkitchen.com/",
+          "title": "Nellie's Southern Kitchen"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85919",
+          "title": "Searchable Recipe Database - Almond Macaroons with chocolate fillinf"
         }
       ],
       "count": 4
@@ -194,20 +216,20 @@
       "name": "government-civics-policy",
       "bookmarks": [
         {
-          "url": "https://www.ada.gov/ada_voting/ada_voting_ta.htm",
-          "title": "Redirecting..."
-        },
-        {
-          "url": "https://aldopiombino.blogspot.com/2010/11/il-disegno-di-legge-3687-sulla-riforma.html",
-          "title": "scienzeedintorni: Il disegno di legge 3687 sulla riforma dei dipartimenti: un provvedimento centrato sulle grandi facoltà e non sulle piccole (specialmente scientifiche)"
-        },
-        {
           "url": "https://altopascio.info/2017/05/30/grosseto-cimitero-di-istia-conclusi-i-lavori/",
           "title": "[ GROSSETO ] - Cimitero di Istia, conclusi i lavori - Altopascio.info"
         },
         {
           "url": "https://www.justice.gov",
           "title": "Department of Justice | Homepage | United States Department of Justice"
+        },
+        {
+          "url": "https://www.ada.gov/ada_voting/ada_voting_ta.htm",
+          "title": "Redirecting..."
+        },
+        {
+          "url": "https://aldopiombino.blogspot.com/2010/11/il-disegno-di-legge-3687-sulla-riforma.html",
+          "title": "scienzeedintorni: Il disegno di legge 3687 sulla riforma dei dipartimenti: un provvedimento centrato sulle grandi facoltà e non sulle piccole (specialmente scientifiche)"
         }
       ],
       "count": 4
@@ -216,12 +238,12 @@
       "name": "personal-health-lifestyle",
       "bookmarks": [
         {
-          "url": "https://memyselfandmycloset.blogspot.com/2013/05/see-stripes.html?showComment=1369647982665",
-          "title": "Me Myself and My Closet - Fashion Blogger: SEE STRIPES"
-        },
-        {
           "url": "http://brokenjawtips.com/",
           "title": "Ellen's Broken Jaw Tips"
+        },
+        {
+          "url": "https://memyselfandmycloset.blogspot.com/2013/05/see-stripes.html?showComment=1369647982665",
+          "title": "Me Myself and My Closet - Fashion Blogger: SEE STRIPES"
         },
         {
           "url": "https://www.dermstore.com/sunday-riley-c.e.o.-glow-vitamin-c-turmeric-face-oil-35ml/12053028.html",
@@ -230,28 +252,6 @@
         {
           "url": "https://chocolateauthoress.tumblr.com/",
           "title": "To the stars who listen"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "social-justice-community",
-      "bookmarks": [
-        {
-          "url": "https://www.bwwa-us.com/",
-          "title": "Black Women's Wealth Alliance"
-        },
-        {
-          "url": "https://www.lisc.org/twin-cities/",
-          "title": "Twin Cities | LISC Twin Cities"
-        },
-        {
-          "url": "https://interfaithworks-bloom.kindful.com",
-          "title": "Interfaith Works, Inc. | Kindful"
-        },
-        {
-          "url": "https://hispanicfamilycenter.com/",
-          "title": "Healthy Families & Communities - Serving South Jersey since 1976"
         }
       ],
       "count": 4
@@ -278,16 +278,16 @@
       "name": "environmental-advocacy-conservation",
       "bookmarks": [
         {
-          "url": "https://biodiversitya-z.org/content/specially-protected-areas-of-mediterranean-importance-spami#:~:text=Description.%20The%20Specially%20Protected%20Areas%20of%20Mediterranean%20Importance,the%20components%20of%20biological%20diversity%20in%20the%20Mediterranean%2C",
-          "title": "Specially Protected Areas of Mediterranean Importance (SPAMI) definition | Biodiversity A-Z"
-        },
-        {
           "url": "https://citizensclimatelobby.org/",
           "title": "Citizens' Climate Lobby | A Climate Change Organization"
         },
         {
           "url": "http://time.com/4463943/japan-china-fishing-marine-iuu-environment-google-skytruth/",
           "title": "Saving the Seas From China's Bloated Fishing Industry | TIME"
+        },
+        {
+          "url": "https://biodiversitya-z.org/content/specially-protected-areas-of-mediterranean-importance-spami#:~:text=Description.%20The%20Specially%20Protected%20Areas%20of%20Mediterranean%20Importance,the%20components%20of%20biological%20diversity%20in%20the%20Mediterranean%2C",
+          "title": "Specially Protected Areas of Mediterranean Importance (SPAMI) definition | Biodiversity A-Z"
         }
       ],
       "count": 3
@@ -300,12 +300,12 @@
           "title": "Januar 2016 - imago lexis"
         },
         {
-          "url": "https://www.terrapinn.com/conference/aviation-festival/index.stm",
-          "title": "World Aviation Festival 2025 | Lisbon"
-        },
-        {
           "url": "https://www.satshow.com/",
           "title": "SATShow 2026 - SATShow Week"
+        },
+        {
+          "url": "https://www.terrapinn.com/conference/aviation-festival/index.stm",
+          "title": "World Aviation Festival 2025 | Lisbon"
         }
       ],
       "count": 3
@@ -314,16 +314,16 @@
       "name": "misc-directories-online-tools",
       "bookmarks": [
         {
-          "url": "https://canmuseum.com/Detail.aspx?CanID=76990",
-          "title": "MAROMARO-Mango drink-280mL-Japan-2012"
-        },
-        {
           "url": "https://www.justchat.co.uk/",
           "title": "Chat in the online chat rooms at Just Chat"
         },
         {
           "url": "https://www.logement-seniors.com/maisons-de-retraite-1-1/urt-64240/",
           "title": "EHPAD d'Urt (64240) | Logement-seniors.com"
+        },
+        {
+          "url": "https://canmuseum.com/Detail.aspx?CanID=76990",
+          "title": "MAROMARO-Mango drink-280mL-Japan-2012"
         }
       ],
       "count": 3
@@ -332,16 +332,16 @@
       "name": "product-customer-support",
       "bookmarks": [
         {
-          "url": "https://suzuki.oemdtc.com",
-          "title": "Suzuki - OEMDTC"
-        },
-        {
           "url": "https://hopsandcode.com",
           "title": "Contact Support"
         },
         {
           "url": "https://www.sony.com/electronics/support?cpint=spt-globalheader_supportsite",
           "title": "Support for Sony products | Sony USA"
+        },
+        {
+          "url": "https://suzuki.oemdtc.com",
+          "title": "Suzuki - OEMDTC"
         }
       ],
       "count": 3
@@ -350,12 +350,12 @@
       "name": "website-error-pages",
       "bookmarks": [
         {
-          "url": "https://www.caf.fr/allocataires/droits-et-prestations",
-          "title": "Radware Block Page"
-        },
-        {
           "url": "http://www.radio981.gr/blog/%CE%B4%CE%B9%CE%B1%CE%B2%CE%B1%CF%83%CF%84%CE%B5-34",
           "title": "Account Suspended"
+        },
+        {
+          "url": "https://www.caf.fr/allocataires/droits-et-prestations",
+          "title": "Radware Block Page"
         }
       ],
       "count": 2

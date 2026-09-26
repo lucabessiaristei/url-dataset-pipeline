@@ -1,15 +1,19 @@
 {
   "folders": [
     {
-      "name": "media-news-articles",
+      "name": "news-media-articles",
       "bookmarks": [
+        {
+          "url": "http://www.robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device/",
+          "title": "\"Bell aims to steal iPhone thunder with limitless data on rival device\""
+        },
         {
           "url": "https://abc13.com/amp/felicia-johnson-killed-remains-found-in-sam-houston-national-forest-bones-identified-as-missing-woman-chukwuebuka-nwobodo-charged/12889100/",
           "title": "Felicia Johnson murder: Remains found in Sam Houston National Forest identified as woman missing from Houston for 10 months | abc13.com"
         },
         {
-          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
-          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
+          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
+          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
         },
         {
           "url": "https://www.harpersbazaar.com/culture/features/a40771923/hailey-bieber-fashion-icon-interview/",
@@ -20,6 +24,14 @@
           "title": "How activists of color lose battles against Facebook's moderator army - Reveal"
         },
         {
+          "url": "https://sail-invia.com/ich-hasse-paypal/",
+          "title": "Ich hasse PayPal! Das Quasi-Monopol ermöglicht unerträgliche Arroganz"
+        },
+        {
+          "url": "https://finance.yahoo.com/video/many-workers-gateway-skills-just-161222977.html",
+          "title": "Many workers need 'gateway skills that just open up doors,' Goodwill CEO explains"
+        },
+        {
           "url": "https://www.ipbes.net/news/Media-Release-Global-Assessment",
           "title": "Media Release: Nature's Dangerous Decline 'Unprecedented'; Species Extinction Rates 'Accelerating' | IPBES secretariat"
         },
@@ -28,32 +40,20 @@
           "title": "Oklahoma family in shambles after fatal skydiving accident"
         },
         {
-          "url": "http://www.robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device/",
-          "title": "\"Bell aims to steal iPhone thunder with limitless data on rival device\""
-        },
-        {
-          "url": "https://sail-invia.com/ich-hasse-paypal/",
-          "title": "Ich hasse PayPal! Das Quasi-Monopol ermöglicht unerträgliche Arroganz"
-        },
-        {
           "url": "https://www.dailymail.co.uk/tvshowbiz/article-11257947/Sam-Claflin-CONFIRMS-relationship-Leonardo-DiCaprios-ex-Cassie-Amato.html",
           "title": "Sam Claflin CONFIRMS relationship with Leonardo DiCaprio's ex Cassie Amato | Daily Mail Online"
-        },
-        {
-          "url": "https://www.seforall.org/news/five-key-takeaways-from-tracking-sdg7-the-energy-progress-report-2020",
-          "title": "Five key takeaways from Tracking SDG7: The Energy Progress Report 2020 | Sustainable Energy for All"
         },
         {
           "url": "https://theblast.com/kate-hudson-daughter-birth-certificate-rani-rose/",
           "title": "void"
         },
         {
-          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
-          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
-        },
-        {
           "url": "https://www.newscientist.com/definition/quantum-entanglement/",
           "title": "What is quantum field theory? | New Scientist"
+        },
+        {
+          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
+          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
         }
       ],
       "count": 13
@@ -62,24 +62,36 @@
       "name": "tech-dev-resources",
       "bookmarks": [
         {
-          "url": "https://aitestkitchen.withgoogle.com/",
-          "title": "labs.google/fx"
-        },
-        {
           "url": "https://www.appypie.com/",
           "title": "Best AI No-Code Development Platform for Apps and Websites"
         },
         {
-          "url": "https://connect.mozilla.org/",
-          "title": "Home - Mozilla Connect"
+          "url": "https://docs.python.org/3/library/concurrent.futures.html",
+          "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
         },
         {
           "url": "http://www.ebookcompiler.com/",
           "title": "eBook Compiler Software: create your own eBooks"
         },
         {
+          "url": "https://www.mozilla.com/firefox/",
+          "title": "Get Firefox for desktop and mobile - Firefox.com Global"
+        },
+        {
           "url": "https://docs.github.com/en/copilot/overview-of-github-copilot",
           "title": "Get started with GitHub Copilot - GitHub Docs"
+        },
+        {
+          "url": "https://connect.mozilla.org/",
+          "title": "Home - Mozilla Connect"
+        },
+        {
+          "url": "https://publiccode.eu/",
+          "title": "https://publiccode.eu/en/"
+        },
+        {
+          "url": "https://aitestkitchen.withgoogle.com/",
+          "title": "labs.google/fx"
         },
         {
           "url": "http://trac.osgeo.org/geotiff/",
@@ -90,18 +102,6 @@
           "title": "Mapbox Docs"
         },
         {
-          "url": "https://www.mozilla.com/firefox/",
-          "title": "Get Firefox for desktop and mobile - Firefox.com Global"
-        },
-        {
-          "url": "https://publiccode.eu/",
-          "title": "https://publiccode.eu/en/"
-        },
-        {
-          "url": "https://docs.python.org/3/library/concurrent.futures.html",
-          "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
-        },
-        {
           "url": "https://www.tensorflow.org/",
           "title": "TensorFlow"
         }
@@ -109,27 +109,19 @@
       "count": 11
     },
     {
-      "name": "corporate-business",
+      "name": "business-corporate",
       "bookmarks": [
-        {
-          "url": "https://smb.apple.com/contactus",
-          "title": "Apple"
-        },
         {
           "url": "https://www.airnewzealand.co.nz/homepage",
           "title": "Air New Zealand - Book Flights & Earn Airpoints™"
         },
         {
-          "url": "https://cloudblogs.microsoft.com/",
-          "title": "The Microsoft Cloud Blog | Build the future of your business with AI"
+          "url": "https://smb.apple.com/contactus",
+          "title": "Apple"
         },
         {
           "url": "https://placeanad.chicagotribune.com/whos-who#nt=secondarynavbar",
           "title": "Chicago Tribune"
-        },
-        {
-          "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html",
-          "title": "U-2 Dragon Lady | Lockheed Martin"
         },
         {
           "url": "https://news.microsoft.com/",
@@ -150,6 +142,14 @@
         {
           "url": "https://spireairsafe.statuspage.io/",
           "title": "Spire Aviation Status"
+        },
+        {
+          "url": "https://cloudblogs.microsoft.com/",
+          "title": "The Microsoft Cloud Blog | Build the future of your business with AI"
+        },
+        {
+          "url": "https://www.lockheedmartin.com/en-us/products/u2-dragon-lady.html",
+          "title": "U-2 Dragon Lady | Lockheed Martin"
         }
       ],
       "count": 10
@@ -157,10 +157,6 @@
     {
       "name": "education-academia",
       "bookmarks": [
-        {
-          "url": "https://www.brcc.edu/",
-          "title": "Home - Blue Ridge Community College in Weyers Cave, Virginia"
-        },
         {
           "url": "https://calendar.mines.edu/",
           "title": "Colorado School of Mines: Calendar"
@@ -176,6 +172,10 @@
         {
           "url": "https://dspace.flinders.edu.au/xmlui/handle/2328/2960/search-filter?field=subject&filtertype_12=author&filter_relational_operator_7=equals&filter_relational_operator_6=equals&filtertype_10=subject&filter_relational_operator_9=equals&filtertype_11=author&filter_relational_operator_8=equals&filter_relational_operator_3=equals&filter_relational_operator_2=equals&filter_relational_operator_5=equals&filter_relational_operator_4=equals&filter_0=Immature+embryo&filter_2=Shavrukov%2C+Yuri&filter_relational_operator_1=equals&filter_1=Transformation+frequency&filter_relational_operator_0=equals&filter_4=Yang%2C+Nannan&filter_3=DNA%2Fgold+coating&filter_6=Triticum+aestivum&filter_5=Single+copy+events&filter_relational_operator_11=equals&filter_7=Iskakova%2C+Gulnur&filter_relational_operator_12=equals&filter_8=2018&filter_10=biolistic+transformation&filter_9=Eliby%2C+Serik&filter_11=Borisjuk%2C+Nikolai&filter_relational_operator_10=equals&filtertype_0=subject&filtertype_1=subject&filtertype_2=author&filtertype_3=subject&filtertype_4=author&filtertype_5=subject&filtertype_6=subject&filtertype_7=author&filtertype_8=dateIssued&filter_12=Mazonka%2C+Inna&filtertype_9=author&starts_with=s",
           "title": "Flinders Academic Commons"
+        },
+        {
+          "url": "https://www.brcc.edu/",
+          "title": "Home - Blue Ridge Community College in Weyers Cave, Virginia"
         },
         {
           "url": "https://www.mba.ac.uk/",
@@ -247,15 +247,11 @@
       "count": 10
     },
     {
-      "name": "non-profit-orgs",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://finhealthnetwork.org/",
           "title": "Financial Health Network"
-        },
-        {
-          "url": "https://flotillafoundation.org/",
-          "title": "The Flotilla Foundation"
         },
         {
           "url": "https://hispanicfamilycenter.com/",
@@ -286,53 +282,15 @@
           "title": "SkyTruth - If you can see it, you can change it"
         },
         {
+          "url": "https://flotillafoundation.org/",
+          "title": "The Flotilla Foundation"
+        },
+        {
           "url": "https://whynotyoufdn.org/",
           "title": "Why Not You Foundation"
         }
       ],
       "count": 10
-    },
-    {
-      "name": "shopping-e-commerce",
-      "bookmarks": [
-        {
-          "url": "https://www.ikea.com/gb/en/cat/lighting-18701/",
-          "title": "Baby Bathing, Baby Changing Units & Accessories - IKEA UK"
-        },
-        {
-          "url": "https://www.labelplanet.co.uk/waterproof-silver-labels/lp35-37sq-smp/",
-          "title": "Buy Product Code LP35/37SQ SMP from Labelplanet"
-        },
-        {
-          "url": "https://bydash.com/",
-          "title": "Dash"
-        },
-        {
-          "url": "https://www.empik.com/ebooki",
-          "title": "Ebooki - Sklep EMPIK.COM"
-        },
-        {
-          "url": "https://www.ica.se/handla/",
-          "title": "Handla mat online från din lokala ICA-butik"
-        },
-        {
-          "url": "http://pesteliv.com/category/704/cif.html",
-          "title": "PESTELIV.COM | CIF"
-        },
-        {
-          "url": "https://www.themenlohouse.com/club",
-          "title": "The Menlo Club | Personalized Styling For Men, Delivered to Your Door"
-        },
-        {
-          "url": "https://mercantile.wordpress.org/",
-          "title": "WordPress Swag Store - WordPress Swag Store"
-        },
-        {
-          "url": "https://xboxdesignlab.xbox.com",
-          "title": "Xbox Design Lab | Xbox"
-        }
-      ],
-      "count": 9
     },
     {
       "name": "resources-utility",
@@ -377,34 +335,46 @@
       "count": 9
     },
     {
-      "name": "forums-communities-blogs",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "http://www.aspes-navaho.homepage.t-online.de/phpBB/index.php?sid=6862558204e2a92a628e89b24e821510",
-          "title": "Aspes Forum • Foren-Übersicht"
+          "url": "https://www.ikea.com/gb/en/cat/lighting-18701/",
+          "title": "Baby Bathing, Baby Changing Units & Accessories - IKEA UK"
         },
         {
-          "url": "https://allfingersandthumbs.blogspot.com/2012/11/next-question.html?showComment=1353492161801",
-          "title": "Next question -"
+          "url": "https://www.labelplanet.co.uk/waterproof-silver-labels/lp35-37sq-smp/",
+          "title": "Buy Product Code LP35/37SQ SMP from Labelplanet"
         },
         {
-          "url": "https://studgin.tumblr.com/",
-          "title": "Untitled"
+          "url": "https://bydash.com/",
+          "title": "Dash"
         },
         {
-          "url": "https://darkhouroftokyo.tumblr.com/post/145706383388",
-          "title": "The class students like the most - @darkhouroftokyo on Tumblr"
+          "url": "https://www.empik.com/ebooki",
+          "title": "Ebooki - Sklep EMPIK.COM"
         },
         {
-          "url": "https://forums.empiresmod.com/index.php?threads/test-please-ignore.17006/",
-          "title": "test please ignore | Empires Mod"
+          "url": "https://www.ica.se/handla/",
+          "title": "Handla mat online från din lokala ICA-butik"
         },
         {
-          "url": "https://www.pickupforum.de/profile/153657-zilch/",
-          "title": "Zilch - Pickup Forum - The Pickup Artist Community"
+          "url": "http://pesteliv.com/category/704/cif.html",
+          "title": "PESTELIV.COM | CIF"
+        },
+        {
+          "url": "https://www.themenlohouse.com/club",
+          "title": "The Menlo Club | Personalized Styling For Men, Delivered to Your Door"
+        },
+        {
+          "url": "https://mercantile.wordpress.org/",
+          "title": "WordPress Swag Store - WordPress Swag Store"
+        },
+        {
+          "url": "https://xboxdesignlab.xbox.com",
+          "title": "Xbox Design Lab | Xbox"
         }
       ],
-      "count": 6
+      "count": 9
     },
     {
       "name": "arts-culture",
@@ -432,6 +402,36 @@
         {
           "url": "https://www.seattleaquarium.org/",
           "title": "Seattle Aquarium | Inspiring Conservation of our Marine Environment"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "community-blogs-forums",
+      "bookmarks": [
+        {
+          "url": "http://www.aspes-navaho.homepage.t-online.de/phpBB/index.php?sid=6862558204e2a92a628e89b24e821510",
+          "title": "Aspes Forum • Foren-Übersicht"
+        },
+        {
+          "url": "https://allfingersandthumbs.blogspot.com/2012/11/next-question.html?showComment=1353492161801",
+          "title": "Next question -"
+        },
+        {
+          "url": "https://forums.empiresmod.com/index.php?threads/test-please-ignore.17006/",
+          "title": "test please ignore | Empires Mod"
+        },
+        {
+          "url": "https://darkhouroftokyo.tumblr.com/post/145706383388",
+          "title": "The class students like the most - @darkhouroftokyo on Tumblr"
+        },
+        {
+          "url": "https://studgin.tumblr.com/",
+          "title": "Untitled"
+        },
+        {
+          "url": "https://www.pickupforum.de/profile/153657-zilch/",
+          "title": "Zilch - Pickup Forum - The Pickup Artist Community"
         }
       ],
       "count": 6
@@ -555,7 +555,7 @@
       "count": 4
     },
     {
-      "name": "hobby-crafts",
+      "name": "hobbies-crafts",
       "bookmarks": [
         {
           "url": "https://www.pbo.co.uk/seamanship/how-to-heave-to-72499",

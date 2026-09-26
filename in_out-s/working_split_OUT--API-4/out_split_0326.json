@@ -32,12 +32,12 @@
           "title": "Second anchovy season in Peru sees highest quota in history | News | ANDINA - Peru News Agency"
         },
         {
-          "url": "https://variety.com/2023/awards/news/will-smith-aafca-awards-acceptance-emancipation-1235540560/",
-          "title": "Will Smith Gives AAFCA Speech, First Awards Ceremony Since Oscars Slap"
-        },
-        {
           "url": "https://unhabitat.org/water-for-handwashing-in-slums-is-critical-to-prevent-covid-19-spreading",
           "title": "Water for handwashing in slums is critical to prevent COVID-19 spreading | UN-Habitat"
+        },
+        {
+          "url": "https://variety.com/2023/awards/news/will-smith-aafca-awards-acceptance-emancipation-1235540560/",
+          "title": "Will Smith Gives AAFCA Speech, First Awards Ceremony Since Oscars Slap"
         }
       ],
       "count": 9
@@ -92,12 +92,20 @@
           "title": "California Department of Corrections and Rehabilitation - CDCR"
         },
         {
+          "url": "https://www.vaccines.gov",
+          "title": "Find pharmacies near you"
+        },
+        {
+          "url": "https://www.fs.usda.gov",
+          "title": "Home | US Forest Service"
+        },
+        {
           "url": "http://www.dataprotection.ie",
           "title": "Homepage | Data Protection Commission"
         },
         {
-          "url": "https://fs.usda.gov",
-          "title": "Home | US Forest Service"
+          "url": "https://linkedin.com/company/imcsnet",
+          "title": "IMCS Network | LinkedIn"
         },
         {
           "url": "https://iotc.org/",
@@ -108,16 +116,8 @@
           "title": "Kjøretøy | Statens vegvesen"
         },
         {
-          "url": "https://linkedin.com/company/imcsnet",
-          "title": "IMCS Network | LinkedIn"
-        },
-        {
           "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
           "title": "UK climate maps and data - Met Office"
-        },
-        {
-          "url": "https://www.vaccines.gov",
-          "title": "Find pharmacies near you"
         },
         {
           "url": "https://www.nyc.gov/site/dhs/index.page",
@@ -138,6 +138,10 @@
           "title": "Booked Up AC"
         },
         {
+          "url": "https://shop.ordnancesurvey.co.uk/maps/paper-maps/?amp%3Bmap_series=Ireland+Adventurer&cat%5B%5D=138&cat%5B%5D=25&cat%5B%5D=37&_bc_fsnf=1&format=2+x+Folded+colour+sheets+inserted+into+plastic+wallet&publisher=Isle+of+Man+Survey",
+          "title": "Buy OS paper maps for walking, hiking, cycling and more"
+        },
+        {
           "url": "https://www.daiberls-campingshop.de/kederoese-universal-halterung-2er-set.html",
           "title": "Camping-Zubehör: 200 m² großer Shop - JOHANN DAIBERL"
         },
@@ -152,10 +156,6 @@
         {
           "url": "http://rainbowmetals.com/",
           "title": "High Quality Custom Belt Buckles & Plaques | Rainbow Metals"
-        },
-        {
-          "url": "shop.ordnancesurvey.co.uk/maps/paper-maps/?amp%3Bmap_series=Ireland+Adventurer&cat%5B%5D=138&cat%5B%5D=25&cat%5B%5D=37&_bc_fsnf=1&format=2+x+Folded+colour+sheets+inserted+into+plastic+wallet&publisher=Isle+of+Man+Survey",
-          "title": "Buy OS paper maps for walking, hiking, cycling and more"
         },
         {
           "url": "https://weeklyad.target.com/",
@@ -184,6 +184,10 @@
           "title": "Justine Evirs | Protecting Courage Podcast"
         },
         {
+          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
+          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
+        },
+        {
           "url": "http://www.book.hipopotamstudio.pl/?p=2497",
           "title": "Książki z naszej półki » Cyrk"
         },
@@ -198,21 +202,13 @@
         {
           "url": "https://readordiebyemilyt.tumblr.com/",
           "title": "Read or Die: Book Reviews by Emily"
-        },
-        {
-          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
-          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
         }
       ],
       "count": 8
     },
     {
-      "name": "nonprofit-orgs",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://www.aclu-ky.org",
-          "title": "Home - ACLU Kentucky"
-        },
         {
           "url": "https://commonbond.org/",
           "title": "CommonBond: Affordable Housing Nonprofit Organization MN WI IA & SD"
@@ -230,6 +226,10 @@
           "title": "Healthy Babies Bright Futures"
         },
         {
+          "url": "https://www.aclu-ky.org",
+          "title": "Home - ACLU Kentucky"
+        },
+        {
           "url": "https://www.moore.org/",
           "title": "Home - Gordon and Betty Moore Foundation"
         },
@@ -245,7 +245,7 @@
       "count": 8
     },
     {
-      "name": "tech-business-services",
+      "name": "business-tech-services",
       "bookmarks": [
         {
           "url": "https://elokence.com",
@@ -279,7 +279,7 @@
       "count": 7
     },
     {
-      "name": "hobbies-events",
+      "name": "events-hobbies",
       "bookmarks": [
         {
           "url": "https://vintagestoredisplay.info/2016/11/",
@@ -342,7 +342,7 @@
       "name": "news-local",
       "bookmarks": [
         {
-          "url": "alcsutdoboz.hu/bako-szilvia-allando-lakhelyenek-fiktivalasa/",
+          "url": "https://alcsutdoboz.hu/bako-szilvia-allando-lakhelyenek-fiktivalasa/",
           "title": "Bakó Szilvia állandó lakhelyének fiktíválása - A l c s ú t d o b o z"
         },
         {
@@ -369,7 +369,7 @@
       "count": 6
     },
     {
-      "name": "career-jobs",
+      "name": "careers-jobs",
       "bookmarks": [
         {
           "url": "https://jobs.bestbuy.com/bby",
@@ -420,7 +420,7 @@
       "name": "dev-tools",
       "bookmarks": [
         {
-          "url": "de.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "url": "https://de.wordpress.org/plugins/gdpr-cookie-compliance/",
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - WordPress-Plugin | WordPress.org Deutsch"
         },
         {

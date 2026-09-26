@@ -1,70 +1,6 @@
 {
   "folders": [
     {
-      "name": "education-science",
-      "bookmarks": [
-        {
-          "url": "http://www.all-science-fair-projects.com/",
-          "title": "1000+ Science Fair Projects with Videos for All Grades"
-        },
-        {
-          "url": "http://browardschools.com/",
-          "title": "Home - Broward County Public Schools"
-        },
-        {
-          "url": "http://www.cineca.it/",
-          "title": "Home Page | Cineca"
-        },
-        {
-          "url": "https://allschoolsinindia.in/category/cut-off-mark-calculator/",
-          "title": "Cut Off Mark Calculator"
-        },
-        {
-          "url": "https://www.garnstudio.com/pattern.php?id=9670&cid=19",
-          "title": "Flocking Gulls / DROPS 210-15 - Free knitting patterns by DROPS Design"
-        },
-        {
-          "url": "https://beta.springernature.com/pre-submission?journalId=11625",
-          "title": "Get your manuscript ready for journal editors | Springer Nature"
-        },
-        {
-          "url": "https://www.mortiseandtenonmag.com/blogs/blog",
-          "title": "The Mortise & Tenon Magazine Blog"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "articles-misc",
-      "bookmarks": [
-        {
-          "url": "https://www.salon.com/2000/07/25/eminem_secrets/",
-          "title": "Eminem's dirty secrets - Salon.com"
-        },
-        {
-          "url": "https://livability.com/topics/love-where-you-live/10-ways-you-can-help-local-businesses-right-now",
-          "title": "10 Ways You Can Help Local Businesses Right Now - Livability.com"
-        },
-        {
-          "url": "https://www.mirror.co.uk/news/royals/gallery/baby-prince-william-pictured-beaming-29285484",
-          "title": "Never-before-seen photos of Diana and Charles 'when they were happy' with baby William - Mirror Online"
-        },
-        {
-          "url": "https://videogamesandthebible.com/2014/07/10/nuking-the-asteroid-a-space-engineers-preview-paid/",
-          "title": "Nuking the Asteroid-A Space Engineers Preview | Video Games and the Bible"
-        },
-        {
-          "url": "https://www.astrocafe.ro/articole/responsabilitatea-acces-la-putere",
-          "title": "Responsabilitatea- acces la putere!"
-        },
-        {
-          "url": "http://softwareimpact.bsa.org/",
-          "title": "The Economic Impact of Software"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "misc-web",
       "bookmarks": [
         {
@@ -99,30 +35,68 @@
       "count": 7
     },
     {
-      "name": "nonprofit-social-good",
+      "name": "science-education",
       "bookmarks": [
         {
-          "url": "https://www.google.org/our-work/",
-          "title": "Google.org: Google's philanthropy"
+          "url": "http://www.all-science-fair-projects.com/",
+          "title": "1000+ Science Fair Projects with Videos for All Grades"
         },
         {
-          "url": "https://www.tent.org/become-a-member/",
-          "title": "Join the Tent Partnership for Refugees"
+          "url": "https://allschoolsinindia.in/category/cut-off-mark-calculator/",
+          "title": "Cut Off Mark Calculator"
         },
         {
-          "url": "https://impactreport.overdeck.org/",
-          "title": "Overdeck Family Foundation 2024 Grantmaking & Impact Report"
+          "url": "https://www.garnstudio.com/pattern.php?id=9670&cid=19",
+          "title": "Flocking Gulls / DROPS 210-15 - Free knitting patterns by DROPS Design"
         },
         {
-          "url": "https://globalfishingwatch.org/",
-          "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
+          "url": "https://beta.springernature.com/pre-submission?journalId=11625",
+          "title": "Get your manuscript ready for journal editors | Springer Nature"
         },
         {
-          "url": "https://safelives.org.uk/",
-          "title": "We are SafeLives - Ending domestic abuse"
+          "url": "http://browardschools.com/",
+          "title": "Home - Broward County Public Schools"
+        },
+        {
+          "url": "http://www.cineca.it/",
+          "title": "Home Page | Cineca"
+        },
+        {
+          "url": "https://www.mortiseandtenonmag.com/blogs/blog",
+          "title": "The Mortise & Tenon Magazine Blog"
         }
       ],
-      "count": 5
+      "count": 7
+    },
+    {
+      "name": "misc-articles",
+      "bookmarks": [
+        {
+          "url": "https://livability.com/topics/love-where-you-live/10-ways-you-can-help-local-businesses-right-now",
+          "title": "10 Ways You Can Help Local Businesses Right Now - Livability.com"
+        },
+        {
+          "url": "https://www.salon.com/2000/07/25/eminem_secrets/",
+          "title": "Eminem's dirty secrets - Salon.com"
+        },
+        {
+          "url": "https://www.mirror.co.uk/news/royals/gallery/baby-prince-william-pictured-beaming-29285484",
+          "title": "Never-before-seen photos of Diana and Charles 'when they were happy' with baby William - Mirror Online"
+        },
+        {
+          "url": "https://videogamesandthebible.com/2014/07/10/nuking-the-asteroid-a-space-engineers-preview-paid/",
+          "title": "Nuking the Asteroid-A Space Engineers Preview | Video Games and the Bible"
+        },
+        {
+          "url": "https://www.astrocafe.ro/articole/responsabilitatea-acces-la-putere",
+          "title": "Responsabilitatea- acces la putere!"
+        },
+        {
+          "url": "http://softwareimpact.bsa.org/",
+          "title": "The Economic Impact of Software"
+        }
+      ],
+      "count": 6
     },
     {
       "name": "public-services",
@@ -181,7 +155,33 @@
       "count": 5
     },
     {
-      "name": "software-tech",
+      "name": "nonprofit-social-good",
+      "bookmarks": [
+        {
+          "url": "https://www.google.org/our-work/",
+          "title": "Google.org: Google's philanthropy"
+        },
+        {
+          "url": "https://www.tent.org/become-a-member/",
+          "title": "Join the Tent Partnership for Refugees"
+        },
+        {
+          "url": "https://impactreport.overdeck.org/",
+          "title": "Overdeck Family Foundation 2024 Grantmaking & Impact Report"
+        },
+        {
+          "url": "https://globalfishingwatch.org/",
+          "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
+        },
+        {
+          "url": "https://safelives.org.uk/",
+          "title": "We are SafeLives - Ending domestic abuse"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "tech-software",
       "bookmarks": [
         {
           "url": "https://blog.artstorefronts.com/new-features/",
@@ -192,12 +192,12 @@
           "title": "Looker | Google Cloud"
         },
         {
-          "url": "https://checkcoverage.apple.com/us/en/",
-          "title": "View Coverage - AppleCare & Warranty"
-        },
-        {
           "url": "http://www.tgrmn.com/",
           "title": "ViceVersa Software: File Synchronization, File Replication, Windows Backup Software"
+        },
+        {
+          "url": "https://checkcoverage.apple.com/us/en/",
+          "title": "View Coverage - AppleCare & Warranty"
         },
         {
           "url": "http://visualcode.ch/sample3.php?idnr=102020&lang=de",

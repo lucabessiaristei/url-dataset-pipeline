@@ -1,69 +1,39 @@
 {
   "folders": [
     {
-      "name": "humanitarian-social-justice",
-      "bookmarks": [
-        {
-          "url": "https://live-aclu-michigan.pantheonsite.io/en/donate",
-          "title": "Donate | ACLU of Michigan"
-        },
-        {
-          "url": "https://fortunesociety.org",
-          "title": "The Fortune Society | Building People, Not Prisons"
-        },
-        {
-          "url": "https://charleshaydenfoundation.org/",
-          "title": "Home - The Charles Hayden Foundation"
-        },
-        {
-          "url": "https://www.moore.org/",
-          "title": "Home - Gordon and Betty Moore Foundation"
-        },
-        {
-          "url": "https://www.cartercenter.org/",
-          "title": "The Carter Center | Waging Peace, Fighting Disease & Building Hope"
-        },
-        {
-          "url": "https://www.tent.org/",
-          "title": "Tent Partnership for Refugees"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "academia-education-resources",
       "bookmarks": [
         {
-          "url": "https://briansit.tumblr.com/post/139767572218",
-          "title": "Sure, If you say so. - codeorg: What we think of computer science is..."
+          "url": "https://zeaphra.tumblr.com/post/128648216513",
+          "title": "Blog"
         },
         {
           "url": "https://computinged.wordpress.com",
           "title": "Computing Ed Research - Guzdial's Take | How do people understand computing, and how can we improve that understanding?"
         },
         {
-          "url": "https://education.economist.com",
-          "title": "void"
-        },
-        {
           "url": "https://www.sdpb.org/earlylearning/",
           "title": "Early Learning Initiative | SDPB"
-        },
-        {
-          "url": "http://www.biology.lu.se/",
-          "title": "Start | Department of Biology"
-        },
-        {
-          "url": "http://newsletter.truman.edu/issue.asp?id=1553&command=CurrIssue",
-          "title": "Truman Today | Features - Vol. 21 No. 6 - September 26, 2016"
         },
         {
           "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
           "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
         },
         {
-          "url": "https://zeaphra.tumblr.com/post/128648216513",
-          "title": "Blog"
+          "url": "http://www.biology.lu.se/",
+          "title": "Start | Department of Biology"
+        },
+        {
+          "url": "https://briansit.tumblr.com/post/139767572218",
+          "title": "Sure, If you say so. - codeorg: What we think of computer science is..."
+        },
+        {
+          "url": "http://newsletter.truman.edu/issue.asp?id=1553&command=CurrIssue",
+          "title": "Truman Today | Features - Vol. 21 No. 6 - September 26, 2016"
+        },
+        {
+          "url": "https://education.economist.com",
+          "title": "void"
         }
       ],
       "count": 8
@@ -72,8 +42,8 @@
       "name": "arts-culture-entertainment",
       "bookmarks": [
         {
-          "url": "https://www.artdecomumbai.com/tag/j-gurney-nutting/",
-          "title": "J Gurney Nutting - Art Deco"
+          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
+          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
         },
         {
           "url": "https://chipmusic.org/forums/",
@@ -84,16 +54,16 @@
           "title": "IDA Submission Manager"
         },
         {
-          "url": "https://www.jonathanglynnsmith.com/",
-          "title": "Photographer Jonathan Glynn-Smith"
+          "url": "https://www.artdecomumbai.com/tag/j-gurney-nutting/",
+          "title": "J Gurney Nutting - Art Deco"
         },
         {
           "url": "https://leschroniquesdekoryfee.wordpress.com/2011/07/",
           "title": "juillet | 2011 | Les chroniques de Koryfée, blog littéraire de Karine Fléjo"
         },
         {
-          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
-          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
+          "url": "https://www.jonathanglynnsmith.com/",
+          "title": "Photographer Jonathan Glynn-Smith"
         },
         {
           "url": "https://www.pixelistes.com/forum/mycalendar3.php?month=12&year=2022&sid=b7a799b02a930f0995e5488ed89fa26a",
@@ -103,75 +73,15 @@
       "count": 7
     },
     {
-      "name": "home-auto-property-services",
-      "bookmarks": [
-        {
-          "url": "https://cetb-prologys.fr/diagnostic-immobilier/94160-saint-mande",
-          "title": "Diagnostic Immobilier - 94160 Saint MandÃ© - Devis Gratuit en ligne"
-        },
-        {
-          "url": "http://www.condominio.com/",
-          "title": "Condominio.com - Dal 1996 il condominio su internet!"
-        },
-        {
-          "url": "http://www.eltechresource.com",
-          "title": "ELTECH Resource | Рециклирай, бъди отговорен!"
-        },
-        {
-          "url": "https://www.logement-seniors.com/maisons-de-retraite-1-1/urt-64240/",
-          "title": "EHPAD d'Urt (64240) | Logement-seniors.com"
-        },
-        {
-          "url": "http://wenk-autopflege.de/",
-          "title": "Wenk Autopflege - Ihr professioneller Partner für umweltfreundliche Reinigungssysteme"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "environmental-conservation-research",
-      "bookmarks": [
-        {
-          "url": "https://www.theguardian.com/environment/climate-crisis",
-          "title": "Climate crisis | The Guardian"
-        },
-        {
-          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004570",
-          "title": "Estimating the Worldwide Extent of Illegal Fishing | PLOS One"
-        },
-        {
-          "url": "https://payneinstitute.mines.edu/eog",
-          "title": "Earth Observation Group - Payne Institute for Public Policy"
-        },
-        {
-          "url": "https://www.waittfoundation.org",
-          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
-        },
-        {
-          "url": "https://www.wri.org/publication/scale-illicit-trade-pacific-ocean-marine-resources",
-          "title": "The Scale of Illicit Trade in Pacific Ocean Marine Resources | World Resources Institute"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "business-finance-information",
       "bookmarks": [
-        {
-          "url": "https://integrated-report.bnpparibas/2021/",
-          "title": "Editorial - Page 1 | BNP Paribas - 2024 integrated report"
-        },
         {
           "url": "https://partner.microsoft.com/en-US/membership/cloud-solution-provider",
           "title": "Drive profitability as a Cloud Solution Provider"
         },
         {
-          "url": "https://www.theacsi.org/",
-          "title": "The American Customer Satisfaction Index (ACSI) - National Cross-Industry Measure of Customer Satisfaction"
-        },
-        {
-          "url": "https://wellsfargo.com/",
-          "title": "Wells Fargo Bank | Financial Services & Online Banking"
+          "url": "https://integrated-report.bnpparibas/2021/",
+          "title": "Editorial - Page 1 | BNP Paribas - 2024 integrated report"
         },
         {
           "url": "https://eskalera.com/",
@@ -184,50 +94,118 @@
         {
           "url": "https://www.larepgroup.com/",
           "title": "Smart City | LAR REPS"
+        },
+        {
+          "url": "https://www.theacsi.org/",
+          "title": "The American Customer Satisfaction Index (ACSI) - National Cross-Industry Measure of Customer Satisfaction"
+        },
+        {
+          "url": "https://wellsfargo.com/",
+          "title": "Wells Fargo Bank | Financial Services & Online Banking"
         }
       ],
       "count": 7
     },
     {
-      "name": "shopping-products-gifts",
+      "name": "humanitarian-social-justice",
       "bookmarks": [
         {
-          "url": "https://www.dsw.com/en/us/product/nine-west-ripe-sandal/537994?activeColor=001",
-          "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW"
+          "url": "https://live-aclu-michigan.pantheonsite.io/en/donate",
+          "title": "Donate | ACLU of Michigan"
         },
         {
-          "url": "http://www.giftsin24.com/",
-          "title": "Personalized Stationery | Cards, Notepads, Napkins, Gifts & More"
+          "url": "https://www.moore.org/",
+          "title": "Home - Gordon and Betty Moore Foundation"
         },
         {
-          "url": "https://www.oprahdaily.com/life/a41652152/oprahs-favorite-things-2022/",
-          "title": "Oprah's Favorite Things 2022 - Full List of Oprah's Gift Ideas"
+          "url": "https://charleshaydenfoundation.org/",
+          "title": "Home - The Charles Hayden Foundation"
         },
         {
-          "url": "https://www.spacenk.com/us/bath-body/body-moisturiser-oils/body-oil/stretch-mark-oil-MUK200020396.html",
-          "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
+          "url": "https://www.tent.org/",
+          "title": "Tent Partnership for Refugees"
+        },
+        {
+          "url": "https://www.cartercenter.org/",
+          "title": "The Carter Center | Waging Peace, Fighting Disease & Building Hope"
+        },
+        {
+          "url": "https://fortunesociety.org",
+          "title": "The Fortune Society | Building People, Not Prisons"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "media-entertainment-news",
+      "name": "environmental-conservation-research",
       "bookmarks": [
         {
-          "url": "https://www.hulu.com/live-tv",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+          "url": "https://www.theguardian.com/environment/climate-crisis",
+          "title": "Climate crisis | The Guardian"
         },
         {
-          "url": "https://www.magazines.com/people-magazine.html",
-          "title": "PEOPLE Magazine Subscription | Subscribe to PEOPLE Magazine"
+          "url": "https://payneinstitute.mines.edu/eog",
+          "title": "Earth Observation Group - Payne Institute for Public Policy"
         },
         {
-          "url": "https://onezero.medium.com",
-          "title": "OneZero"
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004570",
+          "title": "Estimating the Worldwide Extent of Illegal Fishing | PLOS One"
         },
         {
-          "url": "https://www.politifact.com/",
-          "title": "PolitiFact"
+          "url": "https://www.wri.org/publication/scale-illicit-trade-pacific-ocean-marine-resources",
+          "title": "The Scale of Illicit Trade in Pacific Ocean Marine Resources | World Resources Institute"
+        },
+        {
+          "url": "https://www.waittfoundation.org",
+          "title": "Waitt Foundation | Funding for Ocean Conservation and Blue Prosperity"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "home-auto-property-services",
+      "bookmarks": [
+        {
+          "url": "http://www.condominio.com/",
+          "title": "Condominio.com - Dal 1996 il condominio su internet!"
+        },
+        {
+          "url": "https://cetb-prologys.fr/diagnostic-immobilier/94160-saint-mande",
+          "title": "Diagnostic Immobilier - 94160 Saint MandÃ© - Devis Gratuit en ligne"
+        },
+        {
+          "url": "https://www.logement-seniors.com/maisons-de-retraite-1-1/urt-64240/",
+          "title": "EHPAD d'Urt (64240) | Logement-seniors.com"
+        },
+        {
+          "url": "http://www.eltechresource.com",
+          "title": "ELTECH Resource | Рециклирай, бъди отговорен!"
+        },
+        {
+          "url": "http://wenk-autopflege.de/",
+          "title": "Wenk Autopflege - Ihr professioneller Partner für umweltfreundliche Reinigungssysteme"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "general-reference-tools",
+      "bookmarks": [
+        {
+          "url": "https://sahistory.org.za/form/contribute?referrernid=93525&referrertitle=Press%20Comments%20made%20by%20South%20African%20President%20Thabo%20Mbeki%20and%20Prime%20Minister%20of%20C%C3%B4te%20d%E2%80%99Ivoire%20Guillaume%20Soro,%20Cape%20Town,%2020%20June%202007",
+          "title": "Contribute | South African History Online"
+        },
+        {
+          "url": "https://www.randomlists.com/nouns",
+          "title": "Generate a list of random nouns"
+        },
+        {
+          "url": "https://www.metoffice.gov.uk/weather/maps-and-charts",
+          "title": "Maps and charts - Met Office"
+        },
+        {
+          "url": "https://www.cyndislist.com/",
+          "title": "Welcome to Cyndi's List"
         }
       ],
       "count": 4
@@ -255,25 +233,69 @@
       "count": 4
     },
     {
+      "name": "news-media-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://www.hulu.com/live-tv",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://onezero.medium.com",
+          "title": "OneZero"
+        },
+        {
+          "url": "https://www.magazines.com/people-magazine.html",
+          "title": "PEOPLE Magazine Subscription | Subscribe to PEOPLE Magazine"
+        },
+        {
+          "url": "https://www.politifact.com/",
+          "title": "PolitiFact"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "shopping-products-gifts",
+      "bookmarks": [
+        {
+          "url": "https://www.oprahdaily.com/life/a41652152/oprahs-favorite-things-2022/",
+          "title": "Oprah's Favorite Things 2022 - Full List of Oprah's Gift Ideas"
+        },
+        {
+          "url": "http://www.giftsin24.com/",
+          "title": "Personalized Stationery | Cards, Notepads, Napkins, Gifts & More"
+        },
+        {
+          "url": "https://www.dsw.com/en/us/product/nine-west-ripe-sandal/537994?activeColor=001",
+          "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW"
+        },
+        {
+          "url": "https://www.spacenk.com/us/bath-body/body-moisturiser-oils/body-oil/stretch-mark-oil-MUK200020396.html",
+          "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "career-employment-resources",
       "bookmarks": [
         {
-          "url": "http://blog.linkedin.com/",
-          "title": "Official LinkedIn Blog"
+          "url": "https://viacomcbs.careers/",
+          "title": "Careers at Paramount"
         },
         {
           "url": "https://msepjobs.militaryonesource.mil/msep/",
           "title": "Military Spouse Employment Partnership"
         },
         {
-          "url": "https://viacomcbs.careers/",
-          "title": "Careers at Paramount"
+          "url": "http://blog.linkedin.com/",
+          "title": "Official LinkedIn Blog"
         }
       ],
       "count": 3
     },
     {
-      "name": "legal-privacy-policies",
+      "name": "legal-privacy-policy",
       "bookmarks": [
         {
           "url": "https://business.safety.google/adscookies/",
@@ -316,12 +338,12 @@
           "title": "Home - Mozilla Hacks - the Web developer blog"
         },
         {
-          "url": "https://shopify.dev",
-          "title": "Shopify developer documentation"
-        },
-        {
           "url": "https://www.workato.com/integrations/quip+senses",
           "title": "Quip and Senses integration | Workato"
+        },
+        {
+          "url": "https://shopify.dev",
+          "title": "Shopify developer documentation"
         }
       ],
       "count": 3
@@ -334,37 +356,15 @@
           "title": "An upscale casual restaurant | Cooper's Hawk"
         },
         {
-          "url": "https://www.louvre.fr/visiter",
-          "title": "Visiter - L'essentiel pour préparer votre visite"
-        },
-        {
           "url": "https://www.oebb.at/de/tickets-kundenkarten",
           "title": "Tickets & Ermäßigungen - ÖBB"
+        },
+        {
+          "url": "https://www.louvre.fr/visiter",
+          "title": "Visiter - L'essentiel pour préparer votre visite"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "general-reference-tools",
-      "bookmarks": [
-        {
-          "url": "https://www.randomlists.com/nouns",
-          "title": "Generate a list of random nouns"
-        },
-        {
-          "url": "https://www.metoffice.gov.uk/weather/maps-and-charts",
-          "title": "Maps and charts - Met Office"
-        },
-        {
-          "url": "https://www.cyndislist.com/",
-          "title": "Welcome to Cyndi's List"
-        },
-        {
-          "url": "https://sahistory.org.za/form/contribute?referrernid=93525&referrertitle=Press%20Comments%20made%20by%20South%20African%20President%20Thabo%20Mbeki%20and%20Prime%20Minister%20of%20C%C3%B4te%20d%E2%80%99Ivoire%20Guillaume%20Soro,%20Cape%20Town,%2020%20June%202007",
-          "title": "Contribute | South African History Online"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "government-public-initiatives",
@@ -381,7 +381,7 @@
       "count": 2
     },
     {
-      "name": "health-wellness-medical",
+      "name": "health-medical-wellness",
       "bookmarks": [
         {
           "url": "https://www.cccstudentmentalhealth.org/resource/love-is-respect/",
@@ -409,6 +409,6 @@
       "count": 2
     }
   ],
-  "total_bookmarks": 67,
+  "total_bookmarks": 75,
   "num_folders": 18
 }

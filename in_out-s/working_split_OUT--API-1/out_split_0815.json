@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "corporate-and-finance",
+      "name": "corporate-finance",
       "bookmarks": [
+        {
+          "url": "http://www.adaptec.com/",
+          "title": "Adaptec | Microchip Technology"
+        },
         {
           "url": "https://youtu.be/4ku-6h3vuNw",
           "title": "Alphabet Q2 2021 Earnings Call - YouTube"
@@ -10,10 +14,6 @@
         {
           "url": "https://www.bmw.com.gt/es/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
           "title": "BMW Guatemala | Autos Deportivos, Híbridos y Más - Home"
-        },
-        {
-          "url": "http://www.adaptec.com/",
-          "title": "Adaptec | Microchip Technology"
         },
         {
           "url": "https://www.apollo.com/",
@@ -43,11 +43,61 @@
       "count": 9
     },
     {
-      "name": "news-and-reports",
+      "name": "data-science",
       "bookmarks": [
+        {
+          "url": "https://www.acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
+          "title": "Benefits that Last: Long-Term Impact and Cost-Benefit Findings for Year Up | The Administration for Children and Families"
+        },
+        {
+          "url": "http://www.brevardfl.gov/MapsAndApps",
+          "title": "Brevard GIS Open Data Hub"
+        },
+        {
+          "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+          "title": "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)"
+        },
+        {
+          "url": "https://earthobservatory.nasa.gov/images",
+          "title": "Images"
+        },
+        {
+          "url": "http://www.iuu-vessels.org/iuu",
+          "title": "IUU Vessel List"
+        },
+        {
+          "url": "https://www.cancer.org/cancer/bladder-cancer/about/key-statistics.html",
+          "title": "Key Statistics for Bladder Cancer | American Cancer Society"
+        },
+        {
+          "url": "https://landsat.gsfc.nasa.gov/",
+          "title": "Landsat Science"
+        },
+        {
+          "url": "http://www.seaaroundus.org/data/#/global",
+          "title": "Sea Around Us | Fisheries, Ecosystems and Biodiversity"
+        },
+        {
+          "url": "https://dataplatform.knmi.nl/group/seismology-and-acoustics?groups=seismology-and-acoustics&tags=Atmospheric+conditions&tags=Open+data&tags=Inspire+dataset",
+          "title": "Seismology and Acoustics - Groups - KNMI Data Platform"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "news-reports",
+      "bookmarks": [
+        {
+          "url": "https://www.baynews9.com/fl/tampa/news/2022/02/02/polk-county-group-proposes-book-ban-",
+          "title": "16 books taken off Polk Public School shelves for review"
+        },
         {
           "url": "https://www.brookings.edu/research/digitalization-and-the-american-workforce/",
           "title": "Digitalization and the American workforce | Brookings"
+        },
+        {
+          "url": "http://www.weathernationtv.com/news/space-weather-can-cause-issues-tropical-weather/",
+          "title": "How Space Weather Can Cause Issues with Tropical Weather - WeatherNation"
         },
         {
           "url": "https://peopleenespanol.com/chica/skin-cycling-retinol-routine-tiktok/",
@@ -70,64 +120,14 @@
           "title": "March 26, 2021: State Advocacy Update | American Medical Association"
         },
         {
-          "url": "https://www.baynews9.com/fl/tampa/news/2022/02/02/polk-county-group-proposes-book-ban-",
-          "title": "16 books taken off Polk Public School shelves for review"
-        },
-        {
           "url": "https://www.apnews.com/hub/world-news",
           "title": "World News: Top & Breaking World News Today | AP News"
-        },
-        {
-          "url": "http://www.weathernationtv.com/news/space-weather-can-cause-issues-tropical-weather/",
-          "title": "How Space Weather Can Cause Issues with Tropical Weather - WeatherNation"
         }
       ],
       "count": 9
     },
     {
-      "name": "science-and-data",
-      "bookmarks": [
-        {
-          "url": "https://www.acf.hhs.gov/opre/report/benefits-last-long-term-impact-and-cost-benefit-findings-year-up",
-          "title": "Benefits that Last: Long-Term Impact and Cost-Benefit Findings for Year Up | The Administration for Children and Families"
-        },
-        {
-          "url": "http://www.brevardfl.gov/MapsAndApps",
-          "title": "Brevard GIS Open Data Hub"
-        },
-        {
-          "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
-          "title": "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)"
-        },
-        {
-          "url": "http://www.iuu-vessels.org/iuu",
-          "title": "IUU Vessel List"
-        },
-        {
-          "url": "https://earthobservatory.nasa.gov/images",
-          "title": "Images"
-        },
-        {
-          "url": "https://www.cancer.org/cancer/bladder-cancer/about/key-statistics.html",
-          "title": "Key Statistics for Bladder Cancer | American Cancer Society"
-        },
-        {
-          "url": "https://landsat.gsfc.nasa.gov/",
-          "title": "Landsat Science"
-        },
-        {
-          "url": "http://www.seaaroundus.org/data/#/global",
-          "title": "Sea Around Us | Fisheries, Ecosystems and Biodiversity"
-        },
-        {
-          "url": "https://dataplatform.knmi.nl/group/seismology-and-acoustics?groups=seismology-and-acoustics&tags=Atmospheric+conditions&tags=Open+data&tags=Inspire+dataset",
-          "title": "Seismology and Acoustics - Groups - KNMI Data Platform"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "software-and-tech-services",
+      "name": "tech-software-services",
       "bookmarks": [
         {
           "url": "https://boxy-svg.com/app",
@@ -142,12 +142,12 @@
           "title": "Free Online Meetings & Video Calls | Microsoft Teams"
         },
         {
-          "url": "https://roundingsquares.com/",
-          "title": "Home - Rounding Squares"
-        },
-        {
           "url": "https://go.nearmap.com/",
           "title": "High-res Aerial Maps & Location Intelligence | Nearmap"
+        },
+        {
+          "url": "https://roundingsquares.com/",
+          "title": "Home - Rounding Squares"
         },
         {
           "url": "http://windows.microsoft.com/en-us/internet-explorer/download-ie",
@@ -169,7 +169,7 @@
       "count": 9
     },
     {
-      "name": "blogs-and-portfolios",
+      "name": "blogs-portfolios",
       "bookmarks": [
         {
           "url": "https://todeskreig.tumblr.com/",
@@ -184,12 +184,12 @@
           "title": "family - M J Richards Photography"
         },
         {
-          "url": "https://cicitive.dk/tag/jul/",
-          "title": "jul Arkiv - Cicitive"
-        },
-        {
           "url": "https://reidjon.tumblr.com/",
           "title": "Jon Reid Tumbling"
+        },
+        {
+          "url": "https://cicitive.dk/tag/jul/",
+          "title": "jul Arkiv - Cicitive"
         },
         {
           "url": "https://alicealinhavandoletras.com/2021/05/19/folha-seca/",
@@ -207,8 +207,12 @@
       "count": 8
     },
     {
-      "name": "ecommerce-and-products",
+      "name": "ecommerce-products",
       "bookmarks": [
+        {
+          "url": "https://squeakosaurus.com",
+          "title": "- Squeakosaurus Squeakosaurus"
+        },
         {
           "url": "https://redplanetbooksncomics.com/products/beyond-the-gender-binary",
           "title": "Best Bitcoin Pokies in Casino Australia - Crypto Slots | bitcoin-pokies.com"
@@ -234,10 +238,6 @@
           "title": "Online Thrift Store For Unique & Vintage Finds | ShopGoodwill.com"
         },
         {
-          "url": "https://squeakosaurus.com",
-          "title": "- Squeakosaurus Squeakosaurus"
-        },
-        {
           "url": "https://www.24s.com/en-us/nappa-leather-skirt-alberta-ferretti_AFE6J99K",
           "title": "Women's Midi | Ready-to-wear | 24S"
         }
@@ -245,7 +245,7 @@
       "count": 8
     },
     {
-      "name": "legal-and-privacy",
+      "name": "legal-privacy",
       "bookmarks": [
         {
           "url": "https://apple.com/legal",
@@ -286,24 +286,28 @@
       "name": "organizations-advocacy",
       "bookmarks": [
         {
-          "url": "https://www.aclukansas.org",
-          "title": "Home - ACLU of Kansas"
+          "url": "https://privacy.commonsense.org/",
+          "title": "Common Sense Privacy Program"
         },
         {
-          "url": "https://wp.api.aclu.org/issues/national-security",
-          "title": "National Security | American Civil Liberties Union"
+          "url": "http://www.ecs.org",
+          "title": "Education Commission of the States - Your Education Policy Team"
+        },
+        {
+          "url": "https://www.aclukansas.org",
+          "title": "Home - ACLU of Kansas"
         },
         {
           "url": "http://ywcaweekwithoutviolence.org/",
           "title": "National Campaigns - YWCA - YWCA"
         },
         {
-          "url": "http://www.oceana.org",
-          "title": "Oceana | Protecting the World's Oceans"
+          "url": "https://wp.api.aclu.org/issues/national-security",
+          "title": "National Security | American Civil Liberties Union"
         },
         {
-          "url": "https://privacy.commonsense.org/",
-          "title": "Common Sense Privacy Program"
+          "url": "http://www.oceana.org",
+          "title": "Oceana | Protecting the World's Oceans"
         },
         {
           "url": "http://map.peoplepower.org/",
@@ -312,16 +316,12 @@
         {
           "url": "https://www.aclumich.org/en/news/year-ahead",
           "title": "The year ahead | ACLU of Michigan"
-        },
-        {
-          "url": "http://www.ecs.org",
-          "title": "Education Commission of the States - Your Education Policy Team"
         }
       ],
       "count": 8
     },
     {
-      "name": "travel-and-food",
+      "name": "food-travel",
       "bookmarks": [
         {
           "url": "https://www.quesecueceenbcn.com/2020/02/06/buenisima-cocteleria-en-barcelona-mamaine/",
@@ -355,7 +355,7 @@
       "count": 7
     },
     {
-      "name": "education-and-learning",
+      "name": "education-learning",
       "bookmarks": [
         {
           "url": "https://bibliometria.us.es/prisma/publicacion/buscar/fuente/4296",
@@ -366,16 +366,16 @@
           "title": "Clinical characteristics and outcome of current standard management of central retinal artery occlusion - Fingerprint - Research @ Flinders"
         },
         {
+          "url": "https://ims.ucsc.edu/",
+          "title": "Institute of Marine Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
+        },
+        {
           "url": "https://www.cril.univ-artois.fr/PB07/results/trace.php?idev=9&idjob=352831",
           "title": "PB'07 evaluation competition: execution trace"
         },
         {
           "url": "https://lightgbm.readthedocs.io/en/stable/Quick-Start.html",
           "title": "Quick Start - LightGBM 4.6.0 documentation"
-        },
-        {
-          "url": "https://ims.ucsc.edu/",
-          "title": "Institute of Marine Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
         },
         {
           "url": "https://www.aulafacil.com/cursos/programacion/macromedia-dreamweaver/formatos-en-el-panel-de-propiedades-l200",
@@ -385,7 +385,7 @@
       "count": 6
     },
     {
-      "name": "media-and-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://www.missourireview.com/1803full-2/",
@@ -415,64 +415,6 @@
       "count": 6
     },
     {
-      "name": "organizations-nonprofit-global",
-      "bookmarks": [
-        {
-          "url": "http://www.slideshare.net/FAOoftheUN",
-          "title": "Fao"
-        },
-        {
-          "url": "https://www.globaltunaalliance.com/",
-          "title": "Home - Global Tuna Alliance"
-        },
-        {
-          "url": "https://postmormon.org/exp_e/index.php?URL=http://sugimevu.blogspot.com/",
-          "title": "PostMormon.org"
-        },
-        {
-          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
-          "title": "Stay in Touch"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "automotive",
-      "bookmarks": [
-        {
-          "url": "https://www.deutzforum.de/threads/deutz-dx230.1229/",
-          "title": "Deutz DX230"
-        },
-        {
-          "url": "https://chrysler.oemdtc.com",
-          "title": "FCA - OEMDTC"
-        },
-        {
-          "url": "https://toyota.oemdtc.com/category/recalls",
-          "title": "Recalls | Toyota & Lexus - OEMDTC"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "art-and-museums",
-      "bookmarks": [
-        {
-          "url": "http://www.centrepompidou.fr/",
-          "title": "Accueil - Centre Pompidou"
-        },
-        {
-          "url": "https://www.vam.ac.uk/collections/furniture",
-          "title": "Furniture - Explore the Collections · V&A"
-        },
-        {
-          "url": "https://www.louvre.fr/en/explore/the-palace",
-          "title": "The palace - From the former palace of the French monarchs to the largest museum in the world"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "misc-uncategorized",
       "bookmarks": [
         {
@@ -495,6 +437,64 @@
       "count": 4
     },
     {
+      "name": "organizations-nonprofit-global",
+      "bookmarks": [
+        {
+          "url": "http://www.slideshare.net/FAOoftheUN",
+          "title": "Fao"
+        },
+        {
+          "url": "https://www.globaltunaalliance.com/",
+          "title": "Home - Global Tuna Alliance"
+        },
+        {
+          "url": "https://postmormon.org/exp_e/index.php?URL=http://sugimevu.blogspot.com/",
+          "title": "PostMormon.org"
+        },
+        {
+          "url": "https://go.missingkids.org/l/808593/2020-02-24/7gz7",
+          "title": "Stay in Touch"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "art-museums",
+      "bookmarks": [
+        {
+          "url": "http://www.centrepompidou.fr/",
+          "title": "Accueil - Centre Pompidou"
+        },
+        {
+          "url": "https://www.vam.ac.uk/collections/furniture",
+          "title": "Furniture - Explore the Collections · V&A"
+        },
+        {
+          "url": "https://www.louvre.fr/en/explore/the-palace",
+          "title": "The palace - From the former palace of the French monarchs to the largest museum in the world"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "automotive",
+      "bookmarks": [
+        {
+          "url": "https://www.deutzforum.de/threads/deutz-dx230.1229/",
+          "title": "Deutz DX230"
+        },
+        {
+          "url": "https://chrysler.oemdtc.com",
+          "title": "FCA - OEMDTC"
+        },
+        {
+          "url": "https://toyota.oemdtc.com/category/recalls",
+          "title": "Recalls | Toyota & Lexus - OEMDTC"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "reference",
       "bookmarks": [
         {
@@ -513,7 +513,7 @@
       "count": 3
     },
     {
-      "name": "services-and-events",
+      "name": "services-events",
       "bookmarks": [
         {
           "url": "https://www.eventbrite.de/e/feeding-the-city-ask-us-anything-tickets-568255225677?aff=erelexpmlt",

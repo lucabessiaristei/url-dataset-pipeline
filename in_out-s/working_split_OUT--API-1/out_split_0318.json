@@ -8,16 +8,12 @@
           "title": "Audio Usage In Video Surveillance Statistics 2021"
         },
         {
-          "url": "https://vanessahurst.com/post/150351668335",
-          "title": "Vanessa Hurst - Computing occupations are now the #1 source of new..."
+          "url": "https://www.wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
+          "title": "Despite job openings, gap remains between labor pool and needed skills"
         },
         {
           "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
           "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
-        },
-        {
-          "url": "https://www.wmar2news.com/news/national/despite-job-openings-gap-remains-between-labor-pool-and-needed-skills",
-          "title": "Despite job openings, gap remains between labor pool and needed skills"
         },
         {
           "url": "http://globenewswire.com/news-release/2016/04/22/831819/0/en/Energate-and-WattTime-org-Partner-to-Enable-Smart-Thermostat-to-Maximize-Use-of-Environmentally-Friendly-Resources.html",
@@ -32,12 +28,12 @@
           "title": "Innocence | Death Penalty Information Center"
         },
         {
-          "url": "http://voyagetampa.com/interview/inspiring-conversations-with-stephanie-brown-of-the-rosie-network/",
-          "title": "Inspiring Conversations with Stephanie Brown of The Rosie Network - VoyageTampa"
-        },
-        {
           "url": "https://www.themarshallproject.org/2022/03/10/no-light-no-nothing-inside-louisiana-s-harshest-juvenile-lockup",
           "title": "Inside Louisiana's Harshest Youth Prison: 'No Light. No Nothing.' | The Marshall Project"
+        },
+        {
+          "url": "http://voyagetampa.com/interview/inspiring-conversations-with-stephanie-brown-of-the-rosie-network/",
+          "title": "Inspiring Conversations with Stephanie Brown of The Rosie Network - VoyageTampa"
         },
         {
           "url": "https://www.ipsnews.net/deutsch/",
@@ -58,6 +54,10 @@
         {
           "url": "https://www.abc.net.au/news/science/",
           "title": "Science - ABC News"
+        },
+        {
+          "url": "https://vanessahurst.com/post/150351668335",
+          "title": "Vanessa Hurst - Computing occupations are now the #1 source of new..."
         },
         {
           "url": "https://www.nelp.org/wp-content/uploads/Policy-Brief-15-Minimum-Wage-Women-Workers-of-Color.pdf",
@@ -133,7 +133,61 @@
       "count": 14
     },
     {
-      "name": "blogs-personal",
+      "name": "dev-documentation-resources",
+      "bookmarks": [
+        {
+          "url": "https://developer.android.com/about",
+          "title": "Android platform | Platform | Android Developers"
+        },
+        {
+          "url": "https://hk-devblog.com/2016/06/10/another-graphic-test/?like_comment=461&_wpnonce=2e306d0ffa",
+          "title": "Another graphic test - STRAY Devblog"
+        },
+        {
+          "url": "https://securitylab.github.com/bounties",
+          "title": "Bounties | GitHub Security Lab"
+        },
+        {
+          "url": "https://huggingface.co/docs/datasets/index",
+          "title": "Datasets"
+        },
+        {
+          "url": "https://families.google",
+          "title": "Google Families - Helping Make Technology Work For Your Family"
+        },
+        {
+          "url": "http://help.yahoo.com/help/us/mail/",
+          "title": "Help for your Yahoo Account"
+        },
+        {
+          "url": "https://vi.stackexchange.com/questions/2864/indentation-of-preprocessor-directives",
+          "title": "Indentation of preprocessor directives - Vi and Vim Stack Exchange"
+        },
+        {
+          "url": "https://discourse.mozilla.org/c/mdn/236",
+          "title": "MDN - Mozilla Discourse"
+        },
+        {
+          "url": "https://form.jotform.com/72625128446155",
+          "title": "On page comment form"
+        },
+        {
+          "url": "https://www.overleaf.com/learn/latex/Tables",
+          "title": "Tables - Overleaf, Online LaTeX Editor"
+        },
+        {
+          "url": "https://scottdodson.dev/hue/thunderstorm/",
+          "title": "Thunderstorm for Hue"
+        },
+        {
+          "url": "https://lightning.ai/docs/pytorch/stable/common/trainer.html",
+          "title": "Trainer - PyTorch Lightning 2.5.5 documentation"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://k1llerk0de.tumblr.com/",
@@ -237,61 +291,7 @@
       "count": 11
     },
     {
-      "name": "dev-documentation-resources",
-      "bookmarks": [
-        {
-          "url": "https://developer.android.com/about",
-          "title": "Android platform | Platform | Android Developers"
-        },
-        {
-          "url": "https://hk-devblog.com/2016/06/10/another-graphic-test/?like_comment=461&_wpnonce=2e306d0ffa",
-          "title": "Another graphic test - STRAY Devblog"
-        },
-        {
-          "url": "https://securitylab.github.com/bounties",
-          "title": "Bounties | GitHub Security Lab"
-        },
-        {
-          "url": "https://huggingface.co/docs/datasets/index",
-          "title": "Datasets"
-        },
-        {
-          "url": "https://families.google",
-          "title": "Google Families - Helping Make Technology Work For Your Family"
-        },
-        {
-          "url": "http://help.yahoo.com/help/us/mail/",
-          "title": "Help for your Yahoo Account"
-        },
-        {
-          "url": "https://vi.stackexchange.com/questions/2864/indentation-of-preprocessor-directives",
-          "title": "Indentation of preprocessor directives - Vi and Vim Stack Exchange"
-        },
-        {
-          "url": "https://discourse.mozilla.org/c/mdn/236",
-          "title": "MDN - Mozilla Discourse"
-        },
-        {
-          "url": "https://form.jotform.com/72625128446155",
-          "title": "On page comment form"
-        },
-        {
-          "url": "https://www.overleaf.com/learn/latex/Tables",
-          "title": "Tables - Overleaf, Online LaTeX Editor"
-        },
-        {
-          "url": "https://scottdodson.dev/hue/thunderstorm/",
-          "title": "Thunderstorm for Hue"
-        },
-        {
-          "url": "https://lightning.ai/docs/pytorch/stable/common/trainer.html",
-          "title": "Trainer - PyTorch Lightning 2.5.5 documentation"
-        }
-      ],
-      "count": 12
-    },
-    {
-      "name": "nonprofits-organizations",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://www.wadhwaniai.org/",
@@ -337,7 +337,7 @@
       "count": 10
     },
     {
-      "name": "articles-misc",
+      "name": "misc-articles",
       "bookmarks": [
         {
           "url": "https://www.mediafax.ro/social/astazi-este-ziua-internationala-a-barbatului-19751405",
@@ -470,23 +470,19 @@
           "title": "How to Improve your Baby Photos | HeyBaby.sg"
         },
         {
-          "url": "https://kendamabulgaria.bg/en/shop/ezoterika/page/6/?orderby=price",
-          "title": "Езотерика и гадателски карти"
-        },
-        {
           "url": "https://www.thekitesociety.org.uk/",
           "title": "void"
+        },
+        {
+          "url": "https://kendamabulgaria.bg/en/shop/ezoterika/page/6/?orderby=price",
+          "title": "Езотерика и гадателски карти"
         }
       ],
       "count": 6
     },
     {
-      "name": "legal-privacy-policies",
+      "name": "legal-privacy-policy",
       "bookmarks": [
-        {
-          "url": "https://apps.apple.com/story/id1538632801",
-          "title": "‎Learn More About App Privacy : App Store Story"
-        },
         {
           "url": "https://uxr-optout.withgoogle.com/?referral_code=0&reserved=0&pType=0&productTag=0&campaignType=0&campaignDate=0&labelTag=0&appTag=0&l=0&Q_Language=0&p_utm_source=0&p_utm_medium=0&p_utm_campaign=0&p_utm_term=0&p_utm_content=0",
           "title": "Google UXR - Opt-Out"
@@ -506,17 +502,17 @@
         {
           "url": "https://xumo.com/privacy",
           "title": "Xumo | Privacy"
+        },
+        {
+          "url": "https://apps.apple.com/story/id1538632801",
+          "title": "‎Learn More About App Privacy : App Store Story"
         }
       ],
       "count": 6
     },
     {
-      "name": "recipes-food",
+      "name": "food-recipes",
       "bookmarks": [
-        {
-          "url": "https://www.750g.com/aile-de-raie-au-vin-blanc-r38733.htm",
-          "title": "Recette Aile de raie au vin blanc - 750g.com"
-        },
         {
           "url": "https://butcherbox.pxf.io/c/3408212/1578351/16419?subid3=people",
           "title": "ButcherBox | Meat Delivery Subscription | ButcherBox"
@@ -528,6 +524,10 @@
         {
           "url": "https://thewoksoflife.com/",
           "title": "Home - The Woks of Life"
+        },
+        {
+          "url": "https://www.750g.com/aile-de-raie-au-vin-blanc-r38733.htm",
+          "title": "Recette Aile de raie au vin blanc - 750g.com"
         },
         {
           "url": "http://www.moldrek.com/",

@@ -1,141 +1,15 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit-social",
-      "bookmarks": [
-        {
-          "url": "https://achelisbodman.org/",
-          "title": "Achelis & Bodman Foundation"
-        },
-        {
-          "url": "https://anti-asianviolenceresources.carrd.co/",
-          "title": "Anti-Asian Violence Resources"
-        },
-        {
-          "url": "https://baby2baby.org/",
-          "title": "Baby2Baby - Nonprofit that provides children living in poverty across the country with diapers, clothing and all the basic necessities that every child deserves."
-        },
-        {
-          "url": "http://www.bbbmarketplacetrust.org",
-          "title": "BBB Institute For Marketplace Trust"
-        },
-        {
-          "url": "https://www.cochrane.org/about-us",
-          "title": "About us | Cochrane"
-        },
-        {
-          "url": "https://cfgreateratlanta.org/",
-          "title": "Community Foundation for Greater Atlanta"
-        },
-        {
-          "url": "http://network.creativecommons.org/?ref=global-affiliate-network",
-          "title": "CC Global Network Community Site"
-        },
-        {
-          "url": "https://disasterphilanthropy.org/disasters/2023-turkey-syria-earthquake/",
-          "title": "2023 Turkey-Syria Earthquake - Center for Disaster Philanthropy"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "careers-employment-education",
-      "bookmarks": [
-        {
-          "url": "https://anitab.org/top-companies/",
-          "title": "Top Companies for Tech Workers Report by AnitaB.org"
-        },
-        {
-          "url": "https://traininginelectrical.co.uk/blog/ever-considered-a-career-as-an-electrical-installation-testing-engineer",
-          "title": "Ever considered a career as an Electrical Installation Testing Engineer? : Training in Electrical"
-        },
-        {
-          "url": "https://connecticut.aiga.org/event/international-speaking-tour-ram-castillo-the-birth-of-a-designer/",
-          "title": "International Speaking Tour: Ram Castillo, THE BIRTH OF A DESIGNER | AIGA Connecticut"
-        },
-        {
-          "url": "https://www.jff.org/",
-          "title": "Transforming systems for the workforce of the future - Jobs for the Future (JFF) - Jobs for the Future (JFF)"
-        },
-        {
-          "url": "https://jobversity.upwardlyglobal.org/resource-library/",
-          "title": "Career Resources for Immigrants & Refugees | Jobversity"
-        },
-        {
-          "url": "https://www.navoba.org/",
-          "title": "NaVOBA Home"
-        },
-        {
-          "url": "https://www.uni-potsdam.de/de/gsp-deutsch/studiumlehre/lesekabinett",
-          "title": "Lesekabinett - Studium und Lehre - Professur Grundschulpädagogik Deutsch - Universität Potsdam"
-        },
-        {
-          "url": "https://digital.usveteransmagazine.com/US-Veterans-Magazine-Spring-2021/46/",
-          "title": "US-Veterans-Magazine-Spring-2021 46 U.S. Veterans Magazine Digital Issue"
-        },
-        {
-          "url": "https://careers.walmart.com/",
-          "title": "Walmart Careers | Submit a Walmart Job Application Online"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "programming-development-tools",
-      "bookmarks": [
-        {
-          "url": "https://discourse.mozilla-community.org/c/add-ons",
-          "title": "Add-ons - Mozilla Discourse"
-        },
-        {
-          "url": "https://app.eskalera.com/",
-          "title": "Eskalera"
-        },
-        {
-          "url": "https://scikit-image.org/docs/stable/auto_examples/index.html",
-          "title": "Examples - skimage 0.25.2 documentation"
-        },
-        {
-          "url": "https://foursquare.com/",
-          "title": "The Future of Geospatial Technology | Foursquare"
-        },
-        {
-          "url": "https://github.com/GlobalFishingWatch/gfwr",
-          "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
-        },
-        {
-          "url": "https://www.orbcomm.com/",
-          "title": "Where IoT powers asset intelligence | ORBCOMM"
-        },
-        {
-          "url": "https://prior.allenai.org/",
-          "title": "Perceptual Reasoning and Interaction Research"
-        },
-        {
-          "url": "https://wordpress.org/plugins/donorbox-donation-form",
-          "title": "Donorbox - Free Recurring Donation Plugin and Fundraising Platform - WordPress plugin | WordPress.org"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "media-arts-culture",
+      "name": "arts-culture-media",
       "bookmarks": [
         {
           "url": "https://abc.com",
           "title": "ABC Network - ABC.com"
         },
         {
-          "url": "https://www.berlin.de/museum/",
-          "title": "Museumsführer - Berlin.de"
-        },
-        {
-          "url": "https://subscriptions.hollywoodreporter.com/site/thr-subscribe",
-          "title": "Subscribe to The Hollywood Reporter"
-        },
-        {
-          "url": "http://www.instyleweddings.com/instyle/weddings/flat/0,22749,in_this_issue,00.html",
-          "title": "People Inc. - America's Largest Digital & Print Publisher"
+          "url": "http://mpr.org/",
+          "title": "Home | Minnesota Public Radio"
         },
         {
           "url": "https://www.jetsdencre.fr/l-Evolution-_r_66_i_1398.html",
@@ -146,28 +20,36 @@
           "title": "Mary-Kate Olsen and Olivier Sarkozy Postengagement Event | PS Celebrity"
         },
         {
-          "url": "http://mpr.org/",
-          "title": "Home | Minnesota Public Radio"
-        },
-        {
           "url": "https://viacom.helpshift.com/hc/en/18-mtv/",
           "title": "MTV - Paramount Technical Support and Help Center"
         },
         {
-          "url": "https://mgp770.tumblr.com/",
-          "title": "Tumblr"
+          "url": "https://www.berlin.de/museum/",
+          "title": "Museumsführer - Berlin.de"
         },
         {
           "url": "https://www.typography.guru/journal/letterspacing-r24/",
           "title": "OpenType Myths Explained - Typography Journal"
         },
         {
+          "url": "http://www.instyleweddings.com/instyle/weddings/flat/0,22749,in_this_issue,00.html",
+          "title": "People Inc. - America's Largest Digital & Print Publisher"
+        },
+        {
           "url": "https://www.shelterness.com/diy-oil-reed-diffusers/pictures/67188/",
           "title": "Picture of DIY oil reed diffuser with your favorite fragrances"
         },
         {
+          "url": "https://subscriptions.hollywoodreporter.com/site/thr-subscribe",
+          "title": "Subscribe to The Hollywood Reporter"
+        },
+        {
           "url": "https://theartguy.tumblr.com/",
           "title": "The Art Guy"
+        },
+        {
+          "url": "https://mgp770.tumblr.com/",
+          "title": "Tumblr"
         },
         {
           "url": "http://www.frasi.net/ricette/default.asp",
@@ -180,10 +62,6 @@
       "name": "ecommerce-products",
       "bookmarks": [
         {
-          "url": "https://awo-oldtimer.de/Innensechskantschraube-M6-x-2000mm-DIN-912-Edelstahl",
-          "title": "Innensechskantschraube (M6 x 20,00mm) DIN 912 Edelstahl"
-        },
-        {
           "url": "https://profiwerkzeug-shop.at/product/bit-set-inbus-torx-vielzahn-40-tlg-verke/",
           "title": "Bit Set inbus torx vielzahn 40 tlg VERKE - Profi Werkzeug Bimeju GmbH"
         },
@@ -194,6 +72,10 @@
         {
           "url": "http://www.gioiadellacasa.it/",
           "title": "Gioia della Casa - Casalinghi , Design e Benessere in casa - Casalinghi , design e benessere in casa"
+        },
+        {
+          "url": "https://awo-oldtimer.de/Innensechskantschraube-M6-x-2000mm-DIN-912-Edelstahl",
+          "title": "Innensechskantschraube (M6 x 20,00mm) DIN 912 Edelstahl"
         },
         {
           "url": "https://www.marykay.com/en-us/products/makeup/eyes/makeup-remover/mary-kay-oilfree-eye-makeup-remover-180101",
@@ -223,8 +105,160 @@
       "count": 10
     },
     {
+      "name": "career-employment-education",
+      "bookmarks": [
+        {
+          "url": "https://jobversity.upwardlyglobal.org/resource-library/",
+          "title": "Career Resources for Immigrants & Refugees | Jobversity"
+        },
+        {
+          "url": "https://traininginelectrical.co.uk/blog/ever-considered-a-career-as-an-electrical-installation-testing-engineer",
+          "title": "Ever considered a career as an Electrical Installation Testing Engineer? : Training in Electrical"
+        },
+        {
+          "url": "https://connecticut.aiga.org/event/international-speaking-tour-ram-castillo-the-birth-of-a-designer/",
+          "title": "International Speaking Tour: Ram Castillo, THE BIRTH OF A DESIGNER | AIGA Connecticut"
+        },
+        {
+          "url": "https://www.uni-potsdam.de/de/gsp-deutsch/studiumlehre/lesekabinett",
+          "title": "Lesekabinett - Studium und Lehre - Professur Grundschulpädagogik Deutsch - Universität Potsdam"
+        },
+        {
+          "url": "https://www.navoba.org/",
+          "title": "NaVOBA Home"
+        },
+        {
+          "url": "https://anitab.org/top-companies/",
+          "title": "Top Companies for Tech Workers Report by AnitaB.org"
+        },
+        {
+          "url": "https://www.jff.org/",
+          "title": "Transforming systems for the workforce of the future - Jobs for the Future (JFF) - Jobs for the Future (JFF)"
+        },
+        {
+          "url": "https://digital.usveteransmagazine.com/US-Veterans-Magazine-Spring-2021/46/",
+          "title": "US-Veterans-Magazine-Spring-2021 46 U.S. Veterans Magazine Digital Issue"
+        },
+        {
+          "url": "https://careers.walmart.com/",
+          "title": "Walmart Careers | Submit a Walmart Job Application Online"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "organizations-nonprofit-social",
+      "bookmarks": [
+        {
+          "url": "https://disasterphilanthropy.org/disasters/2023-turkey-syria-earthquake/",
+          "title": "2023 Turkey-Syria Earthquake - Center for Disaster Philanthropy"
+        },
+        {
+          "url": "https://www.cochrane.org/about-us",
+          "title": "About us | Cochrane"
+        },
+        {
+          "url": "https://achelisbodman.org/",
+          "title": "Achelis & Bodman Foundation"
+        },
+        {
+          "url": "https://anti-asianviolenceresources.carrd.co/",
+          "title": "Anti-Asian Violence Resources"
+        },
+        {
+          "url": "https://baby2baby.org/",
+          "title": "Baby2Baby - Nonprofit that provides children living in poverty across the country with diapers, clothing and all the basic necessities that every child deserves."
+        },
+        {
+          "url": "http://www.bbbmarketplacetrust.org",
+          "title": "BBB Institute For Marketplace Trust"
+        },
+        {
+          "url": "http://network.creativecommons.org/?ref=global-affiliate-network",
+          "title": "CC Global Network Community Site"
+        },
+        {
+          "url": "https://cfgreateratlanta.org/",
+          "title": "Community Foundation for Greater Atlanta"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "programming-development-tools",
+      "bookmarks": [
+        {
+          "url": "https://discourse.mozilla-community.org/c/add-ons",
+          "title": "Add-ons - Mozilla Discourse"
+        },
+        {
+          "url": "https://wordpress.org/plugins/donorbox-donation-form",
+          "title": "Donorbox - Free Recurring Donation Plugin and Fundraising Platform - WordPress plugin | WordPress.org"
+        },
+        {
+          "url": "https://app.eskalera.com/",
+          "title": "Eskalera"
+        },
+        {
+          "url": "https://scikit-image.org/docs/stable/auto_examples/index.html",
+          "title": "Examples - skimage 0.25.2 documentation"
+        },
+        {
+          "url": "https://github.com/GlobalFishingWatch/gfwr",
+          "title": "GitHub - GlobalFishingWatch/gfwr: R package for accessing data from Global Fishing Watch APIs"
+        },
+        {
+          "url": "https://prior.allenai.org/",
+          "title": "Perceptual Reasoning and Interaction Research"
+        },
+        {
+          "url": "https://foursquare.com/",
+          "title": "The Future of Geospatial Technology | Foursquare"
+        },
+        {
+          "url": "https://www.orbcomm.com/",
+          "title": "Where IoT powers asset intelligence | ORBCOMM"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "environmental-conservation-data",
+      "bookmarks": [
+        {
+          "url": "http://globalforestwatch.org",
+          "title": "Forest Monitoring, Land Use & Deforestation Trends | Global Forest Watch"
+        },
+        {
+          "url": "https://earthobservatory.nasa.gov/global-maps",
+          "title": "Global Maps"
+        },
+        {
+          "url": "https://mission-blue.org/hope-spots/",
+          "title": "Hope Spots® - Mission Blue"
+        },
+        {
+          "url": "https://blog.google/products/search/mapping-wildfires-with-satellite-data/",
+          "title": "Mapping wildfires with the power of satellite data"
+        },
+        {
+          "url": "https://www.valorlux.lu/en/the-blue-bag?gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KFC_UwBTPUXxBh__scACQbH83c1VJBQKAdSS2puqf4YyQuzlYTd0AwaAhMaEALw_wcB",
+          "title": "The Blue Bag - Valorlux"
+        },
+        {
+          "url": "https://eogdata.mines.edu/products/vbd/",
+          "title": "VIIRS Boat Detection"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "finance-business-healthcare",
       "bookmarks": [
+        {
+          "url": "https://symex.belfius.be/valeurs2.html?language=FR&periode=H6M&ticker=APAM&pays=NL&random=578861150&SID=qo58rqomrotah80qsbeodfhqn5",
+          "title": "Cotations"
+        },
         {
           "url": "https://canalpersonal.com/seguros-para-empresas/responsabilidad-civil/directivos",
           "title": "Directivos - Seguros Canal Personal"
@@ -244,47 +278,39 @@
         {
           "url": "https://customers.microsoft.com/en-us/search?sq=&ff=story_product_categories%26%3EAzure&p=0&so=story_publish_date%20desc",
           "title": "Search Customer Success Stories | Microsoft Customer Stories"
-        },
-        {
-          "url": "https://symex.belfius.be/valeurs2.html?language=FR&periode=H6M&ticker=APAM&pays=NL&random=578861150&SID=qo58rqomrotah80qsbeodfhqn5",
-          "title": "Cotations"
         }
       ],
       "count": 6
     },
     {
-      "name": "environmental-conservation-data",
+      "name": "government-public-safety",
       "bookmarks": [
         {
-          "url": "https://earthobservatory.nasa.gov/global-maps",
-          "title": "Global Maps"
+          "url": "https://www.ams.usda.gov/rules-regulations/be",
+          "title": "BE Disclosure | Agricultural Marketing Service"
         },
         {
-          "url": "http://globalforestwatch.org",
-          "title": "Forest Monitoring, Land Use & Deforestation Trends | Global Forest Watch"
+          "url": "https://www.militaryonesource.mil/coronavirus/",
+          "title": "Health Resources for Prevention & Care | Military OneSource"
         },
         {
-          "url": "https://blog.google/products/search/mapping-wildfires-with-satellite-data/",
-          "title": "Mapping wildfires with the power of satellite data"
+          "url": "https://msi.nga.mil/Publications/APN",
+          "title": "Maritime Safety Information"
         },
         {
-          "url": "https://mission-blue.org/hope-spots/",
-          "title": "Hope Spots® - Mission Blue"
-        },
-        {
-          "url": "https://www.valorlux.lu/en/the-blue-bag?gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KFC_UwBTPUXxBh__scACQbH83c1VJBQKAdSS2puqf4YyQuzlYTd0AwaAhMaEALw_wcB",
-          "title": "The Blue Bag - Valorlux"
-        },
-        {
-          "url": "https://eogdata.mines.edu/products/vbd/",
-          "title": "VIIRS Boat Detection"
+          "url": "https://danvilleutilities.com/nDanville/nDanville.html",
+          "title": "nDanville Welcome | Danville Utilities"
         }
       ],
-      "count": 6
+      "count": 4
     },
     {
-      "name": "gaming-hobbies-sports",
+      "name": "hobbies-sports-gaming",
       "bookmarks": [
+        {
+          "url": "http://www.playstation.com/support/",
+          "title": "Assistenza PlayStation"
+        },
         {
           "url": "https://www.pagat.com/adders/",
           "title": "Card Games: Adding Games"
@@ -296,32 +322,6 @@
         {
           "url": "https://www.jacksonville.com/story/sports/college/jacksonville-dolphins/2022/07/09/ron-grigg-resigns-ju-womens-track-and-cross-country-coach-after-difficult-read-posts-student-athlete/10022152002/",
           "title": "Jacksonville University track coach resigns after bullying allegations"
-        },
-        {
-          "url": "http://www.playstation.com/support/",
-          "title": "Assistenza PlayStation"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "government-public-safety",
-      "bookmarks": [
-        {
-          "url": "https://www.ams.usda.gov/rules-regulations/be",
-          "title": "BE Disclosure | Agricultural Marketing Service"
-        },
-        {
-          "url": "https://danvilleutilities.com/nDanville/nDanville.html",
-          "title": "nDanville Welcome | Danville Utilities"
-        },
-        {
-          "url": "https://www.militaryonesource.mil/coronavirus/",
-          "title": "Health Resources for Prevention & Care | Military OneSource"
-        },
-        {
-          "url": "https://msi.nga.mil/Publications/APN",
-          "title": "Maritime Safety Information"
         }
       ],
       "count": 4

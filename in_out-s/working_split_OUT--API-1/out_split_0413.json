@@ -1,40 +1,6 @@
 {
   "folders": [
     {
-      "name": "online-shopping-products",
-      "bookmarks": [
-        {
-          "url": "https://www.allenrosewine.com/about",
-          "title": "about - Allen Rose Wine"
-        },
-        {
-          "url": "https://delante.shop/produkty/animalia-kot-breloczek-silikonowy-czarno-bialy-kotek-krawacik-65-x-55-cm-2/",
-          "title": "Animalia Kot breloczek silikonowy czarno-biały kotek Krawacik 6,5 x 5,5 cm - Delante Shop"
-        },
-        {
-          "url": "https://www.flowerbeauty.com/products/warrior-princess-mascara-new",
-          "title": "Warrior Princess Mascara | FLOWER Beauty"
-        },
-        {
-          "url": "https://lucchese.com/",
-          "title": "Lucchese Bootmaker Official Website | Cowboy Boots and Western Wear"
-        },
-        {
-          "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
-          "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
-        },
-        {
-          "url": "https://www.customizedgirl.com/s/mothersruin?view_storefront=1",
-          "title": "Mother's Ruin Merch Store"
-        },
-        {
-          "url": "https://www.scjohnson.com/",
-          "title": "SC Johnson | A Family Company at Work for A Better World"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "gaming-hobbies-entertainment",
       "bookmarks": [
         {
@@ -103,6 +69,40 @@
       "count": 7
     },
     {
+      "name": "online-shopping-products",
+      "bookmarks": [
+        {
+          "url": "https://www.allenrosewine.com/about",
+          "title": "about - Allen Rose Wine"
+        },
+        {
+          "url": "https://delante.shop/produkty/animalia-kot-breloczek-silikonowy-czarno-bialy-kotek-krawacik-65-x-55-cm-2/",
+          "title": "Animalia Kot breloczek silikonowy czarno-biały kotek Krawacik 6,5 x 5,5 cm - Delante Shop"
+        },
+        {
+          "url": "https://lucchese.com/",
+          "title": "Lucchese Bootmaker Official Website | Cowboy Boots and Western Wear"
+        },
+        {
+          "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
+          "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
+        },
+        {
+          "url": "https://www.customizedgirl.com/s/mothersruin?view_storefront=1",
+          "title": "Mother's Ruin Merch Store"
+        },
+        {
+          "url": "https://www.scjohnson.com/",
+          "title": "SC Johnson | A Family Company at Work for A Better World"
+        },
+        {
+          "url": "https://www.flowerbeauty.com/products/warrior-princess-mascara-new",
+          "title": "Warrior Princess Mascara | FLOWER Beauty"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "software-development-tech-companies",
       "bookmarks": [
         {
@@ -135,6 +135,36 @@
         }
       ],
       "count": 7
+    },
+    {
+      "name": "academic-educational-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.ucsc.edu/tools/people.html",
+          "title": "Find people - UC Santa Cruz"
+        },
+        {
+          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
+          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
+        },
+        {
+          "url": "https://archive.vaclavhavel-library.org/Archive/BookCatalogue?author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Ji%C5%99%C3%AD%20Dienstbier&author=Krystyna%20Krauzeauthor=Pavel%20Landovsk%C3%BD&author=Ji%C5%99%C3%AD%20Dienstbierauthor=V%C3%A1clav%20Havel&author=Pavel%20Landovsk%C3%BDsort=2&lang=cs",
+          "title": "Knihovna Václava Havla"
+        },
+        {
+          "url": "https://metashare.csc.fi/repository/search/?q=&selected_facets=availabilityFilter_exact%3AAvailable%20-%20Restricted%20Use&selected_facets=useNlpSpecificFilter_exact%3ALinguistic%20Research&selected_facets=timeCoverageFilter_exact%3A1920-1939&selected_facets=licenceFilter_exact%3AUnder%20Negotiation&selected_facets=foreseenUseFilter_exact%3AHuman%20Use&selected_facets=languageNameFilter_exact%3ATundra%20Nenets&selected_facets=languageNameFilter_exact%3AEastern%20Mari&selected_facets=languageNameFilter_exact%3ASelkup",
+          "title": "META-SHARE | Kielipankki"
+        },
+        {
+          "url": "https://rvk.uni-regensburg.de/rvko_simple/gesamt_register.php?letters=Zucca%2C+Giuseppe",
+          "title": "Register zur Regensburger Verbundklassifikation"
+        },
+        {
+          "url": "http://www.uctv.tv/search/?campusID=10",
+          "title": "Search Results - UCTV - University of California Television"
+        }
+      ],
+      "count": 6
     },
     {
       "name": "digital-creative-tools-resources",
@@ -170,10 +200,6 @@
       "name": "government-public-services-data",
       "bookmarks": [
         {
-          "url": "https://afiscyprus.com.cy/",
-          "title": "Αρχική - Α.Φ.Η.Σ. Κύπρος"
-        },
-        {
           "url": "http://www.call2recycle.ca/",
           "title": "Call2Recycle Canada | Battery Recycling & Collection Services"
         },
@@ -192,12 +218,16 @@
         {
           "url": "https://data.pkc.gov.uk/fr/dataset?res_format=KML&organization=perth-kinross-council&res_format=HTML&res_format%3DHTML%26res_format%3DKML%26organization%3Dperth-kinross-council%26groups%3Denvironment%26_groups_limit%3D0=&groups=education&tags=boundaries%2Ccatchments%2Ceducation%2Cschools%2Csecondary",
           "title": "Open Data"
+        },
+        {
+          "url": "https://afiscyprus.com.cy/",
+          "title": "Αρχική - Α.Φ.Η.Σ. Κύπρος"
         }
       ],
       "count": 6
     },
     {
-      "name": "news-politics-commentary",
+      "name": "news-commentary-politics",
       "bookmarks": [
         {
           "url": "https://www.baseballamerica.com/",
@@ -227,36 +257,6 @@
       "count": 6
     },
     {
-      "name": "educational-academic-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.ucsc.edu/tools/people.html",
-          "title": "Find people - UC Santa Cruz"
-        },
-        {
-          "url": "https://www.washington.edu/news/2021/11/22/kids-teens-believe-girls-arent-interested-in-computer-science-study-shows/",
-          "title": "Kids, teens believe girls aren't interested in computer science, study shows | UW News"
-        },
-        {
-          "url": "https://archive.vaclavhavel-library.org/Archive/BookCatalogue?author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Andrzej%20S%C5%82awomir%20Jagodzi%C5%84ski&author=Ji%C5%99%C3%AD%20Dienstbier&author=Krystyna%20Krauzeauthor=Pavel%20Landovsk%C3%BD&author=Ji%C5%99%C3%AD%20Dienstbierauthor=V%C3%A1clav%20Havel&author=Pavel%20Landovsk%C3%BDsort=2&lang=cs",
-          "title": "Knihovna Václava Havla"
-        },
-        {
-          "url": "https://metashare.csc.fi/repository/search/?q=&selected_facets=availabilityFilter_exact%3AAvailable%20-%20Restricted%20Use&selected_facets=useNlpSpecificFilter_exact%3ALinguistic%20Research&selected_facets=timeCoverageFilter_exact%3A1920-1939&selected_facets=licenceFilter_exact%3AUnder%20Negotiation&selected_facets=foreseenUseFilter_exact%3AHuman%20Use&selected_facets=languageNameFilter_exact%3ATundra%20Nenets&selected_facets=languageNameFilter_exact%3AEastern%20Mari&selected_facets=languageNameFilter_exact%3ASelkup",
-          "title": "META-SHARE | Kielipankki"
-        },
-        {
-          "url": "https://rvk.uni-regensburg.de/rvko_simple/gesamt_register.php?letters=Zucca%2C+Giuseppe",
-          "title": "Register zur Regensburger Verbundklassifikation"
-        },
-        {
-          "url": "http://www.uctv.tv/search/?campusID=10",
-          "title": "Search Results - UCTV - University of California Television"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "online-communities-forums",
       "bookmarks": [
         {
@@ -272,12 +272,12 @@
           "title": "Profil de Winniie"
         },
         {
-          "url": "https://www.shipsofscale.com/sosforums/threads/rope-making-for-ship-models.4076/",
-          "title": "Wreckage of WWI German battleship SMS SCHARNHORST sunk by Royal Navy in 1914 discovered off Falkland Islands | Ships of Scale"
-        },
-        {
           "url": "http://siemplifycommunity.slack.com/",
           "title": "Workspace Suspended | Slack"
+        },
+        {
+          "url": "https://www.shipsofscale.com/sosforums/threads/rope-making-for-ship-models.4076/",
+          "title": "Wreckage of WWI German battleship SMS SCHARNHORST sunk by Royal Navy in 1914 discovered off Falkland Islands | Ships of Scale"
         }
       ],
       "count": 5
@@ -290,38 +290,16 @@
           "title": "CCSBT Home | CCSBT Commission for the Conservation of Southern Bluefin Tuna"
         },
         {
-          "url": "https://gml.noaa.gov/ccgg/trends/",
-          "title": "Trends in CO2 - NOAA Global Monitoring Laboratory"
-        },
-        {
           "url": "https://oceanservice.noaa.gov/",
           "title": "NOAA's National Ocean Service"
         },
         {
+          "url": "https://gml.noaa.gov/ccgg/trends/",
+          "title": "Trends in CO2 - NOAA Global Monitoring Laboratory"
+        },
+        {
           "url": "https://www.cebc.cnrs.fr/infrastructures/bio-logging/what-is-bio-logging/?lang=en",
           "title": "What is Bio-logging? - newcebc"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "customer-technical-support",
-      "bookmarks": [
-        {
-          "url": "https://getsupport.apple.com/?caller=home&PRKEYS=",
-          "title": "void"
-        },
-        {
-          "url": "https://support.norton.com/sp/en/us/home/current/info",
-          "title": "Official Norton™ Support"
-        },
-        {
-          "url": "https://support.springer.com/en/support/home",
-          "title": "Support : Springer Support"
-        },
-        {
-          "url": "http://siemplifycommunity.slack.com/",
-          "title": "Workspace Suspended | Slack"
         }
       ],
       "count": 4
@@ -370,16 +348,34 @@
       "name": "consumer-information-guides",
       "bookmarks": [
         {
-          "url": "https://bmw.oemdtc.com/category/recalls",
-          "title": "Recalls | BMW & MINI - OEMDTC"
-        },
-        {
           "url": "http://www.tvguidelines.org/ratings.html",
           "title": "Ratings | The TV Parental Guidelines"
         },
         {
+          "url": "https://bmw.oemdtc.com/category/recalls",
+          "title": "Recalls | BMW & MINI - OEMDTC"
+        },
+        {
           "url": "https://tesla.oemdtc.com",
           "title": "Tesla - OEMDTC"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "customer-technical-support",
+      "bookmarks": [
+        {
+          "url": "https://support.norton.com/sp/en/us/home/current/info",
+          "title": "Official Norton™ Support"
+        },
+        {
+          "url": "https://support.springer.com/en/support/home",
+          "title": "Support : Springer Support"
+        },
+        {
+          "url": "https://getsupport.apple.com/?caller=home&PRKEYS=",
+          "title": "void"
         }
       ],
       "count": 3
@@ -399,6 +395,6 @@
       "count": 2
     }
   ],
-  "total_bookmarks": 77,
+  "total_bookmarks": 76,
   "num_folders": 15
 }

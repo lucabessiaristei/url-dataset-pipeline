@@ -1,23 +1,19 @@
 {
   "folders": [
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://servantokc.org/the-servant-foundation",
           "title": "Church of the Servant - The Servant Foundation"
         },
         {
-          "url": "https://consultations.worldbank.org/?map=1",
-          "title": "World Bank Consultations"
+          "url": "https://secure.donorschoose.org/donors/giving_history.html",
+          "title": "DonorsChoose Sign In | Public School Donations"
         },
         {
           "url": "https://craignewmarkphilanthropies.org/",
           "title": "Home"
-        },
-        {
-          "url": "https://secure.donorschoose.org/donors/giving_history.html",
-          "title": "DonorsChoose Sign In | Public School Donations"
         },
         {
           "url": "https://webinars.donorbox.org",
@@ -40,6 +36,10 @@
           "title": "The Share Trust"
         },
         {
+          "url": "http://www.waterloofoundation.org.uk/",
+          "title": "The Waterloo Foundation"
+        },
+        {
           "url": "https://transkidspurplerainbow.org/",
           "title": "TransKids Purple Rainbow Foundation - Spreading the message of tolerance, acceptance & unconditional love which are a birthright for all transkids."
         },
@@ -48,8 +48,8 @@
           "title": "US Protest Law Tracker - ICNL"
         },
         {
-          "url": "http://www.waterloofoundation.org.uk/",
-          "title": "The Waterloo Foundation"
+          "url": "https://consultations.worldbank.org/?map=1",
+          "title": "World Bank Consultations"
         }
       ],
       "count": 12
@@ -58,12 +58,12 @@
       "name": "blogs-general",
       "bookmarks": [
         {
-          "url": "https://demian-dfm.tumblr.com/",
-          "title": "@demian-dfm on Tumblr"
-        },
-        {
           "url": "https://coder-girls.tumblr.com/",
           "title": "@coder-girls on Tumblr"
+        },
+        {
+          "url": "https://demian-dfm.tumblr.com/",
+          "title": "@demian-dfm on Tumblr"
         },
         {
           "url": "https://kathleencollinsposts-blog.tumblr.com/",
@@ -72,6 +72,10 @@
         {
           "url": "https://ar-ar.workplace.com/blog/collaboration?ref=AVspaOrTPD67k6haImSZNk5nlRLwog02UhOooJ6WOEo1fe6nQxMCLwaPIoXOc_qGK9ffJo7QXy3i25efu8PgYsKaRAW0uxnhRRMnN28xEOqVu9lNXbdWykat9OLG4ta5jDCN9DqMS47rTwU3hiZak9Nj9oEWl_MWGNcIbi-rgVb8OmC45VI4819K150B3EOv-wIIOzFB7pPHyrtTnw8rJnyAGPhPUCc-f57K3iaXwGaBDH7JKegaT7WoDdlKoUHc0IjkcsHf8WPbl52eYrU3Wep--ObnL9rGhiXzUFsk1XgPYS8KqlJ3yMIGesMvm3ni6D3jYuXoN4DgypKUu9lmc0RS",
           "title": "Alla scoperta del futuro del lavoro con VR e MR | Meta for Work"
+        },
+        {
+          "url": "https://dainosawr.tumblr.com/post/90223285565",
+          "title": "dainosawr - What % of STEM Should Be Computer Science?"
         },
         {
           "url": "https://blog.amicaledesanciensdesainthadelin.be/2017/01/17/deces-de-monsieur-jean-verjans-epoux-de-madame-marie-jose-lagasse/",
@@ -94,10 +98,6 @@
           "title": "void"
         },
         {
-          "url": "https://dainosawr.tumblr.com/post/90223285565",
-          "title": "dainosawr - What % of STEM Should Be Computer Science?"
-        },
-        {
           "url": "https://xchaoticrage.tumblr.com/",
           "title": "💗VII-XVIII-MCMXCIII 💗"
         }
@@ -105,8 +105,12 @@
       "count": 11
     },
     {
-      "name": "tools-utility",
+      "name": "tools-utilities",
       "bookmarks": [
+        {
+          "url": "https://slidesgo.com/",
+          "title": "Free Google Slides themes and Powerpoint templates | Slidesgo"
+        },
         {
           "url": "https://create.microsoft.com/?utm_source=m356edge&utm_medium=microsite&utm_campaign=creation",
           "title": "Free templates for social media, documents & designs | Microsoft Create"
@@ -118,10 +122,6 @@
         {
           "url": "https://pastebin.com/",
           "title": "Pastebin.com - #1 paste tool since 2002!"
-        },
-        {
-          "url": "https://slidesgo.com/",
-          "title": "Free Google Slides themes and Powerpoint templates | Slidesgo"
         },
         {
           "url": "http://spyglass.fish",
@@ -146,6 +146,10 @@
       "name": "news-world",
       "bookmarks": [
         {
+          "url": "https://www.handelsblatt.com/unternehmen/industrie",
+          "title": "Handelsblatt"
+        },
+        {
           "url": "https://www.energate-messenger.at/news/219257/klagen-gegen-erdgasleitung-opal-abgelehnt",
           "title": "Klagen gegen Erdgasleitung Opal abgelehnt | energate messenger⁺"
         },
@@ -168,10 +172,6 @@
         {
           "url": "https://www.20minutes.fr/cinema/4013493-20221210-avatar-voie-eau-film-rien-acteurs-estime-james-cameron",
           "title": "« Avatar : La Voie de l'eau » : « Mon film ne serait rien sans les acteurs », estime James Cameron"
-        },
-        {
-          "url": "https://www.handelsblatt.com/unternehmen/industrie",
-          "title": "Handelsblatt"
         }
       ],
       "count": 7
@@ -255,7 +255,29 @@
       "count": 5
     },
     {
-      "name": "articles-and-books",
+      "name": "art-design",
+      "bookmarks": [
+        {
+          "url": "https://www.virgin.com/virgin-unite/latest/how-climate-trace-is-making-the-invisible-visible",
+          "title": "How Climate TRACE is making the invisible, visible | Virgin"
+        },
+        {
+          "url": "https://www.alpino.eu/es/obras-del-museo/javier-lago-adrover",
+          "title": "Javier Lago Adrover | Alpino® Oficial"
+        },
+        {
+          "url": "https://www.wwf.eu/?1014116/Unregulated-fishing-on-the-high-seas-of-the-Indian-Ocean",
+          "title": "Unregulated fishing on the high seas of the Indian Ocean | WWF"
+        },
+        {
+          "url": "http://www.deepsea9.taipei/index.php/2020/06/03/eyeoftheseas/",
+          "title": "台灣的海洋之眼 - Advanced Computation Laboratory"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "articles-books",
       "bookmarks": [
         {
           "url": "https://socialjusticeparenting.com/",
@@ -299,29 +321,7 @@
       "count": 4
     },
     {
-      "name": "legal-privacy-policy",
-      "bookmarks": [
-        {
-          "url": "https://celebrityvoicechanger.com/privacy",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "https://nplayer.com/privacy-policy.html",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "https://www.phoneduo.app/privacy.html",
-          "title": "Privacy"
-        },
-        {
-          "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
-          "title": "void"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "media-and-entertainment",
+      "name": "entertainment-media",
       "bookmarks": [
         {
           "url": "https://www.goal.com/en",
@@ -338,6 +338,28 @@
         {
           "url": "https://people.com/sweepstakes/",
           "title": "Sweepstakes | PEOPLE"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "legal-privacy-policy",
+      "bookmarks": [
+        {
+          "url": "https://www.phoneduo.app/privacy.html",
+          "title": "Privacy"
+        },
+        {
+          "url": "https://celebrityvoicechanger.com/privacy",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "https://nplayer.com/privacy-policy.html",
+          "title": "Privacy Policy"
+        },
+        {
+          "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
+          "title": "void"
         }
       ],
       "count": 4
@@ -365,7 +387,7 @@
       "count": 4
     },
     {
-      "name": "shopping-apparel-and-accessories",
+      "name": "shopping-apparel-accessories",
       "bookmarks": [
         {
           "url": "https://www.catherinewalker.com/",
@@ -409,7 +431,7 @@
       "count": 4
     },
     {
-      "name": "travel-and-leisure",
+      "name": "travel-leisure",
       "bookmarks": [
         {
           "url": "https://www.cabq.gov/culturalservices/biopark",
@@ -426,28 +448,6 @@
         {
           "url": "https://www.nps.gov/yell/planyourvisit/things2do.htm",
           "title": "Things To Do - Yellowstone National Park (U.S. National Park Service)"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "art-and-design",
-      "bookmarks": [
-        {
-          "url": "https://www.alpino.eu/es/obras-del-museo/javier-lago-adrover",
-          "title": "Javier Lago Adrover | Alpino® Oficial"
-        },
-        {
-          "url": "http://www.deepsea9.taipei/index.php/2020/06/03/eyeoftheseas/",
-          "title": "台灣的海洋之眼 - Advanced Computation Laboratory"
-        },
-        {
-          "url": "https://www.wwf.eu/?1014116/Unregulated-fishing-on-the-high-seas-of-the-Indian-Ocean",
-          "title": "Unregulated fishing on the high seas of the Indian Ocean | WWF"
-        },
-        {
-          "url": "https://www.virgin.com/virgin-unite/latest/how-climate-trace-is-making-the-invisible-visible",
-          "title": "How Climate TRACE is making the invisible, visible | Virgin"
         }
       ],
       "count": 4
@@ -471,43 +471,7 @@
       "count": 3
     },
     {
-      "name": "health-and-wellness",
-      "bookmarks": [
-        {
-          "url": "http://www.curavet.com/",
-          "title": "Curavet by Curatronic | PEMF Therapy for Horses"
-        },
-        {
-          "url": "https://health.youtube/",
-          "title": "YouTube Health - Accessible Public Health Information"
-        },
-        {
-          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Portions-and-Serving-Sizes.aspx",
-          "title": "Portions and Serving Sizes - HealthyChildren.org"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "hobbies-and-crafts",
-      "bookmarks": [
-        {
-          "url": "http://onlinechessstrategy.com/",
-          "title": "Online Chess Strategy"
-        },
-        {
-          "url": "https://www.seamwork.com/tutorials/how-to-bind-a-neckline",
-          "title": "Seamwork"
-        },
-        {
-          "url": "https://starcraft.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8?file=StarCraft+2+-+Adjutant+%28Terran+Advisor%29+Quotes+%28KR%29",
-          "title": "StarCraft 2 Wiki | Fandom"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "recipes-food",
+      "name": "food-recipes",
       "bookmarks": [
         {
           "url": "https://www.bbcgoodfood.com/recipes/chicken-tikka-masala",
@@ -520,6 +484,42 @@
         {
           "url": "https://myfoodstory.com/",
           "title": "Quick and Easy Indian Recipes - My Food Story"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "health-wellness",
+      "bookmarks": [
+        {
+          "url": "http://www.curavet.com/",
+          "title": "Curavet by Curatronic | PEMF Therapy for Horses"
+        },
+        {
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Portions-and-Serving-Sizes.aspx",
+          "title": "Portions and Serving Sizes - HealthyChildren.org"
+        },
+        {
+          "url": "https://health.youtube/",
+          "title": "YouTube Health - Accessible Public Health Information"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-crafts",
+      "bookmarks": [
+        {
+          "url": "http://onlinechessstrategy.com/",
+          "title": "Online Chess Strategy"
+        },
+        {
+          "url": "https://www.seamwork.com/tutorials/how-to-bind-a-neckline",
+          "title": "Seamwork"
+        },
+        {
+          "url": "https://starcraft.fandom.com/ko/wiki/%EB%8C%80%EB%AC%B8?file=StarCraft+2+-+Adjutant+%28Terran+Advisor%29+Quotes+%28KR%29",
+          "title": "StarCraft 2 Wiki | Fandom"
         }
       ],
       "count": 3
@@ -543,7 +543,7 @@
       "count": 3
     },
     {
-      "name": "shopping-home-and-tools",
+      "name": "shopping-home-tools",
       "bookmarks": [
         {
           "url": "https://profiwerkzeug-shop.at/product/bit-set-inbus-torx-vielzahn-40-tlg-verke/",

@@ -4,7 +4,7 @@
       "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://aljazeera.com/economy/",
+          "url": "https://www.aljazeera.com/economy/",
           "title": "Economy | Today's latest from Al Jazeera"
         },
         {
@@ -165,8 +165,16 @@
       "count": 8
     },
     {
-      "name": "non-profit-advocacy",
+      "name": "nonprofit-advocacy",
       "bookmarks": [
+        {
+          "url": "https://queertactics.tumblr.com/",
+          "title": "@queertactics on Tumblr"
+        },
+        {
+          "url": "http://smartgivers.org/",
+          "title": "Charities Review Council: Where Donors and Nonprofits Meet"
+        },
         {
           "url": "https://pageantofhope.org/donate",
           "title": "Donate - Pageant of Hope"
@@ -176,16 +184,12 @@
           "title": "Pillsbury United Communities"
         },
         {
-          "url": "https://sagaeducation.org/",
+          "url": "https://www.sagaeducation.org/",
           "title": "Saga Education - High-Impact Tutoring Resources, Services, & Technology"
         },
         {
           "url": "https://www.thetorturedatabase.org/search/apachesolr_search",
           "title": "Search | www.thetorturedatabase.org"
-        },
-        {
-          "url": "http://smartgivers.org/",
-          "title": "Charities Review Council: Where Donors and Nonprofits Meet"
         },
         {
           "url": "https://fortunesociety.org/",
@@ -194,48 +198,6 @@
         {
           "url": "http://www.voicesforracialjustice.org/",
           "title": "Voices for Racial Justice"
-        },
-        {
-          "url": "https://queertactics.tumblr.com/",
-          "title": "@queertactics on Tumblr"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "software-general-tools",
-      "bookmarks": [
-        {
-          "url": "https://cloud.google.com/",
-          "title": "Cloud Computing Services | Google Cloud"
-        },
-        {
-          "url": "https://crontab.guru/",
-          "title": "Crontab.guru - The cron schedule expression generator"
-        },
-        {
-          "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
-        },
-        {
-          "url": "https://it.wordpress.org/plugins/gdpr-cookie-compliance/",
-          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Italia"
-        },
-        {
-          "url": "https://desktop.github.com/",
-          "title": "GitHub Desktop | Simple collaboration from your desktop · GitHub"
-        },
-        {
-          "url": "https://www.onenote.com/",
-          "title": "Microsoft OneNote | The digital note-taking app for your devices"
-        },
-        {
-          "url": "https://ombi.io/",
-          "title": "Ombi - Media Request System"
-        },
-        {
-          "url": "https://powerautomate.microsoft.com/",
-          "title": "Power Automate: Intelligent Robotic Process Automation | Microsoft Power Platform"
         }
       ],
       "count": 8
@@ -270,6 +232,40 @@
         {
           "url": "https://viirsland.gsfc.nasa.gov/index.html",
           "title": "VIIRS Land Team"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "software-general-tools",
+      "bookmarks": [
+        {
+          "url": "https://crontab.guru/",
+          "title": "Crontab.guru - The cron schedule expression generator"
+        },
+        {
+          "url": "https://it.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org Italia"
+        },
+        {
+          "url": "https://el.wordpress.org/plugins/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Πρόσθετο WordPress | WordPress.org Ελληνικά"
+        },
+        {
+          "url": "https://desktop.github.com/",
+          "title": "GitHub Desktop | Simple collaboration from your desktop · GitHub"
+        },
+        {
+          "url": "https://www.onenote.com/",
+          "title": "Microsoft OneNote | The digital note-taking app for your devices"
+        },
+        {
+          "url": "https://ombi.io/",
+          "title": "Ombi - Media Request System"
+        },
+        {
+          "url": "https://powerautomate.microsoft.com/",
+          "title": "Power Automate: Intelligent Robotic Process Automation | Microsoft Power Platform"
         }
       ],
       "count": 7
@@ -398,16 +394,16 @@
           "title": "Coronavirus Disease 2019 (COVID-19) | COVID-19 | CDC"
         },
         {
-          "url": "http://www.thegymla.com/",
-          "title": "The GYM L.A. | Your Ultimate Training Facility | 11567 Santa Monica Boulevard, Los Angeles, CA, USA"
-        },
-        {
           "url": "http://www.nwica.org",
           "title": "Homepage | National WIC Association"
         },
         {
           "url": "https://scienceforhealth.fr/sante-et-pathologies-passent-par-laxe-intestin-cerveau/",
           "title": "Santé et pathologies passent par l'axe intestin-cerveau - Yakult SfH"
+        },
+        {
+          "url": "http://www.thegymla.com/",
+          "title": "The GYM L.A. | Your Ultimate Training Facility | 11567 Santa Monica Boulevard, Los Angeles, CA, USA"
         },
         {
           "url": "https://jadedragonapothecary.com/products/yoni-steam-herbs",
@@ -443,7 +439,7 @@
       "count": 5
     },
     {
-      "name": "design-tools-resources",
+      "name": "design-resources-tools",
       "bookmarks": [
         {
           "url": "https://www.uxmatters.com/mt/archives/2007/01/applying-color-theory-to-digital-displays.php#:~:text=On%20a%20black%20background,%20the,text%20on%20a%20white%20background",
@@ -547,7 +543,7 @@
         },
         {
           "url": "https://www.uffizi.it/en/online-tickets",
-          "title": "Uffizi Gallery Online Tickets Information"
+          "title": "void"
         }
       ],
       "count": 4
@@ -643,6 +639,6 @@
       "count": 3
     }
   ],
-  "total_bookmarks": 134,
+  "total_bookmarks": 125,
   "num_folders": 23
 }

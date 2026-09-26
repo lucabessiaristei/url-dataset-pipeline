@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "blogs-news-articles",
+      "name": "news-blogs-articles",
       "bookmarks": [
         {
           "url": "https://monirulalam.net/2011/10/21/a-villagers-daily-life-in-keranigang/",
@@ -47,50 +47,8 @@
       "count": 10
     },
     {
-      "name": "company-information-services",
+      "name": "technology-development-resources",
       "bookmarks": [
-        {
-          "url": "https://support.springer.com/en/support/solutions/articles/6000206179-contacting-us",
-          "title": "Contact Customer Support : Springer Support"
-        },
-        {
-          "url": "https://elmnt13.com/",
-          "title": "Elmnt13 - Marketing | Management"
-        },
-        {
-          "url": "https://www.fox.com/privacy-policy",
-          "title": "FOX One - Stream the Best of FOX TV Shows, Movies, News, Sports & Documentaries"
-        },
-        {
-          "url": "http://www.compassinterpreters.org/",
-          "title": "Interpretation Services For Utica Residents | The Center"
-        },
-        {
-          "url": "http://www.onepixeldev.com",
-          "title": "One Pixel Dev"
-        },
-        {
-          "url": "https://corporate.bestbuy.com/our-commitments/",
-          "title": "Our Goals - Best Buy Corporate News and Information"
-        },
-        {
-          "url": "https://www.theproteinbar.com/",
-          "title": "Healthy Restaurant & Franchise Opps. | Protein Bar & Kitchen"
-        },
-        {
-          "url": "https://www.disneyplus.com/legal/subscriber-agreement",
-          "title": "Subscriber Agreement | Disney+"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "development-technology-resources",
-      "bookmarks": [
-        {
-          "url": "https://wiki.muc.ccc.de/start?image=public_pics%3Aherz.jpg&tab_details=view&do=media&tab_files=files&ns=reprap%3Aprints",
-          "title": "Making sure you're not a bot!"
-        },
         {
           "url": "https://jsonformatter.org/json-editor",
           "title": "Best JSON Editor Online"
@@ -112,6 +70,10 @@
           "title": "Mail Archives: djgpp/1997/10/09"
         },
         {
+          "url": "https://wiki.muc.ccc.de/start?image=public_pics%3Aherz.jpg&tab_details=view&do=media&tab_files=files&ns=reprap%3Aprints",
+          "title": "Making sure you're not a bot!"
+        },
+        {
           "url": "https://wsts.atis.org/presentation/network-upgrade-option-to-simplify-ptp-slave-operation/",
           "title": "Network Upgrade Option to Simplify PTP Slave Operation - Workshop on Synchronization and Timing Systems"
         },
@@ -131,30 +93,42 @@
       "count": 10
     },
     {
-      "name": "hobbies-leisure-guides",
+      "name": "company-information-services",
       "bookmarks": [
         {
-          "url": "https://games.tampabay.com",
-          "title": "Crosswords, Puzzles & Games"
+          "url": "https://support.springer.com/en/support/solutions/articles/6000206179-contacting-us",
+          "title": "Contact Customer Support : Springer Support"
         },
         {
-          "url": "https://www.artofmanliness.com/skills/manly-know-how/how-to-make-a-leather-belt/",
-          "title": "How to Make a Leather Belt | The Art of Manliness"
+          "url": "https://elmnt13.com/",
+          "title": "Elmnt13 - Marketing | Management"
         },
         {
-          "url": "https://mcfourons.be/prod/index.php?LG=FR&ID=34&PHPSESSID=dc38199f48b8cbed08658381c463966d",
-          "title": "Moto-club des Fourons"
+          "url": "https://www.fox.com/privacy-policy",
+          "title": "FOX One - Stream the Best of FOX TV Shows, Movies, News, Sports & Documentaries"
         },
         {
-          "url": "https://www.uci.org/road/calendar",
-          "title": "Road | UCI"
+          "url": "https://www.theproteinbar.com/",
+          "title": "Healthy Restaurant & Franchise Opps. | Protein Bar & Kitchen"
         },
         {
-          "url": "https://www.bowlingcentrum-krnov.cz/news/en-skola-bowlingu/",
-          "title": "Škola Bowlingu :: Bowlingové centrum Krnov"
+          "url": "http://www.compassinterpreters.org/",
+          "title": "Interpretation Services For Utica Residents | The Center"
+        },
+        {
+          "url": "http://www.onepixeldev.com",
+          "title": "One Pixel Dev"
+        },
+        {
+          "url": "https://corporate.bestbuy.com/our-commitments/",
+          "title": "Our Goals - Best Buy Corporate News and Information"
+        },
+        {
+          "url": "https://www.disneyplus.com/legal/subscriber-agreement",
+          "title": "Subscriber Agreement | Disney+"
         }
       ],
-      "count": 5
+      "count": 8
     },
     {
       "name": "environmental-science-data",
@@ -183,7 +157,7 @@
       "count": 5
     },
     {
-      "name": "general-tools-reference",
+      "name": "general-reference-tools",
       "bookmarks": [
         {
           "url": "https://burst.shopify.com/",
@@ -209,6 +183,54 @@
       "count": 5
     },
     {
+      "name": "hobbies-leisure-guides",
+      "bookmarks": [
+        {
+          "url": "https://games.tampabay.com",
+          "title": "Crosswords, Puzzles & Games"
+        },
+        {
+          "url": "https://www.artofmanliness.com/skills/manly-know-how/how-to-make-a-leather-belt/",
+          "title": "How to Make a Leather Belt | The Art of Manliness"
+        },
+        {
+          "url": "https://mcfourons.be/prod/index.php?LG=FR&ID=34&PHPSESSID=dc38199f48b8cbed08658381c463966d",
+          "title": "Moto-club des Fourons"
+        },
+        {
+          "url": "https://www.uci.org/road/calendar",
+          "title": "Road | UCI"
+        },
+        {
+          "url": "https://www.bowlingcentrum-krnov.cz/news/en-skola-bowlingu/",
+          "title": "Škola Bowlingu :: Bowlingové centrum Krnov"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "social-issues-family-resources",
+      "bookmarks": [
+        {
+          "url": "https://violenceagainstchildren.un.org/",
+          "title": "Home | Special Representative of the Secretary-General on Violence Against Children"
+        },
+        {
+          "url": "https://www.grandin.com/ritual/kosher.box.variables.time.lose.sensibility.html",
+          "title": "Kosher Box Operation, Design, and Cutting Technique will Affect the Time Required for Cattle to Lose Consciousness"
+        },
+        {
+          "url": "https://g.co/yourfamily",
+          "title": "Sign in - Google Accounts"
+        },
+        {
+          "url": "https://www.urbia.de/forum/6-kids-schule/2047473-wo-schulranzen-kaufen",
+          "title": "Wo Schulranzen kaufen?? | Forum Kids & Schule - urbia.de"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "shopping-products-guides",
       "bookmarks": [
         {
@@ -225,28 +247,6 @@
         }
       ],
       "count": 3
-    },
-    {
-      "name": "social-issues-family-resources",
-      "bookmarks": [
-        {
-          "url": "https://g.co/yourfamily",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "url": "https://www.grandin.com/ritual/kosher.box.variables.time.lose.sensibility.html",
-          "title": "Kosher Box Operation, Design, and Cutting Technique will Affect the Time Required for Cattle to Lose Consciousness"
-        },
-        {
-          "url": "https://violenceagainstchildren.un.org/",
-          "title": "Home | Special Representative of the Secretary-General on Violence Against Children"
-        },
-        {
-          "url": "https://www.urbia.de/forum/6-kids-schule/2047473-wo-schulranzen-kaufen",
-          "title": "Wo Schulranzen kaufen?? | Forum Kids & Schule - urbia.de"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "local-business-directories",

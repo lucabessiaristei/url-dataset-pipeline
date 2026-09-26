@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://appetiteforchangemn.org/",
@@ -10,10 +10,6 @@
         {
           "url": "https://joincountmein.org/",
           "title": "Count Me In"
-        },
-        {
-          "url": "https://live.worldbank.org/",
-          "title": "We Livestream Events on International Development | World Bank Live"
         },
         {
           "url": "https://namati.org/",
@@ -26,6 +22,10 @@
         {
           "url": "https://www.falfoundation.org/",
           "title": "The Francine A. LeFrak Foundation"
+        },
+        {
+          "url": "https://live.worldbank.org/",
+          "title": "We Livestream Events on International Development | World Bank Live"
         },
         {
           "url": "https://www.familyleague.org/",
@@ -58,12 +58,12 @@
           "title": "The wedding flowers you didn't think you could afford, until - Poppy"
         },
         {
-          "url": "https://www.sohadiamondco.com/blogs/fashion/when-something-old-becomes-something-new",
-          "title": "When Something Old Becomes Something New - Soha Diamond Co.™"
-        },
-        {
           "url": "https://www.vuelvoalsur.com.ar/productos/caligrafia-kit-completo-de-bowen-ann/",
           "title": "void"
+        },
+        {
+          "url": "https://www.sohadiamondco.com/blogs/fashion/when-something-old-becomes-something-new",
+          "title": "When Something Old Becomes Something New - Soha Diamond Co.™"
         }
       ],
       "count": 7
@@ -72,24 +72,24 @@
       "name": "travel-recreation",
       "bookmarks": [
         {
-          "url": "https://www.grandafrika.cz/zajezd/stopovani-simpanzu-v-kibale",
-          "title": "safari v Ugandě | CK Grand Afrika"
-        },
-        {
-          "url": "https://historicomaha.com/frtomaha.htm",
+          "url": "http://historicomaha.com/frtomaha.htm",
           "title": "Fort Omaha - Omaha, Nebraska, USA"
-        },
-        {
-          "url": "https://www.mytaxiindia.com/",
-          "title": "Outstation Taxi Booking |Online Taxi & Car Rental Service| Mytaxiindia"
         },
         {
           "url": "https://www.vagabond.se/europa/grekland/nonstopflyg-till-kreta",
           "title": "Nonstopflyg till Kreta - Vagabond"
         },
         {
+          "url": "http://www.mytaxiindia.com/",
+          "title": "Outstation Taxi Booking |Online Taxi & Car Rental Service| Mytaxiindia"
+        },
+        {
           "url": "https://montcherand.ch/pilier-public/avis-d-enquete/146-avis-d-enquete-08-12-2021",
           "title": "Pilier Public - Commune de Montcherand"
+        },
+        {
+          "url": "https://www.grandafrika.cz/zajezd/stopovani-simpanzu-v-kibale",
+          "title": "safari v Ugandě | CK Grand Afrika"
         },
         {
           "url": "https://www.skiutah.com/",
@@ -106,8 +106,12 @@
       "name": "misc-web-archive",
       "bookmarks": [
         {
-          "url": "https://www.moodworks.com/",
+          "url": "http://www.moodworks.com",
           "title": "Domain parking page"
+        },
+        {
+          "url": "http://persian.goscas.com/china-gkf_c12zy_circularly_polarized_universal_ku_band_twin_lnbf_0_8db_noise_figure-11136337.html",
+          "title": "DropCatch.com"
         },
         {
           "url": "https://www.gofundme.com/f/in-memory-of-stephen-c-chikwem",
@@ -120,10 +124,6 @@
         {
           "url": "https://secure.acceptiva.com/?cst=a61726",
           "title": "Payment Form Not Available - Acceptiva"
-        },
-        {
-          "url": "https://persian.goscas.com/china-gkf_c12zy_circularly_polarized_universal_ku_band_twin_lnbf_0_8db_noise_figure-11136337.html",
-          "title": "DropCatch.com"
         },
         {
           "url": "https://www.surveymonkey.com/r/JFC9TVN",
@@ -162,15 +162,15 @@
       "name": "food-recipes",
       "bookmarks": [
         {
-          "url": "https://www.ricettaricette.com/",
+          "url": "http://www.ricettaricette.com/",
           "title": "Cute And Fluffy"
         },
         {
-          "url": "https://www.directaccessrecipes.com/index.jsp?recId=85933",
-          "title": "Searchable Recipe Database - Red Grits and Shrimp"
+          "url": "https://www.woodfordreserve.com/",
+          "title": "Homepage - Woodford Reserve"
         },
         {
-          "url": "https://www.cucinarefacile.com/",
+          "url": "http://www.cucinarefacile.com/",
           "title": "Ricette di cucina e video ricette"
         },
         {
@@ -178,8 +178,8 @@
           "title": "Salade de navets - Centre de luxopuncture Géraldine Asselin sur Genève et Annecy. Perdez du poids, Arrêtez de fumer, diminuez votre stress grâce à la luxopuncture."
         },
         {
-          "url": "https://www.woodfordreserve.com/",
-          "title": "Homepage - Woodford Reserve"
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85933",
+          "title": "Searchable Recipe Database - Red Grits and Shrimp"
         }
       ],
       "count": 5
@@ -200,7 +200,7 @@
           "title": "JEWISH REACTION - AN AMERICAN PICKLE Seth Rogen Movie! Anti-Semitic? Funny? Good? - My Jewish Mommy Life"
         },
         {
-          "url": "https://www.tntdrama.com/",
+          "url": "http://www.tntdrama.com/",
           "title": "Warner Bros. Discovery"
         },
         {
@@ -214,15 +214,7 @@
       "name": "organizations-professional",
       "bookmarks": [
         {
-          "url": "https://www.abs.gov.au/",
-          "title": "Australian Bureau of Statistics"
-        },
-        {
-          "url": "https://www.coolandcomfort.be/nl/agenda/item/1063/15th-iir-gustav-lorentzen-conference-on-working-fluids",
-          "title": "Agenda | Cool and Comfort"
-        },
-        {
-          "url": "https://www.tbcci.com/about",
+          "url": "http://www.tbcci.com/about",
           "title": "..:: Taylor Bros Construction ::.."
         },
         {
@@ -230,7 +222,15 @@
           "title": "About Us | UpState New York Black Chamber of Commerce"
         },
         {
-          "url": "https://www.emro.who.int/index.html",
+          "url": "https://www.coolandcomfort.be/nl/agenda/item/1063/15th-iir-gustav-lorentzen-conference-on-working-fluids",
+          "title": "Agenda | Cool and Comfort"
+        },
+        {
+          "url": "http://www.abs.gov.au/",
+          "title": "Australian Bureau of Statistics"
+        },
+        {
+          "url": "http://www.emro.who.int/index.html",
           "title": "WHO EMRO - Home"
         }
       ],
@@ -274,12 +274,12 @@
           "title": "File types - Runtime | Bun Docs"
         },
         {
-          "url": "https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext",
-          "title": "Google's Hybrid Approach to Research - Communications of the ACM"
-        },
-        {
           "url": "https://googleresearch.blogspot.com/2015/04/google-handwriting-input-in-82.html",
           "title": "Google Handwriting Input in 82 languages on your Android mobile device"
+        },
+        {
+          "url": "https://cacm.acm.org/magazines/2012/7/151226-googles-hybrid-approach-to-research/fulltext",
+          "title": "Google's Hybrid Approach to Research - Communications of the ACM"
         },
         {
           "url": "https://ui-patterns.com/",
@@ -300,21 +300,21 @@
           "title": "Charles III and Britain's oldest ascending monarchs | Sky HISTORY TV Channel"
         },
         {
-          "url": "https://voinaimir.info/tag/%D1%84%D0%B0%D0%BC%D0%B8%D0%BD%D0%B8%D0%B7%D1%8A%D0%BC/",
-          "title": "фаминизъм Архиви - Война и мир"
+          "url": "http://www.johntemple.net/2010/04/more-on-peer-news-and-comments.html?showComment=1495091954258",
+          "title": "TEMPLE TALK: More on Peer News and comments: An interview with Jay Rosen"
         },
         {
-          "url": "https://www.johntemple.net/2010/04/more-on-peer-news-and-comments.html?showComment=1495091954258",
-          "title": "TEMPLE TALK: More on Peer News and comments: An interview with Jay Rosen"
+          "url": "https://voinaimir.info/tag/%D1%84%D0%B0%D0%BC%D0%B8%D0%BD%D0%B8%D0%B7%D1%8A%D0%BC/",
+          "title": "фаминизъм Архиви - Война и мир"
         }
       ],
       "count": 4
     },
     {
-      "name": "hobby-gaming",
+      "name": "gaming-hobbies",
       "bookmarks": [
         {
-          "url": "https://cardgames.io/ginrummy/",
+          "url": "http://cardgames.io/ginrummy/",
           "title": "Gin Rummy | Play it online"
         },
         {
@@ -322,7 +322,7 @@
           "title": "PJ Masks Official Apps - PJ Masks"
         },
         {
-          "url": "https://www.russprince.com/cabinet/",
+          "url": "http://www.russprince.com/cabinet/",
           "title": "Russ Mame Cabinet"
         },
         {
@@ -336,6 +336,10 @@
       "name": "sports-leisure",
       "bookmarks": [
         {
+          "url": "https://www.transfermarkt.com/",
+          "title": "Football transfers, rumours, market values and news | Transfermarkt"
+        },
+        {
           "url": "https://sportshirts.net/nationaleshirts-marokko/",
           "title": "Nationaleshirts-marokko - World of Sportshirts"
         },
@@ -346,10 +350,6 @@
         {
           "url": "https://www.bowlingcentrum-krnov.cz/news/en-skola-bowlingu/",
           "title": "Škola Bowlingu :: Bowlingové centrum Krnov"
-        },
-        {
-          "url": "https://www.transfermarkt.com/",
-          "title": "Football transfers, rumours, market values and news | Transfermarkt"
         }
       ],
       "count": 4
@@ -362,11 +362,11 @@
           "title": "EY login - My EY"
         },
         {
-          "url": "https://safety.google/",
+          "url": "https://safety.google/?utm_source=about.google&utm_medium=referral&utm_campaign=site-switcher-nav",
           "title": "Google Safety Center - Stay Safer Online"
         },
         {
-          "url": "https://www.jedasoftwaresystems.com/",
+          "url": "http://www.jedasoftwaresystems.com",
           "title": "Jedasoft"
         },
         {
@@ -377,25 +377,7 @@
       "count": 4
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://daluckdragon26.tumblr.com/",
-          "title": "@daluckdragon26 on Tumblr"
-        },
-        {
-          "url": "https://fishka3-blog.tumblr.com/",
-          "title": "@fishka3-blog on Tumblr"
-        },
-        {
-          "url": "https://queertactics.tumblr.com/",
-          "title": "@queertactics on Tumblr"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "media-news",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://www.askanews.it/cultura/2019/02/01/digitalife-in-tour-nei-cinema-in-italia-pn_20190201_00112/",
@@ -416,29 +398,47 @@
       "name": "people-portfolios",
       "bookmarks": [
         {
-          "url": "https://www.arlenealda.com/AboutTheAuthor.html",
+          "url": "http://www.arlenealda.com/AboutTheAuthor.html",
           "title": "Arlene Alda Author and Photographer"
         },
         {
-          "url": "https://www.neilscibelli.com/",
+          "url": "http://www.neilscibelli.com/",
           "title": "Makeup Artist Neil Scibelli | Official Website"
         },
         {
-          "url": "https://studio-still.net/still/event/sessions/archive/s2022.html",
+          "url": "http://studio-still.net/still/event/sessions/archive/s2022.html",
           "title": "Photo Session Archive | Studio Still Official Website"
         }
       ],
       "count": 3
     },
     {
-      "name": "reference-legal-docs",
+      "name": "personal-blogs",
       "bookmarks": [
         {
-          "url": "https://www.nasa.gov/multimedia/guidelines/index.html",
+          "url": "https://daluckdragon26.tumblr.com/",
+          "title": "@daluckdragon26 on Tumblr"
+        },
+        {
+          "url": "https://fishka3-blog.tumblr.com/",
+          "title": "@fishka3-blog on Tumblr"
+        },
+        {
+          "url": "https://queertactics.tumblr.com/",
+          "title": "@queertactics on Tumblr"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "reference-docs-legal",
+      "bookmarks": [
+        {
+          "url": "http://www.nasa.gov/multimedia/guidelines/index.html",
           "title": "Guidelines for using NASA Images and Media Guidelines"
         },
         {
-          "url": "https://vuce.gub.uy/pesc2/",
+          "url": "http://vuce.gub.uy/pesc2/",
           "title": "PESC / BATE - DINARA: certificado de ingreso sanitario para productos de la pesca - VUCE"
         },
         {
@@ -460,7 +460,7 @@
           "title": "EMPRES-i +"
         },
         {
-          "url": "https://www.comlmaps.org/how-to/layers-and-resources/boundaries/marine-ecoregions-of-the-world",
+          "url": "http://www.comlmaps.org/how-to/layers-and-resources/boundaries/marine-ecoregions-of-the-world",
           "title": "Marine Ecoregions of the World (MEOW) - Census of Marine Life Maps and Visualization"
         }
       ],
@@ -496,13 +496,13 @@
           "title": "Free Online Learning at GCFGlobal"
         },
         {
-          "url": "https://hourofcode.com/",
+          "url": "https://hourofcode.com",
           "title": "Un'ora: Ignite. Ispira. Codice."
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 98,
+  "total_bookmarks": 94,
   "num_folders": 21
 }

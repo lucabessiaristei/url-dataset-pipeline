@@ -28,10 +28,6 @@
           "title": "Fair Trade Certified - Sourcing Program from Fair Trade USA"
         },
         {
-          "url": "https://foursquare.com/",
-          "title": "The Future of Geospatial Technology | Foursquare"
-        },
-        {
           "url": "https://www.postcodeloterij.nl/",
           "title": "Nationale Postcode Loterij"
         },
@@ -42,6 +38,10 @@
         {
           "url": "https://www.electronics.sony.com",
           "title": "Sony Electronics - Televisions, Audio, Cameras, Mobile, Video Cameras"
+        },
+        {
+          "url": "https://foursquare.com/",
+          "title": "The Future of Geospatial Technology | Foursquare"
         }
       ],
       "count": 10
@@ -115,7 +115,7 @@
       "count": 7
     },
     {
-      "name": "non-profit-philanthropy",
+      "name": "nonprofit-philanthropy",
       "bookmarks": [
         {
           "url": "http://www.cybergrants.com/target/Foundation-General-Submission-Form",
@@ -149,7 +149,7 @@
       "count": 7
     },
     {
-      "name": "academic-education-research",
+      "name": "academic-research-education",
       "bookmarks": [
         {
           "url": "https://dukeforest.duke.edu/",
@@ -209,7 +209,7 @@
       "count": 6
     },
     {
-      "name": "tech-guides-support",
+      "name": "tech-support-guides",
       "bookmarks": [
         {
           "url": "https://ms.portal.azure.com/?l=en.en-us#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview",

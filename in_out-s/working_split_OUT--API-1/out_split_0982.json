@@ -4,44 +4,44 @@
       "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://www.theatlantic.com/technology/",
-          "title": "Technology - The Atlantic"
-        },
-        {
-          "url": "https://baymard.com/blog",
-          "title": "Ecommerce UX Research Articles - Baymard Institute"
-        },
-        {
           "url": "https://fortune.com/2021/04/02/aclu-shares-data-facebook-third-parties-digital-privacy/",
           "title": "ACLU, a defender of digital privacy, reveals that it shares user data with Facebook | Fortune"
-        },
-        {
-          "url": "https://forms.dotdashmeredith.com/people-royals",
-          "title": "PEOPLE Royals Newsletter: Sign Up"
-        },
-        {
-          "url": "https://hbr.org/2013/12/how-diversity-can-drive-innovation",
-          "title": "How Diversity Can Drive Innovation"
-        },
-        {
-          "url": "https://www.lagazettedescommunes.com/449633/et-si-on-parlait-enfin-du-travail-dans-la-fonction-publique/",
-          "title": "Et si on parlait (enfin) du travail dans la fonction publique !"
-        },
-        {
-          "url": "https://www.bhg.com/the-garden-issue-dave-and-jenny-marrs-7106279",
-          "title": "The Garden Issue Featuring Dave and Jenny Marrs"
         },
         {
           "url": "https://placeanad.chicagotribune.com/whos-who#nt=secondarynavbar",
           "title": "Chicago Tribune"
         },
         {
-          "url": "http://tomperrotta.net/tracy-flick-cant-win/",
-          "title": "Tracy Flick Can't Win"
-        },
-        {
           "url": "https://www.tucsonweekly.com/tucson/home-run/Content?oid=22907546",
           "title": "Content Mania!"
+        },
+        {
+          "url": "https://baymard.com/blog",
+          "title": "Ecommerce UX Research Articles - Baymard Institute"
+        },
+        {
+          "url": "https://www.lagazettedescommunes.com/449633/et-si-on-parlait-enfin-du-travail-dans-la-fonction-publique/",
+          "title": "Et si on parlait (enfin) du travail dans la fonction publique !"
+        },
+        {
+          "url": "https://hbr.org/2013/12/how-diversity-can-drive-innovation",
+          "title": "How Diversity Can Drive Innovation"
+        },
+        {
+          "url": "https://forms.dotdashmeredith.com/people-royals",
+          "title": "PEOPLE Royals Newsletter: Sign Up"
+        },
+        {
+          "url": "https://www.theatlantic.com/technology/",
+          "title": "Technology - The Atlantic"
+        },
+        {
+          "url": "https://www.bhg.com/the-garden-issue-dave-and-jenny-marrs-7106279",
+          "title": "The Garden Issue Featuring Dave and Jenny Marrs"
+        },
+        {
+          "url": "http://tomperrotta.net/tracy-flick-cant-win/",
+          "title": "Tracy Flick Can't Win"
         },
         {
           "url": "https://www.wjbf.com/news/crime-news/woman-behind-bars-after-allegedly-driving-suv-into-popeyes-building/",
@@ -54,8 +54,24 @@
       "name": "government-public-services",
       "bookmarks": [
         {
+          "url": "https://www.justice.gov",
+          "title": "Department of Justice | Homepage | United States Department of Justice"
+        },
+        {
           "url": "https://doee.dc.gov/ecycle",
           "title": "Electronics Recycling | doee"
+        },
+        {
+          "url": "https://www.vegvesen.no/forerkort/",
+          "title": "Førerkort | Statens vegvesen"
+        },
+        {
+          "url": "http://zuk.pulawy.pl/tag/glekomp/",
+          "title": "GLEKOMP - Zakład Usług Komunalnych"
+        },
+        {
+          "url": "https://greeneletron.org.br/",
+          "title": "Green Eletron -"
         },
         {
           "url": "https://europa.eu/youreurope/citizens/index_en.htm",
@@ -66,35 +82,49 @@
           "title": "Ministerio de la Producción - PRODUCE - Plataforma del Estado Peruano"
         },
         {
-          "url": "https://greeneletron.org.br/",
-          "title": "Green Eletron -"
-        },
-        {
           "url": "https://in.usembassy.gov",
           "title": "U.S. Embassy and Consulates in India"
-        },
-        {
-          "url": "https://www.justice.gov",
-          "title": "Department of Justice | Homepage | United States Department of Justice"
-        },
-        {
-          "url": "https://www.vegvesen.no/forerkort/",
-          "title": "Førerkort | Statens vegvesen"
-        },
-        {
-          "url": "http://zuk.pulawy.pl/tag/glekomp/",
-          "title": "GLEKOMP - Zakład Usług Komunalnych"
         }
       ],
       "count": 8
     },
     {
-      "name": "arts-crafts-hobbies",
+      "name": "general-misc-resources",
       "bookmarks": [
         {
-          "url": "https://antarctic-art.de/portfolio/voegel/",
-          "title": "Vögel - Antarctic Art"
+          "url": "https://survey.medallia.com/?711-gr",
+          "title": "7-Eleven Survey"
         },
+        {
+          "url": "http://www.nborg.com",
+          "title": "nB0rg - Home"
+        },
+        {
+          "url": "https://barefootkitchenwitch.com/2008/05/google-hot-sa-1.html",
+          "title": "Private Site"
+        },
+        {
+          "url": "https://www.wyndhamhotels.com/ramada/kiev-ukraine/ramada-encore-kyiv/overview?CID=LC:RA::GGL:RIO:National:45388&amp;iata=00093796",
+          "title": "Ramada Encore by Wyndham Kyiv | Kiev, UA Hotels"
+        },
+        {
+          "url": "https://suzuki.oemdtc.com/category/recalls",
+          "title": "Recalls | Suzuki - OEMDTC"
+        },
+        {
+          "url": "https://lounge.nintendo.com/redirect/support",
+          "title": "Region & Language Selector - Support Site"
+        },
+        {
+          "url": "https://www.zee5.com/",
+          "title": "ZEE5 - Watch TV Shows, Originals, Movies & Live TV Online"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "hobbies-arts-crafts",
+      "bookmarks": [
         {
           "url": "https://www.creativeboom.com/",
           "title": "Art & Design Magazine for the Creative Industries | Creative Boom"
@@ -112,49 +142,49 @@
           "title": "Uni - nahtlust"
         },
         {
+          "url": "https://www.universparticulier.be/",
+          "title": "Univers Particulier | Librairie ésotérique à Bruxelles"
+        },
+        {
           "url": "https://www.sunshinequiltcorner.com/module/newsletter.htm?newsletterId=64488",
           "title": "void"
         },
         {
-          "url": "https://www.universparticulier.be/",
-          "title": "Univers Particulier | Librairie ésotérique à Bruxelles"
+          "url": "https://antarctic-art.de/portfolio/voegel/",
+          "title": "Vögel - Antarctic Art"
         }
       ],
       "count": 7
     },
     {
-      "name": "general-misc-resources",
+      "name": "ecommerce-products-info",
       "bookmarks": [
         {
-          "url": "https://barefootkitchenwitch.com/2008/05/google-hot-sa-1.html",
-          "title": "Private Site"
+          "url": "https://rusticplates.com/collections/50-state-sets/ham-radio",
+          "title": "50 State Set - RusticPlates"
         },
         {
-          "url": "https://lounge.nintendo.com/redirect/support",
-          "title": "Region & Language Selector - Support Site"
+          "url": "http://www.wallhung-gasboiler.com/china-easy_operation_gas_condensing_boiler_high_efficiency_for_hot_water_and_heating-11514573.html",
+          "title": "Easy Operation Gas Condensing Boiler High Efficiency For Hot Water And Heating"
         },
         {
-          "url": "http://www.nborg.com",
-          "title": "nB0rg - Home"
+          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
+          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
         },
         {
-          "url": "https://suzuki.oemdtc.com/category/recalls",
-          "title": "Recalls | Suzuki - OEMDTC"
+          "url": "https://www.theplantroomtas.com.au/pages/collection-delivery-shipping",
+          "title": "The Plant Room, Tasmania"
         },
         {
-          "url": "https://survey.medallia.com/?711-gr",
-          "title": "7-Eleven Survey"
+          "url": "https://www.paul.fr/default/viennoiserie/familliales?allergens_bis=16983%2C16986%2C17031",
+          "title": "Viennoiserie Familiales - Brioches - Cramiques - PAUL"
         },
         {
-          "url": "https://www.wyndhamhotels.com/ramada/kiev-ukraine/ramada-encore-kyiv/overview?CID=LC:RA::GGL:RIO:National:45388&amp;iata=00093796",
-          "title": "Ramada Encore by Wyndham Kyiv | Kiev, UA Hotels"
-        },
-        {
-          "url": "https://www.zee5.com/",
-          "title": "ZEE5 - Watch TV Shows, Originals, Movies & Live TV Online"
+          "url": "https://www.ninashoes.com/products/brando-black?_pos=1&_sid=f13941996&_ss=r",
+          "title": "Womens Brando-B Black Patent/Glass Crystal Minaudiere | Nina Shoes"
         }
       ],
-      "count": 7
+      "count": 6
     },
     {
       "name": "education-university-resources",
@@ -162,14 +192,6 @@
         {
           "url": "https://online.aub.edu.lb/Pages/index.html",
           "title": "AUB Online"
-        },
-        {
-          "url": "https://myhaven.lhup.edu/ICS/Registrar/Registration_Information_(General)_and_Schedules.jnz?pvt_8098c6d7-e616-45d5-8bc8-bc196570a141=List&pvt_5e1dd611-06f8-4c77-bbc9-3b897287d425=List&pvt_50e869b1-01bf-4236-a95f-547e375db930=Card&pvt_8e655245-e262-4093-967b-c6220e9784ea=Card",
-          "title": "My CommonwealthU | Commonwealth University"
-        },
-        {
-          "url": "https://www.opportunityculture.org/",
-          "title": "Opportunity Culture |"
         },
         {
           "url": "https://secure.donorschoose.org/credits",
@@ -182,77 +204,181 @@
         {
           "url": "https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell",
           "title": "Homepage - The University of Washington Bothell"
+        },
+        {
+          "url": "https://myhaven.lhup.edu/ICS/Registrar/Registration_Information_(General)_and_Schedules.jnz?pvt_8098c6d7-e616-45d5-8bc8-bc196570a141=List&pvt_5e1dd611-06f8-4c77-bbc9-3b897287d425=List&pvt_50e869b1-01bf-4236-a95f-547e375db930=Card&pvt_8e655245-e262-4093-967b-c6220e9784ea=Card",
+          "title": "My CommonwealthU | Commonwealth University"
+        },
+        {
+          "url": "https://www.opportunityculture.org/",
+          "title": "Opportunity Culture |"
         }
       ],
       "count": 6
     },
     {
-      "name": "e-commerce-products-info",
+      "name": "online-blogs-personal",
       "bookmarks": [
-        {
-          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
-          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
-        },
-        {
-          "url": "https://www.ninashoes.com/products/brando-black?_pos=1&_sid=f13941996&_ss=r",
-          "title": "Womens Brando-B Black Patent/Glass Crystal Minaudiere | Nina Shoes"
-        },
-        {
-          "url": "https://www.paul.fr/default/viennoiserie/familliales?allergens_bis=16983%2C16986%2C17031",
-          "title": "Viennoiserie Familiales - Brioches - Cramiques - PAUL"
-        },
-        {
-          "url": "https://rusticplates.com/collections/50-state-sets/ham-radio",
-          "title": "50 State Set - RusticPlates"
-        },
-        {
-          "url": "https://www.theplantroomtas.com.au/pages/collection-delivery-shipping",
-          "title": "The Plant Room, Tasmania"
-        },
-        {
-          "url": "http://www.wallhung-gasboiler.com/china-easy_operation_gas_condensing_boiler_high_efficiency_for_hot_water_and_heating-11514573.html",
-          "title": "Easy Operation Gas Condensing Boiler High Efficiency For Hot Water And Heating"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "online-personal-blogs",
-      "bookmarks": [
-        {
-          "url": "https://acs782.tumblr.com/post/144450686127",
-          "title": "Maryland moves to increase diversity in computer... - Stuff"
-        },
         {
           "url": "https://azekthi.tumblr.com/",
           "title": "@azekthi on Tumblr"
+        },
+        {
+          "url": "https://thequeenirieuniverse-blog1.tumblr.com/",
+          "title": "@thequeenirieuniverse-blog1 on Tumblr"
         },
         {
           "url": "https://hopefulkittykid.tumblr.com/",
           "title": "I am Who I am"
         },
         {
-          "url": "https://nash-in-the-sky-with-diamonds.tumblr.com/",
-          "title": "we don't sing about unicorns"
+          "url": "https://acs782.tumblr.com/post/144450686127",
+          "title": "Maryland moves to increase diversity in computer... - Stuff"
         },
         {
-          "url": "https://thequeenirieuniverse-blog1.tumblr.com/",
-          "title": "@thequeenirieuniverse-blog1 on Tumblr"
+          "url": "https://nash-in-the-sky-with-diamonds.tumblr.com/",
+          "title": "we don't sing about unicorns"
         }
       ],
       "count": 5
     },
     {
-      "name": "social-environmental-causes",
+      "name": "developer-technical-docs",
       "bookmarks": [
         {
-          "url": "https://doee.dc.gov/ecycle",
-          "title": "Electronics Recycling | doee"
+          "url": "https://api-docs.carto.com",
+          "title": "CARTO API Documentation"
         },
         {
-          "url": "https://greeneletron.org.br/",
-          "title": "Green Eletron -"
+          "url": "https://www.editorialmanager.com/one-earth",
+          "title": "Editorial Manager®"
         },
+        {
+          "url": "https://docs.mapbox.com/#maps",
+          "title": "Mapbox Docs"
+        },
+        {
+          "url": "https://lightgbm.readthedocs.io/en/stable/Python-Intro.html",
+          "title": "Python-package Introduction - LightGBM 4.6.0 documentation"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "sports-recreation-gear",
+      "bookmarks": [
+        {
+          "url": "https://www.top10wettenerfahrungen.com/wettquoten/fussball/",
+          "title": "Fussball Quotenvergleich 2025 ᐅ [TOP10] Fußball Wettquoten Heute"
+        },
+        {
+          "url": "https://www.vg.no/sport",
+          "title": "VG Sport - Alt om sport"
+        },
+        {
+          "url": "https://www.rya.org.uk/knowledge/safety",
+          "title": "Water Safety Advice | Home | RYA - Royal Yachting Association"
+        },
+        {
+          "url": "https://www.whatproswear.com/",
+          "title": "What Pros Wear: The Source for Pro Baseball Gloves, Cleats, Bats & Pro Basketball Shoes"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "account-management-logins",
+      "bookmarks": [
+        {
+          "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/publications/",
+          "title": "International Downtown Association"
+        },
+        {
+          "url": "https://my.accessportals.com/app/blk/login?redirectUrl=/us/individual?signInAppWithOkta=true",
+          "title": "Login"
+        },
+        {
+          "url": "https://ghop.page.link/signin-cta",
+          "title": "Sign in - Google Accounts"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "apple-developer-resources",
+      "bookmarks": [
+        {
+          "url": "https://training.apple.com/us/en/appdeveloper",
+          "title": "App Developer Training"
+        },
+        {
+          "url": "https://offers.applearcade.apple/?itscg=10000&itsct=arc-0-arc_ovp-hw_prop-apl-ref-220412",
+          "title": "Apple Arcade - Three Month Offer - Apple"
+        },
+        {
+          "url": "https://authors.apple.com",
+          "title": "Self-publish an ebook - Apple Books for Authors"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "cultural-institutions",
+      "bookmarks": [
+        {
+          "url": "https://eduardoaladren.com/de/?date=2020-4&t=list",
+          "title": "Den Norske Opera Oslo - Eduardo Aladrén"
+        },
+        {
+          "url": "http://www.cite-sciences.fr/home_flash/index.html",
+          "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
+        },
+        {
+          "url": "https://www.adlerplanetarium.org/visit/your-visit",
+          "title": "Your Visit - Adler Planetarium"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "microsoft-ecosystem",
+      "bookmarks": [
+        {
+          "url": "https://powerplatform.microsoft.com/en-us/",
+          "title": "AI-Powered Low-Code Tools | Microsoft Power Platform"
+        },
+        {
+          "url": "https://digitalreservations.microsoft.com/en-us/appointment/create/?storeid=923bf8b8-c8a3-ec11-b3fe-000d3a10148a&serviceid=c465e686-f1a3-ec11-b3fe-000d3a10148a",
+          "title": "Book an appointment - Customer Self Service"
+        },
+        {
+          "url": "https://answers.microsoft.com/",
+          "title": "Microsoft Q&A | Microsoft Learn"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "privacy-terms-policies",
+      "bookmarks": [
+        {
+          "url": "https://www.fox.com/privacy-policy",
+          "title": "FOX One - Stream the Best of FOX TV Shows, Movies, News, Sports & Documentaries"
+        },
+        {
+          "url": "https://www.dgs.ca.gov/Privacy",
+          "title": "Privacy"
+        },
+        {
+          "url": "http://www.ticketmaster.com/h/privacy.html",
+          "title": "Privacy Policy"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "social-environmental-causes",
+      "bookmarks": [
         {
           "url": "https://mpatlas.org/zones/",
           "title": "Loading... | Marine Protection Atlas"
@@ -266,143 +392,9 @@
           "title": "We are SafeLives - Ending domestic abuse"
         }
       ],
-      "count": 5
-    },
-    {
-      "name": "developer-technical-docs",
-      "bookmarks": [
-        {
-          "url": "https://api-docs.carto.com",
-          "title": "CARTO API Documentation"
-        },
-        {
-          "url": "https://docs.mapbox.com/#maps",
-          "title": "Mapbox Docs"
-        },
-        {
-          "url": "https://www.editorialmanager.com/one-earth",
-          "title": "Editorial Manager®"
-        },
-        {
-          "url": "https://lightgbm.readthedocs.io/en/stable/Python-Intro.html",
-          "title": "Python-package Introduction - LightGBM 4.6.0 documentation"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "sports-recreation-gear",
-      "bookmarks": [
-        {
-          "url": "https://www.rya.org.uk/knowledge/safety",
-          "title": "Water Safety Advice | Home | RYA - Royal Yachting Association"
-        },
-        {
-          "url": "https://www.top10wettenerfahrungen.com/wettquoten/fussball/",
-          "title": "Fussball Quotenvergleich 2025 ᐅ [TOP10] Fußball Wettquoten Heute"
-        },
-        {
-          "url": "https://www.vg.no/sport",
-          "title": "VG Sport - Alt om sport"
-        },
-        {
-          "url": "https://www.whatproswear.com/",
-          "title": "What Pros Wear: The Source for Pro Baseball Gloves, Cleats, Bats & Pro Basketball Shoes"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "account-management-login",
-      "bookmarks": [
-        {
-          "url": "https://ghop.page.link/signin-cta",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/publications/",
-          "title": "International Downtown Association"
-        },
-        {
-          "url": "https://my.accessportals.com/app/blk/login?redirectUrl=/us/individual?signInAppWithOkta=true",
-          "title": "Login"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "apple-developer-resources",
-      "bookmarks": [
-        {
-          "url": "https://authors.apple.com",
-          "title": "Self-publish an ebook - Apple Books for Authors"
-        },
-        {
-          "url": "https://offers.applearcade.apple/?itscg=10000&itsct=arc-0-arc_ovp-hw_prop-apl-ref-220412",
-          "title": "Apple Arcade - Three Month Offer - Apple"
-        },
-        {
-          "url": "https://training.apple.com/us/en/appdeveloper",
-          "title": "App Developer Training"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "cultural-institutions",
-      "bookmarks": [
-        {
-          "url": "https://www.adlerplanetarium.org/visit/your-visit",
-          "title": "Your Visit - Adler Planetarium"
-        },
-        {
-          "url": "http://www.cite-sciences.fr/home_flash/index.html",
-          "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
-        },
-        {
-          "url": "https://eduardoaladren.com/de/?date=2020-4&t=list",
-          "title": "Den Norske Opera Oslo - Eduardo Aladrén"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "microsoft-ecosystem",
-      "bookmarks": [
-        {
-          "url": "https://answers.microsoft.com/",
-          "title": "Microsoft Q&A | Microsoft Learn"
-        },
-        {
-          "url": "https://digitalreservations.microsoft.com/en-us/appointment/create/?storeid=923bf8b8-c8a3-ec11-b3fe-000d3a10148a&serviceid=c465e686-f1a3-ec11-b3fe-000d3a10148a",
-          "title": "Book an appointment - Customer Self Service"
-        },
-        {
-          "url": "https://powerplatform.microsoft.com/en-us/",
-          "title": "AI-Powered Low-Code Tools | Microsoft Power Platform"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "privacy-terms-policies",
-      "bookmarks": [
-        {
-          "url": "https://www.dgs.ca.gov/Privacy",
-          "title": "Privacy"
-        },
-        {
-          "url": "https://www.fox.com/privacy-policy",
-          "title": "FOX One - Stream the Best of FOX TV Shows, Movies, News, Sports & Documentaries"
-        },
-        {
-          "url": "http://www.ticketmaster.com/h/privacy.html",
-          "title": "Privacy Policy"
-        }
-      ],
       "count": 3
     }
   ],
-  "total_bookmarks": 78,
+  "total_bookmarks": 76,
   "num_folders": 15
 }

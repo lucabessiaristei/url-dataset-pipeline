@@ -49,20 +49,6 @@
       "count": 4
     },
     {
-      "name": "events-media-schedules",
-      "bookmarks": [
-        {
-          "url": "https://www.nba.com/schedule",
-          "title": "NBA Schedule - NBA Games & Events | NBA.com"
-        },
-        {
-          "url": "https://sobewff.org/",
-          "title": "SOBEWFF | February 19 - 22, 2026 in Miami, Florida"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "official-organizational-information",
       "bookmarks": [
         {
@@ -81,7 +67,7 @@
       "count": 3
     },
     {
-      "name": "retail-shopping-products",
+      "name": "shopping-products-retail",
       "bookmarks": [
         {
           "url": "https://www.daiberls-campingshop.de/kederoese-universal-halterung-2er-set.html",
@@ -97,6 +83,20 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "events-media-schedules",
+      "bookmarks": [
+        {
+          "url": "https://www.nba.com/schedule",
+          "title": "NBA Schedule - NBA Games & Events | NBA.com"
+        },
+        {
+          "url": "https://sobewff.org/",
+          "title": "SOBEWFF | February 19 - 22, 2026 in Miami, Florida"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 17,

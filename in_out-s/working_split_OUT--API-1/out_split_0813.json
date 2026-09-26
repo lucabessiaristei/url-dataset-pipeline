@@ -93,12 +93,8 @@
       "count": 10
     },
     {
-      "name": "products-services-retail",
+      "name": "products-retail-services",
       "bookmarks": [
-        {
-          "url": "https://apps.apple.com/us/app/basemap-hunting-gps-maps/id1305237481",
-          "title": "‎BaseMap: Hunting GPS Maps on the App Store"
-        },
         {
           "url": "https://www.bmw-bahrain.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
           "title": "BMW Showroom | Manama, Bahrain | Euro Motors BMW"
@@ -130,6 +126,10 @@
         {
           "url": "https://www.zappos.com/p/chinese-laundry-theresa-gold-metallic/product/8862068/",
           "title": "Women's Chinese Laundry Theresa | Zappos.com"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/basemap-hunting-gps-maps/id1305237481",
+          "title": "‎BaseMap: Hunting GPS Maps on the App Store"
         }
       ],
       "count": 9
@@ -154,12 +154,12 @@
           "title": "U.S. Committee for Refugees and Immigrants - USCRI"
         },
         {
-          "url": "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Vaccine",
-          "title": "Welcome | Health & Human Services"
-        },
-        {
           "url": "http://aathermography.com/",
           "title": "Welcome to Ann Arbor Thermography, serving southeast Michigan and beyond"
+        },
+        {
+          "url": "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Vaccine",
+          "title": "Welcome | Health & Human Services"
         }
       ],
       "count": 6

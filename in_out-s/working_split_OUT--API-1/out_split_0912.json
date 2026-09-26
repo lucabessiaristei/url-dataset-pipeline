@@ -1,49 +1,7 @@
 {
   "folders": [
     {
-      "name": "corporate-business-services",
-      "bookmarks": [
-        {
-          "url": "https://finaid.mines.edu",
-          "title": "Home - Financial Aid"
-        },
-        {
-          "url": "https://invest.bnpparibas.com/en/bnp-paribas-share/investment-calculator-and-share-price",
-          "title": "BNP Paribas Share price | Investors & Shareholders | BNP Paribas Bank"
-        },
-        {
-          "url": "https://investors.target.com/node/32506/html",
-          "title": "Investors | Target Corporation"
-        },
-        {
-          "url": "https://www.jbr.nl/begrippen/debt-advisory/",
-          "title": "Debt Advisory - JBR"
-        },
-        {
-          "url": "https://merchants.fiserv.com",
-          "title": "Merchant Services | Payment Processing Enterprise Solutions | Fiserv"
-        },
-        {
-          "url": "https://uniglobetraveldesigners.com/",
-          "title": "Uniglobe Travel Designers"
-        },
-        {
-          "url": "http://mahoneyandgotto.com/links.php",
-          "title": "Useful Links | Mahoney & Gotto Company, CPA Denison IA, Accountant Denison IA, Taxes Denison IA, CPA IA 51442"
-        },
-        {
-          "url": "https://www.chase.com/business/minority-businesses",
-          "title": "void"
-        },
-        {
-          "url": "https://yourfuture.accaglobal.com",
-          "title": "Get an accountancy qualification with ACCA"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "corporate-brands",
+      "name": "brands-corporate",
       "bookmarks": [
         {
           "url": "https://www.balsamhill.com/p/bh-fraser-fir-artificial-christmas-tree?sku=2808946",
@@ -52,6 +10,10 @@
         {
           "url": "https://www.citizensbank.com/",
           "title": "Citizens Bank | Personal & Business Banking, Student Loans, Retirement"
+        },
+        {
+          "url": "https://na.panasonic.com/us/",
+          "title": "Create Today, Enrich Tomorrow | Panasonic North America - United States"
         },
         {
           "url": "https://firemarkstudio.video.blog/",
@@ -70,16 +32,54 @@
           "title": "Mountain Hardwear: Technical Outdoor Gear & Apparel"
         },
         {
-          "url": "https://na.panasonic.com/us/",
-          "title": "Create Today, Enrich Tomorrow | Panasonic North America - United States"
-        },
-        {
           "url": "https://inhome.walmart.com/",
           "title": "Robot or human?"
         },
         {
           "url": "https://walmartsustainabilityhub.emissionscalculators.walmart.com/main/recognition",
           "title": "Walmart Sustainability"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "business-corporate-services",
+      "bookmarks": [
+        {
+          "url": "https://invest.bnpparibas.com/en/bnp-paribas-share/investment-calculator-and-share-price",
+          "title": "BNP Paribas Share price | Investors & Shareholders | BNP Paribas Bank"
+        },
+        {
+          "url": "https://www.jbr.nl/begrippen/debt-advisory/",
+          "title": "Debt Advisory - JBR"
+        },
+        {
+          "url": "https://yourfuture.accaglobal.com",
+          "title": "Get an accountancy qualification with ACCA"
+        },
+        {
+          "url": "https://finaid.mines.edu",
+          "title": "Home - Financial Aid"
+        },
+        {
+          "url": "https://investors.target.com/node/32506/html",
+          "title": "Investors | Target Corporation"
+        },
+        {
+          "url": "https://merchants.fiserv.com",
+          "title": "Merchant Services | Payment Processing Enterprise Solutions | Fiserv"
+        },
+        {
+          "url": "https://uniglobetraveldesigners.com/",
+          "title": "Uniglobe Travel Designers"
+        },
+        {
+          "url": "http://mahoneyandgotto.com/links.php",
+          "title": "Useful Links | Mahoney & Gotto Company, CPA Denison IA, Accountant Denison IA, Taxes Denison IA, CPA IA 51442"
+        },
+        {
+          "url": "https://www.chase.com/business/minority-businesses",
+          "title": "void"
         }
       ],
       "count": 9
@@ -100,16 +100,16 @@
           "title": "Consejos para consumidores | La Comisión Federal de Comercio"
         },
         {
+          "url": "https://govstatus.egov.com/find-covid-19-vaccine",
+          "title": "Find a COVID-19 Vaccine in Oregon"
+        },
+        {
           "url": "https://www.fra.affrc.go.jp/english/eindex.html",
           "title": "FRA"
         },
         {
           "url": "https://www.gov.pl/web/edukacja",
           "title": "Ministerstwo Edukacji Narodowej - Portal Gov.pl"
-        },
-        {
-          "url": "https://govstatus.egov.com/find-covid-19-vaccine",
-          "title": "Find a COVID-19 Vaccine in Oregon"
         },
         {
           "url": "https://seavision.volpe.dot.gov/legal/eula",
@@ -123,8 +123,12 @@
       "count": 8
     },
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
+        {
+          "url": "https://nvbdc.org/about-the-nvbdc/",
+          "title": "About the NVBDC"
+        },
         {
           "url": "https://bnhs.net/events/calendar/?cat1=indoor&event_id1=863",
           "title": "Events Calendar - Basildon Natural History Society"
@@ -134,20 +138,16 @@
           "title": "Goats of Anarchy"
         },
         {
+          "url": "https://peru.oceana.org/es/blog/las-exportaciones-pesqueras-en-el-2019",
+          "title": "Informe | Las exportaciones pesqueras en el 2019 - Oceana Peru"
+        },
+        {
           "url": "https://www.klrn.org/",
           "title": "KLRN TV | Using the power of media to inform, entertain and inspire"
         },
         {
-          "url": "https://nvbdc.org/about-the-nvbdc/",
-          "title": "About the NVBDC"
-        },
-        {
           "url": "https://oceandataconference.org/",
           "title": "Ocean Data Conference - ocean data conference organised by IODE"
-        },
-        {
-          "url": "https://peru.oceana.org/es/blog/las-exportaciones-pesqueras-en-el-2019",
-          "title": "Informe | Las exportaciones pesqueras en el 2019 - Oceana Peru"
         },
         {
           "url": "https://register.uso.org/4111BMB7/5a3I8X3SFik",
@@ -161,7 +161,7 @@
       "count": 8
     },
     {
-      "name": "shopping-e-commerce",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://www.applepaysupplies.com/",
@@ -199,36 +199,6 @@
       "count": 8
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://grizzlyseabear.tumblr.com/",
-          "title": "Ecclectic Collection"
-        },
-        {
-          "url": "https://thegreataztecagator.tumblr.com/",
-          "title": "For Science, You Monster."
-        },
-        {
-          "url": "https://longshotsblues.wordpress.com/tag/libel/",
-          "title": "Libel | Longshot's Blog"
-        },
-        {
-          "url": "https://superherowithoutacape.tumblr.com/",
-          "title": "Ramblings of a Wannabe Superhero"
-        },
-        {
-          "url": "https://randomgifgirlwrites.tumblr.com/",
-          "title": "Random Gif Girl Writes"
-        },
-        {
-          "url": "https://chocolateauthoress.tumblr.com/post/143009103874",
-          "title": "To the stars who listen | Computer science: the impact of K-12 on university..."
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "entertainment-media",
       "bookmarks": [
         {
@@ -254,6 +224,66 @@
         {
           "url": "https://www.standard.co.uk/news/london/prince-william-sympathises-with-distraught-bake-off-fans-at-south-london-youth-club-a3345171.html",
           "title": "Prince William sympathises with Great British Bake Off fans at Wandsworth youth club | London Evening Standard | The Standard"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "misc-uncategorized",
+      "bookmarks": [
+        {
+          "url": "https://perspectivebookseries.com/tag/amazon-canada/",
+          "title": "amazon canada | Official Website of the Perspective Book Series"
+        },
+        {
+          "url": "https://orasul.ro/photos/view/83873",
+          "title": "Asociatia Bucurestiul meu drag | Vizualizare fotografie"
+        },
+        {
+          "url": "http://www.southamptonchinese.org.uk/album/2021/1215_Christmas/tn/142.jpg.html",
+          "title": "Image: 142"
+        },
+        {
+          "url": "http://tech-m.com.pl/oferta/rodzaj-montazu/na-zewnatrz-pojazdu/",
+          "title": "NA ZEWNĄTRZ POJAZDU | Techmot"
+        },
+        {
+          "url": "http://www.fastballoons.com/",
+          "title": "You are being redirected..."
+        },
+        {
+          "url": "http://www.usatf.org/",
+          "title": "You are being redirected..."
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://grizzlyseabear.tumblr.com/",
+          "title": "Ecclectic Collection"
+        },
+        {
+          "url": "https://thegreataztecagator.tumblr.com/",
+          "title": "For Science, You Monster."
+        },
+        {
+          "url": "https://longshotsblues.wordpress.com/tag/libel/",
+          "title": "Libel | Longshot's Blog"
+        },
+        {
+          "url": "https://superherowithoutacape.tumblr.com/",
+          "title": "Ramblings of a Wannabe Superhero"
+        },
+        {
+          "url": "https://randomgifgirlwrites.tumblr.com/",
+          "title": "Random Gif Girl Writes"
+        },
+        {
+          "url": "https://chocolateauthoress.tumblr.com/post/143009103874",
+          "title": "To the stars who listen | Computer science: the impact of K-12 on university..."
         }
       ],
       "count": 6
@@ -289,6 +319,58 @@
       "count": 6
     },
     {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://inclusion.engr.psu.edu/",
+          "title": "Center for Engineering Outreach and Inclusion | Penn State Engineering"
+        },
+        {
+          "url": "http://mathonline.edusoftmax.com/",
+          "title": "Congratulations! You have successfully set up your website!"
+        },
+        {
+          "url": "https://shop.hueber.de/de/sprache-unterrichten/deutsch-als-fremdsprache-daf-daz/kategorien/17146/niveaustufen/a2.html",
+          "title": "Hueber | Deutsch als Fremdsprache (DaF/DaZ) - Sprache unterrichten: A2 and 17146 Shop"
+        },
+        {
+          "url": "https://kcpt.pbslearningmedia.org/",
+          "title": "PBS LearningMedia | Teaching Resources For Students And Teachers"
+        },
+        {
+          "url": "http://dict.youdao.com/w/ein_visum_bewilligen/",
+          "title": "【ein_visum_bewilligen】什么意思_英语ein_visum_bewilligen的翻译_音标_读音_用法_例句_在线翻译_有道词典"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "hobbies-recreation",
+      "bookmarks": [
+        {
+          "url": "http://www.pagat.com/patience/",
+          "title": "Card Games: Competitive Patience"
+        },
+        {
+          "url": "https://www.canadianwoodworking.com/techniques_and_tips/french-polishing/",
+          "title": "French polishing - Canadian Woodworking"
+        },
+        {
+          "url": "http://www.sundaymatineebook.com/",
+          "title": "New York Hardcore Photos | Sunday Matinee Book"
+        },
+        {
+          "url": "https://onecast.me",
+          "title": "OneCast - Xbox remote play for Mac, iOS and Apple TV"
+        },
+        {
+          "url": "https://store.steampowered.com/search/?filter=topsellers",
+          "title": "Steam Search"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "news-media",
       "bookmarks": [
         {
@@ -310,6 +392,58 @@
         {
           "url": "https://people.com/tag/news/",
           "title": "The Scoop"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "organizations-industry",
+      "bookmarks": [
+        {
+          "url": "https://www.d-recs.energy/what-are-d-recs/#:~:text=A%20D%2DREC%20is%20a,of%20newly%20distributed%20renewable%20energy",
+          "title": "Homepage - D-REC"
+        },
+        {
+          "url": "https://www.mozilla.org",
+          "title": "Internet for people, not profit - Mozilla Global"
+        },
+        {
+          "url": "https://www.fyple.com/company/park-moving-and-storage-ya16eli/",
+          "title": "Park Moving And Storage in Birmingham, AL"
+        },
+        {
+          "url": "https://www.ksat.com/",
+          "title": "San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More"
+        },
+        {
+          "url": "https://www.whatproswear.com/",
+          "title": "What Pros Wear: The Source for Pro Baseball Gloves, Cleats, Bats & Pro Basketball Shoes"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "reference-archives",
+      "bookmarks": [
+        {
+          "url": "http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/148575/",
+          "title": "CONTENTdm"
+        },
+        {
+          "url": "https://apps.who.int/iris/bitstream/handle/10665/258970/9789241550130-eng.pdf;jsessionid=862C12B8C2F2004C85A9F74015DBC547?sequence=1",
+          "title": "DSpace"
+        },
+        {
+          "url": "http://statistics.apec.org/",
+          "title": "Home"
+        },
+        {
+          "url": "https://map.samsclub.com/",
+          "title": "Sam's Club MAP"
+        },
+        {
+          "url": "https://www.produce.gob.pe/index.php/dgsfs-pa/seguimiento-satelital",
+          "title": "Seguimiento Satelital"
         }
       ],
       "count": 5
@@ -341,158 +475,6 @@
       "count": 5
     },
     {
-      "name": "education-resources",
-      "bookmarks": [
-        {
-          "url": "https://inclusion.engr.psu.edu/",
-          "title": "Center for Engineering Outreach and Inclusion | Penn State Engineering"
-        },
-        {
-          "url": "http://mathonline.edusoftmax.com/",
-          "title": "Congratulations! You have successfully set up your website!"
-        },
-        {
-          "url": "https://shop.hueber.de/de/sprache-unterrichten/deutsch-als-fremdsprache-daf-daz/kategorien/17146/niveaustufen/a2.html",
-          "title": "Hueber | Deutsch als Fremdsprache (DaF/DaZ) - Sprache unterrichten: A2 and 17146 Shop"
-        },
-        {
-          "url": "https://kcpt.pbslearningmedia.org/",
-          "title": "PBS LearningMedia | Teaching Resources For Students And Teachers"
-        },
-        {
-          "url": "http://dict.youdao.com/w/ein_visum_bewilligen/",
-          "title": "【ein_visum_bewilligen】什么意思_英语ein_visum_bewilligen的翻译_音标_读音_用法_例句_在线翻译_有道词典"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "hobby-recreation",
-      "bookmarks": [
-        {
-          "url": "http://www.pagat.com/patience/",
-          "title": "Card Games: Competitive Patience"
-        },
-        {
-          "url": "https://www.canadianwoodworking.com/techniques_and_tips/french-polishing/",
-          "title": "French polishing - Canadian Woodworking"
-        },
-        {
-          "url": "http://www.sundaymatineebook.com/",
-          "title": "New York Hardcore Photos | Sunday Matinee Book"
-        },
-        {
-          "url": "https://onecast.me",
-          "title": "OneCast - Xbox remote play for Mac, iOS and Apple TV"
-        },
-        {
-          "url": "https://store.steampowered.com/search/?filter=topsellers",
-          "title": "Steam Search"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "museums-attractions",
-      "bookmarks": [
-        {
-          "url": "https://www.metmuseum.org/toah/",
-          "title": "Heilbrunn Timeline of Art History - The Metropolitan Museum of Art"
-        },
-        {
-          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino.html",
-          "title": "Pio Clementino Museum"
-        },
-        {
-          "url": "https://www.kew.org/",
-          "title": "Royal Botanic Gardens, Kew | Kew"
-        },
-        {
-          "url": "https://www.louvre.fr/visiter",
-          "title": "Visiter - L'essentiel pour préparer votre visite"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "legal-privacy",
-      "bookmarks": [
-        {
-          "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/",
-          "title": "Children's Privacy Policy - The Walt Disney Privacy Center"
-        },
-        {
-          "url": "http://optout.networkadvertising.org/?c=1",
-          "title": "How to Opt Out - NAI: Network Advertising Initiative"
-        },
-        {
-          "url": "http://scourby.com/privacy-policy",
-          "title": "Privacy Policy - Scourby bible Media"
-        },
-        {
-          "url": "https://unhabitat.org/water-for-handwashing-in-slums-is-critical-to-prevent-covid-19-spreading",
-          "title": "Water for handwashing in slums is critical to prevent COVID-19 spreading | UN-Habitat"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "https://orasul.ro/photos/view/83873",
-          "title": "Asociatia Bucurestiul meu drag | Vizualizare fotografie"
-        },
-        {
-          "url": "http://www.southamptonchinese.org.uk/album/2021/1215_Christmas/tn/142.jpg.html",
-          "title": "Image: 142"
-        },
-        {
-          "url": "http://tech-m.com.pl/oferta/rodzaj-montazu/na-zewnatrz-pojazdu/",
-          "title": "NA ZEWNĄTRZ POJAZDU | Techmot"
-        },
-        {
-          "url": "https://perspectivebookseries.com/tag/amazon-canada/",
-          "title": "amazon canada | Official Website of the Perspective Book Series"
-        },
-        {
-          "url": "http://www.fastballoons.com/",
-          "title": "You are being redirected..."
-        },
-        {
-          "url": "http://www.usatf.org/",
-          "title": "You are being redirected..."
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "organizations-industry",
-      "bookmarks": [
-        {
-          "url": "https://www.d-recs.energy/what-are-d-recs/#:~:text=A%20D%2DREC%20is%20a,of%20newly%20distributed%20renewable%20energy",
-          "title": "Homepage - D-REC"
-        },
-        {
-          "url": "https://www.mozilla.org",
-          "title": "Internet for people, not profit - Mozilla Global"
-        },
-        {
-          "url": "https://www.ksat.com/",
-          "title": "San Antonio News, Texas News, Sports, Weather from KSAT.com, Expect More"
-        },
-        {
-          "url": "https://www.whatproswear.com/",
-          "title": "What Pros Wear: The Source for Pro Baseball Gloves, Cleats, Bats & Pro Basketball Shoes"
-        },
-        {
-          "url": "https://www.fyple.com/company/park-moving-and-storage-ya16eli/",
-          "title": "Park Moving And Storage in Birmingham, AL"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "reference-science-health",
       "bookmarks": [
         {
@@ -519,30 +501,48 @@
       "count": 5
     },
     {
-      "name": "reference-archives",
+      "name": "legal-privacy",
       "bookmarks": [
         {
-          "url": "http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/148575/",
-          "title": "CONTENTdm"
+          "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/",
+          "title": "Children's Privacy Policy - The Walt Disney Privacy Center"
         },
         {
-          "url": "https://apps.who.int/iris/bitstream/handle/10665/258970/9789241550130-eng.pdf;jsessionid=862C12B8C2F2004C85A9F74015DBC547?sequence=1",
-          "title": "DSpace"
+          "url": "http://optout.networkadvertising.org/?c=1",
+          "title": "How to Opt Out - NAI: Network Advertising Initiative"
         },
         {
-          "url": "http://statistics.apec.org/",
-          "title": "Home"
+          "url": "http://scourby.com/privacy-policy",
+          "title": "Privacy Policy - Scourby bible Media"
         },
         {
-          "url": "https://map.samsclub.com/",
-          "title": "Sam's Club MAP"
-        },
-        {
-          "url": "https://www.produce.gob.pe/index.php/dgsfs-pa/seguimiento-satelital",
-          "title": "Seguimiento Satelital"
+          "url": "https://unhabitat.org/water-for-handwashing-in-slums-is-critical-to-prevent-covid-19-spreading",
+          "title": "Water for handwashing in slums is critical to prevent COVID-19 spreading | UN-Habitat"
         }
       ],
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "museums-attractions",
+      "bookmarks": [
+        {
+          "url": "https://www.metmuseum.org/toah/",
+          "title": "Heilbrunn Timeline of Art History - The Metropolitan Museum of Art"
+        },
+        {
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino.html",
+          "title": "Pio Clementino Museum"
+        },
+        {
+          "url": "https://www.kew.org/",
+          "title": "Royal Botanic Gardens, Kew | Kew"
+        },
+        {
+          "url": "https://www.louvre.fr/visiter",
+          "title": "Visiter - L'essentiel pour préparer votre visite"
+        }
+      ],
+      "count": 4
     }
   ],
   "total_bookmarks": 109,

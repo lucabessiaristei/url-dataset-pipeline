@@ -55,19 +55,19 @@
       "count": 12
     },
     {
-      "name": "charity-nonprofit",
+      "name": "nonprofit-charity",
       "bookmarks": [
         {
           "url": "http://blueprosperity.org",
           "title": "Blue Prosperity Coalition | Global Network Advancing Sustainable Ocean Management"
         },
         {
-          "url": "https://divassimplysinging.com/",
-          "title": "DIVAS Simply Singing! Raising Health Awareness"
-        },
-        {
           "url": "https://www.diabetes.org",
           "title": "Diabetes Research, Education, Advocacy | ADA"
+        },
+        {
+          "url": "https://divassimplysinging.com/",
+          "title": "DIVAS Simply Singing! Raising Health Awareness"
         },
         {
           "url": "https://fundtexaschoice.org/",
@@ -152,6 +152,10 @@
       "name": "web-dev-resources",
       "bookmarks": [
         {
+          "url": "https://studio.mapbox.com/",
+          "title": "Console | Mapbox"
+        },
+        {
           "url": "https://www.vecteezy.com/",
           "title": "Download Free Vectors, Images, Photos & Videos | Vecteezy"
         },
@@ -164,16 +168,12 @@
           "title": "Instagram Video Downloader - Download IG Videos, Reels, Photos"
         },
         {
-          "url": "https://jwt.io/introduction",
-          "title": "JSON Web Token Introduction - jwt.io"
-        },
-        {
           "url": "https://jsfiddle.net/",
           "title": "JSFiddle - Code Playground"
         },
         {
-          "url": "https://studio.mapbox.com/",
-          "title": "Console | Mapbox"
+          "url": "https://jwt.io/introduction",
+          "title": "JSON Web Token Introduction - jwt.io"
         }
       ],
       "count": 6
@@ -234,12 +234,12 @@
       "name": "legal-docs",
       "bookmarks": [
         {
-          "url": "https://supreme.justia.com/cases/federal/us/505/577/#tab-opinion-1959089",
-          "title": "Lee v. Weisman | 505 U.S. 577 (1992) | Justia U.S. Supreme Court Center"
-        },
-        {
           "url": "https://lacuerda.net/Extras/privpol.php",
           "title": "LaCuerda: Política de Privacidad"
+        },
+        {
+          "url": "https://supreme.justia.com/cases/federal/us/505/577/#tab-opinion-1959089",
+          "title": "Lee v. Weisman | 505 U.S. 577 (1992) | Justia U.S. Supreme Court Center"
         },
         {
           "url": "https://www.mail.com/company/privacypolicy/",
@@ -275,30 +275,8 @@
       "count": 4
     },
     {
-      "name": "programming-reference",
-      "bookmarks": [
-        {
-          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
-          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
-        },
-        {
-          "url": "http://wiki.fablab-kali.de/doku.php?id=documentation:electronics:start&do=backlink",
-          "title": "documentation:electronics:start - Backlinks [FabLab Kamp-Lintfort]"
-        },
-        {
-          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html",
-          "title": "Query DSL | Elastic Docs"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "account-pages",
       "bookmarks": [
-        {
-          "url": "http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3F&showlogo=0&appsrc=cUcI1A",
-          "title": "登录 - 微博"
-        },
         {
           "url": "https://myaccount.chicagotribune.com/300/autopaymanage#nt=secondarynavbar",
           "title": "void"
@@ -306,23 +284,31 @@
         {
           "url": "https://www.csga07.fr/protected/?comeFrom=https%3A%2F%2Fwww.csga07.fr%2Fespace-membre%2Fgoogle-groupe%2F&",
           "title": "Zone protégée par mot de passe - Connexion - Site de csga07 !"
+        },
+        {
+          "url": "http://weibo.com/signup/signup.php?from=zw&vsrc=app_sharepop&backurl=http%3A%2F%2Fservice.t.sina.com.cn%2Fshare%2Fshare.php%3F&showlogo=0&appsrc=cUcI1A",
+          "title": "登录 - 微博"
         }
       ],
       "count": 3
     },
     {
-      "name": "commerce-misc",
+      "name": "data-science",
       "bookmarks": [
         {
-          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
-          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
+          "url": "https://empres-i.apps.fao.org/",
+          "title": "EMPRES-i +"
         },
         {
-          "url": "https://www.ritter-schleifservice.de/warenkorb.html",
-          "title": "warenkorb - DIE SCHÄRFEREI RITTER"
+          "url": "https://locust-hub-hqfao.hub.arcgis.com/",
+          "title": "FAO Locust Hub"
+        },
+        {
+          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
+          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
       "name": "education-university",
@@ -361,22 +347,36 @@
       "count": 3
     },
     {
-      "name": "science-data",
+      "name": "programming-reference",
       "bookmarks": [
         {
-          "url": "https://empres-i.apps.fao.org/",
-          "title": "EMPRES-i +"
+          "url": "https://download.oracle.com/javaee-archive/servlet-spec.java.net/jsr369-experts/2015/09/0264.html",
+          "title": "[jsr369-experts] Re: Working towards Early Draft Review"
         },
         {
-          "url": "https://locust-hub-hqfao.hub.arcgis.com/",
-          "title": "FAO Locust Hub"
+          "url": "http://wiki.fablab-kali.de/doku.php?id=documentation:electronics:start&do=backlink",
+          "title": "documentation:electronics:start - Backlinks [FabLab Kamp-Lintfort]"
         },
         {
-          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
-          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
+          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html",
+          "title": "Query DSL | Elastic Docs"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "commerce-misc",
+      "bookmarks": [
+        {
+          "url": "https://carat.fiserv.com/en-us/solutions/omnichannel-commerce/",
+          "title": "Omnichannel Experiences | Carat U.S. | Fiserv"
+        },
+        {
+          "url": "https://www.ritter-schleifservice.de/warenkorb.html",
+          "title": "warenkorb - DIE SCHÄRFEREI RITTER"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 72,

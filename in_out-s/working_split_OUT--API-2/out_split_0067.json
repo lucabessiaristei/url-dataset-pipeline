@@ -1,389 +1,27 @@
 {
   "folders": [
     {
-      "name": "social-media-platforms",
-      "bookmarks": [
-        {
-          "url": "https://discord.com/channels/890663529487687691/",
-          "title": "Discord"
-        },
-        {
-          "url": "https://gracenerissa10.tumblr.com/",
-          "title": "@gracenerissa10 on Tumblr"
-        },
-        {
-          "url": "https://kathleencollinsposts-blog.tumblr.com/",
-          "title": "@kathleencollinsposts-blog on Tumblr"
-        },
-        {
-          "url": "https://olive-cole.tumblr.com/",
-          "title": "."
-        },
-        {
-          "url": "https://pinterest.com/",
-          "title": "Pinterest"
-        },
-        {
-          "url": "https://roblox.com",
-          "title": "Roblox"
-        },
-        {
-          "url": "http://twitpic.com/2xbppo",
-          "title": "Twitpic"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://dailykos.com/stories/2020/3/3/1922951/-Renewable-Tuesday-Polluting-Power-Plant-Data",
-          "title": "Renewable Tuesday: Polluting Power Plant Data You Can Use at Home!"
-        },
-        {
-          "url": "https://elpais.com/ciencia/",
-          "title": "Ciencia en EL PAÍS"
-        },
-        {
-          "url": "https://fonearena.com/blog/355013/samsung-exynos-2200-launch-galaxy-s22.html",
-          "title": "Samsung denies Exynos 2200 production and performance issues, plans to launch it alongside Galaxy S22 series"
-        },
-        {
-          "url": "https://hollywoodreporter.com/news/selena-gomez-to-host-multi-network-global-citizen-concert-supporting-covid-19-vaccine-push",
-          "title": "Selena Gomez to Host Global Citizen COVID-19 Vaccine Concert"
-        },
-        {
-          "url": "https://mlb.com/news/former-minor-league-pitcher-solomon-bates-comes-out-as-gay",
-          "title": "Former Minor League pitcher Solomon Bates comes out as gay"
-        },
-        {
-          "url": "http://timesofindia.indiatimes.com/",
-          "title": "TOI - Breaking News, Latest News, India News, World News, Bollywood, Sports, Business and Political News | The Times of India"
-        },
-        {
-          "url": "https://virgilio.it/",
-          "title": "Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "educational-resources",
-      "bookmarks": [
-        {
-          "url": "https://aulafacil.com/cursos/programacion/macromedia-dreamweaver/formatos-en-el-panel-de-propiedades-l200",
-          "title": "🥇▷【 Formatos en el Panel de Propiedades - Macromedia Dreamweaver 】"
-        },
-        {
-          "url": "https://colorbasepair.com/bioinformatics_courses_tutorials.html",
-          "title": "Bioinformatics Courses and Tutorials: online bioinformatics tutorials and courses"
-        },
-        {
-          "url": "https://iste.org/standards/computational-thinking",
-          "title": "ISTE | Computational Thinking Competencies"
-        },
-        {
-          "url": "https://jax.readthedocs.io/en/latest/notebooks/neural_network_with_tfds_data.html",
-          "title": "Training a simple neural network, with tensorflow/datasets data loading - JAX documentation"
-        },
-        {
-          "url": "https://mongodb.com/university/",
-          "title": "MongoDB Courses and Trainings | MongoDB University"
-        },
-        {
-          "url": "https://oceanteacher.org",
-          "title": "Home | OceanTeacher Global Academy"
-        },
-        {
-          "url": "https://sonnentaler.net/aktivitaeten/mechanik/bewegung/oekomobil/teil3/ue11/",
-          "title": "Unterrichtseinheit 11: Verschiedene Verkehrsmittel - Multimodalität und Intermodalität"
-        },
-        {
-          "url": "https://wolframalpha.com/examples/science-and-technology/physics/",
-          "title": "Wolfram|Alpha Examples: Physics"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "government-organizations",
-      "bookmarks": [
-        {
-          "url": "https://cia.gov/index.html",
-          "title": "We are the Nation's first line of defense - CIA"
-        },
-        {
-          "url": "https://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2010rs/billfile/hb0529.htm",
-          "title": "Search - Legislation"
-        },
-        {
-          "url": "https://misau.gov.mz/index.php",
-          "title": "MINISTÉRIO DA SAÚDE"
-        },
-        {
-          "url": "https://usa.gov/",
-          "title": "Making government services easier to find | USAGov"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "nonprofit-organizations",
-      "bookmarks": [
-        {
-          "url": "https://cochrane.org/evidence",
-          "title": "Our evidence | Cochrane"
-        },
-        {
-          "url": "https://horizonschildren.org/",
-          "title": "Horizons For Homeless Children | Volunteer Opportunities Boston"
-        },
-        {
-          "url": "https://militarychild.org/",
-          "title": "Homepage - Military Child Education Coalition® (MCEC®)"
-        },
-        {
-          "url": "https://mulagofoundation.org/",
-          "title": "Mulago Foundation"
-        },
-        {
-          "url": "https://na.org/",
-          "title": "Narcotics Anonymous"
-        },
-        {
-          "url": "https://navoba.org/",
-          "title": "NaVOBA Home"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "technology-tools",
-      "bookmarks": [
-        {
-          "url": "https://arcgis.com/home/item.html?id=bee5c01ae891442ebd1cf54894939bad",
-          "title": "ArcGIS"
-        },
-        {
-          "url": "https://foundation/emails/inliner.html",
-          "title": "Foundation for Emails | Responsive Email CSS Inliner"
-        },
-        {
-          "url": "https://google.com/insights/sustainability/#request",
-          "title": "Google Environmental Insights Explorer - Make Informed Decisions"
-        },
-        {
-          "url": "https://ivendi.com/",
-          "title": "iVendi | Automotive Retail Technology"
-        },
-        {
-          "url": "https://readthedocs.org",
-          "title": "Full featured documentation deployment platform - Read the Docs"
-        },
-        {
-          "url": "https://storyblocks.com/",
-          "title": "Unlimited Stock Videos, Templates, Audio & Images - Storyblocks"
-        },
-        {
-          "url": "https://wordpress.tv/",
-          "title": "WordPress.tv - WordPress-related videos curated and moderated by the WordPress.org community"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "business-companies",
-      "bookmarks": [
-        {
-          "url": "https://as-entreprises.fr/actualites/Actualites_2019-bonne-dynamique.aspx",
-          "title": "Actualités - AS ENTREPRISES"
-        },
-        {
-          "url": "https://bugatti.oemdtc.com/category/recalls",
-          "title": "Recalls | Bugatti - OEMDTC"
-        },
-        {
-          "url": "https://collabora.com/news-and-blog/?both_page=19&newsandevents_page=9&blogs_page=19",
-          "title": "News & Blog - Open Source Consulting | Collabora"
-        },
-        {
-          "url": "https://eponic.com/",
-          "title": "eponic corp"
-        },
-        {
-          "url": "https://nwswireless.com/",
-          "title": "Telecom Infrastructure & Test & Measurement | Home | NWS"
-        },
-        {
-          "url": "https://paypal-corp.com/newsroom/es.paypal-corp.com/",
-          "title": "PayPal Newsroom - Inicio"
-        },
-        {
-          "url": "https://vicair.net/",
-          "title": "Victoria Air Maintenance Ltd - Full-Service AMO at YYJ"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "academic-research",
-      "bookmarks": [
-        {
-          "url": "https://ceya.udesa.edu.ar/index.php/informationobject/browse?sf_culture=en&view=table&sort=referenceCode&subjects=1199&topLod=0&sortDir=asc&onlyMedia=1",
-          "title": "UdeSA Ceya"
-        },
-        {
-          "url": "https://exergue.com/h/2016-07/tt/brexit.html",
-          "title": "Exergue - Un Brexit pour rien, Ou pas"
-        },
-        {
-          "url": "https://neuroscience.ox.ac.uk/publications/371446",
-          "title": "Radiation damage to biological macromolecules: some answers and more questions. - Oxford Neuroscience"
-        },
-        {
-          "url": "https://scienceworld.wolfram.com/biography/Eudoxus.html",
-          "title": "Eudoxus of Cnidus (ca. 400-ca. 347 BC) -- from Eric Weisstein's World of Scientific Biography"
-        },
-        {
-          "url": "https://unisi.it/",
-          "title": "Università degli Studi di Siena"
-        },
-        {
-          "url": "https://zora.uzh.ch/id/eprint/103117/",
-          "title": "Interval-Dependent Attributes in Relational Database Systems"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "sports-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://dickestel.com/classicexpo.htm",
-          "title": "2003 Classic Gaming Expo in Las Vegas"
-        },
-        {
-          "url": "https://kansascitypbs.org/kansas-city-pbs-livestream/",
-          "title": "Kansas City PBS Livestream"
-        },
-        {
-          "url": "https://klyricsforyou.com/2021/01/iu-celebrity.html",
-          "title": "IU - Celebrity Lyrics - K-Lyrics For You"
-        },
-        {
-          "url": "https://metv.com/privacy-policy/",
-          "title": "Privacy Policy"
-        },
-        {
-          "url": "https://nba.com/standings",
-          "title": "NBA Team Standings & Stats | NBA.com"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "cooking-recipes",
-      "bookmarks": [
-        {
-          "url": "https://directaccessrecipes.com/index.jsp?recId=85938",
-          "title": "Searchable Recipe Database - Summer Shrimp Scampi With Tomatoes and Corn"
-        },
-        {
-          "url": "https://sanjeevkapoor.com/",
-          "title": "Masterchef Sanjeev Kapoor Recipes - Taste the Tradition of Indian Cuisine & Innovative Dishes"
-        },
-        {
-          "url": "https://thrivemarket.com/p/earth-mama-belly-butter",
-          "title": "Earth Mama Belly Butter | Thrive Market"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "programming-tools",
-      "bookmarks": [
-        {
-          "url": "https://r-project.org/",
-          "title": "R: The R Project for Statistical Computing"
-        },
-        {
-          "url": "https://wiki.openstreetmap.org/wiki/Beginners%27_guide",
-          "title": "Beginners' guide - OpenStreetMap Wiki"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "photography-cameras",
-      "bookmarks": [
-        {
-          "url": "https://digitalcameraworld.com",
-          "title": "Camera news, reviews and features"
-        },
-        {
-          "url": "https://orientacionandujar.es/2021/03/07/actividad-manipulativa-que-hora-es/caracol_barraskiloa_page-0002/",
-          "title": "CARACOL_BARRASKILOA_page-0002 - Orientación Andújar - Recursos Educativos"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "health-fitness",
-      "bookmarks": [
-        {
-          "url": "https://blog.onepeloton.com/couples-fitness/",
-          "title": "Here's Why Couples That Workout Together Stay Together"
-        },
-        {
-          "url": "https://esupervivencia.com/category/blog-ees/",
-          "title": "Blog EES archivos - Escuela Española de Supervivencia"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "misc-web-tools",
       "bookmarks": [
         {
-          "url": "https://amazon.com/flex/faqs/",
-          "title": "Amazon Flex"
-        },
-        {
-          "url": "https://apps.apple.com/us/app/google-family-link/id1150085200",
-          "title": "‎Google Family Link on the App Store"
-        },
-        {
-          "url": "https://cheerstocarla.com/tag/enzo-angiolini/",
-          "title": "enzo angiolini | Cheers to Carla"
-        },
-        {
-          "url": "https://foolsdog.com/Classic1910/",
-          "title": "The Classic 1910 Tarot - The Fools Dog"
-        },
-        {
-          "url": "https://gsesmartiptv.com/privacy/index.html",
+          "url": "http://gsesmartiptv.com/privacy/index.html",
           "title": "App Privacy Policy Generator"
-        },
-        {
-          "url": "https://identidadvisual.com/ab/featured_item/diseno-logo-olviqum-albacete/",
-          "title": "Diseño Logo Olviqum Albacete - IDENTIDAD VISUAL"
         },
         {
           "url": "https://inbuildingtech.com/buildings/brainbox-ai-watttime-partner-to-reduce-co2-emissions-produced-by-cre-properties/",
           "title": "BrainBox AI, WattTime partner to reduce CO2 emissions produced by CRE properties | RCR Wireless News"
         },
         {
-          "url": "https://itex.com/Directory/food_%252526_beverage/mi/grand_rapids/3925707/USD?srcsub=7660&broker_id=210888&website_num=2",
+          "url": "https://www.identidadvisual.com/ab/featured_item/diseno-logo-olviqum-albacete/",
+          "title": "Diseño Logo Olviqum Albacete - IDENTIDAD VISUAL"
+        },
+        {
+          "url": "https://cheerstocarla.com/tag/enzo-angiolini/",
+          "title": "enzo angiolini | Cheers to Carla"
+        },
+        {
+          "url": "https://www.itex.com/Directory/food_%252526_beverage/mi/grand_rapids/3925707/USD?srcsub=7660&broker_id=210888&website_num=2",
           "title": "ITEX"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/No-Code-Tools-No-Code-Founders-3d9a44cb16ef4957b91055673a45e865?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://my.rwjf.org/login.do",
-          "title": "MyRWJF - Sign in"
         },
         {
           "url": "https://outdoorsmagic.com/author/jon-doran/",
@@ -394,55 +32,397 @@
           "title": "LED Leuchtmittel Retrofit (austauschbar)"
         },
         {
-          "url": "https://sunsetkeycottages.com/",
+          "url": "https://www.sunsetkeycottages.com/",
           "title": "Luxury Private Island in Florida Keys | Sunset Key Cottages"
+        },
+        {
+          "url": "https://my.rwjf.org/login.do",
+          "title": "MyRWJF - Sign in"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/No-Code-Tools-No-Code-Founders-3d9a44cb16ef4957b91055673a45e865?pvs=25",
+          "title": "Notion"
         },
         {
           "url": "https://suppliesforjewelers.com/products/pocket-case-wrench",
           "title": "Pocket Case Wrench - Continental Jeweler's Supply"
         },
         {
-          "url": "https://thesprucecrafts.com/how-to-tool-leather-3536816",
+          "url": "http://www.foolsdog.com/Classic1910/",
+          "title": "The Classic 1910 Tarot - The Fools Dog"
+        },
+        {
+          "url": "https://www.thesprucecrafts.com/how-to-tool-leather-3536816",
           "title": "Using Your Woodworking Band Saw Safely"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/google-family-link/id1150085200",
+          "title": "‎Google Family Link on the App Store"
         }
       ],
-      "count": 15
+      "count": 14
+    },
+    {
+      "name": "educational-resources",
+      "bookmarks": [
+        {
+          "url": "http://www.colorbasepair.com/bioinformatics_courses_tutorials.html",
+          "title": "Bioinformatics Courses and Tutorials: online bioinformatics tutorials and courses"
+        },
+        {
+          "url": "https://www.oceanteacher.org",
+          "title": "Home | OceanTeacher Global Academy"
+        },
+        {
+          "url": "https://www.iste.org/standards/computational-thinking",
+          "title": "ISTE | Computational Thinking Competencies"
+        },
+        {
+          "url": "https://jax.readthedocs.io/en/latest/notebooks/neural_network_with_tfds_data.html",
+          "title": "Training a simple neural network, with tensorflow/datasets data loading - JAX documentation"
+        },
+        {
+          "url": "https://www.sonnentaler.net/aktivitaeten/mechanik/bewegung/oekomobil/teil3/ue11/",
+          "title": "Unterrichtseinheit 11: Verschiedene Verkehrsmittel - Multimodalität und Intermodalität"
+        },
+        {
+          "url": "https://www.wolframalpha.com/examples/science-and-technology/physics/",
+          "title": "Wolfram|Alpha Examples: Physics"
+        },
+        {
+          "url": "https://www.aulafacil.com/cursos/programacion/macromedia-dreamweaver/formatos-en-el-panel-de-propiedades-l200",
+          "title": "🥇▷【 Formatos en el Panel de Propiedades - Macromedia Dreamweaver 】"
+        }
+      ],
+      "count": 7
     },
     {
       "name": "misc-web-content",
       "bookmarks": [
         {
-          "url": "https://alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
-          "title": "void"
-        },
-        {
-          "url": "https://chemistri.tumblr.com/",
-          "title": "stu(dying)"
+          "url": "http://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/148575/",
+          "title": "CONTENTdm"
         },
         {
           "url": "https://dakotaathletics.com/main/calendar/caltype/week",
           "title": "Dakota High School Calendar of Events"
         },
         {
+          "url": "https://www.tcacounselors.org/index.php?option=com_jevents&catids=24&task=month.calendar&year=2021&month=08&day=26&Itemid=115",
+          "title": "Event Calendar"
+        },
+        {
           "url": "https://libguides.ala.org/ala-periodicals",
           "title": "Index of Titles - American Library Association Periodicals - LibGuides at American Library Association"
         },
         {
-          "url": "https://specialcollections.le.ac.uk/digital/collection/p16445coll4/id/148575/",
-          "title": "CONTENTdm"
-        },
-        {
-          "url": "https://tcacounselors.org/index.php?option=com_jevents&catids=24&task=month.calendar&year=2021&month=08&day=26&Itemid=115",
-          "title": "Event Calendar"
-        },
-        {
           "url": "https://wiki.muc.ccc.de/start?image=public_pics%3Aherz.jpg&tab_details=view&do=media&tab_files=files&ns=reprap%3Aprints",
           "title": "Making sure you're not a bot!"
+        },
+        {
+          "url": "https://chemistri.tumblr.com/",
+          "title": "stu(dying)"
+        },
+        {
+          "url": "https://www.alfa3de.de/grossraumige-kleiderschranke-aldur-1-1800-x-800-x-500",
+          "title": "void"
         }
       ],
       "count": 7
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://elpais.com/ciencia/",
+          "title": "Ciencia en EL PAÍS"
+        },
+        {
+          "url": "https://www.mlb.com/news/former-minor-league-pitcher-solomon-bates-comes-out-as-gay",
+          "title": "Former Minor League pitcher Solomon Bates comes out as gay"
+        },
+        {
+          "url": "https://www.dailykos.com/stories/2020/3/3/1922951/-Renewable-Tuesday-Polluting-Power-Plant-Data",
+          "title": "Renewable Tuesday: Polluting Power Plant Data You Can Use at Home!"
+        },
+        {
+          "url": "https://www.fonearena.com/blog/355013/samsung-exynos-2200-launch-galaxy-s22.html",
+          "title": "Samsung denies Exynos 2200 production and performance issues, plans to launch it alongside Galaxy S22 series"
+        },
+        {
+          "url": "https://www.hollywoodreporter.com/news/selena-gomez-to-host-multi-network-global-citizen-concert-supporting-covid-19-vaccine-push",
+          "title": "Selena Gomez to Host Global Citizen COVID-19 Vaccine Concert"
+        },
+        {
+          "url": "http://timesofindia.indiatimes.com/",
+          "title": "TOI - Breaking News, Latest News, India News, World News, Bollywood, Sports, Business and Political News | The Times of India"
+        },
+        {
+          "url": "http://www.virgilio.it/",
+          "title": "Virgilio: Mail, Login, Ultime Notizie in tempo reale e tanto altro!"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "social-media-platforms",
+      "bookmarks": [
+        {
+          "url": "https://olive-cole.tumblr.com/",
+          "title": "."
+        },
+        {
+          "url": "https://gracenerissa10.tumblr.com/",
+          "title": "@gracenerissa10 on Tumblr"
+        },
+        {
+          "url": "https://kathleencollinsposts-blog.tumblr.com/",
+          "title": "@kathleencollinsposts-blog on Tumblr"
+        },
+        {
+          "url": "https://discord.com/channels/890663529487687691/",
+          "title": "Discord"
+        },
+        {
+          "url": "https://www.pinterest.com/",
+          "title": "Pinterest"
+        },
+        {
+          "url": "http://www.roblox.com",
+          "title": "Roblox"
+        },
+        {
+          "url": "http://twitpic.com/2xbppo",
+          "title": "Twitpic"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "academic-research",
+      "bookmarks": [
+        {
+          "url": "http://scienceworld.wolfram.com/biography/Eudoxus.html",
+          "title": "Eudoxus of Cnidus (ca. 400-ca. 347 BC) -- from Eric Weisstein's World of Scientific Biography"
+        },
+        {
+          "url": "https://www.exergue.com/h/2016-07/tt/brexit.html",
+          "title": "Exergue - Un Brexit pour rien, Ou pas"
+        },
+        {
+          "url": "https://www.zora.uzh.ch/id/eprint/103117/",
+          "title": "Interval-Dependent Attributes in Relational Database Systems"
+        },
+        {
+          "url": "https://www.neuroscience.ox.ac.uk/publications/371446",
+          "title": "Radiation damage to biological macromolecules: some answers and more questions. - Oxford Neuroscience"
+        },
+        {
+          "url": "https://ceya.udesa.edu.ar/index.php/informationobject/browse?sf_culture=en&view=table&sort=referenceCode&subjects=1199&topLod=0&sortDir=asc&onlyMedia=1",
+          "title": "UdeSA Ceya"
+        },
+        {
+          "url": "http://www.unisi.it/",
+          "title": "Università degli Studi di Siena"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "business-companies",
+      "bookmarks": [
+        {
+          "url": "http://www.as-entreprises.fr/actualites/Actualites_2019-bonne-dynamique.aspx",
+          "title": "Actualités - AS ENTREPRISES"
+        },
+        {
+          "url": "http://www.eponic.com/",
+          "title": "eponic corp"
+        },
+        {
+          "url": "https://www.collabora.com/news-and-blog/?both_page=19&newsandevents_page=9&blogs_page=19",
+          "title": "News & Blog - Open Source Consulting | Collabora"
+        },
+        {
+          "url": "https://bugatti.oemdtc.com/category/recalls",
+          "title": "Recalls | Bugatti - OEMDTC"
+        },
+        {
+          "url": "http://www.nwswireless.com/",
+          "title": "Telecom Infrastructure & Test & Measurement | Home | NWS"
+        },
+        {
+          "url": "http://www.vicair.net/",
+          "title": "Victoria Air Maintenance Ltd - Full-Service AMO at YYJ"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "http://www.militarychild.org/",
+          "title": "Homepage - Military Child Education Coalition® (MCEC®)"
+        },
+        {
+          "url": "http://horizonschildren.org/",
+          "title": "Horizons For Homeless Children | Volunteer Opportunities Boston"
+        },
+        {
+          "url": "https://mulagofoundation.org/",
+          "title": "Mulago Foundation"
+        },
+        {
+          "url": "https://www.na.org/",
+          "title": "Narcotics Anonymous"
+        },
+        {
+          "url": "https://www.navoba.org/",
+          "title": "NaVOBA Home"
+        },
+        {
+          "url": "https://www.cochrane.org/evidence",
+          "title": "Our evidence | Cochrane"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "sports-entertainment",
+      "bookmarks": [
+        {
+          "url": "http://www.dickestel.com/classicexpo.htm",
+          "title": "2003 Classic Gaming Expo in Las Vegas"
+        },
+        {
+          "url": "https://www.klyricsforyou.com/2021/01/iu-celebrity.html",
+          "title": "IU - Celebrity Lyrics - K-Lyrics For You"
+        },
+        {
+          "url": "https://www.kansascitypbs.org/kansas-city-pbs-livestream/",
+          "title": "Kansas City PBS Livestream"
+        },
+        {
+          "url": "https://www.nba.com/standings",
+          "title": "NBA Team Standings & Stats | NBA.com"
+        },
+        {
+          "url": "https://www.metv.com/privacy-policy/",
+          "title": "Privacy Policy"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "technology-tools",
+      "bookmarks": [
+        {
+          "url": "https://www.arcgis.com/home/item.html?id=bee5c01ae891442ebd1cf54894939bad",
+          "title": "ArcGIS"
+        },
+        {
+          "url": "https://readthedocs.org",
+          "title": "Full featured documentation deployment platform - Read the Docs"
+        },
+        {
+          "url": "https://www.ivendi.com/",
+          "title": "iVendi | Automotive Retail Technology"
+        },
+        {
+          "url": "https://www.storyblocks.com/",
+          "title": "Unlimited Stock Videos, Templates, Audio & Images - Storyblocks"
+        },
+        {
+          "url": "https://wordpress.tv/",
+          "title": "WordPress.tv - WordPress-related videos curated and moderated by the WordPress.org community"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "organizations-government",
+      "bookmarks": [
+        {
+          "url": "https://www.usa.gov/",
+          "title": "Making government services easier to find | USAGov"
+        },
+        {
+          "url": "http://www.misau.gov.mz/index.php",
+          "title": "MINISTÉRIO DA SAÚDE"
+        },
+        {
+          "url": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2010rs/billfile/hb0529.htm",
+          "title": "Search - Legislation"
+        },
+        {
+          "url": "https://www.cia.gov/index.html",
+          "title": "We are the Nation's first line of defense - CIA"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "cooking-recipes",
+      "bookmarks": [
+        {
+          "url": "https://thrivemarket.com/p/earth-mama-belly-butter",
+          "title": "Earth Mama Belly Butter | Thrive Market"
+        },
+        {
+          "url": "https://www.sanjeevkapoor.com/",
+          "title": "Masterchef Sanjeev Kapoor Recipes - Taste the Tradition of Indian Cuisine & Innovative Dishes"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85938",
+          "title": "Searchable Recipe Database - Summer Shrimp Scampi With Tomatoes and Corn"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "health-fitness",
+      "bookmarks": [
+        {
+          "url": "https://esupervivencia.com/category/blog-ees/",
+          "title": "Blog EES archivos - Escuela Española de Supervivencia"
+        },
+        {
+          "url": "https://blog.onepeloton.com/couples-fitness/",
+          "title": "Here's Why Couples That Workout Together Stay Together"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "photography-cameras",
+      "bookmarks": [
+        {
+          "url": "https://www.digitalcameraworld.com",
+          "title": "Camera news, reviews and features"
+        },
+        {
+          "url": "https://www.orientacionandujar.es/2021/03/07/actividad-manipulativa-que-hora-es/caracol_barraskiloa_page-0002/",
+          "title": "CARACOL_BARRASKILOA_page-0002 - Orientación Andújar - Recursos Educativos"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "programming-tools",
+      "bookmarks": [
+        {
+          "url": "https://wiki.openstreetmap.org/wiki/Beginners%27_guide",
+          "title": "Beginners' guide - OpenStreetMap Wiki"
+        },
+        {
+          "url": "http://www.R-project.org/",
+          "title": "R: The R Project for Statistical Computing"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 88,
+  "total_bookmarks": 83,
   "num_folders": 15
 }

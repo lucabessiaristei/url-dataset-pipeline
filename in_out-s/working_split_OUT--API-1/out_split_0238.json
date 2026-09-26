@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "corporate-business",
+      "name": "business-corporate",
       "bookmarks": [
         {
           "url": "https://card.apple.com/",
@@ -54,6 +54,10 @@
       "name": "news-media",
       "bookmarks": [
         {
+          "url": "https://www.newsamericasnow.com/tag/guadeloupe-2/",
+          "title": "#GUADELOUPE Articles | News Americas Now"
+        },
+        {
           "url": "https://abcnews.go.com/",
           "title": "ABC News - Breaking News, Latest News and Videos"
         },
@@ -70,28 +74,24 @@
           "title": "Harry Styles talks Pleasing: a brand built on small joys | Dazed"
         },
         {
-          "url": "https://www.newsamericasnow.com/tag/guadeloupe-2/",
-          "title": "#GUADELOUPE Articles | News Americas Now"
+          "url": "https://slate.com/news-and-politics/2021/06/kamala-harris-first-sitting-vice-president-march-pride.html",
+          "title": "Kamala Harris is first sitting vice president to march in Pride event."
         },
         {
           "url": "https://www.bbc.com/news/science_and_environment",
           "title": "Science & Environment | Latest News & Updates | BBC News"
         },
         {
-          "url": "https://slate.com/news-and-politics/2021/06/kamala-harris-first-sitting-vice-president-march-pride.html",
-          "title": "Kamala Harris is first sitting vice president to march in Pride event."
-        },
-        {
           "url": "https://support.theguardian.com?INTCMP=side_menu_support&acquisitionData=%7B%22source%22:%22GUARDIAN_WEB%22,%22componentType%22:%22ACQUISITIONS_HEADER%22,%22componentId%22:%22side_menu_support%22%7D",
           "title": "Support the Guardian"
         },
         {
-          "url": "https://themarkup.org/",
-          "title": "The Markup"
-        },
-        {
           "url": "https://time.com/5935439/tj-osborne/",
           "title": "T.J. Osborne Is Ready to Tell His Story: Exclusive | TIME"
+        },
+        {
+          "url": "https://themarkup.org/",
+          "title": "The Markup"
         },
         {
           "url": "http://www.vogue.com/",
@@ -101,15 +101,155 @@
       "count": 11
     },
     {
+      "name": "misc-web",
+      "bookmarks": [
+        {
+          "url": "https://apostforyou.tumblr.com/",
+          "title": "Autumn ^.^"
+        },
+        {
+          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
+          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
+        },
+        {
+          "url": "http://blog.mailasail.com/desnot",
+          "title": "Desnot's Web Diary"
+        },
+        {
+          "url": "https://helionsf.ro/2019/09/stiri-sf/evenimente/festivalul-flight-un-pas-inainte-pentru-timisoara/attachment/img_5566/",
+          "title": "IMG_5566 | Helion Online"
+        },
+        {
+          "url": "https://sesamo.com/",
+          "title": "Inicio | Sésamo"
+        },
+        {
+          "url": "http://www.etwa.org/",
+          "title": "The English Tiddlywinks Association"
+        },
+        {
+          "url": "http://vanvugtvenlo.nl/actueel/posts.php?cat=18",
+          "title": "Website Maikel van Vugt"
+        },
+        {
+          "url": "http://gelitten.de/archive/tag/witzig",
+          "title": "witzig | gelitten.de"
+        },
+        {
+          "url": "https://forum.root.cz/index.php?action=profile;area=showposts;sa=topics;u=247",
+          "title": "Zobrazit příspěvky - Václav Švejcar"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "archive-broken-links",
+      "bookmarks": [
+        {
+          "url": "https://www.ihrimmobilienmaklerheidelberg.com/nationale-und-internationale-immobilienbewertung-grundlagen-und-vergleiche",
+          "title": "300 Multiple Choices"
+        },
+        {
+          "url": "https://climalit.es/category/ahorro/",
+          "title": "Ahorro archivos - Climalit"
+        },
+        {
+          "url": "https://online.mines.edu/",
+          "title": "Home - Mines Online"
+        },
+        {
+          "url": "https://ferrari.oemdtc.com/category/recalls",
+          "title": "Recalls | Ferrari - OEMDTC"
+        },
+        {
+          "url": "https://go.peoplepower.org/signup/join-our-people-power-volunteer-teams/?type=call",
+          "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
+        },
+        {
+          "url": "https://www.thehousecollective.com/en/the-middle-house/",
+          "title": "The Middle House | Artistic hotel in Dazhongli Shanghai | The House Collective"
+        },
+        {
+          "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
+          "title": "UK climate maps and data - Met Office"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "education-research",
+      "bookmarks": [
+        {
+          "url": "https://www.editorialmanager.com/one-earth",
+          "title": "Editorial Manager®"
+        },
+        {
+          "url": "https://research.mines.edu/",
+          "title": "Home - Research and Technology Transfer"
+        },
+        {
+          "url": "http://www.dqxxkx.cn/EN/volumn/volumn_3431.shtml",
+          "title": "Journal of Geo-information Science"
+        },
+        {
+          "url": "http://www.cite-sciences.fr/home_flash/index.html",
+          "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
+        },
+        {
+          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
+          "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
+        },
+        {
+          "url": "https://ucmp.berkeley.edu/collections/vertebrate-collection/preparation/",
+          "title": "Preparation Lab"
+        },
+        {
+          "url": "https://www.metmuseum.org/toah/hd/pape/hd_pape.htm",
+          "title": "The Papacy during the Renaissance - The Metropolitan Museum of Art"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "shopping-ecommerce",
+      "bookmarks": [
+        {
+          "url": "https://www.carrefour.ro/",
+          "title": "Bine ai venit pe Carrefour.ro | Carrefour Romania"
+        },
+        {
+          "url": "https://demoshop.billie.io/lebensmittel/fisch/12/bio-seelachs",
+          "title": "Bio Seelachs | Fisch | Lebensmittel | Demoshop Billie"
+        },
+        {
+          "url": "https://www.thomann.de/gb/electric_guitars.html",
+          "title": "Buy Electric Guitars at Thomann - Thomann UK"
+        },
+        {
+          "url": "https://cosmeticsmall.eu/en/stik-za-zheni-dove/128-dove-fresh-touch-krastavica-stik-za-zheni-protiv-izpotyavane-s-khidratirassh-krem-dav-8000630040843.html",
+          "title": "DOVE Fresh Touch краставица стик за жени против изпотяване с хидратиращ крем ДАВ"
+        },
+        {
+          "url": "https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY",
+          "title": "Flipkart Kilos: Online Grocery Store with Up to 80% OFF"
+        },
+        {
+          "url": "https://henneorganics.com/luxury-lip-tint-intrigue?",
+          "title": "Nontoxic and sheer, moisturizing lip color. | Luxury Lip Tint - Intrigue - Henné Organics"
+        },
+        {
+          "url": "https://www.myollie.com/",
+          "title": "Ollie: Fresh & Healthy, Human-Grade Dog Food Delivery"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "gov-nonprofit",
       "bookmarks": [
         {
           "url": "https://www.naacp.org/act-so/",
           "title": "ACT-SO Achievement Program"
-        },
-        {
-          "url": "https://www.adcouncil.org/covid-vaccine",
-          "title": "Our COVID-19 Vaccine Retrospective | Ad Council"
         },
         {
           "url": "https://consumer.ftc.gov/consumer-alerts",
@@ -118,6 +258,10 @@
         {
           "url": "http://www.ustranssurvey.org/reports",
           "title": "Download Reports - US Trans Survey"
+        },
+        {
+          "url": "https://www.adcouncil.org/covid-vaccine",
+          "title": "Our COVID-19 Vaccine Retrospective | Ad Council"
         },
         {
           "url": "https://info.uptogether.org/infosession/general",
@@ -131,41 +275,7 @@
       "count": 6
     },
     {
-      "name": "shopping-ecommerce",
-      "bookmarks": [
-        {
-          "url": "https://demoshop.billie.io/lebensmittel/fisch/12/bio-seelachs",
-          "title": "Bio Seelachs | Fisch | Lebensmittel | Demoshop Billie"
-        },
-        {
-          "url": "https://www.carrefour.ro/",
-          "title": "Bine ai venit pe Carrefour.ro | Carrefour Romania"
-        },
-        {
-          "url": "https://cosmeticsmall.eu/en/stik-za-zheni-dove/128-dove-fresh-touch-krastavica-stik-za-zheni-protiv-izpotyavane-s-khidratirassh-krem-dav-8000630040843.html",
-          "title": "DOVE Fresh Touch краставица стик за жени против изпотяване с хидратиращ крем ДАВ"
-        },
-        {
-          "url": "https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY",
-          "title": "Flipkart Kilos: Online Grocery Store with Up to 80% OFF"
-        },
-        {
-          "url": "https://www.myollie.com/",
-          "title": "Ollie: Fresh & Healthy, Human-Grade Dog Food Delivery"
-        },
-        {
-          "url": "https://henneorganics.com/luxury-lip-tint-intrigue?",
-          "title": "Nontoxic and sheer, moisturizing lip color. | Luxury Lip Tint - Intrigue - Henné Organics"
-        },
-        {
-          "url": "https://www.thomann.de/gb/electric_guitars.html",
-          "title": "Buy Electric Guitars at Thomann - Thomann UK"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "tools-software",
+      "name": "software-tools",
       "bookmarks": [
         {
           "url": "https://thenounproject.com/",
@@ -195,38 +305,96 @@
       "count": 6
     },
     {
-      "name": "education-research",
+      "name": "programming-resources",
       "bookmarks": [
         {
-          "url": "https://www.editorialmanager.com/one-earth",
-          "title": "Editorial Manager®"
+          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html",
+          "title": "Get started with Elasticsearch | Elastic Docs"
         },
         {
-          "url": "https://research.mines.edu/",
-          "title": "Home - Research and Technology Transfer"
+          "url": "https://www.kaggle.com/learn",
+          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
         },
         {
-          "url": "http://www.dqxxkx.cn/EN/volumn/volumn_3431.shtml",
-          "title": "Journal of Geo-information Science"
+          "url": "https://m3.material.io/styles/color/the-color-system/key-colors-tones",
+          "title": "Material Design"
         },
         {
-          "url": "http://www.cite-sciences.fr/home_flash/index.html",
-          "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
+          "url": "https://proj.org/usage/quickstart.html",
+          "title": "Quick start - PROJ 9.7.0 documentation"
         },
         {
-          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
-          "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
-        },
-        {
-          "url": "https://www.metmuseum.org/toah/hd/pape/hd_pape.htm",
-          "title": "The Papacy during the Renaissance - The Metropolitan Museum of Art"
-        },
-        {
-          "url": "https://ucmp.berkeley.edu/collections/vertebrate-collection/preparation/",
-          "title": "Preparation Lab"
+          "url": "https://resources.github.com/devops/fundamentals/devsecops/",
+          "title": "What is DevSecOps? · GitHub"
         }
       ],
-      "count": 7
+      "count": 5
+    },
+    {
+      "name": "books-literature",
+      "bookmarks": [
+        {
+          "url": "https://www.jetsdencre.fr/l-Evolution-_r_66_i_1398.html",
+          "title": "L'Évolution - Jets d'Encre"
+        },
+        {
+          "url": "https://www.penguinrandomhouse.com/books/318615/my-name-is-barbra-by-barbra-streisand/?ref=PRH61D056F1F743&aid=3377&linkid=PRH61D056F1F743",
+          "title": "My Name Is Barbra by Barbra Streisand: 9780525429524 | PenguinRandomHouse.com: Books"
+        },
+        {
+          "url": "https://readordiebyemilyt.tumblr.com/",
+          "title": "Read or Die: Book Reviews by Emily"
+        },
+        {
+          "url": "https://www.lespressesdureel.com/EN/auteur.php?id=661&",
+          "title": "Susan Hiller - Les presses du réel"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "design-resources",
+      "bookmarks": [
+        {
+          "url": "https://fonts.ilovetypography.com/",
+          "title": "Buy fonts from your favorite indie foundries.... | I Love Typography"
+        },
+        {
+          "url": "https://artmillgroup.com/services/contemporary-framing-alternatives/",
+          "title": "Contemporary Framing Alternatives"
+        },
+        {
+          "url": "https://www.designdo.fr/blog/quand-lesoterique-sinvite-dans-le-design/",
+          "title": "Quand l'ésotérique s'invite dans le design - Agence O"
+        },
+        {
+          "url": "https://sketchplanations.com/",
+          "title": "Sketchplanations - Simplifying complex ideas in sketches"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "environment-sustainability",
+      "bookmarks": [
+        {
+          "url": "https://www.ekokom.cz/en/",
+          "title": "EKO-KOM - Systém sběru a recyklace obalových odpadů"
+        },
+        {
+          "url": "https://belize.oceana.org/",
+          "title": "Home - Oceana Belize"
+        },
+        {
+          "url": "https://www.inobat.ch/",
+          "title": "INOBAT | Home"
+        },
+        {
+          "url": "http://www.zeos.si",
+          "title": "Ločeno zbiranje odpadkov » Zeleni svet | Shema ZEOS"
+        }
+      ],
+      "count": 4
     },
     {
       "name": "health-wellness",
@@ -273,74 +441,6 @@
       "count": 4
     },
     {
-      "name": "misc-web",
-      "bookmarks": [
-        {
-          "url": "https://apostforyou.tumblr.com/",
-          "title": "Autumn ^.^"
-        },
-        {
-          "url": "https://www.soydemac.com/controlar-apple-glass-mirada-posible-patente/",
-          "title": "Controlar funciones de las Apple Glass con la mirada sería posible con esta patente"
-        },
-        {
-          "url": "http://blog.mailasail.com/desnot",
-          "title": "Desnot's Web Diary"
-        },
-        {
-          "url": "http://www.etwa.org/",
-          "title": "The English Tiddlywinks Association"
-        },
-        {
-          "url": "https://helionsf.ro/2019/09/stiri-sf/evenimente/festivalul-flight-un-pas-inainte-pentru-timisoara/attachment/img_5566/",
-          "title": "IMG_5566 | Helion Online"
-        },
-        {
-          "url": "https://sesamo.com/",
-          "title": "Inicio | Sésamo"
-        },
-        {
-          "url": "http://vanvugtvenlo.nl/actueel/posts.php?cat=18",
-          "title": "Website Maikel van Vugt"
-        },
-        {
-          "url": "http://gelitten.de/archive/tag/witzig",
-          "title": "witzig | gelitten.de"
-        },
-        {
-          "url": "https://forum.root.cz/index.php?action=profile;area=showposts;sa=topics;u=247",
-          "title": "Zobrazit příspěvky - Václav Švejcar"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "programming-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html",
-          "title": "Get started with Elasticsearch | Elastic Docs"
-        },
-        {
-          "url": "https://www.kaggle.com/learn",
-          "title": "Learn Python, Data Viz, Pandas & More | Tutorials | Kaggle"
-        },
-        {
-          "url": "https://m3.material.io/styles/color/the-color-system/key-colors-tones",
-          "title": "Material Design"
-        },
-        {
-          "url": "https://proj.org/usage/quickstart.html",
-          "title": "Quick start - PROJ 9.7.0 documentation"
-        },
-        {
-          "url": "https://resources.github.com/devops/fundamentals/devsecops/",
-          "title": "What is DevSecOps? · GitHub"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "services",
       "bookmarks": [
         {
@@ -358,72 +458,6 @@
         {
           "url": "https://www.eventbrite.sg/e/low-cost-untraditional-e-commerce-business-for-the-e-commerce-professional-tickets-545261871937?aff=erelexpmlt",
           "title": "Low Cost Untraditional E-commerce Business for the E-commerce Professional Tickets, Fri, Mar 3, 2023 at 11:00 AM | Eventbrite"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "books-literature",
-      "bookmarks": [
-        {
-          "url": "https://www.jetsdencre.fr/l-Evolution-_r_66_i_1398.html",
-          "title": "L'Évolution - Jets d'Encre"
-        },
-        {
-          "url": "https://www.penguinrandomhouse.com/books/318615/my-name-is-barbra-by-barbra-streisand/?ref=PRH61D056F1F743&aid=3377&linkid=PRH61D056F1F743",
-          "title": "My Name Is Barbra by Barbra Streisand: 9780525429524 | PenguinRandomHouse.com: Books"
-        },
-        {
-          "url": "https://readordiebyemilyt.tumblr.com/",
-          "title": "Read or Die: Book Reviews by Emily"
-        },
-        {
-          "url": "https://www.lespressesdureel.com/EN/auteur.php?id=661&",
-          "title": "Susan Hiller - Les presses du réel"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "design-resources",
-      "bookmarks": [
-        {
-          "url": "https://artmillgroup.com/services/contemporary-framing-alternatives/",
-          "title": "Contemporary Framing Alternatives"
-        },
-        {
-          "url": "https://fonts.ilovetypography.com/",
-          "title": "Buy fonts from your favorite indie foundries.... | I Love Typography"
-        },
-        {
-          "url": "https://www.designdo.fr/blog/quand-lesoterique-sinvite-dans-le-design/",
-          "title": "Quand l'ésotérique s'invite dans le design - Agence O"
-        },
-        {
-          "url": "https://sketchplanations.com/",
-          "title": "Sketchplanations - Simplifying complex ideas in sketches"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "environment-sustainability",
-      "bookmarks": [
-        {
-          "url": "https://www.ekokom.cz/en/",
-          "title": "EKO-KOM - Systém sběru a recyklace obalových odpadů"
-        },
-        {
-          "url": "https://belize.oceana.org/",
-          "title": "Home - Oceana Belize"
-        },
-        {
-          "url": "https://www.inobat.ch/",
-          "title": "INOBAT | Home"
-        },
-        {
-          "url": "http://www.zeos.si",
-          "title": "Ločeno zbiranje odpadkov » Zeleni svet | Shema ZEOS"
         }
       ],
       "count": 4
@@ -451,15 +485,33 @@
       "count": 4
     },
     {
+      "name": "food-recipes",
+      "bookmarks": [
+        {
+          "url": "https://www.jocooks.com/blog/",
+          "title": "Blog - Jo Cooks"
+        },
+        {
+          "url": "http://www.moldrek.com/",
+          "title": "Ricette di cucina italiane e regionali tutte gratis"
+        },
+        {
+          "url": "http://www.ricetteculinarie.it/",
+          "title": "RicetteCulinarie, il sito della buona cucina!"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "industry-agriculture",
       "bookmarks": [
         {
-          "url": "https://www.foodsafetynews.com/tag/missouri-cattlemen/",
-          "title": "Missouri cattlemen | Food Safety News"
-        },
-        {
           "url": "http://zuk.pulawy.pl/tag/glekomp/",
           "title": "GLEKOMP - Zakład Usług Komunalnych"
+        },
+        {
+          "url": "https://www.foodsafetynews.com/tag/missouri-cattlemen/",
+          "title": "Missouri cattlemen | Food Safety News"
         },
         {
           "url": "https://www.oceng.cz/produkty/zubovy-system-elite-trida/",
@@ -487,74 +539,22 @@
       "count": 3
     },
     {
-      "name": "recipes-food",
-      "bookmarks": [
-        {
-          "url": "https://www.jocooks.com/blog/",
-          "title": "Blog - Jo Cooks"
-        },
-        {
-          "url": "http://www.moldrek.com/",
-          "title": "Ricette di cucina italiane e regionali tutte gratis"
-        },
-        {
-          "url": "http://www.ricetteculinarie.it/",
-          "title": "RicetteCulinarie, il sito della buona cucina!"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "streaming-video",
+      "name": "video-streaming",
       "bookmarks": [
         {
           "url": "https://www.hulu.com/",
           "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
         },
         {
-          "url": "https://www.primevideo.com",
-          "title": "Welcome to Prime Video"
-        },
-        {
           "url": "https://www.here.tv",
           "title": "Watch LGBTQ+ Movies & Series Online | Here TV"
+        },
+        {
+          "url": "https://www.primevideo.com",
+          "title": "Welcome to Prime Video"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "archive-broken-links",
-      "bookmarks": [
-        {
-          "url": "https://climalit.es/category/ahorro/",
-          "title": "Ahorro archivos - Climalit"
-        },
-        {
-          "url": "https://ferrari.oemdtc.com/category/recalls",
-          "title": "Recalls | Ferrari - OEMDTC"
-        },
-        {
-          "url": "https://www.ihrimmobilienmaklerheidelberg.com/nationale-und-internationale-immobilienbewertung-grundlagen-und-vergleiche",
-          "title": "300 Multiple Choices"
-        },
-        {
-          "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
-          "title": "UK climate maps and data - Met Office"
-        },
-        {
-          "url": "https://online.mines.edu/",
-          "title": "Home - Mines Online"
-        },
-        {
-          "url": "https://www.thehousecollective.com/en/the-middle-house/",
-          "title": "The Middle House | Artistic hotel in Dazhongli Shanghai | The House Collective"
-        },
-        {
-          "url": "https://go.peoplepower.org/signup/join-our-people-power-volunteer-teams/?type=call",
-          "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
-        }
-      ],
-      "count": 7
     }
   ],
   "total_bookmarks": 109,

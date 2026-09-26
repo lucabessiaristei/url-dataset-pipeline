@@ -126,20 +126,20 @@
           "title": "Blubrry Player"
         },
         {
-          "url": "https://www.brooklynartlibrary.org/sketchbookproject",
-          "title": "Participate - Brooklyn Art Library / The Sketchbook Project"
+          "url": "https://johnratajkowskiart.com/",
+          "title": "John Ratajkowski"
         },
         {
           "url": "http://www.cite-sciences.fr/home_flash/index.html",
           "title": "La page n'existe pas - Accueil Cité des sciences et de l'industrie - Expositions, conférences, cinémas, activités culturelles et sorties touristiques pour les enfants, les parents, les familles - Paris"
         },
         {
-          "url": "https://johnratajkowskiart.com/",
-          "title": "John Ratajkowski"
-        },
-        {
           "url": "https://aafca.squarespace.com/meet-the-cofounders",
           "title": "Meet The Co-Founders - AAFCA"
+        },
+        {
+          "url": "https://www.brooklynartlibrary.org/sketchbookproject",
+          "title": "Participate - Brooklyn Art Library / The Sketchbook Project"
         },
         {
           "url": "http://www.etwa.org/",
@@ -183,15 +183,11 @@
       "count": 7
     },
     {
-      "name": "fashion-home-shopping",
+      "name": "shopping-fashion-home",
       "bookmarks": [
         {
           "url": "https://www.thecompanystore.com/300-thread-count-bamboo-cotton-sateen-sheet-set/EC44-A18.html",
           "title": "300-Thread Count Rayon Made From Bamboo Cotton Sateen Sheet Set | The Company Store"
-        },
-        {
-          "url": "https://www.dagnedover.com/collections/vida-tote?",
-          "title": "Tote Bags - Everyday Organizational Tote Bags | Dagne Dover"
         },
         {
           "url": "https://fabfitfun.com/",
@@ -204,6 +200,10 @@
         {
           "url": "https://www.stevemadden.in/",
           "title": "Steve Madden India | Shoes, Boots, Handbags & More"
+        },
+        {
+          "url": "https://www.dagnedover.com/collections/vida-tote?",
+          "title": "Tote Bags - Everyday Organizational Tote Bags | Dagne Dover"
         },
         {
           "url": "https://api.mirraw.com/designers/varanga-17756/designs/women-magenta-golden-paisley-printed-a-line-kurta-kurtas-and-kurtis",
@@ -242,6 +242,10 @@
       "name": "career-development-marketing",
       "bookmarks": [
         {
+          "url": "https://reidjon.tumblr.com/post/143085058968",
+          "title": "Jon Reid Tumbling | 16% of all new wages in the U.S. are in computer..."
+        },
+        {
           "url": "https://blog.linkedin.com/?trk=homepage-basic_directory_blogMicrositeUrl",
           "title": "Official LinkedIn Blog"
         },
@@ -252,10 +256,6 @@
         {
           "url": "https://briansit.tumblr.com/post/139767572218",
           "title": "Sure, If you say so. - codeorg: What we think of computer science is..."
-        },
-        {
-          "url": "https://reidjon.tumblr.com/post/143085058968",
-          "title": "Jon Reid Tumbling | 16% of all new wages in the U.S. are in computer..."
         }
       ],
       "count": 4
@@ -352,6 +352,10 @@
       "name": "social-media-blogs",
       "bookmarks": [
         {
+          "url": "https://mark-watney-spacepirate.tumblr.com/",
+          "title": "@mark-watney-spacepirate on Tumblr"
+        },
+        {
           "url": "https://angusmon.tumblr.com/",
           "title": "Angusmon"
         },
@@ -362,10 +366,6 @@
         {
           "url": "https://iteanet.blogspot.com/2010/11/",
           "title": "Itea net : Νοεμβρίου 2010"
-        },
-        {
-          "url": "https://mark-watney-spacepirate.tumblr.com/",
-          "title": "@mark-watney-spacepirate on Tumblr"
         }
       ],
       "count": 4
@@ -443,19 +443,19 @@
       "count": 3
     },
     {
-      "name": "health-insurance-finance",
+      "name": "government-public-services",
       "bookmarks": [
         {
-          "url": "http://www.centene.com/",
-          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
+          "url": "https://espanol.cdc.gov/enes/coronavirus/2019-ncov/travelers/cruise-travel-during-covid19.html",
+          "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
         },
         {
-          "url": "https://www.mojgrad.rs/Sremska-Mitrovica/Finansije-i-pravo/Finansijsko-posredovanje-investicioni-fondovi-leasing",
-          "title": "Finansijsko posredovanje, investicioni fondovi, leasing - Sremska Mitrovica, Sremska Mitrovica | mojgrad.rs"
+          "url": "https://meteofrance.com/previsions-meteo-france/paris/75000",
+          "title": "METEO PARIS par Météo-France - Prévisions Météo gratuites pour aujourd'hui, demain et à 15 jours."
         },
         {
-          "url": "https://www.sunfirematrix.com/app/consumer/wis/?utm_source=walmart&utm_medium=referral&utm_campaign=LHN",
-          "title": "SunFire Medicare Plan Finder"
+          "url": "https://www.militaryonesource.mil/",
+          "title": "Support for Military Personnel & Families | Military OneSource"
         }
       ],
       "count": 3
@@ -479,12 +479,8 @@
       "count": 3
     },
     {
-      "name": "legal-policies-documents",
+      "name": "legal-policy-documents",
       "bookmarks": [
-        {
-          "url": "https://docs.microsoft.com/en-us/lifecycle/faq/internet-explorer-microsoft-edge",
-          "title": "Lifecycle FAQ - Internet Explorer and Microsoft Edge | Microsoft Learn"
-        },
         {
           "url": "http://mapbox.com/legal/tos/",
           "title": "Legal information about Terms of Service"
@@ -496,24 +492,6 @@
         {
           "url": "https://uit.stanford.edu/security/copyright-infringement",
           "title": "Report Alleged Copyright Infringement | University IT"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "public-government-services",
-      "bookmarks": [
-        {
-          "url": "https://espanol.cdc.gov/enes/coronavirus/2019-ncov/travelers/cruise-travel-during-covid19.html",
-          "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
-        },
-        {
-          "url": "https://meteofrance.com/previsions-meteo-france/paris/75000",
-          "title": "METEO PARIS par Météo-France - Prévisions Météo gratuites pour aujourd'hui, demain et à 15 jours."
-        },
-        {
-          "url": "https://www.militaryonesource.mil/",
-          "title": "Support for Military Personnel & Families | Military OneSource"
         }
       ],
       "count": 3
@@ -535,8 +513,22 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "health-insurance-finance",
+      "bookmarks": [
+        {
+          "url": "http://www.centene.com/",
+          "title": "Managed Care & Healthcare Solutions | Centene Corporation"
+        },
+        {
+          "url": "https://www.sunfirematrix.com/app/consumer/wis/?utm_source=walmart&utm_medium=referral&utm_campaign=LHN",
+          "title": "SunFire Medicare Plan Finder"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 101,
+  "total_bookmarks": 99,
   "num_folders": 22
 }

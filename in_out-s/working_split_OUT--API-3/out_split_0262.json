@@ -4,7 +4,15 @@
       "name": "academic-research-education",
       "bookmarks": [
         {
-          "url": "https://blog.coursera.org/",
+          "url": "https://projecteuler.net/archives",
+          "title": "Archived Problems - Project Euler"
+        },
+        {
+          "url": "https://www.collegeboard.org",
+          "title": "College Board - SAT, AP, College Search and Admission Tools"
+        },
+        {
+          "url": "https://blog.coursera.org",
           "title": "Coursera Blog | Online learning news for learners, educators, & employers"
         },
         {
@@ -12,11 +20,7 @@
           "title": "CS50x 2024"
         },
         {
-          "url": "https://collegeboard.org/",
-          "title": "College Board - SAT, AP, College Search and Admission Tools"
-        },
-        {
-          "url": "https://dinosaurtheory.com/theory.html",
+          "url": "http://dinosaurtheory.com/theory.html",
           "title": "Explains Scientific Theories and Inductive Reasoning"
         },
         {
@@ -24,7 +28,7 @@
           "title": "In this corner... - Maryland moves to increase diversity in computer science"
         },
         {
-          "url": "https://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
+          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
           "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
         },
         {
@@ -32,7 +36,7 @@
           "title": "Making sure you're not a bot!"
         },
         {
-          "url": "https://metashare.csc.fi/repository/search/",
+          "url": "https://metashare.csc.fi/repository/search/?q=&selected_facets=availabilityFilter_exact%3AAvailable%20-%20Restricted%20Use&selected_facets=useNlpSpecificFilter_exact%3ALinguistic%20Research&selected_facets=timeCoverageFilter_exact%3A1920-1939&selected_facets=licenceFilter_exact%3AUnder%20Negotiation&selected_facets=foreseenUseFilter_exact%3AHuman%20Use&selected_facets=languageNameFilter_exact%3ATundra%20Nenets&selected_facets=languageNameFilter_exact%3AEastern%20Mari&selected_facets=languageNameFilter_exact%3ASelkup",
           "title": "META-SHARE | Kielipankki"
         },
         {
@@ -40,24 +44,20 @@
           "title": "New Testament Library in Accordance - Brian W. Davidson"
         },
         {
-          "url": "https://numbertheory.org/ntw/N5.html",
-          "title": "ONLINE THESES IN NUMBER THEORY"
+          "url": "http://oceansci.ucsc.edu",
+          "title": "Ocean Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
         },
         {
-          "url": "https://oceansci.ucsc.edu/",
-          "title": "Ocean Sciences - This tagline is shown in search engine results. Change your site's tagline in Settings > General."
+          "url": "http://www.numbertheory.org/ntw/N5.html",
+          "title": "ONLINE THESES IN NUMBER THEORY"
         },
         {
           "url": "https://orbilu.uni.lu/handle/10993/42473",
           "title": "ORBilu: Detailed Reference"
         },
         {
-          "url": "https://outlier.uchicago.edu/",
+          "url": "http://outlier.uchicago.edu/",
           "title": "Outlier - UChicago STEM Education"
-        },
-        {
-          "url": "https://projecteuler.net/archives",
-          "title": "Archived Problems - Project Euler"
         },
         {
           "url": "https://venividigames.tumblr.com/post/90353269558",
@@ -74,35 +74,7 @@
           "title": "Art Storefronts Features - New Additions to the ASF Platform"
         },
         {
-          "url": "https://boehms-dax-strategie.de/geldanlagetipps/finanzen/umweltsuender-bitcoin.html",
-          "title": "Umweltsünder Bitcoin? Böhms DAX-Strategie"
-        },
-        {
-          "url": "https://currenthealth.com/",
-          "title": "Current Health"
-        },
-        {
-          "url": "https://diyappreview.com/",
-          "title": "Importance of Gold IRA Companies, THCa, Delta 9, Peptides, and Mushrooms - Diya Preview"
-        },
-        {
-          "url": "https://madrona.com/",
-          "title": "Madrona"
-        },
-        {
-          "url": "https://measuredsolutions.com/",
-          "title": "Home - Measured Solutions"
-        },
-        {
-          "url": "https://neighborhoodtrust.org/",
-          "title": "Financial security for all workers - Neighborhood Trust Financial Partners"
-        },
-        {
-          "url": "https://press.stripe.com/",
-          "title": "Stripe Press - Ideas for progress"
-        },
-        {
-          "url": "https://responsiblemineralsinitiative.org/conflict-minerals-reporting-template/",
+          "url": "http://www.responsiblemineralsinitiative.org/conflict-minerals-reporting-template/",
           "title": "Conflict Minerals Reporting Template"
         },
         {
@@ -110,29 +82,111 @@
           "title": "Contact Us - Securus Technologies"
         },
         {
+          "url": "https://www.currenthealth.com/",
+          "title": "Current Health"
+        },
+        {
+          "url": "https://neighborhoodtrust.org/",
+          "title": "Financial security for all workers - Neighborhood Trust Financial Partners"
+        },
+        {
+          "url": "http://measuredsolutions.com/",
+          "title": "Home - Measured Solutions"
+        },
+        {
+          "url": "http://www.diyappreview.com",
+          "title": "Importance of Gold IRA Companies, THCa, Delta 9, Peptides, and Mushrooms - Diya Preview"
+        },
+        {
+          "url": "http://www.madrona.com/",
+          "title": "Madrona"
+        },
+        {
+          "url": "https://www.zettle.com/gb",
+          "title": "PayPal Point of Sale | POS & payment solutions | PayPal GB"
+        },
+        {
           "url": "https://support.serviceshub.microsoft.com/supportforbusiness",
           "title": "Services Hub"
         },
         {
-          "url": "https://userzoom.com/ux-blog/",
-          "title": "UserZoom Platform | UserTesting | UX Research Capabilities"
+          "url": "https://press.stripe.com/",
+          "title": "Stripe Press - Ideas for progress"
         },
         {
-          "url": "https://zettle.com/gb",
-          "title": "PayPal Point of Sale | POS & payment solutions | PayPal GB"
+          "url": "https://www.boehms-dax-strategie.de/geldanlagetipps/finanzen/umweltsuender-bitcoin.html",
+          "title": "Umweltsünder Bitcoin? Böhms DAX-Strategie"
+        },
+        {
+          "url": "https://www.userzoom.com/ux-blog/",
+          "title": "UserZoom Platform | UserTesting | UX Research Capabilities"
         }
       ],
       "count": 13
     },
     {
-      "name": "government-law-international",
+      "name": "entertainment-media-gaming",
       "bookmarks": [
         {
-          "url": "https://army-guide.com/eng/product321.html",
+          "url": "https://www.upi.com/Entertainment_News/2004/05/04/ABC-fires-Lisa-Guerrero-from-football-gig/67291083696468/",
+          "title": "ABC fires Lisa Guerrero from football gig - UPI.com"
+        },
+        {
+          "url": "https://cineclub.de/filmarchiv/z/v.html",
+          "title": "Cineclub - Filmarchiv: v"
+        },
+        {
+          "url": "https://www.cinemax.com/",
+          "title": "Cinemax: Official Website Featuring Original Series, Movies & More"
+        },
+        {
+          "url": "https://www.roku.com/products/roku-ultra",
+          "title": "Close"
+        },
+        {
+          "url": "https://www.siriusxm.com/channels/elvis-radio",
+          "title": "Elvis Radio: Music from Elvis Presley | SiriusXM"
+        },
+        {
+          "url": "https://www.esrb.org",
+          "title": "ESRB Ratings | Entertainment Software Rating Board"
+        },
+        {
+          "url": "https://fun.chicagotribune.com/#nt=primarynavbar",
+          "title": "Fun & Games | Free Online Games, Puzzles, Crosswords & Jumbles | Chicago Tribune"
+        },
+        {
+          "url": "https://www.complex.com/music/jay-z-beyonce-michael-rubin-july-4th-party-performances-drake-lil-baby-travis-scott",
+          "title": "Jay-Z, Beyoncé, and More Attend Michael Rubin's July 4th ..."
+        },
+        {
+          "url": "https://www.iheart.com/podcast/",
+          "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
+        },
+        {
+          "url": "http://www.people.com/tag/marlon-brando/",
+          "title": "Marlon Brando"
+        },
+        {
+          "url": "https://blog.youtube/",
+          "title": "Official YouTube Blog for Latest YouTube News & Insights"
+        },
+        {
+          "url": "https://www.eonline.com/news/1366491/teen-moms-ryan-edwards-and-wife-mackenzie-break-up-after-6-years-of-marriage",
+          "title": "Teen Mom's Ryan Edwards and Wife Mackenzie Break Up"
+        }
+      ],
+      "count": 12
+    },
+    {
+      "name": "government-international-law",
+      "bookmarks": [
+        {
+          "url": "http://www.army-guide.com/eng/product321.html",
           "title": "Army Guide"
         },
         {
-          "url": "https://covid.cdc.gov/covid-data-tracker/",
+          "url": "https://covid.cdc.gov/covid-data-tracker/#county-view",
           "title": "CDT Redirect Page"
         },
         {
@@ -140,153 +194,65 @@
           "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
         },
         {
-          "url": "https://fao.org/documents/card/en/c/ca7012en",
-          "title": "FAO Knowledge Repository"
-        },
-        {
-          "url": "https://flsenate.gov/laws/constitution",
-          "title": "The Florida Constitution - The Florida Senate"
-        },
-        {
-          "url": "https://landkreis-bamberg.de/Landratsamt/Verwaltung/Landratsamt-A-Z/%C3%96ffentliche-Sicherheit/Sprengstoffrecht/",
-          "title": "Sprengstoffrecht"
-        },
-        {
-          "url": "https://law.cornell.edu/wex/engel_v._vitale_(1962)",
-          "title": "Engel v. Vitale (1962) | Wex | US Law | LII / Legal Information Institute"
-        },
-        {
-          "url": "https://mint.gov.hr/rss.aspx",
-          "title": "RSS"
-        },
-        {
-          "url": "https://nlm.nih.gov/socialmedia/index.html",
+          "url": "https://www.nlm.nih.gov/socialmedia/index.html",
           "title": "Connect with NLM"
         },
         {
-          "url": "https://sernapesca.cl/",
+          "url": "https://www.law.cornell.edu/wex/engel_v._vitale_(1962)#:~:text=Primary%20tabs-,Engel%20v.,was%20increasingly%20pluralistic%20and%20secular.",
+          "title": "Engel v. Vitale (1962) | Wex | US Law | LII / Legal Information Institute"
+        },
+        {
+          "url": "http://www.fao.org/documents/card/en/c/ca7012en",
+          "title": "FAO Knowledge Repository"
+        },
+        {
+          "url": "https://mint.gov.hr/rss.aspx/?lng=&ID=0",
+          "title": "RSS"
+        },
+        {
+          "url": "http://www.sernapesca.cl/",
           "title": "sernapesca"
         },
         {
-          "url": "https://wto.org/english/tratop_e/rulesneg_e/fish_e/fish_e.htm",
+          "url": "https://www.landkreis-bamberg.de/Landratsamt/Verwaltung/Landratsamt-A-Z/%C3%96ffentliche-Sicherheit/Sprengstoffrecht/?ModID=10&object=tx%7C2892.2.1&NavID=2892.254&La=1&alpha=B",
+          "title": "Sprengstoffrecht"
+        },
+        {
+          "url": "https://www.flsenate.gov/laws/constitution",
+          "title": "The Florida Constitution - The Florida Senate"
+        },
+        {
+          "url": "https://www.wto.org/english/tratop_e/rulesneg_e/fish_e/fish_e.htm#:~:text=Agreement%20on%20Fisheries%20Subsidies%20The%20WTO%20Agreement%20on,the%20widespread%20depletion%20of%20the%20world%E2%80%99s%20fish%20stocks.",
           "title": "WTO | Agreement on Fisheries Subsidies"
         }
       ],
       "count": 11
     },
     {
-      "name": "entertainment-media-gaming",
-      "bookmarks": [
-        {
-          "url": "https://upi.com/Entertainment_News/2004/05/04/ABC-fires-Lisa-Guerrero-from-football-gig/67291083696468/",
-          "title": "ABC fires Lisa Guerrero from football gig - UPI.com"
-        },
-        {
-          "url": "https://cinemax.com/",
-          "title": "Cinemax: Official Website Featuring Original Series, Movies & More"
-        },
-        {
-          "url": "https://cineclub.de/filmarchiv/z/v.html",
-          "title": "Cineclub - Filmarchiv: v"
-        },
-        {
-          "url": "https://roku.com/products/roku-ultra",
-          "title": "Close"
-        },
-        {
-          "url": "https://complex.com/music/jay-z-beyonce-michael-rubin-july-4th-party-performances-drake-lil-baby-travis-scott",
-          "title": "Jay-Z, Beyoncé, and More Attend Michael Rubin's July 4th ..."
-        },
-        {
-          "url": "https://siriusxm.com/channels/elvis-radio",
-          "title": "Elvis Radio: Music from Elvis Presley | SiriusXM"
-        },
-        {
-          "url": "https://esrb.org/",
-          "title": "ESRB Ratings | Entertainment Software Rating Board"
-        },
-        {
-          "url": "https://fun.chicagotribune.com/",
-          "title": "Fun & Games | Free Online Games, Puzzles, Crosswords & Jumbles | Chicago Tribune"
-        },
-        {
-          "url": "https://iheart.com/podcast/",
-          "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
-        },
-        {
-          "url": "https://blog.youtube/",
-          "title": "Official YouTube Blog for Latest YouTube News & Insights"
-        },
-        {
-          "url": "https://people.com/tag/marlon-brando/",
-          "title": "Marlon Brando"
-        },
-        {
-          "url": "https://eonline.com/news/1366491/teen-moms-ryan-edwards-and-wife-mackenzie-break-up-after-6-years-of-marriage",
-          "title": "Teen Mom's Ryan Edwards and Wife Mackenzie Break Up"
-        }
-      ],
-      "count": 12
-    },
-    {
-      "name": "shopping-retail-products",
-      "bookmarks": [
-        {
-          "url": "https://pebritech.sk/happy-creek-no-deposit-bonus-signal-the-fall-of-2021/",
-          "title": "4Tipy.sk - Štyri tipy pred nákupom - budeš múdrym zákaznikom."
-        },
-        {
-          "url": "https://amberrockstar.com/listing/253175693/have-yourself-a-merry-little-christmas",
-          "title": "Have Yourself a Merry Little Christmas - Holiday Vinyl Sticker | Christmas Glass Block Vinyl Decal"
-        },
-        {
-          "url": "https://augustinusbader.com/us/en/skincare",
-          "title": "Award-Winning Luxury Skincare Products | Augustinus Bader EU"
-        },
-        {
-          "url": "https://bmw-saudiarabia.com/en/index.html",
-          "title": "BMW Showroom | Riyadh, Jeddah, Al-Khobar | Naghi Motors BMW"
-        },
-        {
-          "url": "https://jimsclothing.com/",
-          "title": "Home - Jims Clothing"
-        },
-        {
-          "url": "https://pesteliv.com/category/704/cif.html",
-          "title": "PESTELIV.COM | CIF"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "civics-social-justice",
       "bookmarks": [
         {
-          "url": "https://waltonfamilyfoundation.org/about-us",
+          "url": "https://www.waltonfamilyfoundation.org/about-us",
           "title": "About Us"
         },
         {
-          "url": "https://votervoice.net/goodwill/home",
+          "url": "https://www.votervoice.net/GOODWILL/home",
           "title": "Action Center"
         },
         {
-          "url": "https://voteearlyday.org/",
+          "url": "https://www.voteearlyday.org/",
           "title": "Celebrate Vote Early Day on October 28th, 2025"
         },
         {
-          "url": "https://santafenewmexican.com/opinion/my_view/death-by-fees-how-new-mexico-punishes-poverty/article_a1f5c41c-124b-11ec-bd2f-f3b287573916.html",
+          "url": "https://www.santafenewmexican.com/opinion/my_view/death-by-fees-how-new-mexico-punishes-poverty/article_a1f5c41c-124b-11ec-bd2f-f3b287573916.html",
           "title": "Death by fees: How New Mexico punishes poverty | My View | santafenewmexican.com"
         },
         {
-          "url": "https://earthday.org/actions/volunteer/",
-          "title": "Volunteer with Earthday.org - Earth Day"
-        },
-        {
-          "url": "https://unfpa.org/gender-equality",
+          "url": "http://www.unfpa.org/gender-equality",
           "title": "Gender equality | United Nations Population Fund"
         },
         {
-          "url": "https://nyclu.org/",
+          "url": "https://www.nyclu.org",
           "title": "Homepage - NYCLU"
         },
         {
@@ -296,32 +262,118 @@
         {
           "url": "https://mamesociety.org/event/72",
           "title": "The Myanmar American Medical Education Society, Inc."
+        },
+        {
+          "url": "https://earthday.org/actions/volunteer/",
+          "title": "Volunteer with Earthday.org - Earth Day"
         }
       ],
       "count": 9
     },
     {
+      "name": "shopping-products-retail",
+      "bookmarks": [
+        {
+          "url": "http://www.pebritech.sk/happy-creek-no-deposit-bonus-signal-the-fall-of-2021/",
+          "title": "4Tipy.sk - Štyri tipy pred nákupom - budeš múdrym zákaznikom."
+        },
+        {
+          "url": "https://augustinusbader.com/us/en/skincare",
+          "title": "Award-Winning Luxury Skincare Products | Augustinus Bader EU"
+        },
+        {
+          "url": "https://www.bmw-saudiarabia.com/en/index.html?tl=grp-wdpl-bcom-mix-mn-.-nscf-.-.-",
+          "title": "BMW Showroom | Riyadh, Jeddah, Al-Khobar | Naghi Motors BMW"
+        },
+        {
+          "url": "https://amberrockstar.com/listing/253175693/have-yourself-a-merry-little-christmas",
+          "title": "Have Yourself a Merry Little Christmas - Holiday Vinyl Sticker | Christmas Glass Block Vinyl Decal"
+        },
+        {
+          "url": "http://www.jimsclothing.com/",
+          "title": "Home - Jims Clothing"
+        },
+        {
+          "url": "http://pesteliv.com/category/704/cif.html",
+          "title": "PESTELIV.COM | CIF"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "developer-web-tools",
       "bookmarks": [
+        {
+          "url": "https://www.tablesgenerator.com/latex_tables",
+          "title": "Create LaTeX tables online - TablesGenerator.com"
+        },
+        {
+          "url": "https://cli.github.com",
+          "title": "GitHub CLI | Take GitHub to the command line"
+        },
         {
           "url": "https://codebeautify.org/hex-string-converter",
           "title": "Hex to String Converter Online to Convert Hex to Text"
         },
         {
-          "url": "https://cli.github.com/",
-          "title": "GitHub CLI | Take GitHub to the command line"
-        },
-        {
-          "url": "https://squarespace.com/",
-          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
-        },
-        {
-          "url": "https://tablesgenerator.com/latex_tables",
-          "title": "Create LaTeX tables online - TablesGenerator.com"
-        },
-        {
-          "url": "https://uuidgenerator.net/version4",
+          "url": "https://www.uuidgenerator.net/version4",
           "title": "Online UUID Generator Tool"
+        },
+        {
+          "url": "http://squarespace.com",
+          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "news-current-affairs",
+      "bookmarks": [
+        {
+          "url": "http://ktoo.org/",
+          "title": "KTOO - News & Public Media from Alaska's Capital -"
+        },
+        {
+          "url": "https://nos.nl/nieuws",
+          "title": "NOS Nieuws - Nieuws, Sport en Evenementen | Nederlandse Omroep Stichting"
+        },
+        {
+          "url": "http://digitaledition.elgincouriernews.chicagotribune.com/#nt=secondarynavbar",
+          "title": "Suburbs"
+        },
+        {
+          "url": "https://www.politico.eu/section/technology/",
+          "title": "Technology - POLITICO"
+        },
+        {
+          "url": "https://www.hotnews.ro/stiri-esential-24452530-usr-plus-acuza-guvernul-pnl-isi-bate-joc-romani-decis-noaptea-hotii-prelungirea-carantinei-alba-iulia.htm",
+          "title": "USR PLUS acuză guvernul PNL că își bate joc de români: Au decis noaptea ca hoții prelungirea carantinei în Alba Iulia - HotNews.ro"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "travel-guides-resources",
+      "bookmarks": [
+        {
+          "url": "https://menetrendek.hu/",
+          "title": "Menetrendek.hu - Helyközi menetrendi kereső"
+        },
+        {
+          "url": "https://www.yelp.com/",
+          "title": "Ristoranti, dentisti, bar, saloni di bellezza, dottori a Roma - Yelp"
+        },
+        {
+          "url": "https://www.tropicanaalibaug.com/",
+          "title": "Tropicana Resort & Spa | Resorts in Alibaug |Alibaug Resorts"
+        },
+        {
+          "url": "https://www.midway.org/",
+          "title": "USS Midway Aircraft Carrier | San Diego Museum | San Diego Tours - USS Midway Museum®"
+        },
+        {
+          "url": "https://www.booking.com/help.en-gb.html",
+          "title": "void"
         }
       ],
       "count": 5
@@ -330,7 +382,7 @@
       "name": "environmental-sustainability",
       "bookmarks": [
         {
-          "url": "https://feedingamerica.org/our-work/reduce-food-waste",
+          "url": "https://www.feedingamerica.org/our-work/reduce-food-waste",
           "title": "Food Waste in America: How You Can Help Rescue Food | Feeding America"
         },
         {
@@ -349,95 +401,33 @@
       "count": 4
     },
     {
-      "name": "food-dining-recipes",
-      "bookmarks": [
-        {
-          "url": "https://sexyfishmiami.com/",
-          "title": "Asian Restaurant & Late Night Bar Miami | Fish Restaurant | Sexy Fish"
-        },
-        {
-          "url": "https://cucina-facile.it/",
-          "title": "▶️ Cucina-Facile.it | Ricette semplici e veloci alla portata di tutti"
-        },
-        {
-          "url": "https://mattsbar.com/",
-          "title": "Matt's Bar HOME OF THE ORIGINAL JUCY LUCY!"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "health-wellness-products",
       "bookmarks": [
         {
-          "url": "https://usada.org/spirit-of-sport/education/can-poppyseeds-cause-a-positive-drug-test/",
+          "url": "https://www.usada.org/spirit-of-sport/education/can-poppyseeds-cause-a-positive-drug-test/",
           "title": "Can Poppy Seeds Cause a Positive Drug Test? | USADA"
+        },
+        {
+          "url": "https://www.skincancer.org/skin-cancer-information/",
+          "title": "Skin Cancer Information"
+        },
+        {
+          "url": "https://www.sweetbio.com/",
+          "title": "sweetbio®"
         },
         {
           "url": "https://lechebno.com/%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%B0-%D0%BB%D0%B5%D1%87%D0%B5%D0%B1%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BB-%D0%B2-%D1%80%D0%BE%D0%B4%D0%BE%D0%BF%D0%B8%D1%82%D0%B5-%D0%BA%D0%B0%D1%80/",
           "title": "Невероятна лечебна кал в Родопите кара костите да зарастват бързо - ЛЕЧЕБНО"
-        },
-        {
-          "url": "https://skincancer.org/skin-cancer-information/",
-          "title": "Skin Cancer Information"
-        },
-        {
-          "url": "https://sweetbio.com/",
-          "title": "sweetbio®"
         }
       ],
       "count": 4
     },
     {
-      "name": "news-current-affairs",
-      "bookmarks": [
-        {
-          "url": "https://digitaledition.elgincouriernews.chicagotribune.com/",
-          "title": "Suburbs"
-        },
-        {
-          "url": "https://hotnews.ro/stiri-esential-24452530-usr-plus-acuza-guvernul-pnl-isi-bate-joc-romani-decis-noaptea-hotii-prelungirea-carantinei-alba-iulia.htm",
-          "title": "USR PLUS acuză guvernul PNL că își bate joc de români: Au decis noaptea ca hoții prelungirea carantinei în Alba Iulia - HotNews.ro"
-        },
-        {
-          "url": "https://ktoo.org/",
-          "title": "KTOO - News & Public Media from Alaska's Capital -"
-        },
-        {
-          "url": "https://nos.nl/nieuws",
-          "title": "NOS Nieuws - Nieuws, Sport en Evenementen | Nederlandse Omroep Stichting"
-        },
-        {
-          "url": "https://politico.eu/section/technology/",
-          "title": "Technology - POLITICO"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "personal-web-content",
-      "bookmarks": [
-        {
-          "url": "https://cest-la-venus.tumblr.com/",
-          "title": "this warm feeling is \"c'est la vie\""
-        },
-        {
-          "url": "https://neocities.org/site/localfool",
-          "title": "LocalFool"
-        },
-        {
-          "url": "https://roportal.ro/discutii/topic/113646-bigdefender/",
-          "title": "Forumuri - Forum Roportal"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "software-applications-tools",
       "bookmarks": [
         {
-          "url": "https://app.adjust.com/2uo1qc",
-          "title": "‎Firefox: Private Web Browser on the App Store"
+          "url": "https://vccs.zoom.us/j/93926917200?pwd=aHFCMDBzdW9iWS91dTNwZlI0NW9DQT09#success",
+          "title": "Launch Meeting - Zoom"
         },
         {
           "url": "https://play.app.goo.gl/uaX1",
@@ -448,59 +438,69 @@
           "title": "Signal >> Home"
         },
         {
-          "url": "https://vccs.zoom.us/j/93926917200",
-          "title": "Launch Meeting - Zoom"
+          "url": "https://app.adjust.com/2uo1qc?redirect=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Ffirefox-private-safe-browser%2Fid989804926&campaign=www.mozilla.org&adgroup=firefox_home",
+          "title": "‎Firefox: Private Web Browser on the App Store"
         }
       ],
       "count": 4
     },
     {
-      "name": "sports-recreation-outdoor",
+      "name": "sports-outdoor-recreation",
       "bookmarks": [
         {
-          "url": "https://formula1.com/en/results.html",
+          "url": "https://www.formula1.com/en/results.html",
           "title": "2025 RACE RESULTS"
+        },
+        {
+          "url": "http://www.basemap.com",
+          "title": "BaseMap - Guaranteed Land Ownership Maps"
+        },
+        {
+          "url": "https://www.formula1.com/en/drivers.html",
+          "title": "F1 Drivers 2025 - Verstappen, Hamilton, Leclerc and more"
         },
         {
           "url": "https://apps.apple.com/us/app/basemap-hunting-gps-maps/id1305237481",
           "title": "‎BaseMap: Hunting GPS Maps on the App Store"
-        },
-        {
-          "url": "https://basemap.com/",
-          "title": "BaseMap - Guaranteed Land Ownership Maps"
-        },
-        {
-          "url": "https://formula1.com/en/drivers.html",
-          "title": "F1 Drivers 2025 - Verstappen, Hamilton, Leclerc and more"
         }
       ],
       "count": 4
     },
     {
-      "name": "travel-guides-resources",
+      "name": "food-dining-recipes",
       "bookmarks": [
         {
-          "url": "https://booking.com/help.en-gb.html",
-          "title": "void"
+          "url": "https://sexyfishmiami.com/",
+          "title": "Asian Restaurant & Late Night Bar Miami | Fish Restaurant | Sexy Fish"
         },
         {
-          "url": "https://menetrendek.hu/",
-          "title": "Menetrendek.hu - Helyközi menetrendi kereső"
+          "url": "https://mattsbar.com/",
+          "title": "Matt's Bar HOME OF THE ORIGINAL JUCY LUCY!"
         },
         {
-          "url": "https://midway.org/",
-          "title": "USS Midway Aircraft Carrier | San Diego Museum | San Diego Tours - USS Midway Museum®"
-        },
-        {
-          "url": "https://tropicanaalibaug.com/",
-          "title": "Tropicana Resort & Spa | Resorts in Alibaug |Alibaug Resorts"
-        },
-        {
-          "url": "https://yelp.com/",
-          "title": "Ristoranti, dentisti, bar, saloni di bellezza, dottori a Roma - Yelp"
+          "url": "http://www.cucina-facile.it/",
+          "title": "▶️ Cucina-Facile.it | Ricette semplici e veloci alla portata di tutti"
         }
       ],
-      "count": 5
+      "count": 3
+    },
+    {
+      "name": "personal-web-content",
+      "bookmarks": [
+        {
+          "url": "https://www.roportal.ro/discutii/topic/113646-bigdefender/",
+          "title": "Forumuri - Forum Roportal"
+        },
+        {
+          "url": "https://neocities.org/site/localfool?page=7",
+          "title": "LocalFool"
+        },
+        {
+          "url": "https://cest-la-venus.tumblr.com/",
+          "title": "this warm feeling is \"c'est la vie\""
+        }
+      ],
+      "count": 3
     },
     {
       "name": "misc-general",
@@ -513,6 +513,6 @@
       "count": 1
     }
   ],
-  "total_bookmarks": 107,
-  "num_folders": 15
+  "total_bookmarks": 104,
+  "num_folders": 16
 }

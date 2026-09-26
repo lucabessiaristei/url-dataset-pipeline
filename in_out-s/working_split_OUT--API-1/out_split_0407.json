@@ -1,31 +1,23 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://aabdc.com/",
-          "title": "Home | AABDC"
-        },
         {
           "url": "https://www.aicho.org/#/",
           "title": "AICHO - Home"
-        },
-        {
-          "url": "https://www.ame-church.com/",
-          "title": "Official AME Church Website - African Methodist Episcopal Church"
         },
         {
           "url": "https://www.call2recycle.ca/",
           "title": "Call2Recycle Canada | Battery Recycling & Collection Services"
         },
         {
-          "url": "https://www.cftexas.org/",
-          "title": "Where Giving Thrives - Communities Foundation Of Texas"
-        },
-        {
           "url": "https://www.csipacific.ca/",
           "title": "Canadian Sport Institute Pacific - CSI Pacific"
+        },
+        {
+          "url": "http://www.scbcc.us/",
+          "title": "Chamber of Commerce | Bridgeport, CT"
         },
         {
           "url": "https://ecepalliance.org",
@@ -36,48 +28,56 @@
           "title": "Hillman Family Foundations"
         },
         {
-          "url": "https://icsid.worldbank.org/",
-          "title": "International Centre for Settlement of Investment Disputes"
+          "url": "http://www.worldywca.org/",
+          "title": "Home - World YWCA"
         },
         {
-          "url": "https://kab.org/",
-          "title": "Keep America Beautiful - Keep America Beautiful"
-        },
-        {
-          "url": "http://pmangellfamfound.org/",
-          "title": "Paul M. Angell Family Foundation - Supporting Conservation, Performing Arts, Social Impact"
-        },
-        {
-          "url": "https://eu.rescue.org",
-          "title": "International Rescue Committee | International Rescue Committee (IRC)"
-        },
-        {
-          "url": "https://www.rescue.org/charity-stream",
-          "title": "Streaming for the IRC | The IRC"
-        },
-        {
-          "url": "http://www.scbcc.us/",
-          "title": "Chamber of Commerce | Bridgeport, CT"
+          "url": "https://aabdc.com/",
+          "title": "Home | AABDC"
         },
         {
           "url": "https://www.unccd.int/",
           "title": "Home | UNCCD"
         },
         {
+          "url": "https://icsid.worldbank.org/",
+          "title": "International Centre for Settlement of Investment Disputes"
+        },
+        {
+          "url": "https://eu.rescue.org",
+          "title": "International Rescue Committee | International Rescue Committee (IRC)"
+        },
+        {
+          "url": "https://kab.org/",
+          "title": "Keep America Beautiful - Keep America Beautiful"
+        },
+        {
+          "url": "https://www.ame-church.com/",
+          "title": "Official AME Church Website - African Methodist Episcopal Church"
+        },
+        {
+          "url": "http://pmangellfamfound.org/",
+          "title": "Paul M. Angell Family Foundation - Supporting Conservation, Performing Arts, Social Impact"
+        },
+        {
+          "url": "https://www.rescue.org/charity-stream",
+          "title": "Streaming for the IRC | The IRC"
+        },
+        {
           "url": "https://www.westbroadway.org/",
           "title": "West Broadway Business & Area Coalition"
         },
         {
-          "url": "http://www.worldywca.org/",
-          "title": "Home - World YWCA"
-        },
-        {
-          "url": "https://www.ywcagc.org/",
-          "title": "YWCA GREATER CHARLESTON - YWCA GREATER CHARLESTON"
+          "url": "https://www.cftexas.org/",
+          "title": "Where Giving Thrives - Communities Foundation Of Texas"
         },
         {
           "url": "https://www.ywcagp.org/",
           "title": "YWCA Glendale & Pasadena | Peace | Justice | Freedom"
+        },
+        {
+          "url": "https://www.ywcagc.org/",
+          "title": "YWCA GREATER CHARLESTON - YWCA GREATER CHARLESTON"
         }
       ],
       "count": 19
@@ -85,6 +85,10 @@
     {
       "name": "news-articles",
       "bookmarks": [
+        {
+          "url": "https://www.ncj.nl/actueel/nieuws/artikel/boekbespreking-doen-wat-goed-is-",
+          "title": "Boekbespreking 'Doen wat goed is' - NCJ"
+        },
         {
           "url": "https://abc13.com/sheborah-latrice-thomas-sentenced-mother-accused-of-drowning-children-in-bathtub-two-young-murdered-by-mom-pleads-guilty-to-kids-deaths/12892747/",
           "title": "Houston mother Sheborah Latrice Thomas pleads guilty to drowning her 2 children in bathtub, sentenced to 40 years in prison - ABC13 Houston"
@@ -94,24 +98,20 @@
           "title": "Indiatimes: Latest in Lifestyle, Health, Fashion, and Wellness"
         },
         {
-          "url": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/",
-          "title": "Milwaukee man dies in an avalanche while on vacation in Wyoming"
-        },
-        {
-          "url": "https://nypost.com/baseball/",
-          "title": "Latest MLB News, Scores, Standings, Stats & Rumors | New York Post"
-        },
-        {
-          "url": "https://www.ncj.nl/actueel/nieuws/artikel/boekbespreking-doen-wat-goed-is-",
-          "title": "Boekbespreking 'Doen wat goed is' - NCJ"
-        },
-        {
           "url": "https://www.oxygenmag.com/life/womens-fitness-personalities/jaclyn-cordeiro-on-striving-for-progress-not-perfection/",
           "title": "Jaclyn Cordeiro on Striving for Progress, Not Perfection - Oxygen Mag"
         },
         {
           "url": "http://www.slate.com/articles/news_and_politics/trials_and_error/2017/09/john_legend_on_why_the_nfl_protests_are_patriotic.html?wpsrc=sh_all_mob_tw_top",
           "title": "John Legend on why the NFL protests are patriotic."
+        },
+        {
+          "url": "https://nypost.com/baseball/",
+          "title": "Latest MLB News, Scores, Standings, Stats & Rumors | New York Post"
+        },
+        {
+          "url": "https://www.jsonline.com/story/news/2023/03/01/milwaukee-man-dies-in-an-avalanche-while-on-vacation-in-wyoming/69958393007/",
+          "title": "Milwaukee man dies in an avalanche while on vacation in Wyoming"
         },
         {
           "url": "http://time.com/4463943/japan-china-fishing-marine-iuu-environment-google-skytruth/",
@@ -125,11 +125,53 @@
       "count": 9
     },
     {
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "http://www.a-d.us/",
+          "title": "A Leader In The Food Service Industry | The Anderson-DuBose Company"
+        },
+        {
+          "url": "https://bahamar.com/",
+          "title": "Baha Mar"
+        },
+        {
+          "url": "https://go.nearmap.com/",
+          "title": "High-res Aerial Maps & Location Intelligence | Nearmap"
+        },
+        {
+          "url": "https://www.mrisoftware.com/uk/",
+          "title": "MRI Software | Real Estate Software | Community Solutions"
+        },
+        {
+          "url": "https://www.carat.fiserv.com/en-us/resources/",
+          "title": "Resources"
+        },
+        {
+          "url": "http://www.retailstudy.com/",
+          "title": "Site selection and sales forecasting for retailers and real estate developers. We locate sites for restaurants and supermarkets."
+        },
+        {
+          "url": "https://www.swmintl.com/",
+          "title": "SWM | Sustainable, Safe, and Intelligent Lightweight Materials"
+        },
+        {
+          "url": "https://walmart.guildeducation.com/partner/",
+          "title": "Walmart - Education Benefit | Guild"
+        }
+      ],
+      "count": 8
+    },
+    {
       "name": "government-data-services",
       "bookmarks": [
         {
           "url": "http://gis.slocounty.opendata.arcgis.com/datasets/61f3ddf2074942e6932b8f5084c20ab4_0",
           "title": "Address Points"
+        },
+        {
+          "url": "https://medicaid.utah.gov/apply-medicaid/?elqTrackId=2c0975612e11410e95dd5b57d602348e&elqaid=93&elqat=2",
+          "title": "Apply for Medicaid - Medicaid: Utah Department of Health and Human Services - Integrated Healthcare"
         },
         {
           "url": "https://hub.arcgis.com/datasets/ideSEVILLA::barrios?geometry=-6.504%2C37.283%2C-5.350%2C37.474",
@@ -148,10 +190,6 @@
           "title": "GeoNames"
         },
         {
-          "url": "https://medicaid.utah.gov/apply-medicaid/?elqTrackId=2c0975612e11410e95dd5b57d602348e&elqaid=93&elqat=2",
-          "title": "Apply for Medicaid - Medicaid: Utah Department of Health and Human Services - Integrated Healthcare"
-        },
-        {
           "url": "http://opendata.ayto-caceres.es/",
           "title": "Inicio - OpenData Cáceres"
         },
@@ -163,45 +201,201 @@
       "count": 8
     },
     {
-      "name": "business-corporate",
+      "name": "misc-uncategorized",
       "bookmarks": [
         {
-          "url": "http://www.a-d.us/",
-          "title": "A Leader In The Food Service Industry | The Anderson-DuBose Company"
+          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b507760d-76bc-11ec-8922-7374547a4a4a&url=L2FwcHMvbmV3cz9waWQ9d2FzaGluZ3RvbnN0b3J5JnNpZD1hZUVBQkJOeGZzQ3M=",
+          "title": "Bloomberg - Are you a robot?"
         },
         {
-          "url": "https://bahamar.com/",
-          "title": "Baha Mar"
+          "url": "http://www.dqxxkx.cn/EN/volumn/volumn_3431.shtml",
+          "title": "Journal of Geo-information Science"
         },
         {
-          "url": "https://www.carat.fiserv.com/en-us/resources/",
-          "title": "Resources"
+          "url": "http://juggle.gaertner.de/",
+          "title": "Juggle Home Page"
         },
         {
-          "url": "https://www.mrisoftware.com/uk/",
-          "title": "MRI Software | Real Estate Software | Community Solutions"
+          "url": "https://www.permaculturenews.org/2015/06/16/what-is-keyline-design/",
+          "title": "Site Maintenance"
         },
         {
-          "url": "https://go.nearmap.com/",
-          "title": "High-res Aerial Maps & Location Intelligence | Nearmap"
+          "url": "http://www.isfdb.org/cgi-bin/title.cgi?1653700",
+          "title": "Title: General Akmed's Revenge?"
         },
         {
-          "url": "http://www.retailstudy.com/",
-          "title": "Site selection and sales forecasting for retailers and real estate developers. We locate sites for restaurants and supermarkets."
+          "url": "http://psychologyofconversions.com/",
+          "title": "void"
         },
         {
-          "url": "https://www.swmintl.com/",
-          "title": "SWM | Sustainable, Safe, and Intelligent Lightweight Materials"
-        },
-        {
-          "url": "https://walmart.guildeducation.com/partner/",
-          "title": "Walmart - Education Benefit | Guild"
+          "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
+          "title": "void"
         }
       ],
-      "count": 8
+      "count": 7
     },
     {
-      "name": "education-computer-science",
+      "name": "misc-personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://mymexicodream.wordpress.com/2014/12/25/",
+          "title": "25 | December | 2014 | Julia's Life In Mexico"
+        },
+        {
+          "url": "https://cleo156989.tumblr.com/",
+          "title": "@cleo156989 on Tumblr"
+        },
+        {
+          "url": "https://rhawkins20-blog-blog-blog.tumblr.com/",
+          "title": "Digitalia"
+        },
+        {
+          "url": "https://www.delilahdevlin.com/blog/2009/06/19/enter-delilahs-summertime-contest/",
+          "title": "Enter Delilah's Summertime Contest! | Delilah Devlin"
+        },
+        {
+          "url": "https://mademyday.com/40093",
+          "title": "Ich bin Optimist. Das heißt aber ... - Made My Day"
+        },
+        {
+          "url": "https://alicealinhavandoletras.com/2021/05/19/folha-seca/",
+          "title": "Poesia da casa - Folha seca - Blog de de Alice - Alinhavando letras"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "design-resources",
+      "bookmarks": [
+        {
+          "url": "https://glyphsapp.com/learn/drawing-good-paths",
+          "title": "Drawing good paths | Glyphs"
+        },
+        {
+          "url": "https://products.ls.graphics/mesh-gradients/",
+          "title": "Free Mesh Gradient Collection"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/MyFonts-Buy-and-Download-Fonts-f14da000a65649c9b6bf30ae77fc482e?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/Noun-Project-Free-Icons-Stock-Photos-for-Everything-7e06ca223b634cddab86a0c10a76a075?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://svgdoodles.com/",
+          "title": "SVG Doodles - Free, editable SVGs to spice up your designs"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "dev-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.elegantthemes.com/blog/design/web-design-blogs-worth-following#10-mockplus",
+          "title": "35 Web Design Blogs Worth Following"
+        },
+        {
+          "url": "https://www.score.org/event/how-to-use-keywords-on-your-website-and-social-media",
+          "title": "How to Use Keywords On Your Website and Social Media to Attract Customers | SCORE"
+        },
+        {
+          "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
+          "title": "OpenCV: OpenCV-Python Tutorials"
+        },
+        {
+          "url": "https://lightgbm.readthedocs.io/en/stable/Python-Intro.html",
+          "title": "Python-package Introduction - LightGBM 4.6.0 documentation"
+        },
+        {
+          "url": "https://community.datarobot.com/plugins/common/feature/samlss/doauth/post?key=login&referer=https%3A%2F%2Fcommunity.datarobot.com%2Ft5%2F%25E8%25B3%25AA%25E5%2595%258F-%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E5%25BE%258C%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E7%2594%259F%25E6%2588%2590%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%2Fm-p%2F11277%2Fhighlight%2Ftrue",
+          "title": "Where to find help: DataRobot docs"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.collegeboard.org",
+          "title": "College Board - SAT, AP, College Search and Admission Tools"
+        },
+        {
+          "url": "https://in.coursera.org/",
+          "title": "Coursera | Degrees, Certificates, & Free Online Courses"
+        },
+        {
+          "url": "https://www.mtroyal.ca/",
+          "title": "Mount Royal University | MRU"
+        },
+        {
+          "url": "https://kids.nationalgeographic.com",
+          "title": "National Geographic Kids | National Geographic Kids"
+        },
+        {
+          "url": "https://www.worldcubeassociation.org/regulations/",
+          "title": "WCA Regulations | World Cube Association"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://content.jwplatform.com/players/oGMODbP9-qInh6Xrr.html",
+          "title": "Braxton Family Values - Tamar Shares Sad News"
+        },
+        {
+          "url": "https://www.hulu.com/live-tv",
+          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+        },
+        {
+          "url": "https://youtube.googleblog.com/",
+          "title": "Official YouTube Blog for Latest YouTube News & Insights"
+        },
+        {
+          "url": "https://www.tinglyteds.co.uk/",
+          "title": "Tingly Ted's (@tinglyteds) • Instagram photos and videos"
+        },
+        {
+          "url": "http://www.reactiongifs.com/tag/whoop-ass/",
+          "title": "whoop ass - Reaction GIFs"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "software-services",
+      "bookmarks": [
+        {
+          "url": "https://signup.azure.com/studentverification?offerType=1",
+          "title": "Azure - Sign up"
+        },
+        {
+          "url": "https://hyperise.com/",
+          "title": "Hyperise Toolkit: Hyper-personalization for Savvy Sales & Marketing teams"
+        },
+        {
+          "url": "https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html",
+          "title": "OneTrust | Privacy Management Software"
+        },
+        {
+          "url": "https://mailchimp.com/",
+          "title": "Piattaforma di email, automazione e marketing | Mailchimp"
+        },
+        {
+          "url": "https://www.bluecamroo.com/support/home/selectplan",
+          "title": "Select Your BlueCamroo Plan"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "computer-science-education",
       "bookmarks": [
         {
           "url": "https://dolceforever-blog.tumblr.com/",
@@ -223,138 +417,70 @@
       "count": 4
     },
     {
-      "name": "dev-resources",
+      "name": "food-recipes-blogs",
       "bookmarks": [
         {
-          "url": "https://community.datarobot.com/plugins/common/feature/samlss/doauth/post?key=login&referer=https%3A%2F%2Fcommunity.datarobot.com%2Ft5%2F%25E8%25B3%25AA%25E5%2595%258F-%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%2F%25E3%2583%2580%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB%25E5%25BE%258C%25E3%2581%25AE%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E7%2594%259F%25E6%2588%2590%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%2Fm-p%2F11277%2Fhighlight%2Ftrue",
-          "title": "Where to find help: DataRobot docs"
+          "url": "http://www.shopncook.com/blog/",
+          "title": "Blog | Shop'NCook | Easy-To-Use Recipe Software Shop'NCook with Nutrition, Costing, Shopping List and More - Free Trial"
         },
         {
-          "url": "https://www.elegantthemes.com/blog/design/web-design-blogs-worth-following#10-mockplus",
-          "title": "35 Web Design Blogs Worth Following"
+          "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-cake",
+          "title": "Easy chocolate cake recipe | Good Food"
         },
         {
-          "url": "https://www.score.org/event/how-to-use-keywords-on-your-website-and-social-media",
-          "title": "How to Use Keywords On Your Website and Social Media to Attract Customers | SCORE"
+          "url": "https://divainbucatarie.ro/tag/retete-afrodisiace/",
+          "title": "File de pastrav cu piure de telina - Diva in Bucatarie"
         },
         {
-          "url": "https://lightgbm.readthedocs.io/en/stable/Python-Intro.html",
-          "title": "Python-package Introduction - LightGBM 4.6.0 documentation"
-        },
-        {
-          "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
-          "title": "OpenCV: OpenCV-Python Tutorials"
+          "url": "http://www.thegraphicfoodie.co.uk/",
+          "title": "The Graphic Foodie | Brighton Food Blog & Restaurant Reviews"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "media-entertainment",
+      "name": "guides-how-to",
       "bookmarks": [
         {
-          "url": "https://content.jwplatform.com/players/oGMODbP9-qInh6Xrr.html",
-          "title": "Braxton Family Values - Tamar Shares Sad News"
+          "url": "https://www.goodhousekeeping.com/home/cleaning/a24885/tidy-home-tips/",
+          "title": "An Expert Guide on How to Make Homemade Cleaning Sprays"
         },
         {
-          "url": "https://www.hulu.com/live-tv",
-          "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
+          "url": "https://www.aranzulla.it/come-liberare-spazio-su-iphone-100123.html",
+          "title": "Come liberare spazio su iPhone | Salvatore Aranzulla"
         },
         {
-          "url": "http://www.reactiongifs.com/tag/whoop-ass/",
-          "title": "whoop ass - Reaction GIFs"
+          "url": "https://www.webmd.com/women/guide/d-and-c-dilation-and-curettage#1",
+          "title": "D&C (Dilation and Curettage) Procedure: Surgery and Recovery"
         },
         {
-          "url": "https://www.tinglyteds.co.uk/",
-          "title": "Tingly Ted's (@tinglyteds) • Instagram photos and videos"
-        },
-        {
-          "url": "https://youtube.googleblog.com/",
-          "title": "Official YouTube Blog for Latest YouTube News & Insights"
+          "url": "https://www.terrariumtribe.com/guide/bioactive-terrarium/",
+          "title": "How to Make a Bioactive Terrarium (Or Vivarium) - DIY Guide - Terrarium Tribe"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "misc-personal-blogs",
+      "name": "legal-privacy-policy",
       "bookmarks": [
         {
-          "url": "https://alicealinhavandoletras.com/2021/05/19/folha-seca/",
-          "title": "Poesia da casa - Folha seca - Blog de de Alice - Alinhavando letras"
+          "url": "https://roundingsquares.com/privacy/",
+          "title": "Privacy - Rounding Squares"
         },
         {
-          "url": "https://cleo156989.tumblr.com/",
-          "title": "@cleo156989 on Tumblr"
+          "url": "http://tocaboca.com/privacy",
+          "title": "Privacy Policy - Toca Boca"
         },
         {
-          "url": "https://www.delilahdevlin.com/blog/2009/06/19/enter-delilahs-summertime-contest/",
-          "title": "Enter Delilah's Summertime Contest! | Delilah Devlin"
+          "url": "https://www.disneyplus.com/legal/subscriber-agreement",
+          "title": "Subscriber Agreement | Disney+"
         },
         {
-          "url": "https://mademyday.com/40093",
-          "title": "Ich bin Optimist. Das heißt aber ... - Made My Day"
-        },
-        {
-          "url": "https://mymexicodream.wordpress.com/2014/12/25/",
-          "title": "25 | December | 2014 | Julia's Life In Mexico"
-        },
-        {
-          "url": "https://rhawkins20-blog-blog-blog.tumblr.com/",
-          "title": "Digitalia"
+          "url": "https://volkraft.com/privacy_policy",
+          "title": "Volkraft"
         }
       ],
-      "count": 6
-    },
-    {
-      "name": "misc-uncategorized",
-      "bookmarks": [
-        {
-          "url": "http://www.isfdb.org/cgi-bin/title.cgi?1653700",
-          "title": "Title: General Akmed's Revenge?"
-        },
-        {
-          "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b507760d-76bc-11ec-8922-7374547a4a4a&url=L2FwcHMvbmV3cz9waWQ9d2FzaGluZ3RvbnN0b3J5JnNpZD1hZUVBQkJOeGZzQ3M=",
-          "title": "Bloomberg - Are you a robot?"
-        },
-        {
-          "url": "http://www.dqxxkx.cn/EN/volumn/volumn_3431.shtml",
-          "title": "Journal of Geo-information Science"
-        },
-        {
-          "url": "http://juggle.gaertner.de/",
-          "title": "Juggle Home Page"
-        },
-        {
-          "url": "http://psychologyofconversions.com/",
-          "title": "void"
-        },
-        {
-          "url": "https://www.permaculturenews.org/2015/06/16/what-is-keyline-design/",
-          "title": "Site Maintenance"
-        },
-        {
-          "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
-          "title": "void"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "organizations-foundations",
-      "bookmarks": [
-        {
-          "url": "https://genealogy.cjh.org/synagogue/649",
-          "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
-        },
-        {
-          "url": "http://RLC-Prensa@fao.org",
-          "title": "Home | Food and Agriculture Organization of the United Nations"
-        },
-        {
-          "url": "https://www.natureindex.com/",
-          "title": "Nature Index"
-        }
-      ],
-      "count": 3
+      "count": 4
     },
     {
       "name": "shopping-products",
@@ -364,45 +490,41 @@
           "title": "18K Sterling Silver & Mother Of Pearl Bracelet 310366 - ItsHot"
         },
         {
-          "url": "https://www.metalowafigurka.pl/p138,duza-metalowa-figurka-ze-srubek-biznesmen-szef-87.html",
-          "title": "🧑‍💼Duża metalowa figurka ze śrubek Biznesmen - Szef (87) | Polski producent nr 1"
-        },
-        {
           "url": "https://www.joannaczech.com/products/joanna-czech-face-massage-roller",
           "title": "Rolling Facial Massager - Joanna Czech"
         },
         {
           "url": "https://kookitodesign.com/blog/woreczki-na-przysmaki-dla-psa-wybierz-najlepszy",
           "title": "Woreczki na przysmaki dla psa - wybierz najlepszy! - Akcesoria dla psów - Sklep dla psów | Kookito Design"
+        },
+        {
+          "url": "https://www.metalowafigurka.pl/p138,duza-metalowa-figurka-ze-srubek-biznesmen-szef-87.html",
+          "title": "🧑‍💼Duża metalowa figurka ze śrubek Biznesmen - Szef (87) | Polski producent nr 1"
         }
       ],
       "count": 4
     },
     {
-      "name": "software-services",
+      "name": "software-tools",
       "bookmarks": [
         {
-          "url": "https://signup.azure.com/studentverification?offerType=1",
-          "title": "Azure - Sign up"
+          "url": "https://www.jumpto365.com/tools/power-bi",
+          "title": "About \"Power BI\""
         },
         {
-          "url": "https://www.bluecamroo.com/support/home/selectplan",
-          "title": "Select Your BlueCamroo Plan"
+          "url": "https://www.diffchecker.com/text-compare/",
+          "title": "Compare text and find differences online or offline - Diffchecker"
         },
         {
-          "url": "https://hyperise.com/",
-          "title": "Hyperise Toolkit: Hyper-personalization for Savvy Sales & Marketing teams"
+          "url": "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=firefox-home",
+          "title": "Facebook Container - Get this Extension for 🦊 Firefox (en-US)"
         },
         {
-          "url": "https://mailchimp.com/",
-          "title": "Piattaforma di email, automazione e marketing | Mailchimp"
-        },
-        {
-          "url": "https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html",
-          "title": "OneTrust | Privacy Management Software"
+          "url": "https://socratic.org/questions/what-is-the-electron-dot-diagram",
+          "title": "Google Lens - Search What You See"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
       "name": "advocacy-hiv-justice",
@@ -412,12 +534,12 @@
           "title": "Governor Signs Bill Modernizing California HIV Laws | ACLU of Northern CA"
         },
         {
-          "url": "https://www.hivjustice.net/cases/us-man-living-with-hiv-arrested-in-louisiana-for-trying-to-spit-at-police-officer/",
-          "title": "US: Man living with HIV arrested in Louisiana for trying to spit at police officer | HIV Justice Network"
-        },
-        {
           "url": "http://www.hivlawandpolicy.org/resources/map-hiv-criminalization-united-states-center-hiv-law-and-policy-2017",
           "title": "Mapping HIV Criminalization Laws in the U.S., CHLP (2025) | The Center for HIV Law and Policy"
+        },
+        {
+          "url": "https://www.hivjustice.net/cases/us-man-living-with-hiv-arrested-in-louisiana-for-trying-to-spit-at-police-officer/",
+          "title": "US: Man living with HIV arrested in Louisiana for trying to spit at police officer | HIV Justice Network"
         }
       ],
       "count": 3
@@ -430,70 +552,18 @@
           "title": "City of Cincinnati Unveils First Round of Downtown Streateries | 3CDC"
         },
         {
-          "url": "https://downtownaustin.com/covid-19/roadmap-to-recovery/",
-          "title": "Roadmap to Recovery and Resilience | Downtown Austin Alliance"
-        },
-        {
           "url": "https://montcherand.ch/pilier-public/avis-d-enquete/146-avis-d-enquete-08-12-2021",
           "title": "Pilier Public - Commune de Montcherand"
+        },
+        {
+          "url": "https://downtownaustin.com/covid-19/roadmap-to-recovery/",
+          "title": "Roadmap to Recovery and Resilience | Downtown Austin Alliance"
         }
       ],
       "count": 3
     },
     {
-      "name": "design-resources",
-      "bookmarks": [
-        {
-          "url": "https://products.ls.graphics/mesh-gradients/",
-          "title": "Free Mesh Gradient Collection"
-        },
-        {
-          "url": "https://glyphsapp.com/learn/drawing-good-paths",
-          "title": "Drawing good paths | Glyphs"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/MyFonts-Buy-and-Download-Fonts-f14da000a65649c9b6bf30ae77fc482e?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/Noun-Project-Free-Icons-Stock-Photos-for-Everything-7e06ca223b634cddab86a0c10a76a075?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://svgdoodles.com/",
-          "title": "SVG Doodles - Free, editable SVGs to spice up your designs"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.collegeboard.org",
-          "title": "College Board - SAT, AP, College Search and Admission Tools"
-        },
-        {
-          "url": "https://in.coursera.org/",
-          "title": "Coursera | Degrees, Certificates, & Free Online Courses"
-        },
-        {
-          "url": "https://kids.nationalgeographic.com",
-          "title": "National Geographic Kids | National Geographic Kids"
-        },
-        {
-          "url": "https://www.mtroyal.ca/",
-          "title": "Mount Royal University | MRU"
-        },
-        {
-          "url": "https://www.worldcubeassociation.org/regulations/",
-          "title": "WCA Regulations | World Cube Association"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "education-universities",
+      "name": "education-university",
       "bookmarks": [
         {
           "url": "http://library.mines.edu",
@@ -511,50 +581,6 @@
       "count": 3
     },
     {
-      "name": "food-recipes-blogs",
-      "bookmarks": [
-        {
-          "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-cake",
-          "title": "Easy chocolate cake recipe | Good Food"
-        },
-        {
-          "url": "https://divainbucatarie.ro/tag/retete-afrodisiace/",
-          "title": "File de pastrav cu piure de telina - Diva in Bucatarie"
-        },
-        {
-          "url": "http://www.shopncook.com/blog/",
-          "title": "Blog | Shop'NCook | Easy-To-Use Recipe Software Shop'NCook with Nutrition, Costing, Shopping List and More - Free Trial"
-        },
-        {
-          "url": "http://www.thegraphicfoodie.co.uk/",
-          "title": "The Graphic Foodie | Brighton Food Blog & Restaurant Reviews"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "guides-how-to",
-      "bookmarks": [
-        {
-          "url": "https://www.aranzulla.it/come-liberare-spazio-su-iphone-100123.html",
-          "title": "Come liberare spazio su iPhone | Salvatore Aranzulla"
-        },
-        {
-          "url": "https://www.goodhousekeeping.com/home/cleaning/a24885/tidy-home-tips/",
-          "title": "An Expert Guide on How to Make Homemade Cleaning Sprays"
-        },
-        {
-          "url": "https://www.terrariumtribe.com/guide/bioactive-terrarium/",
-          "title": "How to Make a Bioactive Terrarium (Or Vivarium) - DIY Guide - Terrarium Tribe"
-        },
-        {
-          "url": "https://www.webmd.com/women/guide/d-and-c-dilation-and-curettage#1",
-          "title": "D&C (Dilation and Curettage) Procedure: Surgery and Recovery"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "legal-documents",
       "bookmarks": [
         {
@@ -562,45 +588,19 @@
           "title": "2019 Board of Directors Meeting - Access Health CT"
         },
         {
-          "url": "https://invest.bnpparibas/en/search/reports/documents/financial-reports?s%5Bsubthemes%5D%5B%5D=18",
-          "title": "Search & Documents | Financial reports | Investors & Shareholders | BNP Paribas Bank"
-        },
-        {
           "url": "https://members.opensource.org/join/",
           "title": "Become a Member of OSI - OSI Members Site"
+        },
+        {
+          "url": "https://invest.bnpparibas/en/search/reports/documents/financial-reports?s%5Bsubthemes%5D%5B%5D=18",
+          "title": "Search & Documents | Financial reports | Investors & Shareholders | BNP Paribas Bank"
         }
       ],
       "count": 3
     },
     {
-      "name": "legal-privacy-policy",
-      "bookmarks": [
-        {
-          "url": "https://www.disneyplus.com/legal/subscriber-agreement",
-          "title": "Subscriber Agreement | Disney+"
-        },
-        {
-          "url": "https://roundingsquares.com/privacy/",
-          "title": "Privacy - Rounding Squares"
-        },
-        {
-          "url": "http://tocaboca.com/privacy",
-          "title": "Privacy Policy - Toca Boca"
-        },
-        {
-          "url": "https://volkraft.com/privacy_policy",
-          "title": "Volkraft"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "media-photo-video",
       "bookmarks": [
-        {
-          "url": "https://flickr.com/usdagov",
-          "title": "U.S. Department of Agriculture | Flickr"
-        },
         {
           "url": "https://it.vecteezy.com/foto/1178347-sms-con-smartphone",
           "title": "Scarica Vettori, Immagini, Foto e Video Gratuiti"
@@ -608,6 +608,10 @@
         {
           "url": "https://uploads.knightlab.com/storymapjs/857f1335b5790bba701ae445533b2c8e/racial-violence-in-wichita/index.html",
           "title": "StoryMapJS: Racial Violence in Wichita"
+        },
+        {
+          "url": "https://flickr.com/usdagov",
+          "title": "U.S. Department of Agriculture | Flickr"
         }
       ],
       "count": 3
@@ -616,12 +620,12 @@
       "name": "misc-forums-communities",
       "bookmarks": [
         {
-          "url": "https://chipmusic.org/forums/",
-          "title": "Forums - ChipMusic.org"
-        },
-        {
           "url": "https://www.varesefansbasket.it/forums/topic/1892-10-febbraio-2006/",
           "title": "10 febbraio 2006 - Divertiti col gruppo di Vfb.it - Varesefansbasket"
+        },
+        {
+          "url": "https://chipmusic.org/forums/",
+          "title": "Forums - ChipMusic.org"
         },
         {
           "url": "https://www.printedmatter.org/programs",
@@ -638,12 +642,30 @@
           "title": "Environmental news and information in India - Landing"
         },
         {
-          "url": "https://rmi.org/press-release/substantial-emissions-reductions-possible-with-smart-ev-charging/",
-          "title": "Substantial Emissions Reductions Possible with Smart EV Charging, Finds RMI - RMI"
-        },
-        {
           "url": "https://eartharxiv.org/repository/view/3239/",
           "title": "Revealing the Global Longline Fleet with Satellite Radar"
+        },
+        {
+          "url": "https://rmi.org/press-release/substantial-emissions-reductions-possible-with-smart-ev-charging/",
+          "title": "Substantial Emissions Reductions Possible with Smart EV Charging, Finds RMI - RMI"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "organizations-foundations",
+      "bookmarks": [
+        {
+          "url": "https://genealogy.cjh.org/synagogue/649",
+          "title": "Ackman & Ziff Genealogy Institute at the Center for Jewish History"
+        },
+        {
+          "url": "http://RLC-Prensa@fao.org",
+          "title": "Home | Food and Agriculture Organization of the United Nations"
+        },
+        {
+          "url": "https://www.natureindex.com/",
+          "title": "Nature Index"
         }
       ],
       "count": 3
@@ -670,41 +692,19 @@
       "name": "software-apps",
       "bookmarks": [
         {
-          "url": "https://apps.apple.com/us/app/google-family-link/id1150085200",
-          "title": "‎Google Family Link on the App Store"
-        },
-        {
           "url": "https://www.apple.com/itunes/",
           "title": "iTunes - Apple"
         },
         {
           "url": "https://supersimple.com/app/",
           "title": "Super Simple App - Super Simple"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/google-family-link/id1150085200",
+          "title": "‎Google Family Link on the App Store"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "software-tools",
-      "bookmarks": [
-        {
-          "url": "https://www.diffchecker.com/text-compare/",
-          "title": "Compare text and find differences online or offline - Diffchecker"
-        },
-        {
-          "url": "https://socratic.org/questions/what-is-the-electron-dot-diagram",
-          "title": "Google Lens - Search What You See"
-        },
-        {
-          "url": "https://www.jumpto365.com/tools/power-bi",
-          "title": "About \"Power BI\""
-        },
-        {
-          "url": "https://addons.mozilla.org/firefox/addon/facebook-container/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=firefox-home",
-          "title": "Facebook Container - Get this Extension for 🦊 Firefox (en-US)"
-        }
-      ],
-      "count": 4
     }
   ],
   "total_bookmarks": 136,

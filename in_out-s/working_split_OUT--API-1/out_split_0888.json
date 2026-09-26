@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "media-news",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://atlantapressclub.org/",
@@ -12,74 +12,74 @@
           "title": "Badzine.net | The World's #1 Badminton Webzine"
         },
         {
-          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.qoyexb9GR",
-          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
-        },
-        {
           "url": "https://www.fox2detroit.com/news/dog-saves-toddler-after-fire-torches-detroit-apartment-leaving-family-of-six-homeless",
           "title": "Dog saves toddler from fire that torched Detroit apartment, left family of six homeless | FOX 2 Detroit"
+        },
+        {
+          "url": "http://www.buzzfeed.com/steventhrasher/how-college-wrestling-star-tiger-mandingo-became-an-hiv-scap#.qoyexb9GR",
+          "title": "How College Wrestling Star \"Tiger Mandingo\" Became An HIV Scapegoat"
         },
         {
           "url": "https://www.nature.com/news",
           "title": "Latest science news, discoveries and analysis"
         },
         {
-          "url": "https://www.newsnow.co.uk/h/World+News",
-          "title": "World News | Latest World News - NewsNow"
-        },
-        {
           "url": "https://newsroom.apac.paypal-corp.com/home",
           "title": "PayPal Newsroom - Home"
-        },
-        {
-          "url": "https://www.si.com/extra-mustard/2023/02/28/taylor-lewan-titans-dropped-off-stuff-release",
-          "title": "Taylor Lewan Shares Sad Photo of How Titans Dropped Off His Stuff After Release - Sports Illustrated"
         },
         {
           "url": "https://techcrunch.com/2023/02/06/simple-healthkit-at-home-diagnostics-health/",
           "title": "Simple HealthKit is taking on health equity with at-home diagnostics, treatment | TechCrunch"
         },
         {
-          "url": "https://unlvrebels.com/news/2023/2/20/unlv-mourns-passing-of-football-student-athlete-ryan-keeler.aspx",
-          "title": "UNLV Mourns Passing Of Football Student-Athlete Ryan Keeler - University of Nevada Las Vegas Athletics"
+          "url": "https://www.si.com/extra-mustard/2023/02/28/taylor-lewan-titans-dropped-off-stuff-release",
+          "title": "Taylor Lewan Shares Sad Photo of How Titans Dropped Off His Stuff After Release - Sports Illustrated"
         },
         {
           "url": "http://www.vulture.com/2015/06/dukes-hazzard-confederate-flag-warner-bros-stop-licensing.html",
           "title": "The Controversy Over the Confederate Flag Has Reached Hazzard County"
+        },
+        {
+          "url": "https://unlvrebels.com/news/2023/2/20/unlv-mourns-passing-of-football-student-athlete-ryan-keeler.aspx",
+          "title": "UNLV Mourns Passing Of Football Student-Athlete Ryan Keeler - University of Nevada Las Vegas Athletics"
+        },
+        {
+          "url": "https://www.newsnow.co.uk/h/World+News",
+          "title": "World News | Latest World News - NewsNow"
         }
       ],
       "count": 11
     },
     {
-      "name": "non-profit-organizations",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://www.a-b-c.org/",
-          "title": "Association to Benefit Children | A champion for all children"
-        },
         {
           "url": "https://www.amendtogether.org/",
           "title": "AMEND Together"
+        },
+        {
+          "url": "https://www.a-b-c.org/",
+          "title": "Association to Benefit Children | A champion for all children"
         },
         {
           "url": "http://www.guilfordhri.org/",
           "title": "Healthy Relationships Initiative - Healthy Relationships Initiative"
         },
         {
-          "url": "https://www.houstonendowment.org/programs/",
-          "title": "Houston Endowment | Programs"
+          "url": "http://www.washingtonstem.org/",
+          "title": "Home Page - Washington STEM"
         },
         {
-          "url": "https://instagram.com/theuso/",
-          "title": "USO (@theuso) • Instagram photos and videos"
+          "url": "https://www.houstonendowment.org/programs/",
+          "title": "Houston Endowment | Programs"
         },
         {
           "url": "https://inspiredleaders.downtown.org/account/login.aspx?ReturnUrl=https://downtown.org/",
           "title": "International Downtown Association"
         },
         {
-          "url": "http://www.washingtonstem.org/",
-          "title": "Home Page - Washington STEM"
+          "url": "https://instagram.com/theuso/",
+          "title": "USO (@theuso) • Instagram photos and videos"
         },
         {
           "url": "https://www.wsbcc.org/",
@@ -93,19 +93,15 @@
       "count": 9
     },
     {
-      "name": "e-commerce-apparel-beauty",
+      "name": "apparel-beauty-ecommerce",
       "bookmarks": [
-        {
-          "url": "http://www.beltsdirect.com/",
-          "title": "Fashion and Pet Accessories - Buckle-Down"
-        },
         {
           "url": "https://chantecaille.com/products/mermaid-eyeshade",
           "title": "Chantecaille Mermaid Eyeshadow"
         },
         {
-          "url": "https://dnaathletix.com/products/riverdale-sweat-pants",
-          "title": "RIVERDALE RAIDERS SWEAT PANTS - dnaathletix"
+          "url": "http://www.beltsdirect.com/",
+          "title": "Fashion and Pet Accessories - Buckle-Down"
         },
         {
           "url": "https://shop.github.com/",
@@ -116,6 +112,10 @@
           "title": "Lucy Hale Hiking with Colton Underwood July 15, 2020 - Star Style"
         },
         {
+          "url": "https://dnaathletix.com/products/riverdale-sweat-pants",
+          "title": "RIVERDALE RAIDERS SWEAT PANTS - dnaathletix"
+        },
+        {
           "url": "https://www.taylorjeanstephan.com/",
           "title": "Taylor Jean Stephan"
         }
@@ -123,27 +123,27 @@
       "count": 6
     },
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://cwdressings.com/",
           "title": "CW Dressings™"
         },
         {
-          "url": "https://www.luckymodel.com/scale.aspx?item_no=TRX-TR35002-2",
-          "title": "void"
-        },
-        {
-          "url": "https://www.rammeter.com/test-equipment-tools?cat=21&rating=626&type=154",
-          "title": "Test Equipment & Tools Ram Meter, Inc."
+          "url": "https://www.wefeedraw.com/",
+          "title": "Raw Dog Food Delivery Company | We Feed Raw"
         },
         {
           "url": "https://simplay3.com/our-story",
           "title": "Simplay3 Our Story"
         },
         {
-          "url": "https://www.wefeedraw.com/",
-          "title": "Raw Dog Food Delivery Company | We Feed Raw"
+          "url": "https://www.rammeter.com/test-equipment-tools?cat=21&rating=626&type=154",
+          "title": "Test Equipment & Tools Ram Meter, Inc."
+        },
+        {
+          "url": "https://www.luckymodel.com/scale.aspx?item_no=TRX-TR35002-2",
+          "title": "void"
         }
       ],
       "count": 5
@@ -156,20 +156,20 @@
           "title": "Arizona Pole Vault Academy > Home"
         },
         {
-          "url": "https://www.cdc.gov/physicalactivity/basics/index.htm",
-          "title": "Physical Activity Basics and Your Health | Physical Activity Basics | CDC"
-        },
-        {
           "url": "https://www.healthline.com/health/ointment-vs-cream",
           "title": "Ointment vs. Cream, Lotion, and Gel: What Makes Them Different?"
         },
         {
-          "url": "https://jadedragonapothecary.com/products/yoni-steam-herbs",
-          "title": "Yoni Steam Herbs - Jade Dragon Apothecary"
+          "url": "https://www.cdc.gov/physicalactivity/basics/index.htm",
+          "title": "Physical Activity Basics and Your Health | Physical Activity Basics | CDC"
         },
         {
           "url": "https://thesculptsociety.com/",
           "title": "Sculpting & Dance Cardio Workouts | The Sculpt Society"
+        },
+        {
+          "url": "https://jadedragonapothecary.com/products/yoni-steam-herbs",
+          "title": "Yoni Steam Herbs - Jade Dragon Apothecary"
         }
       ],
       "count": 5
@@ -178,24 +178,24 @@
       "name": "personal-blogs-commentary",
       "bookmarks": [
         {
-          "url": "https://captaineifos.tumblr.com/",
-          "title": "Soph studies"
+          "url": "https://mckathlin.tumblr.com/",
+          "title": "@mckathlin on Tumblr"
+        },
+        {
+          "url": "https://reading-not-sleeping.tumblr.com/post/117426794175",
+          "title": "codeorg: With all the national debate on... - Reading Not Sleeping"
         },
         {
           "url": "https://www.daviddavisson.com/full-moon-story-the-night-parade/",
           "title": "Full Moon Story: The Night Parade - Abderitic"
         },
         {
-          "url": "https://mckathlin.tumblr.com/",
-          "title": "@mckathlin on Tumblr"
-        },
-        {
           "url": "http://www.nonsisamai.com/2008/10/voi-lo-sapete-che-giornali-leggete.html?showComment=1222887960000",
           "title": "Non Si Sa Mai: voi lo sapete che giornali leggete?"
         },
         {
-          "url": "https://reading-not-sleeping.tumblr.com/post/117426794175",
-          "title": "codeorg: With all the national debate on... - Reading Not Sleeping"
+          "url": "https://captaineifos.tumblr.com/",
+          "title": "Soph studies"
         }
       ],
       "count": 5
@@ -204,12 +204,12 @@
       "name": "academic-research-education",
       "bookmarks": [
         {
-          "url": "https://brilliant.org/courses/linear-algebra/",
-          "title": "Courses | Brilliant"
-        },
-        {
           "url": "https://www.commonsense.org/education",
           "title": "Common Sense Education"
+        },
+        {
+          "url": "https://brilliant.org/courses/linear-algebra/",
+          "title": "Courses | Brilliant"
         },
         {
           "url": "http://www.gtcenter.org/",
@@ -223,12 +223,30 @@
       "count": 4
     },
     {
-      "name": "cultural-travel-religious-sites",
+      "name": "community-events-forums",
       "bookmarks": [
         {
-          "url": "https://www.annefrank.org/en/museum/tickets/",
-          "title": "Tickets | Anne Frank House"
+          "url": "https://hullhrc.com/events-calendar/",
+          "title": "Events Calendar - Heritage Reformed Congregation of Hull Iowa"
         },
+        {
+          "url": "https://www.eventbrite.de/e/feeding-the-city-ask-us-anything-tickets-568255225677?aff=erelexpmlt",
+          "title": "Feeding the City: Ask us Anything Tickets, Thu, Mar 9, 2023 at 5:00 PM | Eventbrite"
+        },
+        {
+          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
+          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
+        },
+        {
+          "url": "https://www.actusf.com/forumimaginaire/memberlist.php?mode=contactadmin&sid=5d1d8991a65815d957880828b7aa6936",
+          "title": "L'Appel de l'imaginaire - Envoyer un courriel"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "cultural-travel-religious-sites",
+      "bookmarks": [
         {
           "url": "http://www.beithallelocala.org/rebbitzens-blog/archives/09-2020",
           "title": "Blog Archives"
@@ -238,30 +256,12 @@
           "title": "The Quranic Arabic Corpus - Translation"
         },
         {
+          "url": "https://www.annefrank.org/en/museum/tickets/",
+          "title": "Tickets | Anne Frank House"
+        },
+        {
           "url": "http://www.okeanostravel.com/",
           "title": "Turkey Holiday Packages And Turkey Tours | Okeanos Travel Turkey"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "events-community-forums",
-      "bookmarks": [
-        {
-          "url": "https://www.actusf.com/forumimaginaire/memberlist.php?mode=contactadmin&sid=5d1d8991a65815d957880828b7aa6936",
-          "title": "L'Appel de l'imaginaire - Envoyer un courriel"
-        },
-        {
-          "url": "https://www.eventbrite.de/e/feeding-the-city-ask-us-anything-tickets-568255225677?aff=erelexpmlt",
-          "title": "Feeding the City: Ask us Anything Tickets, Thu, Mar 9, 2023 at 5:00 PM | Eventbrite"
-        },
-        {
-          "url": "https://hullhrc.com/events-calendar/",
-          "title": "Events Calendar - Heritage Reformed Congregation of Hull Iowa"
-        },
-        {
-          "url": "https://www.onf-contrebasse.com/forum/viewforum.php?f=29&sid=660f0ddc3a59b8cdfc785724b40ef374",
-          "title": "FORUM DE LA CONTREBASSE - Contrebasse"
         }
       ],
       "count": 4
@@ -274,12 +274,12 @@
           "title": "Department of Labor Home Page | Department of Labor"
         },
         {
-          "url": "https://www.imo.org/en/OurWork/MSAS/Pages/IMO-identification-number-scheme.aspx?utm%255Fsource=example.com&utm%255Fmedium=link&utm%255Fcompaign=article#:~:text=The%20IMO%20ship%20identification%20number%20scheme%20was%20introduced,permanent%20number%20to%20each%20ship%20for%20identification%20purposes.",
-          "title": "IMO identification number schemes"
-        },
-        {
           "url": "https://mib.gov.in",
           "title": "Home | Ministry of Information and Broadcasting"
+        },
+        {
+          "url": "https://www.imo.org/en/OurWork/MSAS/Pages/IMO-identification-number-scheme.aspx?utm%255Fsource=example.com&utm%255Fmedium=link&utm%255Fcompaign=article#:~:text=The%20IMO%20ship%20identification%20number%20scheme%20was%20introduced,permanent%20number%20to%20each%20ship%20for%20identification%20purposes.",
+          "title": "IMO identification number schemes"
         },
         {
           "url": "https://owd.boston.gov/",
@@ -296,16 +296,16 @@
           "title": "Privacy Policy Apps | Fox and Sheep"
         },
         {
-          "url": "https://www.southafrica.net/gl/en/trade/page/terms-and-conditions",
-          "title": "Terms and conditions (GL)"
-        },
-        {
           "url": "https://supersimple.com/app-privacy-policy/",
           "title": "Privacy Policy for Skyship Entertainment Company - Super Simple"
         },
         {
           "url": "https://www.tribpub.com/subscriber-terms-and-conditions/#nt=secondarynavbar",
           "title": "SUBSCRIBER TERMS AND CONDITIONS - Tribune Publishing"
+        },
+        {
+          "url": "https://www.southafrica.net/gl/en/trade/page/terms-and-conditions",
+          "title": "Terms and conditions (GL)"
         }
       ],
       "count": 4
@@ -340,30 +340,30 @@
           "title": "Cache-Control header - HTTP | MDN"
         },
         {
-          "url": "https://docs.mapbox.com/#navigation",
-          "title": "Mapbox Docs"
-        },
-        {
           "url": "https://es.wordpress.org/plugins/gdpr-cookie-compliance/",
           "title": "GDPR Cookie Compliance - Cookie Banner, Cookie Consent, Cookie Notice for CCPA, EU Cookie Law - Plugin WordPress | WordPress.org España"
+        },
+        {
+          "url": "https://docs.mapbox.com/#navigation",
+          "title": "Mapbox Docs"
         }
       ],
       "count": 3
     },
     {
-      "name": "streaming-entertainment",
+      "name": "entertainment-streaming",
       "bookmarks": [
         {
           "url": "https://www.officialstation.com/tag/benny-benassi",
           "title": "Benny Benassi Archives - I am official station"
         },
         {
-          "url": "https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-ipad_fp-pmo_try-atv-220405",
-          "title": "‎Apple TV+"
-        },
-        {
           "url": "https://www.twitch.tv/mozillahubs",
           "title": "Twitch"
+        },
+        {
+          "url": "https://tv.apple.com/channel/tvs.sbd.4000?itscg=10000&itsct=atv-ipad_fp-pmo_try-atv-220405",
+          "title": "‎Apple TV+"
         }
       ],
       "count": 3

@@ -16,12 +16,16 @@
           "title": "Denver Outdoor Places Program - City and County of Denver"
         },
         {
+          "url": "https://hmong.org/",
+          "title": "Empowering our Diverse Community - Hmong American Partnership"
+        },
+        {
           "url": "http://www.ecotrel.lu",
           "title": "Home | Ecotrel"
         },
         {
-          "url": "https://hmong.org/",
-          "title": "Empowering our Diverse Community - Hmong American Partnership"
+          "url": "https://usow.org/",
+          "title": "Homepage - USOW"
         },
         {
           "url": "http://horizonschildren.org/",
@@ -36,12 +40,12 @@
           "title": "News Releases | National Institutes of Health (NIH)"
         },
         {
-          "url": "https://www.rewild.org/",
-          "title": "We don't need to reinvent the planet-we need to rewild it."
-        },
-        {
           "url": "https://sandiegozoowildlifealliance.org/",
           "title": "San Diego Zoo Wildlife Alliance | Home page"
+        },
+        {
+          "url": "https://www.wilsoncenter.org/the-woodrow-wilson-awards",
+          "title": "The Woodrow Wilson Awards | Wilson Center"
         },
         {
           "url": "https://tigerfoundation.org/",
@@ -52,12 +56,8 @@
           "title": "Tree Campus Healthcare | Arbor Day Foundation"
         },
         {
-          "url": "https://www.wilsoncenter.org/the-woodrow-wilson-awards",
-          "title": "The Woodrow Wilson Awards | Wilson Center"
-        },
-        {
-          "url": "https://usow.org/",
-          "title": "Homepage - USOW"
+          "url": "https://www.rewild.org/",
+          "title": "We don't need to reinvent the planet-we need to rewild it."
         },
         {
           "url": "https://www.ywboston.org/about-us/employment/program-impact-senior-associate/",
@@ -70,12 +70,12 @@
       "name": "shopping-brands",
       "bookmarks": [
         {
-          "url": "https://www.maccosmetics.com/",
-          "title": "american-express icon"
+          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
+          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
         },
         {
-          "url": "https://www.cintas.com/",
-          "title": "Uniforms - Corporate Apparel | Cintas"
+          "url": "https://www.maccosmetics.com/",
+          "title": "american-express icon"
         },
         {
           "url": "https://www.vrai.com/diamond-jewelry",
@@ -102,16 +102,16 @@
           "title": "Plechová retro cedule - Pražská Kolbovka - retro-darky.cz"
         },
         {
-          "url": "https://schottpackaging.co.uk/product/57-x-76mm-clear-polythene-grip-seal-bags/",
-          "title": "57 x 76mm Clear Polythene Grip Seal Bags - Schott Packaging"
-        },
-        {
           "url": "https://alejka24.pl/product-pol-1067-Tasma-ogrodzeniowa-jasnoszara-PVC-19-cm-35mb-450g-m2-klipsy.html",
           "title": "Taśma ogrodzeniowa jasnoszara PVC 19 cm 35mb 450g/m2 + klipsy | sklep Alejka24.pl"
         },
         {
           "url": "https://unclebekah.com/",
           "title": "Uncle Bekah's Inappropriate Trucker Hats - Uncle Bekah's Inappropriate Trucker Hats"
+        },
+        {
+          "url": "https://www.cintas.com/",
+          "title": "Uniforms - Corporate Apparel | Cintas"
         },
         {
           "url": "https://stock.walmart.com/",
@@ -123,48 +123,6 @@
         }
       ],
       "count": 13
-    },
-    {
-      "name": "dev-resources",
-      "bookmarks": [
-        {
-          "url": "http://4mhz.de/bfdev.html",
-          "title": "Brainfuck Developer - a Brainfuck IDE"
-        },
-        {
-          "url": "https://chessprogramming.org/Zobrist_Hashing",
-          "title": "Zobrist Hashing - Chessprogramming wiki"
-        },
-        {
-          "url": "https://react.dev/learn/start-a-new-react-project",
-          "title": "Creating a React App - React"
-        },
-        {
-          "url": "https://plugins.trac.wordpress.org/browser/gdpr-cookie-compliance/",
-          "title": "gdpr-cookie-compliance - WordPress Plugin Repository"
-        },
-        {
-          "url": "https://cssgradient.io/gradient-backgrounds/",
-          "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
-        },
-        {
-          "url": "https://jsonschema.dev/",
-          "title": "JSON Schema Validation"
-        },
-        {
-          "url": "https://kotilabdulkadir.notion.site/No-code-headless-commerce-and-websites-Unstack-Inc-41f1daebe140443386901f7dd8fed2aa?pvs=25",
-          "title": "Notion"
-        },
-        {
-          "url": "https://vuejs.org/guide/quick-start.html",
-          "title": "Quick Start | Vue.js"
-        },
-        {
-          "url": "https://jax.readthedocs.io/en/latest/notebooks/quickstart.html",
-          "title": "void"
-        }
-      ],
-      "count": 9
     },
     {
       "name": "corporate-saas",
@@ -209,12 +167,50 @@
       "count": 9
     },
     {
-      "name": "misc-utility",
+      "name": "dev-resources",
       "bookmarks": [
         {
-          "url": "http://www.getonthebus.org/",
-          "title": "User138"
+          "url": "http://4mhz.de/bfdev.html",
+          "title": "Brainfuck Developer - a Brainfuck IDE"
         },
+        {
+          "url": "https://react.dev/learn/start-a-new-react-project",
+          "title": "Creating a React App - React"
+        },
+        {
+          "url": "https://plugins.trac.wordpress.org/browser/gdpr-cookie-compliance/",
+          "title": "gdpr-cookie-compliance - WordPress Plugin Repository"
+        },
+        {
+          "url": "https://cssgradient.io/gradient-backgrounds/",
+          "title": "Gradient Backgrounds - 🌈 The Best Gradient Sites All in One Place"
+        },
+        {
+          "url": "https://jsonschema.dev/",
+          "title": "JSON Schema Validation"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/No-code-headless-commerce-and-websites-Unstack-Inc-41f1daebe140443386901f7dd8fed2aa?pvs=25",
+          "title": "Notion"
+        },
+        {
+          "url": "https://vuejs.org/guide/quick-start.html",
+          "title": "Quick Start | Vue.js"
+        },
+        {
+          "url": "https://jax.readthedocs.io/en/latest/notebooks/quickstart.html",
+          "title": "void"
+        },
+        {
+          "url": "https://chessprogramming.org/Zobrist_Hashing",
+          "title": "Zobrist Hashing - Chessprogramming wiki"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "misc-utility",
+      "bookmarks": [
         {
           "url": "https://my.accessportals.com/app/blk/login?redirectUrl=/us/individual?signInAppWithOkta=true",
           "title": "Login"
@@ -242,12 +238,50 @@
         {
           "url": "https://www.synchrony.com/accounts/?client=walgreens",
           "title": "Synchrony Account Manager"
+        },
+        {
+          "url": "http://www.getonthebus.org/",
+          "title": "User138"
         }
       ],
       "count": 8
     },
     {
-      "name": "leisure-hobbies",
+      "name": "education-research",
+      "bookmarks": [
+        {
+          "url": "https://www.mines.edu/",
+          "title": "Colorado School of Mines | A Premier Engineering University"
+        },
+        {
+          "url": "https://news.educ.cam.ac.uk/230223-jason-arday",
+          "title": "Jason Arday appointed Professor of Sociology of Education at University of Cambridge | Faculty of Education"
+        },
+        {
+          "url": "https://www.khanacademy.org/humanities/medieval-world/medieval/europe-1300-1400-beginners/v/egg-tempera-painting",
+          "title": "Khan Academy"
+        },
+        {
+          "url": "https://www.nature.com/subjects/neuroscience",
+          "title": "Neuroscience - Latest research and news | Nature"
+        },
+        {
+          "url": "https://tos.org/oceanography/article/seamount-fisheries-do-they-have-a-future",
+          "title": "Seamount Fisheries: Do They Have a Future? | Oceanography"
+        },
+        {
+          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
+          "title": "Staff Directory | Unitec"
+        },
+        {
+          "url": "https://www.jstor.org/stable/2200014",
+          "title": "The Origins of 200-Mile Offshore Zones on JSTOR"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "hobbies-leisure",
       "bookmarks": [
         {
           "url": "https://www.aquascapingworld.com/",
@@ -281,7 +315,7 @@
       "count": 7
     },
     {
-      "name": "media-news",
+      "name": "news-media",
       "bookmarks": [
         {
           "url": "https://pv-magazine-usa.com/2018/10/31/demand-side-flexibility-helping-solve-solars-curtailment-conundrum/",
@@ -345,41 +379,7 @@
       "count": 6
     },
     {
-      "name": "education-research",
-      "bookmarks": [
-        {
-          "url": "https://www.mines.edu/",
-          "title": "Colorado School of Mines | A Premier Engineering University"
-        },
-        {
-          "url": "https://news.educ.cam.ac.uk/230223-jason-arday",
-          "title": "Jason Arday appointed Professor of Sociology of Education at University of Cambridge | Faculty of Education"
-        },
-        {
-          "url": "https://www.khanacademy.org/humanities/medieval-world/medieval/europe-1300-1400-beginners/v/egg-tempera-painting",
-          "title": "Khan Academy"
-        },
-        {
-          "url": "https://www.nature.com/subjects/neuroscience",
-          "title": "Neuroscience - Latest research and news | Nature"
-        },
-        {
-          "url": "https://tos.org/oceanography/article/seamount-fisheries-do-they-have-a-future",
-          "title": "Seamount Fisheries: Do They Have a Future? | Oceanography"
-        },
-        {
-          "url": "https://www.unitec.ac.nz/about-us/contact-us/staff-directory?stf_page_size=50&stf_department=59054&stf_fc_limit=r",
-          "title": "Staff Directory | Unitec"
-        },
-        {
-          "url": "https://www.jstor.org/stable/2200014",
-          "title": "The Origins of 200-Mile Offshore Zones on JSTOR"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "travel-food",
+      "name": "food-travel",
       "bookmarks": [
         {
           "url": "http://www.barleycorndrinks.com/tag/clay-risen/",

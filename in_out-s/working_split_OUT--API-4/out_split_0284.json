@@ -1,14 +1,14 @@
 {
   "folders": [
     {
-      "name": "environmental-and-social-advocacy",
+      "name": "social-environmental-advocacy",
       "bookmarks": [
         {
           "url": "https://2019annualreport.bloomberg.org/",
           "title": "Annual Report | Bloomberg Philanthropies"
         },
         {
-          "url": "https://blueprosperity.org/",
+          "url": "http://www.blueprosperity.org",
           "title": "Blue Prosperity Coalition | Global Network Advancing Sustainable Ocean Management"
         },
         {
@@ -16,28 +16,28 @@
           "title": "First Up - Champions for Early Education"
         },
         {
-          "url": "https://www.theguardian.com/environment/2021/nov/02/four-latin-american-countries-join-protected-marine-reserves-to-create-mega-mpa",
-          "title": "Latin American countries join reserves to create vast marine protected area | Ecuador | The Guardian"
+          "url": "https://oceanriskalliance.org/",
+          "title": "Homepage - ORRAA"
         },
         {
-          "url": "https://www.legalmomentum.org/",
-          "title": "Welcome | Legal Momentum"
+          "url": "https://www.theguardian.com/environment/2021/nov/02/four-latin-american-countries-join-protected-marine-reserves-to-create-mega-mpa",
+          "title": "Latin American countries join reserves to create vast marine protected area | Ecuador | The Guardian"
         },
         {
           "url": "https://oceana.org/press-releases/new-global-fisheries-transparency-coalition-releases-charter-for-public-comment/",
           "title": "New Coaltion for Fisheries Transparency Releases Charter for Public Comment | Oceana"
         },
         {
-          "url": "https://oceanriskalliance.org/",
-          "title": "Homepage - ORRAA"
-        },
-        {
           "url": "https://www.seedsindia.org/our-story/",
           "title": "Our Story - SEEDS"
         },
         {
-          "url": "https://valorlux.lu/en/the-blue-bag",
+          "url": "https://www.valorlux.lu/en/the-blue-bag?gclid=Cj0KCQiApL2QBhC8ARIsAGMm-KFC_UwBTPUXxBh__scACQbH83c1VJBQKAdSS2puqf4YyQuzlYTd0AwaAhMaEALw_wcB",
           "title": "The Blue Bag - Valorlux"
+        },
+        {
+          "url": "https://www.legalmomentum.org/",
+          "title": "Welcome | Legal Momentum"
         },
         {
           "url": "https://www.wfmn.org/",
@@ -47,7 +47,7 @@
       "count": 10
     },
     {
-      "name": "legal-documents-and-policy",
+      "name": "legal-policy-documents",
       "bookmarks": [
         {
           "url": "https://opensource.org/licenses/Apache-2.0",
@@ -66,10 +66,6 @@
           "title": "International Centre for Settlement of Investment Disputes"
         },
         {
-          "url": "https://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
-          "title": "void"
-        },
-        {
           "url": "https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/",
           "title": "Privacy Policy - The Walt Disney Privacy Center"
         },
@@ -78,22 +74,22 @@
           "title": "SeaVision"
         },
         {
-          "url": "https://kostenlose-urteile.de/Urteile_vom_2005-11-11.htm",
+          "url": "https://www.kostenlose-urteile.de/Urteile_vom_2005-11-11.htm",
           "title": "urteile.news | 11.11.2005 - Urteilsmeldungen von diesem Tag"
+        },
+        {
+          "url": "http://mllr.dk/privacy_policy/sexy-maria/privacy_policy_en.html",
+          "title": "void"
         }
       ],
       "count": 8
     },
     {
-      "name": "food-and-lifestyle",
+      "name": "food-lifestyle",
       "bookmarks": [
         {
-          "url": "https://biomarkt.de/bremen-admiralstrasse-14/marktseite",
+          "url": "https://www.biomarkt.de/bremen-admiralstrasse-14/marktseite",
           "title": "ALECO HB Admiralstraße, Admiralstraße 14, Bremen | biomarkt.de"
-        },
-        {
-          "url": "https://www.corneliajames.com/en-us/products/melissa-long-velvet-glove",
-          "title": "Velvet Opera Gloves - Melissa"
         },
         {
           "url": "https://gimmedelicious.com/",
@@ -108,19 +104,27 @@
           "title": "March is National Nutrition Month | HidrateSpark"
         },
         {
+          "url": "https://www.theplantroomtas.com.au/pages/collection-delivery-shipping",
+          "title": "The Plant Room, Tasmania"
+        },
+        {
           "url": "https://ponyclassic.com/brand/12-total-control-products",
           "title": "TOTAL CONTROL PRODUCTS"
         },
         {
-          "url": "https://theplantroomtas.com.au/pages/collection-delivery-shipping",
-          "title": "The Plant Room, Tasmania"
+          "url": "https://www.corneliajames.com/en-us/products/melissa-long-velvet-glove",
+          "title": "Velvet Opera Gloves - Melissa"
         }
       ],
       "count": 7
     },
     {
-      "name": "software-and-tech-security",
+      "name": "software-tech-security",
       "bookmarks": [
+        {
+          "url": "http://www.pocketsoap.com/4s4c/",
+          "title": "@superfell"
+        },
         {
           "url": "https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html",
           "title": "Ansible playbooks - Ansible Community Documentation"
@@ -134,42 +138,38 @@
           "title": "Free Online Form Builder | Tally"
         },
         {
-          "url": "https://pocketsoap.com/4s4c/",
-          "title": "@superfell"
+          "url": "https://www.webassessor.com/wa.do?page=certInfo&branding=GOOGLECLOUD&tabs=13",
+          "title": "Logged out"
         },
         {
           "url": "https://vms.drweb.com/virus/?i=2405948",
           "title": "Trojan.DownLoader8.31367 - Dr.Web Malware description library"
-        },
-        {
-          "url": "https://www.webassessor.com/wa.do?page=certInfo&branding=GOOGLECLOUD&tabs=13",
-          "title": "Logged out"
         }
       ],
       "count": 6
     },
     {
-      "name": "gaming-and-entertainment",
+      "name": "entertainment-gaming",
       "bookmarks": [
         {
-          "url": "https://arcadebelgium.be/",
-          "title": "Arcade Belgium - News (en)"
-        },
-        {
-          "url": "https://atarihq.com/museum/coinops/index.html",
+          "url": "http://www.atarihq.com/museum/coinops/index.html",
           "title": "AGH Museum -- Coin-Op (Arcade) Games"
         },
         {
-          "url": "https://gamecabinet.com/rules/OnceUponATimeVariant.html",
-          "title": "Once Upon a Time"
+          "url": "http://www.arcadebelgium.be/",
+          "title": "Arcade Belgium - News (en)"
         },
         {
-          "url": "https://www.primevideo.com",
-          "title": "Welcome to Prime Video"
+          "url": "http://gamecabinet.com/rules/OnceUponATimeVariant.html",
+          "title": "Once Upon a Time"
         },
         {
           "url": "https://puzzling.stackexchange.com/",
           "title": "Puzzling Stack Exchange"
+        },
+        {
+          "url": "https://www.primevideo.com",
+          "title": "Welcome to Prime Video"
         }
       ],
       "count": 5
@@ -178,26 +178,26 @@
       "name": "academic-resources",
       "bookmarks": [
         {
-          "url": "https://online.aub.edu.lb/Pages/index.html",
-          "title": "AUB Online"
-        },
-        {
           "url": "https://aubmediterraneo.cy/",
           "title": "American University of Beirut - Home - Pafos"
+        },
+        {
+          "url": "https://online.aub.edu.lb/Pages/index.html",
+          "title": "AUB Online"
         },
         {
           "url": "https://envs.ucsc.edu/faculty/index.php?uid=klseto",
           "title": "Faculty - Environmental Studies"
         },
         {
-          "url": "https://kic.org.uk/nottingham-trent/",
+          "url": "https://www.kic.org.uk/nottingham-trent/",
           "title": "Nottingham Trent International College | Kaplan Pathways"
         }
       ],
       "count": 4
     },
     {
-      "name": "design-and-creative-resources",
+      "name": "design-creative-resources",
       "bookmarks": [
         {
           "url": "https://not-checklist.intopia.digital/",
@@ -226,12 +226,12 @@
           "title": "Cat Submarine! | 16% of all new wages in the U.S. are in computer..."
         },
         {
-          "url": "https://coder-girls.tumblr.com/post/126874557083",
-          "title": "Is learning computer science linked to improved learning in other subjects? - @coder-girls on Tumblr"
-        },
-        {
           "url": "https://pytorch.org/get-started/locally/",
           "title": "Get Started"
+        },
+        {
+          "url": "https://coder-girls.tumblr.com/post/126874557083",
+          "title": "Is learning computer science linked to improved learning in other subjects? - @coder-girls on Tumblr"
         },
         {
           "url": "https://www.coursera.org/learn/machine-learning",
@@ -241,7 +241,7 @@
       "count": 4
     },
     {
-      "name": "general-info-and-guides",
+      "name": "general-guides-info",
       "bookmarks": [
         {
           "url": "https://www.gardenorganic.org.uk/composting",
@@ -256,22 +256,22 @@
           "title": "Stripe Press - Ideas for progress"
         },
         {
-          "url": "https://thesprucecrafts.com/how-to-tool-leather-3536816",
+          "url": "https://www.thesprucecrafts.com/how-to-tool-leather-3536816",
           "title": "Using Your Woodworking Band Saw Safely"
         }
       ],
       "count": 4
     },
     {
-      "name": "news-and-media-analysis",
+      "name": "news-media-analysis",
       "bookmarks": [
-        {
-          "url": "https://www.aljazeera.com/economy/",
-          "title": "Economy | Today's latest from Al Jazeera"
-        },
         {
           "url": "https://politiken.dk/indland/",
           "title": "Danmark"
+        },
+        {
+          "url": "https://www.aljazeera.com/economy/",
+          "title": "Economy | Today's latest from Al Jazeera"
         },
         {
           "url": "https://www.theworldwomennews.com/",
@@ -285,58 +285,58 @@
       "count": 4
     },
     {
-      "name": "personal-finance-and-safety",
+      "name": "personal-finance-safety",
       "bookmarks": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/apotex-corp-issues-voluntary-nationwide-recall-of-brimonidine-tartrate-ophthalmic-solution-0-15-due-to-cracks-that-have-developed-in-some-of-the-units-caps-of-the-bottles-301759987.html",
+          "title": "Apotex Corp. Issues Voluntary Nationwide Recall of Brimonidine Tartrate Ophthalmic Solution, 0.15% due to cracks that have developed in some of the units caps of the bottles"
+        },
+        {
+          "url": "https://www.gofundme.com/f/samantha-cains-medical-and-emergency-expenses?member=25368189&utm_campaign=p_cp+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined",
+          "title": "Fundraiser for Macy Gamel by Kalie Clark : Samantha Cain's Emergency Expenses"
+        },
         {
           "url": "https://bugatti.oemdtc.com/category/recalls",
           "title": "Recalls | Bugatti - OEMDTC"
         },
         {
-          "url": "https://gofundme.com/f/samantha-cains-medical-and-emergency-expenses",
-          "title": "Fundraiser for Macy Gamel by Kalie Clark : Samantha Cain's Emergency Expenses"
-        },
-        {
           "url": "https://www.ncoa.org/economic-security/money-management/scams-security/top-10-scams-targeting-seniors/",
           "title": "The Top Online Payment Scams Targeting Seniors"
-        },
-        {
-          "url": "https://www.prnewswire.com/news-releases/apotex-corp-issues-voluntary-nationwide-recall-of-brimonidine-tartrate-ophthalmic-solution-0-15-due-to-cracks-that-have-developed-in-some-of-the-units-caps-of-the-bottles-301759987.html",
-          "title": "Apotex Corp. Issues Voluntary Nationwide Recall of Brimonidine Tartrate Ophthalmic Solution, 0.15% due to cracks that have developed in some of the units caps of the bottles"
         }
       ],
       "count": 4
     },
     {
-      "name": "science-and-culture",
+      "name": "science-culture",
       "bookmarks": [
-        {
-          "url": "https://www.nhm.ac.uk/discover/dinosaurs.html",
-          "title": "Dinosaurs | Natural History Museum"
-        },
         {
           "url": "https://monirulalam.net/2011/10/21/a-villagers-daily-life-in-keranigang/",
           "title": "A villagers Daily Life in Keranigang - MONIRUL ALAM"
         },
         {
-          "url": "https://www.myjewishlearning.com/article/messianic-judaism/",
-          "title": "Who Are Messianic \"Jews\"? | My Jewish Learning"
+          "url": "https://www.nhm.ac.uk/discover/dinosaurs.html",
+          "title": "Dinosaurs | Natural History Museum"
         },
         {
           "url": "https://ueaglider.uea.ac.uk/mission39/glider502/dive0085",
           "title": "SG502 Dive 85 Mission 39"
+        },
+        {
+          "url": "https://www.myjewishlearning.com/article/messianic-judaism/",
+          "title": "Who Are Messianic \"Jews\"? | My Jewish Learning"
         }
       ],
       "count": 4
     },
     {
-      "name": "business-management-and-tools",
+      "name": "business-management-tools",
       "bookmarks": [
         {
           "url": "https://safety.blr.com/",
           "title": "EHS Hero"
         },
         {
-          "url": "https://www.findymail.com/",
+          "url": "https://www.findymail.com/?via=w7qyde8i953fj9s6sv8r",
           "title": "Email Finder: Find Verified Emails for free | Findymail"
         },
         {
@@ -347,19 +347,19 @@
       "count": 3
     },
     {
-      "name": "customer-service-and-info",
+      "name": "customer-service-info",
       "bookmarks": [
         {
           "url": "https://help.lyft.com/hc/en-us",
           "title": "Lyft Help"
         },
         {
-          "url": "https://www.virtuelabs.com/en/shipping-notice",
-          "title": "Virtue | Shipping Delay Notice"
+          "url": "https://www.winkworth.co.uk/gloucestershire/dymock/properties-to-let?status=completed&bedroomsfrom=3&bedroomsto=3",
+          "title": "Properties to rent in Dymock, Gloucestershire | Winkworth Estate Agents"
         },
         {
-          "url": "https://www.winkworth.co.uk/gloucestershire/dymock/properties-to-let",
-          "title": "Properties to rent in Dymock, Gloucestershire | Winkworth Estate Agents"
+          "url": "https://www.virtuelabs.com/en/shipping-notice",
+          "title": "Virtue | Shipping Delay Notice"
         }
       ],
       "count": 3

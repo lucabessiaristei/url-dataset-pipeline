@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "articles-news",
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://blog.amicaledesanciensdesainthadelin.be/2017/01/17/deces-de-monsieur-jean-verjans-epoux-de-madame-marie-jose-lagasse/",
@@ -31,32 +31,6 @@
       "count": 6
     },
     {
-      "name": "community-non-profits",
-      "bookmarks": [
-        {
-          "url": "http://www.give.org/charity-reviews/national/civil-rights/american-civil-liberties-union-foundation-in-new-york-ny-227",
-          "title": "American Civil Liberties Union Foundation charity review & reports by Give.org"
-        },
-        {
-          "url": "https://www.blackchamberofcommerce.org/",
-          "title": "Southern California Black Chamber of Commerce"
-        },
-        {
-          "url": "https://tiwahefoundation.org/",
-          "title": "Strengthening Indigenous Leadership and Lifeways - Tiwahe Foundation"
-        },
-        {
-          "url": "https://www.thefamilyplacenc.com/",
-          "title": "The Family Place | Family resources in Transylvania County"
-        },
-        {
-          "url": "https://ywcaaustin.org/fightinginsolidarity/",
-          "title": "Supporters - YWCA Austin | Mental Health | Volunteer | Counseling"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "legal-policy",
       "bookmarks": [
         {
@@ -78,6 +52,32 @@
         {
           "url": "https://www.campaignfornature.org/Background",
           "title": "Why 30%? - Campaign For Nature"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "nonprofit-community",
+      "bookmarks": [
+        {
+          "url": "http://www.give.org/charity-reviews/national/civil-rights/american-civil-liberties-union-foundation-in-new-york-ny-227",
+          "title": "American Civil Liberties Union Foundation charity review & reports by Give.org"
+        },
+        {
+          "url": "https://www.blackchamberofcommerce.org/",
+          "title": "Southern California Black Chamber of Commerce"
+        },
+        {
+          "url": "https://tiwahefoundation.org/",
+          "title": "Strengthening Indigenous Leadership and Lifeways - Tiwahe Foundation"
+        },
+        {
+          "url": "https://ywcaaustin.org/fightinginsolidarity/",
+          "title": "Supporters - YWCA Austin | Mental Health | Volunteer | Counseling"
+        },
+        {
+          "url": "https://www.thefamilyplacenc.com/",
+          "title": "The Family Place | Family resources in Transylvania County"
         }
       ],
       "count": 5
@@ -105,7 +105,7 @@
       "count": 4
     },
     {
-      "name": "education-cs",
+      "name": "cs-education",
       "bookmarks": [
         {
           "url": "https://www.desmos.com/3d",
@@ -170,16 +170,16 @@
       "name": "shopping",
       "bookmarks": [
         {
-          "url": "https://www.musisol.com/cuerdas-guitarras-clasica/",
-          "title": "⚡ Compra cuerdas de guitarras Clasica | Musisol.com - Musisol.com"
-        },
-        {
           "url": "https://lacelock.net/products/lace-lock-melting-spray-pre-order",
           "title": "Lace Lock Melting Spray - Fingaz Beauty"
         },
         {
           "url": "https://www.speidelshop.com/maxislip-1272-888.html",
           "title": "Maxislip | SPEIDEL Online Shop"
+        },
+        {
+          "url": "https://www.musisol.com/cuerdas-guitarras-clasica/",
+          "title": "⚡ Compra cuerdas de guitarras Clasica | Musisol.com - Musisol.com"
         }
       ],
       "count": 3

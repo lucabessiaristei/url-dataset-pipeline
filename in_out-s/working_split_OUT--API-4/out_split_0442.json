@@ -1,307 +1,195 @@
 {
   "folders": [
     {
-      "name": "government-public-services",
-      "bookmarks": [
-        {
-          "url": "https://abs.gov.au",
-          "title": "Australian Bureau of Statistics"
-        },
-        {
-          "url": "https://energystar.gov",
-          "title": "Homepage | ENERGY STAR"
-        },
-        {
-          "url": "https://data.apps.fao.org",
-          "title": "void"
-        },
-        {
-          "url": "https://ftc.gov",
-          "title": "Federal Trade Commission | Protecting America's Consumers"
-        },
-        {
-          "url": "https://goyff.az.gov/content/about-goyff",
-          "title": "About | Governor's Office of Youth, Faith and Family"
-        },
-        {
-          "url": "https://oig.dot.gov",
-          "title": "Home | DOT OIG"
-        },
-        {
-          "url": "https://lyft.com/lyftup/programs",
-          "title": "Rides for all with Lyft Up | Lyft"
-        },
-        {
-          "url": "https://dakotawoodlands.org",
-          "title": "Dakota Woodlands | Homeless Shelter | Wescott Woodlands, Eagan, MN, USA"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "sports-gaming-leisure",
-      "bookmarks": [
-        {
-          "url": "https://arizonapolevaultacademy.com/WeatherUpdate/tabid/596/ctl/Login/Default.aspx",
-          "title": "Arizona Pole Vault Academy > Home"
-        },
-        {
-          "url": "https://beardifyapp.com",
-          "title": "Beardify"
-        },
-        {
-          "url": "https://forumula1.com/en/drivers.html",
-          "title": "F1 Drivers 2025 - Verstappen, Hamilton, Leclerc and more"
-        },
-        {
-          "url": "https://fsunews.com/story/sports/2015/06/24/noles-nab-top-basketball-recruit/29227523",
-          "title": "FSView"
-        },
-        {
-          "url": "https://gazzetta.it",
-          "title": "La Gazzetta dello Sport | Notizie sportive e risultati live di oggi"
-        },
-        {
-          "url": "https://objets-golf.com/textiles-et-parapluies/casquettes-de-golf",
-          "title": "Casquettes de golf - Objets publicitaires de Golf"
-        },
-        {
-          "url": "https://pincergames.com",
-          "title": "Pincer Games"
-        },
-        {
-          "url": "https://slideme.org/fr/node/20110178/reviews",
-          "title": "SLIDEME-end"
-        },
-        {
-          "url": "https://sportstar.thehindu.com",
-          "title": "Sports News Today, Live Cricket Score, Football News, Sports Videos | Sportstar"
-        },
-        {
-          "url": "https://withchristianeyes.net/2013/01/21/on-skyrim-a-vent-from-a-christian-parent-a-mom-who-plays",
-          "title": "On Skyrim: A Vent from a Christian Parent (a mom who plays) | With Christian Eyes"
-        }
-      ],
-      "count": 10
-    },
-    {
-      "name": "nonprofit-foundations-community",
-      "bookmarks": [
-        {
-          "url": "https://achelisbodman.org",
-          "title": "Achelis & Bodman Foundation"
-        },
-        {
-          "url": "https://oaacc.org",
-          "title": "HOME -"
-        },
-        {
-          "url": "https://kauffman.org",
-          "title": "Ewing Marion Kauffman Foundation | Kauffman.org"
-        },
-        {
-          "url": "https://fundforsharedinsight.org",
-          "title": "Foundations Advancing Listening & Feedback in Philanthropy | Fund for Shared Insight"
-        },
-        {
-          "url": "https://kaporcenter.org",
-          "title": "Homepage - Kapor Center"
-        },
-        {
-          "url": "https://odessablackchamber.com",
-          "title": "The Black Chamber of Commerce of the Permian Basin | non-profit | Permian Basin, Texas, USA"
-        },
-        {
-          "url": "https://williampennfoundation.org",
-          "title": "William Penn Foundation"
-        }
-      ],
-      "count": 7
-    },
-    {
       "name": "tech-industry-development",
       "bookmarks": [
         {
-          "url": "https://acm.org",
-          "title": "Association for Computing Machinery"
-        },
-        {
-          "url": "https://kafkai.com/en",
+          "url": "https://kafkai.com/en/",
           "title": "AI SEO Content & Competitor Insights Tool - Kafkai"
-        },
-        {
-          "url": "https://bugs.ruby-lang.org/issues",
-          "title": "Issues - Ruby Issue Tracking System"
-        },
-        {
-          "url": "https://jsfiddle.net/p999yde8",
-          "title": "Edit fiddle - JSFiddle - Code Playground"
-        },
-        {
-          "url": "https://makingmanhattan.tumblr.com/post/139454214463",
-          "title": "z = boy + girl - codeorg: What we think of computer science is..."
-        },
-        {
-          "url": "https://dynamicspartners.transform.microsoft.com",
-          "title": "Microsoft Power Platform Partner Hub"
-        },
-        {
-          "url": "https://pet-molds.com/news/Industry-News/Blowing-process-of-pet-hot-filling-bottle.html",
-          "title": "Blowing process of pet hot filling bottle,Industry News,Taizhou Huangyan Taoyuan Mould Co., Ltd."
         },
         {
           "url": "https://podcasters.apple.com",
           "title": "Apple Podcasts for Creators"
         },
         {
-          "url": "https://degreeless.design",
-          "title": "Product design & UX design resources - Degreeless.Design"
+          "url": "https://www.acm.org",
+          "title": "Association for Computing Machinery"
         },
         {
-          "url": "https://linkedin.com/company/quantis-intl",
-          "title": "Quantis | LinkedIn"
+          "url": "https://www.pet-molds.com/news/Industry-News/Blowing-process-of-pet-hot-filling-bottle.html",
+          "title": "Blowing process of pet hot filling bottle,Industry News,Taizhou Huangyan Taoyuan Mould Co., Ltd."
+        },
+        {
+          "url": "https://jsfiddle.net/p999yde8/",
+          "title": "Edit fiddle - JSFiddle - Code Playground"
+        },
+        {
+          "url": "https://bugs.ruby-lang.org/issues?page=32&per_page=50&sort=subject%3Adesc%2Cstatus%2Cassigned_to",
+          "title": "Issues - Ruby Issue Tracking System"
+        },
+        {
+          "url": "https://dynamicspartners.transform.microsoft.com",
+          "title": "Microsoft Power Platform Partner Hub"
+        },
+        {
+          "url": "https://www.degreeless.design/#content",
+          "title": "Product design & UX design resources - Degreeless.Design"
         },
         {
           "url": "https://igotmeamovie.tumblr.com/post/144213563447",
           "title": "Welcome friend - Computing occupations are now the #1 source of new wages in America"
+        },
+        {
+          "url": "https://makingmanhattan.tumblr.com/post/139454214463",
+          "title": "z = boy + girl - codeorg: What we think of computer science is..."
         }
       ],
-      "count": 11
+      "count": 10
     },
     {
-      "name": "travel-transportation-services",
+      "name": "sports-gaming-leisure",
       "bookmarks": [
         {
-          "url": "https://cd.cz/jizdni-rad",
-          "title": "Jízdní řád | České dráhy"
+          "url": "http://arizonapolevaultacademy.com/WeatherUpdate/tabid/596/ctl/Login/Default.aspx?returnurl=%2FWeatherUpdate%2Ftabid%2F596%2Fctl%2FLogin%2FDefault.aspx",
+          "title": "Arizona Pole Vault Academy > Home"
         },
         {
-          "url": "https://jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
-          "title": "Jumeirah Burj Al Arab | Dubai's Most Iconic Hotel | Jumeirah"
+          "url": "http://beardifyapp.com",
+          "title": "Beardify"
         },
         {
-          "url": "https://emt.es/portal/en/horarios-y-recorridos",
+          "url": "http://objets-golf.com/textiles-et-parapluies/casquettes-de-golf/",
+          "title": "Casquettes de golf - Objets publicitaires de Golf"
+        },
+        {
+          "url": "https://www.fsunews.com/story/sports/2015/06/24/noles-nab-top-basketball-recruit/29227523/",
+          "title": "FSView"
+        },
+        {
+          "url": "http://www.gazzetta.it/",
+          "title": "La Gazzetta dello Sport | Notizie sportive e risultati live di oggi"
+        },
+        {
+          "url": "https://withchristianeyes.net/2013/01/21/on-skyrim-a-vent-from-a-christian-parent-a-mom-who-plays/?like_comment=6585&_wpnonce=ddb5b43d50",
+          "title": "On Skyrim: A Vent from a Christian Parent (a mom who plays) | With Christian Eyes"
+        },
+        {
+          "url": "https://www.pincergames.com",
+          "title": "Pincer Games"
+        },
+        {
+          "url": "http://slideme.org/fr/node/20110178/reviews",
+          "title": "SLIDEME-end"
+        },
+        {
+          "url": "https://sportstar.thehindu.com/",
+          "title": "Sports News Today, Live Cricket Score, Football News, Sports Videos | Sportstar"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://goyff.az.gov/content/about-goyff",
+          "title": "About | Governor's Office of Youth, Faith and Family"
+        },
+        {
+          "url": "http://www.abs.gov.au/",
+          "title": "Australian Bureau of Statistics"
+        },
+        {
+          "url": "https://www.dakotawoodlands.org/",
+          "title": "Dakota Woodlands | Homeless Shelter | Wescott Woodlands, Eagan, MN, USA"
+        },
+        {
+          "url": "https://ftc.gov",
+          "title": "Federal Trade Commission | Protecting America's Consumers"
+        },
+        {
+          "url": "https://www.oig.dot.gov/",
+          "title": "Home | DOT OIG"
+        },
+        {
+          "url": "https://www.energystar.gov",
+          "title": "Homepage | ENERGY STAR"
+        },
+        {
+          "url": "https://www.lyft.com/lyftup/programs",
+          "title": "Rides for all with Lyft Up | Lyft"
+        },
+        {
+          "url": "https://data.apps.fao.org/",
           "title": "void"
-        },
-        {
-          "url": "https://jegy.mav.hu",
-          "title": "MÁV Személyszállítási Zrt. új ELVIRA online jegyvásárlás"
-        },
-        {
-          "url": "https://toyota.oemdtc.com/category/recalls",
-          "title": "Recalls | Toyota & Lexus - OEMDTC"
         }
       ],
-      "count": 5
-    },
-    {
-      "name": "legal-privacy-policies",
-      "bookmarks": [
-        {
-          "url": "https://privacy.apple.com",
-          "title": "Data & Privacy"
-        },
-        {
-          "url": "https://forum.coppeliarobotics.com/ucp.php",
-          "title": "CoppeliaSim forums - Delete cookies"
-        },
-        {
-          "url": "https://greendot.com/greendot/privacy-policy-bank",
-          "title": "Account Agreements"
-        },
-        {
-          "url": "https://smartstudy.co.kr/privacy",
-          "title": "Pinkfong Account"
-        },
-        {
-          "url": "https://store.steampowered.com/privacy_agreement",
-          "title": "Privacy Policy Agreement"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "cooking-food-dining",
-      "bookmarks": [
-        {
-          "url": "https://amybakesintheburgh.com/tag/danish-butter-cookies",
-          "title": "Danish butter cookies - amy bakes in the 'burgh"
-        },
-        {
-          "url": "https://eazydiner.com/mumbai",
-          "title": "List of Best Restaurants in Mumbai | Get Up to 50% Off"
-        },
-        {
-          "url": "https://jamieoliver.com/recipes/beef-recipes/beef-wellington",
-          "title": "Epic beef Wellington recipe | Jamie Oliver recipes"
-        },
-        {
-          "url": "https://saporietradizioni.it",
-          "title": "Ricette di cucina e piatti tradizionali"
-        },
-        {
-          "url": "https://wildfermentation.com/making-sauerkraut-2",
-          "title": "Making Sauerkraut | Wild Fermentation :: Wild Fermentation"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "news-politics-current-events",
-      "bookmarks": [
-        {
-          "url": "https://bancaynegocios.com/tag/barinas2021",
-          "title": "#Barinas2021 - Banca y Negocios"
-        },
-        {
-          "url": "https://patriotpost.us/articles/81010-the-lefts-covert-war-on-the-suburbs-2021-07-01",
-          "title": "The Left's Covert War on the Suburbs - The Patriot Post"
-        },
-        {
-          "url": "https://standard.co.uk/news/london/prince-william-sympathises-with-distraught-bake-off-fans-at-south-london-youth-club-a3345171.html",
-          "title": "Prince William sympathises with Great British Bake Off fans at Wandsworth youth club | London Evening Standard | The Standard"
-        },
-        {
-          "url": "https://content.time.com/time/subscriber/article/0,33009,948932,00.html",
-          "title": "Nation: No Need for Welfare - TIME"
-        },
-        {
-          "url": "https://newsroom.deatch.paypal-corp.com/Startseite",
-          "title": "PayPal Newsroom: Offizielle News, Pressemitteilungen, Kontakt"
-        }
-      ],
-      "count": 5
+      "count": 8
     },
     {
       "name": "arts-culture-entertainment",
       "bookmarks": [
         {
-          "url": "https://lwtheatres.co.uk/whats-on/ariana-debose",
+          "url": "https://lwtheatres.co.uk/whats-on/ariana-debose/",
           "title": "Ariana DeBose Tickets - The London Palladium, London - Official Box Office"
         },
         {
-          "url": "https://foro.novenadimension.com/threads/mark-brook-recopilacion-de-su-arte-x-men-1-parte.46620",
-          "title": "Mark Brook recopilacion de su arte X-Men 1 parte | La Novena Dimensión"
-        },
-        {
-          "url": "https://centrostudilaruna.it/tag/misteri-orfici",
-          "title": "misteri orfici - Centro Studi La Runa"
-        },
-        {
-          "url": "https://ocregister.com/2014/03/16/disney-history-pirates-of-the-caribbean-opens",
+          "url": "https://www.ocregister.com/2014/03/16/disney-history-pirates-of-the-caribbean-opens/",
           "title": "Disney history: Pirates of the Caribbean opens - Orange County Register"
         },
         {
-          "url": "https://ogniwopl.com/konkurs-byc-polakiem-xii-edycja-2021-r-2",
+          "url": "http://www.ogniwopl.com/konkurs-byc-polakiem-xii-edycja-2021-r-2/",
           "title": "KONKURS \"BYĆ POLAKIEM\" - XII EDYCJA 2021 r. - Polish Learning Center \"Ogniwo\""
         },
         {
-          "url": "https://klowdtv.com",
+          "url": "https://www.klowdtv.com/",
           "title": "Live TV Streaming | KlowdTV"
         },
         {
-          "url": "https://upfaithandfamily.com",
+          "url": "https://foro.novenadimension.com/threads/mark-brook-recopilacion-de-su-arte-x-men-1-parte.46620/",
+          "title": "Mark Brook recopilacion de su arte X-Men 1 parte | La Novena Dimensión"
+        },
+        {
+          "url": "https://www.centrostudilaruna.it/tag/misteri-orfici",
+          "title": "misteri orfici - Centro Studi La Runa"
+        },
+        {
+          "url": "https://upfaithandfamily.com/",
           "title": "UP Faith & Family Your Streaming Home for Uplifting Entertainment"
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "nonprofit-community-foundations",
+      "bookmarks": [
+        {
+          "url": "https://achelisbodman.org/",
+          "title": "Achelis & Bodman Foundation"
+        },
+        {
+          "url": "https://www.kauffman.org/",
+          "title": "Ewing Marion Kauffman Foundation | Kauffman.org"
+        },
+        {
+          "url": "https://fundforsharedinsight.org/",
+          "title": "Foundations Advancing Listening & Feedback in Philanthropy | Fund for Shared Insight"
+        },
+        {
+          "url": "https://oaacc.org/",
+          "title": "HOME -"
+        },
+        {
+          "url": "https://www.kaporcenter.org/",
+          "title": "Homepage - Kapor Center"
+        },
+        {
+          "url": "http://www.odessablackchamber.com/",
+          "title": "The Black Chamber of Commerce of the Permian Basin | non-profit | Permian Basin, Texas, USA"
+        },
+        {
+          "url": "https://williampennfoundation.org/",
+          "title": "William Penn Foundation"
         }
       ],
       "count": 7
@@ -310,24 +198,102 @@
       "name": "beauty-fashion-apparel",
       "bookmarks": [
         {
-          "url": "https://chanel.com/us/makeup/p/159965/le-vernis-longwear-nail-colour",
-          "title": "Nail Polish and Sets - Makeup | CHANEL"
-        },
-        {
-          "url": "https://fashionheaven.com",
+          "url": "http://www.fashionheaven.com/",
           "title": "Fashion Heaven - fashion heaven studio"
         },
         {
-          "url": "https://outletshirts.com",
-          "title": "Wholesale Apparel, Bags, Caps and More, Blank or Customized"
+          "url": "https://www.chanel.com/us/makeup/p/159965/le-vernis-longwear-nail-colour/",
+          "title": "Nail Polish and Sets - Makeup | CHANEL"
         },
         {
-          "url": "https://sephora.com/product/un-cover-up-cream-foundation-P450899",
+          "url": "https://www.sisley-paris.com/en-US/phyto-cernes-eclat-100102.html",
+          "title": "Phyto-Cernes Eclat n°1.5 - Sisley Paris"
+        },
+        {
+          "url": "https://www.sephora.com/product/un-cover-up-cream-foundation-P450899",
           "title": "Sephora"
         },
         {
-          "url": "https://sisley-paris.com/en-US/phyto-cernes-eclat-100102.html",
-          "title": "Phyto-Cernes Eclat n°1.5 - Sisley Paris"
+          "url": "http://www.outletshirts.com/",
+          "title": "Wholesale Apparel, Bags, Caps and More, Blank or Customized"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "cooking-food-dining",
+      "bookmarks": [
+        {
+          "url": "https://amybakesintheburgh.com/tag/danish-butter-cookies/",
+          "title": "Danish butter cookies - amy bakes in the 'burgh"
+        },
+        {
+          "url": "https://www.jamieoliver.com/recipes/beef-recipes/beef-wellington/",
+          "title": "Epic beef Wellington recipe | Jamie Oliver recipes"
+        },
+        {
+          "url": "https://www.eazydiner.com/mumbai?loc=mumbai",
+          "title": "List of Best Restaurants in Mumbai | Get Up to 50% Off"
+        },
+        {
+          "url": "https://www.wildfermentation.com/making-sauerkraut-2/",
+          "title": "Making Sauerkraut | Wild Fermentation :: Wild Fermentation"
+        },
+        {
+          "url": "http://www.saporietradizioni.it/",
+          "title": "Ricette di cucina e piatti tradizionali"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "legal-privacy-policy",
+      "bookmarks": [
+        {
+          "url": "https://www.greendot.com/greendot/privacy-policy-bank?issuingBank=gdb",
+          "title": "Account Agreements"
+        },
+        {
+          "url": "https://forum.coppeliarobotics.com/ucp.php?mode=delete_cookies&sid=fcc308d76960e51e1b50d93c4336f38d",
+          "title": "CoppeliaSim forums - Delete cookies"
+        },
+        {
+          "url": "https://privacy.apple.com",
+          "title": "Data & Privacy"
+        },
+        {
+          "url": "http://www.smartstudy.co.kr/privacy/",
+          "title": "Pinkfong Account"
+        },
+        {
+          "url": "http://store.steampowered.com/privacy_agreement/",
+          "title": "Privacy Policy Agreement"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "travel-transportation-services",
+      "bookmarks": [
+        {
+          "url": "https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah",
+          "title": "Jumeirah Burj Al Arab | Dubai's Most Iconic Hotel | Jumeirah"
+        },
+        {
+          "url": "https://www.cd.cz/jizdni-rad/",
+          "title": "Jízdní řád | České dráhy"
+        },
+        {
+          "url": "https://jegy.mav.hu/",
+          "title": "MÁV Személyszállítási Zrt. új ELVIRA online jegyvásárlás"
+        },
+        {
+          "url": "https://toyota.oemdtc.com/category/recalls",
+          "title": "Recalls | Toyota & Lexus - OEMDTC"
+        },
+        {
+          "url": "https://www.emt.es/portal/en/horarios-y-recorridos",
+          "title": "void"
         }
       ],
       "count": 5
@@ -336,42 +302,64 @@
       "name": "education-learning-resources",
       "bookmarks": [
         {
-          "url": "https://cujs.soc.srcf.net",
-          "title": "CUJS"
-        },
-        {
-          "url": "https://cs50.harvard.edu/x/2024",
+          "url": "https://cs50.harvard.edu/x/2024/",
           "title": "CS50x 2024"
         },
         {
-          "url": "https://bulletin.stanford.edu/pages/c7vDgeOuJIfpZe8GKmW3",
+          "url": "http://cujs.soc.srcf.net/",
+          "title": "CUJS"
+        },
+        {
+          "url": "https://bulletin.stanford.edu/pages/c7vDgeOuJIfpZe8GKmW3/",
           "title": "Nondiscrimination Policy | Stanford University Bulletin"
         },
         {
-          "url": "https://sandraugriffin.com/product/the-adventures-of-marshela-mouse",
+          "url": "https://sandraugriffin.com/product/the-adventures-of-marshela-mouse/",
           "title": "The Adventures of Marshela Mouse - Sandra Ure Griffin"
         }
       ],
       "count": 4
     },
     {
-      "name": "home-shopping-products",
+      "name": "home-products-shopping",
       "bookmarks": [
         {
-          "url": "https://gorillacoupon.com/store/vogacloset-multigeo",
-          "title": "Vogacloset - MultiGeo Coupons, Deals for October 2025"
+          "url": "https://www.moje-siti.cz/strojove-jehly-schmetz/jehly-strojove-705-h-universal-90-14/",
+          "title": "Jehly strojové 705 H UNIVERSAL 90/14 - Moje šití"
         },
         {
           "url": "https://3vmdistribuzione.it/home/541-operatore-per-cancelli-scorrevoli-k1400-fce-aa31140.html",
           "title": "Operatore per cancelli scorrevoli K1400 FCE AA31140"
         },
         {
-          "url": "https://moje-siti.cz/strojove-jehly-schmetz/jehly-strojove-705-h-universal-90-14",
-          "title": "Jehly strojové 705 H UNIVERSAL 90/14 - Moje šití"
+          "url": "https://www.gorillacoupon.com/store/vogacloset-multigeo",
+          "title": "Vogacloset - MultiGeo Coupons, Deals for October 2025"
         },
         {
-          "url": "https://smartdesks.com",
+          "url": "http://www.smartdesks.com/",
           "title": "You are being redirected..."
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "news-politics-current-events",
+      "bookmarks": [
+        {
+          "url": "https://www.bancaynegocios.com/tag/barinas2021/",
+          "title": "#Barinas2021 - Banca y Negocios"
+        },
+        {
+          "url": "https://content.time.com/time/subscriber/article/0,33009,948932,00.html",
+          "title": "Nation: No Need for Welfare - TIME"
+        },
+        {
+          "url": "https://newsroom.deatch.paypal-corp.com/Startseite",
+          "title": "PayPal Newsroom: Offizielle News, Pressemitteilungen, Kontakt"
+        },
+        {
+          "url": "https://www.standard.co.uk/news/london/prince-william-sympathises-with-distraught-bake-off-fans-at-south-london-youth-club-a3345171.html",
+          "title": "Prince William sympathises with Great British Bake Off fans at Wandsworth youth club | London Evening Standard | The Standard"
         }
       ],
       "count": 4
@@ -380,20 +368,20 @@
       "name": "personal-blogs-social",
       "bookmarks": [
         {
-          "url": "https://goodnighttravelwell.tumblr.com",
+          "url": "https://goodnighttravelwell.tumblr.com/",
           "title": "@goodnighttravelwell on Tumblr"
         },
         {
-          "url": "https://honestlywtf.com",
-          "title": "You are being redirected..."
+          "url": "https://www.whitefuneralhomes.com/obituary/marrshall-luppke",
+          "title": "Obituary | Marshall Alex Luppke of Lakeville, Minnesota | White Funeral Homes"
         },
         {
-          "url": "https://105northtower.tumblr.com",
+          "url": "https://105northtower.tumblr.com/",
           "title": "Obscure Star Trek References"
         },
         {
-          "url": "https://whitefuneralhomes.com/obituary/marrshall-luppke",
-          "title": "Obituary | Marshall Alex Luppke of Lakeville, Minnesota | White Funeral Homes"
+          "url": "https://honestlywtf.com/",
+          "title": "You are being redirected..."
         }
       ],
       "count": 4
@@ -402,7 +390,7 @@
       "name": "science-environment-research",
       "bookmarks": [
         {
-          "url": "https://energycrisis.co.uk/alternative-energy",
+          "url": "https://energycrisis.co.uk/alternative-energy/",
           "title": "Alternative Energy - Energycrisis.co.uk"
         },
         {
@@ -410,7 +398,7 @@
           "title": "Frontiers | Growth Limitation of Marine Fish by Low Iron Availability in the Open Ocean"
         },
         {
-          "url": "https://allergyasthmanetwork.org",
+          "url": "https://allergyasthmanetwork.org/",
           "title": "Your Trusted Resource - Allergy & Asthma Network"
         }
       ],
@@ -420,16 +408,16 @@
       "name": "social-justice-advocacy",
       "bookmarks": [
         {
-          "url": "https://aclupa.org/en/press-releases/aclu-pa-statement-governor-shapiro-continuing-moratorium-executions",
+          "url": "https://www.aclupa.org/en/press-releases/aclu-pa-statement-governor-shapiro-continuing-moratorium-executions",
           "title": "ACLU-PA Statement on Governor Shapiro Continuing the Moratorium on Executions - ACLU of Pennsylvania"
         },
         {
-          "url": "https://change.org/p/ban-water-beads-now",
-          "title": "Petizione · BAN WATER BEADS NOW!!!!!! - Stati Uniti · Change.org"
+          "url": "https://onecalgaryvoter.com/2019/05/20/het-opzetten-van-het-internationale-mefloquine-tafenoquine-advocatennetwerk-zal-heel-wat-werk-vergen/",
+          "title": "Het Opzetten van Het Internationale Mefloquine / Tafenoquine Advocatennetwerk Zal Heel Wat Werk Vergen - The Advocate-Equalizer"
         },
         {
-          "url": "https://onecalgaryvoter.com/2019/05/20/het-opzetten-van-het-internationale-mefloquine-tafenoquine-advocatennetwerk-zal-heel-wat-werk-vergen",
-          "title": "Het Opzetten van Het Internationale Mefloquine / Tafenoquine Advocatennetwerk Zal Heel Wat Werk Vergen - The Advocate-Equalizer"
+          "url": "https://www.change.org/p/ban-water-beads-now",
+          "title": "Petizione · BAN WATER BEADS NOW!!!!!! - Stati Uniti · Change.org"
         }
       ],
       "count": 3
@@ -438,11 +426,11 @@
       "name": "finance-banking-investing",
       "bookmarks": [
         {
-          "url": "https://symex.belfius.be/valeurs2.html",
+          "url": "https://symex.belfius.be/valeurs2.html?language=FR&periode=H6M&ticker=APAM&pays=NL&random=578861150&SID=qo58rqomrotah80qsbeodfhqn5",
           "title": "Cotations"
         },
         {
-          "url": "https://jpmorganchase.com",
+          "url": "https://www.jpmorganchase.com/",
           "title": "Home | JPMorganChase"
         }
       ],
@@ -452,17 +440,17 @@
       "name": "photography-visual-media",
       "bookmarks": [
         {
-          "url": "https://smugmug.com",
-          "title": "SmugMug: Protect, Share, Store, and Sell Your Photos"
-        },
-        {
           "url": "https://unsplash.com/photos/_lofCeUHMOo",
           "title": "A group of trees that are standing in the snow photo - Free Forest Image on Unsplash"
+        },
+        {
+          "url": "https://www.smugmug.com/",
+          "title": "SmugMug: Protect, Share, Store, and Sell Your Photos"
         }
       ],
       "count": 2
     }
   ],
-  "total_bookmarks": 92,
+  "total_bookmarks": 87,
   "num_folders": 17
 }

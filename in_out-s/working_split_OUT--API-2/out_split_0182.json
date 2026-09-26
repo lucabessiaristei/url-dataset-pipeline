@@ -1,84 +1,34 @@
 {
   "folders": [
     {
-      "name": "tech-development-tools",
-      "bookmarks": [
-        {
-          "url": "https://nngroup.com/articles/guide-ux-research-methods",
-          "title": "A Guide to Using User-Experience Research Methods - NN/G"
-        },
-        {
-          "url": "https://healthcare.bestbuy.com",
-          "title": "Best Buy Health | Care-at-home platform"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview",
-          "title": "Client-side tooling overview - Learn web development | MDN"
-        },
-        {
-          "url": "https://potion.so",
-          "title": "Create custom Notion websites in minutes"
-        },
-        {
-          "url": "https://vpn.mozilla.org",
-          "title": "Get Mozilla VPN - Mozilla (US)"
-        },
-        {
-          "url": "https://goldtechservices.com",
-          "title": "Home - GoldTech"
-        },
-        {
-          "url": "https://interordi.com/en/apps/mc_plugins.php",
-          "title": "Minecraft plugins - Interordi"
-        },
-        {
-          "url": "https://myicons.co",
-          "title": "Myicons - The World's Largest Premium line Icons Pack"
-        },
-        {
-          "url": "https://servicetrust.microsoft.com",
-          "title": "Service Trust Portal"
-        },
-        {
-          "url": "https://ticdesign.chumenwenwen.com/en",
-          "title": "TicDesign | Index"
-        },
-        {
-          "url": "https://windy.com",
-          "title": "Windy: Wind map & weather forecast"
-        }
-      ],
-      "count": 11
-    },
-    {
       "name": "business-entrepreneurship-resources",
       "bookmarks": [
         {
-          "url": "https://bbbmarketplacetrust.org",
+          "url": "http://www.bbbmarketplacetrust.org",
           "title": "BBB Institute For Marketplace Trust"
         },
         {
-          "url": "https://chicagotribunemediagroup.com",
+          "url": "https://www.chicagotribunemediagroup.com/",
           "title": "Chicago Tribune Media Group - Full-service Marketing Solutions"
         },
         {
-          "url": "https://close.com/pricing",
+          "url": "https://www.close.com/pricing",
           "title": "Close CRM Pricing, Plans, and Reviews"
         },
         {
-          "url": "https://score.org",
+          "url": "https://www.score.org/",
           "title": "Free Small Business Mentorship and Resources | SCORE"
         },
         {
-          "url": "https://eventbrite.ca/e/google-advertising-the-business-owners-starter-guide-virtual-tickets-533995493897",
+          "url": "https://www.eventbrite.ca/e/google-advertising-the-business-owners-starter-guide-virtual-tickets-533995493897?aff=erelexpmlt",
           "title": "Google Advertising: The Business Owner's Starter Guide (Virtual) Tickets, Tue, 21 Mar 2023 at 2:00 PM | Eventbrite"
         },
         {
-          "url": "https://prepareandprosper.org",
+          "url": "https://prepareandprosper.org/",
           "title": "Home - Prepare + Prosper"
         },
         {
-          "url": "https://forbes.com/sites/clareoconnor/2015/05/27/how-jessica-alba-built-a-1-billion-company-and-200-million-fortune-selling-parents-peace-of-mind",
+          "url": "https://www.forbes.com/sites/clareoconnor/2015/05/27/how-jessica-alba-built-a-1-billion-company-and-200-million-fortune-selling-parents-peace-of-mind/?sh=37cf5e8542b4",
           "title": "How Jessica Alba Built A $1 Billion Company, And $200 Million Fortune, Selling Parents Peace Of Mind"
         },
         {
@@ -86,7 +36,7 @@
           "title": "Investors | Target Corporation"
         },
         {
-          "url": "https://mnisotafund.org",
+          "url": "https://mnisotafund.org/",
           "title": "Mni Sota Fund"
         },
         {
@@ -94,8 +44,58 @@
           "title": "Personalized Images for Email Campaigns"
         },
         {
-          "url": "https://sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/sba-rolls-out-dedicated-tool-small-businesses-connect-cdfis-small-asset-lenders-participating-ppp",
+          "url": "https://www.sba.gov/about-sba/sba-newsroom/press-releases-media-advisories/sba-rolls-out-dedicated-tool-small-businesses-connect-cdfis-small-asset-lenders-participating-ppp",
           "title": "SBA Rolls Out Dedicated Tool for Small Businesses to Connect with CDFIs, Small Asset Lenders Participating in PPP | U.S. Small Business Administration"
+        }
+      ],
+      "count": 11
+    },
+    {
+      "name": "tech-development-tools",
+      "bookmarks": [
+        {
+          "url": "https://www.nngroup.com/articles/guide-ux-research-methods/",
+          "title": "A Guide to Using User-Experience Research Methods - NN/G"
+        },
+        {
+          "url": "https://healthcare.bestbuy.com/?ref=bestbuy-site&loc=footer",
+          "title": "Best Buy Health | Care-at-home platform"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Overview",
+          "title": "Client-side tooling overview - Learn web development | MDN"
+        },
+        {
+          "url": "https://potion.so/",
+          "title": "Create custom Notion websites in minutes"
+        },
+        {
+          "url": "https://vpn.mozilla.org",
+          "title": "Get Mozilla VPN - Mozilla (US)"
+        },
+        {
+          "url": "https://www.goldtechservices.com/",
+          "title": "Home - GoldTech"
+        },
+        {
+          "url": "https://www.interordi.com/en/apps/mc_plugins.php",
+          "title": "Minecraft plugins - Interordi"
+        },
+        {
+          "url": "https://myicons.co/",
+          "title": "Myicons - The World's Largest Premium line Icons Pack"
+        },
+        {
+          "url": "https://servicetrust.microsoft.com/",
+          "title": "Service Trust Portal"
+        },
+        {
+          "url": "http://ticdesign.chumenwenwen.com/en",
+          "title": "TicDesign | Index"
+        },
+        {
+          "url": "https://www.windy.com/",
+          "title": "Windy: Wind map & weather forecast"
         }
       ],
       "count": 11
@@ -104,31 +104,31 @@
       "name": "education-nonprofits-social-impact",
       "bookmarks": [
         {
-          "url": "https://shop.donorschoose.org",
+          "url": "https://shop.donorschoose.org/",
           "title": "DonorsChoose: Support a classroom. Build a future."
         },
         {
-          "url": "https://info.montgomerycollege.edu/offices/general-counsel/index.html",
+          "url": "https://info.montgomerycollege.edu/offices/general-counsel/index.html#public-info",
           "title": "General Counsel | Montgomery College, Maryland"
         },
         {
-          "url": "https://exceptional-minds.org",
+          "url": "https://exceptional-minds.org/",
           "title": "Home - Exceptional Minds"
         },
         {
-          "url": "https://nul.org",
+          "url": "https://nul.org/",
           "title": "Home | National Urban League"
         },
         {
-          "url": "https://blogs.plos.org/everyone/2011/10/21/how-deep-social-network-roots-help-scientists-communicate-their-research",
+          "url": "http://blogs.plos.org/everyone/2011/10/21/how-deep-social-network-roots-help-scientists-communicate-their-research/",
           "title": "How deep social network \"roots\" help scientists communicate their research - EveryONE"
         },
         {
-          "url": "https://springboardforthearts.org",
+          "url": "https://springboardforthearts.org/",
           "title": "Springboard For The Arts"
         },
         {
-          "url": "https://wearehfc.org",
+          "url": "https://www.wearehfc.org/",
           "title": "Understanding Alzheimer's: Bringing Light to the Disease"
         },
         {
@@ -142,11 +142,11 @@
       "name": "consumer-lifestyle-products",
       "bookmarks": [
         {
-          "url": "https://cardbarrel.com/2010-2019-singles/2013/allen-and-ginter/one-little-corner",
+          "url": "https://cardbarrel.com/2010-2019-singles/2013/allen-and-ginter/one-little-corner/?items_per_page=24",
           "title": "2010-2019 Singles :: 2013 :: Allen & Ginter :: One Little Corner"
         },
         {
-          "url": "https://freshvinewine.com/products/brut_rose",
+          "url": "https://freshvinewine.com/products/brut_rose/",
           "title": "Brut Rosé Fresh Vine Wine's Exclusive Blend of Chardonnay and Pinot Noir"
         },
         {
@@ -154,59 +154,29 @@
           "title": "Coloring Watch - Coloring Watch - Apple Watch Coloring Book"
         },
         {
-          "url": "https://shop.github.com",
+          "url": "https://shop.github.com/",
           "title": "GitHub Shop"
         },
         {
-          "url": "https://goldeneyewinery.com/product/2018-goldeneye-anderson-valley-pinot-noir-split-rail-vineyard",
+          "url": "https://www.goldeneyewinery.com/product/2018-goldeneye-anderson-valley-pinot-noir-split-rail-vineyard",
           "title": "Goldeneye Winery"
         },
         {
-          "url": "https://pesteliv.com/category/704/cif.html",
+          "url": "http://pesteliv.com/category/704/cif.html",
           "title": "PESTELIV.COM | CIF"
         },
         {
-          "url": "https://nadri.com/collections/bracelets/products/rsvp-cz-bypass-hinge-bracelet",
+          "url": "https://nadri.com/collections/bracelets/products/rsvp-cz-bypass-hinge-bracelet?variant=42515372736771",
           "title": "RSVP CZ BYPASS HINGE BRACELET - NADRI"
         }
       ],
       "count": 7
     },
     {
-      "name": "manuals-guides-reference",
+      "name": "career-workforce-development",
       "bookmarks": [
         {
-          "url": "https://lachiesa.it/bibbia.php",
-          "title": "Bibbia.net"
-        },
-        {
-          "url": "https://wiki.albany.edu/label/camille+group+luncheon+nominations+transfer",
-          "title": "Confluence"
-        },
-        {
-          "url": "https://forum.laboneinside.com/memberlist.php?mode=contactadmin",
-          "title": "Lab-One Forum - Send email"
-        },
-        {
-          "url": "https://mesmodesdemploi.be/electromenagers/lave-vaisselle/indesit",
-          "title": "Modes d'emploi pour Lave-vaisselle - Indesit | Modes d'emploi"
-        },
-        {
-          "url": "https://singer.com/support/instruction-manuals",
-          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
-        },
-        {
-          "url": "https://pmc.com/terms-of-use",
-          "title": "Terms of Use | PMC"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "careers-workforce-development",
-      "bookmarks": [
-        {
-          "url": "https://mexico.generation.org/stories/alexis-22-pittsburgh",
+          "url": "https://mexico.generation.org/stories/alexis-22-pittsburgh/",
           "title": "Alexis | 22 | Pittsburgh | Generation Mexico"
         },
         {
@@ -214,20 +184,50 @@
           "title": "Careers | Bloomberg Philanthropies"
         },
         {
-          "url": "https://apply.workable.com/kaporcenter",
-          "title": "Kapor Center - Current Openings"
-        },
-        {
-          "url": "https://careers.mozilla.org",
-          "title": "Mozilla Careers - Feel good about your work again."
-        },
-        {
-          "url": "https://community.naceweb.org",
+          "url": "http://community.naceweb.org/",
           "title": "Home - National Association of Colleges and Employers"
         },
         {
-          "url": "https://capitalonecareers.com",
+          "url": "https://apply.workable.com/kaporcenter/",
+          "title": "Kapor Center - Current Openings"
+        },
+        {
+          "url": "https://careers.mozilla.org/",
+          "title": "Mozilla Careers - Feel good about your work again."
+        },
+        {
+          "url": "https://www.capitalonecareers.com/",
           "title": "Search Jobs and Careers at Capital One"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "manuals-guides-reference",
+      "bookmarks": [
+        {
+          "url": "http://www.lachiesa.it/bibbia.php?ricerca=testo&Testo=Domenicani&Cerca=Cerca&libro=0&id_versioni=2&VersettoOn=1",
+          "title": "Bibbia.net"
+        },
+        {
+          "url": "https://wiki.albany.edu/label/camille+group+luncheon+nominations+transfer",
+          "title": "Confluence"
+        },
+        {
+          "url": "https://forum.laboneinside.com/memberlist.php?mode=contactadmin&sid=3229290338ca2721f25f66d74ddc5a84",
+          "title": "Lab-One Forum - Send email"
+        },
+        {
+          "url": "https://mesmodesdemploi.be/electromenagers/lave-vaisselle/indesit/",
+          "title": "Modes d'emploi pour Lave-vaisselle - Indesit | Modes d'emploi"
+        },
+        {
+          "url": "https://www.singer.com/support/instruction-manuals",
+          "title": "SINGER Sewing & Embroidery Machines | SINGER®"
+        },
+        {
+          "url": "https://pmc.com/terms-of-use/",
+          "title": "Terms of Use | PMC"
         }
       ],
       "count": 6
@@ -236,19 +236,19 @@
       "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://tntv.pf/tntvnews/polynesie/societe/covid-19-tension-sur-la-production-de-cercueils",
+          "url": "https://www.tntv.pf/tntvnews/polynesie/societe/covid-19-tension-sur-la-production-de-cercueils/",
           "title": "Covid-19 : tension sur la production de cercueils • TNTV News - Tahiti Nui Télévision"
         },
         {
-          "url": "https://tehrantimes.com/news/439132/Guardian-Council-says-won-t-be-affected-by-pressure",
+          "url": "https://www.tehrantimes.com/news/439132/Guardian-Council-says-won-t-be-affected-by-pressure",
           "title": "Guardian Council says won't be affected by pressure - Tehran Times"
         },
         {
-          "url": "https://nyasatimes.com/judge-in-muluzi-case-fails-to-deliver-judgement",
+          "url": "https://www.nyasatimes.com/judge-in-muluzi-case-fails-to-deliver-judgement/",
           "title": "Judge in Muluzi case fails to deliver judgement - Malawi Nyasa Times - News from Malawi about Malawi"
         },
         {
-          "url": "https://frizzifrizzi.it/category/rubriche/lazy-news",
+          "url": "https://www.frizzifrizzi.it/category/rubriche/lazy-news/",
           "title": "Lazy News Archivi - Frizzifrizzi"
         },
         {
@@ -256,7 +256,7 @@
           "title": "Mount Pleasant Cop Says Hess Was 'Aggressor' | Pleasantville, NY Patch"
         },
         {
-          "url": "https://cm.providencejournal.com/site-feedback",
+          "url": "https://cm.providencejournal.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.providencejournal.com%2Fstory%2Fnews%2Flocal%2F2022%2F07%2F26%2Frecording-system-east-providence-city-hall-raises-flags-aclu%2F10143873002%2F&marketName=providencejournal&cta=Right-Rail&abVariant=ES_Pilot",
           "title": "Unsupported EU page"
         }
       ],
@@ -266,23 +266,23 @@
       "name": "health-wellness-food",
       "bookmarks": [
         {
-          "url": "https://unitedwaynyc.org/covid19",
+          "url": "https://unitedwaynyc.org/covid19/",
           "title": "COVID-19 Resource Guide - United Way of New York City"
         },
         {
-          "url": "https://diettogo.35p2.net/c/3408212/173242/3159",
+          "url": "https://diettogo.35p2.net/c/3408212/173242/3159?subid3=people",
           "title": "Diet-to-Go® Weight Loss Meal Delivery - Diet Meal Delivery - Diet Food Delivery"
         },
         {
-          "url": "https://mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
+          "url": "https://www.mcdonalds.com/us/en-us/cardi-b-offset-meal-bundle.html",
           "title": "McDonald's Menu: Our Full McDonald's Food Menu | McDonald's"
         },
         {
-          "url": "https://ginecologocertificado.mex.tl/242074_Productos.html",
+          "url": "http://ginecologocertificado.mex.tl/242074_Productos.html",
           "title": "Productos ginecologo certificado"
         },
         {
-          "url": "https://sunfirematrix.com/app/consumer/wis",
+          "url": "https://www.sunfirematrix.com/app/consumer/wis/?utm_source=walmart&utm_medium=referral&utm_campaign=LHN",
           "title": "SunFire Medicare Plan Finder"
         }
       ],
@@ -292,7 +292,15 @@
       "name": "tech-industry-news-research",
       "bookmarks": [
         {
-          "url": "https://ai.googleblog.com",
+          "url": "https://dainosawr.tumblr.com/post/90223285565",
+          "title": "dainosawr - What % of STEM Should Be Computer Science?"
+        },
+        {
+          "url": "https://www.hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki/",
+          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
+        },
+        {
+          "url": "https://ai.googleblog.com/",
           "title": "Latest News from Google Research Blog - Google Research"
         },
         {
@@ -300,16 +308,8 @@
           "title": "Random Gif Girl Writes"
         },
         {
-          "url": "https://elpais.com/tecnologia",
+          "url": "https://elpais.com/tecnologia/",
           "title": "Tecnología en EL PAÍS"
-        },
-        {
-          "url": "https://dainosawr.tumblr.com/post/90223285565",
-          "title": "dainosawr - What % of STEM Should Be Computer Science?"
-        },
-        {
-          "url": "https://hankkija.fi/Maatalous_ja_metsa/kasvuohjelmat/viljan-koetulokset/feedway-ohra-2019-kaistat-elimaki",
-          "title": "Feedway ohra 2019 kaistat Elimäki | Viljan Kasvuohjelman koetulokset | Viljan viljely | hankkija.fi"
         }
       ],
       "count": 5
@@ -318,15 +318,15 @@
       "name": "government-public-information",
       "bookmarks": [
         {
-          "url": "https://fiskeridir.no/English",
+          "url": "https://www.fiskeridir.no/English",
           "title": "Directorate of Fisheries"
         },
         {
-          "url": "https://myhomeimpro.com/safety-and-planning-laws-for-melbourne",
+          "url": "https://myhomeimpro.com/safety-and-planning-laws-for-melbourne/",
           "title": "Knowing the Safety and Planning Laws for Melbourne - BRPN"
         },
         {
-          "url": "https://govotega.org/pledge-vote",
+          "url": "https://www.govotega.org/pledge-vote/?Source=gmvp&utm_campaign=OVR%20Tracking-New%20Links&utm_medium=bitly&utm_source=GMVP",
           "title": "Register To Vote - Go Vote Georgia"
         },
         {
@@ -340,11 +340,11 @@
       "name": "recreation-entertainment",
       "bookmarks": [
         {
-          "url": "https://formula1.com/en/racing/2024.html",
+          "url": "https://www.formula1.com/en/racing/2024.html",
           "title": "F1 Schedule 2024 - Official Calendar of Grand Prix Races"
         },
         {
-          "url": "https://extratv.com/2023/02/28/michael-b-jordan-talks-directing-creed-iii-while-co-stars-react-to-calvin-klein-ad-exclusive",
+          "url": "https://extratv.com/2023/02/28/michael-b-jordan-talks-directing-creed-iii-while-co-stars-react-to-calvin-klein-ad-exclusive/",
           "title": "Michael B. Jordan's 'Creed III' Co-Stars React to Calvin Klein Ad (Exclusive)"
         },
         {
@@ -352,7 +352,7 @@
           "title": "Spielplatz Seefeldstraße in Kürnach | spielplatznet.de"
         },
         {
-          "url": "https://nhm.ac.uk/wpy/peoples-choice",
+          "url": "https://www.nhm.ac.uk/wpy/peoples-choice",
           "title": "The People's Choice Award | Wildlife Photographer of the Year | Natural History Museum"
         }
       ],
@@ -362,21 +362,21 @@
       "name": "environmental-sustainability-resources",
       "bookmarks": [
         {
-          "url": "https://earthday.org/earth-day-quizzes",
+          "url": "https://earthday.org/earth-day-quizzes/",
           "title": "Earth Day Quiz | Official Earth Day Website | earthday.org"
         },
         {
-          "url": "https://insights.sustainability.google",
+          "url": "https://insights.sustainability.google/",
           "title": "Google Environmental Insights Explorer - Make Informed Decisions"
         },
         {
-          "url": "https://oeko-tex.com/en/our-standards/oeko-tex-standard-100",
+          "url": "https://www.oeko-tex.com/en/our-standards/oeko-tex-standard-100",
           "title": "OEKO-TEX® STANDARD 100"
         }
       ],
       "count": 3
     }
   ],
-  "total_bookmarks": 77,
+  "total_bookmarks": 76,
   "num_folders": 12
 }

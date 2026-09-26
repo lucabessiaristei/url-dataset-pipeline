@@ -1,6 +1,82 @@
 {
   "folders": [
     {
+      "name": "education-learning",
+      "bookmarks": [
+        {
+          "url": "http://www.hamiltonproject.org/charts/career_earnings_by_college_major/",
+          "title": "Career earnings by college major - The Hamilton Project"
+        },
+        {
+          "url": "https://n8vapps.tumblr.com/post/143019041769",
+          "title": "Computer science: the impact of K-12 on university enrollment - @n8vapps on Tumblr"
+        },
+        {
+          "url": "https://www.fi.edu/",
+          "title": "Home | The Franklin Institute"
+        },
+        {
+          "url": "https://political-minds.tumblr.com/post/126894705112",
+          "title": "Is learning computer science linked to improved... - Political-Minds"
+        },
+        {
+          "url": "https://mylearningtrial.tumblr.com/",
+          "title": "Just you wait."
+        },
+        {
+          "url": "https://sabiyamalbari11.tumblr.com/post/143008375724",
+          "title": "Sabiya malbari - Computer science: the impact of K-12 on university..."
+        },
+        {
+          "url": "https://www.anti-biasmontessori.com/",
+          "title": "Tiffany M. Jewell | author and educator"
+        },
+        {
+          "url": "https://tocaboca.com/app/toca-hairsalon-me/",
+          "title": "Toca Boca Jr. - Toca Boca"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "government-public-data",
+      "bookmarks": [
+        {
+          "url": "https://www.aclupa.org/en/cases/bl-v-mahanoy-area-sch-dist",
+          "title": "B.L. v. Mahanoy Area School District - ACLU of Pennsylvania"
+        },
+        {
+          "url": "https://law.georgia.gov/press-releases/2023-02-16/carr-eight-indicted-gwinnett-county-following-major-human-trafficking",
+          "title": "Carr: Eight Indicted in Gwinnett County Following Major Human Trafficking, Gang Investigation | Office of the Attorney General"
+        },
+        {
+          "url": "http://www.icj-cij.org/",
+          "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
+        },
+        {
+          "url": "https://covid19.nj.gov/pages/vaccine",
+          "title": "COVID-19"
+        },
+        {
+          "url": "https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/278#JSON",
+          "title": "Delimitación territorial de las Juntas Administrativas de Zaragoza . Datos abiertos. Ayuntamiento de Zaragoza"
+        },
+        {
+          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/",
+          "title": "Leo Frank Case - New Georgia Encyclopedia"
+        },
+        {
+          "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2017-2018/information/",
+          "title": "Orthophotographie aérienne 2017-2018 sur Rennes Métropole - Open Data Rennes"
+        },
+        {
+          "url": "https://live.worldbank.org",
+          "title": "We Livestream Events on International Development | World Bank Live"
+        }
+      ],
+      "count": 8
+    },
+    {
       "name": "nonprofit-social-impact",
       "bookmarks": [
         {
@@ -12,12 +88,12 @@
           "title": "Headwaters Foundation for Justice"
         },
         {
-          "url": "http://Rescue-EU.org",
-          "title": "International Rescue Committee | International Rescue Committee (IRC)"
-        },
-        {
           "url": "https://www.musiciansoncall.org/",
           "title": "Home - Musicians On Call"
+        },
+        {
+          "url": "http://Rescue-EU.org",
+          "title": "International Rescue Committee | International Rescue Committee (IRC)"
         },
         {
           "url": "https://www.safetocompete.org/",
@@ -39,99 +115,27 @@
       "count": 8
     },
     {
-      "name": "education-learning",
+      "name": "guides-how-to-tutorials",
       "bookmarks": [
-        {
-          "url": "https://www.anti-biasmontessori.com/",
-          "title": "Tiffany M. Jewell | author and educator"
-        },
-        {
-          "url": "http://www.hamiltonproject.org/charts/career_earnings_by_college_major/",
-          "title": "Career earnings by college major - The Hamilton Project"
-        },
-        {
-          "url": "https://www.fi.edu/",
-          "title": "Home | The Franklin Institute"
-        },
-        {
-          "url": "https://mylearningtrial.tumblr.com/",
-          "title": "Just you wait."
-        },
-        {
-          "url": "https://n8vapps.tumblr.com/post/143019041769",
-          "title": "Computer science: the impact of K-12 on university enrollment - @n8vapps on Tumblr"
-        },
-        {
-          "url": "https://political-minds.tumblr.com/post/126894705112",
-          "title": "Is learning computer science linked to improved... - Political-Minds"
-        },
-        {
-          "url": "https://sabiyamalbari11.tumblr.com/post/143008375724",
-          "title": "Sabiya malbari - Computer science: the impact of K-12 on university..."
-        },
-        {
-          "url": "https://tocaboca.com/app/toca-hairsalon-me/",
-          "title": "Toca Boca Jr. - Toca Boca"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "government-public-data",
-      "bookmarks": [
-        {
-          "url": "https://www.aclupa.org/en/cases/bl-v-mahanoy-area-sch-dist",
-          "title": "B.L. v. Mahanoy Area School District - ACLU of Pennsylvania"
-        },
-        {
-          "url": "https://law.georgia.gov/press-releases/2023-02-16/carr-eight-indicted-gwinnett-county-following-major-human-trafficking",
-          "title": "Carr: Eight Indicted in Gwinnett County Following Major Human Trafficking, Gang Investigation | Office of the Attorney General"
-        },
-        {
-          "url": "https://covid19.nj.gov/pages/vaccine",
-          "title": "COVID-19"
-        },
-        {
-          "url": "http://www.icj-cij.org/",
-          "title": "Cour internationale de Justice - International Court of Justice | INTERNATIONAL COURT OF JUSTICE"
-        },
-        {
-          "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/leo-frank-case/",
-          "title": "Leo Frank Case - New Georgia Encyclopedia"
-        },
-        {
-          "url": "https://live.worldbank.org",
-          "title": "We Livestream Events on International Development | World Bank Live"
-        },
-        {
-          "url": "https://data.rennesmetropole.fr/explore/dataset/orthophotographie-2017-2018/information/",
-          "title": "Orthophotographie aérienne 2017-2018 sur Rennes Métropole - Open Data Rennes"
-        },
-        {
-          "url": "https://www.zaragoza.es/sede/portal/datos-abiertos/servicio/catalogo/278#JSON",
-          "title": "Delimitación territorial de las Juntas Administrativas de Zaragoza . Datos abiertos. Ayuntamiento de Zaragoza"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "guides-tutorials-how-to",
-      "bookmarks": [
-        {
-          "url": "https://asa.com/learn-to-sail/keelboat-sailing/",
-          "title": "ASA | Generating value across generations"
-        },
         {
           "url": "https://training.apple.com/us/en/appdeveloper",
           "title": "App Developer Training"
         },
         {
-          "url": "https://britgo.org/intro/intro2",
-          "title": "How to Play | British Go Association"
+          "url": "https://asa.com/learn-to-sail/keelboat-sailing/",
+          "title": "ASA | Generating value across generations"
         },
         {
           "url": "https://danmall.com/",
           "title": "Dan Mall Teaches Design Systems, Design Process, and Design Leadership"
+        },
+        {
+          "url": "https://www.vrai.com/how-to-buy-diamonds",
+          "title": "How to Buy Diamonds | VRAI created diamonds"
+        },
+        {
+          "url": "https://britgo.org/intro/intro2",
+          "title": "How to Play | British Go Association"
         },
         {
           "url": "https://jwt.io/introduction",
@@ -140,32 +144,28 @@
         {
           "url": "https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html",
           "title": "OpenCV: OpenCV-Python Tutorials"
-        },
-        {
-          "url": "https://www.vrai.com/how-to-buy-diamonds",
-          "title": "How to Buy Diamonds | VRAI created diamonds"
         }
       ],
       "count": 7
     },
     {
-      "name": "shopping-retail-products",
+      "name": "shopping-products-retail",
       "bookmarks": [
         {
-          "url": "https://www.acehardware.com/departments/lawn-and-garden/snow-removal-and-equipment/snow-blowers/7002414",
-          "title": "Ariens Classic Two Stage Gas Snow Blower 24\" 208cc Electric Start Mfr# 92002500 - Ace Hardware"
+          "url": "https://www.polarbearinc.com/index.cfm/category/942/45-degree-male-insert-oring-fittings---b-lok.htm",
+          "title": "45 Degree Male Insert Oring Fittings - B-Lok"
         },
         {
           "url": "https://www.applepaysupplies.com/",
           "title": "Apple Pay Merchant Supplies"
         },
         {
-          "url": "http://www.beltsdirect.com/",
-          "title": "Fashion and Pet Accessories - Buckle-Down"
+          "url": "https://www.acehardware.com/departments/lawn-and-garden/snow-removal-and-equipment/snow-blowers/7002414",
+          "title": "Ariens Classic Two Stage Gas Snow Blower 24\" 208cc Electric Start Mfr# 92002500 - Ace Hardware"
         },
         {
-          "url": "https://www.dagnedover.com/collections/vida-tote?",
-          "title": "Tote Bags - Everyday Organizational Tote Bags | Dagne Dover"
+          "url": "http://www.beltsdirect.com/",
+          "title": "Fashion and Pet Accessories - Buckle-Down"
         },
         {
           "url": "https://furhaven.com/products/shop-pet-beds-snuggery-burrow-bed-faux-sheepskin",
@@ -176,210 +176,30 @@
           "title": "Personalized Monthly Makeup & Beauty Sample Subscription | IPSY"
         },
         {
-          "url": "https://www.polarbearinc.com/index.cfm/category/942/45-degree-male-insert-oring-fittings---b-lok.htm",
-          "title": "45 Degree Male Insert Oring Fittings - B-Lok"
+          "url": "https://www.dagnedover.com/collections/vida-tote?",
+          "title": "Tote Bags - Everyday Organizational Tote Bags | Dagne Dover"
         }
       ],
       "count": 7
     },
     {
-      "name": "news-current-events",
+      "name": "software-tech-resources",
       "bookmarks": [
         {
-          "url": "https://nypost.com/2023/02/02/don-lemon-screamed-at-cnn-this-morning-co-host-in-off-camera-tiff-sources/",
-          "title": "Exclusive | Don Lemon 'screamed' at 'CNN This Morning' co-host in off-camera tiff: sources"
+          "url": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html",
+          "title": "Adobe - Flash Player : Settings Manager - Website Storage Settings panel"
         },
-        {
-          "url": "https://www.nytimes.com/",
-          "title": "The New York Times - Breaking News, US News, World News and Videos"
-        },
-        {
-          "url": "https://plevenzapleven.bg/blog/tag/%D0%BE%D1%82%D0%BA%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB/",
-          "title": "Плевен За Плевен - откраднат автомобил"
-        },
-        {
-          "url": "https://rmc.bfmtv.com/mediaplayer/video/vacances-de-la-toussaint-avez-vous-peur-de-partir-0910-1284042.html",
-          "title": "Vacances de la Toussaint : avez-vous peur de partir ? - 09/10"
-        },
-        {
-          "url": "https://www.the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show/",
-          "title": "Prince William, Kate and the kids in top secret visit to set of huge Amazon Prime Video show"
-        },
-        {
-          "url": "https://wnyt.com/top-stories/family-members-body-pulled-from-mohawk-river-is-samantha-humphrey/",
-          "title": "Autopsy results on Mohawk River body not expected until at least Monday"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "gaming-entertainment",
-      "bookmarks": [
-        {
-          "url": "http://www.byond.com/games/Bighead278/GOAReborn",
-          "title": "GOA Reborn by Bighead278 at BYOND Games"
-        },
-        {
-          "url": "https://www.fanatical.com/tr/bundle/the-battle-of-polytopia-moonrise-deluxe",
-          "title": "The Battle of Polytopia: Moonrise - Deluxe | Steam Game Bundle | Fanatical"
-        },
-        {
-          "url": "https://www.idagio.com",
-          "title": "La meilleure application de streaming de musique classique | IDAGIO"
-        },
-        {
-          "url": "https://mashable.com/article/fortnite-is-the-real-metaverse",
-          "title": "Sorry, Zuck. 'Fortnite' has been the 'real' metaverse all along. | Mashable"
-        },
-        {
-          "url": "https://www.pokellector.com/card/Litten-Sun-Moon-Promos-SMP-63",
-          "title": "Litten - Sun & Moon Promos #63 Pokemon Card"
-        },
-        {
-          "url": "https://www.viki.com/",
-          "title": "Watch K-Dramas, Korean Shows & Chinese Dramas | Rakuten Viki"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "environmental-conservation",
-      "bookmarks": [
-        {
-          "url": "https://www.airqo.net/",
-          "title": "AirQo | Bridging the Air Quality Data Gap in Africa - Real-time Monitoring Network | AirQo"
-        },
-        {
-          "url": "https://www.cebc.cnrs.fr/infrastructures/bio-logging/what-is-bio-logging/?lang=en",
-          "title": "What is Bio-logging? - newcebc"
-        },
-        {
-          "url": "https://interactive.guim.co.uk/uploader/embed/2021/11/archive-zip/giv-825UtiOvVJmipSt/",
-          "title": "void"
-        },
-        {
-          "url": "http://latam.rlgamericas.com/",
-          "title": "RLG LatAm"
-        },
-        {
-          "url": "https://brasil.mongabay.com/",
-          "title": "Notícias ambientais - Mongabay Brasil"
-        },
-        {
-          "url": "https://worldheritageoutlook.iucn.org/",
-          "title": "Home page | World Heritage Outlook"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "ai-business-tools",
-      "bookmarks": [
-        {
-          "url": "http://www.agenarisk.com/",
-          "title": "agena.ai | Bayesian network software, causal modelling and cloud deployment"
-        },
-        {
-          "url": "https://www.grantinterface.com/Home/Logon?urlkey=seattle",
-          "title": "Logon - Grant Lifecycle Manager"
-        },
-        {
-          "url": "https://www.glideapps.com/",
-          "title": "No Code App Builder: Create Custom, AI-Powered Apps | Glide"
-        },
-        {
-          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzNmNTRkMWEtNmZjMS00NzdjLWEyMDYtYWExYzA4NzVhZGQwIiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9",
-          "title": "Microsoft Power BI"
-        },
-        {
-          "url": "http://recruiterbox.com/",
-          "title": "Recruitment Software and Applicant Tracking System | Trakstar Hire"
-        },
-        {
-          "url": "https://walmartsustainabilityhub.chat.walmart.com/chat",
-          "title": "Sustainability Chatbot"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "design-creative-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.my.freelancer.com/contest/logo-design-yanina-kuksa-2028440?w=f&ngsw-bypass=",
-          "title": "Logo Design - Yanina Kuksa | Freelancer"
-        },
-        {
-          "url": "https://fonts.ilovetypography.com/",
-          "title": "Buy fonts from your favorite indie foundries.... | I Love Typography"
-        },
-        {
-          "url": "https://raphaelfentonspaid.com",
-          "title": "Raphael Fenton-Spaid"
-        },
-        {
-          "url": "https://fontsinuse.com/typefaces/85/helvetica",
-          "title": "FF Tisa in use - Fonts In Use"
-        },
-        {
-          "url": "https://uicolors.app/create",
-          "title": "Tailwind CSS Color Generator | UI Colors"
-        },
-        {
-          "url": "https://www.vecteezy.com/",
-          "title": "Download Free Vectors, Images, Photos & Videos | Vecteezy"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "business-corporate-services",
-      "bookmarks": [
-        {
-          "url": "http://agentschoiceonline.com/",
-          "title": "The Agent's Choice"
-        },
-        {
-          "url": "https://partner.gyft.com/#/enroll",
-          "title": "Gyft Corporate"
-        },
-        {
-          "url": "https://knockinc.com/about",
-          "title": "KNOCK | Minority/Women Owned Creative Agency | Culture"
-        },
-        {
-          "url": "http://lokcerto.com.br/contato/",
-          "title": "Central de Atendimento - LokCerto"
-        },
-        {
-          "url": "http://www.pickwick.it/",
-          "title": "Innova | Distribuzione e vendita all'ingrosso dal 1993"
-        },
-        {
-          "url": "https://www.tes-amm.com/de-de/it-wiedervermarktungsservice-von-microsoft-f%C3%BCr-unternehmen?hs_preview=sEAwKJUD-73305375500",
-          "title": "IT Wiedervermarktungsservice von Microsoft für Unternehmen"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "tech-software-resources",
-      "bookmarks": [
         {
           "url": "https://support.airtable.com",
           "title": "Airtable Support | Home"
-        },
-        {
-          "url": "http://www.mozilla.org",
-          "title": "Internet for people, not profit - Mozilla Global"
         },
         {
           "url": "https://hacks.mozilla.org/",
           "title": "Home - Mozilla Hacks - the Web developer blog"
         },
         {
-          "url": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html",
-          "title": "Adobe - Flash Player : Settings Manager - Website Storage Settings panel"
+          "url": "http://www.mozilla.org",
+          "title": "Internet for people, not profit - Mozilla Global"
         },
         {
           "url": "https://www.postgresql.org/docs/current/index.html",
@@ -397,49 +217,207 @@
       "count": 7
     },
     {
-      "name": "science-research-data",
+      "name": "ai-business-tools",
       "bookmarks": [
         {
-          "url": "https://earthobservatory.nasa.gov/global-maps",
-          "title": "Global Maps"
+          "url": "http://www.agenarisk.com/",
+          "title": "agena.ai | Bayesian network software, causal modelling and cloud deployment"
         },
         {
-          "url": "http://fsf.fra.affrc.go.jp/indexe.html",
-          "title": "National Research Institute of Far Seas Fisheries, Fisheries Research Agency"
+          "url": "https://www.grantinterface.com/Home/Logon?urlkey=seattle",
+          "title": "Logon - Grant Lifecycle Manager"
         },
         {
-          "url": "https://ldl.gatech.edu/publications?s=year&amp%3Bf%5Bag%5D=R&f%5Bauthor%5D=872&o=asc",
-          "title": "[current-page:page-title] | [site:name]"
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzNmNTRkMWEtNmZjMS00NzdjLWEyMDYtYWExYzA4NzVhZGQwIiwidCI6ImY2MTBjMGI3LWJkMjQtNGIzOS04MTBiLTNkYzI4MGFmYjU5MCIsImMiOjh9",
+          "title": "Microsoft Power BI"
         },
         {
-          "url": "https://ueaglider.uea.ac.uk/mission39/glider502/dive0085",
-          "title": "SG502 Dive 85 Mission 39"
+          "url": "https://www.glideapps.com/",
+          "title": "No Code App Builder: Create Custom, AI-Powered Apps | Glide"
+        },
+        {
+          "url": "http://recruiterbox.com/",
+          "title": "Recruitment Software and Applicant Tracking System | Trakstar Hire"
+        },
+        {
+          "url": "https://walmartsustainabilityhub.chat.walmart.com/chat",
+          "title": "Sustainability Chatbot"
         }
       ],
-      "count": 4
+      "count": 6
     },
     {
-      "name": "reference-general-information",
+      "name": "business-corporate-services",
+      "bookmarks": [
+        {
+          "url": "http://lokcerto.com.br/contato/",
+          "title": "Central de Atendimento - LokCerto"
+        },
+        {
+          "url": "https://partner.gyft.com/#/enroll",
+          "title": "Gyft Corporate"
+        },
+        {
+          "url": "http://www.pickwick.it/",
+          "title": "Innova | Distribuzione e vendita all'ingrosso dal 1993"
+        },
+        {
+          "url": "https://www.tes-amm.com/de-de/it-wiedervermarktungsservice-von-microsoft-f%C3%BCr-unternehmen?hs_preview=sEAwKJUD-73305375500",
+          "title": "IT Wiedervermarktungsservice von Microsoft für Unternehmen"
+        },
+        {
+          "url": "https://knockinc.com/about",
+          "title": "KNOCK | Minority/Women Owned Creative Agency | Culture"
+        },
+        {
+          "url": "http://agentschoiceonline.com/",
+          "title": "The Agent's Choice"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "design-creative-resources",
+      "bookmarks": [
+        {
+          "url": "https://fonts.ilovetypography.com/",
+          "title": "Buy fonts from your favorite indie foundries.... | I Love Typography"
+        },
+        {
+          "url": "https://www.vecteezy.com/",
+          "title": "Download Free Vectors, Images, Photos & Videos | Vecteezy"
+        },
+        {
+          "url": "https://fontsinuse.com/typefaces/85/helvetica",
+          "title": "FF Tisa in use - Fonts In Use"
+        },
+        {
+          "url": "https://www.my.freelancer.com/contest/logo-design-yanina-kuksa-2028440?w=f&ngsw-bypass=",
+          "title": "Logo Design - Yanina Kuksa | Freelancer"
+        },
+        {
+          "url": "https://raphaelfentonspaid.com",
+          "title": "Raphael Fenton-Spaid"
+        },
+        {
+          "url": "https://uicolors.app/create",
+          "title": "Tailwind CSS Color Generator | UI Colors"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "entertainment-gaming",
+      "bookmarks": [
+        {
+          "url": "http://www.byond.com/games/Bighead278/GOAReborn",
+          "title": "GOA Reborn by Bighead278 at BYOND Games"
+        },
+        {
+          "url": "https://www.idagio.com",
+          "title": "La meilleure application de streaming de musique classique | IDAGIO"
+        },
+        {
+          "url": "https://www.pokellector.com/card/Litten-Sun-Moon-Promos-SMP-63",
+          "title": "Litten - Sun & Moon Promos #63 Pokemon Card"
+        },
+        {
+          "url": "https://mashable.com/article/fortnite-is-the-real-metaverse",
+          "title": "Sorry, Zuck. 'Fortnite' has been the 'real' metaverse all along. | Mashable"
+        },
+        {
+          "url": "https://www.fanatical.com/tr/bundle/the-battle-of-polytopia-moonrise-deluxe",
+          "title": "The Battle of Polytopia: Moonrise - Deluxe | Steam Game Bundle | Fanatical"
+        },
+        {
+          "url": "https://www.viki.com/",
+          "title": "Watch K-Dramas, Korean Shows & Chinese Dramas | Rakuten Viki"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "environmental-conservation",
+      "bookmarks": [
+        {
+          "url": "https://www.airqo.net/",
+          "title": "AirQo | Bridging the Air Quality Data Gap in Africa - Real-time Monitoring Network | AirQo"
+        },
+        {
+          "url": "https://worldheritageoutlook.iucn.org/",
+          "title": "Home page | World Heritage Outlook"
+        },
+        {
+          "url": "https://brasil.mongabay.com/",
+          "title": "Notícias ambientais - Mongabay Brasil"
+        },
+        {
+          "url": "http://latam.rlgamericas.com/",
+          "title": "RLG LatAm"
+        },
+        {
+          "url": "https://interactive.guim.co.uk/uploader/embed/2021/11/archive-zip/giv-825UtiOvVJmipSt/",
+          "title": "void"
+        },
+        {
+          "url": "https://www.cebc.cnrs.fr/infrastructures/bio-logging/what-is-bio-logging/?lang=en",
+          "title": "What is Bio-logging? - newcebc"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-current-events",
+      "bookmarks": [
+        {
+          "url": "https://wnyt.com/top-stories/family-members-body-pulled-from-mohawk-river-is-samantha-humphrey/",
+          "title": "Autopsy results on Mohawk River body not expected until at least Monday"
+        },
+        {
+          "url": "https://nypost.com/2023/02/02/don-lemon-screamed-at-cnn-this-morning-co-host-in-off-camera-tiff-sources/",
+          "title": "Exclusive | Don Lemon 'screamed' at 'CNN This Morning' co-host in off-camera tiff: sources"
+        },
+        {
+          "url": "https://www.the-sun.com/lifestyle/7407411/prince-william-kate-amazon-prime-show/",
+          "title": "Prince William, Kate and the kids in top secret visit to set of huge Amazon Prime Video show"
+        },
+        {
+          "url": "https://www.nytimes.com/",
+          "title": "The New York Times - Breaking News, US News, World News and Videos"
+        },
+        {
+          "url": "https://rmc.bfmtv.com/mediaplayer/video/vacances-de-la-toussaint-avez-vous-peur-de-partir-0910-1284042.html",
+          "title": "Vacances de la Toussaint : avez-vous peur de partir ? - 09/10"
+        },
+        {
+          "url": "https://plevenzapleven.bg/blog/tag/%D0%BE%D1%82%D0%BA%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%82-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB/",
+          "title": "Плевен За Плевен - откраднат автомобил"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "general-reference-information",
       "bookmarks": [
         {
           "url": "https://www.aemet.es/es/eltiempo/prediccion/municipios/madrid-id28079",
           "title": "El Tiempo: Madrid (Madrid) - Predicción 7 días - Tabla - Agencia Estatal de Meteorología - AEMET. Gobierno de España"
         },
         {
-          "url": "https://www.indiapincode.info/andhra-pradesh-visakhapatnam-fortward-530001.html",
-          "title": "Fortward, Visakhapatnam - PIN Code - 530001 - India PIN Code"
+          "url": "https://no.wikipedia.org/wiki/Fagundes",
+          "title": "Fagundes - Wikipedia"
         },
         {
-          "url": "https://meteo.corrieredellosport.it/italia/emilia-romagna/lido-di-pomposa/7/",
-          "title": "Previsioni Meteo Lido Di Pomposa - Corriere dello Sport.it"
+          "url": "https://www.indiapincode.info/andhra-pradesh-visakhapatnam-fortward-530001.html",
+          "title": "Fortward, Visakhapatnam - PIN Code - 530001 - India PIN Code"
         },
         {
           "url": "https://www.amministrazionicomunali.it/calabria/san-sosti/meteo",
           "title": "Meteo nel Comune di San Sosti - amministrazionicomunali.it"
         },
         {
-          "url": "https://no.wikipedia.org/wiki/Fagundes",
-          "title": "Fagundes - Wikipedia"
+          "url": "https://meteo.corrieredellosport.it/italia/emilia-romagna/lido-di-pomposa/7/",
+          "title": "Previsioni Meteo Lido Di Pomposa - Corriere dello Sport.it"
         }
       ],
       "count": 5
@@ -452,38 +430,60 @@
           "title": "Blog EES archivos - Escuela Española de Supervivencia"
         },
         {
-          "url": "https://www.flirt.com/",
-          "title": "Flirt.com - Online dating site for flirty local singles"
-        },
-        {
-          "url": "https://www.salamanderresort.com/",
-          "title": "Salamander Middleburg | Five Star Resort and Spa in Middleburg, VA"
-        },
-        {
           "url": "https://www.thearma.org/essays.htm",
           "title": "Essays - Swords & Swordsmanship"
         },
         {
+          "url": "https://www.flirt.com/",
+          "title": "Flirt.com - Online dating site for flirty local singles"
+        },
+        {
           "url": "https://wiktenauer.com/wiki/Hans_Talhoffer",
           "title": "Hans Talhoffer ~ Wiktenauer, the world's largest library of HEMA books and manuscripts ~☞ Insquequo omnes gratuiti fiant"
+        },
+        {
+          "url": "https://www.salamanderresort.com/",
+          "title": "Salamander Middleburg | Five Star Resort and Spa in Middleburg, VA"
         }
       ],
       "count": 5
     },
     {
+      "name": "science-research-data",
+      "bookmarks": [
+        {
+          "url": "https://ldl.gatech.edu/publications?s=year&amp%3Bf%5Bag%5D=R&f%5Bauthor%5D=872&o=asc",
+          "title": "[current-page:page-title] | [site:name]"
+        },
+        {
+          "url": "https://earthobservatory.nasa.gov/global-maps",
+          "title": "Global Maps"
+        },
+        {
+          "url": "http://fsf.fra.affrc.go.jp/indexe.html",
+          "title": "National Research Institute of Far Seas Fisheries, Fisheries Research Agency"
+        },
+        {
+          "url": "https://ueaglider.uea.ac.uk/mission39/glider502/dive0085",
+          "title": "SG502 Dive 85 Mission 39"
+        }
+      ],
+      "count": 4
+    },
+    {
       "name": "academic-institutional-resources",
       "bookmarks": [
         {
-          "url": "https://katalogi.pbp.poznan.pl/sowacgi.php?KatID=0&typ=repl&plnk=__wydawca_Mi%C4%99dzynarodowy+Komitet+O%C5%9Bwi%C4%99cimski&sort=byscore&view=1",
-          "title": "SOWA OPAC : Katalog zbiorów Publicznej Biblioteki Pedagogicznej w Poznaniu"
+          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
+          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
         },
         {
           "url": "https://www.southampton.ac.uk/oes/postgraduate/research_students/fw2n19.page",
           "title": "Find a person | University of Southampton"
         },
         {
-          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
-          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
+          "url": "https://katalogi.pbp.poznan.pl/sowacgi.php?KatID=0&typ=repl&plnk=__wydawca_Mi%C4%99dzynarodowy+Komitet+O%C5%9Bwi%C4%99cimski&sort=byscore&view=1",
+          "title": "SOWA OPAC : Katalog zbiorów Publicznej Biblioteki Pedagogicznej w Poznaniu"
         }
       ],
       "count": 3
@@ -492,12 +492,12 @@
       "name": "sports-news-information",
       "bookmarks": [
         {
-          "url": "https://www.nhl.com/player",
-          "title": "NHL Hockey Players | NHL.com"
-        },
-        {
           "url": "https://www.scout.com/",
           "title": "College Sports News and Recruiting"
+        },
+        {
+          "url": "https://www.nhl.com/player",
+          "title": "NHL Hockey Players | NHL.com"
         },
         {
           "url": "https://sportstar.thehindu.com/",
@@ -507,14 +507,18 @@
       "count": 3
     },
     {
-      "name": "photography-resources",
+      "name": "tv-media-news",
       "bookmarks": [
         {
-          "url": "https://www.lifeofpix.com/",
-          "title": "Free high resolution photography | Life of Pix"
+          "url": "https://newsroom.apac.paypal-corp.com/home",
+          "title": "PayPal Newsroom - Home"
+        },
+        {
+          "url": "https://www.nbc.com/today?nbc=1",
+          "title": "TODAY - NBC.com"
         }
       ],
-      "count": 1
+      "count": 2
     },
     {
       "name": "misc-uncategorized",
@@ -527,18 +531,14 @@
       "count": 1
     },
     {
-      "name": "tv-media-news",
+      "name": "photography-resources",
       "bookmarks": [
         {
-          "url": "https://www.nbc.com/today?nbc=1",
-          "title": "TODAY - NBC.com"
-        },
-        {
-          "url": "https://newsroom.apac.paypal-corp.com/home",
-          "title": "PayPal Newsroom - Home"
+          "url": "https://www.lifeofpix.com/",
+          "title": "Free high resolution photography | Life of Pix"
         }
       ],
-      "count": 2
+      "count": 1
     }
   ],
   "total_bookmarks": 105,

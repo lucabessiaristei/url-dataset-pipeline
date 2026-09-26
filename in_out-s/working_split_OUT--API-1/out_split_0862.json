@@ -1,12 +1,8 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://allergyasthmanetwork.org/",
-          "title": "Your Trusted Resource - Allergy & Asthma Network"
-        },
         {
           "url": "https://apha.org/",
           "title": "American Public Health Association"
@@ -14,10 +10,6 @@
         {
           "url": "https://atlantapressclub.org/",
           "title": "Atlanta Press Club"
-        },
-        {
-          "url": "https://buildcommonwealth.org/",
-          "title": "Commonwealth - Making Wealth Possible For All"
         },
         {
           "url": "http://www.usblackchambers.org/certification",
@@ -30,6 +22,10 @@
         {
           "url": "http://rescue.myplannedgift.org/",
           "title": "Charitable Giving | International Rescue Committee"
+        },
+        {
+          "url": "https://buildcommonwealth.org/",
+          "title": "Commonwealth - Making Wealth Possible For All"
         },
         {
           "url": "https://www.crisistextline.org/",
@@ -66,12 +62,78 @@
         {
           "url": "http://www.wbenc.org/",
           "title": "WBENC Women's Business Enterprise National Council - WBENC.org : WBENC"
+        },
+        {
+          "url": "https://allergyasthmanetwork.org/",
+          "title": "Your Trusted Resource - Allergy & Asthma Network"
         }
       ],
       "count": 16
     },
     {
-      "name": "articles-news",
+      "name": "business-corporate",
+      "bookmarks": [
+        {
+          "url": "https://www.gallup.com/corporate/212381/who-we-are.aspx",
+          "title": "About - Gallup"
+        },
+        {
+          "url": "http://www.electrosonic.com/",
+          "title": "Audio Visual Systems | Electrosonic"
+        },
+        {
+          "url": "https://growmystore.thinkwithgoogle.com/intl/en_us",
+          "title": "Before you continue"
+        },
+        {
+          "url": "https://mabanque.bnpparibas/en/home",
+          "title": "BNP Paribas | The bank for a changing world"
+        },
+        {
+          "url": "https://www.dacast.com",
+          "title": "Dacast: Live Streaming Platform | Online Video Hosting"
+        },
+        {
+          "url": "https://alterna.pro/en/home/",
+          "title": "Home | Alterna"
+        },
+        {
+          "url": "https://mikebloomberg.com",
+          "title": "Mike Bloomberg"
+        },
+        {
+          "url": "https://www.mpkelley.com",
+          "title": "Mike Kelley: Architectural Photographer"
+        },
+        {
+          "url": "http://www.msn.com/en-us/money/stockdetails/fi-126.1.MSFT.NAS",
+          "title": "MSN"
+        },
+        {
+          "url": "http://www.nbsoft.co.uk/",
+          "title": "nbsoft"
+        },
+        {
+          "url": "http://www.precisiontrucks.com/",
+          "title": "Precision Truck Products I America's #1 Toter Manufacturer"
+        },
+        {
+          "url": "https://roadsideattractionspublicity.com/filmography/somewhere-in-queens/",
+          "title": "Roadside Attractions Publicity"
+        },
+        {
+          "url": "https://www.nyse.com/index",
+          "title": "The New York Stock Exchange | NYSE"
+        },
+        {
+          "url": "http://www.tradefirst.com/",
+          "title": "TradeFirst - The Smart Network for Business"
+        }
+      ],
+      "count": 14
+    },
+    {
+      "name": "news-articles",
       "bookmarks": [
         {
           "url": "https://boston.cbslocal.com/tag/adam-jones/",
@@ -114,12 +176,12 @@
           "title": "Search Engine Optimization for Small Businesses Tickets, Wed, 15 Mar 2023 at 10:00 AM | Eventbrite"
         },
         {
-          "url": "https://kutv.com/news/local/suspect-alleged-murray-fire-homicide-released-two-days-prior-probation-violation-cubesmart-self-storage-alexander-wardell-criminal-history",
-          "title": "Suspect released on bond one day before fatal storage unit fire in Murray"
-        },
-        {
           "url": "https://www.wraltechwire.com/2021/06/09/survey-97-of-nc-execs-optimistic-81-plan-to-boost-hiring-but-29-to-reduce-office-space/",
           "title": "Survey: 97% of NC execs optimistic; 81% plan to boost hiring; but 29% to reduce office space | WRAL TechWire"
+        },
+        {
+          "url": "https://kutv.com/news/local/suspect-alleged-murray-fire-homicide-released-two-days-prior-probation-violation-cubesmart-self-storage-alexander-wardell-criminal-history",
+          "title": "Suspect released on bond one day before fatal storage unit fire in Murray"
         },
         {
           "url": "https://kj555.net/virtual-casino-etiquette/",
@@ -128,68 +190,6 @@
         {
           "url": "https://variety.com/2023/awards/news/will-smith-aafca-awards-acceptance-emancipation-1235540560/",
           "title": "Will Smith Gives AAFCA Speech, First Awards Ceremony Since Oscars Slap"
-        }
-      ],
-      "count": 14
-    },
-    {
-      "name": "business-corporate",
-      "bookmarks": [
-        {
-          "url": "https://www.gallup.com/corporate/212381/who-we-are.aspx",
-          "title": "About - Gallup"
-        },
-        {
-          "url": "https://alterna.pro/en/home/",
-          "title": "Home | Alterna"
-        },
-        {
-          "url": "http://www.electrosonic.com/",
-          "title": "Audio Visual Systems | Electrosonic"
-        },
-        {
-          "url": "https://mabanque.bnpparibas/en/home",
-          "title": "BNP Paribas | The bank for a changing world"
-        },
-        {
-          "url": "https://www.dacast.com",
-          "title": "Dacast: Live Streaming Platform | Online Video Hosting"
-        },
-        {
-          "url": "https://growmystore.thinkwithgoogle.com/intl/en_us",
-          "title": "Before you continue"
-        },
-        {
-          "url": "https://mikebloomberg.com",
-          "title": "Mike Bloomberg"
-        },
-        {
-          "url": "https://www.mpkelley.com",
-          "title": "Mike Kelley: Architectural Photographer"
-        },
-        {
-          "url": "http://www.msn.com/en-us/money/stockdetails/fi-126.1.MSFT.NAS",
-          "title": "MSN"
-        },
-        {
-          "url": "http://www.nbsoft.co.uk/",
-          "title": "nbsoft"
-        },
-        {
-          "url": "http://www.precisiontrucks.com/",
-          "title": "Precision Truck Products I America's #1 Toter Manufacturer"
-        },
-        {
-          "url": "https://roadsideattractionspublicity.com/filmography/somewhere-in-queens/",
-          "title": "Roadside Attractions Publicity"
-        },
-        {
-          "url": "https://www.nyse.com/index",
-          "title": "The New York Stock Exchange | NYSE"
-        },
-        {
-          "url": "http://www.tradefirst.com/",
-          "title": "TradeFirst - The Smart Network for Business"
         }
       ],
       "count": 14
@@ -321,7 +321,7 @@
       "count": 8
     },
     {
-      "name": "tools-online",
+      "name": "online-tools",
       "bookmarks": [
         {
           "url": "http://www.ilovepdf.com/",
@@ -414,10 +414,6 @@
       "name": "legal",
       "bookmarks": [
         {
-          "url": "https://dmca.openstreetmap.org/",
-          "title": "| OpenStreetMap Foundation - DMCA Notice Procedure"
-        },
-        {
           "url": "http://www.stubhub.com/legal/?section=pp",
           "title": "Buy sports, concert and theater tickets on StubHub!"
         },
@@ -432,6 +428,10 @@
         {
           "url": "https://www.tickpick.com/privacy",
           "title": "TickPick | Privacy Policy"
+        },
+        {
+          "url": "https://dmca.openstreetmap.org/",
+          "title": "| OpenStreetMap Foundation - DMCA Notice Procedure"
         }
       ],
       "count": 5

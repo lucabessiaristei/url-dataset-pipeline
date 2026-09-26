@@ -1,8 +1,12 @@
 {
   "folders": [
     {
-      "name": "academic-education",
+      "name": "education-academic",
       "bookmarks": [
+        {
+          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
+          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
+        },
         {
           "url": "https://www.coursera.org/learn/algorithms-part1",
           "title": "Algorithms, Part I by Princeton University | Coursera"
@@ -24,12 +28,16 @@
           "title": "Indentation of preprocessor directives - Vi and Vim Stack Exchange"
         },
         {
-          "url": "https://www.cccstudentmentalhealth.org/resource/love-is-respect/",
-          "title": "Love is Respect - CCC Health & Wellness Program"
+          "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=336abc4a64dd4cdbb9c172a58ac66a3e",
+          "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
         },
         {
           "url": "https://docs.python.org/3/library/logging.html",
           "title": "logging - Logging facility for Python - Python 3.14.0 documentation"
+        },
+        {
+          "url": "https://www.cccstudentmentalhealth.org/resource/love-is-respect/",
+          "title": "Love is Respect - CCC Health & Wellness Program"
         },
         {
           "url": "https://docs.microsoft.com/en-us/learn/topics/startups/",
@@ -58,14 +66,6 @@
         {
           "url": "https://exploredegrees.stanford.edu/schoolofengineering/computerscience/",
           "title": "undefined Department | Stanford University Bulletin"
-        },
-        {
-          "url": "https://www.uni-weimar.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoEinrichtung&publishSubDir=einrichtung&keep=y&einrichtung.eid=599",
-          "title": "- Institut für Europäische Urbanistik Bauhaus-Universitaet Weimar"
-        },
-        {
-          "url": "https://langolodeisogni.altervista.org/phpBB3/faq.php?sid=336abc4a64dd4cdbb9c172a58ac66a3e",
-          "title": "L'Angolo dei Sogni - FAQ (Domande Frequenti)"
         }
       ],
       "count": 16
@@ -74,12 +74,16 @@
       "name": "news-politics",
       "bookmarks": [
         {
+          "url": "https://www.newsamericasnow.com/tag/guadeloupe-2/",
+          "title": "#GUADELOUPE Articles | News Americas Now"
+        },
+        {
           "url": "https://bwittmblr.tumblr.com/",
           "title": "Black Women in Technology"
         },
         {
           "url": "https://nypost.com/2023/02/02/don-lemon-screamed-at-cnn-this-morning-co-host-in-off-camera-tiff-sources/",
-          "title": "Exclusive | Don Lemon 'screamed' at 'CNN This Morning' co-host in off-camera-tiff: sources"
+          "title": "Exclusive | Don Lemon 'screamed' at 'CNN This Morning' co-host in off-camera tiff: sources"
         },
         {
           "url": "https://video.foxbusiness.com/v/6109194898001#sp=show-clips",
@@ -90,18 +94,6 @@
           "title": "Latest News"
         },
         {
-          "url": "https://www.memorabletv.com/tag/the-wendy-williams-show/",
-          "title": "The Wendy Williams Show Archives MEMORABLE TV"
-        },
-        {
-          "url": "https://www.mynews13.com/fl/orlando",
-          "title": "Spectrum News | News 13"
-        },
-        {
-          "url": "https://www.newsamericasnow.com/tag/guadeloupe-2/",
-          "title": "#GUADELOUPE Articles | News Americas Now"
-        },
-        {
           "url": "https://ayeyoclaudia.tumblr.com/",
           "title": "On my gravestone: LGBT Fans Deserve Better"
         },
@@ -110,8 +102,16 @@
           "title": "Pennridge School District removes LGBTQ books from libraries - WHYY"
         },
         {
+          "url": "https://www.mynews13.com/fl/orlando",
+          "title": "Spectrum News | News 13"
+        },
+        {
           "url": "https://www.maryscullyreports.com/the-stresses-of-the-2016-elections-on-civility/",
           "title": "The stresses of the 2016 elections on civility | Mary Scully Reports"
+        },
+        {
+          "url": "https://www.memorabletv.com/tag/the-wendy-williams-show/",
+          "title": "The Wendy Williams Show Archives MEMORABLE TV"
         },
         {
           "url": "https://www.vulture.com/article/what-is-a-nepotism-baby.html",
@@ -121,7 +121,7 @@
       "count": 11
     },
     {
-      "name": "e-commerce-products",
+      "name": "ecommerce-products",
       "bookmarks": [
         {
           "url": "https://www.balsamhill.com/p/bh-fraser-fir-artificial-christmas-tree?sku=2808946",
@@ -144,10 +144,6 @@
           "title": "KD Acne Treatment Pads (60 Pads) - Beauty by Dr. Kay"
         },
         {
-          "url": "https://shop.scottlab.com/profile/login?returnurl=https%3A%2F%2Fshop.scottlab.com%2Fparts%2Fmachine-category%3Dcrossflow-filters-pall%2Cplate-and-frame%2Cpressure-leaf-filters-de-filter-vls%2Cscott-filter-housings%2Fpump-mechanical-seal-for-pall-crossflow-xla-960044",
-          "title": "void"
-        },
-        {
           "url": "https://www.demuseumwinkel.com/papilio-thoas-cinyras-driedpapered-v0035",
           "title": "Papilio thoas cinyras dried/papered - DeMuseumwinkel.com"
         },
@@ -162,6 +158,10 @@
         {
           "url": "https://shakerandspoon.com/",
           "title": "Shaker & Spoon"
+        },
+        {
+          "url": "https://shop.scottlab.com/profile/login?returnurl=https%3A%2F%2Fshop.scottlab.com%2Fparts%2Fmachine-category%3Dcrossflow-filters-pall%2Cplate-and-frame%2Cpressure-leaf-filters-de-filter-vls%2Cscott-filter-housings%2Fpump-mechanical-seal-for-pall-crossflow-xla-960044",
+          "title": "void"
         }
       ],
       "count": 10
@@ -169,6 +169,18 @@
     {
       "name": "environmental-conservation",
       "bookmarks": [
+        {
+          "url": "https://www.islandconservation.org/",
+          "title": "Home - Island Conservation"
+        },
+        {
+          "url": "https://belize.oceana.org/",
+          "title": "Home - Oceana Belize"
+        },
+        {
+          "url": "http://www.imcsnet.org/",
+          "title": "IMCS NETWORK | IMCS"
+        },
         {
           "url": "https://www.cbc.ca/news/canada/montreal/national-geographic-pristine-seas-labrador-quebec-expedition-1.6541693",
           "title": "National Geographic expedition teaming up with Inuit to visit Nunavik, Que., on conservation mission | CBC News"
@@ -180,18 +192,6 @@
         {
           "url": "http://www.odinwestpac.org/",
           "title": "ODINWESTPAC"
-        },
-        {
-          "url": "https://belize.oceana.org/",
-          "title": "Home - Oceana Belize"
-        },
-        {
-          "url": "https://www.islandconservation.org/",
-          "title": "Home - Island Conservation"
-        },
-        {
-          "url": "http://www.imcsnet.org/",
-          "title": "IMCS NETWORK | IMCS"
         },
         {
           "url": "https://spark.adobe.com/page/ung95LiPSQyZs/",
@@ -228,12 +228,12 @@
           "title": "Max | United States Coast Guard"
         },
         {
-          "url": "https://online.foundationsource.com/ws/index.jsp?site=marisla",
-          "title": "The Marisla Foundation"
-        },
-        {
           "url": "https://timesofsandiego.com/business/2019/05/23/six-san-diego-small-businesses-win-chambers-annual-awards/",
           "title": "Six San Diego Small Businesses Win Chamber's Annual Awards"
+        },
+        {
+          "url": "https://online.foundationsource.com/ws/index.jsp?site=marisla",
+          "title": "The Marisla Foundation"
         },
         {
           "url": "https://jobs.wearegreenbay.com",
@@ -254,12 +254,12 @@
           "title": "2. Station - Bischofswerda, Germany"
         },
         {
-          "url": "http://www.buoneforchette.com/",
-          "title": "Ricette di cucina - Le ricette di Buoneforchette.com"
-        },
-        {
           "url": "https://www.famoushighpie.com/",
           "title": "Home - famoushighpie"
+        },
+        {
+          "url": "http://www.buoneforchette.com/",
+          "title": "Ricette di cucina - Le ricette di Buoneforchette.com"
         },
         {
           "url": "https://polkadotpie.co.uk/product-tag/tufted-gray-langur-painting-original-oil-by-julie-brunn/",
@@ -324,16 +324,16 @@
       "name": "social-media",
       "bookmarks": [
         {
-          "url": "https://www.joemerrill.com",
-          "title": "Joe Merrill"
+          "url": "https://jimbeddow.tumblr.com/",
+          "title": "@jimbeddow on Tumblr"
         },
         {
           "url": "https://maia-longhorn.tumblr.com/",
           "title": "In this corner..."
         },
         {
-          "url": "https://jimbeddow.tumblr.com/",
-          "title": "@jimbeddow on Tumblr"
+          "url": "https://www.joemerrill.com",
+          "title": "Joe Merrill"
         },
         {
           "url": "https://www.periscope.tv",

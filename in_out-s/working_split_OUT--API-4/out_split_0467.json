@@ -1,76 +1,30 @@
 {
   "folders": [
     {
-      "name": "academic-research",
-      "bookmarks": [
-        {
-          "url": "https://sfhta.eu/calendar",
-          "title": "Calendar - SFHTA"
-        },
-        {
-          "url": "https://csp.ucsc.edu",
-          "title": "Coastal Science and Policy Program | The next generation of coastal science and policy leaders"
-        },
-        {
-          "url": "https://cujs.soc.srcf.net",
-          "title": "CUJS"
-        },
-        {
-          "url": "https://kfupm.discovery.symplectic.org/Fyl-Louie-Panoy",
-          "title": "Discovery"
-        },
-        {
-          "url": "https://frontiersin.org/articles/10.3389/fmars.2020.00165/full",
-          "title": "Frontiers | Global Patterns in Marine Sediment Carbon Stocks"
-        },
-        {
-          "url": "https://springer.com/biomed/journal/418",
-          "title": "Home | Histochemistry and Cell Biology"
-        },
-        {
-          "url": "https://magazine.mines.edu",
-          "title": "Mines Magazine - The Colorado School of Mines Magazine Website"
-        },
-        {
-          "url": "https://training.institut-curie.org/recherche",
-          "title": "Recherche | Institut Curie Advanced Training"
-        },
-        {
-          "url": "https://ipcc.ch/srocc",
-          "title": "Special Report on the Ocean and Cryosphere in a Changing Climate -"
-        },
-        {
-          "url": "https://radc.rush.edu/docs/parentstudydesigns.htm",
-          "title": "Study Design Summaries | RADC"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "business-finance",
       "bookmarks": [
         {
-          "url": "https://responsiblemineralsinitiative.org/conflict-minerals-reporting-template",
+          "url": "http://www.responsiblemineralsinitiative.org/conflict-minerals-reporting-template/",
           "title": "Conflict Minerals Reporting Template"
         },
         {
-          "url": "https://generexe.nl",
+          "url": "http://www.generexe.nl/",
           "title": "GenerExe IT - Software Development"
         },
         {
-          "url": "https://moneygram.com/replacement",
+          "url": "https://www.moneygram.com/replacement",
           "title": "Get a Money Order Fast with MoneyGram | MoneyGram"
         },
         {
-          "url": "https://cineca.it",
+          "url": "http://www.cineca.it/",
           "title": "Home Page | Cineca"
         },
         {
-          "url": "https://investors.alkami.com",
+          "url": "https://investors.alkami.com/",
           "title": "Investor Relations | Alkami Technology, Inc. - Investor Relations"
         },
         {
-          "url": "https://centene.com",
+          "url": "http://www.centene.com/",
           "title": "Managed Care & Healthcare Solutions | Centene Corporation"
         },
         {
@@ -78,50 +32,88 @@
           "title": "New study ranks Downtown Atlanta as 'growing downtown' - Curbed Atlanta"
         },
         {
-          "url": "https://shopify.com",
+          "url": "https://www.shopify.com/",
           "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify"
         },
         {
-          "url": "https://panaya.com",
+          "url": "https://www.panaya.com",
           "title": "The Change Intelligence Platform for ERP & CRM"
         }
       ],
       "count": 9
     },
     {
+      "name": "academic-research",
+      "bookmarks": [
+        {
+          "url": "https://csp.ucsc.edu/",
+          "title": "Coastal Science and Policy Program | The next generation of coastal science and policy leaders"
+        },
+        {
+          "url": "http://cujs.soc.srcf.net/",
+          "title": "CUJS"
+        },
+        {
+          "url": "https://kfupm.discovery.symplectic.org/Fyl-Louie-Panoy",
+          "title": "Discovery"
+        },
+        {
+          "url": "https://www.frontiersin.org/articles/10.3389/fmars.2020.00165/full",
+          "title": "Frontiers | Global Patterns in Marine Sediment Carbon Stocks"
+        },
+        {
+          "url": "http://www.springer.com/biomed/journal/418",
+          "title": "Home | Histochemistry and Cell Biology"
+        },
+        {
+          "url": "http://magazine.mines.edu/",
+          "title": "Mines Magazine - The Colorado School of Mines Magazine Website"
+        },
+        {
+          "url": "https://training.institut-curie.org/recherche?f%5B0%5D=date-debut%3A1559390400&f%5B1%5D=date-debut%3A1559390400&f%5B10%5D=theme-recherche%3A377&f%5B11%5D=theme-recherche%3A380&f%5B12%5D=theme-recherche%3A384&f%5B13%5D=theme-recherche%3A384&f%5B14%5D=theme-recherche%3A384&f%5B15%5D=theme-recherche%3A384&f%5B16%5D=theme-recherche%3A389&f%5B17%5D=theme-recherche%3A389&f%5B18%5D=theme-recherche%3A389&f%5B19%5D=theme-recherche%3A389&f%5B2%5D=date-debut%3A1559390400&f%5B20%5D=theme-recherche%3A409&f%5B21%5D=theme-recherche%3A409&f%5B22%5D=theme-recherche%3A479&f%5B23%5D=theme-recherche%3A479&f%5B24%5D=theme-recherche%3A479&f%5B25%5D=theme-recherche%3A479&f%5B26%5D=type-cours%3AINTERNATIONAL&f%5B27%5D=type-cours%3AINTERNATIONAL&f%5B28%5D=type-cours%3AINTERNATIONAL&f%5B29%5D=type-cours%3AINTERNATIONAL&f%5B3%5D=date-debut%3A1559390400&f%5B30%5D=type-cours%3AINTERNATIONAL&f%5B31%5D=type-cours%3AINTERNATIONAL&f%5B32%5D=type-cours%3AINTERNATIONAL&f%5B33%5D=type-cours%3AINTERNATIONAL&f%5B34%5D=type%3Acours&f%5B35%5D=type%3Acours&f%5B36%5D=type%3Acours&f%5B37%5D=type%3Acours&f%5B38%5D=type%3Acours&f%5B39%5D=type%3Acours&f%5B4%5D=langue-taxo%3A40&f%5B40%5D=type%3Acours&f%5B41%5D=type%3Acours&f%5B5%5D=langue-taxo%3A40&f%5B6%5D=profil%3A7&f%5B7%5D=profil%3A7&f%5B8%5D=profil%3A7&f%5B9%5D=profil%3A7&text=",
+          "title": "Recherche | Institut Curie Advanced Training"
+        },
+        {
+          "url": "https://www.ipcc.ch/srocc/",
+          "title": "Special Report on the Ocean and Cryosphere in a Changing Climate -"
+        }
+      ],
+      "count": 8
+    },
+    {
       "name": "hobbies-leisure",
       "bookmarks": [
         {
-          "url": "https://aviationsafetymagazine.com/features/why-twins-crash",
-          "title": "Why Twins Crash - Aviation Safety"
-        },
-        {
-          "url": "https://cucinare.meglio.it",
+          "url": "http://www.cucinare.meglio.it/",
           "title": "Cucinare meglio - ricette, buon cibo, sicurezza alimentare"
         },
         {
-          "url": "https://filemagazine.com",
+          "url": "https://filemagazine.com/",
           "title": "FileMagazine.com: Unveiling Stories Through Captivating Imagery"
         },
         {
-          "url": "https://fireflyfans.net/mthread.aspx?bid=11&tid=33415&p=2",
-          "title": "What Song Are You Listening To, What's My Age Again? by deepgirl187"
-        },
-        {
-          "url": "https://gordonengland.co.uk/pog/index.php?/tags/31-nature/665-anisoptera/669-odonata",
+          "url": "https://www.gordonengland.co.uk/pog/index.php?/tags/31-nature/665-anisoptera/669-odonata",
           "title": "Keywords nature + Anisoptera + Odonata | Photography Obsession"
         },
         {
-          "url": "https://forum.telldus.com/search.php?search_id=unanswered",
+          "url": "https://forum.telldus.com/search.php?search_id=unanswered&sid=59762dda3dee554194f2a4a376936de0",
           "title": "My forum - Unanswered topics"
+        },
+        {
+          "url": "https://www.svt.se/sport/",
+          "title": "SVT Sport"
         },
         {
           "url": "https://rdmasters.lympago.com/2016/12/we-spotted-this-ai2-scooting-along-at_4.html",
           "title": "We spotted this AI2 scooting along at a fine old pace in the sea breeze at Matilda Bay on the Swan today!"
         },
         {
-          "url": "https://svt.se/sport",
-          "title": "SVT Sport"
+          "url": "http://fireflyfans.net/mthread.aspx?bid=11&tid=33415&p=2",
+          "title": "What Song Are You Listening To, What's My Age Again? by deepgirl187"
+        },
+        {
+          "url": "https://www.aviationsafetymagazine.com/features/why-twins-crash/",
+          "title": "Why Twins Crash - Aviation Safety"
         }
       ],
       "count": 8
@@ -134,20 +126,20 @@
           "title": "Global Talent"
         },
         {
-          "url": "https://greenpak.com.mt",
-          "title": "| GreenPak"
-        },
-        {
-          "url": "https://nationalcleanupday.org",
+          "url": "https://www.nationalcleanupday.org/",
           "title": "National CleanUp Day - September is Cleanup Month"
         },
         {
-          "url": "https://fhfund.org",
+          "url": "https://www.fhfund.org/",
           "title": "Together, we can ensure everyone has a home. - Family Housing Fund"
         },
         {
-          "url": "https://treetrust.org",
+          "url": "https://treetrust.org/",
           "title": "Transforming Lives and Landscapes"
+        },
+        {
+          "url": "http://www.greenpak.com.mt",
+          "title": "| GreenPak"
         }
       ],
       "count": 5
@@ -160,7 +152,7 @@
           "title": "ADHD Ahead! - codeorg: What we think of computer science is..."
         },
         {
-          "url": "https://tablesgenerator.com/latex_tables",
+          "url": "https://www.tablesgenerator.com/latex_tables",
           "title": "Create LaTeX tables online - TablesGenerator.com"
         },
         {
@@ -175,36 +167,18 @@
       "count": 4
     },
     {
-      "name": "childrens-education",
-      "bookmarks": [
-        {
-          "url": "https://about.coursera.org/how-coursera-works",
-          "title": "How does Coursera work? Get started on Coursera | Coursera"
-        },
-        {
-          "url": "https://sesamo.com",
-          "title": "Inicio | Sésamo"
-        },
-        {
-          "url": "https://austinpbs.org/sesame",
-          "title": "Sesame In Communities in English"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "geospatial-mapping",
       "bookmarks": [
         {
-          "url": "https://code.flickr.net/2011/01/08/flickr-shapefiles-public-dataset-2-0",
+          "url": "http://code.flickr.net/2011/01/08/flickr-shapefiles-public-dataset-2-0/",
           "title": "Flickr Shapefiles Public Dataset 2.0 | code.flickr.com"
         },
         {
-          "url": "https://hrscview.fu-berlin.de",
+          "url": "http://hrscview.fu-berlin.de/",
           "title": "HRSC webGIS @ FU-Berlin Planetary Sciences"
         },
         {
-          "url": "https://kpb.us/gis-dept/kpb-data-downloads/cadastre",
+          "url": "http://www.kpb.us/gis-dept/kpb-data-downloads/cadastre",
           "title": "KPB GeoHub"
         }
       ],
@@ -214,33 +188,19 @@
       "name": "government-public-services",
       "bookmarks": [
         {
-          "url": "https://bop.gov",
+          "url": "https://www.bop.gov",
           "title": "BOP: Federal Bureau of Prisons Web Site"
         },
         {
-          "url": "https://gob.pe/institucion/produce/normas-legales/140929-003-2018-produce",
+          "url": "https://www.gob.pe/institucion/produce/normas-legales/140929-003-2018-produce",
           "title": "Decreto Supremo N.° 003-2018-PRODUCE - Normas y documentos legales - Ministerio de la Producción - Plataforma del Estado Peruano"
         },
         {
-          "url": "https://scb.se/hitta-statistik",
+          "url": "https://www.scb.se/hitta-statistik/",
           "title": "Hitta statistik hos SCB"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "personal-career-development",
-      "bookmarks": [
-        {
-          "url": "https://brooketaelor.com",
-          "title": "HOME"
-        },
-        {
-          "url": "https://greatplacetowork.com/certified-company/7023741",
-          "title": "Working at Vera Institute of Justice | Great Place To Work®"
-        }
-      ],
-      "count": 2
     },
     {
       "name": "shopping-products",
@@ -250,17 +210,45 @@
           "title": "Infinity Stackable Ring in Sterling Silver, #6924-ss - Zoe & Piper Wholesale"
         },
         {
-          "url": "https://nike.com",
+          "url": "https://www.nike.com/",
           "title": "Nike. Just Do It. Nike IT"
         },
         {
-          "url": "https://rchobbiesoutlet.com/r86050-wheel-hex-mount-with-pins",
+          "url": "https://www.rchobbiesoutlet.com/r86050-wheel-hex-mount-with-pins/",
           "title": "R86050 Wheel Hex Mount with Pins - rchobbiesoutlet"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "children-education",
+      "bookmarks": [
+        {
+          "url": "https://about.coursera.org/how-coursera-works/",
+          "title": "How does Coursera work? Get started on Coursera | Coursera"
+        },
+        {
+          "url": "https://sesamo.com/",
+          "title": "Inicio | Sésamo"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "personal-career-development",
+      "bookmarks": [
+        {
+          "url": "https://www.brooketaelor.com/",
+          "title": "HOME"
+        },
+        {
+          "url": "http://www.greatplacetowork.com/certified-company/7023741",
+          "title": "Working at Vera Institute of Justice | Great Place To Work®"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 50,
+  "total_bookmarks": 47,
   "num_folders": 10
 }

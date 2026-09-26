@@ -1,43 +1,43 @@
 {
   "folders": [
     {
-      "name": "non-profit-social-justice",
+      "name": "nonprofit-social-justice",
       "bookmarks": [
         {
           "url": "https://www.capiusa.org/",
           "title": "CAPI: Communities Advancing Prosperity for Immigrants"
         },
         {
-          "url": "https://childmind.org",
-          "title": "Child Mind Institute | Transforming Children's Lives"
+          "url": "https://www.socialworkschi.org/",
+          "title": "Chicago's Youth Charity - Donate & Volunteer | SocialWorks"
         },
         {
-          "url": "https://lifeatno27.com/",
-          "title": "Life at No.27"
+          "url": "https://childmind.org",
+          "title": "Child Mind Institute | Transforming Children's Lives"
         },
         {
           "url": "https://mtgmn.org/",
           "title": "Home | Mind the G.A.P.P."
         },
         {
-          "url": "https://www.povertyactionlab.org/",
-          "title": "The Abdul Latif Jameel Poverty Action Lab"
+          "url": "http://thealliancetc.org/",
+          "title": "Home • The Alliance"
+        },
+        {
+          "url": "https://lifeatno27.com/",
+          "title": "Life at No.27"
+        },
+        {
+          "url": "http://www.ywcaweekwithoutviolence.org/",
+          "title": "National Campaigns - YWCA - YWCA"
         },
         {
           "url": "https://satcherinstitute.org/",
           "title": "Satcher Health Leadership Institute | Health Equity Leadership & Research"
         },
         {
-          "url": "https://www.socialworkschi.org/",
-          "title": "Chicago's Youth Charity - Donate & Volunteer | SocialWorks"
-        },
-        {
-          "url": "http://thealliancetc.org/",
-          "title": "Home • The Alliance"
-        },
-        {
-          "url": "http://www.ywcaweekwithoutviolence.org/",
-          "title": "National Campaigns - YWCA - YWCA"
+          "url": "https://www.povertyactionlab.org/",
+          "title": "The Abdul Latif Jameel Poverty Action Lab"
         }
       ],
       "count": 9
@@ -46,8 +46,12 @@
       "name": "education-professional-development",
       "bookmarks": [
         {
-          "url": "http://agentschoiceonline.com/",
-          "title": "The Agent's Choice"
+          "url": "https://www.yearup.org/get-started",
+          "title": "Apply in the Student Portal | Year Up United"
+        },
+        {
+          "url": "https://www.montgomerycollege.edu/contact-us/index.html#interpreter",
+          "title": "Contact Us | Montgomery College, Maryland"
         },
         {
           "url": "https://gsb.urosario.edu.co/Inicio/?_ga=2.50986857.1991745945.1660754957-1637710740.1648474320",
@@ -62,20 +66,54 @@
           "title": "Make the Future Summit | March 28-30, 2022"
         },
         {
-          "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
-          "title": "MikraotGedolot - AlHaTorah.org"
-        },
-        {
-          "url": "https://www.montgomerycollege.edu/contact-us/index.html#interpreter",
-          "title": "Contact Us | Montgomery College, Maryland"
-        },
-        {
           "url": "https://myignite.microsoft.com/",
           "title": "Microsoft Ignite - November 18-21, 2025"
         },
         {
-          "url": "https://www.yearup.org/get-started",
-          "title": "Apply in the Student Portal | Year Up United"
+          "url": "https://mg.alhatorah.org/Full/Yirmeyahu/5/4",
+          "title": "MikraotGedolot - AlHaTorah.org"
+        },
+        {
+          "url": "http://agentschoiceonline.com/",
+          "title": "The Agent's Choice"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "software-development-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.webdesignerdepot.com/2021/10/11-must-follow-web-design-blogs/",
+          "title": "11 Must-Follow Web Design Blogs"
+        },
+        {
+          "url": "https://betterwebtype.com/",
+          "title": "Better Web Type - A Free Web Typography Course | Better Web Type"
+        },
+        {
+          "url": "https://omidfarhang.com/2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/",
+          "title": "Chrome 21 arrives with new API for video and audio communication | Omid Farhang"
+        },
+        {
+          "url": "https://www.devops-research.com/research.html#reports",
+          "title": "DORA | Get Better at Getting Better"
+        },
+        {
+          "url": "https://cli.github.com",
+          "title": "GitHub CLI | Take GitHub to the command line"
+        },
+        {
+          "url": "https://huemint.com/brand-intersection/",
+          "title": "Huemint - Color palette generator for brands, websites and graphics"
+        },
+        {
+          "url": "https://import-os.tumblr.com/",
+          "title": "import os;"
+        },
+        {
+          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html",
+          "title": "Text analysis | Elastic Docs"
         }
       ],
       "count": 8
@@ -88,8 +126,8 @@
           "title": "Artful Voyage"
         },
         {
-          "url": "https://cuddlywumps.blogspot.com/",
-          "title": "The Cuddlywumps Cat Chronicles"
+          "url": "https://www.lowimpact.org/categories/permaculture",
+          "title": "Category Intro - Lowimpact.org"
         },
         {
           "url": "https://eastwestplayers.org/",
@@ -104,8 +142,8 @@
           "title": "Jason Headley"
         },
         {
-          "url": "https://www.lowimpact.org/categories/permaculture",
-          "title": "Category Intro - Lowimpact.org"
+          "url": "https://cuddlywumps.blogspot.com/",
+          "title": "The Cuddlywumps Cat Chronicles"
         },
         {
           "url": "https://www.thekitesociety.org.uk/",
@@ -115,12 +153,8 @@
       "count": 7
     },
     {
-      "name": "corporate-business-operations",
+      "name": "business-corporate-operations",
       "bookmarks": [
-        {
-          "url": "https://www.dicapriomotors.it/home-page/divisione-garden/tagliasiepi/a-scoppio/tagliasiepi-valgarden-2t-jet-power-semi-pro-25-4-lama-60cm.1.1.22.gp.106376.uw",
-          "title": "Ti trovi nella categoria: A SCOPPIO (HOME PAGE - DIVISIONE GARDEN-TAGLIASIEPI)"
-        },
         {
           "url": "https://ecobatterybg.com/",
           "title": "Ecobattery | организация по оползотворяване на негодни за употреба батерии и акумулатори (НУБА)"
@@ -134,12 +168,16 @@
           "title": "Goldeneye Winery"
         },
         {
+          "url": "https://www.reklamnepredmetysketch.sk/sk/produkt/gulockove-pero-vivace-125999",
+          "title": "Guľôčkové pero Vivace - Reklamné predmety"
+        },
+        {
           "url": "http://www.olidata.it/",
           "title": "Home - Olidata"
         },
         {
-          "url": "https://www.reklamnepredmetysketch.sk/sk/produkt/gulockove-pero-vivace-125999",
-          "title": "Guľôčkové pero Vivace - Reklamné predmety"
+          "url": "https://www.dicapriomotors.it/home-page/divisione-garden/tagliasiepi/a-scoppio/tagliasiepi-valgarden-2t-jet-power-semi-pro-25-4-lama-60cm.1.1.22.gp.106376.uw",
+          "title": "Ti trovi nella categoria: A SCOPPIO (HOME PAGE - DIVISIONE GARDEN-TAGLIASIEPI)"
         }
       ],
       "count": 6
@@ -148,92 +186,54 @@
       "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://www.dicke-deutsche.de/2013/05/ganganalysen/",
-          "title": "Ganganalysen - Dicke Deutsche - Alles über Diäten, Kalorien und Ernährung"
-        },
-        {
-          "url": "https://www.iucn.org/news/marine-and-polar/202203/unea-resolution-end-plastic-pollution-and-iucn-role-implementation-treaty",
-          "title": "UNEA Resolution - 'End Plastic Pollution' - and IUCN role in implementation of the Treaty | IUCN"
-        },
-        {
-          "url": "https://www.newyorker.com/",
-          "title": "The New Yorker"
-        },
-        {
           "url": "https://www.nyclu.org/en/news/historic-police-accountability-case-turns-50",
           "title": "An Historic Police Accountability Case Turns 50 - NYCLU"
+        },
+        {
+          "url": "https://www.dicke-deutsche.de/2013/05/ganganalysen/",
+          "title": "Ganganalysen - Dicke Deutsche - Alles über Diäten, Kalorien und Ernährung"
         },
         {
           "url": "https://www.salon.com/2022/07/10/is-it-an-abortion-or-a-dandc-medically-speaking-the-steps-are-the-same/",
           "title": "Is it an abortion or a D&C? Medically speaking, \"the steps are the same\" - Salon.com"
         },
         {
+          "url": "https://www.newyorker.com/",
+          "title": "The New Yorker"
+        },
+        {
           "url": "https://www.thesportsnews.in/",
           "title": "The Sports News | Cricket News, Football News, Sports Business News, IPL, PKL, ISL, IPL 2024"
+        },
+        {
+          "url": "https://www.iucn.org/news/marine-and-polar/202203/unea-resolution-end-plastic-pollution-and-iucn-role-implementation-treaty",
+          "title": "UNEA Resolution - 'End Plastic Pollution' - and IUCN role in implementation of the Treaty | IUCN"
         }
       ],
       "count": 6
     },
     {
-      "name": "software-development-resources",
-      "bookmarks": [
-        {
-          "url": "https://betterwebtype.com/",
-          "title": "Better Web Type - A Free Web Typography Course | Better Web Type"
-        },
-        {
-          "url": "https://cli.github.com",
-          "title": "GitHub CLI | Take GitHub to the command line"
-        },
-        {
-          "url": "https://www.devops-research.com/research.html#reports",
-          "title": "DORA | Get Better at Getting Better"
-        },
-        {
-          "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis.html",
-          "title": "Text analysis | Elastic Docs"
-        },
-        {
-          "url": "https://huemint.com/brand-intersection/",
-          "title": "Huemint - Color palette generator for brands, websites and graphics"
-        },
-        {
-          "url": "https://import-os.tumblr.com/",
-          "title": "import os;"
-        },
-        {
-          "url": "https://omidfarhang.com/2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/",
-          "title": "Chrome 21 arrives with new API for video and audio communication | Omid Farhang"
-        },
-        {
-          "url": "https://www.webdesignerdepot.com/2021/10/11-must-follow-web-design-blogs/",
-          "title": "11 Must-Follow Web Design Blogs"
-        }
-      ],
-      "count": 8
-    },
-    {
-      "name": "tech-tools-and-platforms",
+      "name": "tech-tools-platforms",
       "bookmarks": [
         {
           "url": "http://www.calculator.org/",
           "title": "calculator.org - calculator.org"
         },
         {
-          "url": "https://iuu.xview.us/",
-          "title": "xView3 - IUU"
-        },
-        {
-          "url": "http://www.paltalk.com/",
-          "title": "Video Chat | Paltalk"
+          "url": "https://www.skype.com/en/",
+          "title": "Free Online Meetings & Video Calls | Microsoft Teams"
         },
         {
           "url": "https://powerpages.microsoft.com/",
           "title": "Power Pages - Generatore di siti Web | Microsoft Power Platform"
         },
         {
-          "url": "https://www.skype.com/en/",
-          "title": "Free Online Meetings & Video Calls | Microsoft Teams"
+          "url": "http://www.paltalk.com/",
+          "title": "Video Chat | Paltalk"
+        },
+        {
+          "url": "https://iuu.xview.us/",
+          "title": "xView3 - IUU"
         }
       ],
       "count": 5
@@ -246,16 +246,16 @@
           "title": "A Wild Infinity Appears! Or, Renormalization | 4 gravitons"
         },
         {
-          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
-          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
+          "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series",
+          "title": "Climate at a Glance | Global Time Series | National Centers for Environmental Information (NCEI)"
         },
         {
           "url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
           "title": "UK climate maps and data - Met Office"
         },
         {
-          "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series",
-          "title": "Climate at a Glance | Global Time Series | National Centers for Environmental Information (NCEI)"
+          "url": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/download-nrt-data/viirs-nrt",
+          "title": "VIIRS-Land Near Real-Time Data | NASA Earthdata"
         }
       ],
       "count": 4
@@ -263,6 +263,10 @@
     {
       "name": "government-public-sector",
       "bookmarks": [
+        {
+          "url": "https://www.stadt.bamberg.de/Schnellnavigation/Seiten%C3%BCbersicht/index.php?NavID=2730.542.1",
+          "title": "Baustellen-Info / Stadt Bamberg"
+        },
         {
           "url": "https://doee.dc.gov/ecycle",
           "title": "Electronics Recycling | doee"
@@ -274,16 +278,12 @@
         {
           "url": "https://www.portaldasfinancas.gov.pt/at/html/index.html",
           "title": "Portal das Finanças"
-        },
-        {
-          "url": "https://www.stadt.bamberg.de/Schnellnavigation/Seiten%C3%BCbersicht/index.php?NavID=2730.542.1",
-          "title": "Baustellen-Info / Stadt Bamberg"
         }
       ],
       "count": 4
     },
     {
-      "name": "legal-and-policy-documents",
+      "name": "legal-policy-documents",
       "bookmarks": [
         {
           "url": "https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule",
@@ -301,8 +301,12 @@
       "count": 3
     },
     {
-      "name": "music-and-visual-media",
+      "name": "music-visual-media",
       "bookmarks": [
+        {
+          "url": "https://video.kansascitypbs.org/shows/",
+          "title": "All Shows | Kansas City PBS"
+        },
         {
           "url": "https://us.napster.com",
           "title": "Napster: The Music Service for Music Fans"
@@ -310,28 +314,24 @@
         {
           "url": "https://tidal.com",
           "title": "TIDAL - High Fidelity Music Streaming"
-        },
-        {
-          "url": "https://video.kansascitypbs.org/shows/",
-          "title": "All Shows | Kansas City PBS"
         }
       ],
       "count": 3
     },
     {
-      "name": "recipes-and-food-culture",
+      "name": "recipes-food-culture",
       "bookmarks": [
         {
           "url": "https://www.bbcgoodfood.com/recipes/easy-chocolate-cake",
           "title": "Easy chocolate cake recipe | Good Food"
         },
         {
-          "url": "https://bk.asia-city.com/restaurants/news/bangkok-best-street-food",
-          "title": "How many of these essential Bangkok street eats have you tasted? - BK Magazine Online | The insider's guide to Bangkok"
-        },
-        {
           "url": "https://www.bonappetit.com/recipe/garlic-confit",
           "title": "Garlic Confit Recipe | Bon Appétit"
+        },
+        {
+          "url": "https://bk.asia-city.com/restaurants/news/bangkok-best-street-food",
+          "title": "How many of these essential Bangkok street eats have you tasted? - BK Magazine Online | The insider's guide to Bangkok"
         }
       ],
       "count": 3
@@ -340,23 +340,27 @@
       "name": "sports-news-statistics",
       "bookmarks": [
         {
-          "url": "https://dreampirates.us/world/streams-free-all-around-the-world-thank-for-miami-heat-vs-oklahoma-city-thunder-dec-th-live-sportingnews-nba-gamecenter-miamihea-22-02-2021",
-          "title": "streams free all around the world Thank for Miami Heat vs Oklahoma City Thunder Dec th Live sportingnews nba gamecenter miamihea"
+          "url": "https://www.transfermarkt.com/",
+          "title": "Football transfers, rumours, market values and news | Transfermarkt"
         },
         {
           "url": "https://olympics.com/en/athletes/jamie-anderson",
           "title": "Jamie ANDERSON"
         },
         {
-          "url": "https://www.transfermarkt.com/",
-          "title": "Football transfers, rumours, market values and news | Transfermarkt"
+          "url": "https://dreampirates.us/world/streams-free-all-around-the-world-thank-for-miami-heat-vs-oklahoma-city-thunder-dec-th-live-sportingnews-nba-gamecenter-miamihea-22-02-2021",
+          "title": "streams free all around the world Thank for Miami Heat vs Oklahoma City Thunder Dec th Live sportingnews nba gamecenter miamihea"
         }
       ],
       "count": 3
     },
     {
-      "name": "travel-and-tourism",
+      "name": "travel-tourism",
       "bookmarks": [
+        {
+          "url": "https://disneyparks.disney.go.com/blog/2023/01/celebrating-100-years-of-disney-and-the-wonder-of-mickey-and-minnie/?CMP=SOC-DPFY23Q1wo1229220045A",
+          "title": "Celebrating 100 Years of Disney and the Wonder of Mickey and Minnie - Disney Parks Blog"
+        },
         {
           "url": "https://www.bahn.de/angebot/regio",
           "title": "Regional reisen: Unsere beliebtesten Bahntickets & Verbund-Angebote"
@@ -364,13 +368,23 @@
         {
           "url": "https://www.balboaisland.com/video-of-balboa-peninsula-and-newport-harbor-in-the-1950s/",
           "title": "Video of Balboa Peninsula and Newport Harbor in the 1950s! - Balboa Island"
-        },
-        {
-          "url": "https://disneyparks.disney.go.com/blog/2023/01/celebrating-100-years-of-disney-and-the-wonder-of-mickey-and-minnie/?CMP=SOC-DPFY23Q1wo1229220045A",
-          "title": "Celebrating 100 Years of Disney and the Wonder of Mickey and Minnie - Disney Parks Blog"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "business-finance-insights",
+      "bookmarks": [
+        {
+          "url": "https://baroulmehedinti.ro/avocati/stancu-dimitrie-lucian",
+          "title": "Baroul Mehedinţi"
+        },
+        {
+          "url": "https://invest.bnpparibas/en/search/reports/documents/financial-reports?s%5Bsubthemes%5D%5B%5D=18",
+          "title": "Search & Documents | Financial reports | Investors & Shareholders | BNP Paribas Bank"
+        }
+      ],
+      "count": 2
     },
     {
       "name": "corporate-sustainability-initiatives",
@@ -382,20 +396,6 @@
         {
           "url": "https://www.walmartsustainabilityhub.com/project-gigaton/forests",
           "title": "Walmart Sustainability Hub"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "finance-and-business-insights",
-      "bookmarks": [
-        {
-          "url": "https://baroulmehedinti.ro/avocati/stancu-dimitrie-lucian",
-          "title": "Baroul Mehedinţi"
-        },
-        {
-          "url": "https://invest.bnpparibas/en/search/reports/documents/financial-reports?s%5Bsubthemes%5D%5B%5D=18",
-          "title": "Search & Documents | Financial reports | Investors & Shareholders | BNP Paribas Bank"
         }
       ],
       "count": 2

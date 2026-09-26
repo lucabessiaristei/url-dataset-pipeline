@@ -1,481 +1,35 @@
 {
   "folders": [
     {
-      "name": "government-agencies",
-      "bookmarks": [
-        {
-          "url": "https://www.bjs.gov",
-          "title": "Home | Bureau of Justice Statistics"
-        },
-        {
-          "url": "https://jobs.cdc.gov",
-          "title": "Careers Home | Careers at CDC | CDC"
-        },
-        {
-          "url": "https://www.nih.gov/news-events/news-releases",
-          "title": "News Releases | National Institutes of Health (NIH)"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "technology-platforms",
-      "bookmarks": [
-        {
-          "url": "https://powerplatform.microsoft.com",
-          "title": "Strumenti low-code basati sull'intelligenza artificiale | Microsoft Power Platform"
-        },
-        {
-          "url": "https://www.splunk.com",
-          "title": "Splunk | The Key to Enterprise Resilience"
-        },
-        {
-          "url": "https://aws.amazon.com/training/learn-about/serverless",
-          "title": "Serverless - Learn about | AWS Training"
-        },
-        {
-          "url": "https://signup.azure.com/studentverification?offerType=1",
-          "title": "Azure - Sign up"
-        },
-        {
-          "url": "https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=d66407ed-3967-b000-4cfb-2c318cad363d",
-          "title": "Services Hub"
-        },
-        {
-          "url": "https://www.icloud.com",
-          "title": "iCloud"
-        },
-        {
-          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers",
-          "title": "HTTP headers - HTTP | MDN"
-        },
-        {
-          "url": "https://videojs.com/html5-video-support",
-          "title": "HTML5 Video Support | Video.js"
-        },
-        {
-          "url": "https://atom.io",
-          "title": "Sunsetting Atom - The GitHub Blog"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "news-media",
-      "bookmarks": [
-        {
-          "url": "https://www.uncut.co.uk/news/arctic-monkeys-alex-turner-i-want-to-start-writing-follow-up-to-suck-it-and-see-31195",
-          "title": "Arctic Monkeys' Alex Turner: 'I want to start writing follow-up to 'Suck It And See'' - UNCUT"
-        },
-        {
-          "url": "https://www.houstonchronicle.com/lifestyle/home-design/article/Houston-Endowment-building-17487069.php",
-          "title": "Inside Houston Endowment's new building in Spotts Park"
-        },
-        {
-          "url": "https://www.energate-messenger.at/news/219257/klagen-gegen-erdgasleitung-opal-abgelehnt",
-          "title": "Klagen gegen Erdgasleitung Opal abgelehnt | energate messenger⁺"
-        },
-        {
-          "url": "https://ipsnews.be",
-          "title": "Home | Inter Press Service"
-        },
-        {
-          "url": "https://www.howardstern.com",
-          "title": "Howard Stern"
-        },
-        {
-          "url": "https://www.freeform.com",
-          "title": "Freeform - TV Shows, Full Episodes & Movies"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "nonprofit-organizations",
-      "bookmarks": [
-        {
-          "url": "https://royalfoundation.com",
-          "title": "Home Page - Royal Foundation"
-        },
-        {
-          "url": "https://peoplepower.org",
-          "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
-        },
-        {
-          "url": "https://www.donorschoose.org",
-          "title": "DonorsChoose: Support a classroom. Build a future."
-        },
-        {
-          "url": "https://secure.vera.org/a/donate",
-          "title": "Help end mass incarceration. DONATE NOW. - Vera Institute of Justice"
-        },
-        {
-          "url": "https://www.militarychild.org/gts",
-          "title": "MCEC Global Training Summit - Military Child Education Coalition® (MCEC®)"
-        },
-        {
-          "url": "https://drexel.edu/civicengagement",
-          "title": "Office of University and Community Partnerships"
-        },
-        {
-          "url": "https://www.clclt.org",
-          "title": "Homeownership | CLCLT | Minneapolis"
-        },
-        {
-          "url": "https://naacpstore.org",
-          "title": "NAACP Store"
-        },
-        {
-          "url": "https://usowishbook.uso.org/phone-calls-home",
-          "title": "USO Wishbook | USO.org"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "ecommerce-retail",
-      "bookmarks": [
-        {
-          "url": "https://www.aeropostale.com",
-          "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
-        },
-        {
-          "url": "https://www.luluandsky.com",
-          "title": "Online Fashion Shopping in India - Shop Online for Fashion Apparels, Clothing for Women"
-        },
-        {
-          "url": "https://monsterone.com",
-          "title": "MonsterONE - Download 548000+ Digital Products Unlimited"
-        },
-        {
-          "url": "https://www.gioiadellacasa.it",
-          "title": "Gioia della Casa - Casalinghi , Design e Benessere in casa - Casalinghi , design e benessere in casa"
-        },
-        {
-          "url": "https://sport.clover.com",
-          "title": "Clover Sport"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "creative-design",
-      "bookmarks": [
-        {
-          "url": "https://www.designgradients.com",
-          "title": "Design Gradients - designgradients.com"
-        },
-        {
-          "url": "https://graphicburger.com",
-          "title": "GraphicBurger"
-        },
-        {
-          "url": "https://weavesilk.com",
-          "title": "Silk - Interactive Generative Art"
-        },
-        {
-          "url": "https://www.thomfilicia.com",
-          "title": "Thom Filicia Inc."
-        },
-        {
-          "url": "https://www.amitmehra.com",
-          "title": "Amit Mehra"
-        },
-        {
-          "url": "https://www.wideeyecreative.com",
-          "title": "Wide Eye / a digital creative agency - web design & branding for mission-driven organizations and nonprofits"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "education-learning",
-      "bookmarks": [
-        {
-          "url": "https://www.khanacademy.org",
-          "title": "Khan Academy"
-        },
-        {
-          "url": "https://www.aulafacil.com/cursos/programacion/macromedia-dreamweaver/formatos-en-el-panel-de-propiedades-l200",
-          "title": "🥇▷【 Formatos en el Panel de Propiedades - Macromedia Dreamweaver 】"
-        },
-        {
-          "url": "https://www.scuoladeisapori.it",
-          "title": "Scuola dei Sapori"
-        },
-        {
-          "url": "https://www.ihuonline.unisinos.br/edicao/260",
-          "title": "Início"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "sports-recreation",
-      "bookmarks": [
-        {
-          "url": "https://www.nhl.com/scores",
-          "title": "NHL Scores | Oct 9, 2025 | NHL.com"
-        },
-        {
-          "url": "https://sportspages.in/blog",
-          "title": "Sports Blogs and Articles | News and Statistics"
-        },
-        {
-          "url": "https://www.sweepcricket.com",
-          "title": "Sweep Cricket - Latest Cricket News, Latest Cricket Blogs & Opinions and Latest Cricket Videos"
-        },
-        {
-          "url": "https://arizonapolevaultacademy.com/WeatherUpdate/tabid/596/ctl/Login/Default.aspx",
-          "title": "Arizona Pole Vault Academy > Home"
-        },
-        {
-          "url": "http://boardgamegeek.com/boardgame/369/5ive-straight",
-          "title": "5ive Straight | Board Game | BoardGameGeek"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "health-medicine",
-      "bookmarks": [
-        {
-          "url": "https://www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/about/pac-20384771",
-          "title": "Minimally invasive surgery - Mayo Clinic"
-        },
-        {
-          "url": "https://drdweck.com",
-          "title": "Dr. Alyssa Dweck, MS, MD, FACOG"
-        },
-        {
-          "url": "https://www.guttmacher.org/article/2022/02/medication-abortion-now-accounts-more-half-all-us-abortions",
-          "title": "Medication Abortion Now Accounts for More Than Half of All US Abortions | Guttmacher Institute"
-        },
-        {
-          "url": "https://www.transplantation-information.de/veroeffentlichungen/pressemeldungen/hirntoddiagnostik_tag_der_organspende_01_06_2005.html",
-          "title": "Tag der Organspende: Hirntoddiagnostik in der Kritik"
-        },
-        {
-          "url": "https://sesamestreetformilitaryfamilies.org/topic/grief",
-          "title": "Grief |Sesame Street: Explaining Death to Children"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "entertainment-media",
-      "bookmarks": [
-        {
-          "url": "https://www.youtubekids.com",
-          "title": "YouTube Kids"
-        },
-        {
-          "url": "https://m.cda.pl/video/359839661/vfilm",
-          "title": "HAUL ROSSMAN -49% (produkty do oczu) 2015"
-        },
-        {
-          "url": "https://sw.fanpop.com/clubs/michael-jackson/show/88",
-          "title": "fanpop - Sign In au Register"
-        },
-        {
-          "url": "https://www.yesnodetroit.com/2017/08/movie-review-dark-tower.html",
-          "title": "Movie Review: The Dark Tower"
-        },
-        {
-          "url": "https://www.reesesbookclub.com",
-          "title": "Home - Reese's Book Club"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "tech-ai-articles",
-      "bookmarks": [
-        {
-          "url": "https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968",
-          "title": "99% of AI Startups Will Be Dead by 2026 - Here's Why | by Srinivas Rao | Medium"
-        },
-        {
-          "url": "https://goodsalesemails.com",
-          "title": "Good Sales Emails"
-        },
-        {
-          "url": "https://nycdatascience.com/blog/author/akgillermangmail-com",
-          "title": "Adrian Gillerman | Data Science Blog"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "travel-tourism",
-      "bookmarks": [
-        {
-          "url": "https://www.zentravel.gr",
-          "title": "Home - ZenTravel"
-        },
-        {
-          "url": "https://withjoy.com",
-          "title": "Joy - Wedding Planning, Redesigned"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "environment-climate",
-      "bookmarks": [
-        {
-          "url": "https://www.ipcc.ch/report/ar6/wg3",
-          "title": "Climate Change 2022: Mitigation of Climate Change"
-        },
-        {
-          "url": "https://usa.oceana.org/blog/global-fishing-watch-put-test-monitoring-phoenix-islands-protected-area",
-          "title": "Global Fishing Watch Put to the Test: Monitoring the Phoenix Islands Protected Area - Oceana USA"
-        },
-        {
-          "url": "https://aqwatec.mines.edu",
-          "title": "Conoco Phillips Center for a Sustainable WE2ST - ConocoPhillips Center for a Sustainable WE2ST"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "legal-licensing",
-      "bookmarks": [
-        {
-          "url": "https://creativecommons.org/policies",
-          "title": "Policies - Creative Commons"
-        },
-        {
-          "url": "https://opendatacommons.org/licenses/odbl",
-          "title": "Open Data Commons Open Database License (ODbL) - Open Data Commons: legal tools for open data"
-        },
-        {
-          "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
-          "title": "Medium Terms of Service | by Medium | Medium Policy"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "local-government",
-      "bookmarks": [
-        {
-          "url": "https://www.hamburg.de/bsw/geodaten/6702454/digitaleorthophotos",
-          "title": "Digitale Orthophotos - hamburg.de"
-        },
-        {
-          "url": "https://spd-oststeinbek.de/kreisverkehr-an-der-moela",
-          "title": "Kreisverkehr an der MöLa - SPD Oststeinbek"
-        },
-        {
-          "url": "https://www.bergstadt-schneeberg.de/news/1/647837/nachrichten/sg-liegenschaften-nicht-erreichbar.html",
-          "title": "SG Liegenschaften nicht erreichbar - Stadt Schneeberg"
-        },
-        {
-          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city",
-          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "hobbies-diy",
-      "bookmarks": [
-        {
-          "url": "https://www.lookmumnocomputer.com/projects",
-          "title": "STUFF - LOOK MUM NO COMPUTER"
-        },
-        {
-          "url": "https://www.lamobilery.fr/accueil/attachment/demi-cercle-top",
-          "title": "demi-cercle-top | La Mobilery"
-        },
-        {
-          "url": "http://www.aimadventures.com",
-          "title": "Aim Adventures: Welcome . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "automotive",
-      "bookmarks": [
-        {
-          "url": "https://honda.oemdtc.com",
-          "title": "Honda & Acura - OEMDTC"
-        }
-      ],
-      "count": 1
-    },
-    {
       "name": "misc-uncategorized",
       "bookmarks": [
         {
-          "url": "https://www.gsetechnology.co.uk",
-          "title": "GSE SMART IPTV | Advanced IPTV solutions for IOS , ANDROID and mobile devices"
-        },
-        {
-          "url": "https://myaccount.chicagotribune.com/300/autopaymanage",
-          "title": "void"
+          "url": "https://keithdiaries.wordpress.com/2017/12/15/1203/1869-03-05/",
+          "title": "1869-03-05 - The Diaries of Charles Luke Keith Jr"
         },
         {
           "url": "https://reallywell.com/Flaxfood.com/order-east.htm",
           "title": "300 Multiple Choices"
         },
         {
-          "url": "https://hopsandcode.com",
-          "title": "Contact Support"
+          "url": "https://soyjugadodeboca.tumblr.com/",
+          "title": "@soyjugadodeboca on Tumblr"
         },
         {
-          "url": "https://capitalone.com/sign-in-help",
-          "title": "Capital One - Sign In Help"
-        },
-        {
-          "url": "https://hamiltonfamilies.sharepoint.com/sites/welcome-home",
-          "title": "Sign in to your account"
-        },
-        {
-          "url": "https://isr.uci.edu/biblio",
-          "title": "Index of /biblio"
-        },
-        {
-          "url": "https://walmart.privatehealthnews.com",
-          "title": "Walmart Wellness - My health e-news"
-        },
-        {
-          "url": "https://support.mooveagency.com/forum/gdpr-cookie-compliance",
-          "title": "GDPR Cookie Compliance - MooveAgency - Support Forum"
-        },
-        {
-          "url": "https://revodoc.valdoise.fr/resultat.php",
-          "title": "Résultats (oeuvres) - RéVOdoc"
-        },
-        {
-          "url": "https://www.cril.univ-artois.fr/PB07/results/trace.php",
-          "title": "PB'07 evaluation competition: execution trace"
-        },
-        {
-          "url": "https://www.impacto.pt/pt/imoveis/terrain-braganca-vinhais-vente_3868",
-          "title": "Imóveis - Impacto MR Mediadora Imobiliária"
-        },
-        {
-          "url": "https://amp.urlencoder.org/enc/opiates",
-          "title": "URL Encoding of \"opiates\" - Online"
-        },
-        {
-          "url": "https://glamfhs.org.uk/bridgend-events/eventsbyday/2021/10/16",
-          "title": "Bridgend Events"
-        },
-        {
-          "url": "https://jaipur.craigslist.org/d/garage-moving-sales/search/gms",
-          "title": "Jaipur garage & moving sales - craigslist"
-        },
-        {
-          "url": "https://mangakoibitochan.tumblr.com",
+          "url": "https://mangakoibitochan.tumblr.com/",
           "title": "ADHD Ahead!"
+        },
+        {
+          "url": "http://www.arcadebelgium.be/",
+          "title": "Arcade Belgium - News (en)"
         },
         {
           "url": "https://web.cvent.com/event/c3dd1954-99a4-4cf1-862c-12a5a65ba58a/summary",
           "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - Naples - September 25, 2022"
+        },
+        {
+          "url": "https://hopsandcode.com",
+          "title": "Contact Support"
         },
         {
           "url": "https://www.guinnessworldrecords.com/news/2023/2/dog-with-a-tongue-lengthier-than-a-popsicle-stick-confirmed-as-longest-736653",
@@ -486,57 +40,495 @@
           "title": "Flymaps - Privacy"
         },
         {
-          "url": "https://www.sidracortina.com/superproduccion-manzana",
-          "title": "Sidra Cortina | Cosecha de manzana 2017"
-        },
-        {
-          "url": "https://www.kpax.com/news/crime-and-courts/woman-charged-after-abandoned-dog-shot-and-killed-near-martin-city",
-          "title": "Woman cited after abandoned dog shot and killed near Martin City"
-        },
-        {
-          "url": "https://mainwaerts.de",
-          "title": "Mainwärts - 2011 Oktober"
-        },
-        {
-          "url": "http://www.rlyehindustry.com/apps/rpgscribepf/privacy",
-          "title": "Rlyeh Industry - RPG Scribe Pathfinder"
-        },
-        {
-          "url": "http://www.arcadebelgium.be",
-          "title": "Arcade Belgium - News (en)"
-        },
-        {
-          "url": "https://account.nationalgeographic.org",
-          "title": "NGS Account"
+          "url": "https://support.mooveagency.com/forum/gdpr-cookie-compliance/",
+          "title": "GDPR Cookie Compliance - MooveAgency - Support Forum"
         },
         {
           "url": "https://www.firmy-net.cz/gift-design",
           "title": "Gift Design | Firmy-net.cz"
         },
         {
-          "url": "https://keithdiaries.wordpress.com/2017/12/15/1203/1869-03-05",
-          "title": "1869-03-05 - The Diaries of Charles Luke Keith Jr"
+          "url": "http://www.gsetechnology.co.uk",
+          "title": "GSE SMART IPTV | Advanced IPTV solutions for IOS , ANDROID and mobile devices"
         },
         {
-          "url": "https://kotilabdulkadir.notion.site/No-code-development-workflow-automation-platform-Appy-Pie-32f2da6aa93243c3a774e8a37e06ff71",
+          "url": "https://www.impacto.pt/pt/imoveis/terrain-braganca-vinhais-vente_3868/",
+          "title": "Imóveis - Impacto MR Mediadora Imobiliária"
+        },
+        {
+          "url": "https://isr.uci.edu/biblio?page=4&amp%3Bamp%3Bf%5Bauthor%5D=1400&amp%3Bamp%3Bs=title&amp%3Bamp%3Bo=asc&amp%3Bf%5Bauthor%5D=1775&f%5Bauthor%5D=30&s=author&o=asc",
+          "title": "Index of /biblio"
+        },
+        {
+          "url": "https://jaipur.craigslist.org/d/garage-moving-sales/search/gms?hints=static&sort=upcoming&lang=en&cc=gb&sale_date=2021-12-09",
+          "title": "Jaipur garage & moving sales - craigslist"
+        },
+        {
+          "url": "https://mainwaerts.de/?m=201110",
+          "title": "Mainwärts - 2011 Oktober"
+        },
+        {
+          "url": "https://account.nationalgeographic.org/",
+          "title": "NGS Account"
+        },
+        {
+          "url": "https://kotilabdulkadir.notion.site/No-code-development-workflow-automation-platform-Appy-Pie-32f2da6aa93243c3a774e8a37e06ff71?pvs=25",
           "title": "Notion"
+        },
+        {
+          "url": "https://nvd.nist.gov/vuln/search/results?form_type=Advanced&results_type=overview&isCpeNameSearch=true&seach_type=all&query=cpe:2.3:a:python:urllib3:1.16:*:*:*:*:*:*:*",
+          "title": "NVD - Search and Statistics"
+        },
+        {
+          "url": "https://www.cril.univ-artois.fr/PB07/results/trace.php?idev=9&idjob=352831",
+          "title": "PB'07 evaluation competition: execution trace"
+        },
+        {
+          "url": "http://www.rlyehindustry.com/apps/rpgscribepf/privacy/#privacy",
+          "title": "Rlyeh Industry - RPG Scribe Pathfinder"
+        },
+        {
+          "url": "https://revodoc.valdoise.fr/resultat.php?q=1&spec_expand=1&sort_define=tri_annee&sort_order=1&rows=10&fq=frbr%3A%281%29+AND+sujets_ac%3A%28%22Cordes%2C+vents%22%29+AND+statut%3A%28%22pr%C3%AAtable%22%29+AND+nombib_frbr%3A%28%22Val+de+France+%3A+Arnouville%2C+Garges-l%C3%A8s-Gonesse%2C+Sarcelles%2C+Villiers-le-Bel%22%29+AND+auteurs_ac%3A%28%22Valek%2C+Vladimir%22%29+AND+sujets_ac%3A%28%22Cordes%22%29+AND+auteurs_ac%3A%28%22Csaba%2C+Peter%22%29+AND+editeurs_tous_frbr%3A%28%22AMC+Paris%22%29",
+          "title": "Résultats (oeuvres) - RéVOdoc"
+        },
+        {
+          "url": "https://www.sidracortina.com/superproduccion-manzana/",
+          "title": "Sidra Cortina | Cosecha de manzana 2017"
+        },
+        {
+          "url": "https://hamiltonfamilies.sharepoint.com/sites/welcome-home",
+          "title": "Sign in to your account"
         },
         {
           "url": "http://wp.me/p31W1G-24z",
           "title": "The $1 Trillion Economic Impact of Software | BSA TechPost"
         },
         {
-          "url": "https://soyjugadodeboca.tumblr.com",
-          "title": "@soyjugadodeboca on Tumblr"
+          "url": "https://amp.urlencoder.org/enc/opiates/",
+          "title": "URL Encoding of \"opiates\" - Online"
         },
         {
-          "url": "https://nvd.nist.gov/vuln/search/results",
-          "title": "NVD - Search and Statistics"
+          "url": "https://myaccount.chicagotribune.com/300/autopaymanage#nt=secondarynavbar",
+          "title": "void"
+        },
+        {
+          "url": "https://walmart.privatehealthnews.com/",
+          "title": "Walmart Wellness - My health e-news"
+        },
+        {
+          "url": "https://www.kpax.com/news/crime-and-courts/woman-charged-after-abandoned-dog-shot-and-killed-near-martin-city",
+          "title": "Woman cited after abandoned dog shot and killed near Martin City"
         }
       ],
-      "count": 30
+      "count": 29
+    },
+    {
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://www.donorschoose.org/",
+          "title": "DonorsChoose: Support a classroom. Build a future."
+        },
+        {
+          "url": "https://secure.vera.org/a/donate",
+          "title": "Help end mass incarceration. DONATE NOW. - Vera Institute of Justice"
+        },
+        {
+          "url": "https://royalfoundation.com/",
+          "title": "Home Page - Royal Foundation"
+        },
+        {
+          "url": "https://www.clclt.org/",
+          "title": "Homeownership | CLCLT | Minneapolis"
+        },
+        {
+          "url": "https://www.militarychild.org/gts",
+          "title": "MCEC Global Training Summit - Military Child Education Coalition® (MCEC®)"
+        },
+        {
+          "url": "https://naacpstore.org/",
+          "title": "NAACP Store"
+        },
+        {
+          "url": "https://drexel.edu/civicengagement/",
+          "title": "Office of University and Community Partnerships"
+        },
+        {
+          "url": "https://peoplepower.org",
+          "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
+        },
+        {
+          "url": "https://usowishbook.uso.org/phone-calls-home",
+          "title": "USO Wishbook | USO.org"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "technology-platforms",
+      "bookmarks": [
+        {
+          "url": "https://signup.azure.com/studentverification?offerType=1",
+          "title": "Azure - Sign up"
+        },
+        {
+          "url": "https://videojs.com/html5-video-support/",
+          "title": "HTML5 Video Support | Video.js"
+        },
+        {
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers",
+          "title": "HTTP headers - HTTP | MDN"
+        },
+        {
+          "url": "https://www.icloud.com",
+          "title": "iCloud"
+        },
+        {
+          "url": "https://aws.amazon.com/training/learn-about/serverless/",
+          "title": "Serverless - Learn about | AWS Training"
+        },
+        {
+          "url": "https://support.serviceshub.microsoft.com/supportforbusiness/create?sapId=d66407ed-3967-b000-4cfb-2c318cad363d",
+          "title": "Services Hub"
+        },
+        {
+          "url": "https://www.splunk.com/",
+          "title": "Splunk | The Key to Enterprise Resilience"
+        },
+        {
+          "url": "https://powerplatform.microsoft.com/",
+          "title": "Strumenti low-code basati sull'intelligenza artificiale | Microsoft Power Platform"
+        },
+        {
+          "url": "https://atom.io",
+          "title": "Sunsetting Atom - The GitHub Blog"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "design-creative",
+      "bookmarks": [
+        {
+          "url": "https://www.amitmehra.com",
+          "title": "Amit Mehra"
+        },
+        {
+          "url": "https://www.designgradients.com/",
+          "title": "Design Gradients - designgradients.com"
+        },
+        {
+          "url": "https://graphicburger.com/",
+          "title": "GraphicBurger"
+        },
+        {
+          "url": "http://weavesilk.com",
+          "title": "Silk - Interactive Generative Art"
+        },
+        {
+          "url": "https://www.thomfilicia.com/",
+          "title": "Thom Filicia Inc."
+        },
+        {
+          "url": "http://www.wideeyecreative.com",
+          "title": "Wide Eye / a digital creative agency - web design & branding for mission-driven organizations and nonprofits"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.uncut.co.uk/news/arctic-monkeys-alex-turner-i-want-to-start-writing-follow-up-to-suck-it-and-see-31195/",
+          "title": "Arctic Monkeys' Alex Turner: 'I want to start writing follow-up to 'Suck It And See'' - UNCUT"
+        },
+        {
+          "url": "https://www.freeform.com",
+          "title": "Freeform - TV Shows, Full Episodes & Movies"
+        },
+        {
+          "url": "https://ipsnews.be",
+          "title": "Home | Inter Press Service"
+        },
+        {
+          "url": "https://www.howardstern.com/",
+          "title": "Howard Stern"
+        },
+        {
+          "url": "https://www.houstonchronicle.com/lifestyle/home-design/article/Houston-Endowment-building-17487069.php#photo-22989000",
+          "title": "Inside Houston Endowment's new building in Spotts Park"
+        },
+        {
+          "url": "https://www.energate-messenger.at/news/219257/klagen-gegen-erdgasleitung-opal-abgelehnt",
+          "title": "Klagen gegen Erdgasleitung Opal abgelehnt | energate messenger⁺"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "ecommerce-retail",
+      "bookmarks": [
+        {
+          "url": "https://sport.clover.com/?utm_placement=caratnav",
+          "title": "Clover Sport"
+        },
+        {
+          "url": "http://www.gioiadellacasa.it/",
+          "title": "Gioia della Casa - Casalinghi , Design e Benessere in casa - Casalinghi , design e benessere in casa"
+        },
+        {
+          "url": "http://www.aeropostale.com/",
+          "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
+        },
+        {
+          "url": "https://monsterone.com/",
+          "title": "MonsterONE - Download 548000+ Digital Products Unlimited"
+        },
+        {
+          "url": "https://www.luluandsky.com/",
+          "title": "Online Fashion Shopping in India - Shop Online for Fashion Apparels, Clothing for Women"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://sw.fanpop.com/clubs/michael-jackson/show/88?sort_method=rating",
+          "title": "fanpop - Sign In au Register"
+        },
+        {
+          "url": "https://m.cda.pl/video/359839661/vfilm",
+          "title": "HAUL ROSSMAN -49% (produkty do oczu) 2015"
+        },
+        {
+          "url": "https://reesesbookclub.com/",
+          "title": "Home - Reese's Book Club"
+        },
+        {
+          "url": "https://www.yesnodetroit.com/2017/08/movie-review-dark-tower.html",
+          "title": "Movie Review: The Dark Tower"
+        },
+        {
+          "url": "https://www.youtubekids.com/",
+          "title": "YouTube Kids"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "health-medicine",
+      "bookmarks": [
+        {
+          "url": "https://drdweck.com/",
+          "title": "Dr. Alyssa Dweck, MS, MD, FACOG"
+        },
+        {
+          "url": "https://sesamestreetformilitaryfamilies.org/topic/grief/?ytid=XI4-8ZQ1PRE",
+          "title": "Grief |Sesame Street: Explaining Death to Children"
+        },
+        {
+          "url": "https://www.guttmacher.org/article/2022/02/medication-abortion-now-accounts-more-half-all-us-abortions",
+          "title": "Medication Abortion Now Accounts for More Than Half of All US Abortions | Guttmacher Institute"
+        },
+        {
+          "url": "https://www.mayoclinic.org/tests-procedures/minimally-invasive-surgery/about/pac-20384771",
+          "title": "Minimally invasive surgery - Mayo Clinic"
+        },
+        {
+          "url": "https://www.transplantation-information.de/veroeffentlichungen/pressemeldungen/hirntoddiagnostik_tag_der_organspende_01_06_2005.html",
+          "title": "Tag der Organspende: Hirntoddiagnostik in der Kritik"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "sports-recreation",
+      "bookmarks": [
+        {
+          "url": "http://boardgamegeek.com/boardgame/369/5ive-straight",
+          "title": "5ive Straight | Board Game | BoardGameGeek"
+        },
+        {
+          "url": "http://arizonapolevaultacademy.com/WeatherUpdate/tabid/596/ctl/Login/Default.aspx?returnurl=%2FWeatherUpdate%2Ftabid%2F596%2Fctl%2FLogin%2FDefault.aspx",
+          "title": "Arizona Pole Vault Academy > Home"
+        },
+        {
+          "url": "https://www.nhl.com/scores",
+          "title": "NHL Scores | Oct 9, 2025 | NHL.com"
+        },
+        {
+          "url": "https://sportspages.in/blog/",
+          "title": "Sports Blogs and Articles | News and Statistics"
+        },
+        {
+          "url": "https://www.sweepcricket.com/",
+          "title": "Sweep Cricket - Latest Cricket News, Latest Cricket Blogs & Opinions and Latest Cricket Videos"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "education-learning",
+      "bookmarks": [
+        {
+          "url": "https://www.ihuonline.unisinos.br/edicao/260",
+          "title": "Início"
+        },
+        {
+          "url": "https://www.khanacademy.org/",
+          "title": "Khan Academy"
+        },
+        {
+          "url": "http://www.scuoladeisapori.it/",
+          "title": "Scuola dei Sapori"
+        },
+        {
+          "url": "https://www.aulafacil.com/cursos/programacion/macromedia-dreamweaver/formatos-en-el-panel-de-propiedades-l200",
+          "title": "🥇▷【 Formatos en el Panel de Propiedades - Macromedia Dreamweaver 】"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "government-local",
+      "bookmarks": [
+        {
+          "url": "https://www.hamburg.de/bsw/geodaten/6702454/digitaleorthophotos/",
+          "title": "Digitale Orthophotos - hamburg.de"
+        },
+        {
+          "url": "http://spd-oststeinbek.de/kreisverkehr-an-der-moela/",
+          "title": "Kreisverkehr an der MöLa - SPD Oststeinbek"
+        },
+        {
+          "url": "https://www.bergstadt-schneeberg.de/news/1/647837/nachrichten/sg-liegenschaften-nicht-erreichbar.html",
+          "title": "SG Liegenschaften nicht erreichbar - Stadt Schneeberg"
+        },
+        {
+          "url": "http://revbirmingham.org/news/what-the-value-of-downtown-report-has-taught-us-about-the-magic-city/",
+          "title": "What the Value of Downtown report has taught us about the Magic City - REV Birmingham | REV Birmingham"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "environment-climate",
+      "bookmarks": [
+        {
+          "url": "https://www.ipcc.ch/report/ar6/wg3/",
+          "title": "Climate Change 2022: Mitigation of Climate Change"
+        },
+        {
+          "url": "http://aqwatec.mines.edu/",
+          "title": "Conoco Phillips Center for a Sustainable WE2ST - ConocoPhillips Center for a Sustainable WE2ST"
+        },
+        {
+          "url": "https://usa.oceana.org/blog/global-fishing-watch-put-test-monitoring-phoenix-islands-protected-area",
+          "title": "Global Fishing Watch Put to the Test: Monitoring the Phoenix Islands Protected Area - Oceana USA"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "government-agencies",
+      "bookmarks": [
+        {
+          "url": "https://jobs.cdc.gov",
+          "title": "Careers Home | Careers at CDC | CDC"
+        },
+        {
+          "url": "https://www.bjs.gov",
+          "title": "Home | Bureau of Justice Statistics"
+        },
+        {
+          "url": "https://www.nih.gov/news-events/news-releases",
+          "title": "News Releases | National Institutes of Health (NIH)"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "hobbies-diy",
+      "bookmarks": [
+        {
+          "url": "http://www.aimadventures.com/",
+          "title": "Aim Adventures: Welcome . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+        },
+        {
+          "url": "https://www.lamobilery.fr/accueil/attachment/demi-cercle-top",
+          "title": "demi-cercle-top | La Mobilery"
+        },
+        {
+          "url": "https://www.lookmumnocomputer.com/projects",
+          "title": "STUFF - LOOK MUM NO COMPUTER"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "legal-licensing",
+      "bookmarks": [
+        {
+          "url": "https://policy.medium.com/medium-terms-of-service-9db0094a1e0f",
+          "title": "Medium Terms of Service | by Medium | Medium Policy"
+        },
+        {
+          "url": "https://opendatacommons.org/licenses/odbl/",
+          "title": "Open Data Commons Open Database License (ODbL) - Open Data Commons: legal tools for open data"
+        },
+        {
+          "url": "https://creativecommons.org/policies#license",
+          "title": "Policies - Creative Commons"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "tech-ai-articles",
+      "bookmarks": [
+        {
+          "url": "https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968",
+          "title": "99% of AI Startups Will Be Dead by 2026 - Here's Why | by Srinivas Rao | Medium"
+        },
+        {
+          "url": "https://nycdatascience.com/blog/author/akgillermangmail-com/",
+          "title": "Adrian Gillerman | Data Science Blog"
+        },
+        {
+          "url": "https://goodsalesemails.com/",
+          "title": "Good Sales Emails"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel-tourism",
+      "bookmarks": [
+        {
+          "url": "http://www.zentravel.gr/",
+          "title": "Home - ZenTravel"
+        },
+        {
+          "url": "https://withjoy.com",
+          "title": "Joy - Wedding Planning, Redesigned"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "automotive",
+      "bookmarks": [
+        {
+          "url": "https://honda.oemdtc.com",
+          "title": "Honda & Acura - OEMDTC"
+        }
+      ],
+      "count": 1
     }
   ],
-  "total_bookmarks": 108,
+  "total_bookmarks": 105,
   "num_folders": 18
 }

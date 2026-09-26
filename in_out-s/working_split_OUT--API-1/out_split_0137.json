@@ -55,12 +55,8 @@
       "count": 12
     },
     {
-      "name": "organizations-social-impact",
+      "name": "social-impact-organizations",
       "bookmarks": [
-        {
-          "url": "https://www.aauw.org/",
-          "title": "Home - AAUW : Empowering Women Since 1881"
-        },
         {
           "url": "https://www.yearup.org/get-started",
           "title": "Apply in the Student Portal | Year Up United"
@@ -80,6 +76,10 @@
         {
           "url": "https://guidestarindia.org.in/Summary.aspx?CCReg=302",
           "title": "GuideStarIndia"
+        },
+        {
+          "url": "https://www.aauw.org/",
+          "title": "Home - AAUW : Empowering Women Since 1881"
         },
         {
           "url": "http://www.infocamere.it/",
@@ -143,7 +143,7 @@
       "count": 8
     },
     {
-      "name": "software-tools-utility",
+      "name": "software-tools-utilities",
       "bookmarks": [
         {
           "url": "https://playstation.com/help",
@@ -233,7 +233,7 @@
       "count": 4
     },
     {
-      "name": "tech-programming-guides",
+      "name": "programming-tech-guides",
       "bookmarks": [
         {
           "url": "https://www.tensorflow.org/tutorials/keras/classification",

@@ -1,32 +1,8 @@
 {
   "folders": [
     {
-      "name": "tech-developer-resources",
+      "name": "developer-tech-resources",
       "bookmarks": [
-        {
-          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
-          "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
-        },
-        {
-          "url": "https://learn.wordpress.org/",
-          "title": "Learn WordPress - There's always more to learn | Learn WordPress"
-        },
-        {
-          "url": "https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html",
-          "title": "MySQL :: MySQL 8.0 Reference Manual :: 10.3 Optimization and Indexes"
-        },
-        {
-          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
-          "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
-        },
-        {
-          "url": "https://reverseimagesear.ch/",
-          "title": "Reverse Image Search: Find similar images on Internet"
-        },
-        {
-          "url": "https://xchaoticrage.tumblr.com/post/90177493115",
-          "title": "💗VII-XVIII-MCMXCIII 💗 | Too Much STEM, Not Enough Computer Science?"
-        },
         {
           "url": "https://www.mapbox.com/about/maps/",
           "title": "About Mapbox Technology"
@@ -48,8 +24,32 @@
           "title": "GPU-optimized AI, Machine Learning, & HPC Software | NVIDIA NGC"
         },
         {
+          "url": "https://learn.wordpress.org/",
+          "title": "Learn WordPress - There's always more to learn | Learn WordPress"
+        },
+        {
+          "url": "http://adsabs.harvard.edu/cgi-bin/nph-data_query?link_type=ABSTRACT&bibcode=2020RemS...12.2997Z",
+          "title": "LS-SSDD-v1.0: A Deep Learning Dataset Dedicated to Small Ship Detection from Large-Scale Sentinel-1 SAR Images - ADS"
+        },
+        {
+          "url": "https://dev.mysql.com/doc/refman/8.0/en/optimization-indexes.html",
+          "title": "MySQL :: MySQL 8.0 Reference Manual :: 10.3 Optimization and Indexes"
+        },
+        {
+          "url": "https://www.postgresql.org/docs/current/ddl-partitioning.html",
+          "title": "PostgreSQL: Documentation: 18: 5.12. Table Partitioning"
+        },
+        {
+          "url": "https://reverseimagesear.ch/",
+          "title": "Reverse Image Search: Find similar images on Internet"
+        },
+        {
           "url": "https://aws.amazon.com/what-is-cloud-computing",
           "title": "What is Cloud Computing? - Cloud Computing Services, Benefits, and Types - AWS"
+        },
+        {
+          "url": "https://xchaoticrage.tumblr.com/post/90177493115",
+          "title": "💗VII-XVIII-MCMXCIII 💗 | Too Much STEM, Not Enough Computer Science?"
         }
       ],
       "count": 12
@@ -62,12 +62,12 @@
           "title": "Author: Patricia Johann"
         },
         {
-          "url": "https://www.e-romania.org/tag/estudis-romanics/",
-          "title": "Estudis Romànics - E-Romania. Romanística en España"
-        },
-        {
           "url": "https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/facts/",
           "title": "Esther Duflo - Facts - 2019 - NobelPrize.org"
+        },
+        {
+          "url": "https://www.e-romania.org/tag/estudis-romanics/",
+          "title": "Estudis Romànics - E-Romania. Romanística en España"
         },
         {
           "url": "https://riuma.uma.es/xmlui/handle/10630/13422/browse?rpp=20&etal=-1&sort_by=-1&type=centro&starts_with=S&order=ASC",
@@ -172,6 +172,10 @@
           "title": "Apple Card Application"
         },
         {
+          "url": "https://keybase.io/automonkey",
+          "title": "automonkey (Will Benyon) | Keybase"
+        },
+        {
           "url": "https://discoveryplus.com",
           "title": "discovery+ | Stream Real-Life TV Episodes"
         },
@@ -190,16 +194,12 @@
         {
           "url": "http://custhelp2.walgreens.com/",
           "title": "Photo Help"
-        },
-        {
-          "url": "https://keybase.io/automonkey",
-          "title": "automonkey (Will Benyon) | Keybase"
         }
       ],
       "count": 7
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://directories.onepercentfortheplanet.org/nonprofit-partners/marine-conservation-institute",
@@ -257,32 +257,6 @@
         }
       ],
       "count": 6
-    },
-    {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://darkhouroftokyo.tumblr.com/",
-          "title": "@darkhouroftokyo on Tumblr"
-        },
-        {
-          "url": "https://mestizos.cl/tag/medio-de-transporte/",
-          "title": "#medio de transporte - Mestizos Magazine"
-        },
-        {
-          "url": "http://www.trovaricette.net/",
-          "title": "Dernières actus - Tous ce qu'il faut savoir est ici"
-        },
-        {
-          "url": "https://whomstplantdaddy.tumblr.com/",
-          "title": "Oh hai :3"
-        },
-        {
-          "url": "https://rxhaellsk.tumblr.com/",
-          "title": "💀"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "business-professional",
@@ -363,6 +337,32 @@
       "count": 5
     },
     {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://mestizos.cl/tag/medio-de-transporte/",
+          "title": "#medio de transporte - Mestizos Magazine"
+        },
+        {
+          "url": "https://darkhouroftokyo.tumblr.com/",
+          "title": "@darkhouroftokyo on Tumblr"
+        },
+        {
+          "url": "http://www.trovaricette.net/",
+          "title": "Dernières actus - Tous ce qu'il faut savoir est ici"
+        },
+        {
+          "url": "https://whomstplantdaddy.tumblr.com/",
+          "title": "Oh hai :3"
+        },
+        {
+          "url": "https://rxhaellsk.tumblr.com/",
+          "title": "💀"
+        }
+      ],
+      "count": 5
+    },
+    {
       "name": "reference-legal",
       "bookmarks": [
         {
@@ -429,7 +429,7 @@
       "count": 3
     },
     {
-      "name": "government-and-policy",
+      "name": "government-policy",
       "bookmarks": [
         {
           "url": "https://international.gc.ca/world-monde/index.aspx?lang=eng",
@@ -450,16 +450,16 @@
       "name": "misc-uncategorized",
       "bookmarks": [
         {
+          "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
+          "title": "void"
+        },
+        {
           "url": "http://siemplifycommunity.slack.com/",
           "title": "Workspace Suspended | Slack"
         },
         {
           "url": "http://worldreview.com/",
           "title": "worldreview.com"
-        },
-        {
-          "url": "https://thevillagedoctors.co.uk/surveyreport.aspx?p=C81050",
-          "title": "void"
         }
       ],
       "count": 3

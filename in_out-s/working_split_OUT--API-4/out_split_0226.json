@@ -1,15 +1,19 @@
 {
   "folders": [
     {
-      "name": "article-reads",
+      "name": "articles-reads",
       "bookmarks": [
+        {
+          "url": "http://www.robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device/",
+          "title": "\"Bell aims to steal iPhone thunder with limitless data on rival device\""
+        },
+        {
+          "url": "https://www.stltoday.com/news/local/crime-and-courts/i-can-still-hear-the-roaring-of-the-engine-says-father-of-teen-maimed-in/article_d981ca12-4e76-5351-8ade-bf0ca0e08214.html",
+          "title": "'I can still hear the roaring of the engine,' says father of teen maimed in downtown St. Louis"
+        },
         {
           "url": "https://skooloflife.medium.com/99-of-ai-startups-will-be-dead-by-2026-heres-why-bfc974edd968",
           "title": "99% of AI Startups Will Be Dead by 2026 - Here's Why | by Srinivas Rao | Medium"
-        },
-        {
-          "url": "https://www.robhyndman.com/2007/11/20/bell-aims-to-steal-iphone-thunder-with-limitless-data-on-rival-device/",
-          "title": "\"Bell aims to steal iPhone thunder with limitless data on rival device\""
         },
         {
           "url": "https://alternativemagazineonline.co.uk/tag/eric-bana/",
@@ -20,20 +24,12 @@
           "title": "Estudante com vitiligo universal é acusado de fraudar sistema de cotas e pode perder bolsa"
         },
         {
-          "url": "https://www.scottmdouglas.com/blog/five-pieces-of-advice-for-the-class-of-2017",
+          "url": "http://www.scottmdouglas.com/blog/five-pieces-of-advice-for-the-class-of-2017",
           "title": "Five Pieces of Advice for the Class of 2017 - Developing Leaders & Building a Legacy"
         },
         {
           "url": "https://www.everything-about-concrete.com/how-to-minimize-having-a-slippery-driveway-in-the-winter.html",
           "title": "How to minimize having a slippery driveway in the winter"
-        },
-        {
-          "url": "https://www.stltoday.com/news/local/crime-and-courts/i-can-still-hear-the-roaring-of-the-engine-says-father-of-teen-maimed-in/article_d981ca12-4e76-5351-8ade-bf0ca0e08214.html",
-          "title": "I can still hear the roaring of the engine,' says father of teen maimed in downtown St. Louis"
-        },
-        {
-          "url": "https://www.kunecoco.de/2012/09/review-schone-sauerei-ein-schweinekrimi.html",
-          "title": "Review // Schöne Sauerei - Ein Schweinekrimi - KuneCoco"
         },
         {
           "url": "https://www.instyle.com/madelyn-cline-outer-banks-season-3-interview-7112295",
@@ -52,6 +48,10 @@
           "title": "Proposal Could Help Cities Recover from Pandemic's Impact - InsideSources"
         },
         {
+          "url": "https://www.kunecoco.de/2012/09/review-schone-sauerei-ein-schweinekrimi.html",
+          "title": "Review // Schöne Sauerei - Ein Schweinekrimi - KuneCoco"
+        },
+        {
           "url": "https://www.thesun.co.uk/tvandshowbiz/14411010/rhonys-bethenny-frankel-engagement-rumors-diamond-ring-paul-bernon/",
           "title": "RHONY's Bethenny Frankel is ENGAGED to boyfriend Paul Bernon as she shows off massive diamond ring on beach getaway | The Sun"
         },
@@ -60,7 +60,7 @@
           "title": "Study reveals influence of krill availability on humpback whale pregnancies - News"
         },
         {
-          "url": "https://www.johntemple.net/2010/04/more-on-peer-news-and-comments.html?showComment=1495091954258",
+          "url": "http://www.johntemple.net/2010/04/more-on-peer-news-and-comments.html?showComment=1495091954258",
           "title": "TEMPLE TALK: More on Peer News and comments: An interview with Jay Rosen"
         },
         {
@@ -71,12 +71,8 @@
       "count": 16
     },
     {
-      "name": "nonprofit-org",
+      "name": "org-nonprofit",
       "bookmarks": [
-        {
-          "url": "https://www.arborday.org/programs/tree-campus-healthcare/",
-          "title": "Tree Campus Healthcare | Arbor Day Foundation"
-        },
         {
           "url": "https://eastwestplayers.org/",
           "title": "East West Players"
@@ -106,7 +102,7 @@
           "title": "Model Cities | Communities thrive when people thrive"
         },
         {
-          "url": "https://www.iiep.unesco.org/",
+          "url": "http://www.iiep.unesco.org/",
           "title": "Planning education,building the future | International Institute for Educational Planning"
         },
         {
@@ -118,7 +114,11 @@
           "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
         },
         {
-          "url": "https://www.un-redd.org/",
+          "url": "https://www.arborday.org/programs/tree-campus-healthcare/",
+          "title": "Tree Campus Healthcare | Arbor Day Foundation"
+        },
+        {
+          "url": "http://www.un-redd.org/",
           "title": "UNREDD Programme"
         },
         {
@@ -129,15 +129,15 @@
       "count": 13
     },
     {
-      "name": "shopping-product",
+      "name": "shopping-products",
       "bookmarks": [
-        {
-          "url": "https://www.easybistro.com/",
-          "title": "Classic Bistro & Seafood Restaurants In Chattanooga - Easy Bistro"
-        },
         {
           "url": "https://crosstownfitness.com/",
           "title": "Chicago Gym | Chicago HIIT Group Fitness | Chicago Personal Training"
+        },
+        {
+          "url": "http://www.easybistro.com/",
+          "title": "Classic Bistro & Seafood Restaurants In Chattanooga - Easy Bistro"
         },
         {
           "url": "https://www.foxinthesnow.com/",
@@ -156,12 +156,12 @@
           "title": "Las Vegas Area Homes For Sale - Las Vegas Area Real Estate"
         },
         {
-          "url": "https://www.dillards.com/p/samsonite-x-sjp-just-right-collection-standard-backpack/514260801",
-          "title": "Samsonite X Sjp Just Right Collection Standard Backpack | Dillard's"
-        },
-        {
           "url": "https://salondesarcanes.fr/",
           "title": "Salon des Arcanes | Boutique de tarots et oracles indépendants"
+        },
+        {
+          "url": "https://www.dillards.com/p/samsonite-x-sjp-just-right-collection-standard-backpack/514260801",
+          "title": "Samsonite X Sjp Just Right Collection Standard Backpack | Dillard's"
         },
         {
           "url": "https://www.leevalley.com/en-ca/discover/sharpening",
@@ -187,43 +187,43 @@
       "count": 13
     },
     {
-      "name": "tech-company-service",
+      "name": "tech-companies-services",
       "bookmarks": [
         {
           "url": "https://getaawp.com/?ref=624",
           "title": "AAWP | The Amazon Affiliate WordPress Plugin"
         },
         {
-          "url": "https://www.accenture.cn/cn-zh",
-          "title": "应变于新 启运未来 | 埃森哲"
-        },
-        {
           "url": "https://www.apple.com/",
           "title": "Apple"
-        },
-        {
-          "url": "https://www.brightonbased.co.uk/",
-          "title": "Computer Repair, Laptop Repair and IT Support in Brighton and Hove"
         },
         {
           "url": "https://bubble.io/",
           "title": "Bubble: AI app development meets visual, no-code editing"
         },
         {
-          "url": "https://www.bytedance.com/",
+          "url": "https://www.bytedance.com",
           "title": "ByteDance - Inspire Creativity, Enrich Life"
+        },
+        {
+          "url": "http://www.brightonbased.co.uk/",
+          "title": "Computer Repair, Laptop Repair and IT Support in Brighton and Hove"
+        },
+        {
+          "url": "https://www.studio1847.io/",
+          "title": "Home - Studio1847.io"
+        },
+        {
+          "url": "http://www.vulcan.com",
+          "title": "Home - Vulcan Real Estate"
+        },
+        {
+          "url": "http://www.mailapps.me",
+          "title": "Mailapps.me - awesome mobile apps for your mail!"
         },
         {
           "url": "https://www.facebook.com/formedia/solutions/facebook-live",
           "title": "Meta | Azienda di tecnologie social"
-        },
-        {
-          "url": "https://www.vulcan.com/",
-          "title": "Home - Vulcan Real Estate"
-        },
-        {
-          "url": "https://www.mailapps.me/",
-          "title": "Mailapps.me - awesome mobile apps for your mail!"
         },
         {
           "url": "https://about.ads.microsoft.com/en-us/partners/welcome?s_cid=en-us-gct-web-src_ext-sub_0-flx_uhfcombepartner",
@@ -234,12 +234,12 @@
           "title": "Penske Truck Leasing, Logistics, Truck Rental, Used Trucks Sales"
         },
         {
-          "url": "https://www.studio1847.io/",
-          "title": "Home - Studio1847.io"
+          "url": "https://switchboard.live",
+          "title": "Switchboard Live - Government-Approved Live Streaming Management Platform"
         },
         {
-          "url": "https://switchboard.live/",
-          "title": "Switchboard Live - Government-Approved Live Streaming Management Platform"
+          "url": "https://www.accenture.cn/cn-zh",
+          "title": "应变于新 启运未来 | 埃森哲"
         }
       ],
       "count": 13
@@ -272,6 +272,10 @@
           "title": "IDA Submission Manager"
         },
         {
+          "url": "https://uk.flightaware.com/live/cancelled/",
+          "title": "Live Airline Flight Cancellations Info & Statistics - FlightAware"
+        },
+        {
           "url": "https://ttparty.nl/login.html?view=reset",
           "title": "Login"
         },
@@ -280,29 +284,25 @@
           "title": "PID Lítačka Eshop | Lítačka"
         },
         {
+          "url": "https://www.workato.com/integrations/quip+senses",
+          "title": "Quip and Senses integration | Workato"
+        },
+        {
           "url": "https://api.whatsapp.com/send/?phone=14437877678&text=HOME&app_absent=0",
           "title": "Share on WhatsApp"
         },
         {
           "url": "https://www.synchrony.com/accounts/?client=walgreens",
           "title": "Synchrony Account Manager"
-        },
-        {
-          "url": "https://uk.flightaware.com/live/cancelled/",
-          "title": "Live Airline Flight Cancellations Info & Statistics - FlightAware"
-        },
-        {
-          "url": "https://www.workato.com/integrations/quip+senses",
-          "title": "Quip and Senses integration | Workato"
         }
       ],
       "count": 12
     },
     {
-      "name": "education-resource",
+      "name": "education-resources",
       "bookmarks": [
         {
-          "url": "https://online.aub.edu.lb/",
+          "url": "https://online.aub.edu.lb",
           "title": "AUB Online"
         },
         {
@@ -318,7 +318,7 @@
           "title": "Contact Us | Montgomery College, Maryland"
         },
         {
-          "url": "https://www.politicalscience.ualberta.ca/",
+          "url": "http://www.politicalscience.ualberta.ca/",
           "title": "Department of Political Science"
         },
         {
@@ -326,11 +326,11 @@
           "title": "Education material | International Orienteering Federation"
         },
         {
-          "url": "https://tnstate.edu/nnhp",
+          "url": "https://www.tnstate.edu/nnhp",
           "title": "NNHP"
         },
         {
-          "url": "https://savoirs.ens.fr/conferencier.php?id=3344",
+          "url": "http://savoirs.ens.fr/conferencier.php?id=3344",
           "title": "Savoirs ENS"
         },
         {
@@ -356,11 +356,7 @@
           "title": "Calculators - CHM Revolution"
         },
         {
-          "url": "https://api.goyellow.de/suche/elektrotechnik-und-montage/schwerte",
-          "title": "▷ Die 5 besten Betriebe für Elektrotechnik & Montage in Schwerte | Adresse | Telefonnummer | Bewertungen | Leistungen | Öffnungszeiten"
-        },
-        {
-          "url": "https://virtualcollections.naturalsciences.be/virtual-collections/entomology/coleoptera/cetoniidae/anoplocheilus-diplognathoides-werneri-antoine-2000/data-view",
+          "url": "http://virtualcollections.naturalsciences.be/virtual-collections/entomology/coleoptera/cetoniidae/anoplocheilus-diplognathoides-werneri-antoine-2000/data-view",
           "title": "Data - RBINS Virtual Collections"
         },
         {
@@ -372,7 +368,7 @@
           "title": "Help | Zenodo"
         },
         {
-          "url": "https://www.hnf.fra.affrc.go.jp/english.html",
+          "url": "http://hnf.fra.affrc.go.jp/english.html",
           "title": "HNF, Hokkaido National Fisheries Research Institute | Japan Fisheries Research and Education Agency"
         },
         {
@@ -386,6 +382,10 @@
         {
           "url": "https://typewriterdatabase.com/smithcorona.35.typewriter-models",
           "title": "Typewriter Database Popular Typewriter Models"
+        },
+        {
+          "url": "https://api.goyellow.de/suche/elektrotechnik-und-montage/schwerte",
+          "title": "▷ Die 5 besten Betriebe für Elektrotechnik & Montage in Schwerte | Adresse | Telefonnummer | Bewertungen | Leistungen | Öffnungszeiten"
         }
       ],
       "count": 10
@@ -425,15 +425,15 @@
       "count": 7
     },
     {
-      "name": "blog-personal",
+      "name": "personal-blogs",
       "bookmarks": [
-        {
-          "url": "https://josheben.tumblr.com/",
-          "title": "@josheben on Tumblr"
-        },
         {
           "url": "https://bergqvist13.tumblr.com/",
           "title": "@bergqvist13 on Tumblr"
+        },
+        {
+          "url": "https://josheben.tumblr.com/",
+          "title": "@josheben on Tumblr"
         },
         {
           "url": "https://www.hudsonandemily.com/about/",
@@ -448,7 +448,7 @@
           "title": "Ratzer.at Kurzwellenempfang"
         },
         {
-          "url": "https://www.ricettedalmondo.blogspot.com/",
+          "url": "http://ricettedalmondo.blogspot.com/",
           "title": "Ricette dal Mondo"
         },
         {
@@ -459,23 +459,19 @@
       "count": 7
     },
     {
-      "name": "media-social",
+      "name": "social-media",
       "bookmarks": [
         {
-          "url": "https://bereainternacional.com/",
+          "url": "http://bereainternacional.com",
           "title": "Berea Internacional - Últimas Noticias, Fotos y Videos"
-        },
-        {
-          "url": "https://linkedin.com/company/imcsnet",
-          "title": "IMCS Network | LinkedIn"
         },
         {
           "url": "https://nl.vecteezy.com/foto/1134086-grappig-man-wegkijken",
           "title": "Download Gratis Vectoren, Afbeeldingen, Foto's en Video's"
         },
         {
-          "url": "https://www.oceanographicmagazine.com/stockists/",
-          "title": "Stockists Archive - Oceanographic"
+          "url": "https://linkedin.com/company/imcsnet",
+          "title": "IMCS Network | LinkedIn"
         },
         {
           "url": "https://www.instagram.com/people/",
@@ -486,6 +482,10 @@
           "title": "PicCollage"
         },
         {
+          "url": "https://www.oceanographicmagazine.com/stockists/",
+          "title": "Stockists Archive - Oceanographic"
+        },
+        {
           "url": "https://v.qq.com/txp/iframe/player.html?origin=https%3A%2F%2Fmp.weixin.qq.com&vid=x07243ccjl8&autoplay=false&full=true&show1080p=false",
           "title": "腾讯视频"
         }
@@ -493,7 +493,7 @@
       "count": 7
     },
     {
-      "name": "dev-resource",
+      "name": "dev-resources",
       "bookmarks": [
         {
           "url": "https://bestbuyapis.github.io/bby-query-builder/#/productSearch",
@@ -512,7 +512,7 @@
           "title": "Redis sorted sets | Docs"
         },
         {
-          "url": "https://visualcode.ch/sample3.php?idnr=102020&lang=de",
+          "url": "http://visualcode.ch/sample3.php?idnr=102020&lang=de",
           "title": "Visual Code | Bewegung zu Ziel"
         },
         {
@@ -523,32 +523,18 @@
       "count": 6
     },
     {
-      "name": "food-dining",
+      "name": "government-resources",
       "bookmarks": [
         {
-          "url": "https://www.bbcgoodfood.com/recipes/naan-bread",
-          "title": "Naan bread recipe | Good Food"
-        },
-        {
-          "url": "https://hallbart.stockholm/ata-dricka/",
-          "title": "Äta och dricka - Stockholms stad"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "government-resource",
-      "bookmarks": [
-        {
-          "url": "https://dhss.alaska.gov/dph/epi/id/pages/COVID-19/vaccine.aspx",
+          "url": "http://dhss.alaska.gov/dph/epi/id/pages/COVID-19/vaccine.aspx",
           "title": "Alaska Department of Health and Social Services"
         },
         {
-          "url": "https://www.maine.gov/dep/waste/ewaste/index.html",
+          "url": "http://www.maine.gov/dep/waste/ewaste/index.html",
           "title": "Electronics Recycling, Waste Management, Maine Department of Environmental Protection"
         },
         {
-          "url": "https://www.farmers.gov/",
+          "url": "https://www.farmers.gov",
           "title": "Farmers.gov"
         },
         {
@@ -556,7 +542,7 @@
           "title": "Government Shutdown Notice / Aviso de cierre del gobierno"
         },
         {
-          "url": "https://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2011rs/billfile/HB0123.htm",
+          "url": "http://mgaleg.maryland.gov/webmga/frmMain.aspx?ys=2011rs/billfile/HB0123.htm",
           "title": "Search - Legislation"
         }
       ],
@@ -566,7 +552,7 @@
       "name": "sports-news",
       "bookmarks": [
         {
-          "url": "https://www.legaseriea.it/en",
+          "url": "http://www.legaseriea.it/en",
           "title": "Lega Serie A | Home"
         },
         {
@@ -604,13 +590,27 @@
           "title": "LED Leuchtmittel Retrofit (austauschbar)"
         },
         {
-          "url": "https://portal.rlgamericas.com/TRCS/RequestMailback.aspx?f=180354",
+          "url": "http://portal.rlgamericas.com/TRCS/RequestMailback.aspx?f=180354",
           "title": "void"
         }
       ],
       "count": 4
+    },
+    {
+      "name": "food-dining",
+      "bookmarks": [
+        {
+          "url": "https://www.bbcgoodfood.com/recipes/naan-bread",
+          "title": "Naan bread recipe | Good Food"
+        },
+        {
+          "url": "https://hallbart.stockholm/ata-dricka/",
+          "title": "Äta och dricka - Stockholms stad"
+        }
+      ],
+      "count": 2
     }
   ],
-  "total_bookmarks": 131,
+  "total_bookmarks": 130,
   "num_folders": 15
 }

@@ -1,8 +1,144 @@
 {
   "folders": [
     {
+      "name": "technology-software-guides",
+      "bookmarks": [
+        {
+          "url": "https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/#gref",
+          "title": "20 Necessary IT Certifications + Salaries I Skillsoft"
+        },
+        {
+          "url": "https://ipvm.com/reports/audio-surveillance-guide",
+          "title": "Audio Surveillance Guide"
+        },
+        {
+          "url": "https://jsonformatter.org/json-editor",
+          "title": "Best JSON Editor Online"
+        },
+        {
+          "url": "https://www.mail.com/mail/app/",
+          "title": "Free email apps for Android and iOS devices | mail.com"
+        },
+        {
+          "url": "https://icons8.com/",
+          "title": "Free Icons, Clipart Illustrations, Photos, and Music"
+        },
+        {
+          "url": "https://www.microsoft.com/edge",
+          "title": "Get to Know Microsoft Edge"
+        },
+        {
+          "url": "https://www.overleaf.com/learn/latex/Glossaries",
+          "title": "Glossaries - Overleaf, Online LaTeX Editor"
+        },
+        {
+          "url": "http://www.hddlife.com/",
+          "title": "HDDLife Hard Drive Diagnostic Software: Monitor HDD/SSD Health & Predict Failures"
+        },
+        {
+          "url": "http://support.vhx.tv/article/356-watching-chromecast",
+          "title": "How do I watch via Chromecast on my desktop? - Vimeo OTT Customer Support"
+        },
+        {
+          "url": "https://www.simple.ink/",
+          "title": "Notion Website Maker: Create A Free Website Built In Notion"
+        },
+        {
+          "url": "https://www.typography.guru/journal/letterspacing-r24/",
+          "title": "OpenType Myths Explained - Typography Journal"
+        },
+        {
+          "url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F&description=Goal%2014%20is%20about%20conserving%20and%20sustainably%20using%20the%20oceans%2C%20seas%20and%20marine%20resources.%20Healthy%20oceans%20and%20seas%20are%20essential%20to%20human%20existence%20and%20life%20on%20Earth.%20They%20cover%2070%20per%20cent%20of%20the%20planet%20and%20provide%20food%2C%20energy%20and%20water.%20The%20ocean%20absorbs%20around%20one%20quarter%20of%20the%20world%26%2339%3Bs%20annual%20carbon&media=",
+          "title": "Pinterest"
+        },
+        {
+          "url": "https://vuejs.org/guide/quick-start.html",
+          "title": "Quick Start | Vue.js"
+        },
+        {
+          "url": "https://developpaper.com/open-source-c-implementation-of-console-random-maze/",
+          "title": "Simcast News portal."
+        },
+        {
+          "url": "https://tinychat.com/",
+          "title": "TinyChat - Random Video Chat with Strangers"
+        },
+        {
+          "url": "https://ellis3dp.com/Print-Tuning-Guide/",
+          "title": "Welcome! | Ellis' Print Tuning Guide"
+        }
+      ],
+      "count": 16
+    },
+    {
+      "name": "news-articles-reports",
+      "bookmarks": [
+        {
+          "url": "https://www.vogue.com/article/fall-winter-2025-fashion-trends",
+          "title": "11 Fall 2025 Fashion Trends to Add to Your Wardrobe Now | Vogue"
+        },
+        {
+          "url": "https://amplypower.com/amply-power-integrates-watttime-api-to-enable-electric-fleets-to-minimize-and-report-total-greenhouse-gas-emissions/",
+          "title": "AMPLY Power Integrates WattTime API to Enable Electric Fleets to Minimize and Report Total Greenhouse Gas Emissions - AMPLY Power"
+        },
+        {
+          "url": "https://moviebabble.com/tag/david-naughton/",
+          "title": "David Naughton Archives | MovieBabble"
+        },
+        {
+          "url": "https://www.psicologiaclinicamsf.com/2021/07/dibujando-tu-futuro.html",
+          "title": "DIBUJANDO TU FUTURO"
+        },
+        {
+          "url": "https://www.lagazettedescommunes.com/449633/et-si-on-parlait-enfin-du-travail-dans-la-fonction-publique/",
+          "title": "Et si on parlait (enfin) du travail dans la fonction publique !"
+        },
+        {
+          "url": "https://blogs.msdn.microsoft.com/developer-tools/",
+          "title": "Home - Microsoft Developer Blogs"
+        },
+        {
+          "url": "https://www.netrootsnation.org/profile/james-carter/",
+          "title": "James Carter IV - Netroots Nation"
+        },
+        {
+          "url": "https://umc.edu/news/News_Articles/2023/02/Ladner-quintuplets.html",
+          "title": "Ladner family welcomes quintuplets at UMMC - University of Mississippi Medical Center"
+        },
+        {
+          "url": "https://www.correototal.com/actualidad/daytona-international-speedway-ha-confirmado-su-presencia-en-gran-turismo-7/",
+          "title": "Maximice su presencia en las redes sociales: ¿Por qué comprar seguidores para una cuenta de Facebook? - Correo Total"
+        },
+        {
+          "url": "https://blog.mozilla.com/addons?utm_content=footer-link&utm_medium=referral&utm_source=addons.mozilla.org",
+          "title": "Mozilla Add-ons Community Blog -"
+        },
+        {
+          "url": "https://www.dday.it/redazione/48932/recensione-smartphone-xiaomi-15",
+          "title": "Non solo elettrico: le batterie di nuova generazione | DMove.it"
+        },
+        {
+          "url": "https://www.epa.gov/newsreleases/statement-regional-administrator-debra-shore-east-palestine-train-derailment",
+          "title": "Statement from Regional Administrator Debra Shore on the East Palestine Train Derailment | US EPA"
+        },
+        {
+          "url": "https://postkodstiftelsen.se/en/nyheter/",
+          "title": "Svenska Postkodlotteriets Stiftelse | News - Svenska Postkodlotteriets Stiftelse"
+        },
+        {
+          "url": "https://www.ft.com/world/uk",
+          "title": "UK | Financial Times"
+        }
+      ],
+      "count": 14
+    },
+    {
       "name": "nonprofit-social-impact",
       "bookmarks": [
+        {
+          "url": "https://usnybcc.org/about/",
+          "title": "About Us | UpState New York Black Chamber of Commerce"
+        },
         {
           "url": "https://www.climatetrace.org/",
           "title": "Climate TRACE"
@@ -20,36 +156,32 @@
           "title": "Headwaters Foundation for Justice"
         },
         {
-          "url": "https://www.leap.org/",
-          "title": "LEAP - Leadership Education for Asian Pacifics"
+          "url": "http://thelastmile.org/",
+          "title": "Home - The Last Mile"
         },
         {
-          "url": "https://www.porterleath.org/",
-          "title": "Welcome to Porter-Leath | Home"
+          "url": "https://www.leap.org/",
+          "title": "LEAP - Leadership Education for Asian Pacifics"
         },
         {
           "url": "https://rifoundation.org/",
           "title": "RI Foundation | Rhode Island Foundation"
         },
         {
-          "url": "https://supermajorityedfund.com/",
-          "title": "Supermajority Education Fund"
-        },
-        {
           "url": "https://stopasianhate.carrd.co/",
           "title": "Stop Asian Hate"
         },
         {
-          "url": "http://thelastmile.org/",
-          "title": "Home - The Last Mile"
-        },
-        {
-          "url": "https://usnybcc.org/about/",
-          "title": "About Us | UpState New York Black Chamber of Commerce"
+          "url": "https://supermajorityedfund.com/",
+          "title": "Supermajority Education Fund"
         },
         {
           "url": "https://vowforgirls.org/",
           "title": "VOW for Girls"
+        },
+        {
+          "url": "https://www.porterleath.org/",
+          "title": "Welcome to Porter-Leath | Home"
         }
       ],
       "count": 12
@@ -58,331 +190,51 @@
       "name": "shopping-products",
       "bookmarks": [
         {
-          "url": "https://accesshealth.com.au/product/lumbar-disc-hydrator-traction/",
-          "title": "Lumbar Disc Hydrator and Traction | Access Health"
-        },
-        {
-          "url": "https://www.cosmossbykatemoss.com/shop/",
-          "title": "Shop | Kate Moss Cosmoss"
-        },
-        {
-          "url": "https://www.dsw.com/en/us/product/nine-west-ripe-sandal/537994?activeColor=001",
-          "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW"
+          "url": "https://www.rajhracky.cz/bezpecnostni-prvky-c8729",
+          "title": "Bezpečnostní prvky | RajHracky.cz"
         },
         {
           "url": "https://www.harrods.com/en-us/shopping/dolce-gabbana-tulle-pleated-wrap-dress-15176005",
           "title": "Dolce & Gabbana | Harrods US"
         },
         {
-          "url": "https://www.homehubme.com/product/daru-pouf/",
-          "title": "Home Hub ME"
-        },
-        {
-          "url": "http://jcpenney.com/p/cacharel-yes-i-am-bloom-up-eau-de-parfum-vaporisateur-spray/ppr5008325002?pTmplType=beauty&country=US&currency=USD&selectedSKUId=91515390018&selectedLotId=9151539&fromBag=true&utm_medium=cse&utm_source=google&utm_campaign=Perfumes&utm_content=91515390018&cid=cse%7Cgoogle%7CWomens%7cPerfumes_91515390018&kwid=productads-adType%5EPLA&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJR7KVGejMesFDDHJ6czi4MAOvCzIqFES7YCzqH1Z2mTgSAHUNlB8t0aAgOgEALw_wcB&gclsrc=aw.ds",
-          "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
-        },
-        {
-          "url": "https://www.latostadora.com/lolakabuki/dibujos/1059451",
-          "title": "Productos y diseños de Lola Kabuki | LaTostadora.com"
-        },
-        {
           "url": "https://www.personalisegifting.com/1st-anniversary-gifts",
           "title": "First Wedding Anniversary Gift | Buy 1st Anniversary Gift"
         },
         {
-          "url": "https://www.rajhracky.cz/bezpecnostni-prvky-c8729",
-          "title": "Bezpečnostní prvky | RajHracky.cz"
+          "url": "https://www.homehubme.com/product/daru-pouf/",
+          "title": "Home Hub ME"
         },
         {
           "url": "https://www.starstijlmeubelen.nl/eetkamertafels/kloostertafel-lexington-lexington-avenue-frans-antiek-eiken/129",
           "title": "Klassieke eetkamertafels"
         },
         {
+          "url": "https://accesshealth.com.au/product/lumbar-disc-hydrator-traction/",
+          "title": "Lumbar Disc Hydrator and Traction | Access Health"
+        },
+        {
+          "url": "https://www.latostadora.com/lolakabuki/dibujos/1059451",
+          "title": "Productos y diseños de Lola Kabuki | LaTostadora.com"
+        },
+        {
+          "url": "https://www.dsw.com/en/us/product/nine-west-ripe-sandal/537994?activeColor=001",
+          "title": "Shoes: Women's, Men's & Kids Shoes from Top Brands | DSW"
+        },
+        {
+          "url": "https://www.cosmossbykatemoss.com/shop/",
+          "title": "Shop | Kate Moss Cosmoss"
+        },
+        {
           "url": "https://www.wischmopps.de/entsorgungssack-120l-grau-equipe-vermop",
           "title": "Vermop Entsorgungssack 120l grau für Equipe"
+        },
+        {
+          "url": "http://jcpenney.com/p/cacharel-yes-i-am-bloom-up-eau-de-parfum-vaporisateur-spray/ppr5008325002?pTmplType=beauty&country=US&currency=USD&selectedSKUId=91515390018&selectedLotId=9151539&fromBag=true&utm_medium=cse&utm_source=google&utm_campaign=Perfumes&utm_content=91515390018&cid=cse%7Cgoogle%7CWomens%7cPerfumes_91515390018&kwid=productads-adType%5EPLA&gclid=Cj0KCQiAutyfBhCMARIsAMgcRJR7KVGejMesFDDHJ6czi4MAOvCzIqFES7YCzqH1Z2mTgSAHUNlB8t0aAgOgEALw_wcB&gclsrc=aw.ds",
+          "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
         }
       ],
       "count": 11
-    },
-    {
-      "name": "news-articles-reports",
-      "bookmarks": [
-        {
-          "url": "https://amplypower.com/amply-power-integrates-watttime-api-to-enable-electric-fleets-to-minimize-and-report-total-greenhouse-gas-emissions/",
-          "title": "AMPLY Power Integrates WattTime API to Enable Electric Fleets to Minimize and Report Total Greenhouse Gas Emissions - AMPLY Power"
-        },
-        {
-          "url": "https://blogs.msdn.microsoft.com/developer-tools/",
-          "title": "Home - Microsoft Developer Blogs"
-        },
-        {
-          "url": "https://blog.mozilla.com/addons?utm_content=footer-link&utm_medium=referral&utm_source=addons.mozilla.org",
-          "title": "Mozilla Add-ons Community Blog -"
-        },
-        {
-          "url": "https://www.correototal.com/actualidad/daytona-international-speedway-ha-confirmado-su-presencia-en-gran-turismo-7/",
-          "title": "Maximice su presencia en las redes sociales: ¿Por qué comprar seguidores para una cuenta de Facebook? - Correo Total"
-        },
-        {
-          "url": "https://www.dday.it/redazione/48932/recensione-smartphone-xiaomi-15",
-          "title": "Non solo elettrico: le batterie di nuova generazione | DMove.it"
-        },
-        {
-          "url": "https://www.epa.gov/newsreleases/statement-regional-administrator-debra-shore-east-palestine-train-derailment",
-          "title": "Statement from Regional Administrator Debra Shore on the East Palestine Train Derailment | US EPA"
-        },
-        {
-          "url": "https://www.ft.com/world/uk",
-          "title": "UK | Financial Times"
-        },
-        {
-          "url": "https://www.lagazettedescommunes.com/449633/et-si-on-parlait-enfin-du-travail-dans-la-fonction-publique/",
-          "title": "Et si on parlait (enfin) du travail dans la fonction publique !"
-        },
-        {
-          "url": "https://moviebabble.com/tag/david-naughton/",
-          "title": "David Naughton Archives | MovieBabble"
-        },
-        {
-          "url": "https://www.netrootsnation.org/profile/james-carter/",
-          "title": "James Carter IV - Netroots Nation"
-        },
-        {
-          "url": "https://postkodstiftelsen.se/en/nyheter/",
-          "title": "Svenska Postkodlotteriets Stiftelse | News - Svenska Postkodlotteriets Stiftelse"
-        },
-        {
-          "url": "https://www.psicologiaclinicamsf.com/2021/07/dibujando-tu-futuro.html",
-          "title": "DIBUJANDO TU FUTURO"
-        },
-        {
-          "url": "https://umc.edu/news/News_Articles/2023/02/Ladner-quintuplets.html",
-          "title": "Ladner family welcomes quintuplets at UMMC - University of Mississippi Medical Center"
-        },
-        {
-          "url": "https://www.vogue.com/article/fall-winter-2025-fashion-trends",
-          "title": "11 Fall 2025 Fashion Trends to Add to Your Wardrobe Now | Vogue"
-        }
-      ],
-      "count": 14
-    },
-    {
-      "name": "technology-software-guides",
-      "bookmarks": [
-        {
-          "url": "https://developpaper.com/open-source-c-implementation-of-console-random-maze/",
-          "title": "Simcast News portal."
-        },
-        {
-          "url": "https://ellis3dp.com/Print-Tuning-Guide/",
-          "title": "Welcome! | Ellis' Print Tuning Guide"
-        },
-        {
-          "url": "https://www.globalknowledge.com/us-en/resources/resource-library/articles/top-paying-certifications/#gref",
-          "title": "20 Necessary IT Certifications + Salaries I Skillsoft"
-        },
-        {
-          "url": "http://www.hddlife.com/",
-          "title": "HDDLife Hard Drive Diagnostic Software: Monitor HDD/SSD Health & Predict Failures"
-        },
-        {
-          "url": "https://icons8.com/",
-          "title": "Free Icons, Clipart Illustrations, Photos, and Music"
-        },
-        {
-          "url": "https://ipvm.com/reports/audio-surveillance-guide",
-          "title": "Audio Surveillance Guide"
-        },
-        {
-          "url": "https://jsonformatter.org/json-editor",
-          "title": "Best JSON Editor Online"
-        },
-        {
-          "url": "https://www.mail.com/mail/app/",
-          "title": "Free email apps for Android and iOS devices | mail.com"
-        },
-        {
-          "url": "https://www.microsoft.com/edge",
-          "title": "Get to Know Microsoft Edge"
-        },
-        {
-          "url": "https://www.overleaf.com/learn/latex/Glossaries",
-          "title": "Glossaries - Overleaf, Online LaTeX Editor"
-        },
-        {
-          "url": "https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F&description=Goal%2014%20is%20about%20conserving%20and%20sustainably%20using%20the%20oceans%2C%20seas%20and%20marine%20resources.%20Healthy%20oceans%20and%20seas%20are%20essential%20to%20human%20existence%20and%20life%20on%20Earth.%20They%20cover%2070%20per%20cent%20of%20the%20planet%20and%20provide%20food%2C%20energy%20and%20water.%20The%20ocean%20absorbs%20around%20one%20quarter%20of%20the%20world%26%2339%3Bs%20annual%20carbon&media=",
-          "title": "Pinterest"
-        },
-        {
-          "url": "https://www.simple.ink/",
-          "title": "Notion Website Maker: Create A Free Website Built In Notion"
-        },
-        {
-          "url": "http://support.vhx.tv/article/356-watching-chromecast",
-          "title": "How do I watch via Chromecast on my desktop? - Vimeo OTT Customer Support"
-        },
-        {
-          "url": "https://tinychat.com/",
-          "title": "TinyChat - Random Video Chat with Strangers"
-        },
-        {
-          "url": "https://www.typography.guru/journal/letterspacing-r24/",
-          "title": "OpenType Myths Explained - Typography Journal"
-        },
-        {
-          "url": "https://vuejs.org/guide/quick-start.html",
-          "title": "Quick Start | Vue.js"
-        }
-      ],
-      "count": 16
-    },
-    {
-      "name": "government-public-services",
-      "bookmarks": [
-        {
-          "url": "https://www.canada.ca/en/security-intelligence-service.html",
-          "title": "Canadian Security Intelligence Service - Canada.ca"
-        },
-        {
-          "url": "https://eclkc.ohs.acf.hhs.gov/programs/article/about-early-head-start-program",
-          "title": "About the Early Head Start Program | HeadStart.gov"
-        },
-        {
-          "url": "https://www.federalregister.gov/documents/2019/10/04/2019-21702/notice-of-availability-of-the-draft-supplemental-environmental-impact-statement-for-the-proposed",
-          "title": "Federal Register :: Notice of Availability of the Draft Supplemental Environmental Impact Statement for the Proposed Keystone XL Pipeline; Public Meeting Announcement"
-        },
-        {
-          "url": "https://www.fns.usda.gov/snap/ebt",
-          "title": "SNAP EBT | Food and Nutrition Service"
-        },
-        {
-          "url": "http://www.grandfamilies.org/",
-          "title": "Home"
-        },
-        {
-          "url": "https://www.nav.no/no/person",
-          "title": "Forside privatperson - nav.no"
-        },
-        {
-          "url": "http://www.sanvicentedechucuri-santander.gov.co/normatividad/acuerdo-017",
-          "title": "Acuerdo 017"
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "education-career-resources",
-      "bookmarks": [
-        {
-          "url": "https://beinternetawesome.withgoogle.com/en_us/interland",
-          "title": "Play Interland - Be Internet Awesome"
-        },
-        {
-          "url": "https://www.betterkids.education/",
-          "title": "Better Kids - Social Emotional Learning"
-        },
-        {
-          "url": "https://career.engr.psu.edu/students/index.aspx",
-          "title": "index | Penn State Engineering"
-        },
-        {
-          "url": "http://csip.ashoka.edu.in",
-          "title": "Under Construction - Centre for Social Impact and Philanthropy"
-        },
-        {
-          "url": "https://www.militarychild.org/gts",
-          "title": "MCEC Global Training Summit - Military Child Education Coalition® (MCEC®)"
-        },
-        {
-          "url": "https://thespinningcp.tumblr.com/",
-          "title": "The Spinning Compass: GIS Student Resources"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "website-management-access",
-      "bookmarks": [
-        {
-          "url": "https://br.my.vccs.edu/",
-          "title": "Redirecting to Login..."
-        },
-        {
-          "url": "http://hlasovy-prekladac-anobic-vtf.ectaco.cz/kontakt.html",
-          "title": "Kontakt - Překladač Anobic VTF"
-        },
-        {
-          "url": "http://www.inegi.org.mx/terminos/terminos_info.aspx",
-          "title": "Página no encontrada"
-        },
-        {
-          "url": "https://login.ey.com/myey/home",
-          "title": "EY login - My EY"
-        },
-        {
-          "url": "https://login.microsoftonline.com/",
-          "title": "Sign in to your account"
-        },
-        {
-          "url": "https://www.mogasi.com/mein-konto/",
-          "title": "Mein Konto » MOGASI"
-        },
-        {
-          "url": "https://profile.providencejournal.com/newsletters/manage",
-          "title": "Newsletters | The Providence Journal"
-        },
-        {
-          "url": "https://www.southafrica.net/gl/en/trade/page/terms-and-conditions",
-          "title": "Terms and conditions (GL)"
-        },
-        {
-          "url": "https://support.microsoft.com/contactus",
-          "title": "Contact Us - Microsoft Support"
-        }
-      ],
-      "count": 9
-    },
-    {
-      "name": "gaming-entertainment-sports",
-      "bookmarks": [
-        {
-          "url": "https://boxing-social.com/news/exclusive-canelo-alvarez-talks-mayweather-mcgregor/2/",
-          "title": "Glenn McCrory Shares His Prediction For Crolla-Burns - \"Domestic Blockbuster\""
-        },
-        {
-          "url": "https://www.completesports.com/",
-          "title": "Complete Sports Nigeria Latest Sports News And Updates"
-        },
-        {
-          "url": "https://gta.fandom.com/es/wiki/GTA_Online_Lowriders:_Custom_Classics",
-          "title": "GTA Online Lowriders: Custom Classics | Grand Theft Encyclopedia | Fandom"
-        },
-        {
-          "url": "https://www.horrorscreamsvideovault.co.uk/tag/britney-amber",
-          "title": "Britney Amber | HORROR SCREAMS VIDEO VAULT - SUPPORTING INDEPENDENT HORROR"
-        },
-        {
-          "url": "https://www.ligaportal.at/vbg/landesliga/spieler-der-runde/25786-landesliga-2018-2019-spieler-der-runde-26-ist",
-          "title": "Landesliga 2018/2019: Spieler der Runde 26 ist ... - Fußball Vorarlberg - Ergebnisse, Tabellen und Torschützen von allen Vbg Ligen. | ligaportal.at"
-        },
-        {
-          "url": "https://moviebabble.com/tag/david-naughton/",
-          "title": "David Naughton Archives | MovieBabble"
-        },
-        {
-          "url": "https://puzzles.theguardian.com/download",
-          "title": "Crosswords | Online and free | The Guardian"
-        },
-        {
-          "url": "https://www.soccerstats.com/",
-          "title": "SoccerSTATS.com | Football statistics, form tables and result analysis"
-        },
-        {
-          "url": "https://store.steampowered.com/mobile",
-          "title": "Steam, The Ultimate Online Game Platform"
-        }
-      ],
-      "count": 9
     },
     {
       "name": "business-industry-resources",
@@ -392,20 +244,12 @@
           "title": "Finest Luxury - Hotel Near Times Square | The Algonquin Hotel"
         },
         {
-          "url": "https://www.ivendi.com/",
-          "title": "iVendi | Automotive Retail Technology"
-        },
-        {
           "url": "http://www.lifewatch.be",
           "title": "Homepage | Lifewatch"
         },
         {
-          "url": "https://mda.space/en/",
-          "title": "Your Trusted Space Mission Partner | MDA Space"
-        },
-        {
-          "url": "https://njewasafaris.com/",
-          "title": "void"
+          "url": "https://www.ivendi.com/",
+          "title": "iVendi | Automotive Retail Technology"
         },
         {
           "url": "http://www.rcs.it/",
@@ -422,66 +266,218 @@
         {
           "url": "https://www.userzoom.com/ux-blog/",
           "title": "UserZoom Platform | UserTesting | UX Research Capabilities"
+        },
+        {
+          "url": "https://njewasafaris.com/",
+          "title": "void"
+        },
+        {
+          "url": "https://mda.space/en/",
+          "title": "Your Trusted Space Mission Partner | MDA Space"
         }
       ],
       "count": 9
     },
     {
+      "name": "website-management-access",
+      "bookmarks": [
+        {
+          "url": "https://support.microsoft.com/contactus",
+          "title": "Contact Us - Microsoft Support"
+        },
+        {
+          "url": "https://login.ey.com/myey/home",
+          "title": "EY login - My EY"
+        },
+        {
+          "url": "http://hlasovy-prekladac-anobic-vtf.ectaco.cz/kontakt.html",
+          "title": "Kontakt - Překladač Anobic VTF"
+        },
+        {
+          "url": "https://www.mogasi.com/mein-konto/",
+          "title": "Mein Konto » MOGASI"
+        },
+        {
+          "url": "https://profile.providencejournal.com/newsletters/manage",
+          "title": "Newsletters | The Providence Journal"
+        },
+        {
+          "url": "http://www.inegi.org.mx/terminos/terminos_info.aspx",
+          "title": "Página no encontrada"
+        },
+        {
+          "url": "https://br.my.vccs.edu/",
+          "title": "Redirecting to Login..."
+        },
+        {
+          "url": "https://login.microsoftonline.com/",
+          "title": "Sign in to your account"
+        },
+        {
+          "url": "https://www.southafrica.net/gl/en/trade/page/terms-and-conditions",
+          "title": "Terms and conditions (GL)"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "sports-gaming-entertainment",
+      "bookmarks": [
+        {
+          "url": "https://www.horrorscreamsvideovault.co.uk/tag/britney-amber",
+          "title": "Britney Amber | HORROR SCREAMS VIDEO VAULT - SUPPORTING INDEPENDENT HORROR"
+        },
+        {
+          "url": "https://www.completesports.com/",
+          "title": "Complete Sports Nigeria Latest Sports News And Updates"
+        },
+        {
+          "url": "https://puzzles.theguardian.com/download",
+          "title": "Crosswords | Online and free | The Guardian"
+        },
+        {
+          "url": "https://boxing-social.com/news/exclusive-canelo-alvarez-talks-mayweather-mcgregor/2/",
+          "title": "Glenn McCrory Shares His Prediction For Crolla-Burns - \"Domestic Blockbuster\""
+        },
+        {
+          "url": "https://gta.fandom.com/es/wiki/GTA_Online_Lowriders:_Custom_Classics",
+          "title": "GTA Online Lowriders: Custom Classics | Grand Theft Encyclopedia | Fandom"
+        },
+        {
+          "url": "https://www.ligaportal.at/vbg/landesliga/spieler-der-runde/25786-landesliga-2018-2019-spieler-der-runde-26-ist",
+          "title": "Landesliga 2018/2019: Spieler der Runde 26 ist ... - Fußball Vorarlberg - Ergebnisse, Tabellen und Torschützen von allen Vbg Ligen. | ligaportal.at"
+        },
+        {
+          "url": "https://www.soccerstats.com/",
+          "title": "SoccerSTATS.com | Football statistics, form tables and result analysis"
+        },
+        {
+          "url": "https://store.steampowered.com/mobile",
+          "title": "Steam, The Ultimate Online Game Platform"
+        }
+      ],
+      "count": 8
+    },
+    {
+      "name": "government-public-services",
+      "bookmarks": [
+        {
+          "url": "https://eclkc.ohs.acf.hhs.gov/programs/article/about-early-head-start-program",
+          "title": "About the Early Head Start Program | HeadStart.gov"
+        },
+        {
+          "url": "http://www.sanvicentedechucuri-santander.gov.co/normatividad/acuerdo-017",
+          "title": "Acuerdo 017"
+        },
+        {
+          "url": "https://www.canada.ca/en/security-intelligence-service.html",
+          "title": "Canadian Security Intelligence Service - Canada.ca"
+        },
+        {
+          "url": "https://www.federalregister.gov/documents/2019/10/04/2019-21702/notice-of-availability-of-the-draft-supplemental-environmental-impact-statement-for-the-proposed",
+          "title": "Federal Register :: Notice of Availability of the Draft Supplemental Environmental Impact Statement for the Proposed Keystone XL Pipeline; Public Meeting Announcement"
+        },
+        {
+          "url": "https://www.nav.no/no/person",
+          "title": "Forside privatperson - nav.no"
+        },
+        {
+          "url": "http://www.grandfamilies.org/",
+          "title": "Home"
+        },
+        {
+          "url": "https://www.fns.usda.gov/snap/ebt",
+          "title": "SNAP EBT | Food and Nutrition Service"
+        }
+      ],
+      "count": 7
+    },
+    {
       "name": "university-institutional-resources",
       "bookmarks": [
         {
-          "url": "https://www.bibliotecadisangavino.net/sistema-bibliotecario-monte-linas/104-san-gavino-m-le",
-          "title": "San Gavino M.le - Biblioteca Multimediale di San Gavino \"Faustino Onnis\""
-        },
-        {
           "url": "https://emergency.stanford.edu",
           "title": "Emergency Info | Stanford University"
-        },
-        {
-          "url": "https://indd.adobe.com/view/c624af50-d9e7-4239-a083-b6b7c6b80e3e",
-          "title": "Publish Online"
-        },
-        {
-          "url": "http://loop-impact.frontiersin.org/impact/article/514487#views",
-          "title": "Loop | Publication Impact |"
-        },
-        {
-          "url": "https://merry.ulb.uni-bonn.de/mrbs_scan/week.php?year=2021&month=07&day=5&area=20&room=11",
-          "title": "Sie werden weitergeleitet..."
         },
         {
           "url": "https://www.youvisit.com/tour/montgomerycollege/131694?pl=v&tourid=tour1",
           "title": "Experience Rockville Campus in Virtual Reality. Press Alt plus A for accessibility version."
         },
         {
+          "url": "http://loop-impact.frontiersin.org/impact/article/514487#views",
+          "title": "Loop | Publication Impact |"
+        },
+        {
           "url": "https://viewer.wu.ac.at/viewer/api/v1/records/1505383138814/tei/en/",
           "title": "Making sure you're not a bot!"
+        },
+        {
+          "url": "https://indd.adobe.com/view/c624af50-d9e7-4239-a083-b6b7c6b80e3e",
+          "title": "Publish Online"
+        },
+        {
+          "url": "https://www.bibliotecadisangavino.net/sistema-bibliotecario-monte-linas/104-san-gavino-m-le",
+          "title": "San Gavino M.le - Biblioteca Multimediale di San Gavino \"Faustino Onnis\""
+        },
+        {
+          "url": "https://merry.ulb.uni-bonn.de/mrbs_scan/week.php?year=2021&month=07&day=5&area=20&room=11",
+          "title": "Sie werden weitergeleitet..."
         }
       ],
       "count": 7
     },
     {
-      "name": "personal-hobby-blogs",
+      "name": "education-career-resources",
       "bookmarks": [
         {
-          "url": "https://cuddlywumps.blogspot.com/",
-          "title": "The Cuddlywumps Cat Chronicles"
+          "url": "https://www.betterkids.education/",
+          "title": "Better Kids - Social Emotional Learning"
         },
         {
-          "url": "https://foro.novenadimension.com/threads/mark-brook-recopilacion-de-su-arte-x-men-1-parte.46620/",
-          "title": "Mark Brook recopilacion de su arte X-Men 1 parte | La Novena Dimensión"
+          "url": "https://career.engr.psu.edu/students/index.aspx",
+          "title": "index | Penn State Engineering"
+        },
+        {
+          "url": "https://www.militarychild.org/gts",
+          "title": "MCEC Global Training Summit - Military Child Education Coalition® (MCEC®)"
+        },
+        {
+          "url": "https://beinternetawesome.withgoogle.com/en_us/interland",
+          "title": "Play Interland - Be Internet Awesome"
+        },
+        {
+          "url": "https://thespinningcp.tumblr.com/",
+          "title": "The Spinning Compass: GIS Student Resources"
+        },
+        {
+          "url": "http://csip.ashoka.edu.in",
+          "title": "Under Construction - Centre for Social Impact and Philanthropy"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "personal-blogs-hobbies",
+      "bookmarks": [
+        {
+          "url": "https://lathes.co.uk/atlas/",
+          "title": "Atlas lathes"
         },
         {
           "url": "https://www.heresybrush.com/en/",
           "title": "HeresyBrush - Painting and Modelling blog"
         },
         {
-          "url": "https://lathes.co.uk/atlas/",
-          "title": "Atlas lathes"
+          "url": "https://foro.novenadimension.com/threads/mark-brook-recopilacion-de-su-arte-x-men-1-parte.46620/",
+          "title": "Mark Brook recopilacion de su arte X-Men 1 parte | La Novena Dimensión"
         },
         {
           "url": "https://milkchokolate.tumblr.com/",
           "title": "Milk Chokolate"
+        },
+        {
+          "url": "https://cuddlywumps.blogspot.com/",
+          "title": "The Cuddlywumps Cat Chronicles"
         }
       ],
       "count": 5
@@ -490,12 +486,12 @@
       "name": "finance-economics-energy",
       "bookmarks": [
         {
-          "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
-          "title": "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)"
-        },
-        {
           "url": "http://crypto.com/",
           "title": "Crypto.com Italia: Acquisto e Trading Sicuro di Bitcoin e 400+ Criptovalute"
+        },
+        {
+          "url": "https://www.bea.gov/data/gdp/gross-domestic-product",
+          "title": "Gross Domestic Product | U.S. Bureau of Economic Analysis (BEA)"
         },
         {
           "url": "http://spectrum.ieee.org/energywise/energy/the-smarter-grid/watttime-the-tool-that-tells-you-when-to-charge-your-ev-to-keep-it-green",
@@ -533,6 +529,6 @@
       "count": 1
     }
   ],
-  "total_bookmarks": 112,
+  "total_bookmarks": 111,
   "num_folders": 14
 }

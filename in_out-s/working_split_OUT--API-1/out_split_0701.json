@@ -20,7 +20,7 @@
           "title": "Tecnologìa - Significato ed etimologia - Vocabolario - Treccani"
         },
         {
-          "url": "https://www.youronlinechoices.eu/",
+          "url": "http://www.youronlinechoices.eu/",
           "title": "Your Online Choices | EDAA"
         }
       ],
@@ -97,7 +97,7 @@
       "count": 4
     },
     {
-      "name": "civic-engagement-advocacy",
+      "name": "advocacy-civic-engagement",
       "bookmarks": [
         {
           "url": "https://www.aclu-il.org/en",
@@ -115,8 +115,30 @@
       "count": 3
     },
     {
+      "name": "business-financial-resources",
+      "bookmarks": [
+        {
+          "url": "https://www.capitalone.co.uk/",
+          "title": "Capital One Credit Cards UK | Apply For A Credit Card Online | Capital One"
+        },
+        {
+          "url": "https://finhealthnetwork.org/",
+          "title": "Financial Health Network"
+        },
+        {
+          "url": "https://walmartsustainabilityhub.emissionscalculators.walmart.com/main/innovations/circular-connector",
+          "title": "Walmart Sustainability"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "creative-content-blogs",
       "bookmarks": [
+        {
+          "url": "https://musicorspaceshuttle.com/tag/future-rock-legends/",
+          "title": "future rock legends | Music or Space Shuttle?"
+        },
         {
           "url": "https://hopefulkittykid.tumblr.com/",
           "title": "I am Who I am"
@@ -124,10 +146,6 @@
         {
           "url": "https://loverphilosopher.tumblr.com/",
           "title": "loverphilosopher"
-        },
-        {
-          "url": "https://musicorspaceshuttle.com/tag/future-rock-legends/",
-          "title": "future rock legends | Music or Space Shuttle?"
         }
       ],
       "count": 3
@@ -146,24 +164,6 @@
         {
           "url": "https://www.sonnentaler.net/aktivitaeten/mechanik/bewegung/oekomobil/teil3/ue11/",
           "title": "Unterrichtseinheit 11: Verschiedene Verkehrsmittel - Multimodalität und Intermodalität"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "financial-business-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.capitalone.co.uk/",
-          "title": "Capital One Credit Cards UK | Apply For A Credit Card Online | Capital One"
-        },
-        {
-          "url": "https://finhealthnetwork.org/",
-          "title": "Financial Health Network"
-        },
-        {
-          "url": "https://walmartsustainabilityhub.emissionscalculators.walmart.com/main/innovations/circular-connector",
-          "title": "Walmart Sustainability"
         }
       ],
       "count": 3
@@ -259,6 +259,24 @@
       "count": 3
     },
     {
+      "name": "open-source-software-dev",
+      "bookmarks": [
+        {
+          "url": "https://docs.docker.com/engine/reference/run/",
+          "title": "Running containers | Docker Docs"
+        },
+        {
+          "url": "https://wiki.osmfoundation.org/wiki/Takedown_procedure",
+          "title": "Takedown procedure - OpenStreetMap Foundation"
+        },
+        {
+          "url": "https://www.uneed.best/",
+          "title": "Uneed - A launch platform for your products | Uneed"
+        }
+      ],
+      "count": 3
+    },
+    {
       "name": "professional-communities",
       "bookmarks": [
         {
@@ -277,25 +295,7 @@
       "count": 3
     },
     {
-      "name": "software-dev-open-source",
-      "bookmarks": [
-        {
-          "url": "https://docs.docker.com/engine/reference/run/",
-          "title": "Running containers | Docker Docs"
-        },
-        {
-          "url": "https://wiki.osmfoundation.org/wiki/Takedown_procedure",
-          "title": "Takedown procedure - OpenStreetMap Foundation"
-        },
-        {
-          "url": "https://www.uneed.best/",
-          "title": "Uneed - A launch platform for your products | Uneed"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "tech-services-tools",
+      "name": "tech-tools-services",
       "bookmarks": [
         {
           "url": "https://one.apple.com/us?itscg=10000&itsct=one-NA-mac-tile-apl-avl-102020",
@@ -313,19 +313,19 @@
       "count": 3
     },
     {
-      "name": "travel-booking-accommodation",
+      "name": "travel-accommodation-booking",
       "bookmarks": [
         {
           "url": "https://www.uncovercolorado.com/hotels/bison-peak-lodge-at-puma-hills/",
           "title": "Bison Peak Lodge at Puma Hills - Lake George, CO - Uncover Colorado"
         },
         {
-          "url": "https://tickets.oebb.at/en/ticket",
-          "title": "ÖBB Tickets"
-        },
-        {
           "url": "https://uniglobetraveldesigners.com/",
           "title": "Uniglobe Travel Designers"
+        },
+        {
+          "url": "https://tickets.oebb.at/en/ticket",
+          "title": "ÖBB Tickets"
         }
       ],
       "count": 3

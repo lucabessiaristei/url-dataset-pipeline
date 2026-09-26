@@ -4,119 +4,101 @@
       "name": "entertainment-media",
       "bookmarks": [
         {
-          "url": "https://www.hulu.com",
+          "url": "https://www.hulu.com/",
           "title": "Disney+ | Stream Movies, TV Shows, Documentaries & More | U.S. Site"
-        },
-        {
-          "url": "https://www.movieguide.org",
-          "title": "Home | Movieguide | Movie Reviews for Christians - Movieguide | Movie Reviews for Families"
         },
         {
           "url": "http://www.flux-entertainment.com",
           "title": "Home - Flux Entertainment"
         },
         {
-          "url": "https://starvistalive.com",
+          "url": "https://starvistalive.com/",
           "title": "Home | StarVista Live"
+        },
+        {
+          "url": "https://eventowe.pl/atrakcje-i-szkolenia/wystepy-artystyczne",
+          "title": "Występy artystyczne - Atrakcje i szkolenia - Eventowe.pl"
         }
       ],
       "count": 4
     },
     {
-      "name": "academic-research",
+      "name": "miscellaneous-content",
       "bookmarks": [
         {
-          "url": "https://www.jstor.org/stable/2200014",
-          "title": "The Origins of 200-Mile Offshore Zones on JSTOR"
+          "url": "https://www.homehubme.com/product/daru-pouf/",
+          "title": "Home Hub ME"
         },
         {
-          "url": "http://www.ucsf.edu",
+          "url": "https://subaru.oemdtc.com/category/recalls",
+          "title": "Recalls | Subaru - OEMDTC"
+        },
+        {
+          "url": "https://sexgeschichten.xyz/?seite=3162",
+          "title": "Sexgeschichten (3162) 🍓 SexGeschichten.xyz"
+        },
+        {
+          "url": "https://slate.com/news-and-politics/2017/12/why-is-doug-jones-using-outside-agitator-as-an-insult.html",
+          "title": "Why is Doug Jones using \"outside agitator\" as an insult?"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "academic-research-publications",
+      "bookmarks": [
+        {
+          "url": "http://www.ucsf.edu/",
           "title": "Home | UC San Francisco"
         },
         {
           "url": "https://novus.no/en/products/102057",
           "title": "Schmidt, Tom: Nøvn austa åsen - Novus forlag"
+        },
+        {
+          "url": "https://www.jstor.org/stable/2200014",
+          "title": "The Origins of 200-Mile Offshore Zones on JSTOR"
         }
       ],
       "count": 3
     },
     {
-      "name": "environment-conservation",
+      "name": "environmental-social-impact",
       "bookmarks": [
         {
-          "url": "https://oceans5.org",
+          "url": "https://clearloop.us/2021/03/02/watttime-partnership/",
+          "title": "Clearloop Partners with WattTime to Verify Avoided Carbon Emissions"
+        },
+        {
+          "url": "https://oceans5.org/",
           "title": "Dedicated to protecting the world's five oceans | Oceans 5"
         },
         {
-          "url": "https://clearloop.us/2021/03/02/watttime-partnership",
-          "title": "Clearloop Partners with WattTime to Verify Avoided Carbon Emissions"
+          "url": "https://www.movieguide.org",
+          "title": "Home | Movieguide | Movie Reviews for Christians - Movieguide | Movie Reviews for Families"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "technology-products",
+      "name": "technology-business",
       "bookmarks": [
         {
-          "url": "https://labs.mozilla.org",
-          "title": "Home | Mozilla New Products"
+          "url": "https://ipvm.com/reports/audio-usage-in-video-surveillance-2021",
+          "title": "Audio Usage In Video Surveillance Statistics 2021"
         },
         {
           "url": "https://ecommerce.apple.com/content/b2b/static-v2/en/us/default/federal.html",
           "title": "Federal Government"
         },
         {
-          "url": "https://ipvm.com/reports/audio-usage-in-video-surveillance-2021",
-          "title": "Audio Usage In Video Surveillance Statistics 2021"
+          "url": "https://labs.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=innovation",
+          "title": "Home | Mozilla New Products"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "automotive-recalls",
-      "bookmarks": [
-        {
-          "url": "https://subaru.oemdtc.com/category/recalls",
-          "title": "Recalls | Subaru - OEMDTC"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "events-services",
-      "bookmarks": [
-        {
-          "url": "https://eventowe.pl/atrakcje-i-szkolenia/wystepy-artystyczne",
-          "title": "Występy artystyczne - Atrakcje i szkolenia - Eventowe.pl"
-        },
-        {
-          "url": "https://www.homehubme.com/product/daru-pouf",
-          "title": "Home Hub ME"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "news-politics",
-      "bookmarks": [
-        {
-          "url": "https://slate.com/news-and-politics/2017/12/why-is-doug-jones-using-outside-agitator-as-an-insult.html",
-          "title": "Why is Doug Jones using \"outside agitator\" as an insult?"
-        }
-      ],
-      "count": 1
-    },
-    {
-      "name": "adult-content",
-      "bookmarks": [
-        {
-          "url": "https://sexgeschichten.xyz/?seite=3162",
-          "title": "Sexgeschichten (3162) 🍓 SexGeschichten.xyz"
-        }
-      ],
-      "count": 1
     }
   ],
   "total_bookmarks": 17,
-  "num_folders": 8
+  "num_folders": 5
 }

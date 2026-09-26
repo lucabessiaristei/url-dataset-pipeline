@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "news-culture-entertainment",
+      "name": "news-entertainment-culture",
       "bookmarks": [
         {
           "url": "https://aws.baseball-reference.com/leagues/NL/1966-specialpos_p-fielding.shtml",
@@ -10,10 +10,6 @@
         {
           "url": "http://www.sicilialive24.it/author/antonello-pacesicilialive24-it/",
           "title": "Antonello Pace, Author at SiciliaLive24.it | SiciliaLive24.it"
-        },
-        {
-          "url": "https://www.businessoffashion.com/articles/luxury/the-plan-for-off-white-after-virgil-abloh/",
-          "title": "The Plan for Off-White After Virgil Abloh | BoF"
         },
         {
           "url": "https://www.sunglassesid.com/sightings/cutler-and-gross-kingsman-sunglasses-colin-firth-kingsman-secret-service",
@@ -28,10 +24,6 @@
           "title": "Eagles mourn the passing of Pro Bowl CB and legendary broadcaster Irv Cross"
         },
         {
-          "url": "https://www.etonline.com/bachelorette-star-kaitlyn-bristowe-engaged-to-jason-tartick-exclusive-156837",
-          "title": "Kaitlyn Bristowe Engaged to Jason Tartick (Exclusive Details) | Entertainment Tonight"
-        },
-        {
           "url": "https://www.roportal.ro/discutii/topic/113646-bigdefender/",
           "title": "Forumuri - Forum Roportal"
         },
@@ -42,6 +34,10 @@
         {
           "url": "https://www.ipsnews.net/deutsch/",
           "title": "IPS Inter Press Service - Deutsch - Nachrichten aus dem Süden"
+        },
+        {
+          "url": "https://www.etonline.com/bachelorette-star-kaitlyn-bristowe-engaged-to-jason-tartick-exclusive-156837",
+          "title": "Kaitlyn Bristowe Engaged to Jason Tartick (Exclusive Details) | Entertainment Tonight"
         },
         {
           "url": "https://www.editionsfavre.com/livres/laventure-spindrift/",
@@ -62,24 +58,20 @@
         {
           "url": "https://www.si.com/extra-mustard/2023/02/28/taylor-lewan-titans-dropped-off-stuff-release",
           "title": "Taylor Lewan Shares Sad Photo of How Titans Dropped Off His Stuff After Release - Sports Illustrated"
+        },
+        {
+          "url": "https://www.businessoffashion.com/articles/luxury/the-plan-for-off-white-after-virgil-abloh/",
+          "title": "The Plan for Off-White After Virgil Abloh | BoF"
         }
       ],
       "count": 15
     },
     {
-      "name": "business-organizations-nonprofits",
+      "name": "business-nonprofit-organizations",
       "bookmarks": [
-        {
-          "url": "https://www.africanamericanchambersa.org/",
-          "title": "Home - African American Chamber of Commerce of San Antonio"
-        },
         {
           "url": "http://cbaworks.org/",
           "title": "Chatham Business Association | Small Business Development | Chicago small business"
-        },
-        {
-          "url": "https://clarkfoundationdc.org/",
-          "title": "Overview | The A. James & Alice B. Clark Foundation"
         },
         {
           "url": "https://www.donorschoose.org/",
@@ -94,6 +86,10 @@
           "title": "GLAAACC - The Greater Los Angeles African American Chamber of Commerce"
         },
         {
+          "url": "https://www.africanamericanchambersa.org/",
+          "title": "Home - African American Chamber of Commerce of San Antonio"
+        },
+        {
           "url": "http://regents.universityofcalifornia.edu/",
           "title": "Home | Board of Regents"
         },
@@ -104,6 +100,10 @@
         {
           "url": "https://www.nativewomenlead.org/",
           "title": "Native Women Lead"
+        },
+        {
+          "url": "https://clarkfoundationdc.org/",
+          "title": "Overview | The A. James & Alice B. Clark Foundation"
         },
         {
           "url": "https://prosperitynow.org/",
@@ -117,7 +117,7 @@
       "count": 11
     },
     {
-      "name": "e-commerce-specialty-products",
+      "name": "ecommerce-specialty-products",
       "bookmarks": [
         {
           "url": "https://www.rajhracky.cz/bezpecnostni-prvky-c8729",
@@ -136,16 +136,16 @@
           "title": "Infinity Stackable Ring in Sterling Silver, #6924-ss - Zoe & Piper Wholesale"
         },
         {
+          "url": "http://www.precisiontrucks.com/",
+          "title": "Precision Truck Products I America's #1 Toter Manufacturer"
+        },
+        {
           "url": "https://postermemorabilia.com/zh-cn/products/sanandreas",
           "title": "San Andreas Signed Poster with COA"
         },
         {
           "url": "https://www.shopbop.com/drama-bomb-extreme-volume-mascara/vp/v=1/1516658809.htm",
           "title": "Shopbop Designers - Fashion Designer Category Index"
-        },
-        {
-          "url": "http://www.precisiontrucks.com/",
-          "title": "Precision Truck Products I America's #1 Toter Manufacturer"
         },
         {
           "url": "http://www.moorepinballs.com/",
@@ -170,6 +170,10 @@
           "title": "Earth & Planetary Sciences - Home of the UCSC Earth & Planetary Sciences Dept."
         },
         {
+          "url": "https://plos.org/resources/editor-center",
+          "title": "Editor Center - PLOS"
+        },
+        {
           "url": "http://research.mines.edu",
           "title": "Home - Research and Technology Transfer"
         },
@@ -180,10 +184,6 @@
         {
           "url": "https://www.khanacademy.org/science/chemistry",
           "title": "Khan Academy"
-        },
-        {
-          "url": "https://plos.org/resources/editor-center",
-          "title": "Editor Center - PLOS"
         },
         {
           "url": "http://uw.edu",
@@ -264,6 +264,10 @@
       "name": "customer-brand-support",
       "bookmarks": [
         {
+          "url": "https://verified.capitalone.com/sign-in-help/",
+          "title": "Capital One - Sign In Help"
+        },
+        {
           "url": "http://www.americanhelpdesk.com/",
           "title": "Helpdesk Services, 24/7, Technical Support, Financial Help Desk, Medical"
         },
@@ -276,10 +280,6 @@
           "title": "Steam Support"
         },
         {
-          "url": "https://verified.capitalone.com/sign-in-help/",
-          "title": "Capital One - Sign In Help"
-        },
-        {
           "url": "https://volvo.oemdtc.com",
           "title": "Volvo - OEMDTC"
         }
@@ -289,10 +289,6 @@
     {
       "name": "app-privacy-policies",
       "bookmarks": [
-        {
-          "url": "https://gifmakerforiphone.weebly.com/privacy-policy.html",
-          "title": "Privacy Policy - GIF MAKER"
-        },
         {
           "url": "https://www.mwm-apps.com/legals/procolor/policies",
           "title": "MWM"
@@ -304,6 +300,10 @@
         {
           "url": "https://www.betterkids.education/privacy-policy/",
           "title": "Privacy Policy - Better Kids"
+        },
+        {
+          "url": "https://gifmakerforiphone.weebly.com/privacy-policy.html",
+          "title": "Privacy Policy - GIF MAKER"
         }
       ],
       "count": 4
@@ -334,20 +334,20 @@
       "name": "legal-compliance-policy",
       "bookmarks": [
         {
-          "url": "https://creativecommons.org/policies#license",
-          "title": "Policies - Creative Commons"
+          "url": "https://www.iso.org/standard/54534.html",
+          "title": "ISO/IEC 27001:2022 - Information security management systems"
         },
         {
           "url": "https://data.calgary.ca/stories/s/Open-Calgary-Terms-of-Use/u45n-7awa/",
           "title": "Open Calgary Terms of Use | Open Calgary"
         },
         {
-          "url": "http://fao.org/contact-us/terms/en/",
-          "title": "Terms and Conditions | FAO | Food and Agriculture Organization of the United Nations"
+          "url": "https://creativecommons.org/policies#license",
+          "title": "Policies - Creative Commons"
         },
         {
-          "url": "https://www.iso.org/standard/54534.html",
-          "title": "ISO/IEC 27001:2022 - Information security management systems"
+          "url": "http://fao.org/contact-us/terms/en/",
+          "title": "Terms and Conditions | FAO | Food and Agriculture Organization of the United Nations"
         }
       ],
       "count": 4
@@ -375,7 +375,7 @@
       "count": 4
     },
     {
-      "name": "design-creative-assets",
+      "name": "creative-design-assets",
       "bookmarks": [
         {
           "url": "https://colorhunt.co/",

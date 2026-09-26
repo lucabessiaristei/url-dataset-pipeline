@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "culture-and-arts",
+      "name": "arts-culture",
       "bookmarks": [
         {
           "url": "http://www.lachiesa.it/bibbia.php?ricerca=testo&Testo=Domenicani&Cerca=Cerca&libro=0&id_versioni=2&VersettoOn=1",
@@ -69,7 +69,7 @@
       "count": 7
     },
     {
-      "name": "organizations-nonprofit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
         {
           "url": "https://payneinstitute.mines.edu/eog/",
@@ -252,12 +252,12 @@
       "name": "misc-reference",
       "bookmarks": [
         {
-          "url": "https://revodoc.valdoise.fr/resultat.php?q=1&spec_expand=1&sort_define=tri_annee&sort_order=1&rows=10&fq=frbr%3A%281%29+AND+sujets_ac%3A%28%22Cordes%2C+vents%22%29+AND+statut%3A%28%22pr%C3%AAtable%22%29+AND+nombib_frbr%3A%28%22Val+de+France+%3A+Arnouville%2C+Garges-l%C3%A8s-Gonesse%2C+Sarcelles%2C+Villiers-le-Bel%22%29+AND+auteurs_ac%3A%28%22Valek%2C+Vladimir%22%29+AND+sujets_ac%3A%28%22Cordes%22%29+AND+auteurs_ac%3A%28%22Csaba%2C+Peter%22%29+AND+editeurs_tous_frbr%3A%28%22AMC+Paris%22%29",
-          "title": "Résultats (oeuvres) - RéVOdoc"
-        },
-        {
           "url": "https://www.walmart.com/help/article/single-use-bag-policy/6538739d9dba47e5a0aa302ec9e92963",
           "title": "Robot or human?"
+        },
+        {
+          "url": "https://revodoc.valdoise.fr/resultat.php?q=1&spec_expand=1&sort_define=tri_annee&sort_order=1&rows=10&fq=frbr%3A%281%29+AND+sujets_ac%3A%28%22Cordes%2C+vents%22%29+AND+statut%3A%28%22pr%C3%AAtable%22%29+AND+nombib_frbr%3A%28%22Val+de+France+%3A+Arnouville%2C+Garges-l%C3%A8s-Gonesse%2C+Sarcelles%2C+Villiers-le-Bel%22%29+AND+auteurs_ac%3A%28%22Valek%2C+Vladimir%22%29+AND+sujets_ac%3A%28%22Cordes%22%29+AND+auteurs_ac%3A%28%22Csaba%2C+Peter%22%29+AND+editeurs_tous_frbr%3A%28%22AMC+Paris%22%29",
+          "title": "Résultats (oeuvres) - RéVOdoc"
         },
         {
           "url": "https://data-osi.opendata.arcgis.com/",

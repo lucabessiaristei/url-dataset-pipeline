@@ -1,27 +1,27 @@
 {
   "folders": [
     {
-      "name": "web-misc-utility",
+      "name": "web-utilities-misc",
       "bookmarks": [
+        {
+          "url": "http://www.vpchat.com/",
+          "title": "Chat Rooms - Chat Games - Avatar Chat"
+        },
         {
           "url": "https://2020.alaannual.org/general-information/contact-us",
           "title": "Contact Us | ALA Annual 2020"
+        },
+        {
+          "url": "https://www.masscompetes.org/covid-survey-june-2021",
+          "title": "COVID SURVEY JUNE 2021 | macp"
         },
         {
           "url": "https://www.gofundme.com/f/in-memory-of-stephen-c-chikwem",
           "title": "Fundraiser by Annpaula Nwaneri : In Memory of Stephen C. Chikwem"
         },
         {
-          "url": "https://www.koifaire.com/ile-de-france/paris,11eme,arrondissement-75011/loisirs/musees-126/",
-          "title": "You are being redirected..."
-        },
-        {
           "url": "http://www.leaks.fr/",
           "title": "leaks.fr est en vente"
-        },
-        {
-          "url": "https://www.masscompetes.org/covid-survey-june-2021",
-          "title": "COVID SURVEY JUNE 2021 | macp"
         },
         {
           "url": "https://www.namenforschung.net/dfd/woerterbuch/liste/?tx_dfd_names%5Baction%5D=list&tx_dfd_names%5Bcontroller%5D=Names&tx_dfd_names%5Bquery%5D=&tx_dfd_names%5BallSelectedFacets%5D%5B0%5D=201&tx_dfd_names%5BallSelectedFacets%5D%5B1%5D=322&tx_dfd_names%5BallSelectedFacets%5D%5B2%5D=269&cHash=08017f487a918d43e58e37ef9aa339f0",
@@ -44,12 +44,12 @@
           "title": "Volkraft"
         },
         {
-          "url": "http://www.vpchat.com/",
-          "title": "Chat Rooms - Chat Games - Avatar Chat"
-        },
-        {
           "url": "https://support.xbox.com/help/games-apps/my-games-apps/all-about-pc-gaming",
           "title": "Xbox Support"
+        },
+        {
+          "url": "https://www.koifaire.com/ile-de-france/paris,11eme,arrondissement-75011/loisirs/musees-126/",
+          "title": "You are being redirected..."
         }
       ],
       "count": 12
@@ -57,6 +57,10 @@
     {
       "name": "environmental-conservation",
       "bookmarks": [
+        {
+          "url": "http://ogeiee.produce.gob.pe/index.php/shortcode/oee-documentos-publicaciones/boletines-pesca/item/876-2019-diciembre-boletin-del-sector-pesquero",
+          "title": "2019 Diciembre: Boletín del Sector Pesquero"
+        },
         {
           "url": "https://www.call2recycle.org/",
           "title": "Call2Recycle.org | Leading the Charge for Battery Recycling"
@@ -76,10 +80,6 @@
         {
           "url": "https://fondationprimat.org/en/projets/fighting-overfishing-in-the-mediterranean-through-increased-transparency/",
           "title": "Fighting overfishing in the Mediterranean through increased transparency - Fondation Didier et Martine Primat"
-        },
-        {
-          "url": "http://ogeiee.produce.gob.pe/index.php/shortcode/oee-documentos-publicaciones/boletines-pesca/item/876-2019-diciembre-boletin-del-sector-pesquero",
-          "title": "2019 Diciembre: Boletín del Sector Pesquero"
         },
         {
           "url": "https://earth.stanford.edu/news/oil-spills-and-coastal-resilience",
@@ -104,16 +104,12 @@
       "name": "legal-privacy-policy",
       "bookmarks": [
         {
-          "url": "https://business.safety.google/processorterms",
-          "title": "Data Processing Addendum for Products where Google is a Data Processor"
-        },
-        {
-          "url": "https://dmca.openstreetmap.org/",
-          "title": "| OpenStreetMap Foundation - DMCA Notice Procedure"
-        },
-        {
           "url": "https://gdpr.cision.com/",
           "title": "Cision GDPR - Data Privacy"
+        },
+        {
+          "url": "https://business.safety.google/processorterms",
+          "title": "Data Processing Addendum for Products where Google is a Data Processor"
         },
         {
           "url": "https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_US",
@@ -130,39 +126,13 @@
         {
           "url": "https://www.fractalabogados.com/terminos-y-condiciones2/",
           "title": "Términos y Condiciones :: Fractalabogados"
+        },
+        {
+          "url": "https://dmca.openstreetmap.org/",
+          "title": "| OpenStreetMap Foundation - DMCA Notice Procedure"
         }
       ],
       "count": 7
-    },
-    {
-      "name": "organizations-nonprofit",
-      "bookmarks": [
-        {
-          "url": "https://www.aclusocal.org",
-          "title": "ACLU of Southern California"
-        },
-        {
-          "url": "https://www.clclt.org/",
-          "title": "Homeownership | CLCLT | Minneapolis"
-        },
-        {
-          "url": "https://impactreport.overdeck.org/",
-          "title": "Overdeck Family Foundation 2024 Grantmaking & Impact Report"
-        },
-        {
-          "url": "http://overdeck.org/",
-          "title": "Overdeck Family Foundation"
-        },
-        {
-          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
-          "title": "Donate Now - Mozilla Foundation"
-        },
-        {
-          "url": "https://tiktok.com/@ellenmacarthurfoundation",
-          "title": "Log in | TikTok"
-        }
-      ],
-      "count": 6
     },
     {
       "name": "tech-docs-ai",
@@ -289,7 +259,63 @@
       "count": 6
     },
     {
-      "name": "blogs-personal",
+      "name": "nonprofit-organizations",
+      "bookmarks": [
+        {
+          "url": "https://www.aclusocal.org",
+          "title": "ACLU of Southern California"
+        },
+        {
+          "url": "https://donate.mozilla.org/?presets=50,30,20,10&amount=30&currency=usd&utm_source=blog.mozilla.org&utm_campaign=footer&utm_medium=referral",
+          "title": "Donate Now - Mozilla Foundation"
+        },
+        {
+          "url": "https://www.clclt.org/",
+          "title": "Homeownership | CLCLT | Minneapolis"
+        },
+        {
+          "url": "https://tiktok.com/@ellenmacarthurfoundation",
+          "title": "Log in | TikTok"
+        },
+        {
+          "url": "http://overdeck.org/",
+          "title": "Overdeck Family Foundation"
+        },
+        {
+          "url": "https://impactreport.overdeck.org/",
+          "title": "Overdeck Family Foundation 2024 Grantmaking & Impact Report"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "home-lifestyle",
+      "bookmarks": [
+        {
+          "url": "https://www.vogue.com/article/fall-winter-2025-fashion-trends",
+          "title": "11 Fall 2025 Fashion Trends to Add to Your Wardrobe Now | Vogue"
+        },
+        {
+          "url": "https://www.croquonslavie.fr/articles/astuces-galettes-rois",
+          "title": "Astuces et idées | Nestlé Goodnes"
+        },
+        {
+          "url": "http://www.chessvideos.tv/",
+          "title": "Chess Videos TV - The Largest Chess Video Site on the Web!"
+        },
+        {
+          "url": "https://reesesbookclub.com/",
+          "title": "Home - Reese's Book Club"
+        },
+        {
+          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85919",
+          "title": "Searchable Recipe Database - Almond Macaroons with chocolate fillinf"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://michaelfresh-blog.tumblr.com/",
@@ -310,32 +336,6 @@
         {
           "url": "https://tombont.com/2016/10/25/surrey-international-writers-conference-2016/",
           "title": "Surrey International Writers' Conference 2016 - Tom Bont's Silver Key"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "lifestyle-home",
-      "bookmarks": [
-        {
-          "url": "https://www.croquonslavie.fr/articles/astuces-galettes-rois",
-          "title": "Astuces et idées | Nestlé Goodnes"
-        },
-        {
-          "url": "http://www.chessvideos.tv/",
-          "title": "Chess Videos TV - The Largest Chess Video Site on the Web!"
-        },
-        {
-          "url": "https://reesesbookclub.com/",
-          "title": "Home - Reese's Book Club"
-        },
-        {
-          "url": "http://www.directaccessrecipes.com/index.jsp?recId=85919",
-          "title": "Searchable Recipe Database - Almond Macaroons with chocolate fillinf"
-        },
-        {
-          "url": "https://www.vogue.com/article/fall-winter-2025-fashion-trends",
-          "title": "11 Fall 2025 Fashion Trends to Add to Your Wardrobe Now | Vogue"
         }
       ],
       "count": 5
@@ -367,8 +367,12 @@
       "count": 5
     },
     {
-      "name": "tools-web-utilities",
+      "name": "web-tools-utilities",
       "bookmarks": [
+        {
+          "url": "https://www.renderforest.com/#Videos",
+          "title": "All your design tools in one place | Renderforest"
+        },
         {
           "url": "https://excalidraw.com/",
           "title": "Excalidraw Whiteboard"
@@ -380,10 +384,6 @@
         {
           "url": "https://raceroster.com/",
           "title": "Race Roster - Create a race event with our free event registration tool - Race Roster"
-        },
-        {
-          "url": "https://www.renderforest.com/#Videos",
-          "title": "All your design tools in one place | Renderforest"
         },
         {
           "url": "https://wordassociations.net/en/",
@@ -481,12 +481,8 @@
       "count": 4
     },
     {
-      "name": "local-services-events",
+      "name": "local-events-services",
       "bookmarks": [
-        {
-          "url": "https://dunshaughlin-culmullenparish.ie/galleries/st-patricks-hall/",
-          "title": "St. Patrick's Hall | Dunshaughlin and Culmullen Parishes"
-        },
         {
           "url": "https://www.gatorama.com/2023/02/17/georgie-the-taped-alligator-finds-new-home-at-gatorama/",
           "title": "Georgie the Taped Alligator Finds New Home at Gatorama - Gatorama"
@@ -498,6 +494,10 @@
         {
           "url": "https://danvilleutilities.com/nDanville/nDanville.html",
           "title": "nDanville Welcome | Danville Utilities"
+        },
+        {
+          "url": "https://dunshaughlin-culmullenparish.ie/galleries/st-patricks-hall/",
+          "title": "St. Patrick's Hall | Dunshaughlin and Culmullen Parishes"
         }
       ],
       "count": 4

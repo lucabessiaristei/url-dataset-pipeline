@@ -1,35 +1,39 @@
 {
   "folders": [
     {
-      "name": "developer-resources-tools",
+      "name": "developer-tools-resources",
       "bookmarks": [
         {
-          "url": "https://app.carto.com/signup/",
-          "title": "CARTO Accounts"
+          "url": "https://www.oreilly.com/library/view/97-things-every/9781492076728/",
+          "title": "97 Things Every Cloud Engineer Should Know [Book]"
         },
         {
           "url": "https://bugzilla.mozilla.org/home",
           "title": "Bugzilla Main Page"
         },
         {
-          "url": "https://community.dynamics.com/",
-          "title": "Find Answers | Microsoft Dynamics 365 Community"
+          "url": "https://app.carto.com/signup/",
+          "title": "CARTO Accounts"
+        },
+        {
+          "url": "https://inthecloud.withgoogle.com/cyber-security-forecast-2023/register.html?utm_source=gc_events&utm_medium=display&utm_campaign=FY23-Q1-northam-NRTH86-physicalevent-er-mandient-cyber-security-forecast&utm_content=cyber-security-forecast-cgcevents&utm_term=-",
+          "title": "Cloud Computing Services | Google Cloud"
         },
         {
           "url": "https://docs.python.org/3/library/concurrent.futures.html",
           "title": "concurrent.futures - Launching parallel tasks - Python 3.14.0 documentation"
         },
         {
-          "url": "https://education.github.com/",
-          "title": "GitHub Education · GitHub"
+          "url": "https://community.dynamics.com/",
+          "title": "Find Answers | Microsoft Dynamics 365 Community"
         },
         {
           "url": "https://firefox.com",
           "title": "Get Firefox for desktop and mobile - Firefox.com Global"
         },
         {
-          "url": "https://inthecloud.withgoogle.com/cyber-security-forecast-2023/register.html?utm_source=gc_events&utm_medium=display&utm_campaign=FY23-Q1-northam-NRTH86-physicalevent-er-mandient-cyber-security-forecast&utm_content=cyber-security-forecast-cgcevents&utm_term=-",
-          "title": "Cloud Computing Services | Google Cloud"
+          "url": "https://education.github.com/",
+          "title": "GitHub Education · GitHub"
         },
         {
           "url": "https://docs.google.com/document/d/1fMZ3ZoqhCrKgtf5d3EtznDGZesXBlzPFkvj83U7GHg4/edit#",
@@ -38,10 +42,6 @@
         {
           "url": "https://developer.nvidia.com/blog/",
           "title": "NVIDIA Technical Blog"
-        },
-        {
-          "url": "https://www.oreilly.com/library/view/97-things-every/9781492076728/",
-          "title": "97 Things Every Cloud Engineer Should Know [Book]"
         },
         {
           "url": "https://forums.nomachine.com/users/userx/replies",
@@ -55,96 +55,100 @@
       "count": 12
     },
     {
-      "name": "current-events-news",
+      "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://www.berlingske.dk/kommentarer",
-          "title": "Kirkeordførerne hykler i sagen om Morten Kvist | Berlingske"
-        },
-        {
-          "url": "https://cstoredecisions.com/2021/12/02/quiktrip-brings-back-jollytown-mobile-app-contest/",
-          "title": "QuikTrip Brings Back 'JollyTown' Mobile App Contest - CStore Decisions"
-        },
-        {
-          "url": "https://www.delish.com/restaurants/a22133339/hunter-fieri-guy-fieri-son-facts/",
-          "title": "Hunter Fieri Is The Guy Of The Future"
-        },
-        {
-          "url": "https://www.freep.com/story/news/local/michigan/detroit/2023/02/28/dog-saves-baby-from-house-fire-in-detroit-family-struggles-to-recover/69949425007/",
-          "title": "Dog saves baby from house fire in Detroit, family struggles to recover"
-        },
-        {
-          "url": "https://grapee.jp/en/131858",
-          "title": "Popular Japanese Actress Suzu Hirose Subjected to Racist Coronavirus Comments on Instagram - grape Japan"
-        },
-        {
-          "url": "https://www.hiclub.bg/Article/10459036",
-          "title": "„Ню Йорк таймс\": Тесла създава „ефекта на сома\" в Китай | Хай Клуб"
+          "url": "https://opencritic.com/game/12468/after-the-fall/reviews",
+          "title": "After The Fall Critic Reviews - OpenCritic"
         },
         {
           "url": "https://www.itsgoodfor.biz/case-study/civil-rights-groups-criticize-facebook-censoring-police-shootings",
           "title": "Civil Rights Groups Criticize Facebook for Censoring Police Shootings | Case Study"
         },
         {
+          "url": "https://www.freep.com/story/news/local/michigan/detroit/2023/02/28/dog-saves-baby-from-house-fire-in-detroit-family-struggles-to-recover/69949425007/",
+          "title": "Dog saves baby from house fire in Detroit, family struggles to recover"
+        },
+        {
+          "url": "https://www.delish.com/restaurants/a22133339/hunter-fieri-guy-fieri-son-facts/",
+          "title": "Hunter Fieri Is The Guy Of The Future"
+        },
+        {
+          "url": "https://www.berlingske.dk/kommentarer",
+          "title": "Kirkeordførerne hykler i sagen om Morten Kvist | Berlingske"
+        },
+        {
           "url": "http://metv.com",
           "title": "MeTV - America's #1 Classic Television Network"
         },
         {
-          "url": "https://opencritic.com/game/12468/after-the-fall/reviews",
-          "title": "After The Fall Critic Reviews - OpenCritic"
+          "url": "https://grapee.jp/en/131858",
+          "title": "Popular Japanese Actress Suzu Hirose Subjected to Racist Coronavirus Comments on Instagram - grape Japan"
+        },
+        {
+          "url": "https://cstoredecisions.com/2021/12/02/quiktrip-brings-back-jollytown-mobile-app-contest/",
+          "title": "QuikTrip Brings Back 'JollyTown' Mobile App Contest - CStore Decisions"
+        },
+        {
+          "url": "https://www.rawstory.com/",
+          "title": "Raw Story - Celebrating 20 Years of Independent Journalism"
         },
         {
           "url": "https://people.com/tag/news/",
           "title": "The Scoop"
         },
         {
-          "url": "https://www.rawstory.com/",
-          "title": "Raw Story - Celebrating 20 Years of Independent Journalism"
+          "url": "https://www.hiclub.bg/Article/10459036",
+          "title": "„Ню Йорк таймс\": Тесла създава „ефекта на сома\" в Китай | Хай Клуб"
         }
       ],
       "count": 11
     },
     {
-      "name": "shopping-e-commerce",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
-          "url": "https://www.doldea.it/prodotto/peggy-sage-complesso-snellente/",
-          "title": "Peggy Sage Complesso Snellente oli essenziali 30ml - Doldea srl - Capelli e Benessere"
+          "url": "https://www.underarmour.com/en-us/p/pants_and_leggings/womens_coldgear_authentics_leggings/1368700.html",
+          "title": "ColdGear® Women's Leggings | Under Armour"
         },
         {
           "url": "https://www.ica.se/handla/",
           "title": "Handla mat online från din lokala ICA-butik"
         },
         {
-          "url": "https://www.jcpenney.com/p/exa-beauty-high-fidelity-balancing-color-corrector/ppr5008239340?pTmplType=beauty&slfpid=3",
-          "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
-        },
-        {
-          "url": "https://outsidetexas.com/products/otx-foam-trucker-round-patch",
-          "title": "OTX Foam Trucker: Circle Patch | Outside, Texas"
-        },
-        {
-          "url": "https://www.underarmour.com/en-us/p/pants_and_leggings/womens_coldgear_authentics_leggings/1368700.html",
-          "title": "ColdGear® Women's Leggings | Under Armour"
+          "url": "https://youlookfab.com/finds/item/?product=13464",
+          "title": "Item - YouLookFab Finds"
         },
         {
           "url": "https://www.vermontcountrystore.com/open-stock-portuguese-cotton-flannel-sheets/product/78139",
           "title": "Open Stock Flannel Bedding | Vermont Country Store"
         },
         {
-          "url": "https://www.westside.com/",
-          "title": "Westside - A Tata Enterprise | Best Online Shopping Site in India"
+          "url": "https://outsidetexas.com/products/otx-foam-trucker-round-patch",
+          "title": "OTX Foam Trucker: Circle Patch | Outside, Texas"
         },
         {
-          "url": "https://youlookfab.com/finds/item/?product=13464",
-          "title": "Item - YouLookFab Finds"
+          "url": "https://www.doldea.it/prodotto/peggy-sage-complesso-snellente/",
+          "title": "Peggy Sage Complesso Snellente oli essenziali 30ml - Doldea srl - Capelli e Benessere"
+        },
+        {
+          "url": "https://www.jcpenney.com/p/exa-beauty-high-fidelity-balancing-color-corrector/ppr5008239340?pTmplType=beauty&slfpid=3",
+          "title": "We Are Currently Unable to Provide a Shopping Experience for this Country"
+        },
+        {
+          "url": "https://www.westside.com/",
+          "title": "Westside - A Tata Enterprise | Best Online Shopping Site in India"
         }
       ],
       "count": 8
     },
     {
-      "name": "nonprofit-community-civic",
+      "name": "community-nonprofit-civic",
       "bookmarks": [
+        {
+          "url": "https://www.voteannapaulina.com/platform",
+          "title": "Anna Paulina Luna for Congress"
+        },
         {
           "url": "https://www.blackdadscount.com/",
           "title": "Black Fatherhood | Black Dads Count | Civic Engagement"
@@ -164,10 +168,36 @@
         {
           "url": "https://pgafamilyfoundation.org",
           "title": "Homepage | Allen Family Philanthropies"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "education-learning-resources",
+      "bookmarks": [
+        {
+          "url": "http://www.chemguide.co.uk/",
+          "title": "chemguide: helping you to understand Chemistry - Main Menu"
         },
         {
-          "url": "https://www.voteannapaulina.com/platform",
-          "title": "Anna Paulina Luna for Congress"
+          "url": "http://www.aib.it/",
+          "title": "Homepage - AIB WEB"
+        },
+        {
+          "url": "https://www.worldbank.org/en/language-resources",
+          "title": "Language Resources"
+        },
+        {
+          "url": "https://www.zearn.org/",
+          "title": "Login | Zearn Math"
+        },
+        {
+          "url": "https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html",
+          "title": "The ECHO Model - Project ECHO"
+        },
+        {
+          "url": "https://execed.economist.com",
+          "title": "void"
         }
       ],
       "count": 6
@@ -176,12 +206,12 @@
       "name": "sports-recreation",
       "bookmarks": [
         {
-          "url": "https://www.arrl.org/getting-licensed",
-          "title": "Getting Licensed"
-        },
-        {
           "url": "http://californiaplacestoshoot.com/Secure/Login.aspx?returnurl=%2FBlog%2FViewCategory.aspx%3Fcat%3D1%26mid%3D12%26pageid%3D10",
           "title": "..."
+        },
+        {
+          "url": "https://www.arrl.org/getting-licensed",
+          "title": "Getting Licensed"
         },
         {
           "url": "https://www.mlb.com/live-stream-games/subscribe?mlbkw=ds-g-p30039016412&gclid=Cj0KCQjw-O35BRDVARIsAJU5mQXEnn26WiD6DtX4X9Fnb5p0tUAv-VnDgcDXZgBbQHkPpK1hgnq9xdoaAiGcEALw_wcB&gclsrc=aw.ds",
@@ -210,20 +240,20 @@
           "title": "Cable Company Fees Add $450 to Typical Annual Bill - Consumer Reports"
         },
         {
-          "url": "https://www.healthline.com/health/ointment-vs-cream",
-          "title": "Ointment vs. Cream, Lotion, and Gel: What Makes Them Different?"
+          "url": "https://www.usada.org/spirit-of-sport/education/can-poppyseeds-cause-a-positive-drug-test/",
+          "title": "Can Poppy Seeds Cause a Positive Drug Test? | USADA"
         },
         {
           "url": "https://hrtechprivacy.com/brands/glassdoor#privacypolicy",
           "title": "HR Tech Privacy -"
         },
         {
-          "url": "http://www.jedasoftwaresystems.com/GHPrivacyPolicy.html",
-          "title": "void"
+          "url": "https://www.healthline.com/health/ointment-vs-cream",
+          "title": "Ointment vs. Cream, Lotion, and Gel: What Makes Them Different?"
         },
         {
-          "url": "https://www.usada.org/spirit-of-sport/education/can-poppyseeds-cause-a-positive-drug-test/",
-          "title": "Can Poppy Seeds Cause a Positive Drug Test? | USADA"
+          "url": "http://www.jedasoftwaresystems.com/GHPrivacyPolicy.html",
+          "title": "void"
         }
       ],
       "count": 5
@@ -232,20 +262,20 @@
       "name": "design-resources",
       "bookmarks": [
         {
-          "url": "https://www.behance.net/galleries/graphic-design",
-          "title": "Behance"
+          "url": "https://madebyshape.co.uk/web-design-blog/50-best-free-fonts-for-designers-in-2025/",
+          "title": "50 Best Free Fonts for Designers in 2025 | MadeByShape"
         },
         {
-          "url": "https://www.humaaans.com/",
-          "title": "Humaaans: Mix-&-Match illustration library"
+          "url": "https://www.behance.net/galleries/graphic-design",
+          "title": "Behance"
         },
         {
           "url": "https://lawsofux.com/",
           "title": "Home | Laws of UX"
         },
         {
-          "url": "https://madebyshape.co.uk/web-design-blog/50-best-free-fonts-for-designers-in-2025/",
-          "title": "50 Best Free Fonts for Designers in 2025 | MadeByShape"
+          "url": "https://www.humaaans.com/",
+          "title": "Humaaans: Mix-&-Match illustration library"
         },
         {
           "url": "https://kotilabdulkadir.notion.site/Mockup-Plugin-4d94d59a10b14d30ba4e76fc8d307501?pvs=25",
@@ -255,36 +285,6 @@
       "count": 5
     },
     {
-      "name": "education-learning-resources",
-      "bookmarks": [
-        {
-          "url": "http://www.aib.it/",
-          "title": "Homepage - AIB WEB"
-        },
-        {
-          "url": "http://www.chemguide.co.uk/",
-          "title": "chemguide: helping you to understand Chemistry - Main Menu"
-        },
-        {
-          "url": "https://execed.economist.com",
-          "title": "void"
-        },
-        {
-          "url": "https://hsc.unm.edu/echo/what-we-do/about-the-echo-model.html",
-          "title": "The ECHO Model - Project ECHO"
-        },
-        {
-          "url": "https://www.worldbank.org/en/language-resources",
-          "title": "Language Resources"
-        },
-        {
-          "url": "https://www.zearn.org/",
-          "title": "Login | Zearn Math"
-        }
-      ],
-      "count": 6
-    },
-    {
       "name": "environmental-initiatives",
       "bookmarks": [
         {
@@ -292,12 +292,12 @@
           "title": "Blue Prosperity Coalition | Global Network Advancing Sustainable Ocean Management"
         },
         {
-          "url": "https://equitablefood.org/",
-          "title": "Home - Equitable Food Initiative"
-        },
-        {
           "url": "http://www.maine.gov/dep/waste/ewaste/index.html",
           "title": "Electronics Recycling, Waste Management, Maine Department of Environmental Protection"
+        },
+        {
+          "url": "https://equitablefood.org/",
+          "title": "Home - Equitable Food Initiative"
         },
         {
           "url": "https://mailback-msft.tes-amm.com/_Content/nl-BE/",
@@ -309,68 +309,6 @@
         }
       ],
       "count": 5
-    },
-    {
-      "name": "science-research-resources",
-      "bookmarks": [
-        {
-          "url": "https://www.elsevier.com/solutions/sciencedirect",
-          "title": "ScienceDirect | Peer-reviewed literature | Elsevier"
-        },
-        {
-          "url": "https://mts-natecolevol.nature.com/cgi-bin/main.plex",
-          "title": "Nature Ecology & Evolution"
-        },
-        {
-          "url": "https://oceandataconference.org/",
-          "title": "Ocean Data Conference - ocean data conference organised by IODE"
-        },
-        {
-          "url": "http://science.gsfc.nasa.gov/sed/",
-          "title": "Science @ GSFC"
-        },
-        {
-          "url": "https://en.wikipedia.org/wiki/South_Atlantic_Anomaly",
-          "title": "South Atlantic Anomaly - Wikipedia"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "companies-brands",
-      "bookmarks": [
-        {
-          "url": "https://www.algonquinhotel.com/",
-          "title": "Finest Luxury - Hotel Near Times Square | The Algonquin Hotel"
-        },
-        {
-          "url": "https://www.foxinthesnow.com/",
-          "title": "Fox in the Snow | Modern Bakery and Coffee Shop in OH"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "nonprofit-social-services",
-      "bookmarks": [
-        {
-          "url": "http://www.childnow.org/",
-          "title": "Children's Institute for Learning Differences | PROGRESS STARTS HERE"
-        },
-        {
-          "url": "http://fcsn1996.org/",
-          "title": "FCSN - Friends of Children with Special Needs"
-        },
-        {
-          "url": "https://www.naacp.org/act-so/",
-          "title": "ACT-SO Achievement Program"
-        },
-        {
-          "url": "http://refugees.org/",
-          "title": "U.S. Committee for Refugees and Immigrants - USCRI"
-        }
-      ],
-      "count": 4
     },
     {
       "name": "online-blogs-content",
@@ -399,55 +337,85 @@
       "count": 5
     },
     {
-      "name": "social-media-platforms",
+      "name": "science-research-resources",
       "bookmarks": [
         {
-          "url": "https://www.quepasaboricua.com/labrador/event/?s=1&location=GM&show=15",
-          "title": "Una Red Social Netamente Puertorriqueña"
+          "url": "https://mts-natecolevol.nature.com/cgi-bin/main.plex",
+          "title": "Nature Ecology & Evolution"
         },
         {
-          "url": "https://www.tumblr.com/",
-          "title": "Trending topics on Tumblr"
+          "url": "https://oceandataconference.org/",
+          "title": "Ocean Data Conference - ocean data conference organised by IODE"
         },
         {
-          "url": "https://socialimpact.youtube.com/",
-          "title": "Come funziona YouTube: dare a tutti uno spazio per esprimersi"
+          "url": "http://science.gsfc.nasa.gov/sed/",
+          "title": "Science @ GSFC"
+        },
+        {
+          "url": "https://www.elsevier.com/solutions/sciencedirect",
+          "title": "ScienceDirect | Peer-reviewed literature | Elsevier"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/South_Atlantic_Anomaly",
+          "title": "South Atlantic Anomaly - Wikipedia"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "cultural-history-folklore",
+      "name": "nonprofit-social-services",
+      "bookmarks": [
+        {
+          "url": "https://www.naacp.org/act-so/",
+          "title": "ACT-SO Achievement Program"
+        },
+        {
+          "url": "http://www.childnow.org/",
+          "title": "Children's Institute for Learning Differences | PROGRESS STARTS HERE"
+        },
+        {
+          "url": "http://fcsn1996.org/",
+          "title": "FCSN - Friends of Children with Special Needs"
+        },
+        {
+          "url": "http://refugees.org/",
+          "title": "U.S. Committee for Refugees and Immigrants - USCRI"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "cultural-folklore-history",
       "bookmarks": [
         {
           "url": "https://historiska.se/utstallningar/haxor/",
           "title": "Häxor | Historiska Museet"
         },
         {
-          "url": "https://www.metmuseum.org/toah/hd/pape/hd_pape.htm",
-          "title": "The Papacy during the Renaissance - The Metropolitan Museum of Art"
-        },
-        {
           "url": "https://blog.slowianskibestiariusz.pl/tag/slowianskie-demony/",
           "title": "słowiańskie demony - Słowiański Bestiariusz"
+        },
+        {
+          "url": "https://www.metmuseum.org/toah/hd/pape/hd_pape.htm",
+          "title": "The Papacy during the Renaissance - The Metropolitan Museum of Art"
         }
       ],
       "count": 3
     },
     {
-      "name": "education-higher-institutions",
+      "name": "higher-education-institutions",
       "bookmarks": [
         {
           "url": "https://aubmediterraneo.cy/",
           "title": "American University of Beirut - Home - Pafos"
         },
         {
-          "url": "http://www.iitg.ernet.in/",
-          "title": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी"
-        },
-        {
           "url": "http://www.vallauri.edu/",
           "title": "I.I.S. G. Vallauri - Fossano"
+        },
+        {
+          "url": "http://www.iitg.ernet.in/",
+          "title": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी"
         }
       ],
       "count": 3
@@ -456,16 +424,16 @@
       "name": "hobbies-crafts",
       "bookmarks": [
         {
+          "url": "https://www.welshbaskets.co.uk/store/p47/Additional_Postage_Fee.html",
+          "title": "Additional Postage Fee"
+        },
+        {
           "url": "https://www.scalemates.com/",
           "title": "Scalemates, plastic modeling database | stash manager"
         },
         {
           "url": "https://www.treadleon.net/sewingmachineshop/index.html",
           "title": "TreadleOn - The Sewing Machine Shop"
-        },
-        {
-          "url": "https://www.welshbaskets.co.uk/store/p47/Additional_Postage_Fee.html",
-          "title": "Additional Postage Fee"
         }
       ],
       "count": 3
@@ -489,12 +457,26 @@
       "count": 3
     },
     {
-      "name": "travel-tourism-guides",
+      "name": "social-media-platforms",
       "bookmarks": [
         {
-          "url": "https://www.annefrank.org/en/museum/tickets/",
-          "title": "Tickets | Anne Frank House"
+          "url": "https://socialimpact.youtube.com/",
+          "title": "Come funziona YouTube: dare a tutti uno spazio per esprimersi"
         },
+        {
+          "url": "https://www.tumblr.com/",
+          "title": "Trending topics on Tumblr"
+        },
+        {
+          "url": "https://www.quepasaboricua.com/labrador/event/?s=1&location=GM&show=15",
+          "title": "Una Red Social Netamente Puertorriqueña"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "travel-tourism-guides",
+      "bookmarks": [
         {
           "url": "https://klubitus.org/venue/652-capital-club-bar",
           "title": "Capital Club & Bar"
@@ -502,9 +484,27 @@
         {
           "url": "https://shop.lonelyplanet.com/categories/canada?city%5B%5D=Quebec+City&city%5B%5D=Halifax&city%5B%5D=Calgary&city%5B%5D=Churchill&city%5B%5D=Victoria&city%5B%5D=Dawson+City&city%5B%5D=Ottawa&series%5B%5D=Pocket&series%5B%5D=Regional+Guide&series%5B%5D=Best+of+Country&series%5B%5D=Planning+Maps&series%5B%5D=9-12+Children%27s&series%5B%5D=City+Map&sort%5B%5D=featured&sort%5B%5D=top_sellers",
           "title": "Lonely Planet books for Canada"
+        },
+        {
+          "url": "https://www.annefrank.org/en/museum/tickets/",
+          "title": "Tickets | Anne Frank House"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "companies-brands",
+      "bookmarks": [
+        {
+          "url": "https://www.algonquinhotel.com/",
+          "title": "Finest Luxury - Hotel Near Times Square | The Algonquin Hotel"
+        },
+        {
+          "url": "https://www.foxinthesnow.com/",
+          "title": "Fox in the Snow | Modern Bakery and Coffee Shop in OH"
+        }
+      ],
+      "count": 2
     }
   ],
   "total_bookmarks": 98,

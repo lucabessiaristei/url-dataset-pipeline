@@ -1,6 +1,202 @@
 {
   "folders": [
     {
+      "name": "misc-websites",
+      "bookmarks": [
+        {
+          "url": "http://www.arcadebelgium.be/",
+          "title": "Arcade Belgium - News (en)"
+        },
+        {
+          "url": "http://www.cinemaerrante.com/2012/02/08/berlinale-2012-al-via-la-62-edizione-74336/",
+          "title": "Berlinale 2012, al via la 62° edizione | Cinema Errante"
+        },
+        {
+          "url": "http://www.chrisjerichocruise.com/",
+          "title": "Chris Jericho's Rock 'N' Wrestling Rager at Sea"
+        },
+        {
+          "url": "http://flightfuelcoffee.com",
+          "title": "DropCatch.com"
+        },
+        {
+          "url": "http://www.foxandsheep.com",
+          "title": "Fox & Sheep - Digital Kids Studio"
+        },
+        {
+          "url": "http://www.garzia.it/",
+          "title": "Garzia.it"
+        },
+        {
+          "url": "http://www.prnewswire.com/news-releases/horizon-media-study-reveals-americans-prioritize-stem-subjects-over-the-arts-science-is-cool-coding-is-new-literacy-300154137.html",
+          "title": "Horizon Media Study Reveals Americans Prioritize STEM Subjects over the Arts; Science is \"Cool,\" Coding is New Literacy"
+        },
+        {
+          "url": "http://www.onepixeldev.com/contactappsupport",
+          "title": "One Pixel Dev - Contact/App Support"
+        },
+        {
+          "url": "http://www.shavedlabs.com",
+          "title": "Shaved Labs - iPhone Apps"
+        }
+      ],
+      "count": 9
+    },
+    {
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://cineclub.de/filmarchiv/z/v.html",
+          "title": "Cineclub - Filmarchiv: v"
+        },
+        {
+          "url": "https://www.mlssoccer.com/standings/",
+          "title": "Conference Standings | MLSsoccer.com"
+        },
+        {
+          "url": "https://www.dicelacancion.com/discografia-drain-sth",
+          "title": "Drain sth: Letras de canciones y significados - Dice la canción"
+        },
+        {
+          "url": "https://www.ea.com/ea-play",
+          "title": "EA Play Membership - Official EA Site"
+        },
+        {
+          "url": "https://www.doksite.de/de/video/5418-Hingerissen_von_einem_ungewoehnlichen_Schicksal_im_azurblauen_Meer_im_August",
+          "title": "Hingerissen von einem ungewöhnlichen Schicksal im azurblauen Meer im August | DOKsite Filmportal"
+        },
+        {
+          "url": "https://www.iheart.com/podcast/",
+          "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
+        },
+        {
+          "url": "https://tubitv.com/static/privacy",
+          "title": "Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws."
+        }
+      ],
+      "count": 7
+    },
+    {
+      "name": "business-commerce",
+      "bookmarks": [
+        {
+          "url": "https://enterprise.microsoft.com/en-us/get-listed/",
+          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
+        },
+        {
+          "url": "https://www.giftcart.com/",
+          "title": "GIFTCART Online Gifts Shop & Gift Ideas | India's Leading Gift Portal"
+        },
+        {
+          "url": "https://awo-oldtimer.de/Innensechskantschraube-M6-x-2000mm-DIN-912-Edelstahl",
+          "title": "Innensechskantschraube (M6 x 20,00mm) DIN 912 Edelstahl"
+        },
+        {
+          "url": "https://www.jomashop.com/maison-francis-kurkdjian-unisex-baccarat-rouge-540-white-edp-spray-2-4-oz-fragrances-3700559603116.html",
+          "title": "Maison Francis Kurkdjian Unisex Baccarat Rouge 540 EDP Spray 2.4 oz (70 ml)"
+        },
+        {
+          "url": "https://www.idee-shop.com/ohhh-lovely-papierblumen-girlande-klein-rosa-160-cm",
+          "title": "Papierblumen Girlande klein rosa 160 cm | 3324431"
+        },
+        {
+          "url": "https://www.target.com/store-locator/find-stores",
+          "title": "Stores Near Me : Target"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "misc-web-tools",
+      "bookmarks": [
+        {
+          "url": "https://arstechnica.com/civis/",
+          "title": "Ars OpenForum"
+        },
+        {
+          "url": "https://tapestrycx.qualtrics.com/jfe/form/SV_elDxRRjYI5oIVfg?Source=footer1",
+          "title": "Online Survey | Built with Qualtrics Experience Management™"
+        },
+        {
+          "url": "http://orcid.org/0000-0003-4730-3570",
+          "title": "ORCID"
+        },
+        {
+          "url": "https://linkpop.com",
+          "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify"
+        },
+        {
+          "url": "https://feeds.feedburner.com/google/think",
+          "title": "Think with Google - Discover Marketing Research & Digital Trends"
+        },
+        {
+          "url": "http://squarespace.com",
+          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "news-media",
+      "bookmarks": [
+        {
+          "url": "https://www.yahoo.com/entertainment/bob-saget-widow-kelly-rizzo-moved-out-home-months-death-152514585.html",
+          "title": "Bob Saget's widow Kelly Rizzo confirms she moved out of their home 3 months after his death"
+        },
+        {
+          "url": "https://www.seoghoer.dk/nyheder/frederik-til-haandboldfinale-med-familien",
+          "title": "Frederik: Til håndboldfinale med familien | SE og HØR"
+        },
+        {
+          "url": "https://www.ahoragranada.com/noticias/la-influencia-del-ejercicio-en-el-cerebro-y-la-salud-mental-a-debate-en-la-universidad-de-granada/",
+          "title": "La influencia del ejercicio en el cerebro y la salud mental, a debate en la Universidad de Granada - Ahora Granada"
+        },
+        {
+          "url": "https://www.theguardian.com/",
+          "title": "Latest news, sport and opinion from the Guardian"
+        },
+        {
+          "url": "https://www.newyorker.com/magazine/2010/09/20/the-face-of-facebook",
+          "title": "Mark Zuckerberg Opens Up | The New Yorker"
+        },
+        {
+          "url": "https://www.cbsnews.com/news/climate-change-how-carbon-dioxide-emissions-warm-earth/?ftag=CNM-00-10aab7e&linkId=196697747",
+          "title": "The Invisible Problem: Understanding how carbon is warming the Earth - CBS News"
+        }
+      ],
+      "count": 6
+    },
+    {
+      "name": "software-development",
+      "bookmarks": [
+        {
+          "url": "https://jsonformatter.org/json-editor",
+          "title": "Best JSON Editor Online"
+        },
+        {
+          "url": "https://omidfarhang.com/2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/",
+          "title": "Chrome 21 arrives with new API for video and audio communication | Omid Farhang"
+        },
+        {
+          "url": "https://stackoverflow.com/questions/tagged/google-maps",
+          "title": "Newest 'google-maps' Questions - Stack Overflow"
+        },
+        {
+          "url": "https://www.postgresql.org/docs/current/indexes.html",
+          "title": "PostgreSQL: Documentation: 18: Chapter 11. Indexes"
+        },
+        {
+          "url": "https://nodejs.org/api/stream.html",
+          "title": "Stream | Node.js v24.10.0 Documentation"
+        },
+        {
+          "url": "https://lightning.ai/docs/pytorch/stable/",
+          "title": "Welcome to ⚡ PyTorch Lightning - PyTorch Lightning 2.5.5 documentation"
+        }
+      ],
+      "count": 6
+    },
+    {
       "name": "government-agencies",
       "bookmarks": [
         {
@@ -8,59 +204,165 @@
           "title": "Condiciones generales para la modalidad general de puesta a disposición de los documentos reutilizables del Ayuntamiento de Madrid - Portal de datos abiertos del Ayuntamiento de Madrid"
         },
         {
+          "url": "https://unstats.un.org/unsd/dnss/gp/fundprinciples.aspx",
+          "title": "Fundamental Principles of Official Statistics"
+        },
+        {
           "url": "https://www.fec.gov",
           "title": "Home | FEC"
         },
         {
-          "url": "https://nrcan.gc.ca",
+          "url": "http://www.nrcan.gc.ca/",
           "title": "Natural Resources Canada"
         },
         {
           "url": "https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink",
           "title": "Passport Seva Home | Indian Passport | Passport | Passport Seva Project"
-        },
-        {
-          "url": "https://unstats.un.org/unsd/dnss/gp/fundprinciples.aspx",
-          "title": "Fundamental Principles of Official Statistics"
         }
       ],
       "count": 5
     },
     {
-      "name": "news-media",
+      "name": "personal-blogs",
       "bookmarks": [
         {
-          "url": "https://www.ahoragranada.com/noticias/la-influencia-del-ejercicio-en-el-cerebro-y-la-salud-mental-a-debate-en-la-universidad-de-granada/",
-          "title": "La influencia del ejercicio en el cerebro y la salud mental, a debate en la Universidad de Granada - Ahora Granada"
+          "url": "https://maryannyutzy.com/2007/12/24/christmas-card-and-letter-2007/",
+          "title": "Christmas Card and Letter, 2007 | Delaware Grammy"
         },
         {
-          "url": "https://www.cbsnews.com/news/climate-change-how-carbon-dioxide-emissions-warm-earth/?ftag=CNM-00-10aab7e&linkId=196697747",
-          "title": "The Invisible Problem: Understanding how carbon is warming the Earth - CBS News"
+          "url": "https://lisaemme.com/crazy-canuck-new-years-blog-hop/?like_comment=119&_wpnonce=297513bbd2",
+          "title": "Crazy Canuck New Year's Blog Hop | lisa emme"
         },
         {
-          "url": "https://www.newyorker.com/magazine/2010/09/20/the-face-of-facebook",
-          "title": "Mark Zuckerberg Opens Up | The New Yorker"
+          "url": "https://katespadeny.tumblr.com/",
+          "title": "kate spade new york"
         },
         {
-          "url": "https://www.seoghoer.dk/nyheder/frederik-til-haandboldfinale-med-familien",
-          "title": "Frederik: Til håndboldfinale med familien | SE og HØR"
+          "url": "https://briansit.tumblr.com/",
+          "title": "Sure, If you say so."
         },
         {
-          "url": "https://www.theguardian.com",
-          "title": "Latest news, sport and opinion from the Guardian"
-        },
-        {
-          "url": "https://www.yahoo.com/entertainment/bob-saget-widow-kelly-rizzo-moved-out-home-months-death-152514585.html",
-          "title": "Bob Saget's widow Kelly Rizzo confirms she moved out of their home 3 months after his death"
+          "url": "https://makingmanhattan.tumblr.com/",
+          "title": "z = boy + girl"
         }
       ],
-      "count": 6
+      "count": 5
     },
     {
-      "name": "technology-ai",
+      "name": "environment-conservation",
       "bookmarks": [
         {
-          "url": "https://generated.photos",
+          "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/280891580715878729/climate-change-and-marine-fisheries-in-africa-assessing-vulnerability-and-strengthening-adaptation-capacity",
+          "title": "Climate Change and Marine Fisheries in Africa : Assessing Vulnerability and Strengthening Adaptation Capacity"
+        },
+        {
+          "url": "https://mpatlas.org/",
+          "title": "Home | Marine Protection Atlas"
+        },
+        {
+          "url": "https://skytruth.org/",
+          "title": "SkyTruth - If you can see it, you can change it"
+        },
+        {
+          "url": "https://watttime.recruiterbox.com/",
+          "title": "WattTime jobs | WattTime openings | WattTime careers"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "health-fitness",
+      "bookmarks": [
+        {
+          "url": "https://yogawithadriene.com/blog/",
+          "title": "Blog Archives | Yoga With Adriene"
+        },
+        {
+          "url": "https://covid19.ca.gov/",
+          "title": "COVID-19"
+        },
+        {
+          "url": "https://www.oxygenmag.com/life/womens-fitness-personalities/jaclyn-cordeiro-on-striving-for-progress-not-perfection/",
+          "title": "Jaclyn Cordeiro on Striving for Progress, Not Perfection - Oxygen Mag"
+        },
+        {
+          "url": "https://www.boots.com/toiletries",
+          "title": "Toiletries - Womens & Mens - Boots"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "science-research",
+      "bookmarks": [
+        {
+          "url": "https://ldl.gatech.edu/publications?s=year&amp%3Bf%5Bag%5D=R&f%5Bauthor%5D=872&o=asc",
+          "title": "[current-page:page-title] | [site:name]"
+        },
+        {
+          "url": "https://www.vam.ac.uk/collections/architecture",
+          "title": "Architecture - Explore the Collections · V&A"
+        },
+        {
+          "url": "https://www.planet.com/pulse/introducing-planetary-variables-soil-water-content-land-surface-temperature-and-vegetation-biomass/",
+          "title": "Introducing Planetary Variables: Soil Water Content, Land Surface Temperature, and Vegetation Biomass"
+        },
+        {
+          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Trehalose",
+          "title": "Trehalose | C12H22O11 | CID 7427 - PubChem"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "social-justice",
+      "bookmarks": [
+        {
+          "url": "https://borderhumanity.soapboxx.com/category/639b33081b3ddc804109447b",
+          "title": "Border Humanity Project - Category - Why We Welcome"
+        },
+        {
+          "url": "https://www.aauw.org/",
+          "title": "Home - AAUW : Empowering Women Since 1881"
+        },
+        {
+          "url": "https://nul.org/",
+          "title": "Home | National Urban League"
+        },
+        {
+          "url": "https://socialjusticeparenting.com/",
+          "title": "Social Justice Parenting"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "tech-companies",
+      "bookmarks": [
+        {
+          "url": "https://www.samsung.com/us/watches/galaxy-watch5-pro/",
+          "title": "Explore Galaxy Watch Ultra | Premium Smartwatch | Samsung US"
+        },
+        {
+          "url": "https://www.microsoft.com/edge",
+          "title": "Get to Know Microsoft Edge"
+        },
+        {
+          "url": "http://esri.com",
+          "title": "GIS Software for Mapping and Spatial Analytics | Esri"
+        },
+        {
+          "url": "https://developers.googleblog.com",
+          "title": "Home - Google Developers Blog"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "ai-technology",
+      "bookmarks": [
+        {
+          "url": "https://generated.photos/#",
           "title": "Generated Photos | Unique, worry-free model photos"
         },
         {
@@ -75,171 +377,15 @@
       "count": 3
     },
     {
-      "name": "software-development",
-      "bookmarks": [
-        {
-          "url": "https://jsonformatter.org/json-editor",
-          "title": "Best JSON Editor Online"
-        },
-        {
-          "url": "https://lightning.ai/docs/pytorch/stable/",
-          "title": "Welcome to ⚡ PyTorch Lightning - PyTorch Lightning 2.5.5 documentation"
-        },
-        {
-          "url": "https://nodejs.org/api/stream.html",
-          "title": "Stream | Node.js v24.10.0 Documentation"
-        },
-        {
-          "url": "https://omidfarhang.com/2012/08/02/chrome-21-arrives-with-new-api-for-video-and-audio-communication/",
-          "title": "Chrome 21 arrives with new API for video and audio communication | Omid Farhang"
-        },
-        {
-          "url": "https://www.postgresql.org/docs/current/indexes.html",
-          "title": "PostgreSQL: Documentation: 18: Chapter 11. Indexes"
-        },
-        {
-          "url": "https://stackoverflow.com/questions/tagged/google-maps",
-          "title": "Newest 'google-maps' Questions - Stack Overflow"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "business-commerce",
-      "bookmarks": [
-        {
-          "url": "https://awo-oldtimer.de/Innensechskantschraube-M6-x-2000mm-DIN-912-Edelstahl",
-          "title": "Innensechskantschraube (M6 x 20,00mm) DIN 912 Edelstahl"
-        },
-        {
-          "url": "https://enterprise.microsoft.com/en-us/get-listed/",
-          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
-        },
-        {
-          "url": "https://www.giftcart.com",
-          "title": "GIFTCART Online Gifts Shop & Gift Ideas | India's Leading Gift Portal"
-        },
-        {
-          "url": "https://www.idee-shop.com/ohhh-lovely-papierblumen-girlande-klein-rosa-160-cm",
-          "title": "Papierblumen Girlande klein rosa 160 cm | 3324431"
-        },
-        {
-          "url": "https://www.jomashop.com/maison-francis-kurkdjian-unisex-baccarat-rouge-540-white-edp-spray-2-4-oz-fragrances-3700559603116.html",
-          "title": "Maison Francis Kurkdjian Unisex Baccarat Rouge 540 EDP Spray 2.4 oz (70 ml)"
-        },
-        {
-          "url": "https://www.target.com/store-locator/find-stores",
-          "title": "Stores Near Me : Target"
-        }
-      ],
-      "count": 6
-    },
-    {
-      "name": "education-learning",
-      "bookmarks": [
-        {
-          "url": "https://www.coursera.org/learn/algorithms-part2",
-          "title": "Algorithms, Part II | Coursera"
-        },
-        {
-          "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce/?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite",
-          "title": "Google Digital Marketing & E-commerce Professional Certificate | Coursera"
-        },
-        {
-          "url": "https://www.urosario.edu.co/Facultad-de-Economia/Inicio/",
-          "title": "Facultad de Economía - Universidad del Rosario"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "health-fitness",
-      "bookmarks": [
-        {
-          "url": "https://covid19.ca.gov",
-          "title": "COVID-19"
-        },
-        {
-          "url": "https://www.boots.com/toiletries",
-          "title": "Toiletries - Womens & Mens - Boots"
-        },
-        {
-          "url": "https://www.oxygenmag.com/life/womens-fitness-personalities/jaclyn-cordeiro-on-striving-for-progress-not-perfection/",
-          "title": "Jaclyn Cordeiro on Striving for Progress, Not Perfection - Oxygen Mag"
-        },
-        {
-          "url": "https://yogawithadriene.com/blog/",
-          "title": "Blog Archives | Yoga With Adriene"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "entertainment-media",
-      "bookmarks": [
-        {
-          "url": "https://cineclub.de/filmarchiv/z/v.html",
-          "title": "Cineclub - Filmarchiv: v"
-        },
-        {
-          "url": "https://www.dicelacancion.com/discografia-drain-sth",
-          "title": "Drain sth: Letras de canciones y significados - Dice la canción"
-        },
-        {
-          "url": "https://www.doksite.de/de/video/5418-Hingerissen_von_einem_ungewoehnlichen_Schicksal_im_azurblauen_Meer_im_August",
-          "title": "Hingerissen von einem ungewöhnlichen Schicksal im azurblauen Meer im August | DOKsite Filmportal"
-        },
-        {
-          "url": "https://www.ea.com/ea-play",
-          "title": "EA Play Membership - Official EA Site"
-        },
-        {
-          "url": "https://www.iheart.com/podcast/",
-          "title": "Listen to the Best Podcasts & Shows Online, Free | iHeart"
-        },
-        {
-          "url": "https://www.mlssoccer.com/standings/",
-          "title": "Conference Standings | MLSsoccer.com"
-        },
-        {
-          "url": "https://tubitv.com/static/privacy",
-          "title": "Tubi is the largest free movie and TV streaming service in the US. We are not available in Europe due to changes in EU laws."
-        }
-      ],
-      "count": 7
-    },
-    {
-      "name": "environment-conservation",
-      "bookmarks": [
-        {
-          "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/280891580715878729/climate-change-and-marine-fisheries-in-africa-assessing-vulnerability-and-strengthening-adaptation-capacity",
-          "title": "Climate Change and Marine Fisheries in Africa : Assessing Vulnerability and Strengthening Adaptation Capacity"
-        },
-        {
-          "url": "https://mpatlas.org",
-          "title": "Home | Marine Protection Atlas"
-        },
-        {
-          "url": "https://skytruth.org",
-          "title": "SkyTruth - If you can see it, you can change it"
-        },
-        {
-          "url": "https://watttime.recruiterbox.com/",
-          "title": "WattTime jobs | WattTime openings | WattTime careers"
-        }
-      ],
-      "count": 4
-    },
-    {
       "name": "cooking-baking",
       "bookmarks": [
         {
-          "url": "https://www.afamilyfeast.com",
-          "title": "Home - A Family Feast®"
+          "url": "https://bakewithshivesh.com/",
+          "title": "Bake with Shivesh - Sharing my baking adventures straight from my kitchen."
         },
         {
-          "url": "https://bakewithshivesh.com",
-          "title": "Bake with Shivesh - Sharing my baking adventures straight from my kitchen."
+          "url": "https://www.afamilyfeast.com/",
+          "title": "Home - A Family Feast®"
         },
         {
           "url": "https://www.kleineskulinarium.de/2017/02/mandorlini-der-pure-mandelgenuss/",
@@ -249,120 +395,58 @@
       "count": 3
     },
     {
-      "name": "design-resources",
+      "name": "education-learning",
       "bookmarks": [
         {
-          "url": "https://craftwork.design",
-          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
+          "url": "https://www.coursera.org/learn/algorithms-part2",
+          "title": "Algorithms, Part II | Coursera"
+        },
+        {
+          "url": "https://www.urosario.edu.co/Facultad-de-Economia/Inicio/",
+          "title": "Facultad de Economía - Universidad del Rosario"
+        },
+        {
+          "url": "https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce/?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite",
+          "title": "Google Digital Marketing & E-commerce Professional Certificate | Coursera"
         }
       ],
-      "count": 1
+      "count": 3
     },
     {
-      "name": "travel-transportation",
+      "name": "misc-organizations",
       "bookmarks": [
         {
-          "url": "https://www.nepalspiritualtrekking.com",
-          "title": "Nepal Spiritual Tours and Trekking - Best Everest Trek Nepal Spiritual Trekking Pvt. Ltd."
+          "url": "https://colesgroupdc.com/",
+          "title": "Coles Group"
         },
         {
-          "url": "https://www.ns.nl/reisinformatie",
-          "title": "Reisinformatie l Blijf op de hoogte | NS"
+          "url": "http://Rescue-DE.org",
+          "title": "International Rescue Committee | Rescue"
+        },
+        {
+          "url": "https://www.simplegenerosity.org/nonprofit-partner-questionnaire",
+          "title": "Nonprofit Partner Questionnaire Intro - Simple Generosity"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "science-research",
+      "name": "privacy-policies",
       "bookmarks": [
         {
-          "url": "https://ldl.gatech.edu/publications?s=year&amp%3Bf%5Bag%5D=R&f%5Bauthor%5D=872&o=asc",
-          "title": "[current-page:page-title] | [site:name]"
+          "url": "https://privacy.thewaltdisneycompany.com/en/dnsmi/",
+          "title": "California Consumer Privacy Act (CCPA) - The Walt Disney Privacy Center"
         },
         {
-          "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Trehalose",
-          "title": "Trehalose | C12H22O11 | CID 7427 - PubChem"
+          "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/",
+          "title": "Children's Privacy Policy - The Walt Disney Privacy Center"
         },
         {
-          "url": "https://www.planet.com/pulse/introducing-planetary-variables-soil-water-content-land-surface-temperature-and-vegetation-biomass/",
-          "title": "Introducing Planetary Variables: Soil Water Content, Land Surface Temperature, and Vegetation Biomass"
-        },
-        {
-          "url": "https://www.vam.ac.uk/collections/architecture",
-          "title": "Architecture - Explore the Collections · V&A"
+          "url": "https://help.instagram.com/519522125107875",
+          "title": "Meta Privacy Policy - How Meta collects and uses user data"
         }
       ],
-      "count": 4
-    },
-    {
-      "name": "tech-companies",
-      "bookmarks": [
-        {
-          "url": "https://developers.googleblog.com",
-          "title": "Home - Google Developers Blog"
-        },
-        {
-          "url": "https://esri.com",
-          "title": "GIS Software for Mapping and Spatial Analytics | Esri"
-        },
-        {
-          "url": "https://www.microsoft.com/edge",
-          "title": "Get to Know Microsoft Edge"
-        },
-        {
-          "url": "https://www.samsung.com/us/watches/galaxy-watch5-pro/",
-          "title": "Explore Galaxy Watch Ultra | Premium Smartwatch | Samsung US"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "social-justice",
-      "bookmarks": [
-        {
-          "url": "https://www.aauw.org",
-          "title": "Home - AAUW : Empowering Women Since 1881"
-        },
-        {
-          "url": "https://borderhumanity.soapboxx.com/category/639b33081b3ddc804109447b",
-          "title": "Border Humanity Project - Category - Why We Welcome"
-        },
-        {
-          "url": "https://nul.org",
-          "title": "Home | National Urban League"
-        },
-        {
-          "url": "https://socialjusticeparenting.com",
-          "title": "Social Justice Parenting"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "personal-blogs",
-      "bookmarks": [
-        {
-          "url": "https://briansit.tumblr.com/",
-          "title": "Sure, If you say so."
-        },
-        {
-          "url": "https://katespadeny.tumblr.com/",
-          "title": "kate spade new york"
-        },
-        {
-          "url": "https://lisaemme.com/crazy-canuck-new-years-blog-hop/?like_comment=119&_wpnonce=297513bbd2",
-          "title": "Crazy Canuck New Year's Blog Hop | lisa emme"
-        },
-        {
-          "url": "https://makingmanhattan.tumblr.com/",
-          "title": "z = boy + girl"
-        },
-        {
-          "url": "https://maryannyutzy.com/2007/12/24/christmas-card-and-letter-2007/",
-          "title": "Christmas Card and Letter, 2007 | Delaware Grammy"
-        }
-      ],
-      "count": 5
+      "count": 3
     },
     {
       "name": "automotive-recalls",
@@ -379,114 +463,30 @@
       "count": 2
     },
     {
-      "name": "privacy-policies",
+      "name": "travel-transportation",
       "bookmarks": [
         {
-          "url": "https://disneyprivacycenter.com/kids-privacy-policy/english/",
-          "title": "Children's Privacy Policy - The Walt Disney Privacy Center"
+          "url": "https://www.nepalspiritualtrekking.com/",
+          "title": "Nepal Spiritual Tours and Trekking - Best Everest Trek Nepal Spiritual Trekking Pvt. Ltd."
         },
         {
-          "url": "https://help.instagram.com/519522125107875",
-          "title": "Meta Privacy Policy - How Meta collects and uses user data"
-        },
-        {
-          "url": "https://privacy.thewaltdisneycompany.com/en/dnsmi/",
-          "title": "California Consumer Privacy Act (CCPA) - The Walt Disney Privacy Center"
+          "url": "https://www.ns.nl/reisinformatie",
+          "title": "Reisinformatie l Blijf op de hoogte | NS"
         }
       ],
-      "count": 3
+      "count": 2
     },
     {
-      "name": "misc-web-tools",
+      "name": "design-resources",
       "bookmarks": [
         {
-          "url": "https://arstechnica.com/civis/",
-          "title": "Ars OpenForum"
-        },
-        {
-          "url": "https://feeds.feedburner.com/google/think",
-          "title": "Think with Google - Discover Marketing Research & Digital Trends"
-        },
-        {
-          "url": "https://linkpop.com",
-          "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify"
-        },
-        {
-          "url": "https://orcid.org/0000-0003-4730-3570",
-          "title": "ORCID"
-        },
-        {
-          "url": "https://squarespace.com",
-          "title": "Website Builder - Easily Create Your Own Website - Squarespace"
-        },
-        {
-          "url": "https://tapestrycx.qualtrics.com/jfe/form/SV_elDxRRjYI5oIVfg?Source=footer1",
-          "title": "Online Survey | Built with Qualtrics Experience Management™"
+          "url": "https://craftwork.design/",
+          "title": "Craftwork: UX/UI kits, illustrations, mockups, fonts and more"
         }
       ],
-      "count": 6
-    },
-    {
-      "name": "misc-organizations",
-      "bookmarks": [
-        {
-          "url": "https://colesgroupdc.com",
-          "title": "Coles Group"
-        },
-        {
-          "url": "https://Rescue-DE.org",
-          "title": "International Rescue Committee | Rescue"
-        },
-        {
-          "url": "https://www.simplegenerosity.org/nonprofit-partner-questionnaire",
-          "title": "Nonprofit Partner Questionnaire Intro - Simple Generosity"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "misc-websites",
-      "bookmarks": [
-        {
-          "url": "http://flightfuelcoffee.com",
-          "title": "DropCatch.com"
-        },
-        {
-          "url": "http://www.arcadebelgium.be/",
-          "title": "Arcade Belgium - News (en)"
-        },
-        {
-          "url": "http://www.chrisjerichocruise.com/",
-          "title": "Chris Jericho's Rock 'N' Wrestling Rager at Sea"
-        },
-        {
-          "url": "http://www.cinemaerrante.com/2012/02/08/berlinale-2012-al-via-la-62-edizione-74336/",
-          "title": "Berlinale 2012, al via la 62° edizione | Cinema Errante"
-        },
-        {
-          "url": "http://www.foxandsheep.com",
-          "title": "Fox & Sheep - Digital Kids Studio"
-        },
-        {
-          "url": "http://www.garzia.it/",
-          "title": "Garzia.it"
-        },
-        {
-          "url": "http://www.onepixeldev.com/contactappsupport",
-          "title": "One Pixel Dev - Contact/App Support"
-        },
-        {
-          "url": "http://www.prnewswire.com/news-releases/horizon-media-study-reveals-americans-prioritize-stem-subjects-over-the-arts-science-is-cool-coding-is-new-literacy-300154137.html",
-          "title": "Horizon Media Study Reveals Americans Prioritize STEM Subjects over the Arts; Science is \"Cool,\" Coding is New Literacy"
-        },
-        {
-          "url": "http://www.shavedlabs.com",
-          "title": "Shaved Labs - iPhone Apps"
-        }
-      ],
-      "count": 9
+      "count": 1
     }
   ],
-  "total_bookmarks": 117,
+  "total_bookmarks": 90,
   "num_folders": 21
 }

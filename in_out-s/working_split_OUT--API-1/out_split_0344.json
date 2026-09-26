@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "name": "organizations-community",
+      "name": "community-organizations",
       "bookmarks": [
         {
           "url": "https://www.centerffs.org/",
@@ -32,12 +32,12 @@
           "title": "void"
         },
         {
-          "url": "http://www.ywomenvote.org/",
-          "title": "ywomenvote"
-        },
-        {
           "url": "https://www.ywcastpaul.org/",
           "title": "YWCA St. Paul - Eliminating Racism, Empowering Women"
+        },
+        {
+          "url": "http://www.ywomenvote.org/",
+          "title": "ywomenvote"
         }
       ],
       "count": 9
@@ -50,12 +50,12 @@
           "title": "AI News & Artificial Intelligence | TechCrunch"
         },
         {
-          "url": "https://www.hollandsentinel.com/story/news/columns/2020/05/10/mother-s-day-2020/1218142007/",
-          "title": "Mother's Day 2020"
-        },
-        {
           "url": "https://www.tmz.com/2023/02/28/montana-hunter-who-killed-and-skinned-husky-pleads-no-contest/",
           "title": "Montana Hunter Who Killed and Skinned Husky Sentenced, No Hunting for 6 Months"
+        },
+        {
+          "url": "https://www.hollandsentinel.com/story/news/columns/2020/05/10/mother-s-day-2020/1218142007/",
+          "title": "Mother's Day 2020"
         },
         {
           "url": "https://www.desmoinesregister.com/story/news/politics/2022/06/30/iowa-caucus-2024-nikki-haley-will-run-president-if-theres-place-me/7747121001/",
@@ -92,12 +92,12 @@
           "title": "Business Class: The Series Solutions - Latest Trends"
         },
         {
-          "url": "http://www.invictusafrica.com/",
-          "title": "Invictus Africa Group LLC"
-        },
-        {
           "url": "https://www.nationwide.com",
           "title": "Insurance and Financial Services Company - Nationwide"
+        },
+        {
+          "url": "http://www.invictusafrica.com/",
+          "title": "Invictus Africa Group LLC"
         },
         {
           "url": "https://marksoons.nl/category/momentum-podcast/",
@@ -118,16 +118,16 @@
       "name": "misc-unclassified",
       "bookmarks": [
         {
-          "url": "http://www.78e6.com/ebook/9ffbnt/",
-          "title": "Redirecting..."
-        },
-        {
           "url": "https://blog.amicaledesanciensdesainthadelin.be/2017/01/17/deces-de-monsieur-jean-verjans-epoux-de-madame-marie-jose-lagasse/",
           "title": "Décès de Monsieur Jean VERJANS, époux de Madame Marie-José LAGASSE - Amicale des anciens du Collège Saint-Hadelin"
         },
         {
           "url": "http://www.putty3d.com/privacy",
           "title": "Privacy Policy - Putty 3D"
+        },
+        {
+          "url": "http://www.78e6.com/ebook/9ffbnt/",
+          "title": "Redirecting..."
         },
         {
           "url": "http://ricette.shoppando.com/",
@@ -186,20 +186,20 @@
           "title": "Enric Sala: Let's turn the high seas into the world's largest nature reserve | TED Talk"
         },
         {
-          "url": "https://v15.proteinatlas.org/ENSG00000159363-ATP13A2/cell/HEK+293",
-          "title": "The Human Protein Atlas"
+          "url": "https://research.utwente.nl/en/publications/initial-spreading-of-low-viscosity-drops-on-partially-wetting-sur",
+          "title": "Initial spreading of low-viscosity drops on partially wetting surfaces - University of Twente Research Information"
         },
         {
           "url": "https://iode.org/index.php?option=com_content&view=article&id=724&Itemid=100434",
           "title": "IODE - International Oceanographic Data and Information Exchange"
         },
         {
-          "url": "https://research.utwente.nl/en/publications/initial-spreading-of-low-viscosity-drops-on-partially-wetting-sur",
-          "title": "Initial spreading of low-viscosity drops on partially wetting surfaces - University of Twente Research Information"
-        },
-        {
           "url": "https://muse.jhu.edu/article/625112",
           "title": "Project MUSE - Seamounts as Sites for Governance in the \"Areas Beyond National Jurisdiction\""
+        },
+        {
+          "url": "https://v15.proteinatlas.org/ENSG00000159363-ATP13A2/cell/HEK+293",
+          "title": "The Human Protein Atlas"
         }
       ],
       "count": 6
@@ -207,6 +207,10 @@
     {
       "name": "tech-software-dev",
       "bookmarks": [
+        {
+          "url": "http://git.tuebingen.mpg.de/?p=paraslash.git;a=commitdiff;h=4cc509155034d2079a8ba8d697003c9603ea6a6d;ds=sidebyside",
+          "title": "git.tuebingen.mpg.de Git - paraslash.git/commitdiff"
+        },
         {
           "url": "https://github.blog/?utm_source=developermscom",
           "title": "Home - The GitHub Blog"
@@ -220,10 +224,6 @@
           "title": "NVD - Search and Statistics"
         },
         {
-          "url": "http://git.tuebingen.mpg.de/?p=paraslash.git;a=commitdiff;h=4cc509155034d2079a8ba8d697003c9603ea6a6d;ds=sidebyside",
-          "title": "git.tuebingen.mpg.de Git - paraslash.git/commitdiff"
-        },
-        {
           "url": "https://vms.drweb.com/virus/?i=2405948",
           "title": "Trojan.DownLoader8.31367 - Dr.Web Malware description library"
         },
@@ -235,7 +235,33 @@
       "count": 6
     },
     {
-      "name": "blogs-personal",
+      "name": "entertainment-media",
+      "bookmarks": [
+        {
+          "url": "https://www.horrorscreamsvideovault.co.uk/tag/britney-amber",
+          "title": "Britney Amber | HORROR SCREAMS VIDEO VAULT - SUPPORTING INDEPENDENT HORROR"
+        },
+        {
+          "url": "https://www.footballcritic.com/",
+          "title": "FootballCritic - Form Index for Players & Teams."
+        },
+        {
+          "url": "http://lacuerda.net/Extras/movil.php",
+          "title": "LaCuerda: LaCuerda Móvil"
+        },
+        {
+          "url": "https://www.nationaltrust.org.uk/visit/london",
+          "title": "London | South East | National Trust"
+        },
+        {
+          "url": "https://www.fubo.tv/lp/StreamTV/?irad=343747&irmp=398453&subId1=streamingservices&subId2=ckhgo1ujg00003r8zaneft7pl",
+          "title": "Stream live TV & sports | Fubo"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "personal-blogs",
       "bookmarks": [
         {
           "url": "https://ivanskiieee-blog.tumblr.com/",
@@ -261,34 +287,12 @@
       "count": 5
     },
     {
-      "name": "media-entertainment",
-      "bookmarks": [
-        {
-          "url": "https://www.footballcritic.com/",
-          "title": "FootballCritic - Form Index for Players & Teams."
-        },
-        {
-          "url": "https://www.horrorscreamsvideovault.co.uk/tag/britney-amber",
-          "title": "Britney Amber | HORROR SCREAMS VIDEO VAULT - SUPPORTING INDEPENDENT HORROR"
-        },
-        {
-          "url": "http://lacuerda.net/Extras/movil.php",
-          "title": "LaCuerda: LaCuerda Móvil"
-        },
-        {
-          "url": "https://www.nationaltrust.org.uk/visit/london",
-          "title": "London | South East | National Trust"
-        },
-        {
-          "url": "https://www.fubo.tv/lp/StreamTV/?irad=343747&irmp=398453&subId1=streamingservices&subId2=ckhgo1ujg00003r8zaneft7pl",
-          "title": "Stream live TV & sports | Fubo"
-        }
-      ],
-      "count": 5
-    },
-    {
       "name": "style-fashion-beauty",
       "bookmarks": [
+        {
+          "url": "https://patternbeauty.com/",
+          "title": "Curly and Natural Hair Care Products | PATTERN Beauty - Pattern Beauty"
+        },
         {
           "url": "https://telademoda.com/moda/francisco-lopez-guarnicionero-de-diseno/?replytocom=9690",
           "title": "Francisco López, guarnicionero de diseño - Telademoda.com"
@@ -300,10 +304,6 @@
         {
           "url": "http://www.aeropostale.com/",
           "title": "Men's and Women's Jeans, Clothes, Hoodies, and Graphic Tees | Aeropostale."
-        },
-        {
-          "url": "https://patternbeauty.com/",
-          "title": "Curly and Natural Hair Care Products | PATTERN Beauty - Pattern Beauty"
         },
         {
           "url": "https://www.lillypulitzer.com/belle-tassel-necklace/007656.html?dwvar_007656_color=962",

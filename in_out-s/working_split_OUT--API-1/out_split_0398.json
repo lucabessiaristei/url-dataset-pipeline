@@ -1,82 +1,42 @@
 {
   "folders": [
     {
-      "name": "shopping-and-products",
-      "bookmarks": [
-        {
-          "url": "https://www.galaxus.ch/de/s1/producttype/staubsauger-76",
-          "title": "Kopierpapier · Druckerpapier - kaufen bei Galaxus"
-        },
-        {
-          "url": "https://www.magazine.store/people/?utm_source=engage&utm_medium=internal&utm_campaign=ppl_care_crumb",
-          "title": "PEOPLE Magazine Subscription | Subscribe to PEOPLE Magazine"
-        },
-        {
-          "url": "https://mutha.com/",
-          "title": "MUTHA"
-        },
-        {
-          "url": "https://www.thriftbooks.com/",
-          "title": "New & Used Books | Buy Cheap Books Online at ThriftBooks"
-        },
-        {
-          "url": "https://www.visko.se/klubb-visko/herr-3/valontano/",
-          "title": "Valontano - Visko"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "hobbies-and-personal-blogs",
+      "name": "personal-blogs-hobbies",
       "bookmarks": [
         {
           "url": "https://www.blipfoto.com/",
           "title": "Blipfoto | Your photo journal"
         },
         {
-          "url": "https://jasoncanty01.tumblr.com/",
-          "title": "Jason Canty's Tumblr Stuffs"
+          "url": "https://www.thearma.org/essays.htm",
+          "title": "Essays - Swords & Swordsmanship"
         },
         {
           "url": "https://synlawncolorado.com/installing-putting-green-idea-whose-time-come/",
           "title": "Installing Your Very Own Putting Green is an Idea Whose Time Has Come"
         },
         {
-          "url": "https://www.thearma.org/essays.htm",
-          "title": "Essays - Swords & Swordsmanship"
-        },
-        {
           "url": "https://want-her-midnights.tumblr.com/",
           "title": "it's lib"
+        },
+        {
+          "url": "https://jasoncanty01.tumblr.com/",
+          "title": "Jason Canty's Tumblr Stuffs"
         }
       ],
       "count": 5
     },
     {
-      "name": "health-and-wellness",
+      "name": "reference-guides",
       "bookmarks": [
         {
-          "url": "https://chat.tripsit.me/",
-          "title": "TripSit.Me"
+          "url": "https://solarsystem.nasa.gov/planets/overview/",
+          "title": "About the Planets"
         },
         {
-          "url": "https://espanol.cdc.gov/enes/coronavirus/2019-ncov/travelers/cruise-travel-during-covid19.html",
-          "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
+          "url": "https://faq.whatsapp.com/android/troubleshooting/notification-problems/?lang=ta",
+          "title": "Can't see or hear notifications | WhatsApp உதவி மையம்"
         },
-        {
-          "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
-          "title": "Diabetes - Symptoms and causes - Mayo Clinic"
-        },
-        {
-          "url": "https://vitaminpatchclub.com/products/total-package-bundle",
-          "title": "Total Package Bundle - Vitamin Patch Club"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "reference-and-guides",
-      "bookmarks": [
         {
           "url": "https://forum.coppeliarobotics.com/help/faq?sid=44eea4a80e85aab7e9b50e04f353589f",
           "title": "CoppeliaSim forums - Frequently Asked Questions"
@@ -88,43 +48,39 @@
         {
           "url": "https://pt.ifixit.com/Guide/translate/18385/52978/jp",
           "title": "Traduzir passo nº 8 a iPhone 5s Front Panel Assembly Replacement - iFixit"
-        },
-        {
-          "url": "https://faq.whatsapp.com/android/troubleshooting/notification-problems/?lang=ta",
-          "title": "Can't see or hear notifications | WhatsApp உதவி மையம்"
-        },
-        {
-          "url": "https://solarsystem.nasa.gov/planets/overview/",
-          "title": "About the Planets"
         }
       ],
       "count": 5
     },
     {
-      "name": "software-and-development",
+      "name": "shopping-products",
       "bookmarks": [
         {
-          "url": "https://blogs.msdn.microsoft.com/developer-tools/",
-          "title": "Home - Microsoft Developer Blogs"
+          "url": "https://www.galaxus.ch/de/s1/producttype/staubsauger-76",
+          "title": "Kopierpapier · Druckerpapier - kaufen bei Galaxus"
         },
         {
-          "url": "https://bugzilla.mozilla.org/home",
-          "title": "Bugzilla Main Page"
+          "url": "https://mutha.com/",
+          "title": "MUTHA"
         },
         {
-          "url": "https://react.dev/learn/referencing-values-with-refs",
-          "title": "Referencing Values with Refs - React"
+          "url": "https://www.thriftbooks.com/",
+          "title": "New & Used Books | Buy Cheap Books Online at ThriftBooks"
+        },
+        {
+          "url": "https://www.magazine.store/people/?utm_source=engage&utm_medium=internal&utm_campaign=ppl_care_crumb",
+          "title": "PEOPLE Magazine Subscription | Subscribe to PEOPLE Magazine"
+        },
+        {
+          "url": "https://www.visko.se/klubb-visko/herr-3/valontano/",
+          "title": "Valontano - Visko"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "business-and-community-resources",
+      "name": "business-community-resources",
       "bookmarks": [
-        {
-          "url": "http://campusevents.mines.edu/",
-          "title": "Home - Conference and Event Services"
-        },
         {
           "url": "https://growmystore.thinkwithgoogle.com/intl/en_us?utm_source=TwG&utm_medium=TwG-website&utm_campaign=TwG-header-tools-drop-down-us",
           "title": "Before you continue"
@@ -134,6 +90,10 @@
           "title": "Georgia - Business Listings - Support Black Owned - Results from #20"
         },
         {
+          "url": "http://campusevents.mines.edu/",
+          "title": "Home - Conference and Event Services"
+        },
+        {
           "url": "https://www.usbcwomenofpower.com/",
           "title": "Home | USBC Womens Power 50"
         }
@@ -141,18 +101,26 @@
       "count": 4
     },
     {
-      "name": "arts-and-entertainment",
+      "name": "health-wellness",
       "bookmarks": [
         {
-          "url": "http://flechebragarde.ddns.net/bd/auteur.php?coll=albums&idauteur=3277&liste=styles",
-          "title": "BD Gest' & BDGWeb - Détails pour l'auteur"
+          "url": "https://espanol.cdc.gov/enes/coronavirus/2019-ncov/travelers/cruise-travel-during-covid19.html",
+          "title": "Centros para el Control y la Prevención de Enfermedades | CDC"
         },
         {
-          "url": "https://feverup.com/m/117496",
-          "title": "DRAG: The Musical - Los Angeles - Tickets | Fever"
+          "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+          "title": "Diabetes - Symptoms and causes - Mayo Clinic"
+        },
+        {
+          "url": "https://vitaminpatchclub.com/products/total-package-bundle",
+          "title": "Total Package Bundle - Vitamin Patch Club"
+        },
+        {
+          "url": "https://chat.tripsit.me/",
+          "title": "TripSit.Me"
         }
       ],
-      "count": 2
+      "count": 4
     },
     {
       "name": "environmental-ocean-conservation",
@@ -173,39 +141,43 @@
       "count": 3
     },
     {
-      "name": "leisure-and-lifestyle",
+      "name": "legal-social-justice",
       "bookmarks": [
         {
-          "url": "https://www.bbcgoodfood.com/recipes/beef-bourguignon",
-          "title": "Beef Bourguignon Recipe | Good Food"
+          "url": "http://www.hivlawandpolicy.org/resources/map-hiv-criminalization-united-states-center-hiv-law-and-policy-2017",
+          "title": "Mapping HIV Criminalization Laws in the U.S., CHLP (2025) | The Center for HIV Law and Policy"
         },
         {
-          "url": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/",
-          "title": "Pantheon - Multi-Launch Coaster | Busch Gardens Williamsburg"
+          "url": "https://aclu.org/abortion-pledge",
+          "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
         },
         {
-          "url": "https://ksat.sports.gracenote.com/basketball/nba/team/404302/",
-          "title": "KSAT - NBA"
+          "url": "https://www.adl.org/education/references/hate-symbols/confederate-flag",
+          "title": "You are being redirected..."
         }
       ],
       "count": 3
     },
     {
-      "name": "news-and-information",
+      "name": "leisure-lifestyle",
       "bookmarks": [
-        {
-          "url": "https://symex.belfius.be/valeurs2.html?language=FR&periode=H6M&ticker=APAM&pays=NL&random=578861150&SID=qo58rqomrotah80qsbeodfhqn5",
-          "title": "Cotations"
-        },
         {
           "url": "https://www.bbcgoodfood.com/recipes/beef-bourguignon",
           "title": "Beef Bourguignon Recipe | Good Food"
+        },
+        {
+          "url": "https://ksat.sports.gracenote.com/basketball/nba/team/404302/",
+          "title": "KSAT - NBA"
+        },
+        {
+          "url": "https://buschgardens.com/williamsburg/roller-coasters/pantheon/",
+          "title": "Pantheon - Multi-Launch Coaster | Busch Gardens Williamsburg"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "nonprofit-and-community-support",
+      "name": "nonprofit-community-support",
       "bookmarks": [
         {
           "url": "https://mtgmn.org/",
@@ -223,30 +195,26 @@
       "count": 3
     },
     {
-      "name": "social-justice-and-legal",
+      "name": "software-development",
       "bookmarks": [
         {
-          "url": "https://aclu.org/abortion-pledge",
-          "title": "Take action, join our fight for rights and freedom | PeoplePower.org"
+          "url": "https://bugzilla.mozilla.org/home",
+          "title": "Bugzilla Main Page"
         },
         {
-          "url": "https://www.adl.org/education/references/hate-symbols/confederate-flag",
-          "title": "You are being redirected..."
+          "url": "https://blogs.msdn.microsoft.com/developer-tools/",
+          "title": "Home - Microsoft Developer Blogs"
         },
         {
-          "url": "http://www.hivlawandpolicy.org/resources/map-hiv-criminalization-united-states-center-hiv-law-and-policy-2017",
-          "title": "Mapping HIV Criminalization Laws in the U.S., CHLP (2025) | The Center for HIV Law and Policy"
+          "url": "https://react.dev/learn/referencing-values-with-refs",
+          "title": "Referencing Values with Refs - React"
         }
       ],
       "count": 3
     },
     {
-      "name": "website-utilities-and-access",
+      "name": "website-utilities-access",
       "bookmarks": [
-        {
-          "url": "https://www.csga07.fr/protected/?comeFrom=https%3A%2F%2Fwww.csga07.fr%2Fespace-membre%2Fgoogle-groupe%2F&",
-          "title": "Zone protégée par mot de passe - Connexion - Site de csga07 !"
-        },
         {
           "url": "http://overlandtandberg.com",
           "title": "Expired DNS Hosting Services | DNS Made Easy"
@@ -254,11 +222,39 @@
         {
           "url": "http://shareowneronline.com/",
           "title": "void"
+        },
+        {
+          "url": "https://www.csga07.fr/protected/?comeFrom=https%3A%2F%2Fwww.csga07.fr%2Fespace-membre%2Fgoogle-groupe%2F&",
+          "title": "Zone protégée par mot de passe - Connexion - Site de csga07 !"
         }
       ],
       "count": 3
+    },
+    {
+      "name": "arts-entertainment",
+      "bookmarks": [
+        {
+          "url": "http://flechebragarde.ddns.net/bd/auteur.php?coll=albums&idauteur=3277&liste=styles",
+          "title": "BD Gest' & BDGWeb - Détails pour l'auteur"
+        },
+        {
+          "url": "https://feverup.com/m/117496",
+          "title": "DRAG: The Musical - Los Angeles - Tickets | Fever"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "news-information",
+      "bookmarks": [
+        {
+          "url": "https://symex.belfius.be/valeurs2.html?language=FR&periode=H6M&ticker=APAM&pays=NL&random=578861150&SID=qo58rqomrotah80qsbeodfhqn5",
+          "title": "Cotations"
+        }
+      ],
+      "count": 1
     }
   ],
-  "total_bookmarks": 45,
+  "total_bookmarks": 44,
   "num_folders": 13
 }

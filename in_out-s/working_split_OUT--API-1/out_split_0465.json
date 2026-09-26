@@ -1,65 +1,11 @@
 {
   "folders": [
     {
-      "name": "academic-science-research",
-      "bookmarks": [
-        {
-          "url": "http://www.visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
-          "title": "A brief history of scientific practice | | Visionlearning"
-        },
-        {
-          "url": "https://www.unm.edu/accessibility.html",
-          "title": "Accessibility :: New Mexico's Flagship University | The University of New Mexico"
-        },
-        {
-          "url": "https://eclkc.ohs.acf.hhs.gov/programs/article/about-early-head-start-program",
-          "title": "About the Early Head Start Program | HeadStart.gov"
-        },
-        {
-          "url": "http://www.astrosociety.org/",
-          "title": "Astronomical Society of the Pacific"
-        },
-        {
-          "url": "https://building.coursera.org/",
-          "title": "Coursera Engineering"
-        },
-        {
-          "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
-          "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
-        },
-        {
-          "url": "http://www.angelfire.com/geek/alphabeta/",
-          "title": "Gravity"
-        },
-        {
-          "url": "https://maze.co/guides/usability-testing/",
-          "title": "What is Usability Testing? How to Evaluate the User Experience | Maze"
-        },
-        {
-          "url": "https://www.stanford.edu",
-          "title": "Stanford University"
-        },
-        {
-          "url": "https://author-welcome.nature.com/41598",
-          "title": "Submission Welcome Page"
-        }
-      ],
-      "count": 10
-    },
-    {
       "name": "environmental-conservation",
       "bookmarks": [
         {
-          "url": "https://alerts.mongabay.com/",
-          "title": "Subscribe to Mongabay news alerts"
-        },
-        {
           "url": "http://www.ara.at",
           "title": "ARA | Zukunft. Kreislauf. Wirtschaft. | Home"
-        },
-        {
-          "url": "https://www.arborday.org/programs/tree-campus-healthcare/",
-          "title": "Tree Campus Healthcare | Arbor Day Foundation"
         },
         {
           "url": "https://oceandecade.org/es/",
@@ -78,16 +24,70 @@
           "title": "Faire de la Chine un bouc émissaire du changement climatique constitue une attitude \"lâche et inexacte\", selon un journal britannique"
         },
         {
-          "url": "https://globalfishingwatch.org/",
-          "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
-        },
-        {
           "url": "https://livereport.protectedplanet.net/chapter-2",
           "title": "Introduction | Protected Planet Report 2020"
         },
         {
+          "url": "https://alerts.mongabay.com/",
+          "title": "Subscribe to Mongabay news alerts"
+        },
+        {
+          "url": "https://globalfishingwatch.org/",
+          "title": "Transparency for a Sustainable Ocean | Global Fishing Watch"
+        },
+        {
+          "url": "https://www.arborday.org/programs/tree-campus-healthcare/",
+          "title": "Tree Campus Healthcare | Arbor Day Foundation"
+        },
+        {
           "url": "https://en.unesco.org/news/covid-19-ocean-ally-against-virus",
           "title": "UNESCO : Building Peace through Education, Science and Culture, communication and information"
+        }
+      ],
+      "count": 10
+    },
+    {
+      "name": "science-research-academic",
+      "bookmarks": [
+        {
+          "url": "http://www.visionlearning.com/library/science/chemistry-1/CHE1.7-bonding.htm",
+          "title": "A brief history of scientific practice | | Visionlearning"
+        },
+        {
+          "url": "https://eclkc.ohs.acf.hhs.gov/programs/article/about-early-head-start-program",
+          "title": "About the Early Head Start Program | HeadStart.gov"
+        },
+        {
+          "url": "https://www.unm.edu/accessibility.html",
+          "title": "Accessibility :: New Mexico's Flagship University | The University of New Mexico"
+        },
+        {
+          "url": "http://www.astrosociety.org/",
+          "title": "Astronomical Society of the Pacific"
+        },
+        {
+          "url": "https://building.coursera.org/",
+          "title": "Coursera Engineering"
+        },
+        {
+          "url": "https://codeorg.medium.com/detailed-data-uncovers-new-stories-reveals-gaps-in-cs-access-and-participation-d5cbc01a5974",
+          "title": "Detailed data uncovers new stories, reveals gaps in CS access and participation | by Code.org | Medium"
+        },
+        {
+          "url": "http://www.angelfire.com/geek/alphabeta/",
+          "title": "Gravity"
+        },
+        {
+          "url": "https://www.stanford.edu",
+          "title": "Stanford University"
+        },
+        {
+          "url": "https://author-welcome.nature.com/41598",
+          "title": "Submission Welcome Page"
+        },
+        {
+          "url": "https://maze.co/guides/usability-testing/",
+          "title": "What is Usability Testing? How to Evaluate the User Experience | Maze"
         }
       ],
       "count": 10
@@ -100,28 +100,28 @@
           "title": "Comment Log Display"
         },
         {
-          "url": "https://cornwallpolice.com/fr/contact-us/repertoire-du-personnel",
-          "title": "Répertoire du personnel"
+          "url": "https://www.faa.gov/",
+          "title": "Federal Aviation Administration"
         },
         {
           "url": "https://www.data.gouv.fr/fr/datasets/",
           "title": "Jeux de données - data.gouv.fr"
         },
         {
-          "url": "http://datosabiertos.laspalmasgc.es/dataset/?id=callejero-municipal",
-          "title": "Portal de Datos Abiertos Las Palmas de Gran Canaria | Dataset | callejero-municipal"
-        },
-        {
-          "url": "https://www.faa.gov/",
-          "title": "Federal Aviation Administration"
-        },
-        {
           "url": "https://www.libertyellisfoundation.org/passenger",
           "title": "Passenger Search - The Statue of Liberty & Ellis Island"
         },
         {
+          "url": "http://datosabiertos.laspalmasgc.es/dataset/?id=callejero-municipal",
+          "title": "Portal de Datos Abiertos Las Palmas de Gran Canaria | Dataset | callejero-municipal"
+        },
+        {
           "url": "https://www.retsinformation.dk/eli/lta/2023/1510",
           "title": "Retsinformation"
+        },
+        {
+          "url": "https://cornwallpolice.com/fr/contact-us/repertoire-du-personnel",
+          "title": "Répertoire du personnel"
         },
         {
           "url": "https://www.texaslottery.com/export/sites/lottery/index.html",
@@ -146,16 +146,8 @@
           "title": "Coming Soon page"
         },
         {
-          "url": "https://events.microsoft.com/",
-          "title": "Ricerca Eventi Microsoft"
-        },
-        {
           "url": "https://mockuptree.com/free/awesome-paper-bag-mockup/",
           "title": "Free Awesome Paper Bag Mockup | Mockuptree"
-        },
-        {
-          "url": "https://help.github.com/en",
-          "title": "Sign in for Software Support and Product Help - GitHub Support"
         },
         {
           "url": "http://help.yahoo.com/help/us/mail/",
@@ -166,8 +158,16 @@
           "title": "Login"
         },
         {
+          "url": "https://events.microsoft.com/",
+          "title": "Ricerca Eventi Microsoft"
+        },
+        {
           "url": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.un.org%2Fsustainabledevelopment%2Foceans%2F",
           "title": "Share on WhatsApp"
+        },
+        {
+          "url": "https://help.github.com/en",
+          "title": "Sign in for Software Support and Product Help - GitHub Support"
         },
         {
           "url": "https://spire.com",
@@ -184,10 +184,6 @@
           "title": "Denver Fiber Internet | GFiber Webpass"
         },
         {
-          "url": "https://gaiconsultants.com/project-team-accepts-ftba-award/",
-          "title": "Project Team Accepts FTBA Award for Wonderwood Connector Project - GAI Consultants"
-        },
-        {
           "url": "https://howl.me/cjb33rDvIWj",
           "title": "Howl | Where Creators & Brands Link Up"
         },
@@ -200,12 +196,16 @@
           "title": "Notion"
         },
         {
+          "url": "https://omneresults.com/",
+          "title": "Omne: Let's Build Your Next Success"
+        },
+        {
           "url": "https://newsroom.ca.paypal-corp.com/home",
           "title": "PayPal Newsroom - Home"
         },
         {
-          "url": "https://omneresults.com/",
-          "title": "Omne: Let's Build Your Next Success"
+          "url": "https://gaiconsultants.com/project-team-accepts-ftba-award/",
+          "title": "Project Team Accepts FTBA Award for Wonderwood Connector Project - GAI Consultants"
         },
         {
           "url": "https://veteranjobsmission.com/",
@@ -222,20 +222,12 @@
           "title": "1lovec"
         },
         {
-          "url": "https://alisonbennett.net/2015/04/26/tinning/",
-          "title": "Tinning Street Gallery - Alison Bennett"
-        },
-        {
-          "url": "https://www.bonkerscorner.com/product-category/women/?utm_source=google&utm_medium=cpc&utm_campaign=brand-ad&gclid=CjwKCAiA7939BRBMEiwA-h",
-          "title": "Womens Clothing That Turns Heads: Shop the Latest Trends Now"
+          "url": "https://staceyleephotography.net/declan-millersville-maryland-childrens-photographer/",
+          "title": "Declan {Millersville, Maryland Children's Photographer} - StaceyLee Photography"
         },
         {
           "url": "https://furhaven.com/products/shop-pet-beds-snuggery-burrow-bed-faux-sheepskin",
           "title": "FurHaven | Snuggery Burrow Dog Bed - Faux Sheepskin"
-        },
-        {
-          "url": "https://www.glamour.com/gallery/taylor-swift-red-lipstick-shop",
-          "title": "Taylor Swift's Red Lipstick: Shop Her Favorite Shades | Glamour"
         },
         {
           "url": "http://hatikvahmusic.com/cgi-bin/details.pl?key=1166",
@@ -246,8 +238,16 @@
           "title": "Susanne Kaufmann Stretch Mark Oil | Space NK"
         },
         {
-          "url": "https://staceyleephotography.net/declan-millersville-maryland-childrens-photographer/",
-          "title": "Declan {Millersville, Maryland Children's Photographer} - StaceyLee Photography"
+          "url": "https://www.glamour.com/gallery/taylor-swift-red-lipstick-shop",
+          "title": "Taylor Swift's Red Lipstick: Shop Her Favorite Shades | Glamour"
+        },
+        {
+          "url": "https://alisonbennett.net/2015/04/26/tinning/",
+          "title": "Tinning Street Gallery - Alison Bennett"
+        },
+        {
+          "url": "https://www.bonkerscorner.com/product-category/women/?utm_source=google&utm_medium=cpc&utm_campaign=brand-ad&gclid=CjwKCAiA7939BRBMEiwA-h",
+          "title": "Womens Clothing That Turns Heads: Shop the Latest Trends Now"
         }
       ],
       "count": 8
@@ -264,16 +264,16 @@
           "title": "Despre masina - Cristian China-Birta"
         },
         {
-          "url": "https://elhablador.com/blog/tag/tadeo-palacios/",
-          "title": "Tadeo Palacios - Bitácora de El Hablador"
-        },
-        {
           "url": "https://mickeykilloran.tumblr.com/",
           "title": "Miss Killoran"
         },
         {
           "url": "https://madressinhijos.quieroconducirquierovivir.com/2014/11/",
           "title": "noviembre | 2014 | Madres sin Hijos"
+        },
+        {
+          "url": "https://elhablador.com/blog/tag/tadeo-palacios/",
+          "title": "Tadeo Palacios - Bitácora de El Hablador"
         },
         {
           "url": "https://vespeiro.com/2020/11/10/trump-biden-e-a-doenca-do-jornalismo/",
@@ -290,24 +290,24 @@
           "title": "Archived Event - USO Special Delivery presented by Johnson & Johnson: Baby Spritz - Naples - September 25, 2022"
         },
         {
-          "url": "https://www.care.org/our-work/health/fighting-gender-based-violence/tipping-point/",
-          "title": "Tipping Point - Identifying causes of child and early marriage - CARE"
-        },
-        {
           "url": "https://www.commondreams.org/news/2017/07/28/defeat-trumpcare-thank-disability-rights-activists-not-john-mccain",
           "title": "For Defeat of Trumpcare, Thank Disability Rights Activists, Not John McCain | Common Dreams"
-        },
-        {
-          "url": "https://www.dentistrytoday.com/partnership-to-support-emergency-dental-treatment-for-the-underserved/",
-          "title": "Partnership to Support Emergency Dental Treatment for the Underserved - Dentistry Today"
         },
         {
           "url": "https://www.gndr.org/",
           "title": "GNDR - Global Network of Civil Society Organisations for Disaster Reduction"
         },
         {
+          "url": "https://www.dentistrytoday.com/partnership-to-support-emergency-dental-treatment-for-the-underserved/",
+          "title": "Partnership to Support Emergency Dental Treatment for the Underserved - Dentistry Today"
+        },
+        {
           "url": "https://www.smartstarttransylvania.org/",
           "title": "Smart Start of Transylvania County"
+        },
+        {
+          "url": "https://www.care.org/our-work/health/fighting-gender-based-violence/tipping-point/",
+          "title": "Tipping Point - Identifying causes of child and early marriage - CARE"
         }
       ],
       "count": 6
@@ -320,10 +320,6 @@
           "title": "5 New COVID Cases, 1 New Death"
         },
         {
-          "url": "https://www.hiclub.bg/Article/10459036",
-          "title": "„Ню Йорк таймс\": Тесла създава „ефекта на сома\" в Китай | Хай Клуб"
-        },
-        {
           "url": "https://ipsnews.be",
           "title": "Home | Inter Press Service"
         },
@@ -334,20 +330,20 @@
         {
           "url": "https://deadline.com/2023/02/investigation-discovery-series-helps-free-innocent-man-from-prison-1235270636/",
           "title": "Investigation Discovery Series Helps Free Innocent Man From Prison"
+        },
+        {
+          "url": "https://www.hiclub.bg/Article/10459036",
+          "title": "„Ню Йорк таймс\": Тесла създава „ефекта на сома\" в Китай | Хай Клуб"
         }
       ],
       "count": 5
     },
     {
-      "name": "non-profit-foundations",
+      "name": "nonprofits-foundations",
       "bookmarks": [
         {
           "url": "https://www.altmanfoundation.org/",
           "title": "Altman Foundation"
-        },
-        {
-          "url": "https://www.cao-ombudsman.org/",
-          "title": "Office of the Compliance Advisor/Ombudsman"
         },
         {
           "url": "https://www.guidestar.org/profile/53-0196517",
@@ -356,6 +352,10 @@
         {
           "url": "http://oakfnd.org/",
           "title": "Oak Foundation - Through our grant-making, we support others to make the world a safer, fairer, and more sustainable place to live."
+        },
+        {
+          "url": "https://www.cao-ombudsman.org/",
+          "title": "Office of the Compliance Advisor/Ombudsman"
         }
       ],
       "count": 4
@@ -372,18 +372,18 @@
           "title": "Suki Waterhouse: \"I remember filming Love, Rosie fondly, suddenly I was on set with Lily Collins and Sam Claflin having the time of my life in Dublin\" | Hotpress"
         },
         {
-          "url": "https://www.primevideo.com",
-          "title": "Welcome to Prime Video"
-        },
-        {
           "url": "https://www.wetv.com",
           "title": "We TV | Watch TV Shows & Movies Online | Stream Current Episodes"
+        },
+        {
+          "url": "https://www.primevideo.com",
+          "title": "Welcome to Prime Video"
         }
       ],
       "count": 4
     },
     {
-      "name": "privacy-digital-security",
+      "name": "digital-privacy-security",
       "bookmarks": [
         {
           "url": "https://flymapslive.com/privacy",

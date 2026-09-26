@@ -1,19 +1,77 @@
 {
   "folders": [
     {
+      "name": "tech-software-tools",
+      "bookmarks": [
+        {
+          "url": "https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-201-100001",
+          "title": "Apple Card Application"
+        },
+        {
+          "url": "https://enterprise.microsoft.com/en-us/get-listed/",
+          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
+        },
+        {
+          "url": "https://go.chronicle.security/secop-community-guidelines",
+          "title": "Cloud Computing Services | Google Cloud"
+        },
+        {
+          "url": "https://www.insided.com/powered-by-the-insided-platform?utm_medium=referral&utm_source=community.c2cglobal.com&utm_content=powered-by-widget",
+          "title": "Community referrals - 'Powered by inSided' - inSided"
+        },
+        {
+          "url": "http://flightfuelcoffee.com",
+          "title": "DropCatch.com"
+        },
+        {
+          "url": "http://notifier.email.my/",
+          "title": "email notifier :: free email notification for GMail, POP3 and IMAP4 email accounts"
+        },
+        {
+          "url": "https://archiveprogram.github.com/",
+          "title": "GitHub Archive Program | Preserving open source software for future generations"
+        },
+        {
+          "url": "http://was1-vin.smokeping.ovh.net/smokeping?displaymode=n;start=2020-12-05%2006:29;end=now;target=APAC.AS19551",
+          "title": "OVHcloud.com latency grapher for AU Incapsula (AS19551 103.28.250.169)"
+        },
+        {
+          "url": "https://mailchimp.com/",
+          "title": "Piattaforma di email, automazione e marketing | Mailchimp"
+        },
+        {
+          "url": "https://reverseimagesear.ch/",
+          "title": "Reverse Image Search: Find similar images on Internet"
+        },
+        {
+          "url": "https://www.android.com/security/overview/",
+          "title": "Sicurezza Smartphone e Protezione Dispositivi Mobili | Android"
+        },
+        {
+          "url": "https://viewer.gutools.co.uk/world/costa-rica",
+          "title": "Sign in - Google Accounts"
+        },
+        {
+          "url": "https://store.steampowered.com/mobile",
+          "title": "Steam, The Ultimate Online Game Platform"
+        },
+        {
+          "url": "https://developer.github.com/changes/2018-05-24-user-migration-api/",
+          "title": "User Migration API public beta | GitHub Developer Guide"
+        }
+      ],
+      "count": 14
+    },
+    {
       "name": "news-current-events",
       "bookmarks": [
         {
-          "url": "https://rhrealitycheck.org/article/2014/08/28/black-gay-male-criminalization-case-michael-johnson/",
+          "url": "http://rhrealitycheck.org/article/2014/08/28/black-gay-male-criminalization-case-michael-johnson/",
           "title": "Black Gay Male Criminalization and the Case of Michael Johnson"
         },
         {
           "url": "https://www.aljazeera.com/climate-crisis/",
           "title": "Climate Crisis | Today's latest from Al Jazeera"
-        },
-        {
-          "url": "https://www.goodmorningamerica.com/living/story/couple-postponed-wedding-due-to-covid-dream-wedding-gma-77907727",
-          "title": "Couple who postponed wedding twice due to COVID get dream wedding on 'GMA' - Good Morning America"
         },
         {
           "url": "https://whyy.org/articles/philadelphia-employment-programs-gun-violence-prevention/",
@@ -56,69 +114,7 @@
           "title": "World News | Latest World News - NewsNow"
         }
       ],
-      "count": 13
-    },
-    {
-      "name": "tech-software-tools",
-      "bookmarks": [
-        {
-          "url": "https://www.android.com/security/overview/",
-          "title": "Sicurezza Smartphone e Protezione Dispositivi Mobili | Android"
-        },
-        {
-          "url": "https://wallet.apple.com/apple-card/setup/feature/ccs?referrer=cid%3Dapy-201-100001",
-          "title": "Apple Card Application"
-        },
-        {
-          "url": "https://enterprise.microsoft.com/en-us/get-listed/",
-          "title": "Build and sell your solutions- with the Microsoft AI Cloud Partner Program"
-        },
-        {
-          "url": "https://go.chronicle.security/secop-community-guidelines",
-          "title": "Cloud Computing Services | Google Cloud"
-        },
-        {
-          "url": "https://www.insided.com/powered-by-the-insided-platform?utm_medium=referral&utm_source=community.c2cglobal.com&utm_content=powered-by-widget",
-          "title": "Community referrals - 'Powered by inSided' - inSided"
-        },
-        {
-          "url": "http://flightfuelcoffee.com",
-          "title": "DropCatch.com"
-        },
-        {
-          "url": "http://notifier.email.my/",
-          "title": "email notifier :: free email notification for GMail, POP3 and IMAP4 email accounts"
-        },
-        {
-          "url": "https://archiveprogram.github.com/",
-          "title": "GitHub Archive Program | Preserving open source software for future generations"
-        },
-        {
-          "url": "https://developer.github.com/changes/2018-05-24-user-migration-api/",
-          "title": "User Migration API public beta | GitHub Developer Guide"
-        },
-        {
-          "url": "http://was1-vin.smokeping.ovh.net/smokeping?displaymode=n;start=2020-12-05%2006:29;end=now;target=APAC.AS19551",
-          "title": "OVHcloud.com latency grapher for AU Incapsula (AS19551 103.28.250.169)"
-        },
-        {
-          "url": "https://mailchimp.com/",
-          "title": "Piattaforma di email, automazione e marketing | Mailchimp"
-        },
-        {
-          "url": "https://reverseimagesear.ch/",
-          "title": "Reverse Image Search: Find similar images on Internet"
-        },
-        {
-          "url": "https://viewer.gutools.co.uk/world/costa-rica",
-          "title": "Sign in - Google Accounts"
-        },
-        {
-          "url": "https://store.steampowered.com/mobile",
-          "title": "Steam, The Ultimate Online Game Platform"
-        }
-      ],
-      "count": 14
+      "count": 12
     },
     {
       "name": "art-design-hobbies",
@@ -128,28 +124,16 @@
           "title": "All Knitting Patterns: Free + Paid Patterns | Purl Soho"
         },
         {
-          "url": "https://www.editionsfavre.com/livres/laventure-spindrift/",
-          "title": "L'aventure Spindrift - Éditions Favre"
-        },
-        {
           "url": "https://filemagazine.com/",
           "title": "FileMagazine.com: Unveiling Stories Through Captivating Imagery"
         },
         {
-          "url": "https://gisgames.tumblr.com/",
-          "title": "Last year geomatics student"
+          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
+          "title": "ginko taklampa | Trendspanarna.nu"
         },
         {
           "url": "https://madeinjeddah.net/tag/greeting/",
           "title": "Greeting | madeinjeddah"
-        },
-        {
-          "url": "https://www.somethingawful.com/news/handyman-home-repair/",
-          "title": "Say \"Handyman\" Three Times In A Mirror"
-        },
-        {
-          "url": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/",
-          "title": "Minor Arcana Tarot Card Meanings | Biddy Tarot"
         },
         {
           "url": "https://imkinsky.com/ergebnisse/111/530/1/63734",
@@ -160,12 +144,24 @@
           "title": "How to Crochet a Granny Square for Beginners | LoveCrafts"
         },
         {
+          "url": "https://www.editionsfavre.com/livres/laventure-spindrift/",
+          "title": "L'aventure Spindrift - Éditions Favre"
+        },
+        {
+          "url": "https://gisgames.tumblr.com/",
+          "title": "Last year geomatics student"
+        },
+        {
+          "url": "https://www.biddytarot.com/tarot-card-meanings/minor-arcana/",
+          "title": "Minor Arcana Tarot Card Meanings | Biddy Tarot"
+        },
+        {
           "url": "https://www.ravelry.com/designers/kiki-crochet-designs",
           "title": "Ravelry: Designs by Kiki Crochet Designs"
         },
         {
-          "url": "https://trendspanarna.nu/tag/ginko-taklampa/",
-          "title": "ginko taklampa | Trendspanarna.nu"
+          "url": "https://www.somethingawful.com/news/handyman-home-repair/",
+          "title": "Say \"Handyman\" Three Times In A Mirror"
         }
       ],
       "count": 11
@@ -186,20 +182,20 @@
           "title": "Comprehensive Job Training Programs for Young Adults | Year Up United"
         },
         {
-          "url": "https://downtownokc.com/micro-grants-2/",
-          "title": "Micro-Grants - Round #2 - Downtown OKC"
-        },
-        {
           "url": "https://www2.illinois.gov/epa/Pages/default.aspx",
           "title": "EPA"
+        },
+        {
+          "url": "https://homelinemn.org/",
+          "title": "Free Legal Help for Renters - HOME Line"
         },
         {
           "url": "http://www.freefrom.org/",
           "title": "FreeFrom - FreeFrom"
         },
         {
-          "url": "https://homelinemn.org/",
-          "title": "Free Legal Help for Renters - HOME Line"
+          "url": "https://downtownokc.com/micro-grants-2/",
+          "title": "Micro-Grants - Round #2 - Downtown OKC"
         },
         {
           "url": "https://mamesociety.org/event/72",
@@ -213,7 +209,7 @@
       "count": 9
     },
     {
-      "name": "ecommerce-shopping",
+      "name": "shopping-ecommerce",
       "bookmarks": [
         {
           "url": "https://www.artbazaar.com/publisher/art-101-usa/",
@@ -228,10 +224,6 @@
           "title": "Circ • Threading Together the Future of Circular Fashion"
         },
         {
-          "url": "https://www.paulaschoice.com/skin-balancing-invisible-finish-moisture-gel/340-3400.html?slfpid=3",
-          "title": "SKIN BALANCING Invisible Finish Moisture Gel | Paula's Choice"
-        },
-        {
           "url": "https://www.talbots.com/pearl-buckle-leather-belt/P224061522.html?cgid=new-arrivals&dwvar_P224061522_color=BLACK&dwvar_P224061522_sizeType=AC",
           "title": "Pearl Buckle Leather Belt | Talbots"
         },
@@ -240,12 +232,16 @@
           "title": "PESTELIV.COM | CIF"
         },
         {
-          "url": "https://www.ritter-schleifservice.de/warenkorb.html",
-          "title": "warenkorb - DIE SCHÄRFEREI RITTER"
+          "url": "https://www.paulaschoice.com/skin-balancing-invisible-finish-moisture-gel/340-3400.html?slfpid=3",
+          "title": "SKIN BALANCING Invisible Finish Moisture Gel | Paula's Choice"
         },
         {
           "url": "https://marketplace.walmart.com/?utm_source=Walmart.com&utm_medium=link&utm_campaign=footer",
           "title": "Walmart Marketplace - Walmart Marketplace"
+        },
+        {
+          "url": "https://www.ritter-schleifservice.de/warenkorb.html",
+          "title": "warenkorb - DIE SCHÄRFEREI RITTER"
         },
         {
           "url": "https://mercantile.wordpress.org/",
@@ -253,32 +249,6 @@
         }
       ],
       "count": 9
-    },
-    {
-      "name": "business-marketing-services",
-      "bookmarks": [
-        {
-          "url": "http://www.americanhelpdesk.com/",
-          "title": "Helpdesk Services, 24/7, Technical Support, Financial Help Desk, Medical"
-        },
-        {
-          "url": "https://www.angi.com/",
-          "title": "Angi (formerly Angie's List): Home Service Pros"
-        },
-        {
-          "url": "http://www.rcs.it/",
-          "title": "RCS MediaGroup"
-        },
-        {
-          "url": "https://www.scourby.com/contact/",
-          "title": "Contact Scourby Bible Media Now"
-        },
-        {
-          "url": "https://himera.eu/portfolio-abonament-opisaniya-sajt-parfyumi/",
-          "title": "Портфолио - Абонамент описания сайт парфюми"
-        }
-      ],
-      "count": 5
     },
     {
       "name": "history-legal-biographies",
@@ -311,8 +281,38 @@
       "count": 6
     },
     {
-      "name": "social-media-personal-blogs",
+      "name": "business-marketing-services",
       "bookmarks": [
+        {
+          "url": "https://www.angi.com/",
+          "title": "Angi (formerly Angie's List): Home Service Pros"
+        },
+        {
+          "url": "https://www.scourby.com/contact/",
+          "title": "Contact Scourby Bible Media Now"
+        },
+        {
+          "url": "http://www.americanhelpdesk.com/",
+          "title": "Helpdesk Services, 24/7, Technical Support, Financial Help Desk, Medical"
+        },
+        {
+          "url": "http://www.rcs.it/",
+          "title": "RCS MediaGroup"
+        },
+        {
+          "url": "https://himera.eu/portfolio-abonament-opisaniya-sajt-parfyumi/",
+          "title": "Портфолио - Абонамент описания сайт парфюми"
+        }
+      ],
+      "count": 5
+    },
+    {
+      "name": "personal-blogs-social-media",
+      "bookmarks": [
+        {
+          "url": "https://www.321chat.com/",
+          "title": "321 Chat - Free Chat Rooms for Everyone"
+        },
         {
           "url": "https://blaqplastik.tumblr.com/",
           "title": "@blaqplastik on Tumblr"
@@ -324,10 +324,6 @@
         {
           "url": "https://www.sevesteen.com/feeds/3240310945383736767/comments/default",
           "title": "Comments on sevesteen.com: Reasons to end the drug war, part 74"
-        },
-        {
-          "url": "https://www.321chat.com/",
-          "title": "321 Chat - Free Chat Rooms for Everyone"
         },
         {
           "url": "https://mgp770.tumblr.com/",
@@ -362,16 +358,16 @@
       "name": "education-resources",
       "bookmarks": [
         {
-          "url": "https://www.duo.nl/particulier/studiefinanciering/",
-          "title": "Studiefinanciering - DUO"
-        },
-        {
           "url": "http://www.hfs.psu.edu/",
           "title": "Home Page | LiveOn"
         },
         {
           "url": "http://kindness.sesamestreet.org",
           "title": "Sesame Street | Preschool Games, Videos, & Coloring Pages to Help Kids Grow Smarter, Stronger & Kinder"
+        },
+        {
+          "url": "https://www.duo.nl/particulier/studiefinanciering/",
+          "title": "Studiefinanciering - DUO"
         }
       ],
       "count": 3
@@ -416,12 +412,12 @@
       "name": "sports-statistics",
       "bookmarks": [
         {
-          "url": "https://www.footballcritic.com/",
-          "title": "FootballCritic - Form Index for Players & Teams."
-        },
-        {
           "url": "https://www.mlssoccer.com/standings/",
           "title": "Conference Standings | MLSsoccer.com"
+        },
+        {
+          "url": "https://www.footballcritic.com/",
+          "title": "FootballCritic - Form Index for Players & Teams."
         },
         {
           "url": "https://www.soccerstats.com/",

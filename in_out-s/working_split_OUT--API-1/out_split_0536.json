@@ -1,8 +1,16 @@
 {
   "folders": [
     {
-      "name": "organizations-non-profit",
+      "name": "nonprofit-organizations",
       "bookmarks": [
+        {
+          "url": "http://www.pacificcommunityventures.org/",
+          "title": "2030 Strategic Plan - Pacific Community Ventures"
+        },
+        {
+          "url": "https://www.gnof.org/contact-us/",
+          "title": "Contact Us | Greater New Orleans Foundation"
+        },
         {
           "url": "https://commonsensemedia.org/donate",
           "title": "Donate | Common Sense Media"
@@ -20,16 +28,8 @@
           "title": "Minnesota Homeownership Center"
         },
         {
-          "url": "http://www.pacificcommunityventures.org/",
-          "title": "2030 Strategic Plan - Pacific Community Ventures"
-        },
-        {
           "url": "https://www.phylliswheatley.org/",
           "title": "Phyllis Wheatley Community Center"
-        },
-        {
-          "url": "https://tennisforfree.com/",
-          "title": "Welcome to Tennis For Free - Tennis For Free"
         },
         {
           "url": "http://www.tuna-org.org",
@@ -40,16 +40,16 @@
           "title": "Understanding Alzheimer's: Bringing Light to the Disease"
         },
         {
-          "url": "https://www.ywca.org/about/",
-          "title": "Who We Are Landing - YWCA - YWCA"
-        },
-        {
-          "url": "https://www.gnof.org/contact-us/",
-          "title": "Contact Us | Greater New Orleans Foundation"
-        },
-        {
           "url": "https://register.uso.org/4111BMB7/5a3I8X3SFik",
           "title": "United Service Organizations, Inc ⋮ Events"
+        },
+        {
+          "url": "https://tennisforfree.com/",
+          "title": "Welcome to Tennis For Free - Tennis For Free"
+        },
+        {
+          "url": "https://www.ywca.org/about/",
+          "title": "Who We Are Landing - YWCA - YWCA"
         }
       ],
       "count": 12
@@ -57,6 +57,14 @@
     {
       "name": "business-corporate",
       "bookmarks": [
+        {
+          "url": "https://securustech.net/contact-us",
+          "title": "Contact Us - Securus Technologies"
+        },
+        {
+          "url": "http://www.jacobstrading.com/",
+          "title": "Jacobs Trading Company"
+        },
         {
           "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26336&siteid=5014#home",
           "title": "Job Search Welcome | Walgreens"
@@ -66,20 +74,12 @@
           "title": "Job Seekers | We Are Green Bay Jobs | Wisconsin - We Are Green Bay Jobs"
         },
         {
-          "url": "http://www.jacobstrading.com/",
-          "title": "Jacobs Trading Company"
-        },
-        {
           "url": "https://viacom.helpshift.com/hc/en/18-mtv/",
           "title": "MTV - Paramount Technical Support and Help Center"
         },
         {
           "url": "http://tecl-wood.com/",
           "title": "Official Site for TECL-WOOD Camouflage Patterns | TECL-WOOD®"
-        },
-        {
-          "url": "https://securustech.net/contact-us",
-          "title": "Contact Us - Securus Technologies"
         },
         {
           "url": "https://www.keyfactor.com/",
@@ -292,12 +292,12 @@
           "title": "Explorable - Think Outside The Box - Research, Experiments, Psychology, Self-Help"
         },
         {
-          "url": "https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell",
-          "title": "Homepage - The University of Washington Bothell"
-        },
-        {
           "url": "https://research.mines.edu/",
           "title": "Home - Research and Technology Transfer"
+        },
+        {
+          "url": "https://www.uwb.edu/?utm_source=quicklinks&utm_medium=click&utm_campaign=quicklinks&utm_term=uwbothell",
+          "title": "Homepage - The University of Washington Bothell"
         }
       ],
       "count": 4
@@ -435,24 +435,6 @@
       "count": 4
     },
     {
-      "name": "blogs-personal",
-      "bookmarks": [
-        {
-          "url": "https://q-lvck.tumblr.com/",
-          "title": "Daedroghneth"
-        },
-        {
-          "url": "https://stanislawrajmundburzynski.wordpress.com/tag/httpwww-wikipedia-orgwikiburzynski_clinic/",
-          "title": "\"http://www.wikipedia.org/wiki/Burzynski_Clinic\" | Didymus Judas Thomas' Hipocritical Oath Blog"
-        },
-        {
-          "url": "http://snyderemarks.com/the-eric-bransby-mural/",
-          "title": "The Eric Bransby Mural | snyderemarks.com"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "entertainment",
       "bookmarks": [
         {
@@ -474,16 +456,34 @@
       "name": "food-recipes",
       "bookmarks": [
         {
-          "url": "http://www.frasi.net/ricette/default.asp",
-          "title": "» 26.700 Ricette di cucina italiana"
-        },
-        {
           "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/USmenuspotter.html",
           "title": "McDonald's New Menu Item Spotter"
         },
         {
           "url": "http://www.moldrek.com/",
           "title": "Ricette di cucina italiane e regionali tutte gratis"
+        },
+        {
+          "url": "http://www.frasi.net/ricette/default.asp",
+          "title": "» 26.700 Ricette di cucina italiana"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "personal-blogs",
+      "bookmarks": [
+        {
+          "url": "https://stanislawrajmundburzynski.wordpress.com/tag/httpwww-wikipedia-orgwikiburzynski_clinic/",
+          "title": "\"http://www.wikipedia.org/wiki/Burzynski_Clinic\" | Didymus Judas Thomas' Hipocritical Oath Blog"
+        },
+        {
+          "url": "https://q-lvck.tumblr.com/",
+          "title": "Daedroghneth"
+        },
+        {
+          "url": "http://snyderemarks.com/the-eric-bransby-mural/",
+          "title": "The Eric Bransby Mural | snyderemarks.com"
         }
       ],
       "count": 3
