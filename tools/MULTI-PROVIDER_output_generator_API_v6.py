@@ -131,7 +131,7 @@ MAX_SINGLE_FOLDERS = 2
 MAX_DOUBLE_FOLDERS = 3
 MAX_FOLDER_SIZE = 30         # rules say ~20; beyond 30 the category is clearly too broad
 BOOKMARKS_PER_FOLDER = 8    # folder-count target given to the model
-MAX_CATCH_ALL_RATIO = 0.10   # misc/general/other folders: the rules forbid them, a little slack for odd links
+MAX_CATCH_ALL_RATIO = 0.30   # misc/general/other folders; the dataset builder is stricter (generation stays fast)
 CATCH_ALL_RE = re.compile(r"(^|-)(misc|miscellaneous|general|other|others|uncategorized|various|stuff|homepage|homepages)(-|$)")
 LANGUAGE_FOLDER_RE = re.compile(
     r"(^|-)(german|italian|french|spanish|polish|dutch|czech|russian|japanese|chinese|portuguese)"
@@ -834,8 +834,9 @@ def render_bookmarks(in_data):
 
 
 def build_prompt(in_data):
-    # The model answers with folder names and bookmark numbers only: about 5x fewer output tokens than
-    # URLs, and it cannot mistype one. The cleaner maps numbers back to URLs and restores titles.
+    # The teacher answers with URLs: writing each one keeps it attentive to every link (answering with numbers
+    # dropped DeepSeek from ~79% to ~18% accepted on 2026-09-27). The dataset builder turns URLs into the
+    # student's numbered answers. numbers_to_bookmarks still accepts numbered replies.
     # Models split small files into one folder per link unless given an explicit folder count
     n = len(in_data.get("data", []))
     target = max(1, round(n / BOOKMARKS_PER_FOLDER))

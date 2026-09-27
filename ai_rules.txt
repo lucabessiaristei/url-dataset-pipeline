@@ -13,10 +13,10 @@ One bookmark per line: {"id":1,"name":...,"url":...,"page":...,"desc":...,"text"
 1) OUTPUT FORMAT
 
 Reply with one minified JSON object and nothing else (no markdown, no comments):
-{"folders":[{"name":"<folder-slug>","items":[1,4,7]}]}
+{"folders":[{"name":"<folder-slug>","bookmarks":["<url>","<url>"]}]}
 
-- List each bookmark by its id number only.
-- Every id appears exactly once in the whole output: none missing, none repeated, none invented.
+- List each bookmark by its url, copied exactly as given (not its id, no other fields).
+- Every bookmark appears exactly once in the whole output: none missing, none repeated, none invented.
 - Order does not matter; counts and totals are not needed.
 
 2) HARD LIMITS (outputs that break them are discarded)
